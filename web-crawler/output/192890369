@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道简单的C语言程序作业：a1=1,a2=1,a(n)=a(n-1)+a(n-2).求n=100时a(n)的值。（注：n;n-i;n-2;均为a的下
+用while语句怎么写啊？刚学C语言。。谢谢谢谢谢谢O(∩_∩)O哈哈~
+<br /> while(i&lt，当然你也可以用unsigned long int来定义也可以，注意一点哦;=100)<br /> {<br />  a[i]=a[i-1]+a[i-2]，所以要用double来定义数组#include &lt;n&quot;<br /> a[1]=1，我已经通过vc的调试了;<br />  i++;<br />}<br />这个是你要的答案;<br /> int i=3;<br /> }<br /> printf(&quot,a[100]);<br />void main()<br />{ <br /> double a[101]={0};.0lf&#92，因为斐波那契数列第100项的值超过了int的表示范围;<br /> a[2]=1.h&gt;stdio;a100=%
+3
+none
+http://zhidao.baidu.com/question/192578574.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/100185932.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/531398983.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/487362756.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211314039.html?qbl=relate_question_4

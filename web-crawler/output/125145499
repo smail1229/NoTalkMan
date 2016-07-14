@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言输出如下图形怎么编程
+图形如下：<br />   *缉伐光和叱古癸汰含咯<br />  ***<br /> *****<br />*******
+#include&lt;stdio.h&gt;<br />void main()<br />{<br />int i,j;<br />for(i=1;i&lt;=4;i++)<br />{  for(i=1;j&lt;=4-i;j++)<br />     {printf(&quot; &quot;);}<br />   for(j=1;j&lt;=2*i-1;j++)<br />     {printf(&quot;*&缉伐光和叱古癸汰含咯quot;);}<br />   printf(&quot;&#92;n&quot;);<br />}<br />}
+0
+none
+http://zhidao.baidu.com/question/76003133.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89641253.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/5811930.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/557454100.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/210815239.html?qbl=relate_question_4

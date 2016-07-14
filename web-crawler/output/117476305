@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中continue 的用法？
+;k++!=0)continue.h&gt;<br />    printf(&quot# include &lt,s)!=0成立：<br />第一次循环;stdio，(k%2);10)，程序不就死循环了吗，k不变;<br />            s+=k,s=0，continue跳出本次循环？我的理解错在哪？<br />continue的作用是跳出本次循环;<br />        do<br /> {<br />     if((k%2)，<br />第二次循环k还是1……k&gt，进行下一次循环;<br />}<br />为什么这个程序最终输s＝0;<br /> }while(k&gt？<br />但为什么它只进行了第一次循环就输出s=0了;s=%d&#92;<br />main()<br />{<br /> int k=1。<br />我说说我对这个程序的理解;10不可能成立，k＝1;n&quot
+10)的意思是当k大于10时才进行下次循环，若不满足该条件则跳出循环;k++，程序会跳过循环体中未执行的语句;<br /> }while(k&gt，判断k&lt;10;10)do<br /> {<br />     if((k%2);<br />while(k&gt，所以第一次k=1continue语句执行!=0)continue;<br />            s+=k，然后进行判断环节，循环结束
+121
+none
+http://zhidao.baidu.com/question/14964942.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51272283.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91411785.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/167885400.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_4

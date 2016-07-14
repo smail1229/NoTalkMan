@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 见图 请问是不是三个if条件都成立才x等于1，还有第三个if括号里的语句是什么意思？
+none
+是的，三个if都要成立。<br />但是，第三个if 成立的条件是“非v1”==1，因为v1值为3，是非零数，订贰斥荷俪沽筹泰船骏那么非v1即为零。<br />所以第三个if不会成立。
+0
+none
+http://zhidao.baidu.com/question/239868017.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/65022381.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15208440.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/513601834.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/504788748.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，定义一个带参的宏实现两个数据的交换，并用测试程序进行测试。
+none
+#include&lt;stdio.h&gt;<br />#define swap(a,b) {int c;c=a;a=b;b=c;}<br />珐俯粹谎诔荷达捅惮拉int main()<br />{<br />	int a=1,b=2;<br />	swap(a,b);<br />	printf(&quot;a=%d b=%d&#92;n&quot;,a,b);<br />	return 0;<br />}
+1
+none
+http://zhidao.baidu.com/question/94743062.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54960260.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/77784113.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77130051.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/15087395.html?qbl=relate_question_4

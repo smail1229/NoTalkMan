@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中 int j=5; q=(++j)+(++j)+(++j); 的值为什么等于22？
+none
+<br />int main()<br />{<br />  int j=5：<br />  ++j在当前表达式“(++j)+(++j)+(++j)”计算前把j加1;<br />}<br />运行结果是 24;iostream&gt;q;<br /> return 0;&lt;<br />using namespace std;<br />  cout&lt; <br />  int q=(++j)+(++j)+(++j)#include &lt
+0
+none
+http://zhidao.baidu.com/question/243252249.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/521256189.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/510983832.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/200278944136587605.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/346699093.html?qbl=relate_question_4

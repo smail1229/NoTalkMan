@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计试题 求详细解 谢谢
+下面程序的运行结果是(  )。<br />#include &lt;stdio.h&gt;<br />main()<br />{ int y=10;<br /> do { y--;} while(--y);<br /> printf(&quot;%d&#92;n&quot;,y--);<br />}<br />A) -1      B) 1       C) 8      D) 0<br /><br />以下程序段的输出结果是(    ).<br />  main()<br />  { int i=5;<br />    for ( ;i&lt;=15; )<br />    { i++;<br />      if (i%4==0) printf(&quot;%d &quot;,i);<br />      else co穿矗扁匪壮睹憋色铂姬ntinue;}<br />  }<br />  A. 8 12 16      B. 8 12       C. 12 16        D.  8
+D A<br />自己试一试一下就知道了。<br />第一题当执行到<br />int y=10;<br /> do { y--;} //y=9;<br />while(--y);//y=8,判断是否为0<br />所以执行一次循环y就-2.<br />当y=0退出。<br />输出的是y穿矗扁匪壮睹憋色铂姬--。所以先输出，后自减，所以输出为0；<br /> <br />第二题<br />找出能被4整除的数。<br />现在关键问题是16输不输出。<br />当i=15时肯定要执行一次循环。<br />i++；//i=16<br />16%4==0成立，输出。<br />再判断i&lt;=15是否成立<br />所以16是输出的<br />A
+0
+none
+http://zhidao.baidu.com/question/541428925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/440508398.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/164862919.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/515831007.html?qbl=relate_question_4

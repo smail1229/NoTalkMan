@@ -1,0 +1,11 @@
+电脑/网络 编程语言 汇编语言 
+汇编语言的编程解答Z=|X-Y|
+DATA   SEGMENT<br />     X    DW    4<br />     Y    DW    6<br />     Z 憨互封就莩脚凤协脯茅   DW    ?<br />DATA    ENDS<br />CODE  SEGMENT<br />   ASSUME  CS:CODE,DS:DATA<br />START: MOV AX , DATA<br />       MOV  DS , AX<br />       MOV   AX , X<br />       SUB    AX , Y<br />       JGE   EXIT<br />       NEG   AX<br />   EXIT:     MOV  Z , AX<br />             MOV  AX , 4C00H<br />             INT   21H<br />CODE   ENDS<br />    END   START<br /> 这样子做输出结果为空，什么都没有输出。我知道要调用02号输出，可是怎么写呢。为什么？
+;; 程序修改补充如下：<br />       title Z =|X-Y| <br />CODE   SEGMENT   <br />       ASSUME  CS:CODE,DS:CODE<br />       X  EQU  04H<br />       Y  EQU  06H <br />       Z  DB   00H<br />       org  100h<br />START: MOV  AL , X<br />       SUB  AL , Y<br />       JGE  EXIT<br />       NEG  AL   <br />       MOV  Z , al<br />       mov  dl, Z    <br />   憨互封就莩脚凤协脯茅    add  dl,30h   ;;将Z值转为ASCII码<br />       mov  ah,2     ;;显示字符DOS中断调用功能号<br />       int  21h<br />EXIT:  MOV  AX , 4C00H<br />       INT  21H<br />CODE   ENDS<br />       END   START<br /><br />;;运行结果：显示 2
+0
+none
+http://zhidao.baidu.com/question/432724941.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/195127299.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/196588511.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/268490102.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/37850888.html?qbl=relate_question_4

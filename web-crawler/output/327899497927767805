@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中（n &#47;= 10）是什么意思啊?
+none
+ 这表达式其实可以换成这样的 n = n &#47n / 10;= 10
+3
+none
+http://zhidao.baidu.com/question/160383259.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/228631969.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/236545658.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1947116272338833828.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/228632313.html?qbl=relate_question_4

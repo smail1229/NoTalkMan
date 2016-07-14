@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言简单习题求详解
+ z;n&quot;<br />printf(%d&#92,aunion myun<br />{  <br /> struct<br />{   int  x; } u; a;<br />main()<br />{   a;<br />a; a;<br />int  k.z=6, y.y=5.u.x=4.u;.x).u.u;<br />} a.k=0
+u的值被k覆盖了。<br />在主程序中，你先给u赋值。<br />a的长度就是结构体u的长度，应该为6个字节（这是c语言）首先 你要了解什么是联合体。<br />根据联合体的特性。<br />而联合体的长度就是里面所有类型的最长的那个，而后又给k赋值。<br />就看你这个吧，<br />联合体的值只能是联合体内任何一个且只有一个变量类型的值。<br />明白了么，因为他们的地址是相同的？如果还不是很清楚的话
+2
+none
+http://zhidao.baidu.com/question/443687003.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/213842120.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/233252235.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/207908444.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1604083024992412267.html?qbl=relate_question_4

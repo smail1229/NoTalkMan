@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+求c语言中static的用法，什么时候定义要加上他啊？
+总是掌握不好static的用法，举些例子。谢谢如题。详细点
+。<br />&#8226，一个被声明为静态的变量在这一函数被调用过程中维持其值不变;。<br />&#8226。它是一个本地的全局变量; 在模块内（但在函数体外），关键字static有三个明显的作用，但不能被模块外其它函数访问。在C语言中，一个被声明为静态的变量可以被模块内所用函数访问。那就是;关键字static的作用是什么; 在函数体，一个被声明为静态的函数只可被这一模块内的其它函数调用; 在模块内，这个函数被限制在声明它的模块的本地范围内使用？<br />这个简单的问题很少有人能回答完全：<br />&#8226
+35
+none
+http://zhidao.baidu.com/question/174342702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/403720755.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/64734887.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87160252.html?qbl=relate_question_3

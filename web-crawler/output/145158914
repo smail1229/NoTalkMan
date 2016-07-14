@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序中，当调用函数时（）。
+none
+fail
+fail
+C<br />值传递时，实参和虚参各占一个独立的存储单元<br />地址传递时，实参和虚参可以共用存储单元<br />所以说当调用函数时可以由用户指定是否共用存储单元
+http://zhidao.baidu.com/question/97403105.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/535682509.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/101841113.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241803251.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/61202065.html?qbl=relate_question_4

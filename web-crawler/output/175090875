@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中a&gt;b&gt;c是什么意思
+none
+&gt，则为0<br />然后在比较这个结果（1或者0）和c的大小关系<br />也就是1&gt，则为1，若假，若假;c或者0&gt;b&gt，整个表达式返回1;b先<br />若真;c是否为真<br />若真;c<br />就是说判断a&gt
+4
+none
+http://zhidao.baidu.com/question/237022086.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/562807419.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1753841644305092308.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/210463507.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/199115805.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中括号运算符的问题
+(a+2，依据的原理是什么啊,b=a+5);%d，为什么呢;;n&quot!=c&&c==15)),c),(a&lt;<br />printf(&quot,b;n&quot!=c,b;n&quot;%d&#92,%d,c),a;<br />printf(&quot,b=3*a;<br />printf(&quot,%d&#92,c,b+1);,a;a);n&quot!=a),%d,a，发现都是去括号中大的数字;%d&#92,(,b?(a-1,%d&#92!(b;<br />printf(&quot;%d&#92,c);<br />c=(a=10;b;int a;;<br />c*=(a=b=1？,b&#47;=a)),c&gt;;<br />printf(&quot;<br /><br />运行完后,b;<br />c=a&gt;%d;b,b+2);n&quot
+哈哈，最后返回最右边的表达式的值，从左到右依次计算每个表达式的值，你这是一个逗号表达式。<br />它将以逗号为界。<br />阿明白
+25
+none
+http://zhidao.baidu.com/question/114853986.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/531965328.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143526640.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/172573880.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/127897253.html?qbl=relate_question_4

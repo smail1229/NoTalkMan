@@ -1,0 +1,11 @@
+社会民生 宗教 
+C语言问题？？？？这个语句在说什么我没看懂啊 ？？大神请开示？？？
+#include&lt;stdio.h&gt;<br />main()<br />{ int c;<br />  while ((c=getchar())!=&#39;&#92;n&#39;)<br />  {switch(c-&#39;2&#39;)<br />  {case 0:<br />   case 1:putchar(c+4);<br />   case 2:putchar(c+4);break;<br />   case 3:putchar(c+3);<br />   default:putchar(c+2);break;<br />  }<br />  }printf(&quot;&#92;n&quot;);<br />}<br /><br />输入2473 为什么会输出 668977<br />getcha俯恭碘枷鄢磺碉委冬莲r 输入 2473？？？ 怎么能输入呢？？？？不是只能采集字符吗？？？？
+他有while， 所以你输入2473等于循环了5次，每俯恭碘枷鄢磺碉委冬莲次分别c = &#39;2&#39;,&#39;4&#39;,&#39;7&#39;,&#39;3&#39;,&#39;&#92;n&#39;
+0
+none
+http://zhidao.baidu.com/question/513670687.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/450479552.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/450466027.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1987871977480183947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1987698580983103387.html?qbl=relate_question_4

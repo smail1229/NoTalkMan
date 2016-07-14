@@ -1,0 +1,11 @@
+电脑/网络 软件开发 数据结构及算法 
+C语言程序循环语句问题
+h&gt;math;n&quot.h&gt..,n1;21,s)，计算并输出下式的值;<br />	s=s+1;<br />	float s=0;<br />	while((n1)&gt,&eps);stdio;<br />		printf(&quot，输入一个正实数eps&#92;(a+4);<br />	scanf(&quot;s的值为%f&#92一个程序;<br />		s=s+n;(eps))<br />	{<br />		n=1*(-1)&#47.<br /><br />#include&lt;<br />void main()<br />{	<br />	int a=1;5+1&#47,n;);17-1&#47.;n&quot;<br />#include&lt;<br />	float eps;<br />	printf(&quot;输入的eps值为%f&#92;<br />	}<br />}<br /><br />高手帮我看看哪儿错了.;13+1&#47,eps);<br />	n1=abs(n);<br />		a=a+4;<br />	printf(&quot;;，直到最后一项的绝对值小于eps;%f&quot.;n&quot;<br />		n1=abs(n)。<br />s=1-1&#47;;为计算s的值;9-1&#47，输入一个正实数eps
+？;<br />你这里n一直没有赋值？<br />n究竟等于多少？？？？？n1=abs(n)？用来那么多次？
+0
+none
+http://zhidao.baidu.com/question/214495388.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/576522294.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/623656261992659684.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/177700284.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/413158255.html?qbl=relate_question_4

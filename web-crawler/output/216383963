@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计 请问 10 的 n 次方能用这样表示吗？
+none
+fail
+2
+1*10的n次方表示为1en。如1e-6表示1* 10^（-6），但要注意e后面只能给常量数字。不能给变量，const类型的变量也不行。当10的n次方n为变量时用pow函数（x的y次方表示为pow（x，y）； ），用这个函数要用到#include&lt;math.h&gt;这个头文件。 <br /><br />#include &lt;stdio.h&gt;<br />#include &lt;math.h&gt;<br />void main()<br />{<br /> const int x = 4;<br /> float a;int b;<br /> printf(&quot;想保留几位？?:&#92;n&quot;);<br /> scanf(&quot;%d&quot;,&b);<br /> printf(&quot;输入你要计算的数字 :&#92;n&quot;);<br /> scanf(&quot;%f&quot;,&a);<br /> a=a*pow(10,b);<br /> a=a+.5;<br /> a=(int)a;<br /> a=(float)a&#47;pow(10,b);<br /> printf(&quot;四舍五入=%f&#92;n&quot;,a);<br />}
+http://zhidao.baidu.com/question/171818936.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2116142789536842427.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/42536112.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/199002749.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/543641801.html?qbl=relate_question_4

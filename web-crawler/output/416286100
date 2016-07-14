@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题。 定义 char *name 那么name所指的那片区域是一个字节。这句话对吗？
+none
+错<br />它是一个起始地址<br />可以是N个字节
+0
+none
+http://zhidao.baidu.com/question/518739682893011085.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/177971175.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1238350383641159979.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/918032923517737339.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_4

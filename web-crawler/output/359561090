@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求分析：int a=0;if(a=1)a+=10:计算a值，请详尽分析！
+none
+int a = 0;/&#47畅场扳渡殖盗帮醛爆互;定义变量a并初始化为0<br />if (a = 1) //给a赋值1，赋值语句返回1，if条件成立<br />a += 10;//做运算 a+=10相当于 a = a+10 = 1+10 = 11;
+3
+none
+http://zhidao.baidu.com/question/184522154.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/559270862.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15805997.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/231452395.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/215445801.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 编写函数将数组a的n个元素倒置存放的程序，里面的return作用是什么？
+none
+但习惯上要写的话就直接return就好了，而且还要求返回的变量是int类型的，也就是说这里的return语句是必须的,意味着你的fun函数是需要返回一个int类型的值给调用它的函数，比如你的函数如果定义为int fun(void )return是函数返回语句。但返回值是void类型的函数return语句写与不写都可以，你不写或者直接return都会报错，因为不要求它返回值给调用的函数
+0
+none
+http://zhidao.baidu.com/question/454924064737655005.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/56476503.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/273299027.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1446969240156641060.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/125539888.html?qbl=relate_question_4

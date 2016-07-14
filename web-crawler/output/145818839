@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计一题
+每种换法中1分 2分 和5分的硬币各几枚。？ 编程。C语言编程帮我做个作业<br />设计一个程序 用一张一元票换1分 2分和5分的硬币（至少各一枚），问有几种换法
+n&quot;<br /><br />int main()<br />{<br />    int i,k);i++)<br />        for(j=1,i,sum=0;n&quot:%d&#92,sum,j;=(100-5*i-2*j):%d&#92,k;j++)<br />            for(k=1;:%d&#92;<br />    for(i=1;stdio,sum);<br />                    printf(&quot;i&lt.h&gt;=(100-5*i)/t2分;k++)<br />                if(5*i+j*2+k==100)<br />                {<br />                    sum++;2;k&lt;20;:&#92;j&lt.;换法%d.,j;t5分;总共有%d种换法&#92;<br />    return 0.;t1分#include &lt;<br />                    }<br />    printf(&quot;<br />    }<br /><br />换法种数 461 种
+2
+none
+http://zhidao.baidu.com/question/502095140.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/157384843.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/213950736.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/457949015.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/224460325.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言取整函数
+none
+）<br />  我是这样做的.38 （是这个意思吧。<br /><br />  假定A=21，不过这不要紧，能理解我的做法就行，C语言估计也是INT，取整函数是INT，要想得到 B=0.38<br />可以了吗：B=21.38.38-21=0： <br />      B=A-INT（A）<br />   也即在FOXPRO中
+36
+<p><a href="http://e.hiphotos.baidu.com/zhidao/pic/item/242dd42a2834349b575ea028ccea15ce37d3bec7.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://e.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=e0ea77c991eef01f4d4110c3d0ceb51d/242dd42a2834349b575ea028ccea15ce37d3bec7.jpg" esrc="http://e.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=79901b639c25bc312b08099c6befa187/242dd42a2834349b575ea028ccea15ce37d3bec7.jpg" /></a></p>
+http://zhidao.baidu.com/question/145887416.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/419927761.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/264178118494480205.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/283178546.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/338406008.html?qbl=relate_question_4

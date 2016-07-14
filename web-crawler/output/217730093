@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求C语言中的库函数的源代码 如printf()函数，我要它的源代码
+所有的库函数的源代码
+最好自己去看吧，给你看个最简单的但是估计你不自己去看库肯定不好明白<br /><br />int __cdecl printf (<br />        const char *format,<br />        ...<br />        )<br />/*<br /> * stdout &#39;PRINT&#39;, &#39;F&#39;ormatted<br /> */<br />{<br />        va_list arglist;<br />        int buffing;<br />        int retval;<br /><br />        va_start(arglist, format);<br /><br />        _ASSERTE(format != NULL);<br /><br />        _lock_str2(1, stdout);<br /><br />        buffing = _stbuf(stdout);<br /><br />        retval = _output(stdout,format,a订碃斥度俪道筹权船护rglist);<br /><br />        _ftbuf(buffing, stdout);<br /><br />        _unlock_str2(1, stdout);<br /><br />        return(retval);<br />}
+7
+none
+http://zhidao.baidu.com/question/23899742.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87054011.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/359896811444949132.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/439668946.html?qbl=relate_question_4

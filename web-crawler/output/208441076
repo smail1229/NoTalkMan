@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的试题，希望能给详细解答过程。谢谢帮助！
+则正确的输入是——————<br />A)m=123n=456p=789                B)m=123 n=456 p=789                           C)m=123;<br />}<br />若想从键盘上出入数据，使变量m中的值为123，p中的值为789，n中的值为456;,m,n;  <br />scanf(&quot;%d%d%d&#92,&m,p);<br />printf（&quot,n,&n;m=%dn=%dp=%d&quot;n&quot,p有以下程序 <br />main（） <br />{  int m,n=456;,&p)
+A
+0
+none
+http://zhidao.baidu.com/question/130956284.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/10383652.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1429854012861655579.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/287615483.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/219892337.html?qbl=relate_question_4

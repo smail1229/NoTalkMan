@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中自定义函数返回值的个数
+none
+stdio.x;<br /> return a.h&gt。<br /><br />#include&lt;<br /><br />tt A(int p。,y;<br />} <br />比如上面这个形式;<br />};<br /> a,int q)<br />{<br /> tt a;<br /> a;<br /> printf(&quot;n&quot.x=p,1).y=q;<br />}<br />int main()<br />{<br /> tt x=A(0;%d %d&#92;<br />  return 0;,x,x.y)这个你必须要结构体的;<br />struct tt{<br /> int x
+11
+在C中，正常情况下，我们只能从函数中返回一个值。但在有些情况下，我们需要从函数中返回多个值，此时使用数组或指针能够很好地完成这样的任务。这里是一<br />个示例，这个程序使用一个整型数组作为参数，并将数组元素的和与积返回给调用函数。下面是C代码，这是一种常见情况。下面给出实现技巧：<br /><br />1.   <br />#include<br /><br />2.   <br />#include<br /><br />3.    int*<br />Pool(int array[],int size) <br /><br />4.   <br />{ <br /><br />5.   <br />   int *x; <br /><br />6.   <br />   int i=0; <br /><br />7.   <br />   int<br />a[2]={0,1}; <br /><br />8.   <br />   for(i=0;i<br /><br />9.   <br />   { <br /><br />10. <br />     <br />a[0]+=array[i];                      <br />&#47;&#47; 存储数组元素值的和<br /><br />11. <br />     <br />a[1]*=array[i];                      <br />&#47;&#47; 存储数组元素值的积<br /><br />12.    <br />} <br /><br />13.     &#47;&#47;<br />将数组的基地址赋值给整型指针<br /><br />14.    <br />x=&a[0];  <br /><br />15.     &#47;&#47;<br />返回整个数组 <br /><br />16.    <br />return x; <br /><br />17.  } <br /><br />18. <br /><br />19.  int main() <br /><br />20.  { <br /><br />21.     int<br />a[]={1,2,3,4}; <br /><br />22.     int<br />*c; c = Pool(a,4); <br /><br />23.    <br />printf(&quot;Sum = %d&#92;nProduct = %d&#92;n&quot;,c[0],c[1]); <br /><br />24.    <br />getch(); <br /><br />25.    <br />return 0; <br /><br />26.  }<br /><br />这样，我们就知道如何使用数组和指针从C函数中返回多个值。在很多情况下你会发现这个技巧很有用。
+http://zhidao.baidu.com/question/278789701.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/285033474.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/345694329.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/409888433.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/8291158.html?qbl=relate_question_4

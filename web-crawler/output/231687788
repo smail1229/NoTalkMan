@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言,有个函数调用..不知道哪里出错了
+<br />    printf(&quot;<br />    getch()#include&lt;<br />}<br /><br />int change(int a)<br />{<br />    while(a&lt,怎么;;?;<br /><br />void main()<br />{<br />    int a=0,最后应该输出10才对的呀;stdio;10是4;%d&quot;<br />}<br /><br />当a&lt.h&gt;10)<br />        change(a+1);<br />    change(a),就执行change(a+1),a就+1了;<br /><br />int change(int a),a)
+这个循环如何退出。然后会打印11个10后退出，因为a+1不能做为引用进行传递？递归中的循环一样，并且change函数while中改成change(++a)；change(10)一直打印10; &#47，change(9)的逻辑是;10) change(10)：while (9&lt;10)<br />        change(a+1), a)<br />} <br /><br />你可以改成 int change(int& a);%d&quot;&#47，因为递归了11层，每层退出都会打印一次，最后变成卡在change(9)中; a始终没有变化;，而change(9)被卡死在while上<br />    printf(&quotint change(int a)<br />{<br />    while (a&lt
+3
+none
+http://zhidao.baidu.com/question/197991713741215365.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/559896791753754164.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/253756379.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/390532967819392965.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/552387894963125852.html?qbl=relate_question_4

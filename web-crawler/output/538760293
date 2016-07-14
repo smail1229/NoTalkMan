@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+求教c语言中switch 语句的详细用法
+求大神指点
+switch  是一个开关语句，和case配套使用， 和if else 判断语句差不多， switch  语句是用于多分支语句进行条件判断，比如：<br /><br />i++;<br />             switch  (i)<br />            {<br />                        case    1 :     P1 = 0xFE;     //i =1;  执行P1 = 0XFE; <br />                                            breK;      //执行完成后跳出<br />                        case    2 :     P1 = 0xFD;     //i =2;  执行P1 = 0XFD;<br />         订禒斥溉俪防筹狮船饯                                   break;<br />                        case    3 :     P1 = 0xFB;     //i =3;  执行P1 = 0XFB;<br />                                            break;<br />                        case    4 :     P1 = 0xF7      //i =4;  执行P1 = 0X7E;<br />                                            break;<br />                        ..........................................................................<br />                       <br />                         default:    break;     //如果i 不符合以上条件直接跳出不执行任何东西<br />            }<br /> <br />         建议你还是先把C语言看熟把，书上都写的很清楚。
+47
+none
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/81214969.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/216981914.html?qbl=relate_question_3

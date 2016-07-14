@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 利用指针实现求数组元素中的最大值和最小值
+none
+i&lt;<br />}<br /><br />如果规定要用指针的话那可以再定义两个中间指针变量应该可以解决   <br /><br />只能说这么多了   太晚了  要睡觉了～～   不然明天第一节课又没得上了  <br /><br />希望我的答案对你有帮助    嘿嘿；  这是p+1就变成了p  当计算机再进行循环至a[4]  也就是15时  就会有p=p+4;a[i])<br />*t=a[i]；  就是使p指向p+i所指向的内存  但需要注意  假设我输入的一组数是 9 10 8 5 15 4 2 3 11 1 当进行第一次循环后  p会指向p+1  既然是用p=p+i：<br /><br />for(i=1;N;<br />if(*t&gt;a[i]）<br />*p=a[i];i++)<br />{ <br />if(*p&lt；  而这时想对于刚开始时的指针p就已经不是指向你想要他指的那个数（也就是大的那个）了  此时的指针p与刚开始的比其实不是指向了p+4  而是指向了p+5  也就是4了<br />  所以程序出现了这般错误  <br /><br />要改正的话只要把后面那个for循环换成如下程序段就可以了这个乍一看没有错误  但我把你打程序抄近TC运行了一下  发现不是像你说的那样的错误  及时第一位是最大的也会输出错误  无论怎么  输出的第一位都是24940  最小的也有错误  最小有时会输出最大 <br /><br />后来仔细看了一下  发现你后面一个for循环里有大错误  if语句是进行比较   就第一个if来说   你把a[0]与a[1]先进行比较   这里你用的是p=p+i！
+28
+<p>可以通过定义一个指针变量来求数组元素中的最大值与最小值。</p><p>具体实现方法可以参考如下程序：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />void&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;double&nbsp;a[]&nbsp;=&nbsp;{3,&nbsp;4.2,&nbsp;4,&nbsp;5.3,&nbsp;1,&nbsp;0.4,&nbsp;5};<br />&nbsp;&nbsp;&nbsp;&nbsp;double&nbsp;*max=(double&nbsp;*)malloc(sizeof(double));&nbsp;&nbsp;//&nbsp;最大值指针<br />&nbsp;&nbsp;&nbsp;&nbsp;double&nbsp;*min=(double&nbsp;*)malloc(sizeof(double));&nbsp;&nbsp;//&nbsp;最小值指针<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;i;<br />&nbsp;&nbsp;&nbsp;&nbsp;*max&nbsp;=&nbsp;a[0];&nbsp;//&nbsp;初始化最大值<br />&nbsp;&nbsp;&nbsp;&nbsp;*min&nbsp;=&nbsp;a[0];&nbsp;//&nbsp;初始化最小值<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i=1;&nbsp;i&lt;7;&nbsp;i++)&nbsp;//&nbsp;7表示数组a的长度<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if(*max&lt;a[i])<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*max&nbsp;=&nbsp;a[i];&nbsp;&nbsp;//&nbsp;保存最大值<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if(*min&gt;a[i])<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*min&nbsp;=&nbsp;a[i];&nbsp;&nbsp;//&nbsp;保存最小值&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;}<br />}</pre>
+http://zhidao.baidu.com/question/100759739.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/142373997.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/34581230.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/272969578.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/27119584.html?qbl=relate_question_4

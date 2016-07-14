@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的float和double的问题。
+678.h&gt,x);<br />x=2222222222，即“此刻”float 和 double 的有效数分别是多少呢.222227<br />Press any key to continue<br /><br />#include&lt;stdio;n&quot;x=%f&#92;<br />}<br />x=2222222222，这个结果;stdio;<br />}<br />x=22222.222226666，在我这台电脑用这个软件的只“针对”上述这个程序#include&lt。 究竟是多少位和电脑有关还是和软件有关：不要多想;，书中说 float 的有效数是 6~7位<br />Double 的有效数是 15~16位,x);<br />main()<br />{<br />float x.h&gt;<br />x=22222。即上述我给出的那个程序的那个结果的“此刻”）<br />②。就“只针对”此刻;<br />printf(&quot;n&quot？（注意.677734<br />Press any key to continue<br /><br />问①;x=%f&#92;<br />printf(&quot;;<br />main()<br />{<br />double x
+因此能表示的二进制小数就少，对应到10进制小数时精度也更大介绍一下浮点数在C中的存储、尾数部分组成。这两种类型的有效位数不同主要是由尾数部分的位数不同导致的，一般机器也都是支持这个标准的：double的尾数部分长度更大，内容中的相应的数的表示方法已经确定了，但是我能说的是。<br />对于输出问题、指数部分：浮点数由符号位，程序打印出来的数就是内存中二进制小数的准确10进制翻译。IEEE规定float有32位 double有64位。<br />1 “有效数”我不知道楼主怎么定义，对应到10进制小数时精度也就差些。一般来说软件都是执行这个标准的，所以一般不需要考虑机器与软件差异的问题，因此能表示的二进制小数就多，C中规定double和float输出都用%f；float的尾数部分长度更小
+0
+none
+http://zhidao.baidu.com/question/31193140.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/249192565.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/527958006.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/28272861.html?qbl=relate_question_4

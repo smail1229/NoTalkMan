@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一C语言if语句程序，求用switch改写！！
+<br />   money=price*r*n.0;应付%f元钱&#92,&n,money;<br /> scanf(&quot;=n&lt;<br /> printf(&quot;请输入商品购买量和单价编程实现，n代表购买量;50))<br />   r=0;=10)&&(n&lt;50，打7折<br /><br />程序中变量r代表打折率：输入商品单价和购买量，price代表单价.h&gt,打8折<br />n&gt，但是老师让我用switch改写;<br />main()<br />{<br /> int n;=n&lt;<br />   printf(&quot，打九折<br />50&lt,&price)，求顾客应付的金额;<br /> else<br />  if((n&gt;<br /> if(n&lt.9;n&quot;%d%f&quot;=100;=50))<br />    r=0，我就不会了:&#92，请高手帮忙。<br />n&lt,r;<br />  else<br />   if<br />    ((n&lt.8;<br />   else<br />    r=0;10。<br /><br />目前我已经用if编写出来;n&quot;100.7！<br /><br />--------------------------------------------------------------------------------------<br />#include &lt;<br /> float price,不打折<br />10&lt，money代表应会金额;);stdio;10)<br />  r=1;,money);;100)&&(n&gt
+<br /> case 4;break:<br /> case 2;<br />main()<br />{<br /> int n;<br /> }<br />   money=price*r*n;break#include &lt,&n;<br /> float price:r=0;<br /> scanf(&quot;/应付%f元钱&#92.7;<br /> case 5;break;:<br /> case 3:<br /> case 7:r = 0;折扣<br /> printf(&quot;;stdio,r;<br /> discount = n&#47:<br /> case 9.8;<br /> int discount;n&quot,money;%d;<br />} <br />希望可以帮到你;n&quot:<br /> case 6;/);break,&price);<br />   printf(&quot:r=0.0;<br /> switch (discount)<br /> {<br /> case 0: r = 1;<br /> default;请输入商品购买量和单价,%f&quot:<br /> case 8.h&gt，如果还有问题百度HI联系我;10;<br /> case 1,money).9:&#92
+3
+none
+http://zhidao.baidu.com/question/48762485.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/61839047.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1430054905709742579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/458489876.html?qbl=relate_question_4

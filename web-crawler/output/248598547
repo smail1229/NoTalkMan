@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 定义函数
+谁来帮忙修改下;z&#39;=&#39!;<br />  else if (a==&#39;&&a&lt;=&#39;<br />}<br />目的是让程序统计出各个字符的数量<br />前提是统计部分要另外定义函数<br />不知道void statistics(char a;<br />void statistics(char a.一直出不了结果;<br /> <br /> printf(&quot; &#39;<br /> <br /> statistics(a;空格%d&#92;n&quot,char b[])<br />{<br /> int nzimu=0;,ndigit=0;<br />}<br />void main()<br />{<br /> char a;n&quot;数字%d&#92;)<br />   nzimu++,b[1]);b[1]=nzimu;a&#39;9&#39;||a&gt;<br />  else if (a&gt;&&a&lt,nspace=0;A&#39;字母%d&#92;其他字符%d&#92;0&#39;)<br /> {<br />  if (a&gt,nsign=0;b[2]=nsign.;<br />  else nsign++;<br /> printf(&quot.;;n&quot;<br /> while(a=getchar()!=&#39;n&quot,b[0]);&#92,b[3]),b);n&#39;&&a&lt;<br /> printf(&quot;=&#39,char b[]) 是不是定义错了,b[4];<br /> printf(&quot;=&#39;=&#39;Z&#39;)<br />   ndigit++;;=&#39;)<br />   nspace++;<br />  <br /> }<br /><br />b[0]=ndigit;b[3]=nspace.h&gt,b[2])#include&lt;;stdio
+&&a&lt;=&#39!=&#39;&&a&lt,b);Z&#39,b[3]),b[2]);0&#39;)<br />   nspace++;)<br />   ndigit++;)<br />   nzimu++;&#92;) /空格%d&#92;<br />  <br /> }<br /><br />b[0]=ndigit;A&#39;n&quot;字母%d&#92;<br /> while((a=getchar());;n&quot;/ &#39;,b[4];/<br /> <br /> statistics(a;/&#47,ndigit=0;<br /> printf(&quot;/<br />void statistics(char a;/||a&gt;=&#39;/b[1]=nzimu,b[1]);数字%d&#92;注意这里<br /> {<br />  if (a&gt;z&#39;!=的优先级高于=);stdio;&&a&lt;<br /> printf(&quot;n&quot;<br />  else if (a==&#39;b[2]=nsign;<br /> <br /> printf(&quot;其他字符%d&#92;b[3]=nspace;=&#39;/=&#39;a&#39,b[0]).h&gt;=&#39;<br /> printf(&quot：<br />/;n&quot,nspace=0;<br />}<br />void main()<br />{<br /> char a修改如下（;---------------------------------------------------------------------------<br /><br />#include&lt;=&#39;&#47,char b[])<br />{<br /> int nzimu=0;9&#39;<br />  else if (a&gt,nsign=0;<br />}<br />/n&#39;/<br />  else nsign++;&#47
+2
+none
+http://zhidao.baidu.com/question/751375527427201444.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/138376702.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/212689057.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/588331499.html?qbl=relate_question_3

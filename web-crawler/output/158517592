@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急！单片机流水灯延时函数，返回子函数问题。C语言，在线等待。
+void liushui(unchar a)&#47;&#47;流水灯程序<br />{<br /> int i, j;<br /> while(1) <br /> {<br />  a = a&lt;&lt;1;<br />  P1= a;<br />  for(i = 100; i &gt; 0; i--)旦抚测幌爻呵诧童超阔<br />  for(j = 500; j &gt; 0; j--);&#47;&#47;加一行<br /> }<br />} <br />这是流水灯程序，怎么让它return 返回子函数啊。  求教高手帮忙。我在FOR后面加了return 根本就不行。直接退回子函数了。C语言我是一点不会帮帮忙。
+#include&lt;reg52.h&gt;<br />#include&lt;intrins.h&gt;//使用循环左移需要的头文件<br />#define uint unsigned int<br />#define uchar unsigned char<br />void liushui(uchar a)//流水灯程序<br />{<br />a=0xfe; <br />int i, j,k=8;<br /> while(k--) <br /> {<br />  a = a&lt;&lt;1;//非循环左移，如果使用循环左移应这样写a=_crol_(a,1)<br />  P1= a;<br />  for(i = 100; i &gt; 0; i--)//延时程序外循环<br />      {<br />     for(j = 500; j &gt; 0; j--);//延时程序内循环<br />       }<br /> }<br />} <br /><br />检查了一会，发现时你的for循环外层没有加{}大括号。<br />a也没有赋初值0xfe,0xfe表示点亮1个灯，如果普通左移就是依次点亮剩下的灯，如果循环左移就是一次只点亮1个灯。另外你的wile(1)用得不对，这样进入了这个子程序就一直处于死循环状态，应该用wile(k--),这样就限定了循环次数为8次 <br />如果你想规定按特定的外部中断键退出子程序的话，可以这样，编写一个外部中断程序，当外部中断产生时在中断服务程序内立刻将k清零，这样中断返回子程序后立刻判断k值为0就立刻退出while循环，返回了主旦抚测幌爻呵诧童超阔程序。<br />如果你不是使用外部中断按键来退出子程序的话，那样比较复杂，首先要判断你的按键是哪一个按下，然后可以用switch语句判断某个按键按下后响应的操作，查询方式很慢，不说了，建议用中断方式。下面给你个中断服务程序,只有1条指令，就是将k值清零。<br />void extint0() interrupt 0<br />{<br /> k=0 ；<br />} <br />另外在主程序的初始化阶段要把外部中断打开，选用电平触发或者跳变沿触发方式随意，我这里选的跳变沿触发<br /><br />下面初始化程序段加在主程序开始<br />ea=1;//开总中断<br />ex0=1;//开外部中断0<br />it0=1;//下降沿触发
+9
+none
+http://zhidao.baidu.com/question/133709987.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143224465.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/410276511.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/196683988.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87012604.html?qbl=relate_question_4

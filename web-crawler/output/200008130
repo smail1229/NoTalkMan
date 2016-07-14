@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中  m行n列         a[i][j]位置为 （i*n+j+1）      什么意思?     详细解释一下
+none
+该是a[i][j+1]吧，如果0=&lt;j=&lt;n-1<br />（i*n+j+1）是指将矩阵a按行排列的顺序读取
+3
+none
+http://zhidao.baidu.com/question/190810828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/73701660.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/513088345.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95879472.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/117391726.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言输入一实数x和一整数n，求x+x^2+x^3+…+x^n的值。 谢谢
+none
+有疑问珐发粹菏诔孤达酞惮喀联系我<br /><br />#include &lt;stdio.h&gt;<br />void main()<br />{<br /> int n;<br /> double x,sum=0,temp=1;<br /> printf(&quot;输入x和n(以空格隔开):&quot;);<br /> scanf(&quot;%lf %d&quot;,&x,&n);<br /> while(n&gt;0)<br /> {<br />  temp*=x;<br />  sum+=temp;<br />  n--;<br /> }<br /> printf(&quot;sum=%lf&#92;n&quot;,sum);<br />}
+2
+none
+http://zhidao.baidu.com/question/355381487.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/398012310.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/243977900.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/356321146.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1110098210753014459.html?qbl=relate_question_4

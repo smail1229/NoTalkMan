@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言数组的问题 比如定义了一个数组a[7];那么a[0],a[1]与它什么关系，刚刚学习，请说详细一些。
+none
+4,7},2，因为访问下标从0开始的，比如a[7]是错误的,6,3;<br />a[0]就是1<br />a[1]就是2<br />但是要注意不能越界,5a[0]和a[1]是数组里面的元素比如说a[7]={1
+4
+none
+http://zhidao.baidu.com/question/147418121.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/109998097.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91608408.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/108732866.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126492996.html?qbl=relate_question_4

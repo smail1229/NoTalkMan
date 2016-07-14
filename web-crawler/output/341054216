@@ -1,0 +1,11 @@
+教育/科学 
+计算2的平方根、3的平方根、...、n的平方根之和怎么做啊C语言程序编辑很急
+none
+i&lt#include &lt,&n);;=n;<br />	scanf(&quot;%f&quot.h&gt?&quot;n=;<br />	return 0;<br /><br />int main(void)<br />{<br />	int n;<br />	printf(&quot,sum);<br />	printf(&quot;);<br />	int i;%d&quot;;<br />	double sum=0;<br />	for (i=2;++i)<br />		sum+=sqrt(i);stdio
+0
+none
+http://zhidao.baidu.com/question/91420145.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/201695500.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/166239395.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/536778082.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/177673383.html?qbl=relate_question_4

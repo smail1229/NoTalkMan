@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中scanf(“%s”,m)；m前面为什么不用加&？？
+none
+a，控制格式与后边的参数个数不匹配;;这里没有完整写出参数列表;<br /><br />这里的 a 对应的是 %d 是表示 以十进制整数形式输出a<br />这里的 b 对应的是 %f 是表示 以浮点数形式输出b<br />c对应的是 %s 是表示以字符串形式输出c<br /><br />scanf(&quot，最好写成<br />printf(&quot；<br />printf(&quotscanf(“%s”，还需要再输入一个浮点数;%d%f&quot,a,b); &#47,b;首先scanf这个函数是按照一定的输入格式从标准输入窗口获取数据，而此处的m 即是一个字符串变量名;或者 printf(&quot;;;%d%f&quot;&#47,c);&#47；因此无须再加取地址符&,a;%d%f%s&quot，并将其赋值给变量,b),m)，其本身就表示字符串m的首地址;<br />这里的a对应的是%d；&#47，只不过这个浮点数存放于缓冲区中,即必须输入一个十进制整数<br />输入一个整数后 这条语句并没有结束；这里%s 是指输入一个字符串;,&a)，并未赋值给指定变量;%d%f%s&quot
+22
+从这句话来看，其是从标准输入流中获取一个字符串，scanf的参数传递的是保存该字符串的首地址，显然无论是数组名m或者char指针m都可以表示这个首地址，所以不用加&。<br />scanf函数原型：    int scanf(const char *format,...);<br />功能：                    函数 scanf() 是从标准输入流stdio (标准输入设备，一般是键盘)中读内容的通用子程序，可以说明的格式读入多个字符，并保存在对应地址的变量中。<br />调用形式：             scanf(&quot;&lt;格式说明字符串&gt;&quot;，&lt;变量地址&gt;);<br />返回值说明：         返回成功赋值的数据项数，读到文件末尾出错时则返回EOF。<br />注意事项：            变量地址要求有效，并且与格式说明的次序一致
+http://zhidao.baidu.com/question/261672922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/217764818.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/523623586.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/550134908.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/118752053.html?qbl=relate_question_4

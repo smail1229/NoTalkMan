@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急！！C语言程序补充
+= 1)	<br />		return 0;<br />}<br /> void main()<br />{ int n;n%d is not a Prime Number”，其中自定义函数IsPrimeNumber用来判断一个整数是否为素数;math:”),&n)，主函数输入一个数; <br />	}<br />	return 1;n%d is a Prime Number”;<br />  else  printf(“&#92;<br />#include  &lt;<br />int IsPrimeNumber(int number)<br />{	int i,n);<br />  if(IsPrimeNumber(n))<br />     printf(“&#92;stdio.h&gt，输出是否为素数;<br />  scanf(“%d”,n);<br />	for (___①__)<br />	{	if (__②__)	<br />			return 0;<br />  printf(“Please input n.h&gt。<br />#include &lt完成程序;<br />	if (number &lt
+1   i = 2; i &lt;= sqrt(number); i++<br />2   number % i == 0
+0
+none
+http://zhidao.baidu.com/question/212596462.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/326932958267418685.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100570262.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98280916.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/158479618.html?qbl=relate_question_4

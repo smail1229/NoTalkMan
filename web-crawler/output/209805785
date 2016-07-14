@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有一个C语言题目：int a[10],*p=a,*q=a+9; 则在下列选项中。。。。
+求祥啦，不是说不能赋值的么：*q=a+9   是什么意思啊此处想问各位大神
+*q=a+9，就是定义一个指针，指向数组最后的那个地址
+1
+none
+http://zhidao.baidu.com/question/561140975.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/540770614.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/562042703.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424013429353561812.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/504841874.html?qbl=relate_question_4

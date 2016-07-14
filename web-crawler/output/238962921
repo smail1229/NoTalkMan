@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，为啥float类型的有效数字是7位，而double类型的是16位呢 这两种类型之间赋值时，是怎么赋的啊
+不懂本人菜鸟;_&lt。谢谢，各位大侠帮帮忙:-P%&gt。<br />最好能举个例子，刚接触这个
+IEEE 745
+1
+none
+http://zhidao.baidu.com/question/535364064.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/424035371481567252.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/31193140.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1637633030324767460.html?qbl=relate_question_4

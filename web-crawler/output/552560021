@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+在这个c语言函数中，char **Move为什么要使用双指针？
+//wenku.baidu.com/view/504b7dc32cc58bd63186bd2c.html" target="_blank">http.com/view/504b7dc32cc58bd63186bd2c.baidu://wenku<a href="http
+ char dirx,y表示其坐标, int *len)返回的是snake从函数char** Move(char **snake.<br /><br />snake在贪吃蛇中使用二位数组表示，每个元素使用x，而snake得定义就是char**，所以返回char**
+0
+none
+http://zhidao.baidu.com/question/149093767.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1881562315790369228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/263624550624855605.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127519540.html?qbl=relate_question_3

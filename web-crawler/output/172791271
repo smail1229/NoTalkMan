@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中x+=y,x-=y分别表示什么意思
+none
+x+=y 就相当于 x=x+y  其他的类似
+13
++=; -= 是复合的赋值运算符<br /><br />x += y;  等价于 x = x + y;<br />x  -= y;  等价于x = x - y；<br />C语言采用复合运算符 一是简化程序。二是为了提高编译效率，能产生质量较高的目标代码
+http://zhidao.baidu.com/question/185241069.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/177518892.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/214419258.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98825151.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/260285394.html?qbl=relate_question_4

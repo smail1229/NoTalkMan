@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+简单C语言程序求解释。
+<br /> p=a,%d]=%d&#92;<br /> int (*p)[4],7;<br />int main()<br />{<br /> int a[3][4]={1;;<br />}<br />书上说指针变量p包含4个整型元素的一维数组,11:&quot,13,j,15,9,19,i.h&gt,&i;<br /> printf(&quot;a[%d,23},3;;<br /> scanf(&quot;<br /> printf(&quot,%d&quot;please enter row and colum;);%d,&j),5,21,*(*(p+i)+j));stdio，我想知道这样做的目的是什么？给p包含3个整型一维数组行不行？还有请介绍一下*(*(p+i)+j是什么意思,i#include&lt,j;<br /> return 0;n&quot,17，尽量详细点
+后面再加个j就是a[i][j]的地址，*（*（p+i）+j）中p+i表示a这个数组第i行的地址，如果给p包含3个整型一维数组的话，p+i表示的就不是a的第i行的地址了这么定义p是为了让它与a的列数一致，再加个*就是取a[i][j]的值了<br />再回到第一个问题，也就是a[i][0]的地址，*（p+i）表示的是a数组第i行的首地址
+0
+none
+http://zhidao.baidu.com/question/116772177.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40417987.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/50087572.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/157707004.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/156399429.html?qbl=relate_question_4

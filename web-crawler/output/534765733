@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，定义一个布尔型变量如何用，为什么我用bool定义会报错？
+none
+宏定义布尔类型<br />#define BOOL int<br />#define TRUE 1<br />#define FALSE 0<br />/&#47，所以C语言判断真假时以0为假　在C语言标准(C89)没有定义布尔类型。所以我们通常使用逻辑变量的做法;/定义一个布尔变量<br />BOOL flag = FALSE，非0为真：<br /><br />&#47
+19
+C语言中并没有bool类型变量。这是C++中新增的系统类型。<br />要在C语言中使用bool类型，可以使用自定义的方式。<br />1 使用整型做bool类型。<br />typedef int bool;<br />或<br />typedef unsigned char bool;<br />只要是整型，都可以当做bool使用。<br />2 使用枚举类型做bool类型。<br />typedef enum<br />{<br />    false,<br /><br />    true<br /><br />}bool;<br />实际应用中，枚举类型较为普遍。
+http://zhidao.baidu.com/question/278197233.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/22851471.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/513914840.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/142268760.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/191316298.html?qbl=relate_question_4

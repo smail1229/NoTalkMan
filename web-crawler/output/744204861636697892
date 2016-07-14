@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言printf(&quot;%d%d%d&#92;n&quot;,&#39;&#92;0&#39;,&#39;&#92;0&#39;,&#39;&#92;0&#39;);请问输出的是什么呀？
+none
+&#92;的ascii码值，字符&#39000<br />这句printf的作用是按%d格式输出字符&#39;&#92;的ascii码值为0;0&#39;0&#39
+2
+none
+http://zhidao.baidu.com/question/134025543.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/172630271.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49985552.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/446658936.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/479158365.html?qbl=relate_question_4

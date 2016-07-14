@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言的for循环理解 。
+#include &lt;stdio.h&gt;<br />int main(void)<br />{<br /> int n;<br /> int i,j;<br /> printf(&quot;Please put n: &quot;);<br /> scanf(&quot;%d&quot;, &n);<br /> for(i=1; i&lt;=n+1; i++)  （1）<br /> {<br />       for(j=i; j&lt;=n; j++)  （2）<br />     {<br />         printf(&quot; &quot;);<br />     }<br /> 供甫垛晃艹浩讹彤番廓     for(j=1; j&lt;=2 * i -1; j++)  （3）<br />     {<br />       printf(&quot;#&quot;);<br />     }<br />        printf(&quot;&#92;n&quot;);   （4）<br /> }<br /> <br />以上，我自己的理解为：先判断（1），然后循环输出（2）直到 j &gt; n，然后循环输出（3），最后在输出（4）。 接着回到（1）继续判断。 最后，直到 i &gt; n 时，循环结束。<br />刚学习C没多久。这几天被for的三循环搞得头昏脑胀，好像今晚突然开窍了，不知道我上面的理解是否正确 ？？<br />各位老师要是还有更简单的理解方法的话希望可以说出来，说实话现在还是有点晕晕的 ！<br />小白谢谢各位老师了 10分献上 ！！
+理解的对着呢，循环的话这样子理解是没有问题的。
+0
+none
+http://zhidao.baidu.com/question/348236894.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/152711258.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/204343337.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/104747560.html?qbl=relate_question_3

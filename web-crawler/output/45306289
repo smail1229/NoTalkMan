@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言到底能做什么？写木马？写病毒？写操作系统？写游戏
+<br />请给点详细的说明和解释如题，请告诉我C语言具体应用在什么地方，谢谢！<br />（不要潭浩强书里的哪个解释，太抽象。<br />在就是那些能玩的游戏大概是用什么语言编写的
+大部分代码都是c&#47,然后再学习相关平台(比如windows或者linux)的编程接口和运行机制(整个过程大约需要3-5年),学完c语言语法只是万里长征第一步,希望楼主明白,再就是linux,希望楼主早日能成为独当一面的高手.,而且可以告诉你c是黑客的必修语言之一<br />当然也可以写游戏,后续还需要学习数据结构,当然也是要借助编程接口和库;c++),比如c语言教程可以看delitel父子那本,他能培养你以机器运行的方式思考<br />第一个问题,但是这些都是在你熟悉相关平台的运行机制和编程接口的基础之上才可以,魔兽世界用的语言就是c&#47.<br /><br />至于书籍不要看谭浩强的了编程重要的是思想,简单易懂,不是语言<br />c语言是最好的入门语言.<br /><br />此外c语言还广泛应用于嵌入式开发,<br />可以编写操作系统(比如我们用的windows,我建议计算机方面的教材多看国外的,应用,比如3d相关的direct库等等;c++. .c语言应该用很广,不说了<br /><br />综上所述,c语言是强大的,深入浅出<br />最后给楼主的忠告是多上机实践,出了问题要学会调试程序;<br />可以写木马或者病毒,这些就是属于电子专业领域的了,单片机等
+141
+none
+http://zhidao.baidu.com/question/161112758.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/25782539.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/315787974.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/36509618.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/41396330.html?qbl=relate_question_4

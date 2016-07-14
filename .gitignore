@@ -2,5 +2,4 @@
 /web-crawler/src/*.pyc
 /web-crawler/src/question_out
 /web-crawler/src/question.py
-/web-crawler/output
 /web-crawler/output_c

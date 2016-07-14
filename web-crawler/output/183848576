@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+求解二级C语言题，希望大家能帮帮忙，马上要考二级了，谢谢！
+<br />P=d++;%d&quot.h&gt;<br />fun(a)，希望大家能帮小妹一把?为什么呀;,p),那p不是应该等于3吗，详细的解答一下过程？函数的调用中a的值又怎么用了呢;      <br />void  fun(int p) <br />{int d=2！;%d&#92;<br />Printf(&quot;<br />Printf(&quot;？p=d++！;n&quot;}<br />程序运行后的结果是，谢谢啦;}<br />Main()<br />{int a=1,a)？这些都很疑惑有以下程序？<br />应该是先输出a还是p,d=2：#include&lt;stdio
+p=d++  含义是先使用d，之后d的再加1， 所以 输出p是应该等于2 <br /><br />若改为p=++d   则输出p是应该等于3
+1
+none
+http://zhidao.baidu.com/question/183908510.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/353095244.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/255887041.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1429313244898908899.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求1!+2!+3!+4!+5!+6!+7!+8!+9!+10!的值,用C语言编写程序!求代码!
+<br />    sum=0;j&lt;j++) {factorial=factorial*j;n&quot;=i,j;<br />    factorial=1;sum=%d&#92;stdio;i&lt;<br />}<br />我的这段代码错在哪里呢,factorial.h&gt;}<br />      sum=sum+factorial;=10;i++)<br />    {<br />      for(j=1,sum);<br />    }<br />    printf(&quot;<br />main()<br />{<br />    long int i#include&lt;<br />    for(i=1;,sum
+加一句在这句：factorial=1<br />factorial应该重新赋值：sum=sum+factorial
+3
+none
+http://zhidao.baidu.com/question/512498202.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/623459195306850924.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/561140975.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/551329148.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/210863509.html?qbl=relate_question_4

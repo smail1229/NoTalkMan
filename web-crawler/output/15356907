@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言用do-while遇到死循环了
+请选择功能：&quot;<br />scanf(&quot;);%d&quot;,为什么会这样;<br />}while(!(function &gt;= 1 && function &lt;=5))请问大虾米们;<br />do<br />{<br />printf(&quot?<br />int function,&function)
+<br />你肯定想让循环过程靠输入的值控制?不记得了1,你起的function应该是个变量吧,可是计算机每次判断的时候没有参考数值啊,我建议你多填写一个变量?!<br />最好还是改改好,把输入的数值再赋给这个变量,而循环用这个变量控制就行了,这样可能会好点吧?!<br />再者,但是这个不知道是不是c语言的关键字呢我觉得这个程序的执行过程跟你想的可能完全不一样啊
+1
+none
+http://zhidao.baidu.com/question/215134745.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/345849508.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/267772946.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/151104530.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/251792220.html?qbl=relate_question_4

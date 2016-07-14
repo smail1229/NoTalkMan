@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言新手 下面程序一步一步解释下
+#include&lt;stdio.h&gt;<br />main()<br />{<br />int a=5,b=6,c=7,d=8,m=2,n=2;<br /><br />(m=a&gt;b)&&(n=c&gt;b);<br /><br />printf(&quot;%d&#92;缉护光咎叱侥癸鞋含猫n&quot;,n);<br />}
+m=a&gt;缉护光咎叱侥癸鞋含猫b，因为5&gt;6为假所以m=0,又因为是&&逻辑与运算，前面为假后面就不执行了，所以n=c&gt;b这个不执行，所以n任然是2不变，请采纳
+0
+none
+http://zhidao.baidu.com/question/367124690.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/374671474.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/372493790.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/366909997.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/368083714.html?qbl=relate_question_4

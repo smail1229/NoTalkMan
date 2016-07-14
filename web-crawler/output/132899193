@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言选择题，最好能有解释
+设static int a[3]={1,2,3};int*p[]={&a[0],&a<br /><br />[1],&a[2]};则与数组元素a[1]等价的是（）<br />A *p[1]  B p[1]  C订穿斥费俪渡筹杀船辑 *p+1  D p+1
+选择A答案，第二个数组里面存的是第一个数组的地址，所以p[1]就是a[1]订穿斥费俪渡筹杀船辑的地址，*p[1]当然也就是a[1]了。
+0
+none
+http://zhidao.baidu.com/question/193352439.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/511256610.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/583544742340614085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/43158438.html?qbl=relate_question_3

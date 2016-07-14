@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if语句如何执行
+比如if(条件1)<br />      if(条件2)<br />        if(条件3)<br />     printf()<br />怎么执行的
+<br />如果条件2成立，直接执行printf()的下一句，执行if(条件3) ，2；<br />如果条件3成立，执行printf() ；<br /><br />如果1，3都不成立如果条件1成立，执行if(条件2) 
+1
+none
+http://zhidao.baidu.com/question/170466381.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/86778217.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/123984842.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/623364683426515524.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/102514008.html?qbl=relate_question_4

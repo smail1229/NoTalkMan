@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言输出printf里面%*d是什么意思？
+none
+/%*d&quot;输出为.<br />printf（&quot.<br />其实也就是*的替换功能了;/;%*d&quot;&#47,123);:<br />printf(&quot,且为默认的右对齐,2,替换之后具体怎么输出的规则就和宽度控制的规则一样了.<br />举个例子.<br />欢迎交流,1,a:123,b）;输出应为[7的空格][123],因为123位数超过2,正是由于*的替换功能结合%md的宽度控制.<br />printf(&quot,即相当于%12d输出的效果;其中a作为b的输出宽度控制;;&#47楼主好像已经知道了这个问题的答案了吧;%*2d&quot,123),相当于%2d输出的效果,故原样输出
+7
+<p>在printf可以这样理解*被替换成printf(&quot;%*d&quot;,number,var);中的number，然后按照printf(&quot;%number d&quot;10);来格式化输出数据，看代码：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />void&nbsp;main()<br />{<br />	printf(&quot;000000123450000000\n&quot;);<br />	printf(&quot;1=%d,2=%*d,3=%d\n&quot;,1,5,3,3);<br />	return;<br />}</pre><p></p><p><a href="http://a.hiphotos.baidu.com/zhidao/pic/item/fd039245d688d43f0f8ee57c7b1ed21b0ef43b1c.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://a.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=be609b0a4ced2e73fcbc8e2ab7318db3/fd039245d688d43f0f8ee57c7b1ed21b0ef43b1c.jpg" esrc="http://a.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=3b06c6bfa78b87d65017a31b3238040e/fd039245d688d43f0f8ee57c7b1ed21b0ef43b1c.jpg" /></a></p><p>从图中可以看出输出 了5个空格。<br /></p><p>补充：在scanf中其表示忽略该输入</p>
+http://zhidao.baidu.com/question/134025543.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/479158365.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/387069551.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49985552.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/500910951.html?qbl=relate_question_4

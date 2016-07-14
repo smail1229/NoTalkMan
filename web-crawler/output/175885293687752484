@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问C语言中如何将int转换为float
+none
+这个程序没问题啊，sum2输出是浮点型啊
+1
+把int a；转换为float类型有两种办法：<br />1、手动强制转换：  float b = (float)a; &#47;&#47;强制转换<br />2、自动转换，基本上所有语言都是会在混合运算时自动强转为统一数据类型，统一为最高精度的，所以  a*1.0 或  a&#47;1.0就可以：<br />float b = a*1.0; &#47;&#47;自动转换
+http://zhidao.baidu.com/question/53222405.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/283449617.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/312755708.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1881732974687613228.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/139467508.html?qbl=relate_question_4

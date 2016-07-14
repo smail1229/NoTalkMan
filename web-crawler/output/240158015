@@ -1,0 +1,11 @@
+教育/科学 职业教育 
+计算机C语言考试的一个题目求解释
+none
+<br />由 char x[]=&quot;0&#39;<br />所以第一个字符就是结束符;&#92;STRING&quot;; 0就是&#39; 可以看出程序在一开始就分配了 7个字节给数组x <br /><br />strlen(x)是求字符串x的长度，因为x[0]=0sizeof(x)是求数组x所占空间
+0
+none
+http://zhidao.baidu.com/question/439063113.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/383478014.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/390058369170540445.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/207440530.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/646703339939313325.html?qbl=relate_question_4

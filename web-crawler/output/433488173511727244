@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用牛顿迭代法（c语言）求函数f(x)= a*pow(x,i)+b*pow(x,j)+c*pow(x,k)+d 的实根
+运行这个程序出现“1 error(s), 0 warning(s)”，应该怎么修改呢？求高手指教：<br />#include&lt;stdio.h&gt;   &#47;*用牛顿迭代法求函数f(x)= a*pow(x,i)+b*pow(x,j)+c*pow(x,k)+d 的实根，<br /><br />其中（a,i b,j c,k d）分别对应（1,5 -2,2 0,0 4）,即f(x)=pow(x,5)-2*x*x+4=0 .<br />且要满足精度|x1-x|&lt;=p=1e-6=0.000001。*&#47;<br />#include&lt;math.h&gt;<br />main()<br />{<br />	double a,i,b,j,c,k,d;<br />	double p,x,x1;<br />	int n;<br /><br />	double f缉尝光妒叱德癸泉含沪(x)<br />	{<br />		return a*pow(x,i)+b*pow(x,j)+c*pow(x,k)+d;<br />	}<br />	<br />	double f1(x)<br />	{<br />		a=a*i;b=b*j;c=c*k;i--;j--;k--;d=0;<br />	if(i&lt;0) a=0;if(j&lt;0) b=0;if(k&lt;0) c=0;<br />	return a*pow(x,i)+b*pow(x,j)+c*pow(x,k)+d;<br />	}<br /><br />	printf(&quot;&#92;n函数格式为f=a*pow(x,i)+b*pow(x,j)+c*pow(x,k)+d，请输入函数参数（a,i b,j c,k d）： &#92;n&quot;);<br />	scanf(&quot;%lf%*c%lf%*c%lf%*c%lf%*c%lf%*c%lf%*c%lf%&quot;,&a,&i,&b,&j,&c,&k,&d);<br />	printf(&quot;&#92;n输入一个初始近似值：&quot;);scanf(&quot;%lf&quot;,&x);<br />	printf(&quot;&#92;t迭代要求的精度：&quot;);scanf(&quot;%lf&quot;,&p);printf(&quot;&#92;n计算结果如下（迭代次数，近似解）：&#92;n&quot;);<br /><br />for(n=1;fabs(x1-x)&gt;=p;n++)<br />	{<br />		x1=x-f(x)&#47;f1(x); x=x1;f(x)=f1(x); f1(x)=f1(x1);<br />	printf(&quot; (%d,%lf)&quot;,n,x1);<br />	}<br /><br />	printf(&quot;&#92;n解得方程的根为 %lf &#92;n&quot;,x1);<br /><br />}
+C语言的函数定义是不能嵌套的。<br /><br />楼主的代码main里面还定义了f和f1函数，缉尝光妒叱德癸泉含沪这个是不符合C语言的语法的。<br /><br />还有f(x)=f1(x)，这是什么语法？
+0
+none
+http://zhidao.baidu.com/question/100041511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/146447626.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/97663831.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/26776768.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/236938380.html?qbl=relate_question_4

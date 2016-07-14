@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言里有哪些注释方法
+none
+fail
+24
+第一种：<br />我是代码1<br />&#47;&#47; 我是注释1<br />我是代码2<br /><br />第二种：<br />我是代码1<br />&#47;* 我是注释1<br /> 我是注释2<br /> 我是注释3<br />*&#47;<br />我是代码2<br /><br />第三种：<br />我是代码1<br />#if 0<br />我是注释1<br /> 我是注释2<br /> 我是注释3<br />#endif<br />我是代码2<br /><br />组合1：<br />#if 0<br />&#47;*<br /> 我是注释<br />*&#47;<br />#endif<br /><br />组合2：<br />&#47;*<br />&#47;&#47;我是注释<br />*&#47;<br /><br />错误1<br />&#47;*<br />&#47;*<br />编译器晕了<br />*&#47;<br />*&#47;<br /><br />错误2<br />&#47;&#47;*<br />编译器: Help<br />*&#47;<br /><br />还有要多，自己慢慢思考吧。都说出来稿纸不够.
+http://zhidao.baidu.com/question/122364128.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/44955840.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41176046.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/25935666.html?qbl=relate_question_3

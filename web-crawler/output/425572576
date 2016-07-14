@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中if（n）什么意思？ return n（或return 1）呢？？？ 尽快，谢谢！！！
+none
+那么就输出A<br /><br />return n，比如<br />if(n) printf(&quot;<br />如果n==0;A&quot，比如<br />int function(){<br />    int n=5，那么就输出B<br />如果n;););<br />else printf(&quot;B&quotif(n) 就是判断n是否为0;是函数返回值;<br />}<br />那么这个函数就会返回一个整数5<br />return 1;<br />    return n!=0
+5
+none
+http://zhidao.baidu.com/question/59813178.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/265311101.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/421312782.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/120783460.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161842699.html?qbl=relate_question_4

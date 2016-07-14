@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求助，输出数组前为何要加for语句
+<br /> printf(&quot;stdio,&b);%d&quot;=a[i])<br />  {<br />   t=a[i];%d&quot,6，但去掉a[i]前的for语句后.h&gt，这是为什么;i++)<br />  if(b&lt;%d&quot，还要加一个for语句;<br />void main()<br />{<br /> int a[5]={2;i&lt;5;<br />   b=t,10},4，为何在输出a[i]之前,8,a[i]),i;;i&lt，a[i]是循环一次输出一个值的，却输不出正确结果了;<br /> scanf(&quot,b,t;5,b);<br /> for(i=0;;;i++)<br />     printf(&quot;<br />   a[i]=b;<br />  }<br />  for(i=0;<br />}<br />开始已经有个for语句了，谢谢，感觉多余，请给个回答#include&lt
+<br />   a[i]=b;&#47，再向下就作用不到了，主要是for没有大括号;/i&lt;<br />｝/=a[i])<br />  {<br />   t=a[i];%d&quot,a[i])：<br />for(i=0，你可以换一个写法;<br />   b=t;; if 结束<br />     printf(&quot;5;<br />  } /i++)<br />｛<br />  if(b&lt因为第一个for只管到if语句的结束
+2
+none
+http://zhidao.baidu.com/question/72615113.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/72613836.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/78077807.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/141779435.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153365937.html?qbl=relate_question_4

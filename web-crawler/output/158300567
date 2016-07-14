@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+k=a&gt;b?(b&gt;c?1:0):0 C语言中这条语句什么意思 谁能给具体解释下 在线等 谢谢
+none
+b:0<br /><br />接下来 如果a&gt?1如果b&gt;c成立  就选择1那个值 <br />然后式子就变成<br />k=a&gt;c不成立 式子就变成<br />k=a&gt?0;b成立  k=1 反之k=0<br /><br />如果b&gt:0<br /><br />接下来 如果a&gt;b
+13
+none
+http://zhidao.baidu.com/question/1829794998619289420.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/388144158.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/184017290.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/414452512.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/560552864416262004.html?qbl=relate_question_4

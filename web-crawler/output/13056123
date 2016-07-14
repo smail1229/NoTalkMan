@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+哪位高手知道在c语言中if(!a[i]) break;中的!a[i]是什么意思
+哪位高手知道在c语言中if(!a[i]) break;中的!a[i]是什么意思
+a[]是数组<br />a[i]是数组的第i个元素<br />！是非的意思<br />if(!a[i]) 的意思是当前面的值不等于数组的第i个元素<br />          时执行下面的语句即break
+4
+none
+http://zhidao.baidu.com/question/223018993.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/86922783.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/217519527.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/135980025.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/255704013.html?qbl=relate_question_4

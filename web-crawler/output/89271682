@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中%u&#92;n是什么意思
+none
+负数在计算机中用反码表示，即1111111111111111）。（-1二进制表示为10000000000000001。 <br /><br />int v=-1%u为以无符号十进制输出 无符号整数能表示的数范围是0-65535，以1111111111111111（16个1）的二进制数存储，则为-1，即对应的二进制数0-1111111111111111（16个1）；v为有符号的整型，输出结果为65535 <br /><br />&#92，但是转换成无符号整数%u输出，1111111111111111（原来的有符号整数-1）被解释成1111111111111111（无符号整数65535）。如果用%d输出v
+114
+%u&#92;n用于格式化输出语句中，如printf, sprintf,vsprintf,fprintf等。<br />其作用为输出一个无符号数，并换行。<br />其中%u为无符号整型数值(unsigned int)的通配符，&#92;n为转义字符，代表换行。<br />比如<br />printf(&quot;%u&#92;n&quot;, 19);<br />则输出为<br />19&lt;CR&gt;<br />&lt;CR&gt;即换行标识。
+http://zhidao.baidu.com/question/18663335.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125876278.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/569699119.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87245507.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1541081505411288947.html?qbl=relate_question_4

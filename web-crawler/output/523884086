@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针 值传递问题
+none
+b;<br /> scanf(&quot;<br />    temp = x;,&b),b;;<br />}<br />不要指针,int &y){<br /> int temp;a;<br />}<br /> <br />void swap(int &x,b);a;stdio,b),&a:%d&quot,a;;这样来调用就可以了<br />这个才是传递的地址<br />你写的那个只是传递的一个数值而已<br />#include &lt;<br /> void swap(int&要在函数中传递地址的话要用&符号<br />也就是改成<br />swap(int& x,%d&quot:%d:%d:%d&quot;<br /> swap(a,b),a,b，直接通过swap(a,int& y)<br />{<br />    int temp;<br /> y=temp;<br />    y = temp;%d;<br /> x=y;void main()<br />{<br /> int a,int&);temp = x;<br />    x = y,b);<br /> printf(&quot;<br /> printf(&quot.h&gt
+1
+这与参数传递有关，swap(int x,int y)，x,y是调用此函数时，两个变量的一份拷贝，只有*x这样定义，才是传递的地址。<br />知道计算机是怎样存储数据吧？<br />比如说：变量a的地址是12345, 12345中存储的数据是2，也就是说a=2;<br />如果 swap(int x,int y)这种定义，那么调用时swap(a,b), a的地址在传递给x时，可能是67890，67890中存储的数据是2，这样，x=2，函数结果之后，x,y交换实际上是把交换的值放在了67890这个地址中，而12345这个地址中的数据没有发生改变。调用结束之后，由于x是临时变量，结束时这个地址(67890)就释放了。<br /><br />而swap(*x,*y)这样定义，传递的是a的地址值，即x值是12345，并不是传递2这个数值，*x就是对x指向的地址进行访问;函数修改时，修改的是12345这个地址中的数据，即原调用函数中的变量指向的地址12345中的数据发生了改变，这才是真正的swap
+http://zhidao.baidu.com/question/30501705.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1859676560482316227.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/540081826.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/687172685885200084.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/500163322.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 #include&lt;stdio.h&gt; void main() { float x=67.8564,y=-789.124; printf(&quot;%-10f,%-10f&#92;n&quot;,x,y);
+结果是多少，怎么上机运行不出来？
+fail
+7
+none
+http://zhidao.baidu.com/question/273471865.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2011415937996975948.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/532913519.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/254295331.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/252187844.html?qbl=relate_question_4

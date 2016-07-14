@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：为什么main要定义为int 型
+none
+、规范的写法是 void main(char argc int是main函数的返回值类型，也可以是别的比如void 等，完整,char *argv[]){}。。,括号里是主函数可以带的参数
+2
+在C99标准未发布前，一般把main函数定义为void，即无返回值类型，c99标准发布后，里面明确规定定义main时要定义成int型，原因是因为main函数是系统调用的，在main函数运行结束后，要返回一个值给操作系统，以此main函数是否执行正常，如果main返回值为0说明正常结束，否则说明程序运行出错，需要调用一些错误处理<br />(如内存分配失败，资源申请失败等）。
+http://zhidao.baidu.com/question/261395666.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92868625.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80781706.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/361208423912373972.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/132925202.html?qbl=relate_question_4

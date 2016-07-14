@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 有三个for语句 比如 for(i=2;i&lt;=100;i++) for(k=2;k&lt;=100;k++) for(m=2;m&lt;=100;m++) 他们的计算顺
+m&lt;=100c语言中 有三个for语句 比如<br /> for(i=2;k&lt;i&lt;i++)    1<br />for(k=2;=100;=100;k++)   2<br />or(m=2
+=100   满足就执行循环里的语句   <br />2后面的语句又是一个循环  同理   第一步就是k=2   然后进行判断k&lt1;=100   满足就执行循环里的语句  <br />3后面又是一个循环   同理   第一步就是m=2   然后进行判断m&lt.首先进去循环   第一步就是i=2   然后进行判断i&lt;=100   满足就执行循环里的语句 <br />语句算完后 执行m++   再判断m&lt
+0
+none
+http://zhidao.baidu.com/question/556342255.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196513278.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76726667.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/218247177.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/205056145.html?qbl=relate_question_4

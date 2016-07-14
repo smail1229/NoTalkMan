@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言循环语句嵌套问题
+),end=0;=end;n++;<br />         if(n%15==0)printf(&quot,n=0;i&lt。;<br />    }<br />  }<br />  printf(&quot;end)<br />    {    printf(&quot;<br />    if(i&gt;stdio;=end;<br />#include&lt;i&lt;&#92，每句都解释下,a);n&quot;math;&#92;i++)<br />       if(a%i==0) break;i++)’后面的完全看不懂;);;<br />}<br /><br />代码从这句‘for(i=2;<br />main()<br />{   int i=0.h&gt;n&quot,a=0;%4d&quot;<br />    for(i=2.h&gt#include&lt
+ /%4d&quot;从2开始到end;如果i&gt;/&#92; /&#47.h&gt;&#92,n=0;i++) //判断循环结束后的i是否大于end<br /> { printf(&quot; <br /> for(i=2;);/ /&#47,循环执行<br />  if(a%i==0) break;stdio;如果i整除15就换行<br /> } <br /><br />printf(&quot;math;=end;/);end) &#47,a).h&gt;;/n&quot;n++，就跳出循环<br /> if(i&gt;n&quot,a=0; <br />void main() <br />{ int i=0;end则打印a输出宽度为4<br />  if(n%15==0)printf(&quot,end=0;若a能够整除i;i&lt; <br />#include&lt#include&lt
+2
+none
+http://zhidao.baidu.com/question/569279885.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/516548920.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/101815940.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/345618056.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/182940758.html?qbl=relate_question_4

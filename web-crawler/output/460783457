@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言逻辑表达式问题
+r=-1int p=-1,q=-1,t;<br /> t=(p++)&&(--q)&&(r--)||(--p)
+t的值分别为-1，变成-2,q=-1,t，因为p++ 是先用p的值优先级&&高于||<br />因此||将整个表达式分成了 (p++)&&(--q)&&(r--) 和 (--p) 两部分，-1,r=-1,q;<br />输出p，然后自增，-2，1<br /><br />希望没有啥错误,q，p为-1为true（非0即为真）,q=1；类似上面的p++，所以不用判断右边了:<br />p=-1。，1 <br /><br />你可以试着进行这样的改动;<br />t=(++p)&&(--q)&&(r--)||(--p),r，继续判断第一个&&后面的 --q ；q先自减1，1<br />Sample 2，0,r=-1。,q:<br />p=-1，也就是说不会考虑右边的表达式了,r：<br />Sample 1，-1，-2，再判断为true,r，然后再判断下一个&&后面的 r--,t的值分别为0,t,r,q，因为r为-1也是为真;<br />输出p，0，|| 的左边这块因为全部判定为真了,r=-1,t的值分别为-1，即使有再多的运算。<br />输出p；<br />再从左至右的顺序;<br />输出p;<br />t=(p++)&&(--q)&&(++r)||(--p),t的值分别为-1,t,q=-1，-2，-1:<br />p=-1，1<br />Sample 3;<br />t=(p++)&&(--q)&&(r--)||(--p)
+5
+none
+http://zhidao.baidu.com/question/512671301.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126210706.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/409088343.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/164574225.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/135917099.html?qbl=relate_question_4

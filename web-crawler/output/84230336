@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中一般是怎么打印出字符数组的？
+c);<br /> <br /> printf(&quot;;s%&quot;;wowow&quotvoid main()<br />{<br /> char c[29]=&quot;<br />}<br />为什么不能打印出正确结果
+先附值的时候为了使空间更准确可以这样<br />char c[]=&quot;%s&quot;, c); 而不是你的s%  ; <br /><br />第二是printf(&quot;;wowow&quot
+11
+none
+http://zhidao.baidu.com/question/120131258.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/157922033.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554860391.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/124689734.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/551409064.html?qbl=relate_question_4

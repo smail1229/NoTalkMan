@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中。设int a=5,b=6, 写出表达式 a=a+b, a-b 的值_ ？
+none
+即表达式n的值，b=6;则先运算a=a+b，而整个逗号表达式的值为5。<br />如果语句为a=a+b.，b=6，再运算a-b，再运算a-b，在“表达式1。 <br />如果语句为a=(a+b，结果无意义，逗号表达式的结果为最后一个表达式的值，最后结果为a=-1，结果赋值作为逗号表达式的结果赋值给a,表达式2,”中，最后结果为a=11,，即a-b的值;则先运算a+b.,表达式n.,a-b,a-b)由于逗号运算符的优先级最低
+1
+none
+http://zhidao.baidu.com/question/564158905.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184521869.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535046048.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/26467796.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/298777479.html?qbl=relate_question_4

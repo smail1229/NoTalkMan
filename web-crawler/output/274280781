@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中指针那一章，定义二维数组a[5][6],(*p)[6],&a和a有什么区别？能不能*p=a 求答案……
+none
+，a+2是第三列的地址., &a的值是相同的，也是第一列的地址<br />*p=a<br />*p是第一行第一个元素的地址，介意义完全不同<br />首先这个数组是5行6列.<br />*a是第一列第一个元素的地址.，a，而且是第一列的地址<br />a+1是第二列的地址，&a+1是内存中紧跟a[5][6]这块区域的地址<br /><br />(*p)[6]<br />这里的p的效果等于a.，*a+1第一列第二个元素的地址, *a.<br />&a是整个二维数组的地址，a 是第一行的地址<br />两者代表的意义不是一个等级， 首先要明白a是一个地址.a[5][6]<br />你会发现
+5
+none
+http://zhidao.baidu.com/question/207666946.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/328901759.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/290310646.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/206932038.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/139386238.html?qbl=relate_question_4

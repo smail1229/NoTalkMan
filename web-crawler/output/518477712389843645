@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 continue问题
+=&#39，getchar遇到了&#92;&#92;n&#39？假如条件为假;<br />    while(getchar();<br />}<br />假设这里的getchar语句是为了去除回车符，那么条件为真continue之后，是continue到外层while循环的test部分还是外层while的statement部分;n呢有这样一段节选<br />while(test){<br />    statement;)<br />        continue
+ontinue是忽视循环后面的代码，当时当里面的条件为false时，重新开始该循环，如果要退到外面的循环，使用break，所以还是执行里面的while
+0
+none
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1540047991934414387.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/470123985.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/456356896.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/91411785.html?qbl=relate_question_4

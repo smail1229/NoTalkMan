@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序问题：求表达式的值！
+┌　1             (n=1)<br />　　　　f(n)= ├　2*f(n&#47;2) + n  (n&gt;1)<br />　　　　　　　└　0             (n&lt;1)
+nt f(int n)<br />{<br />if(n==1)<br />  return 1;2) + n;<br />else if(n&gt;<br />else<br />  return 0;1)<br />  return 2*f(n&#47
+0
+none
+http://zhidao.baidu.com/question/51243239.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/421893735.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/184495320.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88768093.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/412107871.html?qbl=relate_question_4

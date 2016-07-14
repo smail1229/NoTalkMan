@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，整型常量和长整型常量，有什么区别？
+型常量和长整型常量（包括有符号的和无符号的）？他们有什么区别？谢谢啦？哪位能指点一下，为什么占用字节数和取值范围都一样
+现在通常都是32位的系统  所以int和long占用字节是一样的 都是4个字节<br />在以前旧的16位系统上，int占2个字节  long 占4个字节<br />同样在新的64位系统上，int占4个字节  long占8个字节
+11
+none
+http://zhidao.baidu.com/question/162257813.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/107977916.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15227409.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/7293872.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/17059798.html?qbl=relate_question_4

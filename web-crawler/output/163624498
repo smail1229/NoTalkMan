@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编写程序,完成下面分段函数Y 的计算, x由键盘输入
+求分段函数：    ┌  x         x&lt;1<br />            y=  ┤5x – 2     1≤x&lt;12  的值；<br />                └ 8x – 10    x≥12<br /><br />哗筏糕禾蕹鼓革态宫卡x由键盘输入。
+#include &quot;stdio.h&quot;<br />void main()<br />{<br />  double x,y;<br />  char ch;<br />loop:<br />  printf(&quot;please input x:&#92;n&quot;);<br />  scanf(&quot;%lf&quot;,&x);<br />  if(x&lt;1)  printf(&quot;y=%lf&#92;n&quot;,x);<br />  if(x&gt;=1&&x&lt;12)  printf(&quot;y=%f&#92;n&quot;,5*x-2);<br />  if(x&gt;=12)  printf(&quot;y=%f&#92;n&quot;,8*x-10);<br />  printf(&quot;Do you want to input again:(y&#92;&#92;n)&quot;);<br />  getchar()哗筏糕禾蕹鼓革态宫卡;<br />  ch=getchar();<br />  if(ch==&#39;y&#39;||ch==&#39;Y&#39;)  goto loop;<br />  }
+9
+none
+http://zhidao.baidu.com/question/559158337.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/323264306.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100062035.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/144977259.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241650986.html?qbl=relate_question_4

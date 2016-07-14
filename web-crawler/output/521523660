@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮帮忙！c语言计算pi ，为什么结果是4？？
+none
+i这一步，这一步会把整型结果赋值给浮点型问题出在m=j&#47，造成数据丢失。<br />改成这样就可以了m=(float)j&#47
+0
+none
+http://zhidao.baidu.com/question/91300738.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88329959.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/221863063.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/523228420.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/73665688.html?qbl=relate_question_4

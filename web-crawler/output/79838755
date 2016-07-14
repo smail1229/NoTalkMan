@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程。统计出具有n个元素的一维整数数组中大于等于所有元素平均值的元素个数。验证该函数
+编写一个函数，统计出具有n个元素的一维整数数组中大于等于所有元素平均值的元素个数。验证该函数
+<br />    int len = 10;;len,7;<br />    int a[MAX] = {2; i&lt;<br />    for (int i=0;pause&quot;<br />    }<br />    <br />    return sum#include &lt;<br />    <br />    sum = 0;%d&#92,27}.h&gt; len;<br />    <br />    system(&quot;),21;<br />}<br /><br />int Fun(int a[];    <br />    }<br />    <br />    int ave = sum /len,9; i&lt, s); <br />#include &lt; i++)<br />    {<br />        sum += (a[i] &gt;= ave);<br />    for (int i=0;<br />    <br />    printf(&quot, int len)<br />{<br />    int sum = 0;<br />    int s = Fun(a, int len),3;n&quot,13;stdlib; i++)<br />    {<br />        sum += a[i],8;<br /><br />int main()<br />{<br />    const int MAX = 100, len).h&gt;<br /> return 0,24; <br /><br />int Fun(int a[],10;stdio
+2
+none
+http://zhidao.baidu.com/question/173099977.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/306578331.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/546133941.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/356278486.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/27532418.html?qbl=relate_question_4

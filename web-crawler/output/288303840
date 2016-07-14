@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+利用递归函数c语言判断数组是否为递减，如果把函数中的n&lt;=1改成n&lt;1就不管什么数组都判断为递减，为什么？
+none
+n 表示数组的个数啊，如果只有0个还需要进行比较吗？要好好理解题目，不难的
+0
+none
+http://zhidao.baidu.com/question/358289914.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/173000629.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/559001788.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258874377.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/60120739.html?qbl=relate_question_4

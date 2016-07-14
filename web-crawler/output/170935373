@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言printf函数问题
+<br />}<br />然后显示出来的是 （8）photoshop   photoshop      pho<br />我不明白第二个photoshop 和 pho 是怎么出来的;，就是说%-3s和%6,P);<br />#define P &quot,P#include&lt;n&quot.3s&#92;(8)%s&#92;t%6;t%-3s&#92;<br />main()<br />{printf(&quot;stdio;photoshop&quot.h&gt,P
+P，输出占m列，则在m列范围内，字符串向左靠;(8)%s&#92，则突破m的限制?<br />%6?<br />%-3s=》 photoshop   <br /><br />％m，将字符串全部输出;<br />  ％-ms，如果字符串本身长度大于m,P。,P)，右补空格;t%6，左补空格;。这n个字符输出在m列的右侧.ns，但只取字符串中左端n个字符.3s&#92。;n&quot。如果串长小于mprintf(&quot;t%-3s&#92
+4
+none
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148060357.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/53316896.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424651189.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/86878599.html?qbl=relate_question_4

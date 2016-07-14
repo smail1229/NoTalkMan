@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编一C语言程序，任意输入一个大写字母，将其转换成小写字母并输出
+none
+);stdlib.h&gt!&#92;<br />#include &lt.h&gt;小写字母的值%c&#92; <br />   c2=c1+32; <br />   printf(&quot;<br />void main ()<br />{  <br />   char c1;n&quot,c2 );请输入大写字母的值;pause&quot,c2#include &lt;; <br />   system(&quot; <br />   printf(&quot;stdio;n&quot; <br />   c1=getchar();)
+57
+<p>C语言实现如下：<br /></p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />void&nbsp;main()<br />{<br />	char&nbsp;c;<br />	scanf(&quot;%c&quot;,&amp;c);&nbsp;&nbsp;//输入一个大写字母。<br />	if&nbsp;((c&gt;=&#39;A&#39;)&amp;&amp;(c&lt;=&#39;Z&#39;))&nbsp;<br />	//判断该字符是否为大写字母，是则转换为小写字母并输出。<br />	{<br />		c+=32;<br />		printf(&quot;%c\n&quot;,c);<br />	}<br />	else&nbsp;printf(&quot;该字符不是大写字母\n&quot;);<br />	//否则，输出“该字符不是大写字母”。<br />}</pre>
+http://zhidao.baidu.com/question/56338711.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/387511882.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153501975.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/261391695.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/982612826421175939.html?qbl=relate_question_4

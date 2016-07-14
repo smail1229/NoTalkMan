@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言s=10*s+p[i][j]-&#39;0&#39;什么意思
+none
+赋值语句，将 s×10 + 数组p中第i×j个元素 + 0的aciII码值30 的结果赋值给 s
+2
+从表达式上看，就是把s的原始值乘10后，加上p[i][j]的值，结果再减去字符&#39;0&#39;的值。<br />按照这个写法，s的类型应为int型，而p应为二维字符数组char[][], 内部存一系列的数字，即值为&#39;0&#39;~&#39;9&#39;之间。<br />p[i][j]为取该数组第i行第j列的值。<br />综上，s=10*s+p[i][j]-&#39;0&#39;的作用，就是把数组p的第i行，从字符串的形式转为整型值的形式。
+http://zhidao.baidu.com/question/238966403.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/235193611.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1494485627535390979.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2009543853276233948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/475624385.html?qbl=relate_question_4

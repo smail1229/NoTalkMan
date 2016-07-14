@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中：INT FUN()和int FUN() 有什么区别吗
+请教C语言高手。请回答详细点。非常感谢。
+或<br />2。前者是一个合法的标识符;定义的一部分，预处理器自动把INT替换为int，预处理时对于遇到#undef INT（如果有的话）之前的部分的代码.之前定义了自定义类型。INT和int会被当作不同的单词处理；而int是内置的基本类型说明符：<br />1，除非：typedef int INT。int FUN()可以函数声明&#47，是关键字C语言对大小写敏感;，而INT FUN()不行.之前定义了#define INT int，此后INT和int的语义完全相同（但仍然不是关键字）
+2
+none
+http://zhidao.baidu.com/question/518853270865598445.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241583146.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/456621865.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/99759269.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/563585609.html?qbl=relate_question_4

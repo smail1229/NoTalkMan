@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程循环语句不知道哪里出错了，求指导！！
+<br />}<br />while(n&lt,x);<br />++done;<br />scanf_s(&quot;<br />printf(&quot;Square=%f&#92;<br />float main()<br />{<br />float n,Ni);n&quot;<br />}<br />while(n&gt，我是这么写的;n&quot;.h&quot,y);Negative items=%d&#92;<br />float x=0;<br />int Ni=0;n&quot。<br />#include &quot;Square root=%f&#92;Number is negative&#92;Square=%f&#92，输入正数时;=0&&x,x)，说这个是负数，当输入负数时;n&quot;n&quot;)。加了Break后整个程序就停止了.h&quot，不停止;<br />int done=0;n&quot;);0)<br />{<br />x=n*n，求平方和平方根;;<br />}<br />printf(&quot;<br />float y=0;;Please enter an number&#92;<br />printf(&quot。最后统计输入几个负数和输入几个数;math，但是执行的时候一直循环题目是这个;<br />#include &quot;<br />y=sqrt(n);<br />break;<br />++Ni;;Number of items done=%d&#92!=7777)<br />{<br />x=n*n;%f&quot;stdafx;n&quot;;;<br />return 0;<br />printf(&quot;<br />printf(&quot;<br />++done，然后求平方;<br />while(n=7777)<br />{<br />++done;<br />printf(&quot，当输入7777时程序停止,&n);<br />printf(&quot,done)
+,Ni);<br />   ++Ni;Number is negative&#92;<br /> float x=0;<br />  }<br />  if (n&lt;<br />   printf(&quot;Number of items done=%d&#92;=0)<br />  {<br />   x=n*n;stdio;<br /><br />if (n&gt;n&quot!=7777)<br /> {<br />  printf(&quot.h&quot;n&quot;<br /> int Ni=0;Negative items=%d&#92;0)<br />  {<br />   x=n*n;<br /> while(n;;#include &quot;math#include &quot;<br />float main()<br />{<br /> float n=0;Please enter an number&#92;),x);n&quot;<br />  ++done,y);n&quot;n&quot;<br />   printf(&quot;<br />  scanf(&quot;;%f&quot;<br />  }<br /> }<br /><br />printf(&quot;;<br />   y=sqrt(n),&n);<br /> float y=0;Square=%f&#92;Square root=%f&#92;<br /> int done=0;n&quot;<br />   printf(&quot;);<br />   printf(&quot;;<br /> printf(&quot,x);;Square=%f&#92;<br /> return 0.h&quot,done);n&quot
+1
+none
+http://zhidao.baidu.com/question/51245238.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67491471.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/567972074.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/399584483.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/147268782.html?qbl=relate_question_4

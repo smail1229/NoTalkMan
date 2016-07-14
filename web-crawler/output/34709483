@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+linux下 c语言多文件编译
+none
+fail
+fail
+如果有多个源文件，基本上有两种编译方法：<br />[假设有两个源文件为test.c和testfun.c]<br /><br />1. 多个文件一起编译<br />用法：#gcc testfun.c test.c -o test<br />作用：将testfun.c和test.c分别编译后链接成test可执行文件。<br /><br />2. 分别编译各个源文件，之后对编译后输出的目标文件链接。<br />用法：<br />#gcc -c testfun.c &#47;&#47;将testfun.c编译成testfun.o<br />#gcc -c test.c &#47;&#47;将test.c编译成test.o<br />#gcc -o testfun.o test.o -o test &#47;&#47;将testfun.o和test.o链接成test<br /><br />以上两种方法相比较，第一中方法编译时需要所有文件重新编译，而第二种方法可以只重新编译修改的文件，未修改的文件不用重新编译。
+http://zhidao.baidu.com/question/95979506.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/34709631.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55148629.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/314655673.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/29460841.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 #define M 100 啥意思
+none
+定义一个宏M，它的替换文本是100，意思是后面程序中的所有单独的M都会在编译之前被替换成100
+5
+宏定义，意思是M 代表100这个数字。<br />宏定义又称为宏代换、宏替换，简称“宏”。<br /><br />格式：<br />#define 标识符 字符串<br />其中的标识符就是所谓的符号常量，也称为“宏名”。<br />预处理（预编译）工作也叫做宏展开：将宏名替换为字符串。<br />掌握&quot;宏&quot;概念的关键是“换”。一切以换为前提、做任何事情之前先要换，准确理解之前就要“换”。
+http://zhidao.baidu.com/question/431619308.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/72497551.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/446203671.html?qbl=relate_question_4

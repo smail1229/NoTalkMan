@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：数组打印出图形
+用数组和循环实现以下图形输出：  <br />*****       *****<br /> *   *     *   * <br />  *   *   *   *  <br />   *   * *   *    <br />    *********
+0,0,1,0,<br />  },0;<br />#define MAX_ROW   5<br />#define MAX_COLUMN  17<br />int main(int argc,0,1;),1,0,0,0,<br />  {<br />   0,int *argv[]){<br /> int i,<br />  {<br />   0,0,j;MAX_ROW,0,0,0,<br /> },0,0;<br /> int a[MAX_ROW][MAX_COLUMN]={<br />  {<br />   1,1;n&quot,1;j++){<br />   if(a[i][j]==1){<br />    printf(&quot,1,0,0,1;i++){<br />  for(j=0;&#92,1,1,<br />  };*&quot,1,1,0;i&lt;<br />   }<br />  }<br />  printf(&quot,0,1,1,0,1,<br />  {<br />   0;j&lt,0,0,0,0,0,<br />  },0,0,1,0,0;stdio,0,0,<br />  {<br />   0;),0,0; &quot,1,1,0;<br />   }else{<br />    printf(&quot,1,0,1,1,1,1,<br />  },1,0,0,0,1;MAX_COLUMN.h&gt,0;<br /> for(i=0,1,0,<br />  },0,1,0,0,0,1,0,1,0,0,1,0;),1,0;<br /> }<br /> getchar()#include &lt,0,0
+0
+none
+http://zhidao.baidu.com/question/102432978.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76597832.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/176123552.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/506530333.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/55015969.html?qbl=relate_question_4

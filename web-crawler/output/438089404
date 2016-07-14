@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言指针的运算
+  str作为数组名称 应该是一个地址 为什么不能直接把它赋值给同样是地址的p;stdio,*p=str;;%d&#92;ABCD&quot.h&gt;<br />}<br /><br />为什么能*p=str ;0&#39;？  输出的0又是为什么呢？最后一个应该是&#39;<br />main()<br />{<br />char str[]=&quot;&#92;<br />printf(&quot;n&quot,*(p+4))#include&lt
+个写法把定义和赋值放一起了;，你可能没看明白<br />char str[]=&quot;ABCD&quot;ABCD&quot；<br />char *p;<br />p = str;<br />p前面的*不是取地址;,*p=str;<br />实际上将定义分开写是：<br />char str[]=&quot
+0
+none
+http://zhidao.baidu.com/question/202076356.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/554258461.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/3606481.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/527255196.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141362733.html?qbl=relate_question_4

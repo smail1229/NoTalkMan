@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问在C语言中,auto和static分别代表什么意思,有什么作用,谢谢
+none
+如果你不初始化，比如常量数组。C默认的就是auto类型。<br />比如你int aauto变量会存储在堆栈里面，如果你不赋初值。所以一般都不加，或者那些大量的存储元素被经常性使用的，编译器会自动初始化。static变量声明的时候。<br />static 一般更主要的是和全局变量配合使用，这个变量的退出值会被保存下来。而且，auto变量是不确定的，你用完了，而在用完释放的时候会收回存储区。你可以理解这个存储区为公共的。<br />static变量会被存储在静态存储区。<br />初始化的时候;那a就是auto类型的，每次定义的时候会分配存储区
+3
+none
+http://zhidao.baidu.com/question/174342702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/93374789.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87160252.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/300589481.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/500555754.html?qbl=relate_question_4

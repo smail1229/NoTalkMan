@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言：当把4个表达式用作if语句控制表达式时，有一个选项与其他3个选项含义不同，这个选项是（）
+A  k%2                    B  k%2==1            c  （k%2）！=0               D  ！k%2==1
+也就是说是否是奇数，还是是否是奇数。（k%2）！k%2==1这个是判断K是否是偶数if()内判断是不是真所以k%2和k%2==1是一个！=0这个是判断k除以2的余数不等于0是否为真，
+19
+none
+http://zhidao.baidu.com/question/62132477.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/178157789.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/108455806.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/408770636.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/150112743.html?qbl=relate_question_4

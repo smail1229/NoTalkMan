@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的大神看过来！！！这道题为啥fun定义的是double,如果我定义float也对吗？
+none
+fun函数返回的是一个double型但是由于格式化输出强制了float，编译器会把那个double型截断成float输出
+0
+none
+http://zhidao.baidu.com/question/118946971.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2074652092058677268.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/84672949.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/202865439.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/94482665.html?qbl=relate_question_4

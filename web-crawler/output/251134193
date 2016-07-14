@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求教一道c语言题，求级数和的近似值
+y=x+x*x*x&#47;3*1!+x*x*x*x*x&#47;订搐斥诽俪赌筹涩船绩5*2!+x*x*x*x*x*x*x&#47;7*3!+....令x=0.5,，1.0，2.0，3.0，取前十项之和分别计算Y的值.
+在c语言编辑器运行一下不就知道了
+1
+none
+http://zhidao.baidu.com/question/251132007.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1945970843757764508.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/246498485.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/178376971.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/76659583.html?qbl=relate_question_4

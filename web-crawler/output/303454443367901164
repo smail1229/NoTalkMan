@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编写一个c语言程序直到运行,经过几个步骤?请描述每一步生成的文件类型.
+none
+）<br />举个例子.o文件）首先建立源代码(生成.cpp文件)，最后链接（生成可执行文件.exe文件.o（编译后生成文件）<br />lizi.exe(链接后生成可执行文件)<br /> <br />现在大多数人都用可视化的编写软件，然后编译（生成.cpp(编写代码文件)<br />lizi：<br />lizi，windows下是.c或者
+4
+none
+http://zhidao.baidu.com/question/197907394.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/78624747.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/455616356.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/354060910.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/433821461.html?qbl=relate_question_4

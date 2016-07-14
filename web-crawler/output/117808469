@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中如何检查输入值是否为数字
+如题。数字不一定为整数，是所有数字。
+是int isdigit(int ch)，返回1；不是返回0<br />包含头文件ctype;<br />这个是C提供的函数来检测输入是否是数字，
+4
+none
+http://zhidao.baidu.com/question/146289871.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/134793546.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57353278.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/118242983.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/476868723.html?qbl=relate_question_4

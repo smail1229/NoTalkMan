@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目，用中文解释一下，比如x=y=5，x++*x++和--y*--y分别等于多少？
+none
+y=5<br />x++*x++         第一个x还是5x=y=5，所以这个表达式的值是30<br />--y*--y        第一个y是4，     这句完了之后x=5，第二个是3，第二个x是6
+2
+none
+http://zhidao.baidu.com/question/688466188603029084.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1302236185446840179.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/431581199146604484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/488806848072753692.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1829919728176978580.html?qbl=relate_question_4

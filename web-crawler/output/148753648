@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言为题6.3求s(n)=a+aa+aaa+…+aa…a之值,其中工是一个数字.
+n&quot;%d，请高手指导;,&a;为什么这样就错了scanf(&quot,%d&quot;a+aa+;n&quot,%d&quot;：scanf(&quot;       &#47,&a;       &#47;=n)<br /> {<br />  s1=s1+a;<br /> printf(&quot;;;n&quot;&#47,&n),%d&#92;a=%d n=%d &#92,a;<br /> while(count&lt.,a,s);%d;;<br />main()<br />{ <br /> int n.？<br />如果改为注视后面的就出不了结果;;<br />  a=10*a;n&quot.a=%d&#92;<br /> }<br /> printf(&quot,s=0;<br /> printf(&quot;n&quot.程序有一个地方不明白;%d;<br />}<br /><br />这一句;),%d&#92,n),&n);<br /> scanf(&quot.h&quot，不知道是什么原因.+aa;为什么这样就错了scanf(&quot,s1=0;<br />  s=s1+s：<br />#include&quot;stdio：&#92;<br />  ++count;%d;,&a;请输入a和n的值;&#47,&a,&n),&n),count=1.
+也就是说要这样输入比如a=1没有错，2&#92，因为在scanf(&quot;中的内容.，多看下书，除了如%d  %c %s 等的东西都要原样输入.)..&quot,n=2则要输入1;.，这样才能保正数据的正常接收;;n,&，在双引号内的;n      这样就对了.，只是在输入的时候要加上&#92
+5
+none
+http://zhidao.baidu.com/question/416324509.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/100871397.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/8116016.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/178447163.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1959518575796172380.html?qbl=relate_question_4

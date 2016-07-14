@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言:用递归法求一个数的幂
+我编了一个程序,用递归法求一个数的 幂,但在执行时却出现错误,我又不知道正确的形式是怎么样的,请高手指点一二,谢谢了!<br />#include&lt;stdio.h&gt;<br />double pow(double a,int b);<br /><br />int main(void)<br />{<br /> double x;<br /> int n;<br /> while(scanf(&quot;%缉涪光皇叱郝癸酮含捆lf%d&quot;,&x,&n)==2)<br /> {<br />  printf(&quot;%.5f&#92;n&quot;,pow(x,n));<br />     <br /> }<br />    printf(&quot;bye&#92;n&quot;);<br /> return 0;<br />}<br />double pow(double a,int b)<br />{<br /> double pow;<br /><br /> if(b==1)<br />  pow=a;<br /> else <br />  pow=pow(a,(b-1))*a;<br />  return pow;<br />}<br />错误出现在C:&#92;Users&#92;Desktop&#92;9.11-7.cpp(23) : error C2064: term does not evaluate to a function
+函数名叫pow， 变量名也叫pow， 这两个一个命名空间的就冲突了
+1
+none
+http://zhidao.baidu.com/question/191354087.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/247536891.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/490112510652096052.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40307189.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/394760012.html?qbl=relate_question_4

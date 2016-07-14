@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的double和float
+C语言中的double和float类型各自是保留小数点后几位？
+前者8字节.9999990000，按照float输出，这时候看起来没有区别。举例说明对于1，如果按照double可能为1.999999double与float的区别在于在内存中存放数据时占用的内存不一样，而double输出结果则为1，后者4字节，也就是前者保存的小数位数比后者多一倍，比如使用%.9999996666.999999，因为C语言默认输出小数位数都取6位，即小数保留10位，float输出结果为1，但是如果你进行格式控制.10，这是为什么，结果可能为1.9999996666
+55
+none
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/85158117.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/28272861.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/571219625.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/984159177784699619.html?qbl=relate_question_4

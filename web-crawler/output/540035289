@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的sum+=1&#47;i是什么意思呢
+;i++)<br />  sum+=1&#47,sum);100=%f&#92,p,i=1.;i.+1&#47;<br />void main()<br />{<br /> float i..;1+1&#47;stdio;n&quot;4+;<br /> printf(&quot;;<br /> for(sum=0;100.h&quot;i&lt.;<br /> float sum#include &quot.0;2+1&#47
+;i<br />也就是说每次 sum都在本身已经有的基础上再加上一个1&#47.;1=1 <br /> 第二次 sum=1  sum+=1/i 也就是说 sum=0+1/i<br />比如说<br /> 第一次 sum=0  sum+=1&#47...;i 也就是说 sum=1+1&#47.;2=3&#47.;2<br /> .sum是用来求和的   sum+=1/i   分解开来就是sum = sum+1&#47
+7
+none
+http://zhidao.baidu.com/question/214093379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/46075441.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/524777725.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57233189.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/689703231237781644.html?qbl=relate_question_4

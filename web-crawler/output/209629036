@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在做C语言习题时遇到的问题
+<br />谢谢？<br />有没有什么简便的方法。我不关掉vc6。<br />难道我没编完一道题都要把vc关掉然后再开起来一次么，而且还会出现错误（似乎是函数公用了），如果连接的话是连接我上一题编好的程序，我要接着编下一道题的程序，需要复制哪几个文件：我编完一个程序运行完保存后有好几个文件（大概6个).0，编译连接执行后，编写完一个程序。如果我要把我的程序复制到另一台机子上运行。<br />顺便问下，直接新建了一个工作区域，编完程序后只能进行编译一项工作做习题时
+一定要是另存为，也就是编译通过以后再另存为一次.0每编完一个程序后就另存为一次。<br /><br />要复制的话就只用复制一个，那个才是核心代码<br />当然，下一个要编译通过程序没有错误.c文件就可以了，但是前提是你的数据库完好，然后再新建object就可以了.cpp或者，编译时就不会公用函数了，这也取决于你建立时用的什么文件好说，你把VC6
+2
+none
+http://zhidao.baidu.com/question/166376867.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1238801680023644259.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143948512.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/752020709615192324.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1509659390167112300.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言素数的算法
+none
+&#47,k;<br />  if(i&gt;<br /> k=sqrt(x);<br /> for(i=2;i&lt;k) return 1;=k;i++)<br />  if(x%i==0) break;/如果是素数返回1，如果非素数返回0<br />  else<br />   return 0int i
+9
+思路如下：<br />1、求2-n之间的所有素数<br />2、创建一个数组a[n+2]，其下表为2...n+1<br />3、数组的功能是记录那些数十素数,其下标表示素数,元素初始化时全为1，表示全部数假设都是素数<br />4、从2开始往后访问数组的每一个元素，如果这个数十素数就输出，否则往后遍历<br />5、遍历的同时如果这个数i是素数，则进一步往后将这个数的倍数2*i，3*i，....将这些数都标记为0表示不是素数 6、执行完毕将输出所有素数了
+http://zhidao.baidu.com/question/143109668.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/73248213.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/125871781.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127554316.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/421438885.html?qbl=relate_question_4

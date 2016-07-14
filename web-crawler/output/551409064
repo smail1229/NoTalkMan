@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，如何向一个字符数组输入字符，并打印？
+10#include&lt;<br />    while((c=getchar());<br />    }<br />    printf(&quot，请问为什么;<br />main()<br />{<br />    int c;;stdio;%s&quot;i&lt;i++)<br />        s[i]=c.h&gt!=EOF)<br />    {<br />        for(i=0,i;<br />}<br />我这个程序实现不了;<br />    char s[10],s)
+<br />    gets(s);<br />int main()<br />{<br />    int c;stdio,s);n&#39;<br />    }<br />    printf(&quot;<br />    char s[10]={0};%s&quot;&#47.h&gt;&#47：<br />#include&lt;<br />int main()<br />{<br /> <br />    char s[10]={0};EOF<br />    {<br />        &#47，puts输出字符串;i++)<br />        s[i]=c;/<br />    printf(&quot;,i=0;for(i=0;&#47!=&#39;<br />    while((c=getchar());%s&quot;10;      ///<br />}<br />或者scanf<br />#include&lt;<br />        i++;%s&quot;注释修改;<br />    puts(s);&#92;&#47.h&gt,s);stdio：/<br />}<br /> <br />最好用gets输入字符串;stdio;，注意不能超过9个字符<br />#include&lt.h&gt;i&lt;&#47,s);<br />    scanf(&quot，输入字符串再输入回车符;<br />int main()<br />{<br />   <br />    char s[10]={0};)      &#47修改如下;
+2
+none
+http://zhidao.baidu.com/question/144268029.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/128630431.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/84230336.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/185279425.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/120131258.html?qbl=relate_question_4

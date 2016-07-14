@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，float变量串口发送
+我要把一个浮点型数据通过串口发送，<br />就是把它的存储器二进制直接取出来，逐个发送。<br />现在问题的关键是根本没法通过C语言来取源码，<br />汇编就好多了是这样的，不通过什么特殊方法
+<br />float num.bytet数组<br />OK首先要看你的编译器中浮点用几个字节表示;<br /><br />对数据操作时用floatnum，用floatnum.num<br />发送数据时;<br />}floatnum，这里假定4个字节<br /><br />union  d{<br />unsigned char bytet[4]
+7
+none
+http://zhidao.baidu.com/question/234480345.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/479827997.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/50812185.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/7699834.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/96270403.html?qbl=relate_question_4

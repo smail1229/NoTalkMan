@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中定义一个二维数组
+然后再从键盘输入数字定义一个二给数组.<br />程序怎么样写,对此二维数组进行初始化,要求此二维数组的行和列由键盘输入
+/<br />for(i=0,m);<br />printf(&quotint a[100][100];),j;先把数组定义的大点<br />int n,&m);<br />scanf(&quot,n,&n),m;; <br />printf(&quot,i;j&lt;n;m;%d&quot;i++)<br /> for(j=0;请输入行数;：&quot;;n&quot;<br />printf(&quot;);<br />scanf(&quot;i&lt;%d&quot;请输入列数;%d&quot：&quot;;请输入%d行%d列数字&#92;j++)<br />   scanf(&quot,a[i][j]); &#47
+5
+none
+http://zhidao.baidu.com/question/530621102.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38622502.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149931174.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/138021473.html?qbl=relate_question_3

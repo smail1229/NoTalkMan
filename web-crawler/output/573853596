@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+a[k++] = left[i++];是什么意思 ,c语言基本问题
+a[k++] = left[i++];<br />拆分了是什么意思
+拆开就是这个意思：<br />a[k]=left[i];<br />k++;<br />i+供福垛凰艹好讹瞳番困+;<br /><br />这是在实现一个数组的复制的过程<br /><br />满意请采纳，不满意请追问
+1
+none
+http://zhidao.baidu.com/question/1302329043679447259.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/142133946.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/231544511.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116013375.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/232488626.html?qbl=relate_question_4

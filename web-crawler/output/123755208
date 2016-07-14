@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个C语言可以再for语句中声明变量吗？
+=10一个C语言可以再for语句中声明变量吗.&#92.h&gt;<br /> return 0, count);&#92;&#92.0编译;nWe have finished;n&quot，里面有这样的例子<br />#include &lt;n%d&quot，还是放在DEV-C中编译都不成功; count&lt，还是编译器有问题？<br />我看《C语言入门经典》;<br /> printf(&quot;);<br />}<br /><br />我不论是放在Visucal C 6;;stdio;<br />int main ()<br />{<br /> for(int count=1 。是书有问题; ++count)<br />  printf(&quot
+ &#47。<br />现在的 C语言 编译器 不再支持这种写法; /  &#47.&#47，块内有效<br />.; 声明<br />../&#47.;/ 语句<br />{<br />int k=0.; 语句<br />}<br /><br />书太老。<br />C++ 语言 允许这种写法; 主函数开始<br />{<br />int a; 块内声明.。<br />例如。<br /><br />C语言的声明必须放在一个块的开始部分这是老式 C语言; 语句<br />};&#47：<br />int x;&#47.; 全局量声明<br />void main()  /&#47.; &#47.;&#47，语句之前.,b.;&#47.;<br />
+6
+none
+http://zhidao.baidu.com/question/141271076.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54752737.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239027587.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/550656855.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155554003.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+请问c语言t=++x||++y&&++z这句话是什么意思?
+t均为int型变量;<br />t=++x||++y&&++z;<br />z=0，t有值为（）;<br />则执行以上语句后,y，设x，<br />x=y=1。（选择一项）<br />a) 不定值<br />b) 2<br />c) 1<br />d) 0<br />请问t=++x||++y&&++z这句话是什么意思在C语言中,z
+不要去理会具体等于多少,可以这样来分,  ++y = 2  ，前面因为++x=2 所以扩号的值是1<br />1&&++z = 1&&1=1<br />这些都是逻辑判断, ++z = 1<br />(++x||++y)&&++zc<br />++x||++y&&++z<br /><br />++x = 2   
+7
+none
+http://zhidao.baidu.com/question/177518892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97050775.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161307288.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/484860412.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/22502496.html?qbl=relate_question_4

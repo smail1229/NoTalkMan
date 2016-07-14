@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里面 数组都要事先定义长度吗 ？
+none
+&#47；<br />if(n &gt;&#47。<br /><br />unsigned int *pAllScores：<br />free(pAllScores)。但是在使用完毕后，要注意释放该动态内存;假设此处为输入成绩;输入n请自行完成;<br /><br />main()<br />{<br />int n = 0，保存到pAllScores。<br />/内存清零<br />&#47, sizeof(unsigned int) * n)，但是可以通过动态内存申请来实现你的要求;&#47，pAllScores就可以当做一个长度为n的整形数组使用了。在此之后须执行如下操作, 0;&#47。比如pAllScores[0]表示学号为0的学生的成绩; 0)<br />{<br />pAllScores = (unsigned int*)malloc(sizeof(unsigned int) * n);<br />/申请内存<br />memset(pAllScores，并打印输出;///此时数组必须是固定长度
+0
+在数组一章中，曾介绍过数组的长度是预先定义好的， 在整个程序中固定不变。C语言中不允许动态数组类型。例如： int n;scanf(&quot;%d&quot;,&n);int a[n]; 用变量表示长度，想对数组的大小作动态说明， 这是错误的。但是在实际的编程中，往往会发生这种情况， 即所需的内存空间取决于实际输入的数据，而无法预先确定。对于这种问题， 用数组的办法很难解决。为了解决上述问题，C语言提供了一些内存管理函数，这些内存管理函数可以按需要动态地分配内存空间， 也可把不再使用的空间回收待用，为有效地利用内存资源提供了手段。 其它文献中所提到的&quot;动态数组&quot;,指的就是利用内存的申请和释放函数,在程序的运行过程中，根据实际需要指定数组的大小.其本质是一个指向数组的指针变量.常用的内存管理函数有以下三个：<br /><br />　　1.分配内存空间函数malloc<br />        2.分配内存空间函数 calloc<br />        3.释放内存空间函数free
+http://zhidao.baidu.com/question/94546322.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/176377248.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/477683817.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/179246243.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/73319596.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中括号
+能帮我解释下这句话什么意思 buffer[pointer++]=SBUF;    新手求教育啊
+这个是单片机的串口接收程序的片段吧<br />buffer应该是一个char或unsigned char的数组<br />pointer是便是数组元素的下标
+1
+none
+http://zhidao.baidu.com/question/155972724.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158895408.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/572681082.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/568370047.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532062342.html?qbl=relate_question_4

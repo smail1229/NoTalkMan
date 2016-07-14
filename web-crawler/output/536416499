@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言传地址调用时 什么时候才将函数值返回 比如这道题。。
+none
+fun（）是一个冒泡排序<br />既然传递的是地址，直接在原些的地址上修改值，因此不用返回<br />如果传的是值，缉乏光何叱蛊癸坍含开需要新开辟内存空间。然后你再return新的地址，就可以了。
+0
+none
+http://zhidao.baidu.com/question/232192884.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/212668646.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1754019402917183428.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/248673790.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/164297244.html?qbl=relate_question_4

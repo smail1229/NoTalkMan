@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+大一新生求教C语言题，大神帮忙啊
+我不会在struct里镶嵌struct;i&lt.day);3.score[1]+p1[i].name，但是运行不了.score[2])&#47.brithday。谢谢,p[i].%d&#92.score[2];<br />    int aver(struct student p1[]);<br />} p1[N].ave.brithday;<br />    void print(struct student p1[]).score[2];)，姓名.day),p1[i],p1[i]；然后在把这个输出并输出三科平均分;<br />void main()<br />{<br />    void input(struct student p1[])，三科成绩;%s%s%lf%lf%lf%d%d%d&quot;i&lt,p1[i];i&lt.score[1]，所以应该是这个问题,p1[i].brithday,p[i].score[0];i++)<br />	  printf(&quot.score[1];%s   %s   %lf  %lf  %lf   %lf  %d.yer;<br />}<br />int  aver(struct student p1[])<br />{<br />	int i;<br />	char name[8];<br />	for (i=0;N,p[i];num     name  score1 2 3  birthday&#92,&p1[i];,month.month.yer，中间我在sturct里镶嵌一个sturct要求输入学生的出生日期;<br />}p2,p1[i].num;i++)<br />	 	p1[i];;<br />    aver(p1);<br />	return p1[i],&p[i].name.ave=(p1[i],p1[i],p1[i];<br />    input(p1),&p1[i];<br />}<br />这函数是有要求输入一个学生的学号（num）.%d.month;<br />	for (i=0，镶嵌之前程序是没问题的;<br />	struct brithday p2;N;<br />	for (i=0.brithday.ave;n&quot;N;<br />	double ave,p1[i];<br />struct student<br />{<br />	char num[6];<br />    print(p1).brithday.h&quot,&p[i],&p[i];i++)<br />	scanf(&quot;<br />}<br />void print(struct student p1[])<br />{<br />	int i.score[0].num;stdio.score[0]+p1[i],day;n&quot,&p1[i];<br />	double score[3];<br />}<br />void input(struct student p1[])<br />{<br />	int i#include &quot.brithday;<br />    printf(&quot;<br />#define N 1<br />struct brithday<br />{<br />	int yer
+fail
+2
+none
+http://zhidao.baidu.com/question/586441043.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1701660861176330660.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554664791.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2073617586982228388.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1817889057953395308.html?qbl=relate_question_4

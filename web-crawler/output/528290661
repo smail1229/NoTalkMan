@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：break语句和if语句在for循环中的使用问题？
+j&lt，统计符合条件的个数cnt并计算和sum;<br />    int a1选出1000到9999范围内所有素数;i&lt;<br />    for(i=1000,a4;<br />        if(a1+a4==a2+a3)      &#47;<br />        a4=i&#47;*循环1*&#47：<br />    int i？第二个if判断条件语句应该属于for循环1中的语句不应该包括在for循环2中吧;               &#47,sum=0,j，break语句执行后下面的if判断条件语句是否继续执行;10;                   &#47？<br />如果继续执行显然和题目要求相悖;i++)              &#47;<br />            sum+=i;<br />        }<br />    }<br /><br />问题;<br />        a3=i%1000&#47;<br />    int cnt=0;i;<br />        a2=i%100&#47;* 定义变量 *&#47,a2;* 判断条件 *&#47,a3：<br />上例中break语句应该只是跳出了for循环2;<br />        {   cnt++;j++)                     &#47，如果不执行原因何在;=9999;<br />    {   a1=i%10;1000;*循环2*&#47;* 数位分解 *&#47;100，且符合以下条件：个位数字加千位数字等于十位数字加百位数字;<br />            if(i%j==0)<br />                break;<br />        for(j=2
+在判断条件中需要在加入一个条件，这个是必须的<br />if(j==i&&(a1+a4==a2+a3))
+0
+none
+http://zhidao.baidu.com/question/182940758.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262991322.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135980025.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/281175186.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/341048202.html?qbl=relate_question_4

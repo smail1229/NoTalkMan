@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言static类型问题
+n&quot;i++)s+=f(i);<br />int a=2;stdio，求详细过程讲解;i&lt.h&gt;3;<br /> if(n%2){static a=4;}<br /> else{static a=5;<br />int f(int n)<br />{<br /> static a=3;<br /> int t=0;<br /> printf(&quot;}<br /> return t+a++;<br />}<br /><br />运行结果是29; t+=a++,i; t+=a++;<br />}<br />void main()<br />{<br /> int s=a,s);;<br /> for(i=0;%d&#92#include&lt
+<br />}<br /><br />int main()<br />{<br /> int s=a; <br />  * f(2) 返回 11;*f(0) 返回8;<br /><br />int a=2, else{} 里的a变为6;<br /> } else {<br />  static int a=5; i++)<br />  s += f(i);stdio.h&gt; <br />  t+=a++;%d&#92, if{}里的a变为5;<br /> if(n%2) {<br />  static int a=4;<br />int f(int n)<br />{<br /> static int a=3;<br /><br /> return 0;<br />  * f(1)返回8;<br /> int t=0, f()里的a变为5,i;/<br />  t+=a++;<br /> }<br /> return t+a++; 2+8+8+11= 29<br />  */ i&lt,s); /<br /> / s=2<br /> for (i=0;3;;n&quot， f() 里的a变为4;<br /> printf(&quot#include&lt
+4
+none
+http://zhidao.baidu.com/question/324114853.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/109319553.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116344736.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89694505.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/90999422.html?qbl=relate_question_4

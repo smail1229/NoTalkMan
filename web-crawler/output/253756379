@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言函数调用的问题.
+;<br />printf(&quot;请输入任意两个自然数;stdio;<br />printf(&quot;<br />s=l(m.h&gt;n&quot;%d&#92,s);;<br />scanf(&quot,n)),n);n&quot;),l(m;<br />int l(int m,&n);%d%d&quot,n,int n)<br />{<br />int s;<br />printf(&quot;<br />s=m+n;<br />scanf(&quot;<br />printf(&quot;？<br />就只是改成这样{int m,&m;);<br />return s,&m;<br />}<br />main()<br />{int m,n;%d%d&quot;请输入任意两个自然数;：&quot：&quot;<br />}     这上面的对的为什么下面的程序执行出来的答案就不同呢#include&lt,&n);%d&#92
+<br />1；<br />2。<br /><br />目前看来你的问题多多啊。后面用到的s没有定义你把完整的代码贴上来吧，当然不能把输入的值加到s了。在输入两个值之前就调用了l函数
+2
+none
+http://zhidao.baidu.com/question/197991713741215365.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/555293425.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/559896791753754164.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/936040143410101892.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/552387894963125852.html?qbl=relate_question_4

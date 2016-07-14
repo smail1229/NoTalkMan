@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中这个关于a,b通过指针交换时，a,b的值为什么没有交换？
+b成功交换但printf(&quot,a,*p,b,a;b;,&b);a=%d;<br />if(a&lt，我想，我哪里理解错了;max=%d;p2=p;<br />}<br />问题; }这一步时;n&quot;b)<br />{p= p1;这个a; }<br />printf(&quot;n&quot;p1=p2,*p1：printf(&quot;%d,min=%d&#92;a=%d;p1=p2;main()<br />{int a;,min=%d&#92,b)，在经过{p= p1;<br />printf(&quot;n&quot;;<br />p2=&b,p2不再指向b了;;n&quot，那么它们也交换了,&a，如果a&lt,*p2);<br />p1=&a,b=%d&#92,b),b还是原值;输出时a;p2=p,b=%d&#92;<br />scanf(&quot;max=%d,*p1，这时p1已不再指向a,%d&quot,*p2,*p1,*p2)
+p1指向了b<br />p2=p;&#47,b的值<br />所以 a;p1指向了a<br />p2=&b;p2指向了b<br /><br />p= p1;p2指向了a<br /><br />所以<br />p= p1;p2=p;&#47p1=&a;//p1=p2;p指向了a<br />p1=p2;/ 三句执行以后只是将指针的指向做了改变;/&#47，并没改变a;//&#47
+5
+none
+http://zhidao.baidu.com/question/279684758.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/348484085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/463215947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/500163322.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中strcmp字符串比较函数的判断标准是什么呀？
+<br />它是如何判断哪个字符串大，是哪个大哪个小呢C语言中strcmp字符串比较函数的判断标准是什么呀，哪个字符串小的呢？<br />用它比较Follow me和Computer design的话
+i&#39,所以&quot,依次比较字符的ASCII码的大小.<br />比如&#39;Computer design&quot;大<br />&quot;F&#39;的ASCII码比&#39,因为&#39;C&#39,在字典中排在后面的单词就是比较大的;比&#39;大;Follow me&quot;的ASCII码大;比&quot,字符串比较实际上就是按字典顺序比较;Fly&quot;比&quot;Fine&quot;大;l&#39.<br />总之. <br /><br />注意ASCII码表中,大写字母排在小写字母前面的,所以大写字母比小写字母小从两个串的第一个字符开始
+2
+none
+http://zhidao.baidu.com/question/116395053.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1111207022490593059.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/65712812.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148798284.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/402283561.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言for(i=5;i;i--)i--循环多少次
+none
+i--)i--：i=1<br />第四轮循环：i=3<br />第三轮循环;i：<br />第一轮循环：i=-1<br />第五轮循环;i-=2);i;<br />这一句其实相当于<br />for(i=5：i=-3<br />……………………<br />这时i的值总是非零值for(i=5;i--);i，所以循环不会终止;<br />或<br />for(i=5;i，才会遇到i=0的情况而停止，比如改为<br />for(i=5;)i--;<br />也就是说：i=5<br />第二轮循环。<br /> <br />取掉一个i--
+1
+语句是个死循环，执行无数次。<br />第1次循环：i=5, 执行循环体i--，i=4，再执行1次i--，i=3<br />第2次循环：i=3，执行循环体i--，i=2，再执行1次i--,i=1<br />第3次循环：i=1，执行循环体i--，i=0，再执行1次i--,i = -1<br />.....然后就进入死循环啦。
+http://zhidao.baidu.com/question/404115695.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148131067.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52054451.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/81025954.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/213015859.html?qbl=relate_question_4

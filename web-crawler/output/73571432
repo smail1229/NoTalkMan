@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮我看一下这段程序（c语言）“求前n个素数”
+&n);<br /> int p;<br /> int a[n+1];=2)<br />  {<br />   if (i%m==0) break;=n)<br /> {<br />  printf(&quot.h&gt;%d&quot;<br />  q=q+1#include&lt,m;<br /> while (p&lt,i;n&quot;<br /> }<br />}<br />错误是 021;<br /> p=2,a[q]);=n)<br /> {<br />      m=i-1;<br />  while (m&gt;<br /> a[1]=2;<br /> i=3;<br />  }<br />  else<br />  {<br />   i=i+1;type&#39;<br /> while (q&lt;<br />void main()<br />{<br /> int n;<br />   p=p+1;<br />   i=i+1;%d&#92;<br />  }<br /> }<br /> q=1, 0 warning(s)<br />missing &#39;; before &#39;<br /> scanf(&quot;;&#39;stdio;;<br />      m=m-1<br />  }<br />  if (m=1) <br />  {<br />   a[p]=i,q.exe - 1 error(s)
+ <br />scanf(&quot; <br />a=(int *)malloc(sizeof(int)*(n+1));%d&quot，可以如下有两个问题<br />首先,&n),*a，数组的分配不能是变量，如果不是C99标准，也必须在开头定义<br />如果想定义n+1长度的数组的话：<br />int n;; <br /><br />希望选为答案，第17行<br />m=m-1后面没加分号<br />其次
+2
+none
+http://zhidao.baidu.com/question/248150164.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/179843727.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/246991606.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1445916071521269940.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/136818793.html?qbl=relate_question_4

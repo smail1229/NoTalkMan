@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编写一个C语言程序，显示如下菜单并实现相应的菜单选择功能
+none
+fail
+0
+&#47;*本程序没有采用严格的措施防止错误的输入，<br />  所以请在看源程序之后再输入。<br />  运行后会有如下提示：<br />  “请输入你的选择及整数n(用逗号来间隔)：”<br />  这时可以输入这样的选择：“1,2”，即求2的立方<br />                          “2，125”，即求125的立方根<br />        “3”，退出程序*&#47;<br /><br />#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br /><br />display();<br />lifang(n);<br />lifanggen(n);<br /><br />main()<br />{<br /> int choice,number;<br /> display();<br /> printf(&quot;请输入你的选择及整数n(用逗号来间隔)：&#92;n&quot;);<br /> scanf(&quot;%d,%d&quot;,&choice,&number);<br /> switch(choice)<br /> {<br /> case 1:<br />  lifang(number);<br />  break;<br /> case 2:<br />  lifanggen(number);<br />  break;<br /> case 3:<br />  break;<br /> }<br />}<br /><br />display()<br />{<br /> printf(&quot;************************************************&#92;n&quot;);<br /> printf(&quot;1.求整数n的立方&#92;n&quot;);<br /> printf(&quot;2.求整数n的立方根&#92;n&quot;); <br /> printf(&quot;3.结束程序&#92;n&quot;); <br /> printf(&quot;************************************************&#92;n&quot;);<br />}<br /><br />lifang(n)<br />{<br /> double val=n;<br /> int time=3;<br /> printf(&quot;%lf&#92;n&#92;n&#92;n&quot;,pow(val, time));&#47;*如果将%lf--&gt;%d就不能得出结果*&#47;<br /> main();&#47;*这里是简单的调用主函数来返回初始选择列表，还有其他方法实现*&#47;<br />}<br /><br />lifanggen(n)<br />{ <br /> double val=n;<br /> double time=0.333333333333333;<br /> &#47;*这里为近似的1&#47;3的值，因为要求<br /> 一个数字的立方根需要用到求立方根的算法，这里为求省事没有给出<br /> ，百度里边可以搜到*&#47;<br /> printf(&quot;%lf&#92;n&#92;n&#92;n&quot;,pow(val,time));<br /> main(); <br />}
+http://zhidao.baidu.com/question/117465828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/106333942.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192664702.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/8070575.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/170669832.html?qbl=relate_question_4

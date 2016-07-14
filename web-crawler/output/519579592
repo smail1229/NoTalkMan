@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言当中，这个表达式该怎么求 d=a&gt;b?(a&gt;c?a:c):(b);
+none
+先比较a是否大旦俯测谎爻荷诧捅超拉于b，不大于的话表达式就直接等于b，<br />大于b的话再计算小括号里面的(a&gt;c?a:c)，就是当a大于c的时候返回a，a小于等于c的时候等于c，大概就这样
+6
+none
+http://zhidao.baidu.com/question/525455076.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/155933510.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/165364338.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/559505327.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154182879.html?qbl=relate_question_4

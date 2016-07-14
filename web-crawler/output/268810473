@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中如何定义字符串？
+none
+rather&quot;&#92,&quot,char string3[6][30];）;michael scofield&quot;；<br />此句表示有6个字符串;0&#39，2句表示定义了一个字符数组string1;,&quot,char string3[6][30]=,&quot;,并初始化了17个元素（&quot：<br />1,&quot;;加上结尾的&#39;phosee&quot;<br />2;<br />1句表示定义个长度为10的字符串;michael scofield&quot，char string1[]=&quot;;，每个字符串的长度为30;prison break&quot;ross&quot;;&#92,3句定义了一个有100个元素的字符数组string2;中的字符个数加上结尾的&#39；<br />一维的情况如下,&quot;<br />2，并进行初始化，每个字符串的初始值与“joy&quot，使得其长度自动为13（字符串”prison break&quot，但未赋值;;<br />3一维和二维的都可以;chandele&quot；<br />二维的情况如下：<br />1;monses&quot，char string0[10]，char string2[100]=&quot;0&#39;);相对应
+178
+<p>可以通过字符数组或字符指针来定义字符串，也可以用宏定义对常量字符串进行定义。</p><p><br /></p><p>下面通过举例来分别进行说明：</p><pre t="code" l="cpp">char&nbsp;str1[]&nbsp;=&nbsp;&quot;HelloWorld&quot;;&nbsp;&nbsp;//&nbsp;通过字符数组来定义字符串&quot;HelloWorld&quot;，数组中每个存储单元存放一个字符<br /><br />char&nbsp;*str2&nbsp;&nbsp;=&nbsp;&quot;HelloWorld&quot;;&nbsp;&nbsp;//&nbsp;通过字符指针来定义字符串&quot;HelloWorld&quot;，指针str2指向一个存放字符串&quot;HelloWorld&quot;的连续地址单元的首地址<br /><br />#define&nbsp;str3&nbsp;&quot;HelloWorld&quot;;&nbsp;&nbsp;//&nbsp;通过宏定义来定义字符串&quot;HelloWorld&quot;，等价于str3=&quot;HelloWorld&quot;</pre>
+http://zhidao.baidu.com/question/454612191.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/453932112.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/266387091.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/283418788.html?qbl=relate_question_3

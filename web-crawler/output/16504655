@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+C语言问题 int i=10 变量10的存储形式是0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 这是什么意思
+none
+int i= 是整形变量，2个字节，既二进制16位<br />计算机中内部数据形式都是二进制的“0”和“1”<br />二进制0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0<br />最后四位是1010，（1010）2=（10）10 既二进制的1010等于10进制的10
+0
+none
+http://zhidao.baidu.com/question/350620278.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/183047169.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/14776442.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/525369855.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1046193456913602339.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中循环控制语句中的while(1)中括号里的到底是对谁的判断？
+none
+&lt，显然1永远不可能等于0，<br /><br />while(1)，表达式结果是0表示条件不成立，是个无限循环，停止循环，while(1)循环会无限进行下去，所有表达式都可以作为条件，所以条件永远成立C语言条件表达式不一定是那些&gt，C语言会判断表达式1的值是否等于0，while表达式的结果是非0表示条件成立继续循环;==之类的比较
+25
+none
+http://zhidao.baidu.com/question/187484771.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/539778727.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/172362222.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/454934905227474765.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/75997029.html?qbl=relate_question_4

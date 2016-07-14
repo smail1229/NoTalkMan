@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言i+=2和i=+2的区别
+none
+i+=2相当于i=i+2;<br />i=+2就是i=2;(+)为正号
+18
+<p>i+=2; &nbsp;等价于i = i + 2; &nbsp; // 将i的值加2后再赋值给变量i</p><p>i=+2; &nbsp;等价于i = 2; &nbsp; &nbsp; &nbsp; &nbsp;// 将2赋值给变量i</p><p><br /></p><p>下面通过具体的实例来说明两者的区别：</p><pre t="code" l="cpp">int&nbsp;i=3;<br />i+=2;<br />printf(&quot;%d&quot;,&nbsp;i);&nbsp;&nbsp;//&nbsp;输出5，因为i+=2等价于i=i+2=3+2=5<br /><br />int&nbsp;i=3;<br />i=+2;<br />printf(&quot;%d&quot;,&nbsp;i);&nbsp;&nbsp;//&nbsp;输出2，i=+2相当于是将+2赋值给变量i，而正数的+号可以不写，所以输出2</pre>
+http://zhidao.baidu.com/question/212889108.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/216314102.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/303834953631300124.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1945618505929843348.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/808211529605947612.html?qbl=relate_question_4

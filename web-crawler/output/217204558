@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序数组比较问题
+;<br />        printf(&quot;<br />        for (i=0;请输入需要查找的学生姓名;YES&#92： 000;请输入学生姓名.h&gt;%s&quot;;);j&lt;3;),b)==0):&#92;<br />main()<br />{<br />        char a[3][3];i&lt;<br />        for (i=0;)，保存到数组a中，谁能帮我找到问题;i++)<br />        {<br />                printf(&quot;<br />                                printf(&quot;j&lt.h&gt;i++)<br />        {<br />                for (j=0;<br />#include&lt,b[3],i),n.c                                                                  <br /><br />#include&lt;<br />        int i;<br />                }<br />        }<br />}<br /><br />编译不成功;j++)<br />                        scanf(&quot;输入第%d组学生姓名;3;<br />        gets(b);3;n&quot;n&quot;n&quot,j.2;string;j++)<br />                {<br />                        if (strcmp(a[i][j];<br />        }<br />        printf(&quot;n&quot;i&lt,a[i][j]).2                               文件;3GNU nano 2;<br />                for (j=0:&#92:&#92;stdio
+只能放两个字符（1个汉字）<br />#include&lt;);<br />        }<br />        printf(&quot;3;<br />        int i;<br />        gets(b);<br />        for (i=0;<br />        printf(&quot:&#92.h&gt，保存到数组a中;i++)<br />        {<br />       if (strcmp(a[i];<br />main()<br />{<br />        char a[3][30];)存放字符串的数组要大一些;* a数组可以存放三个姓名 */3,b)==0)<br />             printf(&quot;n&quot;n&quot;stdio;<br />#include&lt;<br />                gets(a[i]);YES&#92.h&gt:&#92;输入第%d组学生姓名:&#92;i&lt;n&quot;n&quot;<br />        for (i=0;string;);i++)<br />        {<br />                printf(&quot;请输入需要查找的学生姓名，定义为3时,i);;i&lt;请输入学生姓名;   &#47,b[30]
+1
+none
+http://zhidao.baidu.com/question/687512171168815604.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/427141948.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55290866.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/351544512.html?qbl=relate_question_3

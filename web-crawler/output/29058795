@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问new char是C＋＋还是C语言的呢？它的作用是什么，如果是C++的转换成C语言要怎么表达呢？
+拜托了，我在做课程设计，遇到了点问题，希望各位高手帮忙
+new是C++定义的运算符之一，其作用相当于C语言中的malloc函数，即在堆内存上分配用户指定的大小的内存。<br />使用new申请的内存必须使用俯酣碘叫鄢既碉习冬卢delete函数释放，就像C语言中使用free函数释放一样，否则会造成内存泄漏<br /><br />改成a=(char *)malloc((n+1)*sizeof(char));也可以，不过比new char多分配了一个char的内存空间，倒也无关紧要。因为C++是兼容C语言的语法和运行库的，所以改动后的语句是可以在C++环境下运行的。
+4
+none
+http://zhidao.baidu.com/question/98920095.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/82338496.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/550645932.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/518931335922407525.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/550641013.html?qbl=relate_question_4

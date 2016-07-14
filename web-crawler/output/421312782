@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中if return的用法
+<br />                !=10) return，case 1语句怎么执行的？<br />当if为假的时候;<br />case 2:LED=~LED？<br />最后效果是执行case1的时候LED闪烁5次，if为真的时候return怎么执行.(一下语句省略)<br />}<br />----------想问一下中断函数里，为真的时候则从K=0执行：<br />switch(i)<br />{<br /> case 1，return跳出case1..;<br />         break.;<br />          K=0.，if为假的时候return怎么执行；<br />      i=2.;<br />          if(++K
+<br />LED=~LED：<br />LED=~LED，执行以下语句if为真时;<br />i=2;<br />跳出switch;<br />跳出函数<br /><br />if为假的时候;<br />if判定<br />return，执行;<br />if判定<br />K=0
+4
+none
+http://zhidao.baidu.com/question/59813178.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/421312984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/14902400.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/180784576.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/245525471.html?qbl=relate_question_4

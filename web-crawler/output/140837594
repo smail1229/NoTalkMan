@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言计算幂函数怎么算
+在使用pow函珐抚粹幌诔呵达童惮阔数时，我想计算x^x,<br />我想设三个变量，   x,y,z    <br />y=x个x相乘，然后z每循环一次+1，直到z=x为止。<br />不知道程序怎么写啊？<br />请高手帮助一下，我是个初学者，提这问题请你们不要笑话！
+#include &lt;stdio.h&gt;<br />int main(void)<br />{<br />    int x,y=1,z;<br />    printf(&quot;Enter x:&quot;);<br />    scanf(&quot;%d&quot;,&x);<br />    for(z=1珐抚粹幌诔呵达童惮阔;z&lt;=x;z++)<br />     {<br />       y=y*x;<br />      }<br />    printf(&quot;y=%d&quot;,y);<br />    return 0;<br />}<br /><br />或<br />#include &lt;stdio.h&gt;<br />#include &lt;math.h&gt;<br />int main(void)<br />{<br />int x,y;<br />printf(&quot;Enter x:&quot;);<br />scanf(&quot;%d&quot;,&x);<br />y=pow(x,x);<br />printf(&quot;y=%d&quot;,y);<br />return 0;<br />}
+14
+none
+http://zhidao.baidu.com/question/373108675.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/11492578.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/64456544.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/26776768.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/90375648.html?qbl=relate_question_4

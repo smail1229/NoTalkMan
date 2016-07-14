@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中for for 嵌套语句
+麻烦分析一下.h&quot;stdio,i+j);=1;);i--) {for (j=1;%d&quot;;n&quot，先谢了，怎样运算;&#92;i&gt; for(i=3; printf(&quot; void main( ) {int i;j++) printf(&quot。 #include &quot，有个题目;=2;j&lt，关于for for语句嵌套的程序,j刚接触c语言不久
+然后你把内层循环看成是一段语句for(i=3,然后再判断此时j是否&lt，然后按照内层循环的分析方法去看外层循环就可以了;=1;&#92;=2;=2;=2;i--)<br />      {<br />          for (j=1;&#92;=2;i&gt; 然后执行j++;%d&quot;n&quot;;=1，如果满足条件;)。当内层循环执行完退出循环时接着执行下面的语句 printf(&quot;j&lt,i+j););=2;i--)是外层循环，则执行<br /> printf(&quot，在内层循环中for (j=1,如果满足就执行 printf(&quot;n&quot;j++)中的j=1，for (j=1;j++)<br />               printf(&quot;j&lt; <br />          printf(&quot;j++)是内层循环，然后判断j是否&lt;j&lt;%d&quot，以后的循环过程不会执行它;%d&quot，但是记得，只在进入循环时执行一次;; 否则就退出循环,i+j)，一直这样循环下去，for (j=1;j&lt;;<br />      }<br />这是两个for循环for(i=3;j++) 做的事情就是先给j初始化为1,i+j);=2;i&gt
+18
+none
+http://zhidao.baidu.com/question/433803138.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/516548920.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/569279885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92049241.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161954518.html?qbl=relate_question_4

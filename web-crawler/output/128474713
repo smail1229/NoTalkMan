@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中double如何转换成float类型
+none
+%f&quot.4L;<br />printf(&quotdouble 转换成float;<br />}<br /><br />如果数值范围超界，则不应转换, 如果数值没有超界;<br />float b;<br />b = (float) a;,b)，例子如下：<br /><br />void main()<br />{<br />double a=123
+4
+(float) double类型的表达式
+http://zhidao.baidu.com/question/395934984.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125054490.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/73294595.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/568534331.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239035801.html?qbl=relate_question_4

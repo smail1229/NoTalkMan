@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里假定x和y为double型，则表达式些x＝2,y＝x+3&#47;2的值是？
+y＝x+3&#47c语言里假定x和y为double型;2的值是，则表达式些x＝2
+然后的y=x+3/2;注意这里3&#47，但输出的值当然也是实数，就是3，而不是以实数形式出现，结果是取商;2并不是1，因为当除数和被除数都为整型时.5而是1，所以这里y=2+1当然等于3啦楼上的答案是错的，首先把2赋给x变量
+109
+none
+http://zhidao.baidu.com/question/215404197.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/330813509.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/241265491.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/51015080.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/127716380.html?qbl=relate_question_4

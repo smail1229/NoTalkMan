@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+简单的C语言程序，一直有错
+reg51;&#47: undefined identifier<br />LED;        <br />#include&lt;<br />   <br /> void main (void)<br /><br />{<br />      sbit P2_4 = P2^4#include&lt;<br />      sbit P2_7 = P2^7.h&gt.h&gt: error C202;低电平有效;P2_4&#39: error C202: &#39: &#39;<br /><br />while(1)<br /><br />    {<br /><br />     P2_4 = 0;<br /><br />    }<br /><br />}<br /><br />出现;&#47.C(10);string.C(17);;P2_7&#39：<br />LED，如果把LED反过来接那么就是高电平有效<br />   P2_7 = 0;
+<br />sbit P2_7 = P2^7;string;reg51;<br />sbit P2_4 = P2^4sbit不能在函数内部使用（关于这一点我现在也没搞太清楚;&#47.h&gt;/  <br /> <br />void main (void)<br /><br />{<br />    while(1)<br />    {<br /><br />     P2_4 = 0.h&gt;        <br />#include&lt，以后可以共同探讨)<br />改成以下形式就没有错误了<br />#include&lt;低电平有效，如果把LED反过来接那么就是高电平有效<br />   P2_7 = 0
+0
+none
+http://zhidao.baidu.com/question/623610699093223284.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239733823596243484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/191299902.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/439681965.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/617035375428821572.html?qbl=relate_question_4

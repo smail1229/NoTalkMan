@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言输入一个正整数n和一个实数x,计算x的n次方的值。
+none
+<br />  if(n&lt;%d&quot;<br />void main()<br />{<br />  printf(&quot,&n).0;stdio.&quot;=n;);n&quot;Please Input num;<br />  else<br />  {<br />    for(i=1;i&lt;;<br />  printf(&quot;<br />  scanf(&quot,i,s)#include&lt;<br />int n;).h&gt;<br />  scanf(&quot;;<br />  else if(n==0)<br />	  s=1;0)<br />	  printf(&quot;n must greater than 0;);%f&#92,&x);%f&quot;;<br /><br />float x:&quot;<br />	}<br />  }<br />  printf(&quot;Please Input x;<br />float s=1;i++)<br />	{<br />	  s=s*x:&quot
+4
+none
+http://zhidao.baidu.com/question/261722494.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/432947509.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/93577096.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/58310892.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/308092632.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言scanf函数的
+<br />这三个scanf语句是分开的阿;<br />俺在学习的时候很搞不懂这道题<br />main()<br />{<br /> int i=0;;<br /> scanf(&quot;,&i).3   那么程序就结束了   输出结果是 12 0 0<br />为什么？ 到底是怎么回事呢,&j);%d&quot,k);<br /> scanf(&quot,%d&#92,i,j;%d&quot;n&quot,j=0;%d&quot,&k)，为什么我第一个输入错误后面两个就都不用输入了呢，是三句阿;<br /> printf(&quot;;<br /> scanf(&quot,k=0#include &lt;<br />}<br />如果我输入的是12.h&gt,%d;%d;;stdio
+会先读取缓冲区中的数据（如果缓冲区为空就从标准输入读取，结果第二个scanf()也无法将遗留的数据转换为int型值，第三个scanf()同样要从缓冲区读取上次遗留的数据，而且缓冲区中遗留的数据它们也无法转换，所以这些数据就遗留在了缓冲区中，所以这些数据继续遗留在缓冲区中，这样到第二个scanf()读取时，否则就不会从标准输入读取）。所以后两个scanf()均无须再从标准输入（一盘情况下就是键盘）读取数据因为第一个scanf()在读取时遇到了无法转换为int型值的数据
+2
+none
+http://zhidao.baidu.com/question/540228938.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258997922.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/61078896.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/623631989169281364.html?qbl=relate_question_3

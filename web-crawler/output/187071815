@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言如何检查一个数组中元素的个数
+none
+本想是“补充问题”！<br />—— 设置计数器是个好办法，当然后一个美人理财，“好习惯使人受益终身”嘛。<br />不过那只是装满的情况，挺简单的，但楼主的意思肯定是要有已求值（中间变量或结果）部分和未求值部分的分别的数量值，还被扣分儿，我还在线。还有FLAG 类布尔值（或开关变量）也是个不错的主意，我以为零回答不会被扣分儿的，我刚刚被关闭了个提问问题。<br />（顺便说下，问题已自行解决。郁闷中，却没问题，把我的纯C代码主部（含注释）贴上去的，被强制关闭了，没想到刚复制了楼上正解
+2
+<p>对于字符数组str[N]，判断方法有以下三种：</p><ul><li><p>第一种：用库函数strlen</p></li></ul><pre t="code" l="cpp">len&nbsp;=&nbsp;strlen(str);&nbsp;//&nbsp;数组长度</pre><ul><li><p>第二种：利用计数器</p></li></ul><pre t="code" l="cpp">int&nbsp;i=0;<br />while(str[i++]&nbsp;!=&nbsp;&#39;\0&#39;);&nbsp;//&nbsp;数组str的长度为i</pre><ul><li><p>第三种：利用sizeof函数</p></li></ul><pre t="code" l="cpp">len&nbsp;=&nbsp;sizeof(str)/sizeof(str[0]);&nbsp;//&nbsp;数组长度</pre><p>对于其他类型的数组，都可以用字符数组的第三种方法，第三种方法是通用的。<br /></p>
+http://zhidao.baidu.com/question/523874168.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/342610813.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55248207.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/571480122.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中用完scanf函数后是否都应该或者说可以用fflush(stdin);函数刷新缓冲区?
+如题。谢谢
+为确保下次输入是地,不出现读取之前的回车符错误,可以选择用fflush(stdin)函数刷新缓冲区
+5
+none
+http://zhidao.baidu.com/question/136706791.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145325291.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/50556357.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/540228938.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/10860155.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中关于float型有一处不明：就是单精度的有效位数是7位，为什么在下面的例子中这8位都是准确的呢？
+这里却是前8位都一样呢！？？<br />谢谢.789e5。运行程序得到的a和b的值都是12345678848，并不能准确表示该数定义a的值为123456！；b的值为a+20<br />理论应该得到的值为12345678920而一个实型变量只能保证的有效数字是7位有效数字.000000<br />为什么本应该有7个有效数字，后面的数字是无意义的？！
+它是说保证7位准确，并不是说第8位就肯定不准确。
+3
+none
+http://zhidao.baidu.com/question/138086364.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/131267351.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147134488.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/249882919.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/163051048.html?qbl=relate_question_4

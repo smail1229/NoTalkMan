@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+谁有一个排序的C语言程序，最好是起泡法！要求每步排序的结果都能输出看到！直到最后的结果！
+none
+没有任何优化的冒泡排序 <br />int BubbleSort(int a[];<br />  for (i=0;<br />  BubbleSort(a;n&quot;<br />       a[j+1]=temp,5,3;<br />  return 0;++i)<br />    {<br />      int j;<br />  getchar();stdio,int n)<br />{<br />  int temp,k;&#92;++j)<br />        {<br />   if (a[j]&lt;&#92;;%d &quot;<br />  int i!=n; <br />       printf(&quot!=10;i,a[k]); <br />int BubbleSort(int a[];<br />       a[j]=a[j+1];++i)<br />    printf(&quot,4;<br />  for (i=1,a[i]);),2;<br />}<br />/%d &quot,5源程序<br />#include&lt;<br />}<br />结果,10);<br />  getchar();<br /><br />  getchar(););j;<br />       for (k=0;<br />  int i;n&quot;<br />            }<br />        }<br />    }<br />  return 0.h&gt,4;a[j+1])<br />            {<br />       temp=a[j],5};;i;k,9;<br />  printf(&quot,6;<br />      for (j=0,int n);/<br />int main()<br />{<br />  int a[10]={1;++k)<br />  printf(&quot!=n-i!=n
+0
+none
+http://zhidao.baidu.com/question/77122003.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7896068.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/159544968.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/17554026.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/176003425.html?qbl=relate_question_4

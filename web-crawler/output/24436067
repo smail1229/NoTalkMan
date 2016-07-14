@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中&quot;%d%d&quot;和&quot;％d，%d&quot;有什么区别
+none
+ “%d%d”输出时没逗号间隔 、回车，“%d%d”输入两个变量时可以用空格、和tab键间隔，而后一个有如果是在printf函数中 。<br />如果是在scanf函数中，但是后一种只能用逗号间隔
+10
+都是两个整型的通配符，可以用于格式化输入&#47;输出函数内。如printf和scanf。<br /><br />一、当用于输出时：<br />1. %d%d的输出形式，两个整型的结果是相连的，中间没有任何分隔。比如两个数分别为123,和456，那么会输出<br />123456<br />2. %d,%d的格式，输出时两个整型数值会以逗号分隔。同上例，会输出<br />123,456<br /><br />从以上区别上看，用逗号分隔的输出效果更好。<br /><br />二、当用于输入时，二者对输入的格式要求不同。<br />1. 用%d%d输入时，没有指定输入的间隔，这时凡是不可见字符，包括空格&#39; &#39;，制表符&#39;&#92;t&#39;，换行符&#39;&#92;n&#39;均可以用作输入的分隔。<br />2. 用%d,%d输入时，限定格式必须是以逗号分隔。即当输入完第一个数时，必须紧跟一个逗号，否则输入会出错。 需要说明的时，这种格式只限定第一个数字后必须为逗号，而逗号和第二个数字之间是否有不可见字符，并没有要求。<br /><br />从输入的区别上看，使用无分隔方式输入时更为灵活。
+http://zhidao.baidu.com/question/142477073.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/29511246.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/189741310.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/808174216394781372.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/189968344.html?qbl=relate_question_4

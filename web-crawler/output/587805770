@@ -1,0 +1,11 @@
+娱乐休闲 动漫 
+while（（*t++=*s++）！=0）在c语言中的意思
+none
+句法上分析， *s++，先将*s 的值赋给*t 因为赋值表达式的值为左边的值，所以接下来判断*t != 0。最后再执行*t++
+3
+<p>先将s指的值赋给t，再看t是否不等于空，是则执行while下面的语句，否则跳出while循环！</p><p>示例如下，长度为5，所以只有前五次不等于空，所以只输出了五个OK：</p><p><a href="http://f.hiphotos.baidu.com/zhidao/pic/item/9213b07eca80653859c49fcb92dda144ad34823f.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://f.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=e6cd926ad458ccbf1be9bd3c29e89006/9213b07eca80653859c49fcb92dda144ad34823f.jpg" esrc="http://f.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=d5191730b93eb1354492bfbf932e84e5/9213b07eca80653859c49fcb92dda144ad34823f.jpg" /></a></p>
+http://zhidao.baidu.com/question/200529125.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/235447808.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/937782921257439572.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/150926970.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/232305867.html?qbl=relate_question_4

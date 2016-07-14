@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 new char
+char *y = new char[10俯碃碘度鄢道碉权冬护];<br /><br />然后 输出 strlen(y)<br /><br />为什么不是10呢？
+结果值比10大的原因，可能是由于你在字符串赋值时，没有在字符串的结尾加&quot;&#92;0&quot;吧。<br />由于strlen()函数是查找&quot;&#92;俯碃碘度鄢道碉权冬护0&quot;为依据，来统计字符数的，字符串结尾是用&quot;&#92;0&quot;表示结束的。<br />另外，你这不是C语言，是C++；在C语言里，还没new操作符，申请内存是用的malloc()函数。
+3
+none
+http://zhidao.baidu.com/question/488147215459397732.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/550645932.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143206147.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/29058795.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1366287545352366339.html?qbl=relate_question_4

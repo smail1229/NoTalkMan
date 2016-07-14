@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目，帮用中文解释一下：a[i++]=a[i]++
+none
+在循环中就是挨个往后取a[i++]表示数组下标自增，望采纳，a[i]++就是当前元素自增1，这句的意思就是将当前元素自增1赋值给当前元素的下一个元素
+0
+none
+http://zhidao.baidu.com/question/431581199146604484.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1829888821254503060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/25276757.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/534979672.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/236275909.html?qbl=relate_question_4

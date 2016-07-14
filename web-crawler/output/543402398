@@ -1,0 +1,11 @@
+电脑/网络 
+c语言的二级指针如何初始化了？
+none
+这不一定的，<br />那要看你怎么使用变量p了。
+1
+<p>二维指针初始化分配空间分成两步操作：</p><ol><li><p>先分配二维指针的行数</p></li><li><p>再分配每行的数据空间</p></li></ol><p>如：</p><pre t="code" l="cpp">int&nbsp;**p;<br />int&nbsp;n=10;<br />int&nbsp;m=100;<br />p=(int&nbsp;**)malloc(&nbsp;n*sizeof(int&nbsp;*)&nbsp;);&nbsp;//分配n行<br />for(&nbsp;i=0;i&lt;n;i++&nbsp;)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;p[i]=(int&nbsp;*)malloc(&nbsp;m*sizeof(int)&nbsp;);&nbsp;//为每行分配m个数据空间<br />}</pre>
+http://zhidao.baidu.com/question/97127973.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/31178923.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/122163848.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148080380.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/515661518.html?qbl=relate_question_4

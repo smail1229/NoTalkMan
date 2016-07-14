@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中&是什么意思?a&b怎么理解?
+谢谢了,着急啊,这个是题库里面的题我要考省二级
+*/*b=11011101b。<br />例如;*a=10100101b。例如&a（假设a是一个左值;<br />c=a&b;&#47,b。每一个位的位与运算法则是。（ l18230365 错误，即具有具体的可访问的地址）结果为a的地址：<br />char a。<br />如果运算对象有两个;<br />结果是c==0x85，那么&为取地址运算符。结果中的每一个二进制位等于两个运算数的对应位置的二进制位按位与;<br />a=0xc5&在C语言中可能表示两种运算符，当且仅当运算数都为1时结果为1，11111101b是位或a|b的结果，即：1 & 1 == 1，1 & 0 == 0 & 1 == 0 & 0 == 0;&#47。<br />如果运算对象只有一个，结果为操作对象的地址;*c=10000101b*&#47，那么&表示位与运算;<br />b=0xdd;*/&#47，且为右操作数
+75
+none
+http://zhidao.baidu.com/question/199115805.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/180229258.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/184311149.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/500389180.html?qbl=relate_question_3

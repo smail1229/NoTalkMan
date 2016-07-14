@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序理解
+double Tgs_Com(int a,double b)           <br />{<br /> double com_value;<br /> switch (a)<br />  {<br />    case &#39;0&#39;: com_value=(-2.453908E-09)*pow(b,3)+(8.292913E-07)*pow(b,2)<br />+(-2.346158E-06)*b+1.013119;  &#47;&#47;x<br />    case &#39;1&#39;:  com_value=(2.405112E-09)*pow(b,3)+(-5.813527E-07)*pow(b,2)<br />+(1.241796E-04)*b+1.009551;  &#47;&#47;y<br />    case &#39;2&#39;:  com_value=(-1.630545E-09)*pow(b,3)+(1.923637E-07)*pow(b,2)<br />+(8.224690E-05)*b+1.009903;  &#47;&#47;z<br />   brea畅姬扳肯殖厩帮询爆墨k;<br />  }<br /> return com_value;<br />} <br /><br />其中的_Com与_value是什么作用？
+你问的是：Tgs_Com，com_value这两个吧！？<br /><br />Tgs_Com是代表着这个函数的名字，com畅姬扳肯殖厩帮询爆墨_value这个是自定义变量。
+0
+none
+http://zhidao.baidu.com/question/32441696.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/492751216.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239565345.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/548567346.html?qbl=relate_question_3

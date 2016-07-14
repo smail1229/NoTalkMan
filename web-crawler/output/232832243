@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言：?void fun2(char a,char b)  {printf(&quot;%c%c&quot;,a,b);}?char a=&#39;A&#39;,b=&#39;B&#39;;?void fun1(){a=&#39;C&#39;;b=&#39;D...
+;;D&#39;,char b)  {printf(&quot?main();%c%c&quot;%c%c&quot?char a=&#39,b)?  printf(&quot,b=&#39;,a：;};?{ fun1()?void fun1(){a=&#39;A&#39;C&#39;;B&#39;;b=&#39;;},b)c语言?void fun2(char a,a
+fun1后，在整个文件中都可以用，它们的保存地址是整个程序的静态存储区，它们的值分别为AB，当没有运行fun1时,它们属于全局变量，变成了CD因为a，就改变了它们的值,b的声明是在main函数之外
+1
+none
+http://zhidao.baidu.com/question/463107582.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/367805993.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/330574247.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/177131350.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/215769898.html?qbl=relate_question_4

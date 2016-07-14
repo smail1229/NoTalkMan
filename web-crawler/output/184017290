@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+小弟刚刚接触c语言，谁给我解释一下为什么这个赋值语句不对 a=b+c=1；而这个正确 k=i==j;
+none
+因为第一个式子有两个赋值符号<br />而第二畅掸扳赶殖非帮石爆将个是一个赋值符号和一个比较符号<br />根据结合顺序 第二个式子相当于 k=(i==j)<br />判断i是否等于j 如果等于 则(i==j)的值为1 如果不相等 则(i==j)值为0<br />再把这个1或者0赋给k<br />这样就是正确的
+4
+none
+http://zhidao.baidu.com/question/315475610.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/385928388.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/56543069.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1111017622630062659.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142181759.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 i%(int)(x+y)*j&#47;2&#47;3+y
+i%(int)(x+y)*j&#47;2&#47;3+y 其中i=5 j=9 x=2.3 y=45
+3 即5*j/3取商的两次整等于45&#47：i%(int)(x+y)求余：（int)(x+y)为强制转换int型;<br />第四步;2&#47：i%(int)(x+y)*j&#47，结果为47<br />第二步;2&#47，结果为5%47即5<br />第三步;3=7;3为5*9/2/22/2=22;2&#47！52<br />第一步;3+y等于7+45=52<br /><br />完毕：i%(int)(x+y)*j&#47
+6
+none
+http://zhidao.baidu.com/question/1818518126577798868.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234995698.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1882015496232768108.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1754519501209530948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141077901.html?qbl=relate_question_4

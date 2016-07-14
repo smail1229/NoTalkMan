@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目：经过int a[3][4]={{1},{5},{9}}定义只后，元素a[2][0]的值是_____。
+ 5   C. 9     DA. 1     B
+{9,0,0,0,0,0},0,0选C<br />int a[3][4]={{1},{5},{5,0}},0},{9}}={{1;<br />数组元素应该是从a[0][0]到a[2][3]<br />a[2][0]就应该是第三行第一列上的9
+1
+none
+http://zhidao.baidu.com/question/516472879.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/84744288.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/405213698.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/439596442.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/473074359.html?qbl=relate_question_4

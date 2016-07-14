@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+介绍一下C语言中的#include&quot;stdio.h&quot;和#include&lt;stdio.h&gt;的区别。谢谢
+stdio.h&quot;和#include&lt;的区别;stdio.h&gt介绍一下C语言中的#include&quot
+<br /><br />系统在查找文件的顺序上不同，自己写的或者IDE生成的头文件用引号，用引号先搜索当前目录;和#include&lt，建议系统库文件用尖括号;stdio#include&quot，仅仅是建议.h&gt;stdio，用尖括号先搜索系统目录<br /><br />为了能更快的找到头文件.h&quot
+25
+none
+http://zhidao.baidu.com/question/19711252.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/323697896.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/4679710.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/24154492.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/13411449.html?qbl=relate_question_4

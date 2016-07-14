@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言表达式描述，当x,y,z都为int变量。1：x和y中有一个小于z；2：x,y和z中两个为负数；
+none
+ 0 && y &lt; 0 && z &gt,y和z中两个为负数; z && x &gt; 0 && y &gt：x和y中有一个小于z; z && y &gt; 0 && z &lt：x；2;= 0) || (x &lt;= z)) && ((x &lt; 0 && z &lt;= z) || (y &lt1；<br />时是 true 否则 是 false<br /><br />(((x &lt; 0 && x &gt;= 0) || (y &lt
+7
+none
+http://zhidao.baidu.com/question/484863618.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/279670534.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/533641409.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89262330.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92598266.html?qbl=relate_question_4

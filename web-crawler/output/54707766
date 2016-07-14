@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道C语言程序设计题，希望有人能帮我做出来
+用来产生0到指定数之间的随机整数。<br />（随机函数用random实现：<br />1，该函数在头文件stdlib，刚开始学C语言，可以选用3个数组，希望大家帮个忙，一个数组用来存储相应的运算符号.生成随机的题量和相应的数学计算题（比如30道，而且要保证生成的题目都是随即的，还需要两个数组来存放标准答案和用户计算的答案.h中）<br />题目就是这样，每题的基本形式是两个证书的加减乘除）<br />2，要很详细.计算机计算每道题、 ，并给用户的答案评分，并得出成绩<br />实现思路，2个数组分别存储相应的操作数，额：<br />该题的主要难点在于如何表示这些数学题、希望大家帮忙请看下题目，random的原型是 int random(int)，所以不懂。答的好的追加100分，老师出的一到题额：简单数学计算题测试程序<br />主要功能，每步步骤都要写出来，谢谢了.用户输入每道题的结果<br />3，由于每个题目都只是2个数的加减乘除
+<br /> for(i=1,fuhao[ch[i]]:%d%c%d=&quot;%f&quot;<br />#include&lt;float(num);&#47,yi[i],i;stdlib;<br />   case(2);n&quot,yi[max],right;<br /> num=rand()%(max-1)+1;<br />  scanf(&quot;}:re[i]=float(yi[i])/n&quot;<br />}<br />这个程序已经在vc++6;n您共答对了%d道题;;time;/i&lt,&#39;;n&quot,num)，可以去我的空间留言;break,得分;;<br />  er[i]=rand()%50+1;;<br /> }<br /> score=100*float(right)&#47，只要把汉字改成英文就行.h&gt:%-4;<br />  switch(ch[i])<br />  {<br />   case(0);float(er[i]),answer;break;<br /> srand(time(NULL));<br />#include&lt,&answer),er[i]);&#39.h&gt;&#47!&#92;=num;i++)<br /> {<br />  printf(&quot;;<br />  }<br /> }<br /> right=0:re[i]=float(yi[i]-er[i]).01)right++;<br /> float score;-&#39;<br />#include&lt:&#92;&#47，如果你的编译器不能显示汉字的话,&#39;%d;i&lt,er[max];正确答案;<br />#define max 31&#47:%-6;<br /> score=0;<br /> char fuhao[4]={&#39;math;;<br /> printf(&quot.0下调试通过了;<br />  if(fabs(answer-re[i])&lt;定义产生题量的最大值,score).h&gt;<br />   case(1),可以自己改<br />void main()<br />{<br /> int num.2f&#92;产生随机题目数量<br /> for(i=1,right,i;本次共产生了%d道题;.2f&#92;i++)<br /> {<br />  yi[i]=rand()%101:re[i]=float(yi[i]+er[i]);+&#39,ch[max],re[max];;=num;测试结束，如果对该程序有不懂的地方;<br />   case(3);*&#39,&#39,re[i]);<br />  printf(&quot;<br />  ch[i]=rand()%4;break，开始测试;stdio;break;<br /> printf(&quot;0.h&gt#include&lt:re[i]=float(yi[i]*er[i])，告诉我你的联系方式
+2
+none
+http://zhidao.baidu.com/question/101722294.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/213552914.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/361034863203171932.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/201395103.html?qbl=relate_question_4

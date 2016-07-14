@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，素数的判定方法有哪几种？详细的，谢谢！
+none
+<br />	return 1 ;n?a;<br />	scanf (&quot;&#92;<br />		x=(a&lt;<br />	printf(&quot;);;j++)<br />	if(n%j==0) return 0 ;;<br />	int i;<br />	for (m=x+1;i&lt：<br />#include&lt;j&lt;m&lt;<br />}<br />编写函数求素数;i++)<br />	if(IsP(i)==1) printf(&quot;&#92;<br />	for(j=2;y;b),m);i&lt;<br />}<br />int IsP(int n){<br />	int j;<br />void main(){<br />	int IsP(int n),b;);=400;math;n&quot;n&quot,i);%d &quot;=m)<br />				printf(&quot;<br />			if(i&gt;b);i++)<br />			if(m%i==0)break;stdio,y;<br />	for(i=300:b;%d &quot.h&gt?a,&b);<br />	}<br />			printf (&quot.h&gt;,x,a,n=0;m++){<br />		for(i=2;<br />void main (){<br />	int m;m.h&gt;%d%d&quot：<br /><br />#include &lt求任意两个整数之间的素数（两整数大小不确定）;<br />#include &lt;stdio;<br />		y=(a&gt:b,&a,i
+0
+none
+http://zhidao.baidu.com/question/173264817.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/243547179.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/338598735.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/468129014.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/91798033.html?qbl=relate_question_4

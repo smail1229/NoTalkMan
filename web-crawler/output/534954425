@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+函数COS（X）X为角度值，用C语言如何编写出角度X的函数值？？
+none
+include &lt;X为角度<br />{<br /> double xJidu=X*PI&#47.h&gt;<br /> return cos(xJidu);<br />#define PI 3.1415926<br />double cosJIadu(const double& X)/math;180;<br />}<br />或直接<br />cos(X*PI/180)调用;&#47
+1
+none
+http://zhidao.baidu.com/question/23095723.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/4690341.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/134126124.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88105273.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/548499630.html?qbl=relate_question_4

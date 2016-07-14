@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求详细解释一下c语言代码 for(++p;p&lt;=q;++p)*(p-1)=*p
+none
+最终运行结果是x（m）=x（m+1）=.。<br />总之，如果p指向x（m），n应该大于m。<br />for循环首先把p从当前位置x（k）移动到x（k+1）作为初值，为超表达方便，数组记为x（i）.＝x（n），初始时。<br />循环体将数组当前位置数据拷贝到前一个位置，只要指针没到q指向的位置，q指向x（n），就继续循环，按上面代码应该指向某类型的数组.。<br />求采纳p是一个被初始化过的指针，循环每次递增一个数据
+2
+none
+http://zhidao.baidu.com/question/196068356.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/411328899.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/750791173182859524.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1365963872677283539.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/495176921586141604.html?qbl=relate_question_4

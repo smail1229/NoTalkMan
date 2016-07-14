@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中while(*t!=0)是什么意思？
+none
+t是一个 指针变量，  *t  是对指针取值的意思<br />while （*t!=0） 就表示  只要 t所指向的 值  *t 不为0  就执行 while 子循环语句<br />直到 *t==0为止  所以 *t的值肯定 是在变   而且 最终 值会 变到0 （如果不是这样 那么 就是死循环了  无意义了 ）<br />就这么个意思了 <br />希望有帮助
+2
+none
+http://zhidao.baidu.com/question/1445803333210348060.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/587805770.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/200529125.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253422919.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/212423070.html?qbl=relate_question_4

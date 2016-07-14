@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+高级语言程序设计题
+<br />找出最大体重和最小体重main()<br /> { int k;<br />   int a[10]={69,70;a[k] max=a[k]),s,min,62,59;<br />   max=a[0];,s,81,65;【1】,min),72,68; min=a[0];a[k] min=a[k]),77,75};<br />       }<br />      s=【3】;n&quot;。求出他们的平均值; s=a[0]<br />   for (k=0；k++)<br />       {s=【2】;s=%f max=%F min=%f&#92;<br />       if(max&lt！教教;<br />       if(min&gt！;<br />      printf(&quot,smax;<br /> }<br />    在数组A内存放了10个同学的体重，输出计算结果。<br />怎么做啊！急！,max
+像不太对 前面应加上<br />int s=0；<br /><br />for(k=0;10;k++)<br />s=s+a[k];<br />s=s/10;k&lt
+0
+none
+http://zhidao.baidu.com/question/175689233719507124.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67047040.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/44213092.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/71273024.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/47032996.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程 在数组中求最大最小值
+none
+<br />		}<br />		for(i=1;<br />				a[j]=a[j+1]#include&lt;i++)<br />		{<br />			if(a[i]&lt,i,min_location=%d&#92!=EOF)<br />	{<br />		for(i=1;<br />				a[i]=a[i+1];max=a[0],flag2);<br />printf(&quot;max=%;%d&quot;<br />	double a[10];i&lt,i);i++)<br />		{<br />  	if(max&lt;<br />		}<br />min=a[0];=n;<br />}<br />}<br />		printf(&quot;,max;i&lt;<br />			}<br />		}<br />		printf(&quot;a[i])<br />{<br />min=a[i];我打的代码 输出一直有问题 请高手指点哪里错了<br />int main()<br />{<br />	int n;<br />flag2=i;,max_location=%d&#92,min;n&quot;;j&lt,flag1;a[i])<br />{<br />max=a[i];<br />	double a[10].0lf;flag2=0<br />		for(i=1;a[i+1])<br />			{<br />				temp=a[i];<br />		for(j=1;<br />	while(scanf(&quot;;min=%;j++)<br />		{<br />			if(a[j]&gt;<br />				a[j+1]=temp;;=n;=n,min_location=%d&#92,min；<br />题目并没有叫你对这个序列排序，所以代码是<br />int main()<br />{<br />	int temp=0;n.0lf;n&quot;n&quot;n&quot;<br />	{<br />		for(i=1;%d&quot,&n);a[j+1])<br />			{<br />				temp=a[j];<br /> scanf(&quot;i++)<br />		{<br />			scanf(&quot;<br />	}<br />	return 0,i;i&lt.0lf;min=%;i&lt,&n)；<br />doubel max和min;%lf&quot,&a[i]);;max=%;,&a[i]),j,max,flag1),a[i];.0lf;/<br />}<br />你这段代码不符合题目要求<br />tamp应该定义int temp=0,max_location=%d&#92;=n;<br />			}<br />		}<br />			printf(&quot,j);stdio;i++)<br />		{<br />			scanf(&quot;%lf&quot;<br />flag1=i;flag1=0.h&gt,a[j];<br />				a[i+1]=temp,flag2,n;<br />	return 0;/<br />}<br />if(min&gt,temp
+0
+none
+http://zhidao.baidu.com/question/544147140.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/254156909.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192116366.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/144390667.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/455830926.html?qbl=relate_question_4

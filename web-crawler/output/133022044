@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C 语言 for (a=1,b=1,a&lt;=100,a++) {if(b&gt;=20)  break  if(b%3==1 {b+=3,continue}) }
+none
+fail
+0
+1.这个程序好像不对，都是语法错误。改了下：<br /> for (a=1,b=1;a&lt;=100;a++)<br /> {<br />  if(b&gt;=20)<br />   break; <br />  if(b%3==1) <br />  {<br />   b+=3;continue;<br />  }<br /> }<br />（但是输出结果是8，不知道我改过之后和你的本意是否一致？）<br />2说说为什么输出是8：不难发现每次循环b除3的余数总是1，即是说每次循环都会执行b+=3;由于1+3*7&gt;20故，知道循环了7次，a++也做了7次，所以是8
+http://zhidao.baidu.com/question/434807056.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/396911133.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/111846721.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/228426716.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/148734533.html?qbl=relate_question_4

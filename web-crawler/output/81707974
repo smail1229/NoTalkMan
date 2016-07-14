@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+怎样用C语言编程实现读取一个C程序，统计里面的函数个数？
+函数个数+1<br /><br />很急呀！我明天就要用的！;<br />然后就是当x为{时。<br />答案如果又快又对我会追加分数的：<br />先while(，大体的思路如下怎样用C语言编程实现读取一个C程序。，nLeft++<br />        当x为}时。，麻烦各位了，nRight++<br />然后当它们俩相等的时候!feof(fp))<br /> {x=fgetc(fp)？<br />我主要是不会怎么编程，统计里面的函数个数，实在想不出来了！谢谢
+这个程序写出来也有几百行你说的是 统计一个cpp 文件的函数个数吧，就暂时不要设计这个程序了。<br /><br />是谁出的题目？<br /><br />这个设计到一门课程 叫做 编译原理<br /><br />里面有一个叫做 词法分析<br /><br />所处理的问题就是你说的问题。<br /><br />如果你不怎么熟悉编程
+1
+none
+http://zhidao.baidu.com/question/404826184.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/49285120.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/14349620.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/443168764.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/346857319.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+%*d在C语言中什么意思
+none
+*d表示跳过该输入字段<br />举个例子吧;,&a：<br />scanf(&quot,&c)，输入123  345   456<br />那么a=123    345 被忽略,&b;/假设abc在前面已经声明过<br />此时;/%d  %*d  %d&quot
+3
+none
+http://zhidao.baidu.com/question/431523001494493844.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/238484008.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/186839254.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/590791169.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/191833375.html?qbl=relate_question_4

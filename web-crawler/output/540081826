@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言指针传递问题
+题目是 一个一维数组并初始化其元素值，根据指针传递、引用传递方式对其进行由小到大进行排序<br /><br />指针传递是啥意思？
+是这样，进行交换<br />}<br /><br />引用传递<br />void swap (int& a：<br />void swap(int *a, int *b)<br />{<br />比较大小
+3
+none
+http://zhidao.baidu.com/question/564545493.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/108086667.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89572159.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_3

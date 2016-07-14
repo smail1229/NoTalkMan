@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中关于统计一个英文句子中英文单词数问题
+<br /><br />#include &lt;<br />void main()<br />{<br /> char str[81]，也不得更改程序结构;<br /> puts(str);)<br /> {<br />  do<br />   p++程序填空题<br />    任意输入一句英语句子。请在tk486;<br /> int wordnum=0;There are %d words in the line&#92，实现上述要求;<br />  while( [ ](*p==&#39;<br /> }<br /> printf(&quot;<br />#include &lt，统计其中的英文单词数;<br /> gets(str)，但可能有前空格或尾空格，单词间可能有多个空<br />格相间.c的括号[  ]处补充完整程序;stdio;Please input an English sentence!=&#39;<br /> p=str，并删除[  ]，运行测试;) ),*p;<br />  while(*p==32)<br />   p++。不得增加行或删除行;<br />  wordnum++;0&#39;).h&gt;string;&#92,wordnum).h&gt;0&#39;<br /> printf(&quot; &#39:&quot;&#92;<br /> while(*p==32)<br />  [            ]<br /> while(*p;||*p==&#39;n&quot;。为了简化程序，假设<br />输入的句子不含标点符号
+     ]<br />其意思是;<br /><br />while(*p==32)<br />  [      p++ASCII码表 32  为 blank 空格：p++：排除掉句子刚开始可能有前空格的情况。<br />方括号中应填入
+2
+none
+http://zhidao.baidu.com/question/137167413.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/341917378.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/98271684.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/235139263.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/522701534.html?qbl=relate_question_4

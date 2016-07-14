@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急 请高手!c语言程序要求四舍五入保留十位小数怎么编?
+还有一个程序题目也请高手帮忙看看珐饥粹渴诔韭达血惮摩吧&gt;&gt;&gt;<br />已知A&lt;B,A和B都是正整数,A8B=2698,求A+B的最小值?
+#include &quot;stdio.h&quot; <br /><br />#define ROUND(x) ((x)&gt;0 ? (int)((x)+0.5) : (int)((x)-0.5)) <br /><br />void main() <br />{ <br />float x = 100.6; <br />printf(&quot;%d&quot;,ROUND(x)); <br />} <br />声明这个宏就可以了<br /><br />后面那个题目应该是A*B=2698吧？呵呵<br /><br />void main() <br />{ <br />int a, b; <br />for (a = 1; a &lt; 52; a++) <br />{ <br />if (2698 % a 珐饥粹渴诔韭达血惮摩== 0) <br />{ <br />b = 2698 / a; <br />} <br />} <br />printf (&quot;b = %d&#92;n&quot;, b); <br />} <br /><br />这里没用到判断A+B最小，而是取了最后一个b值。因为a是递增的，而abs(a-b)越小a+b就越小（均值定理），所以最后一个b肯定满足a+b最小。
+0
+none
+http://zhidao.baidu.com/question/206582838.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/456141429.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15056992.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22834864.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/189604056.html?qbl=relate_question_4

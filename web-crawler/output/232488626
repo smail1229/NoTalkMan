@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+i=(a+k)&lt;=(i+k) 这是正确的C语言语句吗？应该怎样理解？
+none
+分别计算a+k和i+k的值，没有内置的bool类型，且i是整数类型，再把这个结果（1或0）赋值给i，整数类型，因为语句需要以分号结尾（或者作为复合语句以}结尾），下同）或都是指针（而不是结构体或数组），表示逻辑假）;stdbool，否则为0（同样是int类型，注意这是C语言，但不是正确的C语句，包括int，然后比较这两个结果;引入的_Bool类型可以实现部分兼容性），如果满足前者小于等于后者则这个比较的结果为1（int类型、short;=(i+k)可以理解为，不是C++。<br />i=(a+k)&lt、char.h&gt、long等，表示逻辑真），那么这个表达式正确。<br /> s529586 错误，没有关键字true和false（若考虑C99在&lt如果a+k和i+k的结果都可以隐式转换为整型（integral type
+15
+none
+http://zhidao.baidu.com/question/390759580.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1366992513769400259.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76084505.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/216006983.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/493081821.html?qbl=relate_question_4

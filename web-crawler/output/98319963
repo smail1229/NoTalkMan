@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计实例进制转换
+16）的通用程序，5，8设计题目  进制转换程序<br />编写一个将某个范围在-32768～32767之间的整数转换为R进制（R=2
+h&gt;&quot;<br />   itoa(data;&quot, buffer)#include &lt;<br />   cout&lt;转换后：&quot;<br /><br />void main()<br />{<br />   int data;&gt;&lt;<br />   cout&lt;<br />   int cvt;stdlib;stdio;.h&gt;&lt：%s&#92;<br />   cin&gt;<br />   printf(&quot：&quot, cvt);data;进制;<br />   cin&gt, buffer;cvt;&gt;n&quot;数;<br />   char buffer[100];<br />#include &lt;
+9
+none
+http://zhidao.baidu.com/question/355315503.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/247922463.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100917300.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253585508.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153404971.html?qbl=relate_question_4

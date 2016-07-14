@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言for(k=oX30;k&lt;=oX3A;k++)什么意思?
+none
+k++)<br />也就是k从48累加一到58，C语言中0x打头的数表示十六进制数<br />转换为十进制，0x3A=58<br />【所以说等于】<br />for(k=48这里应该是0x而不是oX才对嘛，一直循环下面的代码~<br /><br />希望我说的对你有帮助 ^ ^;=58;k&lt：<br />0x30=48
+3
+none
+http://zhidao.baidu.com/question/535199320.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206586933.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/560552864416262004.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1893730206857677460.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/386428954.html?qbl=relate_question_4

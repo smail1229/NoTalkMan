@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言，新手，求指错误
+.7)<br />【输入形式】输入有一行,i)。已知某年的一月一日是星期W，求出这一年所有13号那天<br />            是星期5的月份;12,w).h&gt;;=w&lt,w;<br /><br /> for(i=1;=7)<br />【输出形式】输出有一到多行;n&quot;%d&quot，每个测试点0;%d&#92，并且这一年一定不是闰年,i;<br />int main()<br />{int a=0;;n&quot;<br />  }<br /> }<br /><br /> return 0，共1,i);.0分，1月;<br />  if(a==5) printf(&quot，表示该月的13日是星期五。<br />【样例输入】7<br />【样例输出】1<br />                    10<br />【样例说明】1月1日是星期7的年，按从小到大的顺序输出月份数字。(1&lt;<br />   if(a==5) printf(&quot.25分。(W=1。<br />#include&lt;<br />   if(a==5) printf(&quot.【问题描述】在国外。特别是当13号那天恰好是星期5时;i++)<br /> {if(i==1||i==3||i==5||i==7||i==8||i==10)<br /> {a=(w+5)%7;<br />  w=(w+3)%7;%d&#92;n&quot;<br />  }<br />  if(i==2)<br />  {a=(w+5)%7，每行一个月份、10月都是不吉利日期;<br /> scanf(&quot;<br />   w=(w+2)%7，每月的13号和每周的星期5都是不吉利的，更不<br />            吉利;i&lt;<br /> }<br />  if(i==4||i==6||i==9||i==11)<br />  {a=(w+5)%7，即一月一日星期几(W);stdio;%d&#92,i)。<br />【评分标准】本题共4个测试点
+%d&quotscanf(&quot;<br /> <br />scanf(&quot;%d&quot;,&w);,w)
+1
+none
+http://zhidao.baidu.com/question/1046093940809349899.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262580381787531325.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518856662059382805.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/646761086030260165.html?qbl=relate_question_3

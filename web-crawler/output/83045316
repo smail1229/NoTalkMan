@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求助一个c语言程序。。。怎么输入b和c的值之后，输出b和c不对阿？！
+c&#92;Please input a,b,&c); printf(&quot;n&quot;<br />#include &lt;);<br />     printf(&quot;0,x1),%f,&b;).0*a*c),b=%f;;n&quot;error;<br /> printf(&quot;n&quot;n&quot;<br /> printf(&quot;<br /> if (sum&gt,x2),c);a=%f;n&quot;math;<br /> printf(&quot;(2*a)#include &lt.h&gt!&#92.0) {printf(&quot;;(2*a),c;0;x1=x2=%f&#92;;<br /> sum=(b*b-4;(2*a),c=%f&#92;n&quot,sum),a,x1;<br /> scanf(&quot.0)<br /> {x1=(-b+sqrt(sum))&#47;<br />void main()<br />{<br />    float x1;%f%f&quot,%f&#92;<br />  x2=(-b-sqrt(sum))&#47;,a,x2;%f;sum=%f&#92,b;}<br /> else {x1=(-b)&#47,&a,sum.h&gt;}<br /> else <br />  if (sum&lt;;stdio,b
+输入数的时候要每个数后面要加个逗号;n去掉比较好，才能输出每个数，后面连个数就相当于没有输入而显示乱码！还有scanf里面的&#92，不然的话
+1
+none
+http://zhidao.baidu.com/question/49383496.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/230406007.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/465100349.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1754185673845834028.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/48838081.html?qbl=relate_question_4

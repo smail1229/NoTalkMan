@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言循环语句的嵌套 三重FOR循环
+没想明白 如果这样不是输出空格*空格*空格*空格*空格*了吗？for(k=0;，还要执行for(k=0,&#39; }<br />}<br />请问第一次循环是先换行&#92;=2*i#include &quot;i&lt;stdio;n&quot;%c&quot;j&lt;k&lt;*&#39;k&lt;=2*i;k&lt，在输出*号吗;j++)循环J为1时输出空格,&#39;<br />void main()<br />{<br />int i，然后for(j=0,k;5-i;5-i;n;i++)<br />{<br />printf(&quot;<br />for(i=0; &#39;k++)<br />printf(&quot;&#92;j&lt;);<br />for(j=0，然后输出空格;k++)循环第一次为K为0 输出*号;;5,j;=2*i;%c&quot;);j++)<br />printf(&quot;<br />for(k=0;).h&quot;k++)循环吗
+这个不是三重循环，而是在第一层里欠了两条循环<br />第一层的作用是换行<br />j层的循环式控制“空格”数量k层循环式控制*号数量<br />就是先换行然后循环输出“空格”再循环输出*号
+1
+none
+http://zhidao.baidu.com/question/569279885.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/194948649.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41470114.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/261270878.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/214318173.html?qbl=relate_question_4

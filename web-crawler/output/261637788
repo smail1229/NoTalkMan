@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程：输入一个三行三列矩阵的各元素整数值，输出矩阵第一列和第三列元素之和。万分感谢！
+none
+Input the array,sum=0:&#92;j&lt,j;i&lt;<br />      for(i=0;3;<br />int main(void)<br />{<br />      int i;n&quot;%d&quot;The sum is %d&quot.h&gt;3;j++)<br />           {       <br />                   scanf(&quot,sum),&a[i][j]);3;<br />            }<br />       }<br />      for(i=0;i++)<br />      {<br />           for(j=0;<br />                  }<br />           }<br />      }<br />      printf(&quot;i++)<br />      {<br />           for(j=0;3;<br />      printf(&quot;;;<br />      int a[3][3];j++)<br />           {<br />                if(j==0||j==2)<br />                 {<br />                       sum+=a[i][j];j&lt;stdio;i&lt;)#include&lt
+0
+none
+http://zhidao.baidu.com/question/261660936.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/261635382.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/433568368198866724.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203872988.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/76809649.html?qbl=relate_question_4

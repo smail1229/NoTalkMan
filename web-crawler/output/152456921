@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中#define N 15  是什么意思
+编程序时把15个数按从小到大的顺序存放在一个数组中
+#define N 15 就是把下面程序中所有的N，都用15去替换
+2
+none
+http://zhidao.baidu.com/question/431619308.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158476867.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/406500040.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/32954762.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_4

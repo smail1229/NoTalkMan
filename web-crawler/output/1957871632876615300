@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言程序问题
+#include &lt;stdio.h&gt;<br />#include &lt;inttypes.h&gt;<br />int main(void)<br />{<br />   int16_t me16;<br />   me16 = 4593;<br />   printf(&quot;First,assume int16_t is s缉发光菏叱孤癸酞含喀hort: &quot;);<br />   printf(&quot;me16 = %hd&#92;n&quot;,me16);<br />   printf(&quot;Next,let&#39;s not make any assumptions.&#92;n&quot;);<br />   printf(&quot;Instead,use a &#92;&quot;macro&#92;&quot;from inttypes.h: &quot;);<br />   printf(&quot;me16 = %&quot; PRId16 &quot;&#92;n&quot;,me16);<br />   return 0;<br />}<br />哪里错了？为什么我运行时编译器报错<br />E:&#92;c语言&#92;char&#92;char.cpp(2) : fatal error C1083: Cannot open include file: &#39;inttypes.h&#39;: No such file or directory<br />执行 cl.exe 时出错.
+编译器找不到inttypes.h，这个头文件是C99标准新添加的，你的编译器版本太旧，缺少这个文件
+0
+none
+http://zhidao.baidu.com/question/2138708686047059668.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/711413700774447085.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/258269868.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2202081957221101228.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中int (*p)[4]与int **p的区别
+这两个p是否含义相同，区别请详告，必有重赏！
+&#47int (*p)[4];//是指向一个2维数组的指针<br />int **P，不知道对不;/是一个指针的指针<br />两个都是指向地址的<br />int (*p)[4]  是接收二维数组的地址（常量）<br />int **p  是接收指针变量的地址(变量)<br /><br />我是这么理解的
+8
+none
+http://zhidao.baidu.com/question/39385925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/179085518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100700518.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1669924172862087027.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/255641608.html?qbl=relate_question_4

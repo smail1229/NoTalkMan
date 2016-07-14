@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个c语言程序，求解释！关键是switch(c-&#39;2&#39;)这里不懂
+<br />	case 2，怎么回事;2&#39:putchar(c+4);2&#39;<br />	default;<br />	case 3;break!=&#39;<br />   while((c=getchar());<br />}<br />关键是switch(c-&#39，c=getchar（）不是一个字符一个字符的读吗;stdio:putchar(c+3);n&quot，不是与ASCII代码值中的050相对应;)：<br />#include&lt？输入“2473Enter键”;break;<br />   }<br />   }<br />printf(&quot;2‘是当做2来运算的;)<br />   {case 0;)<br />   {switch(c-&#39;<br />main()<br />{int c;n&#39:putchar(c+4);&#92;&#92，&#39:<br />    case 1，结果是668977:putchar(c+2);)这里不懂程序如下.h&gt
+ 不是当2运算的，可以用来case判断， 而是 ‘4’ - ‘2’ = 2 这样来运算的， 减掉‘2’的后就是整数值了。<br />你输入的数字不是整数值，是数字的ascII码&#39;2&#39
+6
+none
+http://zhidao.baidu.com/question/524317053.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/873926742488031372.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/39099800.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/550644613.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/138281442.html?qbl=relate_question_4

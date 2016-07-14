@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中scanf（）与gets（）函数的区别，哪一个可以读入空格啊？
+none
+和回车为结束符的scanf()是不可以读入空格的，tab，他是以空格，而gets是不以空格为结束符的，他可以读入空格的，他只以回车和tab键为结束符
+20
+<p>scanf( )函数和gets( )函数都可用于输入字符串，但在功能上有区别。</p><p><br /></p><p>gets可以接收空格</p><p>scanf遇到空格、回车和Tab键都会认为输入结束，所有它不能接收空格。</p><p><br /></p><p>例1：<br /></p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;char&nbsp;ch1[10],ch2[10];<br />&nbsp;&nbsp;&nbsp;&nbsp;scanf(&quot;%s&quot;,ch1);<br />&nbsp;&nbsp;&nbsp;&nbsp;gets(ch2);<br />}<br />//&nbsp;依次键入asd空格fg回车，asd空格fg回车，则ch1=&quot;asd\0&quot;，ch2=&quot;asd&nbsp;fg\0&quot;。</pre><p>例2：</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />main()<br />{<br />char&nbsp;ch1[10],ch2[10],c1,c2;<br />scanf(&quot;%s&quot;,ch1);<br />c1=getchar();<br />gets(ch2);<br />c2=getchar();<br />}<br />//&nbsp;依次键入asdfg回车，asdfg回车，则ch1=&quot;asdfg\0&quot;，c1=&#39;\n&#39;，ch2=&quot;asdfg\0&quot;，c2需输入。</pre>
+http://zhidao.baidu.com/question/425500958.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/233755029.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210000679.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/546787455.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1987778733328744947.html?qbl=relate_question_4

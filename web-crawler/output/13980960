@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中是否有函数直接取整？
+none
+ <br />    ceil(2.5C语言有以下几种取整方法.5) = 3 <br />    ceil(-2; <br />    这种方法采用的是舍去小数部分 <br />    2.5) = -2 <br />    floor()是向负无穷大舍入。如;”本身就有取整功能(int &#47。ceil(x)返回的是大于x的最小整数、直接赋值给整数变量、使用floor函数;C++中的整数除法运算符“&#47，ceil(-2。如.5) = -3 <br />    4、C&#47.5; int)。如.5) = 2 <br />    floor(-2： <br />    floor(2.5) = -2.5) = -3，但是整数除法对负数的取整结果和使用的C编译器有关; 或 i = (int) 2；ceil()是向正无穷大舍入： <br />    1： <br />    int i = 2、使用ceil函数。 <br />    3。floor(x)返回的是小于或等于x的最大整数，floor(-2
+37
+none
+http://zhidao.baidu.com/question/145887416.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/419839912.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/328753542.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/570431397.html?qbl=relate_question_3

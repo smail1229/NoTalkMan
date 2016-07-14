@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个c语言关于do……while循环的问题
+<br />	printf(&quot;<br />}<br />我是在另一个程序中要用的;。为什么会这样:Y<br />Y<br />Do you want to go on(Y&#47;Y&#39:&quot，满足条件;N)。它在执行的时候;%c&quot;<br />void main()<br />{<br />	char c;%c&#92;)：<br />Do you want to go on(Y&#47,&c)！，如果看不懂我上面的描述试试看这个，直接往下？<br />我没发传图？要怎么解决，执行完do后，再次进入do;<br />	}<br />	while (c==&#39，会自动跳过scanf;<br />	scanf(&quot，可是这个时候,c)，但是这个部分有问题;，谢谢大家了?(Y&#47;);<br />	do<br />	{<br />	printf(&quot;N);Do you want to go on.h&gt:<br /><br />Press any key to continue<br />【大家勉强看：<br />#include &lt我的程序是;N);n&quot，运行结果是这样的;stdio
+<br />	}<br />	while (c==&#39;因为当你按下回车键时;去处按下的回车键<br />	printf(&quot，它会自动往下等待并给下一个c赋值;<br />void main()<br />{<br />	char c;&#47,c)，所以才会出错<br />	getchar();<br />	do<br />	{<br />	printf(&quot;%c&#92;N);Do you want to go on;///n&quot;;%c&quot:&quot;/),&c).h&gt;stdio，回车键也是一个字符;Y&#39;);<br />	scanf(&quot;修改<br />#include &lt;?(Y&#47&#47
+3
+none
+http://zhidao.baidu.com/question/130258261.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223595721.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55883970.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/493836915.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154510784.html?qbl=relate_question_4

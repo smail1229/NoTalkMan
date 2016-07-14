@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中  while((s[i]=getchar())!=&#39;&#92;n&#39;)i++ 是什么意思，要具体的谢谢
+很重要
+从键盘输入一个字符 赋给 S[I] 并判断 它是否是 回车（换行）  如果不是执行 I++  如果是 推出循环<br /><br />换而言之就是 如果是回车就退出循环<br /><br />这个就是给S数组赋个字符串
+24
+none
+http://zhidao.baidu.com/question/516196279.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/439414260.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/487415223.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/150926970.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/358253009.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求解答c语言结构体定义中typedef的作用
+<br />} MyStruct;<br />long lLength，比如有代码如下：<br />struct MyStruct<br />{<br />int iNum，定义结构体总是要使用typedef关键字;<br />上面的代码写成如下不是更简单吗看大部分C代码中;<br />long lLength：<br />typedef struct tagMyStruct<br />{<br />int iNum，求高手给解答下这个关键字的用途;<br />}
+直接写MyStruct ms;这样定义;后，但是定义一个结构体变量的时候呢就麻烦了;这样<br /> <br />即typedef struct tagMyStruct MyStruct写成下面的是简单。<br />要写成struct MyStruct ms，原先定义结构体变量需要<br />struct tagMyStruct ms;<br />现在只要写成MyStruct ms了。<br />而上面的有typedef的则不要
+70
+none
+http://zhidao.baidu.com/question/140392217.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153618359.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/74141812.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/169598031.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/448386150.html?qbl=relate_question_4

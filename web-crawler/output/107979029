@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中关于逻辑运算的问题
+非0和1 有什么区别<br />非0是不是 除了0之外的整数都叫非0？<br /><br />举个例子<br />3+2&&3+3<br />结果是1吗
+再进行逻辑运算或比较运算，为了便于日后观看或给其他人观看。<br /><br />&& 是“逻辑与”操作符。<br />+ - * &#47，当前后两个数或表达的值同时都不为0时，3+2&&3+3 还是写成 (3+2) && (3+3) 比较好，所以先进行算术运算，否则为假（假即是0），整个表达式 “XXX && YYY ” 才为真; 优先级比 比较运算符、逻辑操作符这些要高。<br />书写规范上在逻辑上 0 代表假，其它不等于0的数或表达式都为真
+2
+none
+http://zhidao.baidu.com/question/89396872.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/115423005.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/63413717.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/189509431.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/130179125.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+51单片机C语言程序中延时函数delay的原理是什么？
+i&lt,j：两个for循环的作用：i;j&lt？所能延时的最小单位时间是怎么计算的; <br />   for(i=0：<br />void delay(unsigned int k) <br />{  unsigned int i、j的取值有什么规律和依据,j;}<br />      }     <br />}<br />现有几个疑问;k：延时函数的原理？<br />2;j&lt？是不是和单片机接的晶振频率有关;  <br />   for(i=0;j++) <br /> {;i&lt：<br />1;121;i++)<br />      {  for(j=0;500：<br />void delay(void)  <br />{  unsigned int i;}   <br />     }    <br />}<br /><br />第二？<br />3;121;j++)  <br />               {现在找到两个函数<br />第一;i++) <br />     { for(j=0
+这个值不仅仅与晶振，我给你一点建议，你才能明白，没有实质性影响的所谓“无意义指令”，而且还与C的编译器有关，情况就不一样了：简单的说，就是刚学单片机的时候，在你以后接触到C之后，只有这样你才能真正理解单片机，这个值虽说是可以精确计算的，所以说，精确的算出具体延时的总时间<br /><br />综合你的的问题，你当然可以根据所有指令使用的总时间：两重for的作用：关于取值大小，这中间实际上经历了一个什么样的过程，如果用汇编编程，这样可以很轻易的迅速增加上述“无意义指令”的数目<br /><br />3，比如做比大小啊：仅仅执行一些、单片机本身运算速度有关，还是一定要老老实实的从汇编编程学起——这样，无疑是历史所肯定的：这个如果是在C下变成。当然，做某个int的自加运算啊之类的<br /><br />2，但大多数情况下，等最终你完全拿下一种单片机之后，尽量使用C编程，就像高中数学中的“乘法原理”一样，因为每一条指令所使用的机器周期是一定的，程序员用的都是“经验值”——当然：原理1
+145
+none
+http://zhidao.baidu.com/question/311640041.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/808018512684470532.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/123259340.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/333181937.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/419948161.html?qbl=relate_question_4

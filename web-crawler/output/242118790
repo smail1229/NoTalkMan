@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 b*=(b%=a) a=3 b=7
+none
+是求a,b的值么。<br />答案是a=3,b=1;<br />因为原式等于：b=b*(b=b%a);<br />当算完b%=a时，b的瞬时畅酣扳叫殖既帮习爆卢值为1；b*=b=1*1=1;
+0
+none
+http://zhidao.baidu.com/question/235773786.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210346587.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/423877077322863372.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/198593057.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2074011087722549188.html?qbl=relate_question_4

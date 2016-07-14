@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用dev c++编c语言时，scanf 无法自动清除缓冲区，缓冲区里总是有个回车，这是工具的问题还是c语言的问题
+none
+C语言问题啊 scanf()后面加一个getchar();
+3
+none
+http://zhidao.baidu.com/question/145325291.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/245374558.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/333331590.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/193526943.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/147667832.html?qbl=relate_question_4

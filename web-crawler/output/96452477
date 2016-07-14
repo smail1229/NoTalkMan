@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言转换格式符大全？
+none
+fail
+9
+%c  字符   <br />%d  十进制整数  <br />%e  浮点数，指数e的形式  %s  字符串 <br />%E  浮点数，指数E的形式  %u  无符号十进制整数 <br />%f  浮点数，小数点形式  %g  输出%f与%e较短者 <br />%o  无符号八进制整数  %G  输出%F与%E较短者 <br />%x  无符号十六进制整数，以0～f表示  %X  无符号十六进制整数，以0～F表示 <br />%l  长整型，加在d，o，u，x，X之前，如%ld（注意%l是英文字母l，不是数字1）
+http://zhidao.baidu.com/question/352366078.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/57998666.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/349942484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/356916963.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/5636663.html?qbl=relate_question_4

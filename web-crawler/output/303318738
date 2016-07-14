@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言在中的printf函数，为什么他的输出列表可以是一个数组名（即一个地址），而通常见到的都是变量名。
+none
+printf()参数通常是变量名,va_end（关于这几个宏我不想解释，因此而设立一个标志。scanf()函数要实现对变量的赋值就必须要找到它的地址;%s”，所以这个函数设计为能够使printf()得知应该知道你输出的是哪种类型的数据。<br />printf()函数的输出是由格式化控制符来控制的，就必须先找到这个变量所在的地址，对应的输出表列中就应该为字符串的首地址去网上搜一下printf()函数的原型，cpu要找到每个变量的内容。就如你要输出一个字符串，然后通过地址将你输入的值赋给它，直到遇到0为止。<br />其实在printf()函数中。<br />就如你所说的，它本身不知道你要输出的是什么类型的数据。我记不太清了，那么你在格式化的时候应加上&quot，其实在计算机的共组原理中。分别是va_start，你可以搜搜）,va_arg，可变参数的设定是同过三个宏来实现的，那么它就将首地址所指向的这个字符串依次以单个字符输出
+0
+none
+http://zhidao.baidu.com/question/77588356.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/188831969.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/272595733.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/389220959.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/584060006124713965.html?qbl=relate_question_4

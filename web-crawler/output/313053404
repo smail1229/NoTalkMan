@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，怎样不用中间变量而互换两个变量的值呢？
+none
+<br />例如;<br />a = a+b =8;<br />b = a -b = 8-3 = 5：<br />a=5,b=3;<br />b = a-b：<br />a  b<br />a = a+b比如说;<br />a = a-b
+125
+有两种方式可以不使用中间变量，交换同类型的变量a,b的值：<br />1 使用加法操作。<br />a+=b; <br />b=a-b;<br />a -= b;<br /><br />2 使用异或操作：<br />a^=b;<br />b^=a;<br />a^=b;
+http://zhidao.baidu.com/question/26035623.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/348072.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43153883.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/155730040.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/22935288.html?qbl=relate_question_4

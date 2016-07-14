@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 判定是否为素数
+#include&quot;stdio.h&quot;<br />#include&quot;math.h&quot;<br /><br />int isprime(int n)<br />  { int i,k=1;<br />    for(i=2;i&lt;=sqrt(n);i++)<br />      if(n%i==0)<br />       k=0;<br /><br />    return(k);珐触粹吠诔杜达森惮缉<br />  }<br />int main()<br />{ int a;<br />    printf(&quot;please input a num:&#92;n&quot;);<br />    scanf(&quot;%d&quot;,&a);<br />    isprime(a);<br />    printf(&quot;%d&quot;,a);<br /><br />  getch();<br />  return 0;<br />}<br /><br />我的程序实现不了功能，但实在改不出来了，请各位高手帮帮忙吧！
+int isprime(int n)<br />  { int i;<br />    if(n==2) return 1;<br />    fo珐触粹吠诔杜达森惮缉r(i=2;i&lt;n;i++)<br />      if(n%i==0)<br />       return 0;<br />    return 1;<br />  }<br /><br />int main()<br />{ int a;<br />    printf(&quot;please input a num:&#92;n&quot;);<br />    scanf(&quot;%d&quot;,&a);<br />    if(isprime(a))<br />      printf(&quot;%d&quot;,a);<br /><br />  return 0;<br />}
+0
+none
+http://zhidao.baidu.com/question/173264817.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/468129014.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1817804932162859188.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/461668621.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/508763787.html?qbl=relate_question_4

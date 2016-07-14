@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中。continue能否在switch语句中出现。
+如果出现它表示什么意思。<br />和break一样吗？
+对switch无效,如果这个switch是在一个循环中,switch中出现的continue其实是对这个循环做控制的
+14
+none
+http://zhidao.baidu.com/question/103141103.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132145687.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2725576.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_4

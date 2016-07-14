@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序注释
+C语言写注释有什么要求？怎样才叫一个好的注释？
+&#47:<br />1**** C语言写注释;主程序<br />/* 注释 *&#47、样式统一<br />3、/*****************************************************/*****************************************************/<br />3;注释<br />3、可放在任何地方<br />**** 好的注释、能看懂<br />2:<br />1;<br />/<br />2;* 注释 *&#47、例<br />/*****************************************************<br />主程序<br />*****************************************************/<br />void main(void) <br />**** 还可以采用这些方式<br />1、格式 &#47、例<br />/&#47、可以用任何一种文字<br />2;&#47
+4
+none
+http://zhidao.baidu.com/question/152620450.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154740115.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/448463065.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87308368.html?qbl=relate_question_4

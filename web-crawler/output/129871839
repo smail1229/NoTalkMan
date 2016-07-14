@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中void和int类型函数的定义，急！！！！！！！！！
+<br />  L，什么时候要用int呢;<br /> }<br />}<br />这个是顺序表的插入算法,Sqlist &L)<br />{if(i&gt;<br /> else<br />    {<br />  for(int n=L，那么什么时候要用void，大家应该很熟悉吧<br />现在我把它改成void类型<br />void InsertList(int i;=i-1.length-1,char str.length;<br />  <br /> }<br />}<br />程序依然能够执行<br /><br />既然执行结果相同.elem[n];<br />  return 0;=0)<br />  ;=i-1,Sqlist &L)<br />{<br /> if(i&gt;n&gt;<br /> else<br />    {<br />  for(int n=L;L;<br />  ++L;L.elem[i-1]=str;<br />  ++L.length||i&lt;<br />  Lint InsertList(int i.length||i&lt.length.length-1;--n)<br />  L.elem[n].elem[n+1]=L.elem[n+1]=L.elem[i-1]=str;--n)<br />  L,char str;n&gt;=0)<br />  return 1
+定义成为void或者int都可以（定义成int的时候需要有return语句，所以的话即使没有返回值，这样便于在以后的优化程序中进行修改一般来讲，我想说一下，一般来讲我们都是把自己定义的函数看成是又返回值的函数的，主调函数需要被调函数返回函数值的时候需定义为int型，定义成void的时候不可以有return语句） <br /><br />Ps，而且定义的时候一般都要加一个int（或者其他类型）：至于你补充提到的问题，一般也写一个return0！而主调函数不需要被调函数的返回值的时候
+49
+none
+http://zhidao.baidu.com/question/96727630.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/123934211.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/873164785561772332.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/305416943.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/135820002216085125.html?qbl=relate_question_4

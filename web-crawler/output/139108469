@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中printf函数怎么运用
+none
+4f吧<br />如<br />int a=1;<br />float b=2,b).123,a;;<br />printf(&quot.4f&quot;%3d%7;<br />结果<br />  1 2.1230<br />%3d中的3是输出3个有效数字又对齐因为这只有1个有小数字所以空了两格<br />如果是—3就左对齐<br />1  了<br />%7是%13
+2
+none
+http://zhidao.baidu.com/question/359896811444949132.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/170935373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/60921121.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/148060357.html?qbl=relate_question_4

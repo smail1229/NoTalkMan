@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言　int len( )　　求大神解释
+s1),len(s2));j++;Length of S1=%d&#92;j++;0&#39!=&#39;S2=&quot;<br />}<br /><br />＊＊＊＊＊＊＊＊＊＊　　　int len(char s[])是什么意思呢0;S1+S2=%s&quot;i&lt;i++){<br />                            s3[j]=s1[i];Length of S2=%d&#92;i++){<br />                            s3[j]=s2[i];){<br />                          n++;j++;n&quot;stdio;;n&quot;<br />                        }<br />                        s3[j]=&#39;%s&quot;;<br />    }<br />int main(){<br />    char s1[80].0　一定要用len吗;0&#39;<br />    printf(&quot;);;<br />                        }<br />                        for(i=0,s3);<br />    }<br />    printf(&quot;<br />    scanf(&quot;<br />    if(len(s1)&gt;<br />    printf(&quot,s3[160];len(s1);len(s2);i&lt？　　他是计数器吗;<br />    }<br />else{<br />                        for(i=0;j++;i++)<br />							{<br />                            s3[j]=s2[i];i++){<br />                            s3[j]=s1[i];<br />    scanf(&quot;i&lt,s2[80].h&gt;&#92;0&#39;S1=&quot,i;<br />    printf(&quot;len(s2) || len(s1)==len(s2)){<br />                        for(i=0;len(s2)？　为什么那面main里面直接可以用len(s1)来比较;;<br />int len(char s[]){<br />        int n=0？可以用别的规定吗;);i&lt;%s&quot;<br />        while(s[n],len(s1)),s2);&#92;;<br />        }<br />        return n;;len(s1)#include&lt,j=0;<br />                        }<br />                        s3[j]=&#39;&#92;<br />    printf(&quot;;<br />                            }<br />                        for(i=0
+，他的返回值代表你输入的字符串的长度;%s&quot。<br />len(s1)相当与计数器。<br />  纠正两个错误。比较的时候他已经是一个值了,&s1);，可以用其他的;.则返回值为15,下面的对s2的输入类似.那个点的后面才是结束、scanf(&quot，但是不能是关键字，第一;要改成scanf(&quot，注意是到student;%s&quot这个只是函数名称,s1)。比如你输入s1=I am a student
+6
+none
+http://zhidao.baidu.com/question/48861001.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/115674374.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/432684723138975924.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1731818598960796147.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1383249551086234260.html?qbl=relate_question_4

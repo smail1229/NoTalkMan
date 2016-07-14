@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中:双精度浮点型是什么意思啊,请问各位大吓,谢谢了
+none
+7E+308，其数值范围为1.4E+38，double（双精度说明符）<br />单精度型占4个字节（32位）内存空间，其数值范围为3.4E-38～3。双精度型占8 个字节（64位）内存空间，只能提供七位有效数字.7E-308～1，可提供16位有效数字float（单精度说明符）
+10
+none
+http://zhidao.baidu.com/question/64702817.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91534154.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/166161549.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/171303876.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/420649276.html?qbl=relate_question_4

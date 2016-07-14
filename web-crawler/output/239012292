@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道C语言选择题，急!!!!!
+33.假设所有的选课成绩都已确定，显示“101”号课程成绩最高的10%记录信息，正确的SQL命令是（  ）<br /><br />A.SELECT * TOP 10 FROM 选课 ORDER BY 成绩WHERE 课程号=”101”<br /><br />B. SELECT * PERCENT 10 FROM 选课 ORDER BY DESC成绩WHERE 课程号=”101”<br /><br />C. SELECT * TOP 10 PERCENT FROM旦耽测甘爻仿诧湿超溅 选课 ORDER BY 成绩WHERE 课程号=”101” <br /><br />D. SELECT * TOP 10 PERCENT FROM 选课 ORDER BY 成绩DESC WHERE 课程号=”101”<br /><br />请问这道题，C和D有什么区别？为什么不能选C？？
+既然C和D 差不多 那就看细微的差别  D是按降序排列<br />再看题目 是成绩最高的10%   意思就是从高到低  这样会比杂乱无章好很多吧<br />C D 旦耽测甘爻仿诧湿超溅都没错 但选择题  个人感觉D更合适
+2
+none
+http://zhidao.baidu.com/question/165973811.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184592428.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/434009586.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/158129675.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/523166478.html?qbl=relate_question_4

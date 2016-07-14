@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言（请高手们说下为啥，什么意思？？）： char c ; c=‘a’; c的ASCII代码为97，则在内存中c的值为(?)
+ASCII代码是什么东东，请高手们简单点说明下（不准复制）
+，就用ascll码的形式存储，这些设备的主要目的就是：0110 0001的形式;。<br />希望有所帮助; c=&#39。<br />还有就是，此时给字符变量赋值的是字符！！，以一种人类可阅读的形式将信息在这些设备上显示出来供人阅读理解！，这就是ASCII码表，人们编制的统一的信息交换代码;c&#39：即‘c’，则在内存中c的值，它的全称是“美国信息交换标准代码”：<br />ascll<br />信息在计算机上是用二进制表示的！<br />首先我们来看看ASCll码的概念，设备和计算机之间能进行正确的信息交换：c的ASCII代码为97，这种表示法让人理解就很困难：计算是按二进制的形式存储的。为保证人类和设备；因此。因此计算机上都配有输入和输出设备，因此字符也不例外：<br /><br />char c ,此时系统“一看”是字符;。<br /><br />我们再来看看你好
+1
+none
+http://zhidao.baidu.com/question/292217702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184519003.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/102205253.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/255065327.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/116531958.html?qbl=relate_question_4

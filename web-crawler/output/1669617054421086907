@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，用数组输入杨辉三角
+none
+所以就是你先前给他的那个0，赋值这样是为了使得第一排的第一个数为1。<br />第三个问，是为了不让数组超界，杨慧三角第n层的值和第n-1层有关。<br />第二个问，因为这个位置不是杨辉三角的部分，所以两个数中间隔了一个数，而这个数的值没有被赋值，这是杨慧三角的定义，同样，因为你中间计算的时候为了成图中的三角形。其他的位置的值都是通过第一排的中间那个1(也就是a[0][10])算出来的，顶角必须为1，否则后面的数字算不出来第一个问
+0
+none
+http://zhidao.baidu.com/question/94625516.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/201037002.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/171799981.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1110367026882980379.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/144639659.html?qbl=relate_question_4

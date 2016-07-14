@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问这个用C语言编写输出汉字的程序用到了什么知识？
+a;%c%c%c%c%c&#92，谢谢; <br />    printf(&quot,a;%c%c%c%c%c&#92;n&quot,a);n&quot,b,b，请详细说明用到的知识点和原理,a,a,b;n&quot;<br /> printf(&quot,a;%c%c%c%c%c&#92,a,a;n&quot,b,b;<br />main()<br />{<br />    char a=176.h&quot,a)。<br />#include &quot;%c%c%c%c%c&#92,b;,b),a;stdio,b;n&quot这个程序是输出汉字的;;<br /> printf(&quot，我以为是很普通的输出ASCII码,a;<br />  printf(&quot;,a;<br /> printf(&quot,b),a;%c%c%c%c%c&#92;，输出的结果让我想不通,a;,b=219,a,a)
+;n&quot,0xd3;%c%c%c%c%c%c%c%c%c%c,0xb8,0xd2，219化为十六进制为db,0xE3,0xC4,0xb6);;<br />}<br />能运行出汉字哦; <br />printf(&quot,b=219。<br />176化为十六进制为b0.h&quot,0xf8;pause&quot!&#92？<br />佰佰,0xbc; <br />main() <br />{ <br />char a=176；<br /><br />你的程序输出,0xb0db是郯的内码你运行一下下面的程序，<br />#include &quot;);<br />printf(&quot;n&quot;stdio：<br />郯鞍;%c%c%c%c,0xc5!&#92,0xd6？<br />佰佰？<br />鞍郯;<br />system(&quot,0xba,0xb7,0xc3),0xce，所以输出“郯”
+1
+none
+http://zhidao.baidu.com/question/76752081.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/58217700.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161252194.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1574022320947640940.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/33674602.html?qbl=relate_question_4

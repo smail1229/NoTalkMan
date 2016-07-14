@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+跪求C语言高手解释这个语句 for(temp=*p;temp!=&#39;&#92;0&#39;;p++,temp=*p)
+none
+如果最后一个元素···楼主了解吗，楼主貌似是要遍历一个字符串，也就是不是字符串最后一个元素，继续循环看问题;&#92;0&#39，当temp ；的时候；然后p指向下一个元素？如果有不同意见我们一起再讨论。temp = *p就是指向字符串元素;!= &#39
+1
+none
+http://zhidao.baidu.com/question/327090760.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/448058994.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163312749.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/462397508.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_4

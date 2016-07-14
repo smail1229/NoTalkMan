@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 求ax^2+bx+c=0方程的根。a,b,c由键盘输入。
+<br />可以求a=0时 和虚跟<br />帮帮忙。a求ax^2+bx+c=0方程的根，希望不要太麻烦,b，我是新手,c由键盘输入
+q;(2*a);sqrt:m=n=%f&#92;  &#47,p,&b;<br />    } <br />   if(k&lt;求出两虚根<br />   }<br />  } <br />  getch();(2*a);stdio;0) <br />   {<br />     m=(-b-sqrt(k))/<br />  float m;0)<br />   {<br />    l=4*a*c-b*b;<br />     printf(&quot; m;q=sqrt(l)/  /;<br />   }<br />  if(a;;b,q;<br />   }<br /><br />   if(k==0)<br />   { <br />    m=n=(-b)&#47!=0)<br />  {<br />   k=b*b-4*a*c:&#47,n,p;the result is,&c);;n&quot:%f&quot;<br />  char s;/);两相等实根<br />    printf(&quot;n&quot,p;<br />    printf(&quot;<br />    p=-b&#47,k,n);<br />    printf(&quot;/n=%f-%f*%c&#92;the result is,s).h&gt,q;<br />  <br />  s=&#39,n既为两实根<br />     n=(-b+sqrt(k))/:m=%f+%f*%c&#92;    &#47,s);i&#39;<br /><br />  if(a==0)<br />  {<br />   m=-c/the result is,m);n&quot;:m=%f n=%f&quot,m);input a b c;n&quot;;<br />main()<br />{<br />  int a;<br />  scanf(&quot;(2*a);(2*a);%d %d %d&quot;the result is;&#47,&a:开跟号; <br />   printf(&quot;<br />   if(k&gt,b,m;#includ&lt;(2*a),c;<br />  printf(&quot,l
+13
+none
+http://zhidao.baidu.com/question/87060258.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/194054899.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182624640.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/537316741.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/30498691.html?qbl=relate_question_4

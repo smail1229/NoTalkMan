@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言的函数中return产生的问题
+n&quot;<br />int isprime(int x)<br />{<br /> int i;%d is prime&#92;、4;<br /> printf(&quot;<br /> scanf(&quot。<br /> else<br />  printf(&quot、3;%d is not prime&#92：<br />#include&quot:&quot？但我运行结果证明是return 0,&a);<br />}<br />假如我输入的数是6;%d&quot;x，即6不是素数;请问结果是否为最后一次return的值;);n&quot;i&lt，不知道c是怎样执行的,5时return 1;<br /> if(isprime(a))<br />  printf(&quot，那么isprime函数中的for循环就会依次从2;enter a number;stdio,3时renturn 1;<br />else<br />return 1;，理论上应该是2时return 0.h&quot，即return 1,4时return 0,a);;;<br /> for(i=2、5进行判断;i++)<br />if(x%i==0)<br /> return 0;<br />}<br />int main()<br />{<br /> int a,a)这是一个简单的判断素数的c语言程序
+/i&lt;///&#47子程序只能返回一次.h&quot;<br /><br />int isprime(int x)<br />{<br />     int i;/i++) if(x%i==0) return 0;<br />    int y = (int)sqrt(x) + 1。;stdio;y，<br />    return 1;当x被i整除时返回0;不能被所有的数整除返回1;<br /><br />#include&quot。执行到return就会跳到主程序继续执行程序<br />#include&quot.h&quot;&#47。;可以减少执行次数<br /><br />     for(i=2。;math
+1
+none
+http://zhidao.baidu.com/question/169512984.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/131803271.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1046321202330286419.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/126774104.html?qbl=relate_question_3

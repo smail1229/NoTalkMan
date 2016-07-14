@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮忙解释C语言问题，宏定义～
+C语言程序中需要使用键盘控制，有这样一个宏定义：#define ESC 0x11b ，其中的0x11b一定是对应ESC键吗？如何查订饥斥渴俪韭筹血船摩询每个键对应的代码？帮忙解释下它的用法，谢谢！
+这是别人已经定义好的<br />就像ASCII码表中定义的各个符号<br /><br />常用按键的按键码：<br />#define VK_LEFT 0x4b00<br />#define VK_RIGHT 0x4d00<br />#define VK_DOWN 0x5000<br />#define VK_UP 0x4800<br />#define VK_HOME 0x4700<br />#define VK_END 0x4f00<br />#define VK_SPACE 0x3920<br />#define VK_ESC 0x011b<br />#define VK_订饥斥渴俪韭筹血船摩ENTER 0x1c0d
+0
+none
+http://zhidao.baidu.com/question/96744677.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533748536.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/59396415.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/387015022.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/579149788.html?qbl=relate_question_4

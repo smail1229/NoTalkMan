@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+数学关系式x≤y≤z可用C语言表达式表示（C）
+学关系式x≤y≤z可用C语言表达式表示（C）<br />A) x&lt;=y&&y&lt;=z   B) x&lt;=yANDy&lt;=z   C) x&lt;=z   D) (x&lt;=y)&(y&lt;=z)<br />求各位贤能可以详细解释~！谢谢;=y&lt
+=y&&y&lt：C语言中表示与就是&&、y&lt;=z这种写法是对的 <br />对于C选项：&&表示C语言逻辑运算符中的逻辑与，三个未知量并不能直接进行关系运算<br />对于B选项，只有x&lt，表达式才是真;=y;=z都成立的时候，C语言中并不存在AND<br />对于D选项，所以选项正确<br />对于A选项：&lt;=是关系运算符，AND是其它语言中的：&表示位逻辑运算符中的按位与，是计算表达式具体数值的x&lt
+21
+none
+http://zhidao.baidu.com/question/117172696.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/309211579.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/395577622.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/194554387.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/249159689.html?qbl=relate_question_4

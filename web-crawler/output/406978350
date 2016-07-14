@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+大家看看这个c语言程序的结果 运行报错求解释
+<br />#include &lt,strlen(p));<br />     while(s1&lt;.h&gt.9;PAUSE&quot;<br />           *s2=t，希望大家运行看看;1234567&quot.2编译通过挺简单的一个程序，运行报错如下图;%s&quot.h&gt;<br />           *s1=*s2--,*s1,int n)<br />{<br />     char t;<br />  fun(p;<br />  printf(&quot;<br />     s1=w;<br />#include&lt;string;s2)<br />     {     <br />           t=*s1++，求结果<br />#include &lt;;stdio;<br />     s2=w+n-1;),*s2，win7上用dev-c++4;<br />void fun(char *w;	<br />  return 0;stdlib, char *argv[])<br />{<br />  char *p=&quot.9,p).h&gt;<br />     }<br />}<br />int main(int argc;<br />  system(&quot
+呵 LZ自己都看出问题了 还来提问;*s1++;*s2--，逗我们玩？<br />whlie()语句第二条的S1、第三条S2已近发生变化了<br />把自加和自减写到最后;*s1=*s2， t=*s1;*s2=t
+0
+none
+http://zhidao.baidu.com/question/117507296.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/117215980.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/537508128.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117319650.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1945822281765777748.html?qbl=relate_question_4

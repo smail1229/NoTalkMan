@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言逗号表达式 （x=4*5,x*5）,x+25 等于多少
+none
+表达式的指是最后一个的值关于逗号表达式，不过x是为20的，所以你的（x=4*5,x*5）是为100
+13
+none
+http://zhidao.baidu.com/question/343938941.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/503354368.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87418596.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/270280342.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/507564483.html?qbl=relate_question_4

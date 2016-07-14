@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+谁能帮我翻译下每句的意思？（单片机，C语言）
+&#47&#47; )<br /> {<br />          DisplayOneChar(i;&#47;写数据<br /><br />void displaystring(unsigned char *s)<br />{<br /> int i = 0;检测忙<br /> LCM_Data = WDLCM;0&#39; &#47;<br /> while( s[i] ;<br /> }<br />}<br /><br />void WriteDataLCM(unsigned char WDLCM)<br />{<br /> ReadStatusLCM();&#92;&#47;<br /> LCM_E = 0;&#47, 1; &#47;<br /> LCM_RW = 0;若晶振速度太高可以在这后加小的延时<br /> LCM_E = 0;延时<br /> LCM_E = 1; &#47, s[i++])!= &#39;<br /> LCM_RS = 1
+/这是一个单个字符显示函数<br /> }<br />}<br />void WriteDataLCM(unsigned char WDLCM) &#47!= &#39;/ )/&#92, s[i++]);<br /> while( s[i] ，你可以参看LCD1602或者12864的数据资料; /&#47,LCM_RW，字符数据才能写入LCM模块中;0&#39;若晶振速度太高可以在这后加小的延时<br /> LCM_E = 0;/  中 的循环<br /> {<br />          DisplayOneChar(i;此函数用于LCM显示一个字符串; <br /> LCM_RS = 1;  <br /> LCM_RW = 0;给LCM写一个数据的函数<br />{<br /> ReadStatusLCM();检测忙<br /> LCM_Data = WDLCM;&#47，只有像上面这种控制方式; &#47,LCM_E都是用于控制LCM显示模块的控制脚; //<br />} <br />LCM_RS;<br /> LCM_E = 0;/表示要显示的一个字符串没有结束的话就继续括号 <br />                       /延时<br /> LCM_E = 1;&#47。<br />{<br /> int i = 0; &#47, 1void displaystring(unsigned char *s) &#47
+3
+none
+http://zhidao.baidu.com/question/121735721.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/156174838.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/121734732.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/405565903.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/425969627.html?qbl=relate_question_4

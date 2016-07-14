@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编写函数fun(char a[ ],int k,int n）
+其功能是：删除字符串中指定下标开始的n个字符。形参中，a数组中存放字符串，k中存放指定下标
+void fun (chara[ ],int k,int n)                憨籂封饺莩祭凤熄脯陇     //下标与数组同步即计算0,直接对内存操作无返回值<br />{<br />        int i,i2,j,,cont,l  = strlen(a);<br />        for(i=k,j=n+k+1;i&lt;=n+k;i++,j++)<br />        {<br />                     a[i] = a[j];<br />                     for(i2 = n+k+1,cont=0;i2&lt;(l-1);i2++,cont++)               //字符移动后字符补位<br />            {<br />                            a[i2] = a[i2+1];<br />                            a[l-1-cont] = &#39;0&#39;;<br />                    }     <br />        }<br />}
+0
+none
+http://zhidao.baidu.com/question/8888774.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/316134411.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91415443.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/41717668.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/396565802.html?qbl=relate_question_4

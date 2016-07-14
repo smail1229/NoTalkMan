@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言type 与 #define 定义区别
+none
+ &#47，定义的是类型名而不是对象名）。*&#47#define仅仅是编译前期的预处理过程中进行源代码中的字符串替换，宏替换还有个陷阱, b，而宏定义无法做到让一个宏记录类型信息;<br />INT_PTR a;*c和d都是int*类型，typedef的语法允许定义复杂的类型（和用这些类型定义这些类型的对象一致。<br />由于指针定义语法的特殊性。*/注意b是int，#define无法简单地做到定义这些类型;<br />typedef int array_type[10]，或都隔开若干空格，这里强调int*表示一整个类型，会明确地产生编译错误，例如<br />typedef struct node_<br />{<br /> int dat, b;<br /> struct node* next，如果发现了用未定义的类型来定义新的类型;*展开后为 int* a, d。*/<br />int_ptr c，不是指针，在定义时需要出现在每一个指针项上：<br />#define INT_PTR int*<br />typedef int* int_ptr;<br />} node;<br />由于预处理器和上述复杂类型的语法（语序）的限制，就是关于指针说明符的*，只不过前面加typedef，即指向int的指针;&#47。<br />此外; &#47，于是用这个类型定义对象时就可能产生错误。<br />typedef定义的类型别名会被静态类型系统检查;*说明指针类型的星号可以紧接int或int_ptr或两者;<br />typedef void(*func_ptr)(int)，不参与之后的翻译期语法检查
+12
+typedef和宏它们针对的软件都不一样.<br />宏是预处理器的任务, 比如说:#define A 10, 预处理器在读取这行后, 它会把程序以后的所有大写字母A都替换成10(需要全字匹配). 我们写的代码必须通过预处理器处理后, 才会被编译器编译.<br /><br />而typedef是针对的编译器, 不是预处理器的任务. 编译器读取typedef unsigned int UINT;后, 它会在以后的代码中, 认为UINT就是unsigned int, 也就是说对编译器来讲又多了一种数据类型, 但是这种数据类型和unsigned int是一样的.
+http://zhidao.baidu.com/question/551881322804416332.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/97587296.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/72497551.html?qbl=relate_question_4

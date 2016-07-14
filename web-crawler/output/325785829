@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中sum是什么意思
+none
+这是自定义关键字，没有固定的含义，不过一般都用于求和<br />不明白可以继续追问，希望能帮到你
+49
+在C语言中sum一般用来作为数值和计算，即计算一系列数据的和。<br />sum在C语言作为变量名，由开发者自己定义，不属于C语言的关键字。<br />作为数值变量时如：<br />        int sum = 0 ;<br />        for(int i = 1; i &lt;= 100; i++)<br /><br />        {<br />                sum += i;<br />        }<br /><br />此时sum作为求和1…… 100的值<br /><br />作为函数时如：<br />int sum(int a, int b)<br />{<br />    return a+b;<br /><br />}<br /><br />此时sum最为函数求两数的和
+http://zhidao.baidu.com/question/325787152.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214093379.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/64854057.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148376806.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1047751686997391939.html?qbl=relate_question_4

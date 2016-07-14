@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+c语言中 #include &lt;stdio.h&gt; #define N 8 void fun (int
+ for(i=0; } main() {int a[N]={1c语言中 #include &lt,i,int i) {*x=*(x+i),2);i＜N&#47;2,4,5,2,3;} printf(&quot;&#92,a[i]););stdio; fun(a,8};%d&quot;n&quot; #define N 8 void fun (int *x.h&gt,7,6;;i++) {print(&quot
+2);后是把第三个元素的值赋给第一个元素的，所以a[0]=a[3]=3,输出的时候只输出了前四个数，望采纳，也就是3 2 3 4.不懂可以追问首先你要看懂fun（）函数的，*x=*(x+i)。<br />执行fun(a;就是把x之后的第i个数的值赋给x的
+9
+none
+http://zhidao.baidu.com/question/175368467.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/244109534.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/380229381.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/233025284.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/479870407.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言交换语句
+如果int a,b,t;<br />if(a&gt;b)<br />{t=a;a=b;b=t}<br />我的问题是假订单斥竿俪放筹虱船僵如A==5，B==4，T没赋值。<br />（那T=A 是把A的值赋于T，那T==5，那A的值是不是就没了），还是仍然A==5。<br />被赋值以后是不是两值都存在呢？
+照顾性T＝A之后，A不变仍然为5，执行A=B后，A的值才变化。。
+2
+none
+http://zhidao.baidu.com/question/104186950.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/111954577.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/99653695.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/104195382.html?qbl=relate_question_3

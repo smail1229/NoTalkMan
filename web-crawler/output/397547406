@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个c语言题目：float y;int x=-3;执行语句y=x%2后，y变量的值为什么是0？
+输出y 时用%d输出。
+打印出来当然是零了，首先会把y从float转换成double，只会读取那扩充的4个全零字节因为最后在printf是！其实你可以用%d打印任何float值，全部用0扩充。而你使用了%d来打印，也就是4个字节编程八个字节
+1
+none
+http://zhidao.baidu.com/question/303607960.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/383501184.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/568861657.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/474497048.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234549504.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中输出字符数组时printf函数与puts函数有什么区别。
+none
+..而puts()括号里面的内容是直接全部会输出的，可以输出的项你可以自己设置，看看MSDN文档里面是怎么解释他们两个的大的区别是.！ 具体的内容你可以找找MSDN文档翻译版的...，或者字符串，可以是字符，printf()这个函数后面跟着的是要输出的参数，这样你会理解的更深刻
+0
+none
+http://zhidao.baidu.com/question/534179612.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/80416836.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1637628055868221820.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77588356.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1894679339010427020.html?qbl=relate_question_4

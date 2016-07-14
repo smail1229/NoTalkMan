@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，指针一块的内容 ＊＋＋P ＊P++ 分别是什么意思啊？
+none
+<br />希望给予采纳。<br />*p++就是先取p指向的内容，然后p的值加一<br />这里的加一不是简单的数字加一，是右结合运算符，*和++的优先级相同.<br />是的，则p的值在16位机上加了2，当时没注意。等价于p+sizeof(*p)。应该等价于p+sizeof(*p)，而在32位机上加了4。所以*++p等价于*（++p）<br />*p++等价于*(p++)<br />因此*++p就是试p的值先加一，下面朋友说的对，是和p的类型有关，然后取其所指向的内容.就是p的值增加了一个他的类型长度。如果p是整形的指针变量首先
+8
+none
+http://zhidao.baidu.com/question/425789360.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/254783541.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240709437.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/204654641.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/454895128.html?qbl=relate_question_4

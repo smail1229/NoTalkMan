@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言int输出
+int有个范围，是32767-32768，为什么int a=88888888能正常输出？
+在32位机中，VC, DEV C++等编译器中，int 为32位(4字节) 因而int a=88888888能正常输出
+0
+none
+http://zhidao.baidu.com/question/422226086.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2009658279948382788.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192722612.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/229873934.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/414787145.html?qbl=relate_question_4

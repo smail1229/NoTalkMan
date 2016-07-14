@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 函数阶乘问题
+none
+fail
+0
+#include &lt;stdio.h&gt;<br />int myfac_n (int n  ) ;&#47;&#47;此处是;叫做函数声明，要定义的话直接用大括号，具体看你课本这些不用我说了吧<br />	s的值未初始化为1<br />	for (i=1 ; i&lt;=n ; i++ )<br />	{<br />		s=s*(i+1);&#47;&#47;此处i不需要+1，如果这样的话，i不能=n才可以<br />	}<br />	return s ;<br /><br />void main()<br />{	<br />	<br />	int x , ans ;<br />	scanf (&quot;%d&quot; ,x ) ;&#47;&#47;这个问题时初学者很容易犯的毛病，就是输入的时候忘记取地址，一定记住输入是往地址中存放东西，所以x前面一定要有&，或者后面学到指针时，可以用指针也可。<br />	ans = myfac_n( x ) ;<br />	printf (&quot;%d&quot; , ans ) ;<br />}<br />别的暂时没有了，你初学吧，好好努力吧，下面是我给你修改过的，以后还是自己查程序吧，提高的块些！<br />修改后的：<br />#include &lt;stdio.h&gt;<br />int myfac_n (int n  ) <br />{<br />    int s = 1 , i ;<br />	for (i=1 ; i&lt;=n ; i++ )<br />	{<br />		s=s*i;<br />	}<br />	return s ;<br />	<br />}	<br /><br />void main()<br />{	<br />	<br />	int x , ans ;<br />	scanf (&quot;%d&quot; ,&x ) ;<br />	ans = myfac_n( x ) ;<br />	printf (&quot;%d&quot; , ans ) ;<br />	getchar();<br />}
+http://zhidao.baidu.com/question/10355063.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/43381625.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143229947.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/409197461.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/541948117.html?qbl=relate_question_4

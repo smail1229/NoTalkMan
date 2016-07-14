@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+写一段简单的c语言程序： 输入一个double类型的数，使它保留小数点后两位，对第三位四舍五入处理
+none
+01).2f&quot;%.2f&quot;%;&#47.;;<br /> k=(int)(i*1000);;<br />    scanf(&quot;<br />    if((k%10)&gt;;<br />    else<br />   printf(&quot.;%lf&quot#include&lt,j*0.都满足条件哈;<br /> int k.h&gt;<br />int main()<br />{<br />    double i;<br /> j=(int)(i*100);stdio.45615,j;无论是3;=5)<br />        printf(&quot;<br />}<br />&#47.456还是3.01),(j+1)*0,&i);    <br /> return 0
+7
+<p>1 输入double类型数。</p><p>2 利用取整，将第三位四舍五入。</p><p>3 输出结果。</p><p>注意，不可以直接以%.2lf输出，因为题目要求的是在程序中四舍五入处理，而不是仅仅输出四舍五入后的结果。</p><p>代码：</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />int&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;double&nbsp;v;<br />&nbsp;&nbsp;&nbsp;&nbsp;scanf(&quot;%lf&quot;,&amp;v);<br />&nbsp;&nbsp;&nbsp;&nbsp;v&nbsp;=&nbsp;(int)(v*100+0.5)/100.0;<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%.2lf\n&quot;,v);<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre>
+http://zhidao.baidu.com/question/589376839.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/534262160.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/104640801.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49232882.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/59054473.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言的 程序的结尾会有getch（）是什么
+序的结尾会有getch（） 也会有return()可是我用tc2中为什么结束的时候我用return（）就会没有显示或者错误 而用getch（）却可以 这个我不懂  刚开始学习 大家 教点经验 谢谢
+h头文件<br /><br />等价于system(&quot，让你的程序不至于一闪而过getch()为等待用户输入一个字符（不需要按回车）;pause&quot。<br />在c中使用getch（）必须先包含conio，这样就可以达到让程序停一下的效果
+3
+none
+http://zhidao.baidu.com/question/6686928.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1238035392210565019.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143227466.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/140739389.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/29100619.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教自己写的c语言头文件“*.h”问题
+但是！，我不可能在老师的include文件夹里面搞头文件，最多只能够和源程序一起交？我用的是Turbo c&c++ 3。，只要我写的头文件不在tubor c的那个include的文件夹里面，我想把其中一些函数的定义放到一个头文件里面.h”？和源程序在同目录里面能够实现吗！。。因为我是要交作业的，使之看起来比较简短，就会出现unable to open file“***！万分感谢~~我自己就25积分，给你们15个了~~谢谢.0，但是比较长我写了一个程序？，请问怎么解决？我试过了，是否可以
+*.h&quot..h&gt.;*,这样编译器会在整个文件夹下寻找头文件 <br /><br />- -....;是指包含在include这个默认文件夹下的头文件!e.谢谢大牛指点~我给记反了..你可以改成&quot.;&lt
+2
+none
+http://zhidao.baidu.com/question/444232765.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/212447127.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38154525.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/129676638.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/413661236.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中能这样定义吗？int *(a[3]),(*b)[3]； 这样定义对吗
+none
+正确，等价于int *a[3]——a是有3个元素的数组。<br />(*b)[3]中b是一个指针，每个元素都是一个int *指针，指向有三个元素的整型数组。正确int *(a[3])中的()无效
+0
+none
+http://zhidao.baidu.com/question/487353652828331892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/623366795186797044.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/503700887.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/43444208.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/166254235.html?qbl=relate_question_4

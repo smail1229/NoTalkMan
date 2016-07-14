@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问C语言高手这个语句的执行顺序！
+<br />非常感谢，y=－1，z=－1；<br />x＋＝－z－－－yint x=0
+然后再看运算符号的级别来决定先看什么再看什么.0试了一下，即从左向右还是从右向左，值为-1，为1。 <br />这是我的解释。，即先引用再自减：=右边是从左向右运算。;-（负号），然后与前面的-相乘。 <br />这种题主要就是先看结合顺序,x=x+2=2。，但--&gt,结果是2即x+=2，这样就OK了，故先是z--，再减去y，结果x=2，但是我刚用Visual Stdio 6楼上貌似说的很有道理。
+0
+none
+http://zhidao.baidu.com/question/1668003064431239027.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/646812908301707925.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/388605935.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/51499399.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/508645226.html?qbl=relate_question_4

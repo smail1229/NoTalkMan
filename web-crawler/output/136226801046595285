@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+C语言，char s[][10]={…省略…},那(*p)[10]=s怎么理解
+none
+fail
+0
+你可以把char [10]看成一个类型。<br /><br />char<br />char *<br />cahr [10]  分别是3个类型<br />所以，例如：<br />char s[3][10] &#47;&#47;看成一个数组，有3个元素的数组，<br />                   &#47;&#47;每个元素的类型为数组，即char [10]<br />                 &#47;&#47;看成一个类型后，和char s[3]一个意思 <br />同理<br />char (*p)[10]=s  看成 char (*p)=s.  <br />&#47;&#47;同类型的指针才能指向同类型的变量,他们都是char [10]类型的，所以可以赋值<br />就像char x[3];   char *p=x;
+http://zhidao.baidu.com/question/983417944492840659.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/399134843.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152335699.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1174381306675210339.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/462580332.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一段C语言程序如下：
+<br /> scanf(&quot;<br />main()<br />{<br /> double r;n&quot;stdio.h&gt？,r);%f&#92,&r);%f&quot;<br />}<br />执行的结果为什么不对呢;;<br /> printf(&quot;#include&lt
+%f代表按单精度型输入或输出，而%lf代表按双精度输入或输出；而double 的就必须是%lf才对
+0
+none
+http://zhidao.baidu.com/question/246153545.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/556363863.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/249605231.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/131390944.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/480654390.html?qbl=relate_question_4

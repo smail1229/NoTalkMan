@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有a b两个变量,要求不使用第三个变量,交换a b的值,用c语言这么写?
+<br />但我还是看不懂;<br />b=a-b我看到网上有答案是<br />a=a+b，小弟刚接触这方面的知识。详细说一下是怎么来的，请大侠们赐教;<br />a=a-b
+=a+b这个得到的是a和b的和，那么a-b得出的肯定是最初的a的值，b的只就是原始a的值；这一步运行之后，既然a是他们两个的和；<br />a=a-b，b之和；也就是这一步运行之后当前的a的值就是a，既然b是原始a的值，那么差值肯定就是原始b的值，a是原始a和原始b的和。<br />b=a-b
+47
+none
+http://zhidao.baidu.com/question/26035623.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/155730040.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/313053404.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22935288.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/43153883.html?qbl=relate_question_4

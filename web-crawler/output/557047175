@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+设计一个c语言程序:输入一个带有空格的字符串,比如i love you要求删除字符串中的所有空格显示
+none
+<br />}<br />可以提示你一下;<br />printf(&quot;string[i];&#92;%c&quot;<br />    for(i=0;**32是空格键的ascll码<br /> printf(&quot;&#92;<br />    gets(string).h&gt;&#92;i++)&#92;&#92，所以我用了<br /> {if(string[i];**for循环语句并非函数;0&#39;&#92;),string[i]);)：&quot;<br /> }printf(&quot;*定义字符串数组 <br />int i!=32)&#92; <br />void main()<br />{char string[100];stdio;，你可以尝试一下link函数;;请输入要处理的字符串#include&lt!=&#39;n&quot;&#92
+1
+<p>把输入的字符串既作为源又作为目标，设立int型变量i为源下标记数，j为目标下标记数；由源向目标按字符依次拷贝，当目标接收到空格时下标变量j停止增量，最后目标收到&#39;\0&#39;后结束。举例如下：</p><pre t="code" l="cpp">//#include&nbsp;&quot;stdafx.h&quot;//If&nbsp;the&nbsp;vc++6.0,&nbsp;with&nbsp;this&nbsp;line.<br />#include&nbsp;&quot;stdio.h&quot;<br />int&nbsp;main(void){<br />&nbsp;&nbsp;&nbsp;&nbsp;char&nbsp;str[500];<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;i=0,j=0;<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;Please&nbsp;enter&nbsp;a&nbsp;string...\nstr=&quot;);<br />&nbsp;&nbsp;&nbsp;&nbsp;gets(str);<br />&nbsp;&nbsp;&nbsp;&nbsp;while(str[j]=str[i++])<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if(str[j]!=&#39;&nbsp;&#39;)&nbsp;j++;<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;The&nbsp;new&nbsp;string&nbsp;is:\n%s\n&quot;,str);<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre>
+http://zhidao.baidu.com/question/396398701.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431284272.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1765725058338929140.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/82308882.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/509020460.html?qbl=relate_question_4

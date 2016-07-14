@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，如何定义一个变量，使其既可以在主函数中使用，也可以在子函数中使用
+即在主函数和子函数中，他们的存储空间是一致的
+即全局变量，但是之前的不变，不过我在这里我要提醒你，如果在某个函数中A的值变了，之后的A值都变：int A ，c语言不提倡多用全局变量在所有的函数之前定义变量;  这个变量A在之后的都可以用，so
+9
+none
+http://zhidao.baidu.com/question/2115876596003442827.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153923984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/498681611.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/504673978.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/59644199.html?qbl=relate_question_4

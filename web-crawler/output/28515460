@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问在C语言中二进制的转换说明符是什么（是%加哪个字符呢？）？？？
+none
+fail
+0
+c语言中没有二进制的格式输出符号.<br />你可以用itoa函数很方便的将一个10进制int转变成二进制字符串.<br />如:<br />int i;<br />char s[128];<br />scanf(&quot;%d&quot;,&i);<br />itoa(i, s, 2);  &#47;*3个参数,第一个是待转换的数,第二个是存放转换后的字符串,第三个即需要转换的进制*&#47;<br />printf(&quot;该数转换为二进制是: [%s]&#92;n&quot;,s);<br /><br />补充一点,itoa函数的头文件是stdlib.h
+http://zhidao.baidu.com/question/310042590.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92107381.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/567289858.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/436412070.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533300806.html?qbl=relate_question_4

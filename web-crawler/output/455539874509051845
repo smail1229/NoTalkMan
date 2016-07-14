@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数字表示形式
+，我想得到一个float 型的c，使c=1，完全不会了啊.2；就是说想得到一个 float型的数据 c=a..b比如现在有一个int 型的数据a=1和int 型的数据b=2...；请问各位大神怎么写啊
+ ((float)i);/<br /><br />        b1 = b1 &#47, int b)<br />{<br />    int i = 1; 计算b的位数<br /><br />        i = i * 10!= 0) { &#47float a_point_b(int a;<br /><br />    }<br /><br />    return ((float)a) + ((float)b) /<br /><br />    while(b1 ; 10, b1 = b
+0
+none
+http://zhidao.baidu.com/question/148075906.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239817884673193764.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/407171571.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/175809934.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/531477696.html?qbl=relate_question_4

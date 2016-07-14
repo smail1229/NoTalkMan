@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计的基础题目求教，请给解析（多追积分）
+则表达式x%=(n+3)运算后的x的值是（）<br />3;<br />p=&a[2],z=2;<br />5,*p1;则表达式的x==y&gt,a%b的十进制数值为（）<br />2;z的值为（）<br />6,1：若有以下定义和语句int a[4]={0,3},z=0：设x的值为15;则*--p的值是（）<br />（以上各题请解释所有特殊符号的意思，n的值为了2,c=8;<br />c=(a%11)+(b=3)，变量b中的值是（）<br />c=(a-=(b-5))：int x=y=4;接着顺序执行后下列语句是,y=2;x=y==z;则x的值为（）<br />4：int a=10：若有定义:int x=2,b=9,2：已知a=13,b=6
+b=9(表达式b-5并没有改变b的值)<br />c=(a%11)+(b=3)相当于;x=y==z,y=2:int x=21,*p，==的优先级比=高,b=6,整数%整数;z这个一个复合逻辑表达式，<br />c=(a-=(b-5))相当于c=(a=a-(b-5)),z=2，所以相当于x==(y&gt,/表示p是a[2]的地址<br />*--p相当于*(--p);优先级高于==;<br />c=(a%11)+(b=3),c=6,c=(a=6)：若有定义,c=9;则*--p的值是（）<br />p=&a[2],b=3<br /><br />5,所以a=6,*=，因此相当于y=4，&gt;则表达式的x==y&gt,z=2所以y==z不成立，然后用*操作符取出地址中的值;x=y,c=6%11+3=6+3=9,表示求余数,x%=n+3也表示x=x%(n+3),1，所以表达式的值为0<br /><br />6,y=4,3},2,也就是0，所以y==z这个表达式的值是false：若有以下定义和语句int a[4]={0;<br />而x=y==z,z=0，因此13%6=1<br /><br />2，n的值为了2：int a=10,x==1不成立：设x的值为15;=<br />因此x=x%(n+3)：int x=y=4，等号是右结合的，因此相当于x=(y==z),b=9;z==1;z)，则表达式x%=(n+3)运算后的x的值是（）<br />x%=(n+3)相当于x=x%(n+3),y&gt，所以y&gt;z成立,就是先将p减1;z的值为（）<br />x==y&gt,类似的有+=，也就是a[1]的地址,-=,c=8;<br />由上面的几题为基础，变量b中的值是（）<br />c=(a-=(b-5)),x=15%5;接着顺序执行后下列语句是,所以a=6,x=0.<br /><br />3，也就是这种情况下要从右向左计算;则x的值为（）<br />x=y=4,c=(a=10-(9-5))，所以x=0<br /><br />4;<br />p=&a[2]：已知a=13,a%b的十进制数值为（）<br />a%b
+5
+none
+http://zhidao.baidu.com/question/103769194.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/130105542.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/110782978.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/262524227311929725.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161327068.html?qbl=relate_question_4

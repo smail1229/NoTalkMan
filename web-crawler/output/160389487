@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针问题.*(char *) 与*(char far *)有什么区别?
+C语言指针问题.*(char *) 与*(char far *)有什么区别?
+所以far指针的寻址范围是1M字节。所以far指针要显式指定，需要指定以far函数或far指针来使用这部分的空间（64K以外的空间），far指针的运算也比较反常.如果一个far指针的段地址是0x7122。为了解决这个问题，不能放下所有的代码与数据，偏移量为0x0004，（所以实际上far指针是20位的长度，将基地址乘以16后再与偏移量相加，因为每次访问一个far指针时。<br />far指针的长度是32位？<br /><br />当使用小代码或小数据存储模式时，那么默认是near。因为在64K的一个段中，含有一个16位的基地址和16位的偏移量，不能编译一个有很多代码或数据的程序。<br />near指针的长度是16位的，则该指针指向地址0x71224。far指针工作起来要慢一些。<br /><br />什么时候使用far指针。许多库函数就是显式地指定为far函数的形式，例如上面讲到的far指针指向同一个地址，则该指针也指向地址0x71224，所以可指向的地址范围是64K字节。<br />    如果没有指定一个指针是near或far。另外，都要将数据段或程序段的数据交换出来near指针和far指针？<br /><br />在DOS下（实模式）地址是分段的，超过了一个段64K的容量，偏移量为0x1244，通常说near指针的寻址范围是64K。）即可得到far指针的1M字节的偏移量，每一段的长度为64K字节。例如一个far指针的段地址为0x7000，刚好是16位（二进制的十六位），但是比较的结果却不相同
+3
+none
+http://zhidao.baidu.com/question/89337828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/207240089.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149093767.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/75403818.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/302505307.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 switch语句问题
+; break，距离为S.h&gt;<br />	<br />	float d: d=0; break; break.08;stdio;250)<br />			{<br />	case 3: d=0;<br />	case 0,w;%f&quot;<br />	printf(&quot;<br />	printf(&quot;<br />}<br /><br />我知道范围问题应该是用if 和elseif写的;<br />			} break;<br />	case 0,y;请输入路程数;<br />	case 1.05.02; break; <br />	}<br />	p=1.1;1000，折扣为d(discount的缩写).15;<br />	scanf(&quot;%d&quot，货物重为w(weight的缩写).可是老师留的作业啊要用switch做<br />为何我运行程序直接死了只能关闭 求大神讲解;<br />				default:<br />#include &lt;<br />	x=s&#47: d=0。路程(S)越远，则总运费f(freight的缩写)的计算公式为f=P*w*S*(1-d)<br /><br />我的代码：<br />  s＜250km             没有折扣<br />  250≤S＜500       2％折扣<br />  500≤S＜1000     5％折扣<br />  1000≤S＜2000   8％折扣<br />  2000≤S＜3000   10％折扣<br />  3000≤S                15％折扣<br />  设每公里每吨货物的基本运费为P(Price的缩写): d=0: switch (y=s&#47.05;<br />	case 1;),s): d=0，每公里运费越低: d=0,p*w*s*(1-d)).,x;<br />#include&lt;<br /><br />int main(void)<br />{	int s; break.h&gt,w=1;:&quot: d=0;stdlib。标准如下;<br />	case 2题目;<br />	switch(x)<br />	{<br />	case 2; break: 运输公司对用户计算运费,p
+&s);/&#47scanf(&quot;%d&quot;
+1
+none
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/101519686.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132566618.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/103820409.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_4

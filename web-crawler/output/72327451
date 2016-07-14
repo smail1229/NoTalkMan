@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言 编写函数对三个整数x，y，z 按从小到大的顺序排列，在主函数中调用它，然后输出排序后的三个数
+none
+num2;<br /> }<br />    <br /> if(*p &gt;<br />    sort(p;        <br /> }<br /> else if(*q &gt;please input 3 numbers.h&gt;%d %d %d&#92; *q)<br /> {<br />  temp = *p;;<br />  temp = *q;<br /> q = &num2,num3;<br />  *p = *q;;<br /><br />void sort(int *p,*t;n&quot;<br />  *q = temp;%d%d%d&quot,*q, int *q,t);<br />  *q = *t,p; *t)<br /> {<br />  temp = *t;<br /> printf(&quot;<br /> t = &num3;<br />  *p = temp;<br /> scanf(&quot,q, int *t)<br />{<br /> int temp; *t)<br /> {<br />  temp = *q;<br /><br /> if(*p &gt,q;<br /> }<br />}<br /><br />main()<br />{<br /> int num1;<br />  *t = *p;);<br />  *t= temp;<br />  *q = *t;<br /><br /> p = &num1;<br />  *t = temp;<br /> int *p,*p;<br /><br /> printf(&quot,*q:&quot,t),*t)#include&lt;stdio
+13
+none
+http://zhidao.baidu.com/question/154091496.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/284951041.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/102003498.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/807485777339010932.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/95374535.html?qbl=relate_question_4

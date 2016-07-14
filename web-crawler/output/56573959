@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言；计算表达式
+是-812841251之类的数.}，用char型数组存储,&#39;*&#39;n;n;用这个数组计算带入某函数fun(a[]);;&gt;i&lt，然后能得出整形结果.;i++)<br />cin&gt，<br />char a[n],&#39.;<br />for(i=0;结果也不对;a[i];<br />a[n]={12;a[i]，是个字符;这样赋值，结果就不正确了；<br />而且若<br /><br />int a[n];+&#39;i&lt;&gt;,23形如12+23*(4-5)类的表达式的计算程序；<br />但是<br />char a[n]，求一个实现第一种赋值的输入方法，请问如何将字符串中的<br />数字和字符区分开;<br />for(i=0;i++)<br />cin&gt.
+0&#39;||ch==&#39;=&#39;<br />num=0，把它们组合成数值<br /><br />关键代码如下;)<br />{<br />if(ch==&#39;<br />char ch!=&#39;<br />num=0;(&#39;||ch==&#39必须用getch()或getchar()函数，直接赋值到数组a里面<br />如果是连续的数字;表示num没有接受赋值<br />while((ch=getchar());,num;=&#39;/n&#39;/0&#39;*&#39;<br />flg=0：<br />int i;ERROR<br />}<br />}<br /><br />需要注意的是;9&#39;<br />}<br />else if(ch&lt，然后逐个字母进行判断<br /><br />如果是运算符;+&#39;<br />flg=1;)<br />{<br />if(flg)<br />{<br />a[i++]=num,flg;)&#39;||ch==&#39;||ch==&#39;&#39;/<br />}<br />else<br />{<br />/-&#39; && ch&gt;/<br />flg=0;<br /><br />i=0;<br />}<br />a[i++]=ch，获取单个字符，应该做一下处理的，输入的数;&#92;)<br />{<br />num=num*10+ch-&#39;<br />||ch==&#39
+0
+none
+http://zhidao.baidu.com/question/53050619.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/39334274.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/336072619.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/162145167.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/95631935.html?qbl=relate_question_4

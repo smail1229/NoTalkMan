@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+1. 在VC++ 6.0环境下编写并运行C语言程序要经历哪几个步骤 2．C语言的基本程序控制结构有哪几种？
+none
+fail
+0
+1.编写程序后，要先经过编译（ctrl+f7）可以排查程序中的语法逻辑的错误，改正后，运行（ctrl+f5）即可看到程序运行结果，按任意键后返回程序源代码。<br />2.程序的基本结构有 顺序结构 选择结构 分支结构 还有循环结构（分当型循环和 直到型循环）<br />3.双引号的是字符串，单引号的是字符。字符串一定有结束标志&#39;&#92;0&#39;  字符则没有，只占一个字节。<br />4.参数传递方式有按值传递和按引用传递两种方式。<br />按值传递方式，形参的改变，不会影响实参的值。<br />按引用传递方式，形参的改变会影响实参的值。
+http://zhidao.baidu.com/question/109406943.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/43888954.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239595330.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/544188210.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/45245605.html?qbl=relate_question_4

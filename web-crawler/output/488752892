@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中赋值语句的语法是怎样的
+none
+复制的：<br /> <br />(1)C++的赋值语句具有其他高级语言的赋值语句的功能&#65377;但不同的是: C++中的赋值号“=”是一个运算符,可以写成<br />     a=b=c=d;<br /> 而在其他大多数语言中赋值号不是运算符,上面的写法是不合法的&#65377;<br /> <br />(2) 关于赋值表达式与赋值语句的概念&#65377;在C++中,赋值表达式可以包括在其他表达式之中,例如<br />     if((a=b)&gt;0) cout&lt;&lt;&quot;a&gt;0&quot;&lt;&lt;endl;<br /> 按语法规定if后面的( )内是一个条件&#65377;现在在x的位置上换上一个赋值表达式“a=b”,其作用是:先进行赋值运算(将b的值赋给a),然后判断a是否大于0,如大于0,执行cout&lt;&lt;&quot;a&gt;0&quot;&lt;&lt;endl;&#65377;在if语旦虎测臼爻铰诧歇超忙句中的“a=b”不是赋值语句而是赋值表达式,这样写是合法的&#65377;不能写成<br />     if((a=b;)&gt;0) cout&lt;&lt;&quot;a&gt;0&quot;&lt;&lt;endl;<br /> 因为在if的条件中不能包含赋值语句&#65377;C++把赋值语句和赋值表达式区别开来,增加了表达式的种类,能实现其他语言中难以实现的功能&#65377;
+36
+none
+http://zhidao.baidu.com/question/101249267.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/106520844.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92861086.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/320095190.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/148726068.html?qbl=relate_question_4

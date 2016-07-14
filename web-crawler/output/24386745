@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中逗号运算符怎么用?
+none
+你所说的 a=12+(s+2,d+4).的4。它的优先级别在所有运算符中是最低的,然后算d+4,最后逗号表达是式的值是d+4=7,整个表达式的值是12+7=19,其间所有的都要计算,逗号运算符的作用是将若干表达式连接起来;自左至右&quot。其值是最后一个表达式的;的; 先算s+22楼说的很详细了 ，结合方向是&quot
+97
+<p>逗号运算符( , )是C语言运算符中优先级最低的一种运算符，结合顺序是从左至右，用来顺序求值（最后一个逗号后面表达式的值作为整个表达式的值）。</p><p><br /></p><p>下面举例说明逗号运算符的使用方法：</p><pre t="code" l="cpp">int&nbsp;a=3,&nbsp;b=5,&nbsp;c;<br />c&nbsp;=&nbsp;a&gt;b,&nbsp;a+b;&nbsp;&nbsp;&nbsp;//&nbsp;运行后c值为0，因为逗号运算符的优先级低于赋值运算符，所以先将a&gt;b的结果(为0)赋值给c，之后运算a+b（结果不保存），所以c=0<br /><br />c&nbsp;=&nbsp;(a&gt;b,&nbsp;a+b);&nbsp;//&nbsp;运行后c值为8，因为括号的优先级高于赋值运算符，所以先算括号内的表达式，此时计算结果为最后一个表达式的值，即a+b的值，所以c=8</pre>
+http://zhidao.baidu.com/question/574692160.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/4856852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/16512053.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49011603.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/172664666.html?qbl=relate_question_4

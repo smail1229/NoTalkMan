@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言释放空间的问题
+怎样知道是否释放成功了呢？能不能输出一个信息表示成功释放了啊！？
+<br />一般情况下。所以无法判断该空间是否被释放成功。<br />所以我觉得，只要你的程序没有崩溃，就证明释放是成功的。<br /><br />当然可以输出一个信息表示释放成功free这个函数是没有返回值的， 如果你free了一段不能释放的空间会报错
+2
+none
+http://zhidao.baidu.com/question/320438411.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/347694221.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/125642675.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/616069613435604692.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/208865187.html?qbl=relate_question_4

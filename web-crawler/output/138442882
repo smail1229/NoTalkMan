@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序题：输入n个整数，求这n个数中的偶数平均值，并输出。
+none
+fail
+1
+编的有点乱: 我是这样编的 N 可以任取<br />#include &lt;stdio.h&gt;<br />#define N 10<br />main()<br />{<br />int a[N],i;<br />float ave=0;<br />for(i=0;i&lt;10;i++)<br />{<br />scanf(&quot;%d&quot;,&a[i]);<br />if(a[i]%2==0)<br />ave=ave+a[i];<br />}<br />printf(&quot;%0.2f&quot;,ave&#47;10);<br />}
+http://zhidao.baidu.com/question/408229976.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97663309.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15793454.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92653405.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/81454506.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中if(3&&2) a=1;else a=2; 请问a是多少？
+再给个解释呗~
+因此 3 && 2 为 true，0为 false在C语言中。<br />因此 a 值为 1，数值参与到逻辑表达式中时，是一个逻辑与表达式。由于3和2都是非0的数，两边同时为 true 时，非0为 true，都翻译为 true。<br />3 && 2，表达式为 true
+0
+none
+http://zhidao.baidu.com/question/112188183.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/480539380.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/482318726.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/303497983.html?qbl=relate_question_4

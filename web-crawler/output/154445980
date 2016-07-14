@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言输入一个整数怎么分别输出它的每位上的数字
+比如你输入4567，程序就会输出4   5   6    7<br />下面我的方法哪里错了 我运行了 可是发现比如我输入一个三位数 五位数的 整数 程序就错了 。为什么？
+10) prt(n/10);t&quot;<br /><br />void prt(int n)<br />{<br />   if(n&gt;<br />   prt(a);<br />   printf(&quot.h&gt,n%10)#include &lt;%d&#92;stdio;<br />}<br /><br />int main(void)<br />{<br />   int a=4567;;<br />   return 0
+17
+none
+http://zhidao.baidu.com/question/154445253.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/50772798.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/492276712.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/412179063.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/196623293.html?qbl=relate_question_4

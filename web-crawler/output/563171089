@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编写单片机程序
+左移，四个按键控制灯亮，8个LED灯亮1个。第3个按键，8个LED灯亮3个。第4个按键。第1个按键，LED数字显示屏显示3。第2个按键，左移，LED数字显示屏显示1用C语言编写，8个LED灯亮2个，左移，LED数字显示屏显示2，LED数字显示屏显示4，左移，8个LED灯亮4个，单片机89C51控制
+一个是按键扫描，判断到时哪个按键就调用分别得子程序。<br />主程序就一直按键扫描，一个是灯控制，一个是显示。<br />学习单片机程序还是靠自己写只能跟你说思路：<br />需要些三部分子程序，多写写就懂了。呵呵
+0
+none
+http://zhidao.baidu.com/question/392332180.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/296013984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/433672732.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/16891684.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155343726.html?qbl=relate_question_4

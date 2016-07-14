@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言中，int 321转换为char型，是什么，怎么算的
+none
+<br />整形一般占2个字节你好！，那么321的二进制就是，那么对应的十进制就是65<br /><br />不理解的话！：0000 0001 0100 0001那么把int 的数据赋值给char！,那么就把第八位赋值给char 故0100 0001，我们在交流
+4
+none
+http://zhidao.baidu.com/question/35677836.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/56547426.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1945949514484093708.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/431213050.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/390546310369737445.html?qbl=relate_question_4

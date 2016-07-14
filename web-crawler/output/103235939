@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言for循环是什么意思
+none
+/<br />void main()<br />{<br /> int i = 11;=1的<br />&#47。第二个是<br />/<br />  if(i&1)&#47。意思是要大于0就执行;看这条语句的值应该很清楚<br />  printf(&quot;;/意思是i&#47。第三个是i&gt;n&quot;&gt;n&quot,r;&gt;%d&quot;;i = %d&#92;第一个;能看出来i每次是0的时候for语句结束了;i = %d&#92;/n&quot;<br /> for(r=11;&#47,i);i是奇数的时候是true<br />   r *= m;<br /><br /> }<br /> printf(&quot;/i,m=3;<br />  m*= m;;= 1)&#47,i)。<br /> {<br />  printf(&quot;&#47,r);&#47.h&gt;2的意思;要大于0的意思;&#47。没有写判断语句;stdio;r = %d&#92;号之前我想应该能看懂,r)看来没有人回答就我来了;i &gt;。<br /> printf(&quot。<br />#include&lt
+13
+<p>for循环是用来控制语句的重复执行次数的一个关键字。</p><p><br /></p><p>具体用法可以用下面的例子来说明：</p><pre t="code" l="cpp">int&nbsp;i,a=0;<br />for(i=0;&nbsp;i&lt;5;&nbsp;i++)&nbsp;&nbsp;//&nbsp;for循环就控制程序对于语句a++执行5数，执行一次i的值就加1（由for循环中i++控制，i的初始值由i=0控制）<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;a++;<br />}<br />//&nbsp;程序执行完后i=5，&nbsp;a=5</pre>
+http://zhidao.baidu.com/question/1893657157747578620.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/197986429.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1365697811928442499.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/580323184.html?qbl=relate_question_4

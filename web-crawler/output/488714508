@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+(C语言)while(!x)中的条件表达式(!x)中，!x怎么解释，是x==0吗？
+none
+!X指的是不为真，所以X==0.
+3
+none
+http://zhidao.baidu.com/question/2074641459600867908.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240879249767840524.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49562096.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/355444918.html?qbl=relate_question_4

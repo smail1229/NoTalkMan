@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言求牛顿迭代法求方程4x3-8x2+6x-12=0在1.5附近的根
+none
+x=%f&#92,x0牛顿法的迭代序列;;  <br />main()  <br />{  <br /> float x：x(n+1)=x(n)－f(x(n))/  <br /> do {  <br />  f=4*x0*x0*x0-8*x0*x0+6*x0-12。<br />代码如下,f1;f&#39;(x(n)),f;  <br /> printf(&quot：<br />#include&lt;stdio;  <br />  x0=x;  <br />  x=x0-f/<br />#include &lt,x);n&quot;math.h&gt.5;  <br /> x0=1;=1e-5);  <br />  f1=12*x0*x0-16*x0+6;f1;  <br /> }while(fabs(x-x0)&gt.h&gt
+8
+none
+http://zhidao.baidu.com/question/161215911.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51661601.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/47572276.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1818131828740353748.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/507560183.html?qbl=relate_question_4

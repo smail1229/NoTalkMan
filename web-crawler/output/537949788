@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+(急)求帮忙写一个C语言程序，大体就是计算一句话中各字母出现的次数，并输出一个数组
+none
+ 26; 26;<br />#include &lt;a&#39; ,max = 0;<br />}<br /><br />void menu() {<br /> int i;<br />  }<br />  ++i;n&quot, int max) {<br /> int i;&#92,&max););n&quot; ++i) printf(&quot;= &#39!= &#39;n&quot;R&#39;<br /> return 0;r&#39、R,j!= &#39;n&quot: 读取一句话;<br />  printf(&quot; j &lt; --i) {<br />  for(j = 0;<br /> for(i = max;<br />   case &#39: break;<br /> printf(&quot;<br /> gets(s);<br />   case &#39: <br />   case &#39;<br />  }<br />  printf(&quot; ++i) histo[i] = 0;): 退出程序: <br />   case &#39: <br />   case &#39,i); ; ++i)<br />  if(histo[i] &gt;;n&#92;<br />void ReadText(int histo[];P&#39;| &quot;R , int *max) {<br /> int i = 0;) ++histo[s[i] - &#39; *max) *max = histo[i];<br />  an = getchar();];<br />   else ++histo[s[i] - &#39;);= i) printf(&quot; ;Q ;C&#39;stdio;n&quot; 26;<br />  printf(&quot,histo[26] = {0};<br /> do {<br />  printf(&quot;Q&#39。&#92;c&#39;+-&quot; i &lt;<br /> printf(&quot;<br />   case &#39; break; ; i &lt.h&gt: &quot;);A&#39;<br />  printf(&quot;<br />}<br /><br />void DrawHist(int histo[]; ;Z&#39;  &quot;break; i &lt;;); ; ; ++j) {<br />   if(histo[j] &gt;<br />}<br /><br />int main() {<br /> menu();<br /> for(i = &#39;;请输入一个英文句子: 清除以前读过句子的字母数;n&quot; ;<br /> for(i = 1; break: 输出各个字母出现次数; 0;C : <br />   case &#39;p&#39:&#92。&#92;n&quot;%c &quot;);n&quot,an;)#include &lt;<br /> char s[256];<br />   default  ; && an ; i &gt;);&#92;p ;<br />  fflush(stdin)、P 或 Q ; 26;<br /> printf(&quot: DrawHist(histo;); break。&#92;<br />   else printf(&quot;n&quot;<br />  switch(an) {<br />   case &#39,max);<br /> while(s[i]) {<br />  if(isalpha(s[i])) {<br />   if(s[i] &gt;Q&#39;a&#39;<br />  }<br /> }while(an ;);<br /> fflush(stdin): for(i = 0;),an);n&#92: printf(&quot; <br /> }<br /> *max = histo[0]; i &lt;%c是无效命令;);)。&#92;<br />  printf(&quot;q&#39;= &#39;]: ReadText(histo;A&#39: C.h&gt;<br /> }<br /> for(i = 0;;输入命令。&#92; ++i) printf(&quot;&#92;ctype;q&#39
+1
+none
+http://zhidao.baidu.com/question/391293918.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38521698.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/474627727.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/501127146.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/752808534026123084.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+return在c语言做为返回值,返回给谁呢?怎么判断主调用函数?
+<br />书上是这么说的return语句将被调用函数中的一个确定值带回主调用函数中?<br />C语言高手教教我,可怎么知道哪个是主调用函数呢
+，fun1()或者main()因为主动调用fun2()所以就是主调函数; <br />} <br /><br />int fun2() <br />{ <br />…… <br />return a，而fun2()因为是被fun1和main()调用这个概念很简单,所以称fun2()叫做被调用函数.<br />int fun1()或者是main() <br />{ <br />…… <br />k=fun2().B就叫被调用函数.C语言不允许嵌套定义但是允许嵌套调用.其实他用的main()函数可以是任意的其他函数.<br />return a,那么A函数就叫做主调用函数,A函数调用B函数.<br />楼上只是说了一种情况;<br />.; <br />} <br /><br />在这里.
+6
+none
+http://zhidao.baidu.com/question/282331650.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/492739065.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/232822521.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/34967162.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/99124185.html?qbl=relate_question_4

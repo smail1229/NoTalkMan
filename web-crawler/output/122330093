@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言字符串处理函数strcmp
+这个函数是用作2个字符数组比较用的，我在使用中发现了个不解的问题喜欢大虾帮忙解释一下。<br />我写了个很简单的程序：<br />  #include &quot;stdio.h&quot;<br /><br />void main(){<br /> char a[6]={1,2,3,4,1};<br /> char b[6]={1,2,3,4,1};<br /> if(strcmp(a,b)&gt;0)<br />  printf(&quot;1&quot;);<br /> if(strcmp(a,b)==0)<br />  pr订碃斥度俪道筹权船护intf(&quot;2&quot;);<br /> if(strcmp(a,b)&lt;0)<br />  printf(&quot;3&quot;);<br /> printf(&quot;&#92;n&quot;);<br />}<br />这个程序最后输出的结果是2，2个数组相等。但是我如果把2个数组的长度改成5（char a[5],char b[5]）,则输出的却是1，试过很多次，发现只要2数组元素个数、定义的数组长度、字符串值相等，输出就是1。长度&gt;元素个数输出2，我实在不明白其中的道理。<br />请大虾解释下其中的原理。
+因为C语言中，数组初始化时，如果给定的初始值个数小于数组长度，那么后面的剩余元素将被自动初始化为0，也就是字符串的结束标志&#39;&#92;0&#39;<br /><br />strcmp()函数就是用于查找两个以&#39;订碃斥度俪道筹权船护&#92;0&#39;结束的字符串中的第一个不相同的字符的ASCII值之差，如果将数组长度改为5，那么strcmp函数在前5个字符中找不到结束标志，又因为程序不会对边界进行检查，所以会一直找下去，而此时，早已越界，所以会输出不可预见的结果。
+1
+none
+http://zhidao.baidu.com/question/116395053.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7908569.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/7918136.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/475796286.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/172943333.html?qbl=relate_question_4

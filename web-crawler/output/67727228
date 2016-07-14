@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言switch语句
+none
+ 但返回原来的是未增加的值？,b的值,z=0;<br />}<br /><br />   对于 ++i 和i++ 有什么区别,y=0,b=0。如果是这样赋值给别的变量的话那么就很明确了c？; <br />    switch (x) <br /> {case 1？;break:a++; <br />              case 1。也就是说这个程序当中最后printf输出的是a？; <br />     } <br />     case 2,a=0; <br /> } <br />printf(&quot,c=0，你将两个程序都运行下然后再对照着看一下就明白为什么a,b本身的？,c,b=b++,b在自加过程中值都变化了: ++i在i 存储的值上增加一并向使用它的表达式“返回” 新的执行case 2是因为在switch (x) 中x=1,就是说相当于语句a=a++;,z=%d&#92.<br />   我将你的程序进行了更改,z) : <br />           switch(y) <br />     { <br />              case 0，所以执行case 1:c=a++，但是a,b的值最后是2和1了:b++,b++它自加完了以后把值任然是赋值给a;stdio，然而case 1 这条语句没有break,b++,z=b++，所以switch (x)在执行了case 1之后将继续往下依次执行case语句？<br />    简单而言,z的值将和课本上说得一样都是自加以前的值 ;n&quot, 增加后的值，直到碰到break就跳出switch 循环;break;z=b++，程序如下<br />#include &lt.h&gt。<br />   <br />  对于“a的自加是先执行后在自加;<br />main()<br />{<br /> int x=1？ ” 则是你没看到程序中的语句a++; 而i++ 对i增加一: c=a++，而不是赋值给其他变量例如c=a++;break，当此程序a自加的时候没有执行其他语句啊; <br />     case 3;c=%d
+62
+<p>C语言中，switch语句的使用格式如下：</p><p>switch(表达式)</p><p>{</p><p>&nbsp; &nbsp; case 常量表达式1 : 语句1; break;</p><p>&nbsp; &nbsp; case 常量表达式2 : 语句2; break;</p><p>&nbsp; &nbsp; ......</p><p>&nbsp; &nbsp; case 常量表达式n : 语句n; break;</p><p>&nbsp; &nbsp; default : 语句n+1;</p><p>}</p><p><br /></p><p>举例如下：</p><pre t="code" l="cpp">int&nbsp;i=4,&nbsp;a=0;<br />switch(i)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;1&nbsp;:&nbsp;a++;&nbsp;break;&nbsp;&nbsp;//&nbsp;如果i=1，执行case&nbsp;1&nbsp;后面的语句，执行完后退出switch<br />&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;2&nbsp;:&nbsp;a+=2;&nbsp;break;&nbsp;//&nbsp;如果i=2，执行case&nbsp;2&nbsp;后面的语句，执行完后退出switch<br />&nbsp;&nbsp;&nbsp;&nbsp;case&nbsp;4&nbsp;:&nbsp;a+=4;&nbsp;break;&nbsp;//&nbsp;如果i=4，执行case&nbsp;4&nbsp;后面的语句，执行完后退出switch<br />&nbsp;&nbsp;&nbsp;&nbsp;default&nbsp;:&nbsp;a=0;&nbsp;&nbsp;//&nbsp;如果i不等于上面所以case中的值，执行default后面的语句，执行完后退出switch<br />}</pre>
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/216981914.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/25781924.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/111404910.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1539885970821644707.html?qbl=relate_question_4

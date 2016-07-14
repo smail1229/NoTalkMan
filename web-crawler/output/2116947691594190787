@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的一道题 为什么x y的值结果没有改变仍然是10 20 是因为没有return吗？
+none
+虽然引用了函数，在函数里互换了数值，但是==：人家没把数值传回主函数啊
+0
+none
+http://zhidao.baidu.com/question/271345457.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214419258.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/77909450.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2053376559919791667.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/554682327.html?qbl=relate_question_4

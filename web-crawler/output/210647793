@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的一个#define的问题
+c语言中，#define AODV_LOCAL_REPAIR，这个define里的订骇斥较俪记筹席船芦东西，它有值么，有的话是多少呀？谢谢啦！
+很正常的，简单的说，是为了之后代码中使用#ifdef AODV_LOCAL_REPAIR 或者#ifndef AODV_LOCAL_REPAIR等等。 BadGanker兄说的对的，看过MFC的程序你就发现头文件一开头一大串这个。<br /><br />除此还有其他作用，你做过正规大点的项目开发就知道了：<br />不但文件里#define一个宏定义，在VC6.0里的Project-Setting-C/C++选项里有个Preprocessor definition订骇斥较俪记筹席船芦s，这里可以添加宏定义，比如AODV_LOCAL_REPAIR，这跟在文件里用#define的区别是，一个的作用域是整个project，一个的作用域是一个文件。<br /><br />跟你讲下这用来做什么吧。比如一个现有项目1有两个模块A和B，现在项目2要求把B模块去掉，因为不需要或者硬件不支持等，你想想该怎么做？是把涉及到B模块的代码删掉或注释掉么？那这个项目2又添加了一个C模块，而后期又有个新项目3需要ABC三个模块，那是不是要在项目1上再添加模块C(这个工作在项目2其实已经做过了，变成重复劳动了)，或者在项目2上再把删掉或注释的B模块重新加进来？ 这才三个模块，比如几十个模块，每个项目都是需要不同的模块的呢？  呵呵，实际开发项目时当然不会这样去删除模块代码的。而是每个模块都有宏定义来控制的。可以想想怎么做？<br />比如模块A对应宏定义PROJECT_MODULE_A,  B对应宏定义PROJECT_MODULE_B，C对应宏定义PROJECT_MODULE_C。 涉及A模块的代码之前都有#ifdef PROJECT_MODULE_A，同样B、C也是。那开发上面的项目2时在project设置预定义里写上PROJECT_MODULE_A 与 PROJECT_MODULE_C， 不要写PROJECT_MODULE_B， 那这样B模块的代码就自然不会被编译进去了。注意，代码本身没有变，只是PROJECT_MODULE_B宏定义来控制B模块要不要被编译进去。等到作项目3时，再把PROJECT_MODULE_B宏定义进来就好了。这个宏定义的作用我们一般叫它编译选项开关， 呵呵，确实是一个开关。
+3
+none
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/227394347.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/12589119.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/446203671.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/50517505.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里结构体的问题。结构体定义指针类型是怎么回事？
+none
+<br />HT=(HuffmanTree)malloc((m+1)*sizeof(HTNode))<br />HT=(HTNode*)malloc((m+1)*sizeof(HTNode))<br />下面是调用的例子，这里表示HuffmanCode是一个char**类型的代名词; i &lt,rchild;<br />这就创建了一个a;<br />b-&gt，而用HuffmanTree定义的是可以指向这种结构体的指针（空间为long=4），a[n]代表第n+1个字符串;<br />b=&a;<br /><br />calloc也用于动态分配内存;<br />是用HTNode表示这个结构体;<br />for (int i = 0。<br />char*可以理解为指向一个字符串第一个字符的指针,*HuffmanTree;lchild=0，a[n][m]表示第n+1个字符串的第m+1个字符,lchild;<br />	unsigned int parent。<br /><br />typedef struct <br />{<br />	unsigned int weight。这样使用HTNode 定义的变量是结构体类型（空间为4*int=16）; 10;<br />HuffmanTree b。<br />char**可以理解为字符串数组，<br />char **a = new char* [10].lchild=0，和malloc稍有区别：<br />HTNode a,HuffmanTree表示这个结构体的指针类型; i++) a[i] = new char [30]，HuffmanTree与HTNode*等价;<br />} HTNode;<br />a，百度你就知道typedef 是重定义的意思
+21
+比如<br />struct LNode{<br />element data；<br />struct LNode *next；<br /><br />}*Linklist；<br />LNode是结构变量名；<br />Linklist就是指针，指向该结构体的指针。<br />调用内部应为：结构变量名.成员名
+http://zhidao.baidu.com/question/493808960.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89128922.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/97020478.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/50791723.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/331076208.html?qbl=relate_question_4

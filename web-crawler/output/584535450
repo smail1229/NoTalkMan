@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里面，char类型是怎么存放-128的啊？
+none
+0000 0000<br />-1：0000 0000<br />1：1000 0000<br />即-128加上127再加1溢出后是0——C&#47：1111 1110（总之-2加1是-1）<br />-128正数部分;C++里存放整数的统一性：0000 0001<br />127：1111 1111（总之-1加1溢出后是0）<br />-2：<br />0：0111 1111<br /><br />负数部分：<br />0
+1
+　　计算机中存储整型类数据采用的是补码，char也是一种整型类型，它存储的是字符的ascii值，有符号字符类型[signed] char的数据表示范围为-128 ~ 127，无符号字符类型unsigned char 的数据表示范围为：0-255。<br />　　计算机设计者在初期定义了有符号数和无符号数（原码），规定：数据的第一个bit表示符号，其余位表示数值。可是这样就出现了10000000 和 00000000这两个信息表示无法解释了，与实际中的数据不相符了(0只有一个)。<br />　　因此，提出了补码的概念：正数的补码与原码相同。  负数的补码=反码+1 ，  反码：符号位不动，数值位按位取反。<br />　　这样<br />　　    00000000就表示0<br />　　    10000000就表示-128   你可以认为这就是个规定！
+http://zhidao.baidu.com/question/89913360.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/20157545.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/113477406.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/238287087.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/184540036.html?qbl=relate_question_4

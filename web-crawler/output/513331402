@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言类型强制转换问题
+字符串str[]=‘1.245586’转换成float型是什么样的啊？int型呢？
+成float就是1，转成int是1，就相当于int a = (int)1.2455860.245586
+1
+none
+http://zhidao.baidu.com/question/517843735.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1382716.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/411657538.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/131255800.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/357987249.html?qbl=relate_question_4

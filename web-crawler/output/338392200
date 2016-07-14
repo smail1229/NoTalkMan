@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言函数声明时自定义函数与主函数顺序先后的问题？
+程序的开头如下<br />#include&lt比如说我自定义了一个deny（）函数.h&gt？有区别吗，其返回值和参数都为空;stdio;<br />void deny(void)<br />int main(void)<br />那个我这个deny函数究竟是该放在主函数main之前还是之后
+声明一般要放在MAIN函数之前，也可以放在main函数主题的最开始。建议放在main函数之前。便于编译
+2
+none
+http://zhidao.baidu.com/question/275798373.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/62185388.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/29588743.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/10081172.html?qbl=relate_question_3

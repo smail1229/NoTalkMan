@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 float f=3.141592653589; printf(f=%f&#92;n, f); &#47;*输出浮点数f=3.141593*&#47;
+为什么输出的是结果是小数点后6位呢？也没有要求场宽呀！
+;<br />int main()<br />{<br />  double f=3，你要加长：<br />#include &lt;f=%, f);stdio.12f&#92.h&gt%f系统默认是这样的就是小数点后六位到七位.141592653589;n&quot; <br /> return 0; <br />  printf(&quot
+2
+none
+http://zhidao.baidu.com/question/351432676.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1237950481612523139.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/271190708.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/541018970.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/67136696.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言scanf函数的用法问题
+c;stdio;我这次设置3个数;&#47：<br />#include&lt; &#47？我输入时候是键入，c然后键入1（空格）2（空                                                                                         &#47;%d&quot,&c),&b);&#47;stdio,&a：1（空格）2<br />}<br />————————————————————————————————————————————————而这样; &#47;%d（一个空格）%d（一个空格）&quot,b,&b).h&gt.h&gt,&a;<br />scanf(&quot;;;为什么这样输入时候无法读入两个数;<br /><br />int main()<br />{<br />int a;#include&lt，a;%d(一个空格)%d(一个空格)&quot,b。<br />scanf(&quot，b;<br /><br />int main()<br />{<br />int a，就可以完全读入三个数;<br />scanf(&quot;&#47;  格）3
+所以你再输入一个数后，但是不小心就会输入错误<br /><br />     scanf(&quot;这是最常用的方法,&a;输入&quot,”&quot，编译器认为还有要输入的数,&b),&a：末尾的%d后多了一个空格；<br /><br />拿你的例子举例;：<br />格式指示符的一般形式为<br />    %[*][宽度]类型字符;回车即可，回车即可<br /><br />你的第一种方法错误的原因是;;%d%d&quot;/1“” “2”,&a;///&#47,&b)，输入时输入“1“”“分隔符”“2”回车即可<br /><br />    scanf(&quot,&b)；其中赋值抑制符*和款读书是可缺省的;%d %d&quot，不容易出错;2&quot;输入“1”“，输入1和2<br />    scanf(&quot;,%d&quot;%d;&#47，输入才会停止，不容易出错，去掉那个空格后就不会出问题了，另外建议用我写的第一种方法scanf()函数调用的一般形式
+0
+none
+http://zhidao.baidu.com/question/50556357.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/521061665.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/48070911.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/74372573.html?qbl=relate_question_3

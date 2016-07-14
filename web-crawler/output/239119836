@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计的d=(a&gt;b&gt;c)是什么意思?
+none
+b && b&gt;c ) 条件成立得真，假=0。<br /><br />正确的写法 是 (a&gt，就是得1;b&gt; 否则 d=0。但编译器 不显示 出错信息;c)  的 表达方式 在 c语言 中是错误的;c ) <br />真=1，d=1;b && b&gt，(a&gt(a&gt
+8
+<ol><li><p>(a&gt;b&gt;c) 中的a&gt;b&gt;c 是从左到右来比较的。先比较 a与b。如果 a&gt;b， 则a&gt;b的结果为1。再让1与c 比较，得到的结果为最终的结果。同理，如果a&lt;b， 则拿0与c比较。<br />例如：　a=2， b=1， c=3，&nbsp; 则（a&gt;b&gt;c)的结果为 0。　<br />　　　　a=2， b=1， c=-1， 则（a&gt;b&gt;c)的结果为 1。</p></li><li><p>从程序设计的角度上来说，不推荐这样的写法。因为这样的写法和逻辑上的理解是有偏差的。从逻辑上理解来说，(a&gt;b&gt;c)应该写成(a&gt;b &amp;&amp; b&gt;c ) 。</p><p><br /></p></li></ol>
+http://zhidao.baidu.com/question/414360166.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431502054172350204.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/140347841.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258225040.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/920261212175841019.html?qbl=relate_question_4

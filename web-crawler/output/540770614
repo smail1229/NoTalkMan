@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的问题 int a[3][4] = {1,2,3,4,5,6,7,8,9,10,11,12}; int (*p)[4]; p = a;
+以上为定义，为啥不能使p[0] = p[1];
+只好编个程序一个一个地赋值，那么c语言没有这么简单的赋值，那么你可以写：p[0]=&p[1]因为p[0]和p[1]分别指向4个整数<br />如果你是需要将p[1]指向的4个整型数据一次性赋值给p[0]指向的4个单元；<br />如果你是需要把p[0]指向p[1]
+0
+none
+http://zhidao.baidu.com/question/561140975.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/424013429353561812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/516472879.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/157461941.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197684275.html?qbl=relate_question_4

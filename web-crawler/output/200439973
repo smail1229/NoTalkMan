@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中i++和j++=分别是什么意思
+none
+i的值变为2<br />j++=10，然后j再加1；<br />j++=是j先赋值;//<br />i++，即等号后边的值; j++, j = 1。<br />例i++是i自身的值加1;/相当于j = 10：<br />int i = 1;&#47
+4
+none
+http://zhidao.baidu.com/question/216081262.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/9048134.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/513088345.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/530041406.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/513536163.html?qbl=relate_question_4

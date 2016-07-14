@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言的函数声明是什么意思
+none
+fail
+2
+就是告诉编译器,这个函数已经存在,和这个函数具体是什么格式的,名称是什么,返回值是什么,数据个数和类型分别是什么,以后在用到这个函数的时候编译器就按照这个声明的格式来检查函数的使用是否正确 <br />就是告诉编译器函数的类型，名称，使用的参数的类型。 <br />就是告诉编译器将要调用此函数。 <br />就是告诉编译器将要调用此函数。 <br />就是告诉编译器将要调用此函数。
+http://zhidao.baidu.com/question/138376702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/62185388.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/498129285.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/10044847.html?qbl=relate_question_3

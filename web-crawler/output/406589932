@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言char des[],*p=des中这个＊p是什么意思？在程序中又如何表示des［1］呢
+none
+char *p 就是定义了一个字符类型的指针，它可以指向一个字符变量的地址。<br />des[1] 用指针表示就是  *(p+1)
+0
+none
+http://zhidao.baidu.com/question/407009441.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/564269442.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/77125868.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1509692925799864580.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/525525058.html?qbl=relate_question_4

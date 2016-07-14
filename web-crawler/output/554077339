@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中,已知字符数组str的定义char str[]=”ABCDEFGHIJ”
+已知字符数组str的定义char str[]=”ABCDEFGHIJ”.2s&#92;n”C语言; 执行printf(“%
+str数组指定的输出起始位置就是数组的首地址,那么str+5指定的就是字符的起始地址为str[5].2s指定输出该字符串的2个字符。即是,最终就输出str[5]和str[6]两个字符。因为我们知道，即是str[0]%
+5
+none
+http://zhidao.baidu.com/question/525742997.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/237402484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/295621681.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/306503376.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/564173408.html?qbl=relate_question_4

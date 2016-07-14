@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+函数：y=x (-5&lt;x&lt;0) =x-1 (x=0) =x+1 (0&lt;x&lt;10) 编写一c语言程序，用switch语句，要求输入x,输出y的值。
+none
+&lt;x&lt;&quot:<br />     y = x;&lt;<br />    break,x=&quot;&lt;<br />default:<br />case 5;&lt;&lt;&quot;&lt:<br />case 3;y&lt;&lt;&lt;&lt;&quot;&lt;endl;<br />   break;;&lt;&lt;<br />case 0:<br />   y == x+1;<br />cout&lt;y&lt:<br />   y = x-1;&lt;;y==&quot;&lt;&lt;&quot;x&lt;y==&quot;&quot;&lt;;&lt;&lt;&quot;&lt;&lt;&lt:<br />case 7;<br />   cout&lt:<br /> case -3;<br />case 1,x=&quot,x=&quot;x&lt,x=&quot:<br />case 4;:<br />case 8;&quot;&lt;y&lt;&lt;endl;&lt:<br />cout&lt;&ltswitch(x)<br />{<br /> case -4;&quot:<br />case 6;&lt;&lt;<br />}<br />其实想这种条件判断还是用if语句判断更方便些;endl;y==&quot:<br />case 9;y==&quot;x&lt;&lt;endl:<br />case 2;<br />     cout&lt;y&lt:<br /> case -2;<br />   break:<br />case -1
+0
+none
+http://zhidao.baidu.com/question/13355784.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/347937063.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/384332028.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/402605942.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/340507705.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，%6.2f是什么意思呢？
+none
+fail
+18
+%6.2f的格式含义是，数字整体长度包括小数点为6位，保留两位小数。但当实际长度大于格式定义的位数时以实际为准，因此输出是12345678.12<br />第二个当格式定义的位数大于实际长度时，补空格<br />输出就是：##1.20    #表示空格
+http://zhidao.baidu.com/question/239850213.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/209989828.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/242948195.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1302286323165666059.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/407189536.html?qbl=relate_question_4

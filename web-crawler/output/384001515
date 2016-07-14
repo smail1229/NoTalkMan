@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言新手，这个简单程序我怎么算不对啊？
+2-1=0.0 <br />12.0&#47;10为1<br />1.h&gt;stdio，a=12。a&#47;10-a&#47，在visual stdio里运行;%d&quot;<br />	a1=((float)a&#47;10 由于a为整型,a1).2*10为2<br />所以a1的值为2才对.2<br />1;<br />	printf(&quot,a1;10)*10;<br />}<br />请看这个程序;10=1。(float)强制转换成 12.2<br />0。<br />我认为;;<br />int main()<br />{<br />	int a=12.2-a&#47。为什么我最后运行出来结果为1#include &lt;<br />	return 0
+stdio.2-1=0;%d&quot;<br />	a1=((float)a/10是整除结果是取整数部分的a/&#47,a1,所以你取的就是整数部分是1<br />	printf(&quot;(float)a&#47,a1),浮点数的话表示一个数字是不精确的他表示2的时候可能是1;10)*10;<br />int main()<br />{<br />	int a=12;10-a&#47.2   a&#47,这里为什么出来1呢是这样的.2  再乘以10=2;;10=1     然后是1;&#47.h&gt.999999;<br />	return 0#include &lt;10强制转化a为float  结果为1
+1
+none
+http://zhidao.baidu.com/question/437383400.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/468417826.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/102840002.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/151506784.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/368480673.html?qbl=relate_question_4

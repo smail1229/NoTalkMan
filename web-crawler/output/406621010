@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程，输入123 出来的是321 怎么弄 最好是用函数
+none
+h&gt;<br />#include&lt;请输入整数(输入0结束);stdio;%s&quot;<br />		puts(n);<br />		if(strcmp(n;0&quot.h&gt;;<br />int main()<br />{<br />	<br />	char n[1000];<br />	while(true)<br />	{<br />		printf(&quot,&quot;<br />	}<br />	return 0:&quot;);<br />		scanf(&quot;string;)==0)<br />			return 0;<br />		strrev(n)#include&lt,&n)
+3
+　　#include &lt;stdio.h&gt;<br />　　main()<br />　　{<br />　　int n,a,b,c;<br />　　scanf(&quot;%d&quot;,&n);<br />　　a=n&#47;100;<br />　　b=(n&#47;10)%10;<br />　　c=n%10;<br />　　printf(&quot;&#92;n倒序输出结果：%d%d%d&quot;,c,b,a);<br />　　getch();<br />　　}<br />　　三位数除以100那么商就是三位数的百位上数字，三位数除以10的商再除以10的余数就是三位数的十位上的数字，三位数除以10的余数就是三位数个位上的数字。
+http://zhidao.baidu.com/question/268065994.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/47000001.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/751412855429699924.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/214901385.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/10653801.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+简单C语言程序求大神
+roblem Description<br /><br />给你n个整数，你可以假设每组数据必定至少存在一个奇数,c;<br />	d=0;%d&quot，求他们中所有奇数的乘积;;stdio;<br />int main()<br />{<br />	int a，表示本组数据一共有n个。<br /><br />Output<br /><br />输出每组数中的所有奇数的乘积;<br />		if (c%2,d),&c);b&lt。<br /><br />Sample Input<br />3 1 2 3<br />4 2 3 4 5<br /><br />Sample Output<br />3<br />15<br /><br />我的代码<br />#include&lt,d;!=EOF)！;b++)<br />	{	scanf(&quot;%d&quot，对于测试实例;<br />		}<br />	}<br />		printf(&quot,b;=a，输出一行;%d&quot，每行的第一个数为n!=0)<br />		{<br />			d=d+c。<br /><br />Input<br /><br />输入数据包含多个测试实例;;<br />	{<br />	for(b=1.h&gt，接着是n个整数;<br />	}<br />	return 0！，每个测试实例占一行;<br />}<br />输不出哪里错了求指导！;<br />	while(scanf(&quot,&a)
+fail
+0
+none
+http://zhidao.baidu.com/question/431339999.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/263197051490392605.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/198721206463637045.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/423802803789750852.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/936048250428403852.html?qbl=relate_question_4

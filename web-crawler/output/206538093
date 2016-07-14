@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问如何使用vc进行c语言程序的单步调试，麻烦说的详细一点
+我是直接按F10进入单步调试，然后按F11使箭头下移，但是执行到scanf语句时，F11不再起作用，箭头不下移，而且下方也无法输入数据使继续单步调试。还有下不下断点有什么区别。如何有单步调试的结果判断程序是否出错，错误在哪里。唉，对v订敞斥缎俪等筹劝船滑c不太熟，麻烦在介绍如何单步调试时，说的尽量详细一点
+呵呵，你说的很对了，但呢。<br />到scanf时不是从当前的这个窗口下方输入，而是从出现的dos窗口输入，<br />下断点是在程序调试时，全速运行（程序太大时单步太慢），但到断点处就会停止运行，方便观察此时的数据和变量值，看程序逻辑是否出错。<br />单步调试主要观察变量值的订敞斥缎俪等筹劝船滑变化情况，是否与期望的相同。
+4
+none
+http://zhidao.baidu.com/question/10990622.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/343212822.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/104584477.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/352104800.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/369195145.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中printf(&quot;Do1=%4.2f&#92;n&quot;,Do1)的%4.2f什么意思？
+none
+fail
+1
+小数部分代表Do1的小数长度,不足补0，整数部分代表格式化小数后的数的长度，不足前面补足相应空格包括小数点。如题，若Do1=3.111,小数部分%6.2f后，小数部分为两位，即0.11，格式化后的数为3.11，长度为4，前面补两位空格长度。即<br />  3.11<br />由于float有效位有7位，若整数部分超过7位，则第八位以后的就不能正常显示了
+http://zhidao.baidu.com/question/239253777.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/47900812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/242948195.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258133678.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2010073849716134588.html?qbl=relate_question_4

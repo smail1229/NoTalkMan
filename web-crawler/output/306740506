@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中i++如何自加？麻烦详细解释下。。。谢谢。。。
+<br />   for(i=1;<br />              }<br />}<br />麻烦帮我解释下结果为什么是6答案解析中为什么j自减了i还没自加啊。？;i++)<br />   {<br />            for(j=3。;j--)<br />             {<br />                 if(i*j&gt。？;3)<br />                      break。;i&lt？谢谢;0？什么时候自减自加啊;j&gt？;<br />                 m*=i*j;3,m=1,jmain()<br />{<br />   int i
+0;3;<br />                 m*=i*j;此处的i++必须要运行一次函数体后才自加一次<br />   {<br />/3)<br />                      break;j--)<br />             {//这里面的i是没有变化的<br />                 if(i*j&gt;<br />   for(i=1;//j&gt;i++)&#47，j将重新初始化一次为3<br />            for(j=3;每次进下面的for;i&lt,m=1,jmain()<br />{<br />   int i
+0
+none
+http://zhidao.baidu.com/question/348887261.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/399429971.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2600807.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242802655.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/522454118.html?qbl=relate_question_4

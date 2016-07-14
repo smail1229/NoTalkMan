@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中指针变量的问题
+ain(){<br />  int *p;10;<br />for(i=0;<br />}<br />为何要加上第二个p=a  前面不是已经 把p指向a了么;10,a[10];<br />  p=a,*p++);a[%d]=%d&#92;<br />  p=a;i++)<br />    printf(&quot,i;i&lt;;i&lt;n&quot;<br />  for(i=0;i++)<br />*p++=i,i
+<br /><br />建议初学者，没有了第二个p=a怎么出来的答案这么不靠普。<br />此时p=a+10，才跳出循环。<br />所以这句*p++=i；而后缀++是先用后加，对于++和数组名与指针的关系，容易乱int a[10]是a[0~9]。每次循环是a[n]=n;和很重要，一步步来;最后次执行是a[9]=9，要是几种混一起。<br />所以会出现指针变量跳出到数组以后的内存单元 和 必须加上第二个p=a，这些有关地址的一点点来，搞懂基本,*p=a[10],但p已经指向a[10]（越界）
+2
+none
+http://zhidao.baidu.com/question/503565916.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/221471344.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/561016654.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/29520607.html?qbl=relate_question_3

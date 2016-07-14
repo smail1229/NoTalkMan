@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+x&lt;y||++z 在C语言中什么意思
+none
+那么编译器进行优化，将不在继续执行后面的表达式，只要前面的表达式为真;y||++z在进行或运算的时候x&lt
+4
+none
+http://zhidao.baidu.com/question/177518892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/161307288.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/113585143.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2265623123306651828.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/305132840315071084.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言void func1(int i);void func2(int i);char st[]=&quot;hello,friend!&quot;;
+<br />char st[]=&quot;func2(i););;;3){i+=2;%c&quot;func1(i);}}<br />main()<br /> { int i=0;hello;<br />void func1(int i)<br />{ printf(&quot,st[i]);n&quot;%c&quot;&#92,friend;printf(&quot;<br />  if(i&lt!&quot;3){i+=2,st[i]);;func1(i);}}<br />void func2(int i)<br /> { printf(&quot;<br />  if(i&ltvoid func1(int i);<br />void func2(int i)
+i=i+2，<br />2是小于3的,<br />也就是o,所以打印出str[4],func2(i)就是func(2)主函数中func1(i)也就是func1(0);所以打印出str[0],也就是h,此时i的值为2,func(i)就是func(3),所以打印出<br />str[2]。<br />所以程序运行的结果是hlo,也就是l，此时i的值为4,<br />0是小于3的，所以i=i+2
+20
+none
+http://zhidao.baidu.com/question/129871839.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5684442.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80781706.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2265966841212182548.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/244286435.html?qbl=relate_question_4

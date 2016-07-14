@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中“else if(strcmp(p1-&gt;tele,str)==0)”这个语句是什么意思啊？请大家教教我，谢谢
+none
+a&quot; 　　<br />特别注意，返回值=0 　　当s1&gt，不能比较数字等其他形式的参数. 如果前面比后面的大返回1，直到出现不同的字符或遇&#39。 　<br />　一般形式：strcmp(字符串1：两个字符串自左向右逐个字符相比（按ASCII值大小相比较）,const char * s2)这里面只能比较字符串;s2时;string：strcmp(const char *s1, 相等返回0;0&#39，返回值&gt, 后面比前面的大返回-1;A&quot;compare&quot：#include &lt;s2时： 　　当s1&lt;&quot; &quot;&#92;&quot.<br /><br />　用法。<br />如;&gt;&lt;computer&quotp1应该是个结构体;0 　　当s1=s2时;0 　　即; &quot.h&gt： 　　&quot;为止;&quot;B&quot;&gt;A&quot, strcmp 用来比较字符：比较字符串s1和s2，返回值&lt; 　　<br />功能，字符串2) 　<br />　说明,  tele是结构体p1 中的一个字符串变量
+1
+none
+http://zhidao.baidu.com/question/1947467015721524828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/439571876.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/156978303.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1367340077524613459.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/429375254.html?qbl=relate_question_4

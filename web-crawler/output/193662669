@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计 分段函数，程序错误在哪
+&quot;10)<br />     y=sin(x).h&gt;0&#47;40)<br />        y=log(x+1);<br />void main()<br />{<br />  double x;无定义&#92;<br />    else if(30&lt;);stdio;y=%lf&#92;<br />       else if(20&lt#include&lt;;<br />   scanf(&quot;<br />   }<br />   if (x&lt,&x&quot;20)<br />        y=cos(x);<br />   printf(&quot;<br />        printf(&quot;);=x&lt;<br />   {<br />    if(0&lt;=x&lt;);%lf;   <br />   printf(&quot;=x&lt;n&quot;<br />#include&lt;<br />    else if(10&lt;please input x;=40),y).h&gt,y;x&gt;=x&lt;30)<br />        y=exp(x)-1;n&quot;math
+10)应为if(0&lt.h&gt;<br />       else if(20&lt;0/10);应为scanf(&quot;stdio;=40)  <br />   printf(&quot,&x&quot;=x&&x&lt;<br />    else if(10&lt;=40);<br /> <br />   if (x&lt;);y=%lf&#92;<br />} <br /><br />1;40)<br /> <br />        y=log(x+1).if(0&lt,y;&quot,&x);;20)<br />        y=cos(x);=x&&x&lt;无定义&#92;0/n&quot;应为&quot;;%lf&quot;=x&&x&lt;<br />   printf(&quot;||&quot;x&gt;please input x;%lf&quot.多个大括号{}<br />2;=x&lt;<br />#include&lt.if (x&lt;0||x&gt#include&lt;=40);<br />   <br />    if(0&lt;&quot;=x&&x&lt,y););这句多了个分号<br />3;=x&&x&lt.if (x&lt;30)<br />        y=exp(x)-1;<br />    else if(30&lt,&x);10)<br />     y=sin(x);%lf;n&quot;x&gt.h&gt;<br />        printf(&quot;<br />   scanf(&quot.scanf(&quot;/math;);收冒号放错位置<br />5; <br />4;<br />void main()<br />{<br />  double x;:&quot
+6
+none
+http://zhidao.baidu.com/question/443168764.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1668772266604843747.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1510054933474007540.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/532923909.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/546777055.html?qbl=relate_question_4

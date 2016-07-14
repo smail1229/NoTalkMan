@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言错误，大神帮我看看
+<br />}<br /><br />void Solve(int n)<br />{<br />	int a[N][N], int n);=n,&n).h&gt;<br /><br />    while(scanf(&quot;<br />	while(n;<br />			else <br />				a[i][j]=a[i-1][j-1]+a[i-1][j]#include&lt;<br /><br />#define N 31<br /><br />void Solve(int);<br />	for (i=1;j&lt;<br />	for(i=2,int n)<br />{<br />	int i;n&quot;j++){<br />			if(j==1||j==i)<br />				a[i][j]=1;<br />		}<br />		printf(&quot;);&#92;i&lt;=n!=EOF)<br />	{<br />		Solve(n);<br /><br />int main()<br />{<br />	int n;=i;<br /><br />void YangHui(int a[][N];&#92;%d&quot;j++){<br />			printf(&quot!=EOF){<br />	YangHui(a;;i&lt;);=i,a[i][j]);<br />	}<br />}<br /><br />void Yanghui(int a[][N];i++){<br />		for(j=1;<br />	a[1][1]=1;j&lt,j;<br />    }<br />	return 0,j,i;<br />	}<br />	printf(&quot;i++){<br />		for(j=1,n);%d &quot;n&quot;;stdio
+<br />		}<br />	}<br />}<br />把上面的void Yanghui(int a[][N];=nvoid Yanghui(int a[][N],int n)中h小写改成大写H即void YangHui(int a[][N];<br />	a[1][1]=1;<br />	for(i=2;j&lt;<br />			else <br />				a[i][j]=a[i-1][j-1]+a[i-1][j];i&lt;i++){<br />		for(j=1,int n)<br />{<br />	int i;=i,j;j++){<br />			if(j==1||j==i)<br />				a[i][j]=1
+0
+none
+http://zhidao.baidu.com/question/1046196160176937459.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/807891655204913612.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/559709668177353044.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/418669176.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/549069814.html?qbl=relate_question_4

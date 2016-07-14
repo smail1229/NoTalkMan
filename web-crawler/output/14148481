@@ -1,0 +1,11 @@
+教育/科学 学习帮助 
+C语言IF语句嵌套问题
+Y=10 D、Y=5 C.<br />为什么呢.，运行的结果为（ ） ;0 <br /><br />THEN Y=5 <br /><br />ELSE IF X&lt?<br />首行y=0是什么;10 <br /><br />THEN Y=10 <br /><br />IF X&lt、Y=9 B，ENDIF表示相应的IF的结束下列IF语句中?，X=5时结果为（ ） <br /><br />A?<br />else Y=200又与哪个语句成对;100 <br /><br />THEN Y=100 <br /><br />ENDIF <br /><br />ELSE Y=200 <br /><br />ENDIF <br /><br />ENDIF <br /><br />试指出X=80时.、Y=200 <br /><br />答案是E`D、Y=100 E： <br /><br />Y=0 <br /><br />IF X&lt
+也不属于ELSE IF X&lt.注意以下语句属于同一个局部变量范围内<br />ELSE IF X&lt， 所以最后时100 选D<br /><br />P;10 ，只能属于ELSE Y=200 所以结果是200 选E<br />X=5时，属于ELSE IF X&lt。<br /><br />首行y=0是初始化y<br />X=80时没括号又没缩进得确实看着累，但紧接着机结果被IF X&lt;10 <br /><br />THEN Y=10 <br /><br />IF X&lt，不属于IF X&lt;0 ;100 THEN Y=100覆盖掉.S;10 THEN Y=10 
+1
+none
+http://zhidao.baidu.com/question/549248212.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/101815940.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182940758.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/515341558.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142313681.html?qbl=relate_question_4

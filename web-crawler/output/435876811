@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+C语言里(float)(3&#47;2)是等于1.0还是等于1.5，请给出理由。
+none
+所以3&#47，即1;2=1.<br />注意，单精度实型，float后运行窗口将得到1后面带小数的答案你好，两个整数相除得到的结果肯定是整数，不管你前面强制转换类型：flloat是占四个字节的内存空间.000000
+9
+none
+http://zhidao.baidu.com/question/243909925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/167028643.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/368904828483569444.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/753222245894313804.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/519429095.html?qbl=relate_question_4

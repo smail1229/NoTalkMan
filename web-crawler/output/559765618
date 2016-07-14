@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，用关键字什么定义字符型变量
+none
+    /a&#39;<br />char str[20]char ch;/hello world&quot;定义  单个字符变量如字符&#39;/定义一个长度为20的字符数组（字符串）如字符串&quot;            &#47
+1
+如果是C语言直接用char<br />如char a；<br /><br />如果是C++的话有两个，分别是char 和string<br />如char a；&#47;&#47;单个字符<br />    string str；&#47;&#47;一个字符串
+http://zhidao.baidu.com/question/1430472171999508459.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/116718812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/382409410.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95100118.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2919628.html?qbl=relate_question_4

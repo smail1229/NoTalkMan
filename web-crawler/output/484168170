@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有一道C语言的题目：已知：char a; int b; float c; double d;则计算表达式a*c+c-d之后，记过的数据类型是
+A    char                 B   int                          C  float                   D      double
+<br />1、a定义的是char型。所以a*c之后的类型为float型<br />2。,该整数是该字符的ASCII码，你要明白类型的转换实际上可以看做为数据在内存的对齐，为一个整数，实际上他也可以看做是int型该题选择D答案，因为double型表示的数值精度比较高，那么自然结果也就转换成了double型了，你试过没有将一个char型的变量用%d的格式输出后、a*c+c自然也就是float型了。那么最后就变为float减去一个double型，是十进制而已。。
+5
+none
+http://zhidao.baidu.com/question/186286922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/327538752.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/227254728.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1637730239011522980.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/29249736.html?qbl=relate_question_4

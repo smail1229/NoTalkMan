@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言的题目，求详细解释啊，在线等！
+;korea&quot; &#39;n&quot;<br />printf(&quot,&quot;,str[1]);japan&quot;%s&#92,&quot;;<br />str[1][5]=&#39;};<br />}                 求答案和解释main()<br />{char str[3][6]={&quot;china&quot
+china&#92，计算机一直要读到结束符“&#92;0;0<br />赋值以后;0”，因此会一直把下一个字符串的内容也读出来;0<br />                 korea&#92;0<br />                 japan&#92，可以看成是 以str[6]为元素的数组;0<br />输出str[1]的时候从j开始读取内容一直到&#92，大小为3，也就是“&#92答案是 japan korea<br /><br />理由：  china&#92。<br />str[1] 就是 字符串“japan”<br />str[1][5]就是&quot。<br /><br />在内存中存放的顺序就是<br />原来是：<br />str[3][6]是一个二维数组;japan&quot;0<br />                 japan <br />                 korea&#92;的第六个字符，即字符串结束符<br />赋值语句把这个位置的字符改成了空格‘ ’ ;0”为止，所以当读取字符串str[1]的时候
+5
+none
+http://zhidao.baidu.com/question/207321588.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/59389211.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143655850.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/545660232.html?qbl=relate_question_3

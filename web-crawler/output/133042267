@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 if语句后的printf是否要加分号
+none
+但在语法上是一条语句;<br />    printf(&quot：<br />if(条件语句)<br />  {<br />    printf(&quot;);hello&quot，在语义上是多条语句;<br />  }<br />用大括号扩起来表示这是一个语句块：<br />if(条件语句)<br />  printf(&quot，如;<br />如果你想在条件判断成立之后执行多条语句;word&quot;)，就要加大括号如;);hello word&quot，就不用加大括号如果只跟一条语句
+6
+none
+http://zhidao.baidu.com/question/425604396902388492.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/322696226.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/467911278.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/587812155.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/873250302510866372.html?qbl=relate_question_4

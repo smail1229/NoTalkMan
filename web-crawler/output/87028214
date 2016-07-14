@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的宏定义可以这样定义吗，  #define int 20  如果int换成大写呢？
+none
+不可以    大写可以  因为int是系统定义整形用的。
+0
+none
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/516465703.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237171058.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/504475361.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/353770111.html?qbl=relate_question_4

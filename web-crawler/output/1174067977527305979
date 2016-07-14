@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题求代码和解释
+新构成的单链表是原单链表的反置;8&#47，采取的计算方法是除2&#47;16取余，十六进制）之间的转换。由于十进制转换为其他进制，再依次出栈构成一个新的单链表，借助于栈实现十进制数和其他进制（二. 编写一个程序，借助于单链表的先进后出特性。<br /><br />2，直到商为0为止。本程序实现时首先应该创建一个单链表，借助于栈实现将一个存储整型数据元素的单链表倒置，然后再将堆栈中的数据依次弹出1. 编写一个程序，八，就是进制转换后的结果，构成的新的数据序列，余数依次入栈，然后将单链表元素结点依次入栈
+/;%d&quot，具体程序就不编写了<br /><br />数制转换算法基于原理!StackEmpty(S)) {<br />      Pop(S;8;<br />    }<br />} /<br />    }<br />    while (;%d&quot;, e );<br />      N = N&#47,N);<br />      printf ( &quot;<br />    while (N) {<br />      Push(S,e), N % 8)给你数制转换的算法：N = (N div d)×d + N mod d<br />void conversion () {<br />    InitStack(S); <br />    scanf (&quot
+0
+none
+http://zhidao.baidu.com/question/587789058.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/495176921586141604.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/235441514.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1753554647819604468.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2201934998387416788.html?qbl=relate_question_4

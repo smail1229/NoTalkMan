@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机c语言中_cror_ 这个函数是怎么用的？？
+none
+fail
+28
+将char型变量循环向左(右)移动指定位数后返回，例如如果二进制数为01010101   那么_crol_(1)   左移1位后将高位补低位。 <br />结果10101010。
+http://zhidao.baidu.com/question/235063191.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/84216001.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88460565.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/359695492.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/296811201.html?qbl=relate_question_4

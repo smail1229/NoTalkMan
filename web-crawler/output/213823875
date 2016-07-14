@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中表达式10+&#39;a&#39;+i*f的数据类型是什么？
+none
+<br />整个表达式的值就被转换为float型<br />如果i f都是整形。<br />如果有任意一个是float型10是整形<br />&#39;a&#39。<br />这里就要看i和f的数据类型了;虽然是char型。贝当作整形参与运算<br />i*f应该也是两个整形运算
+5
+none
+http://zhidao.baidu.com/question/265946537.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/270304129.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1946195912436461148.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1767413183153306020.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/278138470.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题：设有语句int a=3；执行语句a+=a-=a*a;后，变量a的值是多少？要详细解题过程！
+none
+ a=3-(3*3)=-6<br />a+=(-6) =&gt; a=(-6)+(-6) =&gt; a=a-(a*a) =&gt：<br />a-=a*a =&gta=-12 <br />每出现一次=号所有还没参加运算的a要重新取一次最新的值<br />a+=a-=a*a<br />为
+8
+none
+http://zhidao.baidu.com/question/537371083.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/330720332.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/117416742.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/184398893.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/275631505.html?qbl=relate_question_4

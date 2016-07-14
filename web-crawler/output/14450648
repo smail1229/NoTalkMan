@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的“宏”是什么意思
+才开始自学C。。有好多不懂的东西。<br />谁能告诉我下C语言中的“宏”是什么意思
+因而它不是C语句,楼上已经说了,.;<br />宏也在C里也叫预处理命令,但我不确信他说的是完全正确的.)  字符串<br />在C语言里宏定义只用来做的宏名替换,而不做语法检查的.<br />C语言中的宏定义的字是:#define 宏名(参数1；&quot:#define 宏名 字符串<br />带参格式是,所以叫预处理,所以在宏定义的时候不需要在后面加&quot宏;,参数2.,因为宏是在程序编译前先进行字符替换的.在C里还有其它的预处理命令如,是什么:define<br />C语言中的define宏定义有带参数的和不带参数两中形式<br />不带参格式是
+20
+none
+http://zhidao.baidu.com/question/414209784.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/503777776.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/125402776.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/361081515.html?qbl=relate_question_3

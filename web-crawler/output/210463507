@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中c=a&lt;b?a:b是什么意思
+none
+a，c=b:b是一个“条件表达式”;而当a大于或者等于b时其中;b;再翻译过来就是说这个语句执行完得到的效果就是c的值是取得a：当a小于b时：a&lt，条件表达式的优先级排名13 高于赋值表达式的优先级14；而“c=  “ 是赋值表达式，c=a，那么因为在C语言中,b俩者当中较小的那个，因此这个语句的意思就是
+151
+none
+http://zhidao.baidu.com/question/200493419.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241454508.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237022086.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/199115805.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/549647868.html?qbl=relate_question_4

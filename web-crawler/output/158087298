@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+怎样判断一个数是不是素数？（编C语言程序）
+none
+#include  &lt;stdio.h&gt;<br />#include  &lt;math.h&gt;<br /><br />int prime(int x)<br />{<br /> int temp,i,k;<br /> <br /> temp=(int)(sqrt(x));<br /> <br /> for(i=2;i&lt;=temp;++i)<br />      if(x%i==0)<br />    { k=0; break; }<br />      if(i&gt;temp)<br />      k=1;<br /><br />return k;   <br /> <br />}<br />void main()<br />{    <br />    int x;<br />    int k;<br />    scanf(&quot;%d&quot;,&x);<br />    k=prime(x哗掸糕赶蕹非革石宫将);<br />   if(k)<br />   printf(&quot;%d is  prime&#92;n&quot;,x);<br /> else<br />   printf(&quot;%d is not prime&#92;n&quot;,x);<br /><br />}
+24
+none
+http://zhidao.baidu.com/question/62218775.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/252386723.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/133188434.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77938786.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/42306331.html?qbl=relate_question_4

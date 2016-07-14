@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这是一道C语言考试题，请说明具体原因
+还有数组的书没有具体的告诉,为什么会有 p[i]=i+1;<br />printf(&quot,*p;i++)  p[i]=i+1;%d&#92;i&lt;<br />p=&a[0][0];)，是什么意思有以下程序<br />main()<br />{  int  a[3][3]，为什么可以求出数组中的数,a[1][2]&quot;9;n;<br />for(i=0,i;<br />程序运行后输出的结果是（）<br />A 3<br />B 6<br />C 9<br />D 2<br />这一题我还不明白的一点是p既然指向二维数组a[0][0]
+a[1][0],a[2][2]      <br />所以当把p指向a[0][0]时    对应可以把p看作数组p[]的头指针,a[1][1],a[1][2],a[0][1],a[2][1],a[2][0]二维数组在内存中的存放次序为,a[0][2]:<br />a[0][0]，所以依次赋值以后的a[1][2]即p[5]为5+1=6
+0
+none
+http://zhidao.baidu.com/question/135846331.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/240158015.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/35178564.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136344167.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/479083985.html?qbl=relate_question_4

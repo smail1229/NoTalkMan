@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计中如何比较三个数的大小
+none
+int compare(int a,int b,int c)<br />{<br />      int  max;<br />      max=a憨耿封际莩宦凤为脯力&gt;b?a:b;<br />      return max&gt;c?max:c;<br />}
+9
+<p>思路：比较三个数的大小可以先求出最大值和最小值，这样中间数就是三个数的和减去最大数和最小数。</p><p>参考代码：</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;&nbsp;<br />int&nbsp;main()<br />{<br />	&nbsp;int&nbsp;a,b,c,max,min;<br />	&nbsp;scanf(&quot;%d%d%d&quot;,&amp;a,&amp;b,&amp;c);<br />	&nbsp;max=(a&gt;b?a:b)&gt;c?(a&gt;b?a:b):c;<br />	&nbsp;min=(a&lt;b?a:b)&lt;c?(a&lt;b?a:b):c;<br />	&nbsp;printf(&quot;三个数按从小到大顺序为：%d&nbsp;%d&nbsp;%d\n&quot;,min,a+b+c-min-max,max);<br />	&nbsp;return&nbsp;0;&nbsp;<br />}<br />/*<br />输出：&nbsp;<br />8&nbsp;1&nbsp;6<br />三个数按从小到大顺序为：1&nbsp;6&nbsp;8<br />*/</pre>
+http://zhidao.baidu.com/question/228727309.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184298493.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/175503663735466404.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1893716803880048420.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87185182.html?qbl=relate_question_4

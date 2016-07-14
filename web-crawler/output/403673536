@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一个C语言的答案。设一个整型数组有20个元素,请输入该数组中的元素,...
+并用冒泡排序将该数组按从小到大排序并输出,请输入该数组中的元素。设一个整型数组有20个元素求一个C语言的答案
+;20-i;<br />      num[j]=num[j+1]#include&lt;i++)<br />  {<br />   printf(&quot,(i+1));i++)<br />   printf(&quot;}<br />    }<br />   for(int i=0;%d &quot;j&lt;/20,num[i]);<br />   scanf(&quot,&num[i]);<br />      num[j+1]=t;<br /> for(int i=0;<br />main()<br />{<br />  int num[20];<br /> /i&lt;i&lt;<br />  }<br />  for(int i=0;;20;i++)<br />   for(int j=0;num[j+1])<br />      {t=num[j];,t;j++)<br />    {<br />     if(num[j]&gt;i&lt;%d&quot;20;输入第%d个元素&#92;n&quot.h&gt;stdio;  while(1)
+1
+none
+http://zhidao.baidu.com/question/160994017.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/157750034.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/131351810.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/513503467.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/504188821.html?qbl=relate_question_4

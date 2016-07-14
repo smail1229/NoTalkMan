@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 if while的问题
+<br />    { r=n%m;*求m和n的最大公约数*&#47;<br />    }<br />printf(&quot;<br />     m=r,temp;请输入两个正整数n,n;<br />  printf(&quot.h&quot;<br />     n=m;<br /><br />有什么不同吗;<br />    { r=n%m，以便求最小公倍数时用*&#47，小数放在m中*&#47;<br />      m=temp;*把大数放在n中,n 求最大公约数 最小公倍数<br />#include &quot;<br />while (m;<br />printf(&quot!=0)               &#47;%d;它们的最大公约数为;n);<br />      n=m;                   &#47;*p是原来两个整数的乘积*&#47;,r,%d&quot,&n;<br />我如果改成<br />if (m;stdio;,p&#47：&quot;m) <br />    { temp=n,&m);<br />void main()<br />{ int p;<br />}<br /><br />while (m!=0)               &#47;<br />     n=m;<br />    { r=n%m;<br />     n=m;<br />     m=r：%d&#92;*先将m和n的乘积保存在p中;)：%d&#92,m;            &#47;它们的最小公倍数为,m;n&quot!=0)               &#47;*求m和n的最大公约数*&#47;<br />     m=r输入两个正整数m;<br />    }<br />p=n*m;n&quot;*求m和n的最大公约数*&#47;<br />  if (n&lt;    &#47;<br />  scanf(&quot,n);
+=0，即m=0则都不执行。while改成if后，if是判断语句while是循环语句!=0，如果满足条件m；若不满足条件m，只执行一次而不循环
+4
+none
+http://zhidao.baidu.com/question/22586553.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/49548352.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/559888308329232484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/112227027.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/41751356.html?qbl=relate_question_4

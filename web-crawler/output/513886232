@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于变量定义的位置问题
+c=%f&#92,c);math;=10)<br />  printf(&quot？;<br />  b=3;<br />#include &lt;;<br />  b=3;<br />  c=sqrt(a+b);<br />  a=2;<br />main()<br />{<br />  float a;<br />  float c;stdio;必须要放在<br />a=2;<br />  if(c&gt.h&gt;<br />}<br /> <br />为什么那个 float c,b#include &lt.h&gt;n&quot;<br />的前面啊
+C语言变量只能在前面定义，不能在代码半路定义，高级语言就可以按照你那样定义。
+1
+none
+http://zhidao.baidu.com/question/73701660.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/435020163.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/547303108.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/313967196.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488484312580165652.html?qbl=relate_question_4

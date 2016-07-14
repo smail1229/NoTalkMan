@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程；有一个3乘3矩阵将矩阵增加一列，求矩阵每一行的元素值的和，并将每一行元素值的和放入增加
+求编程帮帮忙！！！
+#include &lt;stdio.h&gt;<br /><br />int main()<br />{<br />    int a[5][5], i, j, sum;<br /><br />    printf(&quot;请输入3*3矩阵的元素：&#92;n&quot;);<br /><br />    for(i=0; i&lt;3; i++)<br />    {<br />        for(j=0; j&lt;3; j++)<br />        {<br />            scanf(&quot;%d&quot;, &a[i][j]);<br />        }<br />    }<br /><br />    printf(&quot;&#92;n请输入新增加的一列的元素：&#92;n&quot;);<br /><br />    for(i=0; i&lt;3; i++)<br />    {<br />        scanf(订功斥嘉俪黄筹萎船联&quot;%d&quot;, &a[i][3]);<br />        sum=0;<br />        for(j=0; j&lt;4; j++)<br />        {<br />            sum += a[i][j];<br />        }<br />        a[i][3]=sum;<br />    }<br /><br />    printf(&quot;增加一列后的矩阵为&#92;n&quot;);<br />    for(i=0; i&lt;3; i++)<br />    {<br />        for(j=0; j&lt;4; j++)<br />        {<br />            printf(&quot;%d  &quot;, a[i][j]);<br />        }<br />        printf(&quot;&#92;n&quot;);<br />    }<br />}
+3
+none
+http://zhidao.baidu.com/question/274991670.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/177036052171638524.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/263040684.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/51381036.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/43488132.html?qbl=relate_question_4

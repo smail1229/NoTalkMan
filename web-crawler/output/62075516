@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针交换问题216
+<br />x,4回车运行结果是<br />x=3、4;<br />}<br />以上都是书上照抄的;),x，编程对变量x？大家帮忙看一下;&#92;<br /> printf(&quot,x？,y=4<br />x=3,y=4<br />数值没有被交换？,&y).h&gt; <br />#include&lt;<br /> t=a，这是什么原因,y=3;%d; <br />void swap(a。<br />用VC++运行下;<br /> scanf(&quot,&x、y进行交换输出<br />#include&quot,y)将变量x;&#92;n x=%d,y);<br />printf(&quot;<br />{<br /> int *t,*b.h&quot;a=b,y=%d&quot;<br /> void (*p)();x,b)<br />int *a;<br /> (*p)(&x;,%d&quot;<br />}<br />main()<br />{<br /> int x,y=&quot;<br /> p=swap;string;<br /> printf(&quot、y分别赋值3,&y),Y=%d&quot,y;nX=%d;;;<br /> return 0;b=t;stdio
+stdio; <br /><br />void swap(int *a,x;<br />} <br /><br />这个程序;b=t，x和y是没有交换的啊; <br />void (*p)(int *;&#92; <br />printf(&quot,&y),y=&quot; <br />scanf(&quot,%d&quot,int *b) <br />{ <br />int *t;nX=%d,y;,x; <br />printf(&quot;;a=b; <br />t=a！<br /><br />这样才能编译过; <br />} <br /><br />int main() <br />{ <br />int x,y);),&x.h&gt,Y=%d&quot，没有问题啊<br />交换的是指针;&#92; <br />printf(&quot,&y);%d：<br />#include&lt;你看的什么书啊; <br />return 0,y),int *); <br />(*p)(&x;n x=%d,y=%d&quot;x; <br />p=swap？老掉牙了
+0
+none
+http://zhidao.baidu.com/question/589732740.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/108086667.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/540081826.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/115860884.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/564545493.html?qbl=relate_question_4

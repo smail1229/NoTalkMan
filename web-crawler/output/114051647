@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言赋值语句
+none
+选A<br />B中取模右边不是整数<br />C中赋值号左侧不是一个变量<br />D中第二个赋值号左侧不是一个变量
+9
+<p>　　C语言中通过&quot;=&quot;运算符来实现赋值，有时候也用它来进行初始化，在C语言中初始化和赋值是完全两个不同的概念。比如下面的代码：</p><pre t="code" l="cpp">int&nbsp;a[10]&nbsp;=&nbsp;{0};&nbsp;//这是初始化<br />a[0]&nbsp;=&nbsp;10;&nbsp;//这是赋值</pre><p>　　初始化是一个顺序点，编译器保证每一个顺序点都执行完成后，才会执行顺序点后面的语句。换句话说，上面的代码虽然只将a[0]初始化为0，但是编译器会将a[1]~a[9]的元素都初始化为0后，才会执行a[0] = 10的语句。</p>
+http://zhidao.baidu.com/question/106520844.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/116136960.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/131852214.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/223540683.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/489432753175110292.html?qbl=relate_question_4

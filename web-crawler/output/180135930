@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+“在C语言算术表达式的书写中，运算符两侧的运算数类型必须一致”这句话为什么不对
+none
+这句话不是对所有的运算符都成立。举个例子给你，所以它的概括太盲目性了，所以变量a的赋值相当于c=a<br /><br />  综上有：假如定义一个字符数据a，char c，你那句话是错误的；那么你可已将一个整形数据赋予给这个字符数据如  c=97，所以赋值预算符的两侧出现了不同的数据类型啊！<br />  这样的c=97，因为97在ASCII中代表了小写字母a这是一个明显的错误..<br />  首先
+15
+none
+http://zhidao.baidu.com/question/73307952.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/439563081.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/293225345.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39356015.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87593561.html?qbl=relate_question_4

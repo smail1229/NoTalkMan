@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的.h头文件该怎么定义，有哪些规则？请举出一个完整的例子来说明。
+none
+c<br />    void  a()<br />    {<br />   具体操作<br />    }<br /><br />那么;/<br /><br />明白了嘛;<br /><br />    &#47.h<br />    void  a();<br />    a().h&quot.c中想用 a函数;&#47:<br />     /a.c<br />#include &quot，如果你在其他文件如b; b，就可以这样做<br />  /  a.h文件中<br /><br />   如;  a;&#47一般  如结构体  函数申明  之类的内容可以放到
+3
+none
+http://zhidao.baidu.com/question/402559355.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/74285945.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192132810.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/35120883.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153810931.html?qbl=relate_question_4

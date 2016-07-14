@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言for(i=0;i&lt;n&&str[i];i++) p[i]=str[i];这个语句是什么意思
+i&lt;n&&str[i]这怎么解释啊,就俩值啊 1 或 0 还能循环吗
+for循环是第二条语句为真时就执行循环体
+0
+none
+http://zhidao.baidu.com/question/123921920.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223602742.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/175231276.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/464128528.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_4

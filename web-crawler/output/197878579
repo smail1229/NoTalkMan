@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言1.自己编写程序实现void itoa(int x, char *p)(将数字x，转换为字符串并保存到p中)
+让这个数字以字符串的形式显示出来！!如题，希望输入一个int x=1234！也就是返回值是char
+<br />                x&#47,mod=1,在考虑是否参考其他人的代码;<br />        if(0==str)<br />        {<br />                return ,++j)<br />        {<br />                str[j] = buffer[i],i=0,char* str)<br />{<br />        int quo=1,等做出来!= quo;<br />}<br />/i&gt;10,j=0;<br />                quo = x&#47,snprintf<br />有些问题最好是自己思考;需要保证字符串是有空间的<br />如果懒得自己写<br />可以用sprintf;=10;<br />        char buffer[32]={0};<br />        }<br />        for(--i; 0 ;<br />        }<br />        for(i=0;/<br />        }<br />        str[j]=0void itoa(int x;=0;<br />                buffer[i]=mod+48; ++i)<br />        {<br />                mod = x%10;--i
+1
+none
+http://zhidao.baidu.com/question/2266711809843130628.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/232832243.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/115776362.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/353938911.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1639270171082414260.html?qbl=relate_question_4

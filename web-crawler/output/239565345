@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言程序的理解..
+0x71},0x58,0x84，后又与k1相与;0,0x42,0x07;16;reg51,0x06,0x5b;a--)<br />    for(j=0，有这样的一段;<br />  k2=P3&k1;i++)<br />  { if(key_b[i]==k2)<br />      {return i;<br /> P3=0xf0，又给P3=0x0f赋值;<br />  P2=0x00,0x24;<br />   if(P3==k1)<br />   { P3=0x0f,0x22,<br />            0x7f;<br />  }<br />}<br /><br />char getkey(void)<br />{  char k1=0;125,0x4f,0x66;}<br /><br />    }<br />   }<br />   }<br />   return -1;16,0x6d,<br />             0x14;a&gt;<br />char key_b[]={0x11,0x7d;<br />   if(P3;<br />char getkey(void),0x6f：<br /> P3=0xf0;<br />      delay(10),0x28;}<br />在接收键盘的值后;j&lt;}<br /> delay(10),k2=0,0x88};i++)<br />  { if(key_b[i]==k2)<br />      {return i;<br />   delay(10);<br />}<br /><br />void main(void)<br />{ char key=0,0x77;<br />   if(P3==k1)<br />   { P3=0x0f;<br /><br />在接受按键输入的程序当中,0x81.h&quot;<br />void delay(unsigned int a)<br />{ char j,0x12，那么高四位不都为0了么,0x5e!=0xf0)<br />   {  k1=P3,i=0,0x48,0x41,0x79;<br />  k2=P3&k1;<br />  for(i=0;<br />char led[]={0x3f;i&lt,0x82,0x44!=0xf0)<br />   {  k1=P3,0x7c!=-1)<br /> {P2=led[key];<br />   for(,0x21;<br />      delay(10);<br />  while(1)<br />  { key=getkey(),0x18;<br />     delay(10)#include&quot;<br />     delay(10);<br />    if(key;<br />   if(P3？为什么还能显示啦;<br />  for(i=0;j++);<br />   delay(10);i&lt
+你要好好检查一下程序;}<br /> delay(10);/<br />  while(1)<br />  { key=getkey()，你没有将你要达到的目的说清楚，我也没法帮你<br />void main(void)<br />{ char key=0;<br />  P2=0x00!=-1)/<br />    if(key;这儿怎么会是负号<br /> {P2=led[key]你的P3口一会是0x0f，一会是0xf0
+0
+none
+http://zhidao.baidu.com/question/32441696.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262763688614467525.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/548567346.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88792390.html?qbl=relate_question_3

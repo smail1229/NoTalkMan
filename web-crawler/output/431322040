@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机c语言uchar code table[]问题
+<br />需要把里面内容的位置互换就是改成 <br />table[]={0x00,0x07,0x00;<br />之后如何对table[]里的数据进行修改,0x01,0x00,0x03,0x0f,0x0f,0x01开头声明了uchar code table[]={0x00,0x00},0x07,0x00,0x00},0x03,0x00
+/8;i++)<br />{<br />  if((n+i)&lt;<br />for( i=0;///显示<br />  else<br />   display(n+i-8).<br />可以通过循环判断指针来处理不可以修改,n=0.<br />unsigned char i;i&lt;<br />while(1)<br />{<br />if(n==8)<br />  n=0;8)<br />   display(n+i);<br />}<br />n++<br />delay(),因为code表存在ROM中
+7
+none
+http://zhidao.baidu.com/question/318028424.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/32033263.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/431321724.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/85180512.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/62347099.html?qbl=relate_question_4

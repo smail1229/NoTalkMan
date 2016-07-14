@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中带参数的宏定义与函数的区别（试举例）
+none
+fail
+1
+宏只是字符的替换，在预处理阶段就给替换到代码中去了比如下面的代码<br />#include&lt;stdio.h&gt;<br />#define MAX(x, y) ((x)&gt;(y)?(x):y())<br />int main()<br />{<br />int a = 2, b = 4;<br />int m;<br />m = MAX(2, 4);<br />printf(&quot;%d&#92;n&quot;, m);<br />return 0;<br />}<br />如果你用的是gcc编译器，执行 gcc -E main.c -o main.i，打开main.i文件就可以看到他是如何替换进去的，直接拖到最后，前面的都是stdio.h中的内容。<br />int main()<br />{<br /> int a = 2, b = 4;<br /> int m;<br /> m = ((2)&gt;(4)?(2):4());<br /> printf(&quot;%d&#92;n&quot;, m);<br /> return 0;<br />}<br /><br />函数就不同了，函数还需要分配栈空间，在执行函数时都要进行入栈和出栈操作，有的还需要分配堆空间。<br /><br />宏所实现的功能有限，而且长代码不易读，但是对于逻辑简单、代码不长、经常使用的功能由宏来实现是个不错的选择
+http://zhidao.baidu.com/question/1946285415698402988.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/335581317.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/384163822.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/126672773.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/127042344.html?qbl=relate_question_4

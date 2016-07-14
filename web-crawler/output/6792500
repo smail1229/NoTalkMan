@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言符号④ i^=j^=I
+i^=j^=k<br />那个^是什么东西啊
+<br />^的规则楼上说了:<br />j=j^k.01;&gt:<br />10,就是;<br />i=i^j.<br /><br />(j*k)&gt:<br />1001.<br />比如<br />9的二进制是;2<br />是把j*k这个数的二进制右移两位,右移两位是,转为十进制就是2,后面数舍去:<br />10i^=j^=k<br />等价于
+2
+none
+http://zhidao.baidu.com/question/1430464547948574539.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/256048007.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/241672905.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/225164.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/220926545.html?qbl=relate_question_4

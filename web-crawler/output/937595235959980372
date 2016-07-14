@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题，可以写int *p；*p=10；吗
+none
+nt *p。<br />*p = 10。<br />常量 有自己的存放地址; 这是语句。<br />所以是正确的; /  声明 p 是整型指针, *p 为指向的值<br />是让 指针p 指向 整型常量10;&#47
+0
+none
+http://zhidao.baidu.com/question/100700518.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1819087202134520028.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/209805785.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87685578.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/179085518.html?qbl=relate_question_4

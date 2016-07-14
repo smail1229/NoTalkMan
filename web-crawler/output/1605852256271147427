@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序：编写函数，判断一个正整数是否为素数，并输出100以内的素数。我的程序错在哪里？
+num++)<br />    prime(num);num&lt;stdio.h&gt;2;%d &quot;x&#47;i++)<br />  {<br />    if(x%i==0)<br />      break;=x&#47;<br />void prime(int x)<br />{<br />  int i;<br />  return 0;<br />  }<br />}<br />int main()<br />{<br />  int num;<br />  for(i=2;i&lt;<br />  for(num=2;<br />    if(i&gt;;2)<br />      printf(&quot,x);=100#include&lt
+fail
+0
+none
+fail

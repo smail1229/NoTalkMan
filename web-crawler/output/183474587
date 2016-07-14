@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中*p++和(*p)++有什么区别
+none
+然后当然有区别，在取值，*p++先将p+1，所以：<br />++的优先权高于*。主要是优先权的问题。<br />而*p是先取值
+1
+none
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/226084447.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90429271.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/536942769.html?qbl=relate_question_4

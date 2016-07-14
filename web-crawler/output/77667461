@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言头文件的作用
+并没有给出函数的具体程序?是C语言中自带的么。那么执行的时候是如何执行的呢头文件只是说明了函数？比如说if语句
+c文件里定义的，调用了头文件，有以下几个好处。<br /><br />兄弟，可以不用，方便查阅你可以调用的函数，就必需调用math，只要修改头文件的内容兄弟，你可以参考下<br /><br />1。<br />3。<br />5，而这个函数是定义在math，头文件只是声明，就要调用Pow（）函数，要知道其执行过程；<br />2，他并不是C自带的，对于头文件，就等于赋予了调用某些函数的权限，头文件可以定义所用的函数列表.c里面的，不用亲自跑到繁琐的代码内去搜索，就是一些全局静态变量的定义，头文件可以定义很多宏定义，如果你要算一个数的N次方，在这样的情况下。<br />4，要用这个函数，才知道，程序就可以做相应的修改，要看你头文件所申明的函数是在哪个.h这个头文件，不占内存空间
+251
+none
+http://zhidao.baidu.com/question/257653832.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/109433862.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/417209280.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/50576100.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编写程序1-3+5-7+......-99+101用c语言 为什么我的错啦 #include&lt;stdio.h&gt; #include&lt;math.h&gt; main() {int 
+<br />}<br /><br />我觉得对啦 .;<br />main()<br />{int i,n=-1.;math..-99+101用c语言<br />为什么我写的错啦<br />#include&lt;<br />#include&lt;sum=%d&quot;stdio;i&lt.,sum);.h&gt,sum=0;51,t=1.;<br />}<br />printf(&quot;i++)<br />{sum=sum+t;<br />t=(abs(t)+2)*n;<br />for(i=0.h&gt编写程序1-3+5-7+
+sum).h&gt;，你比较一下;math;&#47.h&gt;<br />main()<br />{int i;102;<br />t*=-1,sum=0：<br />t=(abs(t)+2)*n：<br />#include&lt;sum=%d&quot；<br />}<br />printf(&quot;i&lt;i+=2)<br />{<br />sum=sum+i*t;<br />其结果就是每个t都是负值<br />我给你写个;或t=-t;<br />#include&lt; /stdio;<br />for(i=1,t=1，看看你的思路有点问题
+4
+none
+http://zhidao.baidu.com/question/198911141.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/253784858.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/207369746.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/221725493.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/751675687398611124.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里n++和++n有什么区别
+none
+fail
+11
+无论前置还是后值，++ 都会使其操作数的值增 1。不同的是，++ 前置时，自增表达式（如 ++n）的值等于其操作数自增后的值；++ 后置时，自增表达式（如 n++）的值等于其操作数自增前的值。例如：<br /><br />        int n = 5, post = 1, pre = 1;<br />        pre = ++n + pre;    &#47;&#47; 运算结束后 pre 为 7，n 为 6<br />        n = 5;<br />        post = n++ + post;  &#47;&#47; 运算结束后 post 为 6，n 为 6<br /><br />上例中，++n 的值等于 n 自增后的值，即 6，所以 pre 最后得到的值为 7。n++ 的值等于 n 自增前的值，即 5，所以 post 最后得到的值为 6。
+http://zhidao.baidu.com/question/376085427.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488764865.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147931159.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/174162164.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/395314379.html?qbl=relate_question_4

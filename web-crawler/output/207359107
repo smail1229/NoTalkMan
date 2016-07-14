@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+哪位高手教教我，c语言如何单步调试，书上的太乱了，越看越晕……
+none
+它就会把值显示给你在Visual C++中，就在Watch窗口上写上去，按F10开始调试，就会出现一个小红点，就走一步，你想观察什么变量，调试是一步步进行的，按回车，默认调试的时候是不进入函数的，就在函数定义前面点一下，然后调试的时候就会进入函数了，你按一次F10，如果你想进入函数的话。调试完毕，这就是设置了一个断点
+31
+none
+http://zhidao.baidu.com/question/206538093.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/507182648.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/12693085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242414456.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/196880865.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 大神帮我看看这个程序的问题在哪？
+;地址是%p  %p  %p&#92, &p;<br />	*(p + 2) = 300UL.h&quot;n&quot，看看每个单元的地址<br /><br />错误	1	error C2102;<br />mian()<br />{<br />	unsigned long *p = (unsigned long *)malloc(20 * sizeof(unsigned long));stdlib, &(p + 1);<br />#include &quot;stdio;<br />	*p = 100UL;<br />}<br />大家看看我这个程序问题在哪里  我是想分配一块内存 ;<br />	*(p + 1) = 200UL.h&quot, &(p + 2));<br />	printf(&quot#include &quot
+fail
+2
+none
+http://zhidao.baidu.com/question/1238428215010928819.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/474089978.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1987823701792862387.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2073599600502264028.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/917976354860144339.html?qbl=relate_question_4

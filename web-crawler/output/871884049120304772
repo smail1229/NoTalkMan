@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言char和const char区别
+none
+char 和 const char 都是 char 型变量。<br /俯海碘剿鄢济碉汐冬搂>理论上来说，当变量未初始化，或未赋值时，你可以赋任意 值 给 它们。<br />一旦 赋值  后，const char 型变量的值 就 不允许 更改，不允许再赋新值。<br />而 char 型变量，你可以 随时 更新，愿赋新值 就可以赋新值。<br /> <br />但是，实际上，const char 型，只有在 初始化 时 才允许 赋 值。赋 后，不允许 再赋 值。<br />例如： const char cc = &#39;a&#39;;<br />所以 一旦 语句 中 出现   cc = &#39;b&#39;;   甚至 不改变值 地 写 一句 cc = &#39;a&#39;; 都算 语法错误。<br /> <br />char 型，无所谓，例如：<br />char c;<br />int i;<br />for (i=&#39;a&#39;;i&lt;=&#39;z&#39;;i++) { c = i;  printf(&quot;%c &quot;,c);}<br />输出： a b c d e f g h i j k l m n o p q r s t u v w x y z
+3
+none
+http://zhidao.baidu.com/question/145878875.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/395703953.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/260984057.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183888356.html?qbl=relate_question_3

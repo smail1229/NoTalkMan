@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于int变成float
+问题经验证就出在printf中本来应该是%d就是对的？<br />我对程序缩写了.000000如下，答案给的是程序非法终止;%f&quot,a);;<br />为什么输出是0，变成了%f就出现0.000000：<br />int a=10;<br />printf(&quot
+因为int不能强制转换成float定义的数据类型不一样！但是强制转换也会出错！int和float的数据宽度都不一样！要么就强制转换
+2
+none
+http://zhidao.baidu.com/question/53222405.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/255895051.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/139467508.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/135862803.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/175885293687752484.html?qbl=relate_question_4

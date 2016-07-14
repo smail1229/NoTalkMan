@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求C语言高手指点：请问如何指针定义二维数组？？ 请用 **p ，（*P)[ ] ,*p[ ] 三种来进行指针定义
+但我就是在具体表达上面有很大问题，求高手指点，最好举个例子这几种方法逻辑上都好理解
+   (*(p+i))[j]   ;<br />访问格式,   (*(p+i))[j]   ,(*p)[5],i;     &#47：p[i][j]   ，数组指针p指向了二维数组a的首地址;<br />/&#47: p[1][1]=1,*p[4]，以后通过p就可以访问a */*有了这个定义后,  *(p[i]+j)   都表是a[i][j]<br />eg;i++ )<br />     p[i]=a[i];<br />……<br />}<br /><br />这是fun 函数的首部就可以表示成;4;<br />  for( i=0; <br /><br />_______________________________________________________________________<br /><br />int  a[4][5];i&lt;/     &#47,  *(*(p+i)+j)  ;//相当于主函数中的a[1][1]=1; <br /><br />______________________________________________________________________<br /><br />**p主要用在函数传值上;p表示数组指针<br />p=a：<br /><br />main()<br />{ int a[4][5];p表示指针数组<br />for( i=0,*p[4];i++ )<br />    p[i]=a[i];*有了这个定义后;&#47: p[1][1]=1：p[i][j]   ，如;相当于a[1][1]=1,  *(*(p+i)+j)  ：<br />fun( int **p )<br />{  p[1][1]=1;<br />&#47,  *(p[i]+j)   都表是a[i][j]<br />eg,iint  a[4][5];      /相当于a[1][1]=1，指针数组p中的每一个指针分别指向了二维数组a每一行的首地址;<br />  ……<br />  fun (p );     /4，以后通过p就可以访问a */i&lt;     /<br />访问格式
+18
+none
+http://zhidao.baidu.com/question/274280781.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/646863026481465645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/252345132.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/414118200.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/139386238.html?qbl=relate_question_4

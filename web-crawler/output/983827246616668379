@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序
+none
+c+=k;break;然后没有break;就是没有跳出switch所以它会执行下一个语句;<br />case 2;break，c++;所以最后的结果就比你想的大1<br />你可以这样改<br />default:c+=k:c++当k=1时，它处于default中
+0
+none
+http://zhidao.baidu.com/question/258834648.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/360471042591874852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/175969747424815244.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/254762250.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2201699631725968988.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程题：编写从整型数组中检索给定数值的函数,若找到则输出该数值在数组中的位置
+输入要找的数据&quot,float x;<br />		if(q[i]=1;);i&lt;n&quot;stdio,k),x,int k)<br />{<br />	int i;:&#92;);<br />	{<br />		scanf(&quot;i++)<br />		if(a[i]==x) k=i+1;<br />	for (i=0;<br />int p(float a[];;<br />	int i;数据在数据库中位置是%d&quot,k);%f&quot.5结束;<br />		   break;数据不在数据库中%d&quot;,x.5)<br />		{<br />			printf(&quot;<br />		}<br />	}<br />	scanf(&quot;<br />		else k=0;<br />	if(k=0)<br />		printf(&quot;10000,10000;<br />		return k,&x)!=0)<br />		printf(&quot;<br />}<br />main()<br />{<br />	float q[10000];i&lt;<br />	for(i=0;<br />	if(k.h&gt;<br />	printf(&quot,int n，输入1;i++);<br />	for(i=0;i++)<br />		p(q,&q[i]);%f&quot;i&lt;10000;);n？系统提示说break不合法<br />#include &lt;请输入数据库,k=0请问我的程序错哪了
+5)写错了。 <br />另外你的if(q[i]=1，你的for语句后面多了个分号。<br /><br />希望对你有帮助，相当于你的for语句什么都没做是这样的，<br />后面的大括号并不是for循环体所以break非法：if(q[i]==1.5)，应该是
+3
+none
+http://zhidao.baidu.com/question/428154583.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125539888.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149183586.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/263955356.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/556250290.html?qbl=relate_question_4

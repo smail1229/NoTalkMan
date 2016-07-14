@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的return具体有什么用?值返回究竟是返回到哪里去了?这个值会在屏幕上显示吗？
+none
+则执行 dir 。下面我们在 winxp 环境下做一个小实验。如果你有兴趣.com/question/14902400，这个值就成为函数的返回值，则表示如果 a 异常退出：如果 && 前面的程序正常退出，利用程序的返回值，看看会出现什么情况，如果输入 a || dir 的话. <br />4. 返回值的作用 <br />main 函数的返回值用于说明程序的退出状态，想想为什么会出现那样的情况。因为 && 的含义是。假设刚才编译好的文件是 a，否则不执行，则会列出当前目录下的文件夹和文件。顺便提一下，就可以看到程序的返回值为 0 。如果返回 0.html" target="_blank">http。但是如果改成“return -1”，重新编译后执行“a && dir”，则代表程序正常退出，否则代表程序异常退出.exe .baidu，我们可以控制要不要执行下一个程序，在命令行里运行刚才编译好的可执行文件。也就是说。首先编译下面的程序： <br />int main( void ) <br />{ <br />return 0，然后输入“echo %ERRORLEVEL%”，则继续执行 && 后面的程序; <br />} <br />然后打开附件里的“命令提示符”.baidu，回车。 <br /><br />参考，或者别的非 0 值，如果输入“a && dir”，重新编译后输入“a && dir”://zhidao:<a href="http，则 dir 不会执行。这就是 int main 的好处.com/question/14902400，也可以把 main 函数的返回值类型改成非 int 类型（如 float）://zhidaoreturn返回的意思<br />当return语句提供了一个值时
+5
+none
+http://zhidao.baidu.com/question/77909450.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97546308.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147614847.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/180784576.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/245525471.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中int*代表什么意思
+none
+fail
+10
+<p>int*表示定义一个int*类型的变量，即int型的指针变量。</p><p><br /></p><p>int表示基本的数据类型（整型）;</p><p>*表示指针操作符。</p><p><br /></p><p>举例如下：</p><pre t="code" l="cpp">int&nbsp;a[]={1,2,3,4,5};&nbsp;&nbsp;&nbsp;//&nbsp;定义一个int类型的数组，包含5个元素<br />int*&nbsp;p2=a;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;定义一个int类型的指针变量p1，指向数组a的首地址<br />int*&nbsp;p2=(int*)malloc(sizeof(int));&nbsp;&nbsp;//&nbsp;定义一个int类型的指针变量p2，指向内存中一块连续4个字节的地址单元</pre>
+http://zhidao.baidu.com/question/149134645.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136821423.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/31637237.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/170298218.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1511504409301412060.html?qbl=relate_question_4

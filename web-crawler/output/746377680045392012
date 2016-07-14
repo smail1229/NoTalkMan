@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 指向数组的函数指针是怎么调用的啊，就是在main里面怎么写
+none
+定义函数int *f(char a[],char b[])<br />主函数里面用x=f(a,b)即x为地址
+0
+none
+http://zhidao.baidu.com/question/133004519.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/113810581.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91754093.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/367965669.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/33934930.html?qbl=relate_question_4

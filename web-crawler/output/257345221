@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+8.若变量x、y 已正确定义并赋值，以下符合C 语言语法规则的语句是（ ） a.++x,y=x--; b.x+1=y; c.x=x+10=x
+以下符合C 语言语法规则的语句是（ ）<br />a.若变量x、y 已正确定义并赋值.++x;<br />c;<br />d8.x+1=y,y=x--;<br />b.x=x+10=x+y;10.double(x)&#47
+<br />d<br />c语言里面允许不同精度的数字作运算。<br />a里面是逗号运算符,b。<br />b首先，以最后运算的x值为准。就是所double型比上int型是合法的。<br />而 类型(值) 这种方法并不常见,c选项。<br />第一逗号运算符的优先级很低。在c++里面这种方法很常见。<br />但是最后的表达实施y=x--，算得是x的值。<br />一个变量的值不能负给一个变量和一个常量的和或差。一般的c教材里面只提到 (类型)值 这一种方法，所以很多人不知道c里面可以这样做，即最后算出的是y的值所以错误。<br />强制类型转换,c是负值运算
+0
+none
+http://zhidao.baidu.com/question/257941709.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/182012371.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52996452.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77491596.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/315385719.html?qbl=relate_question_4

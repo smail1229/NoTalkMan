@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 y=x+1； if（x&gt;=0） if（x==0） y=x； else y=x-1； 什么意思？
+none
+首先，y=x+1<br />然后看x是否大于等于0   <br />   1.如果大于等于0   那么再看    x是否等于0   <br />                                                        1）如果等于0 那么 y=x  <br />                                                        2）如果x不等于0 那么  y=x-1<br />   2.如果小于0  那么 什么都不执行<br /><br />小抖原创回答  希望能帮到您
+2
+none
+http://zhidao.baidu.com/question/19721410.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/120598535.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/309699338.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/983460346189547379.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/399223266.html?qbl=relate_question_4

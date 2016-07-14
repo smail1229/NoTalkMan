@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言二维数组指针变量是什么，int (*p)[2]什么意思
+none
+&lt，<br />指向4个元素的数组<br /><br />int *p[4]<br />定义了一个数组指针p[4]; 4：<br /> <br />#include &lt, {3;&lt;<br /> for(i = 0;&#47，可以这样来用;<br /> p[0] = a, 它相当于一个二维数组的用法; &#47：<br /> <br />#include &lt;&lt;<br /> }<br />} <br />&lt, 6; 3;&lt;回答者, {5; endl;<br /> for(int i = 0;<br /> for(int i = 0; *p[0] + i;iostream; *p[1] + i; *(*(p+i)+j).h&gtint (*p)[4] <br />定义了一个指针p。<br /> <br />可以这样来用： lstno1bd&gt; i++) cout &lt，指针指向的是int型;<br /> <br />void main() {<br /> <br /> int* p[2], 2;<br /> <br />void main() {<br /> <br /> int (*p)[2]; 3; endl.h&gt;&lt;/&lt; cout &lt;//<br />  cout &lt; **p + i; i++) {<br />  for(int j = 0, 6}}; <br /> int b[3][2] = {{1; cout &lt; i &lt;&lt;cout &lt;<br /> cout &lt;/ p[i][j], 3}; j &lt;<br /> int b[4] = {4，即;cout &lt，指向一个4个元素的数组; j++) /<br /> p = b; 2，p的每个元素指向一个整型的数据;<br /> <br />}<br /> <br />（2）对于　int (*p)[2];&lt, 4}, 5;<br /> p[1] = b。就<br />是数组里面保存的是指针<br />(1）int* p[2] 是一个指向int型的指针数组; i &lt, 2};iostream; i &lt，只是它是一个n行2列的数组; **p + i：p是包含两个元素的指针数组;/ i++) cout &lt;<br /> int a[3] = {1, 7}。只是定义一个指针
+13
+二维数组指针变量形式如下：<br /><br />类型名   (*数组名)[数组行数][数组列数]<br />如：int (*p)[2][3];  &#47;&#47; 定义一个int类型的二维数组指针变量，数组中每个元素都是一个指针<br /><br />int (*p)[2]表示定义一个数组指针，只是是一个一维的数组指针，数组中每个元素（共2个元素）都是一个int类型的指针变量，指针指向的地址就需要后续程序给出，不然会变为野指针。
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/389096356.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/395233239.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/139386238.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/240322499.html?qbl=relate_question_4

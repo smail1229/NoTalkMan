@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中%d 什么意思？
+不理解;中%f 代表什么意思，例如print(“X=%f&#92C 语言程序中的%d %t %f %u %x 等等，求大哥大姐帮帮我，X);n”
+<br />%f显示小数表示的普通浮点数:表示把数据按十进制整型输出:表示把数据参数按无符号整型输出；<br />%u；<br />%x；<br />%o:表示把数据按十六进制整型输出:表示把数据按八进制整型输出%d
+55
+none
+http://zhidao.baidu.com/question/577305001.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226158284.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206576302.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/245794044.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/195991017.html?qbl=relate_question_4

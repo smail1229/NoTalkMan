@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 为什么平均值算出来却一直是0呢····代码如下：#include&lt;stdio.h&gt; int main() {int sum1,sum2,su
+none
+右边是整形 左边是浮点型 所以不行<br />你可以把sum1定义为float     也可以将aver1=(float)sum1/the average score of student1 are %f&quot;<br />aver1=(float)sum1/<br />  printf(&quot;<br />aver1=sum1&#47；<br />int sum1=a[0]+a[1]+a[2];;3;3;n&quot;<br />或者<br />int a[3]={80;&#92因为这里的sum1被你定义成整形了 aver1=sum1&#47,60,60;<br />  printf(&quot;), 强制类型转换<br />int a[3]={80；<br />float sum1=a[0]+a[1]+a[2];the average score of student1 are %f&quot;<br />float aver1,aver1);&#92;3,90},aver1);n&quot;<br />printf(&quot;;<br />float aver1;<br />printf(&quot,90};);3
+2
+none
+http://zhidao.baidu.com/question/347933867.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/233778675.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/234567766.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/249973778.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/439811052.html?qbl=relate_question_4

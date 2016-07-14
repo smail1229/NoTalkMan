@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计，比较数字大小的实例
+none
+最大的是;第二个数！第一个数,t=0：&quot;end;&quot;end#include&lt;&lt;<br />    cout&lt;end;y;<br />void main()<br />{<br />    int  x=0;&quot;t&lt;<br />    if  (x&gt：&quot;<br />    cin&gt,y=0;<br />    cout&lt;请输入要比较的两个数;&lt;<br />    cout&lt;您输入的数中;&lt;<br />    else   t=y;&lt;&lt;&lt;&quot;<br />    cin&gt;&lt;&gt;x：&quot;&lt;&lt;&gt;y)<br />    then  t=x;&lt;iostream.h&gt
+1
+　　下面是一个比较三个数的例子：<br /><br />　　#include &lt;stdio.h&gt;<br />　　int main()<br />　　{<br />　　int t,a,b,c;<br />　　scanf(&quot;%d%d%d&quot;,&a,&b,&c);<br />　　if(a&lt;b)<br />　　{<br />　　t=a，a=b，b=t;<br />　　}<br />　　if(a&lt;c)<br />　　{<br />　　t=a，a=c，c=t;<br />　　}<br />　　if(b&lt;c)<br />　　{<br />　　t=b， b=c， c=t;<br />　　}<br />　　printf(&quot;%d %d %d&#92;n&quot;,c，b，a）;<br />　　return 0;<br />　　}<br />　　原理就是运用冒泡算法，把最大的数浮在最上面，而小的数就下沉，最后就输出。
+http://zhidao.baidu.com/question/175503663735466404.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1893716803880048420.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/209797310.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/249883506.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197324013.html?qbl=relate_question_4

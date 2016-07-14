@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教一个C语言结构指针初始化的问题
+<br />  u8_t hwaddr[NETIF_MAX_HWADDR_LEN];<br />  void *state;<br />  err_t (* linkoutput)(struct netif *netif;<br />  u8_t hwaddr_len;<br /><br />另外像下面这么赋值都可以编译通过;<br />struct netif *mynetif = (void *)0;<br />  struct ip_addr ip_addr;<br />  err_t (* input)(struct pbuf *p;<br /><br />请问像这样的结构体定义的结构指针应该如何初始化呢,但它们有什么区别?<br />像下面这样可以吗?<br />struct netif *mynetif = 0;<br />  struct ip_addr netmask, struct pbuf *p);<br />  struct ip_addr gw?每种赋值都正确吗;<br />};<br />  u8_t flags, struct netif *inp), struct pbuf *p;<br />  u16_t mtu;<br />  err_t (* output)(struct netif *netif,<br />       struct ip_addr *ipaddr);<br />  u8_t num;<br />  char name[2]??我编译了一下这样怎么好像有错误?<br />struct netif *mynetif=(struct netif*)malloc(sizeof(struct netif));<br />struct netif *mynetif = (struct netif *)0struct netif {<br />  struct netif *next
+ <br />应该没错.h&quot,都是将mynetif初始化为空指针; <br />struct netif *mynetif = (void *)0;<br />三者一样; <br />struct netif *mynetif = (struct netif *)0struct netif *mynetif = 0.<br /><br />struct netif *mynetif=(struct netif*)malloc(sizeof(struct netif));stdlib,你看看是不是没加#include &quot
+3
+none
+http://zhidao.baidu.com/question/471244168.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/87195838.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/128651314.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/303919938256083364.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/501787379.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编写一个c语言程序，输入三个整数，输出它们的最大值
+none
+%d %d %d&quot;&#47:&quot;<br />     sscanf(&quot;<br />      int max;&#47, max);这是c语言的一个标准库，c语言的工程都是由大小的函数组成的#include &lt;，记得abc 要取地址&<br /><br />     max = b,b,c;            /<br />      printf(&quot;最大值是;请输入三个数;，空格区分各数，包含它才能用函数<br />int main()                  /<br />     if(a &gt;格式化输入, &a:%d&#92;n&quot,&b,&c).h&gt;这是主函数; b){                      /a如果大，最大值是a<br />        max = a;<br />    }<br />   if(max &lt;/<br />   } <br />   printf(&quot; c){<br />       max = c;输出最大值<br />   return 0;/     /一个函数<br />      int a;          /&#47，主函数是系统运行的第            {                              /stdio;);&#47
+43
+none
+http://zhidao.baidu.com/question/53309183.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/567736591.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/256874987.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163991010.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/680145302658794252.html?qbl=relate_question_4

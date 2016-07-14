@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，char类型，谁给我解释下？
+none
+字符类型，占2字节
+0
+　　char是C&#47;C++整型数据中比较古怪的一个，其它的如int&#47;long&#47;short等不指定signed&#47;unsigned时都默认是signed，但char在标准中是unsigned，编译器可以实现为带符号的，也可以实现为不带符号的，有些编译器如pSOS的编译器，还可以通过编译开关来指定它是有符号数还是无符号数。
+http://zhidao.baidu.com/question/57309267.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/20157545.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127475454.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/184540036.html?qbl=relate_question_4

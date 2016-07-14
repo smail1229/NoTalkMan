@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言分支结构中执行过一个if后为什么还能继续执行下一个if
+题目是输入三个数;，这是为什么,t;%d %d <br />%d&#92;<br /><br />}<br /><br />按这个的话   我之前倒没怎么察觉到，然后按从小到大排出来输出,&b，我这不是执行了第一个if之后还要执行第二个第三个if才能得出正确答案么？纠结啊头痛,b例如这个    我这是我几天前做的一个整数排序的题目;<br /><br />        b=t，说明他真的在执行了第一个if之后又执行了第二个第三个，今天突然想到.h&gt;a&&c&lt,a;<br /><br />       b=t。,b？可是我这个是正确的;<br /><br />        c=t;<br /><br />    }<br /><br />    printf(&quot,c,c);，不是分支语句应该执行一个if后就没了么，我这又没有在if里面再写if;<br /><br />        b=c;<br /><br />return 0;<br /><br />    }<br /><br />    if(a&gt。;c)<br /><br />    {<br />      t=a;stdio;n&quot;%d %d <br />%d&quot,&c),&a;<br />        a=b;<br />    }<br /><br />    if(c&gt;<br /><br />        c=b。;<br /><br />int <br />main()<br /><br />{<br /><br />    int a;b)<br /><br />    {<br /><br />        t=a;<br /><br />        a=c;<br /><br />    scanf(&quot。为什么啊。;<br /><br />    if(a&gt;b)<br /><br />    {<br /><br />        t=b，<br /><br />#include&lt
+3个 if 语句是并列的，没有嵌套，当然会执行完1个再执行第二个，楼主对 if 的理解还需加强<br /><br />    望采纳
+0
+none
+http://zhidao.baidu.com/question/1895978884077864860.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143894158.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/314976979.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/128332529.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/190423892.html?qbl=relate_question_4

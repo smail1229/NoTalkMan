@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中为什么不能char*s={&quot;china&quot;}这样赋值？详细说明一下
+none
+，如;}｛｝这个是数组的赋值方式：char　*s[ ] ={&quot;这种形式，当然字符串还有其他方法;china&quot;china&quot,&quot，只能用指针数组。如果你想用char *s ，“　”　这个是字符串的赋值方式
+4
+none
+http://zhidao.baidu.com/question/87738074.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/422562635.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/302505307.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/192366165.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1701922197529631060.html?qbl=relate_question_4

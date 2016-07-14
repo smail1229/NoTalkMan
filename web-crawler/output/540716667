@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里printf与putchar有什么区别啊
+none
+都是输出函数，区别是putchar只能输出一个字符；printf能输出很多格式。
+4
+<p>printf是标准输出函数，可以输出char型、int型、float型、double型等数据。</p><p>putchar是字符输出函数，只能输出字符。</p><p><br /></p><pre t="code" l="cpp">printf(&quot;%c&quot;,&nbsp;&#39;a&#39;);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;输出字符<br />printf(&quot;%s&quot;,&nbsp;“sadf”);&nbsp;//&nbsp;输出字符串<br />printf(&quot;%d&quot;,&nbsp;3);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;输出int型数据<br />printf(&quot;%f&quot;,&nbsp;3.14);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;输出float型数据<br />printf(&quot;%lf&quot;,&nbsp;3.14);&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;输出double型数据<br />putchar(&#39;a&#39;);&nbsp;&nbsp;//&nbsp;putchar只能输出字符</pre>
+http://zhidao.baidu.com/question/87054011.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38525231.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/510532883.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/10217364.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/401563123.html?qbl=relate_question_4

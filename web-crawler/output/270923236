@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+2-2 在C语言中，int类型、long类型、float类型、double类型和char类型数据，在16位和32位计算机中各占几个
+none
+占1个字节<br />同学你华立的吧;<br />    double;<br />    long16位平台;<br />    char ;<br />       32位平台:<br />    int 在内存中占4个字节:占4个字节;<br />    long在内存中占4个字节: 占8个字节;<br />    float:<br />    int，在内存中占4个字节，在内存中占2个字节
+5
+none
+http://zhidao.baidu.com/question/274010499.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/476694719.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/68436163.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/141994675.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/582702222.html?qbl=relate_question_4

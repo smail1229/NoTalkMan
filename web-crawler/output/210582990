@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编写比较四个数大小？？？？
+none
+#include &lt;stdio.h&gt;<br /><br />int compare(int a, int b)<br />{<br /> return a &gt; b ? a: b;<br />}<br /><br />void main( )<br />{   <br /> int a, b, c, d, max;<br /> <br /> printf(&quot;In畅饥扳渴殖韭帮血爆摩put four intget numbers:&quot;);<br /> scanf(&quot;%d%d%d%d&quot;, &a, &b, &c, &d);<br /> <br /> max = compare( compare(a, b), compare(c, d) );<br /> <br /> printf(&quot;%d&#92;n&quot;, max);<br /> <br />}
+2
+<p>具体方法和结果展示如下：</p><p><a href="http://f.hiphotos.baidu.com/zhidao/pic/item/ac4bd11373f082023764df2b4cfbfbedab641b2b.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://f.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=9ac8eaaba7ec08fa26551ba169de1155/ac4bd11373f082023764df2b4cfbfbedab641b2b.jpg" esrc="http://f.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=4b5c22ca3a6d55fbc5937e225812637c/ac4bd11373f082023764df2b4cfbfbedab641b2b.jpg" /></a></p>
+http://zhidao.baidu.com/question/184298493.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1383442470962718420.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/72538723.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/36842899.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/136628389.html?qbl=relate_question_4

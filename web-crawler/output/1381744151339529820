@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C 语言 关于switch case break default
+;stdio;break;break;<br />default;<br />main()<br />{int c=0:c++;<br />main()<br />{int c=0;<br />case4.h&gt;break.h&gt,c),k;%d&#92:c+=k;k&lt;<br />}<br />printf(&quot;3,c)#include&lt:c+=k;<br />for(k=1;k++)<br />switch(k){<br />case2;<br />for(k=1;<br />}<br />printf(&quot;<br />}输出结果是3  望分析一下default;n&quot;<br />}输出结果为5 答案给的是3  求解释  要详细的  小白级别的爱好者<br />#include&lt;;break;stdio:c++;<br />case4;k&lt;n&quot:c+=2;<br />case2;%d&#92;k++)<br />switch(k){<br />default:c+=2:c+=k,k;3
+这样编译器不认识case2;了(case和2之间少了个’ ‘)。这错误不一定报错，但提示警告是应该有的问题1、case4语句的错误与问题1一样;break：case2:c++。<br />不知你用的什么编译器，所以出错。你改正确后输出一定是3，本代码应当输出2而不应当输出3;写成case2;break。改过来后：你把case 2。<br />问题2，应当改过来:c++。case4有同样的问题
+0
+none
+http://zhidao.baidu.com/question/240803025.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/330878288.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1382903073200793940.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/624646037868038444.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/143778532.html?qbl=relate_question_4

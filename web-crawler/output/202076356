@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言指针运算
+ 2;<br />int *ptr = (int*)((int)a + 1)，这里不理解？;<br />书上说(int)a+1 的值是元素a[0]的第二个字节的地址？<br />希望高手解答, 4}？<br />按理说a被强制转换后是一个整型常数int a[4] = {1？，所以加1的操作应该解释为简单的常数相加，那地址怎么会是下一个字节的地址呢, 3
+为数组首地址,若此时转为指针是指向下一个字节，上面将a转化为int型，再+1，如上面所示会打印出33554432，取的是由首地址下一个字节开始的4个字节内容（32位机int型4字节），则为地址具体数值，因为计算机是以字节为单位存储的,即0x02000000，最后再将其转化为整型指针
+3
+none
+http://zhidao.baidu.com/question/554258461.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/438089404.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/3606481.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/527255196.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141362733.html?qbl=relate_question_4

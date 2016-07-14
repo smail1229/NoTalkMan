@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里怎么看出是自定义的函数和自定义的数据类型
+l例如....<br />我以为 struct  Student   是自定的函数 但是教程上说是自定义的数据类型  我不明白是怎么回事;<br />int main(void)<br />：<br />include&lt;stdio？;<br />   char  sex;<br />struct  Student<br />{ int age..;<br />};<br />   float score.h&gt？？
+据类型。<br />而且它是你自己定义来实现某种功能的，因为你可以用它用定义变量。<br />时间长了，是可以用来定义变量的，如。<br />自定义的函数,有返回值或返回值为void的，你自已定义的,而且这是你自己定义的;：int，它是可以被调用的就叫函数,double char这些可以用来定义变量的叫数据类型，如你上面的struct  Student 也是类据类型，如struct  Student std, int b)<br />{<br />}<br />这种带有参数或不带参数但带（），像<br />int max(int a，所以叫自定义数据类型，只不过这些是系定义的数据类型, float，所以叫自定义函数
+3
+none
+http://zhidao.baidu.com/question/325927360.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/171904270.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/415944412.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/119194476.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/556606961.html?qbl=relate_question_4

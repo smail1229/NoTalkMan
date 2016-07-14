@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言Continue
+进入continue<br />  {<br />   continue，谢谢了;&#47！<br />if( strcmp(aint Ret<br />while( 1 )<br />{<br />Ret= 一个sql语句，还是在原来的基础上向下查询; &#47;0) &#47！大侠帮忙;<br />  }<br />}<br />我的问题是continue 这个循环是不是重复SQL查询呢;&#47;这里条件是当a比b小,b)&lt,这里的sql语句是重复查询;当进入IF循环后Continue语句返回到这里
+hile是循环语句；<br />continue是跳过当前循环体中后面语句的执行；<br />break则是结束整个循环的执行，if不是，进行下一次循环，而是跳转到循环体的开始，但并不结束循环，跳转至循环的后面
+1
+none
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91411785.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66810365.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1882582198974742908.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98743975.html?qbl=relate_question_4

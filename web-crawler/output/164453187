@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言m*=i*j什么意思
+none
+C语言里面，一般熟练的程序员都这么写，所以m*=i*j;a+=b，（i*j）就是b;在上述C程序中;<br />他这样写的目的是为了程序的简练;就是a=a+b;就是a=a*b;就是m=m*(i*j)，m就是a，a*=b
+17
+其中i*j是C语言中的乘法，作用为将i和j相乘，结果为者的积。<br />*=为C语言的特殊赋值运算符。<br />a*=b的格式，相当于<br />a=a*b;<br />即先将ab相乘，积赋值给a。a*=b的形式更高效。<br /><br />于是m*=i*j会先计算i*j，再把结果与m相乘，最终赋值给m。<br />等效于<br />m = m * (i*j)
+http://zhidao.baidu.com/question/231679928.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/9048134.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/95879472.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/513536163.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/537509691.html?qbl=relate_question_4

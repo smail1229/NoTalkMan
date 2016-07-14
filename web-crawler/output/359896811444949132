@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 里面 printf函数 还可以这样用？
+%s&#92;&quot;%s&#92;&quot;&#92;&quot,&quot,ch[1]）;}在这个printf函数里面     “&#92,&quot.h&gt;;    是什么意思？求大神解释一下#include&lt;n&quot;&#92;CC&quot;n&quot;AAAA&quot;BBB&quot;&quot;;;       printf（“&#92;};void main （ ）{      char ch[3][5]={&quot;stdio
+&#92; %s表示输出的是一个字符串,ch[1]);就是输出了&quot;n&quot;<br />因为引号是特殊字符  要输出的话需要转义才行 所以要使用转义符号&#92;&quot;BBB&quot;&quot;;&#92;%s&#92这一句<br />printf(“&#92
+2
+none
+http://zhidao.baidu.com/question/139108469.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/60921121.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/170935373.html?qbl=relate_question_3

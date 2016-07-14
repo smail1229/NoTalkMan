@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言对float类型出错，对double类型允许
+none
+ain前面有个int Round()、参数类型和个数都要一一对应; 的原型声明是不含参数的，但后面的实际定义却带了参数。你需要在前面的声明中写进同样类型的参数，即返回值。前后声明和定义的 Round 原型必须一致
+0
+none
+http://zhidao.baidu.com/question/367408259665250124.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/73294595.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/125054490.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/34876997.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128474713.html?qbl=relate_question_4

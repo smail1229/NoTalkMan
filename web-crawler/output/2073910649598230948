@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言递归求斐波那契数列某一项
+none
+;<br />                            else return fib(k-1)+fib(k-2)，,1，1;<br />                            else if(k==1) return 1，改成if(k==0) return 0，<br />从0开始的话,3，,2，是指序列从1开始他的代码return1
+0
+none
+http://zhidao.baidu.com/question/419489662.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/28816968.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/98434328.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/506569957.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/543715532.html?qbl=relate_question_4

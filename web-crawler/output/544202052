@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的这句应该怎么解释：printf(&quot;c = %d-%c&quot;,c,c);
+<br />int a = 1c语言的式子为,c),c;a&#39;;char b = &#39;;<br /><br />           int c = a + b;<br />           printf(&quot;c = %d-%c&quot
+第一个C以%d输入;<br /> <br />这两个C都是变量C；<br />%c是以字符输出%d是以整型输出，第二个C以%c输出：c=98-b；<br />结果应该是
+0
+none
+http://zhidao.baidu.com/question/27096955.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153234922.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57076025.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/580549144.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/172630271.html?qbl=relate_question_4

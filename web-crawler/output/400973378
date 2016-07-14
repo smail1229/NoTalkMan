@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中if语句的三种形式到底是怎样的？分别举例
+none
+<br />	else<br /> printf(“bad”);<br />	3）嵌套形式<br />含义;60) <br />	printf(“ok”);n&quot,n);y)<br />	 printf(“max=%d”;是正数&#92,y);90)<br />	printf(“very good”); <br /><br />如果语句块包含多个语句;<br />  printf(&quot,x).<br />格式;);<br />	else<br />	 printf(“max=%d”;<br />else<br />	if(score&gt:<br />	 if (x&gt; <br />	2）一般形式<br />	if (表达式)                     <br />	  语句块1                            <br />	else                                       <br />          语句块2<br />	  例如：<br />if(n&gt;%d&quot1）简化形式<br />	if(表达式) 语句块 <br />	如:<br />if (score&gt，用{}就行了<br />例如;<br />	else<br />	 if(score&gt;y) printf(“%d”:  if(x&gt;0)<br />{<br />  printf(&quot：<br />if( )<br /> 	 if( )      语句块1<br />	 else 	    语句块2<br />else	<br />	 if( )      语句块3<br />	 else	    语句块4<br />例如,x);80)<br />	 printf(“good”);：一条if语句重又包含另一个if语句称为if语句的嵌套
+14
+none
+http://zhidao.baidu.com/question/71105101.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/432826195.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/472961325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/587895249.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/535328783.html?qbl=relate_question_4

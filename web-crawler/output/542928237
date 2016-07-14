@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言结构定义问题
+面有结构体定义：<br />struct student<br />{<br />   intnum;<br />  float score;<br />  char name[10]，结构体变量stu所占用内存是 ______ 个字节;<br />}stu；<br />那么
+。。。。。。。20个字节
+0
+none
+http://zhidao.baidu.com/question/117039180.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/543964836.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/559770811112802004.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/159188100.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/5358595.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言题目：对于变量定义int a[10],*p=a+3;数组a的最后一个元素是p[?]
+上的答案是7，我觉得是6？这是为什么呢，因为p[0]对应的是a[2]，那么p[7]不就对应a[9]吗
+a[9]是数组的最后一个元素<br />p[7]指向a[9]就是最后一个元素
+1
+none
+http://zhidao.baidu.com/question/88151828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/272818491.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/96867789.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/361887314.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/88151916.html?qbl=relate_question_4

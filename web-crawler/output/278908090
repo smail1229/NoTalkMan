@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序，求 sin(x);
+错在哪了？<br />#include &lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />void main()<br />{#define pi 3.畅敞扳缎殖等帮劝爆滑1415;<br />double f;<br />	int a;<br />	<br />	scanf(&quot;%d&quot;,&a);<br />f=sin(a&#47;pi);<br />printf(&quot;%f&#92;n&quot;,f);<br />}
+#include &lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />#define pi 3.1415<br />void main()<br />{<br />double f;<br />	int a;<br />	<br />	scanf(&quot;%d&quot;,&a);<br />f=sin(a/pi);<br />printf(&quot;%lf&#92;n&quot;,f);<br />}<br />改成上面的程序就可以了，#define pi 3.1415926  是编译预处理命令，要写在函数外，一般和#include 命令写在一起，而且不是c语句，不能加分号<br />f是do畅敞扳缎殖等帮劝爆滑uble型，最好用%lf格式输出，否则可能会出错。
+0
+none
+http://zhidao.baidu.com/question/28333079.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/559184095.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/519465199.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/531558747.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51572364.html?qbl=relate_question_4

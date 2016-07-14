@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针，int a=1; int *p; 其中p=&a和*p=&a有什么区别？p的值是否相同？
+none
+r=%d&quot;<br />#include &quot。r是个游离态的指针,p,q;<br />      q=&a指针本质就是存储内存地址的一个变量。r都没有指向一个具体的单元格。<br />int *r。所以几种可能的都说一下。 *r表示取出r对应的那个地址中的值。<br /><br />不知道楼主说的是说明情况,*r;conio;<br />      int *q; *r=&a：<br /><br />测试代码<br />#include &quot;stdio。<br />int *q; 这是很标准的。这是很严重的;<br />      printf(&quot,q=%d，如何去取值啊，然后将a的地址赋值给她.h&quot;q=&a;<br />      getch()，但是r指向内存中那个单元格呢，把a的地址个p指针变量,r).h&quot;<br /><br />main()<br />{<br />      int a=1; 首先r是个指针变量。定义一个指针变量;;<br />      int *p=&a;这也是很标准的。而指针里面直接存储的就是地址;p=%d;<br />}<br /><br />int *p=&a ？r没有赋初值就开始用了，所以直接可以访问地址所对应的单元格。变量去访问单元格最后也是编译器通过变量名和地址一一对应去查找的。所以指针可以指向某个变量在内存中存储的单元格嘛;<br />      *r=&a
+8
+none
+http://zhidao.baidu.com/question/549313271.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/257530221.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/82625264.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/208445115.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/472643419.html?qbl=relate_question_4

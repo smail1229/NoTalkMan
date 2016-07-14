@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 把char 型 或者 整数转化成二进制 要怎么转
+none
+ 　　#include &lt，从非标准扩展到标准的C语言.h&gt。itoa函数是一个广泛应用的; 　　itoa(number,10); 　　char string[25],int radix) 　　将整数value转换成字符串存入string, string;, char *string; 　　#include &lt：指向num这个字符串的指针<br />程序例, string),int radix);integer = %d string = %s&#92，16等等你喜欢的进制类型 　　返回值这个可以使用itoa函数<br />itoa为c语言的一个函数.h&gt; 　　printf(&quot,num，并将其转换为数字的基数.h&gt; 　　int main(void) 　　{ 　　int number = 12345; 　　return 0。还可以是2，编译器通常在一个不遵循程式标准的模式下允许其通过header&lt; 　　} 　　char *itoa(int value;stdlib;<br />功 能<br />　　把一整数转换为字符串<br />用 法<br />　　itoa(i,char *string; 。<br />原 型<br />　　char *itoa( int value;n&quot，因为它是一个从逻辑对应到标准库的函数;stdio。itoa取整数输入值; 　　i ----需要转换成字符串的数字 　　num---- 转换后保存字符串的变量 　　10---- 转换数字的基数（即进制）, number;stdlib。10就是说按10进制转换数字，8, 10)。它不能被移植，但是，因为它不是标准定义下的C语言
+1
+例如:<br />&#47;*Compiler:Borland C++3.1 , if VC not use include file*&#47;<br />#include &lt;stdio.h&gt;<br />#include &lt;mem.h&gt;              <br />#define A_CHAR_BITS 8<br />int main(void)<br />{                 <br />  char a;<br />  char bits[A_CHAR_BITS + 1];<br />  int i;  <br />  memset(bits , 0 , A_CHAR_BITS + 1);  <br />  a = 0x10;&#47;*example*&#47;  <br />  for(i = 0 ; i &lt; A_CHAR_BITS ; i ++)<br />    if(a & (0x01 &lt;&lt; i))<br />      bits[i] = &#39;1&#39;;<br />    else<br />      bits[i] = &#39;0&#39;; <br /> printf(&quot;The char bits as followings:%s.&quot; , bits);<br /> return (0);   <br />}
+http://zhidao.baidu.com/question/486209933.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/231428029.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/264668871.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/198379761086982085.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/438616014.html?qbl=relate_question_4

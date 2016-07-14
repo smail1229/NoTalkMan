@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中，与if(x==0) 等价的表达式写法是什么？
+none
+&#47，或者x;&#47.}  &#47..:{}!x){.，可以防止x=0这样的笔误<br />3  x==0 ;这个是不好的风格<br />2 if(0==x) {; &#47与if(x==0){ ;这个适合有else的时候用<br /><br />不能用while..，只执行了一次.} &#47，就算循环内修改了x的值！=0执行零次? { ;&#47. }  只有<br />1  if(;这样写的习惯，while是个循环.} ...
+2
+none
+http://zhidao.baidu.com/question/246228314.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/19966230.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/48317241.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/489935583.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/76186420.html?qbl=relate_question_4

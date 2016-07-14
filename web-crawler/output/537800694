@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中char*是什么意思?
+none
+定义一个字符指针<br /><br />用字符指针指向一个字符串。可以不定义字符数组，而定义一个字符指针。<br />如 char *string=&quot;I love China!&quot;; <br />定义了一个字符指针变量string，用字符串常量&quot;I love 珐範粹既诔焕达唯惮沥China!&quot;，对它进行初始化。C语言对字符串常量是按字符数组处理的，在内存中开辟了一个字符数组用来才存放该字符串常量。对字符指针变量初始化，实际上是把字符串第1个元素的地址（即存放字符串的字符数组的首元素地址）赋给string。
+38
+<p>1 c语言中，char* 代表 字符指针类型，当其指向一个字符串的第一个元素时，它就可以代表这个字符串了</p><p>2 示例</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />int&nbsp;main(){<br />	char*&nbsp;str&nbsp;=&nbsp;&quot;learn&nbsp;c&quot;;<br />	printf(&quot;%s\n&quot;,&nbsp;str);<br />	getchar();<br />	return&nbsp;0;<br />}<br />/*运行结果是<br />learn&nbsp;c<br />*/</pre><p>3 分析</p><p>&nbsp; &nbsp; 在char *str=&quot;learn c&quot;;中,&quot;learn c&quot;是长度为8的字符数组常量，其最后一个元素是&#39;\0&#39;，而这句代码执行的结果是将str指向了&quot;learn c&quot;的第一个字符&#39;l&#39;，str后面的连续内存依次存放&#39;e&#39;,&#39;a&#39;,&#39;r&#39;,&#39;n&#39;,&#39; &#39;,&#39;c&#39;,&#39;\0&#39;</p><p>4 扩展</p><p>&nbsp;&nbsp;&nbsp;&nbsp;c语言中的字符串是用字符数组来表示的，只是c语言规定了一个字符串结束标志，即字符&#39;\0&#39;，也就是遇到字符&#39;\0&#39;时，这个字符串就结束了<br /></p>
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/872267862904840692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127475454.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/559302722747890084.html?qbl=relate_question_4

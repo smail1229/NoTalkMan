@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言相关问题。本人新手。
+#include&lt;stdio.h&gt旦碃测度爻道诧权超护;<br />void main()<br />{<br />    int a[10];<br />	int i,j,k,temp;<br />    printf(&quot;Please input array a:&#92;n&quot;);<br />	for(i=0;i&lt;=9;i++)<br />		scanf(&quot;%d&quot;,&a[i]);<br />	for(i=9;i&gt;=1;i--)<br />	{<br />	   k=i;<br />		for(j=0;i&lt;=k-1;j++)<br />		{<br />		   if(a[j]&gt;a[j+1])<br />			{<br />			 temp=a[j];<br />			 a[j]=a[j+1];<br />			 a[j+1]=temp;<br />			}<br />		<br />		}<br />	}<br />    printf(&quot;The sorted numbers:&#92;n&quot;);<br />	for(i=0;i&lt;10;i++)<br />		printf(&quot;%4d&quot;,a[i]);<br />	printf(&quot;&#92;n&quot;);<br />}<br /><br />我想问的是这个输出的结果为什么不是从小到大？而是我输什么 他输出什么。哪里弄错了？
+for(旦碃测度爻道诧权超护j=0;j&lt;=k-1;j++)<br />注意这里面的是j&lt;=k-1若i&lt;=k-1则一直为假
+1
+none
+http://zhidao.baidu.com/question/223595724.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/259799748.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1110662481833482379.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/871883664437071452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/518856662059382805.html?qbl=relate_question_4

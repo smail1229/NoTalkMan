@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+C语言中,int, char和short int三种类型变量所占用的内存大小是
+none
+在vc中是4,1,2<br />不同的编译器可能占不同内存
+2
+<p>C语言中,int, char和short int三种类型变量所占用的内存大小因机器的不同有所不同。</p><p>一般在32位及以上机器上，int占四字节，char占一字节，short占2字节。</p><p>可以通过sizeof()命令获取本机器上的各类型的占内存的大小，参考代码如下：</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />void&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;sizeof&nbsp;int=%d\n&quot;,&nbsp;sizeof(int)&nbsp;);<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;sizeof&nbsp;short=%d\n&quot;,&nbsp;sizeof(short)&nbsp;);<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;sizeof&nbsp;char=%d\n&quot;,&nbsp;sizeof(char)&nbsp;);<br />}</pre>
+fail

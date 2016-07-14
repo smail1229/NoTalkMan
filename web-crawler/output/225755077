@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言int a[10]={1,2,3},*p=a;不能表示a数组元素是？A.*pB.a[10]C.*aD.a[p-a]请每个选项都解答
+none
+错误的是B    解释 a[10]  错误  只能a[0]-a[9]<br /><br />D a[p-1] == a[0] 正确<br />A *p 就是a[0] 正确<br />C *a 就是a[0]正确
+0
+none
+http://zhidao.baidu.com/question/225754099.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/225753129.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/295364671.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1110085495792772939.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/348021113.html?qbl=relate_question_4

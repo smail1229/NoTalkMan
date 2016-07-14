@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言char类型赋值的问题
+于是在存储word和nextword时我是这么写的;<br />提前谢过啦，然后我们查找每个词的时候都会返回跟在它后面过的词;<br />	while ((c = fgetc(stdin)) ;%s&quot;;n&#39;_&lt，所以不知道对于最后一个词该怎么办了呢;,nextword)，跪求大神用容易理解的方式解答 &gt;问题是这里好像不能把NULL赋值给char类型的表格nextword,word)!= EOF) {<br />				fscanf(stdin？<br />才学两个月;<br />			if ((c = getc(stdin)) ,word!= EOF) {<br />		ungetc(c;<br />	}<br /><br />还有如果是读取每一个词的话像上面这样我用fscanf和fgetc交替读取的话可行吗。比如 a b c a a b c 如果输入a返回的就是打印a和b;<br />		if ((c = fgetc(stdin)) ,thach_valeur!= &#39;<br />	char nextword[15]，它之后并没有词呀<br />			}<br />		}<br />		thach_add(th现在做一个程序,&quot,stdin);<br />			fscanf(stdin; &#47，存储下来;&#47,&quot,nextword)：<br />char word[15]，目的是读取一篇英文文章里的所有词;<br />	int c;) {<br />			ungetc(c;<br />			} else {<br />nextword = NULL;%s&quot;&#92,stdin)
+0&#39nextword = NULL;<br />nextword是数组？<br />貌似可行;<br />还有如果是读取每一个词的话像上面这样我用fscanf和fgetc交替读取的话可行吗;; &#47，当然不能改变<br /><br />可改为<br />nextword[0]=&#39;/&#92，地址是const的
+1
+none
+http://zhidao.baidu.com/question/302505307.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76149163.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57309267.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1817711003483190028.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/454921505238493725.html?qbl=relate_question_4

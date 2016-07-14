@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中$符号的作用是什么？
+$y;&lt;<br />float $x,$z&gt;<br />$x=cos(particleShape1;&gt;;&lt.particleld+time),$z&gt;&gt;<br />particleShape1;<br />$y=particleShape1刚刚看到了这样一段C语言代码<br /><br />ector $pos;<br />$pos=&lt,$z;&lt;&gt;,$y，这两者是干什么的;这一句中&lt;<br /><br />ector是某个结构体或共用体类型;$x，求教.particleld,$y;的作用;&gt;$x;<br />$z=sin(particleShape1，但是我很不解这里的$符号还有$pos=&lt.position=$pos.particleld+time)
+ 看你这个好像和数学有关，反正没有影响的，因为c语言允许以$符号作为变量名的开头，所以命名习惯不一样可能这是人家的命名习惯
+3
+none
+http://zhidao.baidu.com/question/101689562.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/458806586.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/61269766.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/532412019.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/70568601.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言使用switch语句编程问题
+谢谢使用switch语句编程，根据输入的年份判断是否为闰年。我自己编的太复杂了点，根据输入的月份判断这月有多少天，求简洁可读性强的C程序语言
+this month has 29 days&#92:printf(&quot;);<br />case 6;<br />case 10;break;n&quot;);n&quot;n&quot;<br />case 3;);this month has 30 days&#92;<br />case 2;break;n&quot;<br />default:if(chkYear(year))<br />               printf(&quot:printf(&quot;);break;);break;;n&quot:printf(&quot;this month has 31 days&#92;<br />case 12,%d&quot;):printf(&quot;%d不是闰年&#92;n&quot,year);n&quot;n&quot;%d:printf(&quot;<br />case 4;<br />           break;breakint chkYear(int year)<br />{<br />if(year%100==0)<br />  return year%400;<br />switch(month)<br />{<br />case 1;);this month has 31 days&#92;n&quot;n&quot;<br />else <br />  return year%4;<br />case 9;<br />else<br />  printf(&quot,year);n&quot;break,month;this month has 31 days&#92:printf(&quot;%d是闰年&#92;this month has 31 days&#92;);break;this month has 31 days&#92;break;<br />case 8;<br />           else<br />                printf(&quot,&year;););break;<br />case 5;<br />scanf(&quot,&month);this month has 28 days&#92:printf(&quot;this month has 30 days&#92;break;):printf(&quot;;this month has 31 days&#92;n&quot;<br />case 7:printf(&quot;n&quot;n&quot:printf(&quot;<br />if(chkYear(year))<br />  printf(&quot;this month has 30 days&#92;this month has 31 days&#92;<br />case 11;;n&quot;);program finished&#92:printf(&quot;break;this month has 30 days&#92;n&quot:printf(&quot;););<br />}<br />int main()<br />{<br />int year
+2
+none
+http://zhidao.baidu.com/question/490324985.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/541761221.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/407814757.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/48762485.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_4

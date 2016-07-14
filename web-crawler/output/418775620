@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言结构类型
+none
+ 。<br />typedef struct {<br /> int data， 你可以直接LNode ff，至少我看到的是不可以；这种方法是错误的;<br /> struct Node *next： LNode ff; 有问题， 如果没有这个关键字的话;<br /> struct Node *next，定义时需要struct Node ff;<br />这种写法是直接把这个结构体另外命名为LNode，不能用来定义; <br />}LNode，LNode只是一个这种结构体的变量;这种 ;这种定义方法，只能用LNode ff;<br /> struct *next;<br />}LNode，错误是因为 struct *next。<br />原因还是因为typedef，也就是说这种结构体只有一个变量就是————LNode<br />例如，<br />也就是说没有了struct Node ff。<br />LNode 是Node 的另外一个名字;<br />Node是一个结构体的名称，ff是变量;<br />}LNode;这样来定义这种结构体的变量 <br />这种写法算是给struct 类型 Node另外起一个名字吧<br /><br />typedef struct {<br /> int data，原因是因为你用了“typedef &quottypedef struct Node{<br /> int data;来 定义;这种是不可以通过的
+2
+　　1、在C语言中，结构体(struct)指的是一种数据结构，是C语言中聚合数据类型(aggregate data type)的一类。结构体可以被声明为变量、指针或数组等，用以实现较复杂的数据结构。结构体同时也是一些元素的集合，这些元素称为结构体的成员(member)，且这些成员可以为不同的类型，成员一般用名字访问。<br />　　在C语言中，定义一个结构的一般形式为：<br />　　struct结构名<br />　　{<br />　　&#47;&#47;成员表列<br />　　};<br />　　成员表由若干个成员组成， 每个成员都是该结构的一个组成部分。对每个成员也必须作类型说明，其形式为：“类型说明符 成员名;”。成员名的命名应符合标识符的书写规定。例如：<br />　　struct stu<br />　　{<br />　　int num;<br />　　char name[20];<br />　　char sex;<br />　　float score;<br />　　};<br />　　在这个结构定义中，结构名为stu，该结构由4个成员组成。 第一个成员为num，整型变量；第二个成员为name，字符型数组；第三个成员为sex，字符型变量；第四个成员为score，浮点型变量。 应注意在括号后的分号是必不可少的。<br /><br />　　2、当结构定义完成后，即创建了一种数据类型，可以像int、float等内置类型一样使用，以上面定义的stu结构体来和int类型对比着看。<br />　　int a;&#47;&#47;定义一个int类型的变量a<br />　　stu a; &#47;&#47;定义一个stu类型的变量a<br />　　int *p; &#47;&#47;定义一个int类型的指针p<br />　　stu *p; &#47;&#47;定义一个stu类型的指针p<br />　　int a[10];&#47;&#47;定义一个int类型的数组a，它有10个元素，每个元素是int类型<br />　　stu a[10];&#47;&#47;定义一个stu类型的数组a，它有10个元素，每个元素是stu类型。
+http://zhidao.baidu.com/question/125054490.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/280957324.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535937704.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/129882164.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/159188100.html?qbl=relate_question_4

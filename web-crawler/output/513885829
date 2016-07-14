@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中： a+=a与a++=a有什么区别？
+在c语言中：<br />a+=a与a++=a有什么区别？
+编译不通过，结果是a=10，a+=a相当于a=a+a；a++=a在程序中是错的，我刚刚试过了，不允许这样编，如果a=5就你说的。，望采纳
+2
+none
+http://zhidao.baidu.com/question/426814854.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53036026.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/339897488.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/9282013.html?qbl=relate_question_3

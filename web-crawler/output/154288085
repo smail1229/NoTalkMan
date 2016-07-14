@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个C语言的算法？（float）(a+b)&#47;2+(int)x%(int)y  设a=2,b=3,x=3.5,y=2.5
+5我怎么算结果都等于3，答案是对的吗？又是怎么算的？谁能帮我解决这个疑问.0，可是答案是3
+除以53，楼上的解释欠妥.0，其实是（float）(a+b) = 5.0/2以后才为2.5是对的
+7
+none
+http://zhidao.baidu.com/question/226567806.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1754519501209530948.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/244325596.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2010514523125240348.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1989313179882651747.html?qbl=relate_question_4

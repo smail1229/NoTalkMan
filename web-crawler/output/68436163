@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中 int float char printf long include math double 等是什么意思?各有什么用?
+none
+double是精度较float大的浮点型，char是字符型，long是长整型，printf是一个输出信息的库函数。具体找本书看看吧，include是在要在一个文件里包含另一个文件时要用的关键字，math是一个库的名称int 是整型，float是浮点型
+21
+none
+http://zhidao.baidu.com/question/239065041.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234899394.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/434480051.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/177133931.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/195782997.html?qbl=relate_question_4

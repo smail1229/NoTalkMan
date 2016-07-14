@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言程序，通过自定义函数实现字符串处理函数strcat、 strcpy、strcmp、strlen和的功能
+none
+HELLO;);<br />}<br />char *mystrcpy(char *dst, char *src)<br />{<br /> while(*dst++ = *src++), &quot;;<br />}<br />int main()<br />{<br /> char s[32];<br /> return dst;<br />}<br />int mystrcmp(char *dst;<br /> return p - dst, char *src)<br />{<br /> while(*dst && *dst == *src)<br /> {<br />  ++dst;HELLO, char *src)<br />{<br /> char *p = dst;%d %d&#92;<br /> }<br /> return *dst - *src;<br /> <br /> printf(&quot, t[32] = &quot;<br />}<br />int mystrlen(char *dst)<br />{<br /> char *p = dst;<br /> while(*p)++p, mystrcmp(s,CHINA&quot;<br /> mystrcpy(s;n&quot;, &quot;<br /> while(*p)++p;<br /> puts(s););<br /> mystrcat(s;USA&quot;<br /> puts(s), mystrlen(s), t))char *mystrcat(char *dst;<br /> while(*p++ = *src++);<br />  ++src,&quot;<br /> return dst
+7
+none
+http://zhidao.baidu.com/question/29896828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7454100.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/72623763.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/7908569.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/30313685.html?qbl=relate_question_4

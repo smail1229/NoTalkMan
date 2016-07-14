@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：设a=5，b=2，则(a--)-b这个表达式的值为
+求详细步骤：a--代表什么，a--=
+a--的意思是，先使用a的值，等使用完了再使a的值自减1<br />(a--)-b = 3<br />执行完这个表达式后a的值变为4
+1
+none
+http://zhidao.baidu.com/question/1667708706982822587.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/182403163.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/538440791.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/377700714.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/182619070.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮忙解释答下C语言for循环执行的顺序: 第一个： for(表达式) for(表达式) 语句A;
+<br /><br />说下这两种语句的顺序;<br />语句B:<br />第一个：<br />for(表达式)<br />for(表达式)<br />语句A帮忙解释答下C语言for循环执行的顺序：<br />for(表达式)<br />语句A;<br /><br />第二个;<br />for(表达式)<br />语句B，就是先执行哪一个判断再执行哪一个
+两个for在一起一般用作双重循环，你写的这个我看不太明白你的意思，感觉有点像顺序结构<br />你可以写个例子下来吗
+1
+none
+http://zhidao.baidu.com/question/239027587.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/330780485.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/555048666.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/518713614940616805.html?qbl=relate_question_4

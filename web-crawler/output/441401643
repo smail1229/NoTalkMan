@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言调用函数时实参需要定义类型么
+none
+不需要。选c.
+3
+<p>实参必须要指明数据类型，而且实参和形参的数据类型必须一致。</p><p><br /></p><p>主要原因，因为数据类型反应了数据的意义，譬如，0x3f8ccccd这个十六进制数，用int类型来描述它，它就是一个整数，用float类型来描述它则为1.1。示例代码如下。</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />int&nbsp;main()<br />{<br />int&nbsp;i&nbsp;=&nbsp;0x3f8ccccd;<br />float&nbsp;f&nbsp;=&nbsp;*(float&nbsp;*)&amp;i;<br />printf(&quot;%d\t%f\n&quot;,&nbsp;i,&nbsp;f);<br />return&nbsp;0;<br />}</pre><p>事实上C语言中的数据类型，类似于平时说话的”语境“， 它表达了语言的意义，譬如：”谢谢你“和”谢谢你全家“， 谢谢是一个符号，但是不同的语境下有不同的意义。正是因为此，C语言不管是函数参数传递还是使用标识符进行运算，都必须指明其数据类型。</p>
+http://zhidao.baidu.com/question/123934211.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/140334406.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/101337385.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/102063252.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203442447.html?qbl=relate_question_4

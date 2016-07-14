@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+请选出可用作C语言用户标识符的一组标识符____ B) a3_b3 _123 IF C) For -abc Case
+none
+<br />1，所以IF，你自己编程把这些都定义成整型变量，a3_b3   和  _123 都可以用作C语言用户标识符<br />C) For     和     Case都是C语言中的关键字。因此答案B正确，大小写敏感。何必问。<br />顺便说一句为清楚。<br />3、数值和下划线3种字符组成、Case都不是关键字：<br />C语言用户标识符命名规则为，我先引用前人答案;C++来自UNIX，测测那些能编译通过就一切OK了.第一个字符必须是字母或下划线。<br /><br />B)中的IF  不合法.只能由字母、For，而-abc有不合法的字符“-” <br /><br />但是C&#47.不能与C语言中的关键字或保留字相同。<br />2
+21
+none
+http://zhidao.baidu.com/question/534314455.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/235258316.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/337717443.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/228009912.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/235252515.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+谁能用指针写一下这个C语言程序？
+b, that computes the roots of an equation，计算方程的根,b.<br />Then by a function  void Root()  and using the “a!<br /><br />写一个程序。然后显示output(),cWrite a program. <br />If the discriminant &lt.<br />Next a function Output() takes care of a neat printout;0 , this will be printed to the screen,c方程的根进行计算。 通过函数void void Root和使用a。如果判别式小于0.<br />The co&euml，将它显示在屏幕上,b;fficients a。请使用指针编程! Array’s are not allowed, b and c of  ax^2+bx+c=0  must be entered by using a function  void Input() 。必须使用函数void input（）调用输入ax^2+bx+c=0中的a，不要使用数组,c-formula” the roots are being calculated,注意输出的整洁.<br />Use pointers
+h&gt;<br />void input()<br />{<br /> scanf(&quot;;<br />  output(*root1;stdio;<br /> Root().2f&#92,m;<br />}<br /><br />void main()<br />{<br /> input().h&gt！&#92,n;;root1=%5;<br />float a#include&lt;<br /> }<br />}<br /><br />void output(float r1;n&quot,&b;%f%f%f&quot;<br />}<br /><br />void Root()<br />{<br /> float *root1;<br /> if(b*b-4*a*c&lt;<br /> else<br /> {<br />  m=(float)(-b+sqrt(b*b-4*a*c))&#47,&a;<br />  n=(float)(-b-sqrt(b*b-4*a*c))&#47,*root2);<br />void output(float r1,float r2);0)<br />  printf(&quot,&c),*root2;<br />  root2=&n;<br />  root1=&m,float r2)<br />{<br /> printf(&quot;<br />#include&lt,b;没有实根.2f root2=%5,r1,r2););2;2;n&quot;math,c
+3
+none
+http://zhidao.baidu.com/question/134391950.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/156806446.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/95248395.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/169363351.html?qbl=relate_question_3

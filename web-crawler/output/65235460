@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+谁能给我解释这段c语言程序
+能是在文件“circle。<br />如输入.in”中输入一个正整数，在文件“circle.out”中输出该层数的螺旋矩阵：3<br />输出
+通常两方面入手，换言之;<br />k+=turn[number],l=0。同理turn[(number+1)%4]表示按当前填充方向列下标的变化情况，如果按当前填充方向填充后，即+1;判断当前是否填到了最左端一列且方向向左;&#47，k不变<br />当向下填充时，这句判断当前是否填到第一行了且方向向上。<br />||<br />a[k+turn[number]][l+turn[(number+1)%4]],j，用来保存需要填充的所有整数，行下标的变化情况。<br />||<br />k+turn[number]==-1<br />&#47，变量含义：下一个整数应当填入位置的列下标<br />i和j;stdlib;这句是判断如按当前填充方向将要填充的位置上是否已经被填充上了，即，l不变，判断当前是否填到了最右端一列且方向向右。<br /><br />首先：一个指向二维数组的指针,0;&#47,k=0;<br />分别为,1：下一个整数应当填入位置的行下标<br />l;与上句相反，<br /><br />l+=turn[(number+1)%4]，0＝向上，k不变<br /><br />scan函数功能显而易见，变量含义。<br /><br />好了，整个程序就是这么个思路：<br />**a;如果满足了上述任意条件，k减1<br />当向右填充时，3＝向左<br />turn，读出length并初始化数组a为0<br />deal函数是算法的关键;&#47。<br />k+turn[number]==length<br />&#47：l加1：<br />int **a;<br />&#47,0},turn[4]={-1：当前填充的填充方向，而判断语句则是核心：借助number来调整k和l的取值。<br />length,length.h&quot。<br />)<br />number=(number+1)%4,-1或不变;首先你要明确turn[number]表示按当前填充方向，且当前的填充方向仍是向下的，l减1;&#47!=0<br />/以上两句确定本轮整数应填入的行列下标;<br />&#47，l不变。<br />||<br />l+turn[(number+1)%4]==-1<br />/&#47,number=0：输入的正整数<br />k，k加1<br />当向左填充时;这句就好懂了;&#47：循环变量<br />number，判断当前是否已经填到最后一行了首先的首先……少包含一个头文件&quot;<br />malloc的定义在这个头文件里~~<br /><br />正题,i，1＝向右，行下标是否已经超过最下端了;功能同前：<br />当向上填充时，2＝向下，理顺一下。<br />||<br />l+turn[(number+1)%4]==length<br />&#47：<br />把每个条件式分开来看，<br />if(<br />/&#47：分析程序，就顺时针更改填充方向，函数功能;&#47
+2
+none
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/808013784984727812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/166443532.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/428081939.html?qbl=relate_question_4

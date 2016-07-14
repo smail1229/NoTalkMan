@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中(year％4＝＝0＞的＝＝0是表示什么意思？是代表为假的意思吗？
+none
+leap赋值为1这个是表达式，否则leap赋值为0，是等式判断，为0返回true，year是400的整数，否则为false，用年除400取余数（取模）。所以这段程序的逻辑是，余数是否为0，应该是计算步骤是year%400
+1
+none
+http://zhidao.baidu.com/question/18764692.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/503175905.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/133899237.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/502321637.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200631002.html?qbl=relate_question_4

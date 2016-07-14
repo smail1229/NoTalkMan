@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言的指针定义问题。我知道这是指针数组，如何赋值…
+	B, a[3]。<br />	int *p[3]. p = a;<br />	A;	C对于以下变量定义. p = &a[0]. *p = a[0]. p[0] = &a[0];	D，______是正确的赋值
+<br />int a[3]，每个元素都是一个指向int的指针<br />a是一个int数组，每个元素都是一个int数<br /><br />显然ABC左右类型都不匹配这个题目故意考察你会不会弄错a<br />他的声明其实写开了就是这样的<br />int *p[3];<br />因此p是一个指针数组
+7
+none
+http://zhidao.baidu.com/question/835367.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/248627500.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/246785373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49483808.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/359213632.html?qbl=relate_question_4

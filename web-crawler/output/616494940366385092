@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编写方程，输入x，求输出y，其中y与x的关系式如下（a,b,c,d是系数，a=92470）：
+none
+ include &lt;<br />main(  )<br />{<br />   double x;<br />   c=7251;<br />   y=a*exp(b*x)+c*exp(d*x);<br />   d=-0.002108;,d,y,y=%lf&quot;<br />   b=-0, y);stdio,a,c.h&gt,b;.01086,&x);<br />   a=9270;<br /><br />   printf(&quot;<br /># include &lt;<br />   scanf(&quot;math.h&gt, x;x=%lf;%lf&quot
+0
+none
+http://zhidao.baidu.com/question/136901526.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/403367805.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/498986954.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1510674782898514660.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/194054899.html?qbl=relate_question_4

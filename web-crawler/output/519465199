@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请高手解答这个C语言问题，求sin（x），这个程序应该怎样改？
+#include&lt;stdio.h&gt;<br />#include&lt;mat缉触光吠叱杜癸森含缉h.h&gt;<br />main()<br />{<br />  int x,y;<br />  printf(&quot;请输入x的值：&#92;n&quot;);<br />  scanf(&quot;%d&quot;,&x);<br />  y=sin(x);<br />  pirntf(&quot;y=%d&quot;,y);<br />}
+求sin(x)值不用y的，可以直接写在printf函数里<br />此时x是弧度制，经过x*3.14/180就变成度数了<br />#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />void main()<br />{<br />  float x;<br />  printf(&quot;请输入x的值：&#92;n&quot;);<br />  scanf(&quot;%f&quot;,&x);<br />  printf(&quot;sin(x弧度)=%f&#92;n&quot;,sin(x));缉触光吠叱杜癸森含缉<br />printf(&quot;sin(x度)=%f&#92;n&quot;,sin(x*3.14/180));<br />}
+0
+none
+http://zhidao.baidu.com/question/244135017.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/278908090.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/33255672.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/24354213.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/559184095.html?qbl=relate_question_4

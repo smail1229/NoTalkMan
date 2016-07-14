@@ -1,0 +1,11 @@
+教育/科学 理工学科 工程技术科学 
+用C语言编程：求1-1&#47;2+1&#47;3-1&#47;4+1&#47;5-1&#47;6+…+1&#47;99-1&#47;100+…的值…
+none
+i;0.0004)<br />{<br />if(i%2==1)<br />{<br />  s+=1/<br />while(1&#47#include&lt;<br />include main()<br />{<br />int i=1;i&gt;-0,s);%d&quot;<br />}<br />i++;;<br />} <br />printf(&quot;<br />}<br />else<br />{<br />s-=1/i,s=0.0004&&1/i&lt.h&gt;stdio
+3
+#include&lt;stdio.h&gt;<br />int main()<br />{<br /> int sign=1;   &#47;&#47;符号变量<br /> double deno=2.0,sum=1.0,term;  &#47;&#47;中间数和结果变量<br /> while (deno&lt;=100)    &#47;&#47;循环次数为100<br /> {<br />  sign=-sign;    &#47;&#47;判断加的时候的符号<br />  term=sign&#47;deno;  &#47;&#47;需要加的那一项<br />  sum=sum+term;   &#47;&#47;累加<br />  deno=deno+1;   &#47;&#47;下一次要加的数的分母加1<br /> }<br /> printf(&quot;%f&#92;n&quot;,sum);  &#47;&#47;输出结果<br /> return 0;<br />}
+http://zhidao.baidu.com/question/74226436.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431277443.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/262009004.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/303905801799460764.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/544934495.html?qbl=relate_question_4

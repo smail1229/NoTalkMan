@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 统计一个整数中数字的个数
+题目是输入一个正整数repeat (0&lt;repeat&lt;10)，做repeat次下列运算：<br />读入1 个整数，统计并输出该数中2的个数。<br />不知道那里出了问题，请大人帮忙看一下~~先谢了~！<br />#include &quot;stdio.h&quot;<br />int main( )<br />{<br />  int ri,repeat;<br />  int i,count, digit[10];<br />  long in;<br /><br />  count=0;<br />  for(i=0;i&lt;10;i++)<br /> digit[i]=0;<br /><br />  scanf(&quot;%d&quot;,&repeat);<br />  for(ri=1;ri&lt;=repeat;ri++){<br />  scanf(&quot;%ld&quot;, &in);<br />    if (in&lt;0)<br /> in=-(int)in;<br />    while(in&gt;0){<br />  digit[i]=in%10;<br />  in=in&#畅弗扳煌殖号帮铜爆扩47;10;<br />    }<br />    for(i=0;i&lt;10;i++){<br /> if(digit[i]==2)<br />  count++;<br />    }<br />  printf(&quot;count=%d&#92;n&quot;,count);<br />  count=0;<br />  }<br />}
+#include &lt;stdio.h&gt; <br />int main( ) <br />{ <br /> int ri,repeat; <br /> int i,count, digit[10]; <br /> long in; <br /><br /> 畅弗扳煌殖号帮铜爆扩count=0; <br /> for(i=0;i&lt;10;i++) <br /> digit[i]=0; <br /> <br /> do {<br />  printf (&quot;Input repeat:&#92;n&quot;);<br />  scanf(&quot;%d&quot;,&repeat); <br /> }<br /> while (repeat&lt;=0 || repeat&gt;=10);<br />for(ri=1;ri&lt;=repeat;ri++){<br /> printf (&quot;Input in:&#92;n&quot;);<br /> scanf(&quot;%ld&quot;, &in); <br /> if (in&lt;0) <br />  in=-(int)in; <br /> i = 0;    //初始化i<br /> while(in&gt;0){<br /> digit[i]=in%10; <br /> in=in/10; <br /> i++;<br /> } <br /> for(i=0;i&lt;10;i++){ <br />  if(digit[i]==2) <br />   count++; <br /> } <br /> printf(&quot;count=%d&#92;n&quot;,count); <br /> count=0; <br /> for(i=0;i&lt;10;i++)   //初始化数组digit<br />  digit[i]=0; <br /><br />}<br />}
+1
+none
+http://zhidao.baidu.com/question/54543747.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76517889.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/500571486.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95507665.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356323834.html?qbl=relate_question_4

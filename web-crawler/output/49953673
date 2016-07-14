@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序指针p[-1] 表示什么意思呀
+none
+8,5,7,3，p[0]就是num[2]。<br />要根据上下文判断才知道，p[-2]就是num[0],1呵呵：<br />int num[10] = {0;&#47。一般不见以这样用,9};<br />int *p = num+2，因为你访问了一个未知的地址;此时p代表的是num[2]的地址;&#47，不过从字面意思来说就是去p所代表的内存地址的前一块,2，会出现严重错误的，p[-1]就是num[1]。<br />比如,6,4，程序中出现这种用法说明这个程序员比较自我;<br />但是p[-3]就错了
+8
+none
+http://zhidao.baidu.com/question/254783541.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126512712.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/134391950.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95248395.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中单精度float与整型变量int有什么区别？
+none
+fail
+0
+float是单精度浮点数也就是有小数的时候用的定义，现在的计算机对小数的大小不太敏感了，建议能用double就用double,用double精确多了 <br />int是整型，仅限于整数。 <br />比如 <br />float f; <br />int i; <br />f=9&#47;5.0; <br />i=9&#47;5; <br />结果是f=1.8;i=1;
+http://zhidao.baidu.com/question/53222405.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/162435619.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/253664261.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/270304129.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/163051048.html?qbl=relate_question_4

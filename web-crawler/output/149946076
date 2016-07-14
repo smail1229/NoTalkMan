@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言程序哪里错误？为什么输出总是0？
+=n;,&n);,n;%d&quot;stdio;=n;,s);<br /> getch();y++)<br /> {for(x=1;x++)<br />  {scanf(&quot;<br /> float s=0;}<br /> printf(&quot,i.h&gt;<br /> for(y=1;x&lt;i=i++)<br /> s=s+a[i][i]+a[i][n+1-i];%d&quot;<br />#define N 11<br />main()<br />{int x;2];n&quot,y;<br /> if(n%2==1){s=s-a[(n+1)&#47,a[N][N];2][(n+1)&#47;<br />  }<br /> }<br /> for(i=1,&a[x][y]);<br /> scanf(&quot;y&lt;=n;i&lt;%d&#92#include&lt
+&a[x][y]),s);%f&quot;%d&quot;n&quot,s);;<br /><br />改为<br /><br />printf(&quot,&a[x][y]);%f&#92;n&quot;%d&#92;<br /><br />改为<br /><br />scanf(&quot;;<br /><br />printf(&quot;;scanf(&quot
+2
+none
+http://zhidao.baidu.com/question/243843379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390997281357256245.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/530174931.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1830168389638420900.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/169847646.html?qbl=relate_question_4

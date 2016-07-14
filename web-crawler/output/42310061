@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+书中说C语言程序由函数组成……（基本问题）
+按照“自顶向下”的原则：书中还说main（）是主函数书中说C语言程序由函数组成，但上文中又说“自顶向下”的原则，可以放在程序任何位置。请问这是什么意思，把问题层层分解。模块化程序设计的思想是，通常每个模块实现一个单一的功能，函数可称为模块，直到每个小任务都能用程序的基本结构表示为止……<br /><br />问题，没矛盾
+一般调用在main函数中执行。而“自顶向下”则是指解决问题算法和程序执行流程，先编个接受字符输入的函数，不管放在哪。打个比方吧，然后是一行数字，c编译器都找到它并第一个执行。调用时先调用第一个，你可以用函数实现，你想用c从键盘输入一行字符，再第二个，最后又是一行字符，再编一个数字输入的函数这是没有矛盾的，main是主函数
+3
+none
+http://zhidao.baidu.com/question/350775862.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258213060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57002552.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/490873077.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/6134624.html?qbl=relate_question_4

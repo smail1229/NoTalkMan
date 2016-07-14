@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中while(i--&gt;0);表示什么意思
+none
+以这样看<br />int i,k;<br />k=i--;<br />while(k&gt
+3
+<p>while(i--&gt;0)表示当 i 的值小于或等于0时，退出while循环。</p><p><br /></p><p>具体执行过程如下：</p><p>先将i的值与0比较，如果i大于0，则i的值减1，并执行while循环体中的语句，如果i小于0，则i的值减1，但是不执行while循环体中的语句。</p><p><br /></p><p>例子程序及解释如下：</p><pre t="code" l="cpp">int&nbsp;i=3;<br />while(i--&gt;0)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;a&quot;);<br />}</pre><p>对于上面的程序，输出三个字符a，最后 i 的值为0</p>
+http://zhidao.baidu.com/question/69084562.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/128667187.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/150926970.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/244046113.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/549146800.html?qbl=relate_question_4

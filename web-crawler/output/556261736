@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序出错，大家帮忙给看看。。
+<br /> for(i=9.h&gt;=0;; i--)<br /> {<br />  printf(&quot;<br />int main()<br />{<br /> unsigned i;n&quot,i)# include &lt;%u&#92; i&gt;stdio
+所以这个for会死循环;=0的，或者for判断改为i&gt;0unsigned无符号数总是满足i&gt。<br /><br />你把无符号数改为有符号数
+0
+none
+http://zhidao.baidu.com/question/245120645.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/467303615.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/123558993.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/227811957.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1987938751746448947.html?qbl=relate_question_4

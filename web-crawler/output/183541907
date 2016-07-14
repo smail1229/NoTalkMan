@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言switch...case语句的问题
+none
+fail
+0
+#include &lt;stdio.h&gt;    <br />void main(void)<br />{  <br /> int month;<br /> printf(&quot;Please input a month&#92;n&quot;);<br /> scanf(&quot;%d&quot;,&month);<br /> if(month&gt;12)<br /> printf(&quot;You input a wrong month!&#92;n &quot;);<br /> switch (month)<br /> {<br />  case 12:<br />  case 1:<br />  case 2:printf(&quot;Winter&quot;);break;<br />  <br />  case 3:<br />  case 4:<br />  case 5:printf(&quot;Spring&#92;n&quot;);break;<br /><br />  case 6:<br />  case 7:<br />  case 8:printf(&quot;Summer&#92;n&quot;);break;<br />  <br />  case 9:<br />  case 10:<br />  case 11:printf(&quot;Autumn&#92;n&quot;);break;<br />  <br /> }<br />}<br /><br />给我分吧，我需要分！！
+http://zhidao.baidu.com/question/169080260.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145342740.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/582859656.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/538825462.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/562134094.html?qbl=relate_question_4

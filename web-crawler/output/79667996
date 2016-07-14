@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 if(x=y+z)
+一个小程序：<br />#include&quot;stdio.h&quot;<br />main()<br />{<br /> int x=-10,y=10,z=0;<br /> if(x=y+z)<br />  printf(&quot;***供姬垛肯艹厩讹询番墨&#92;n&quot;);<br /> else<br />  printf(&quot;###&#92;n&quot;);<br />}<br />我不太明白 括号中为什么是x=y+z呀 怎么解释 我认为应该是x==y+z
+if(x=y+z) <br />先把y+z的结果给x，再判断此时x是不是等于0，如果是的，则不进行循环。<br />如果x不是0，就进入循环。<供姬垛肯艹厩讹询番墨br />附：if（a）判断语句，当a不为0时执行后面的语句。
+6
+none
+http://zhidao.baidu.com/question/155782986.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/242994412.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/421073944.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/19721410.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/135352859707972045.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 main() {int a[3][4]={1,3,5,7,9,11,13,15,17,19,21,23},(*p)[4]=a,i,j,k=0;
+main() {   int a[3][4]={1,3,5,7,9,11,13,15,17,19,21,23},(*p)[4]=a,i,j,k=0;  for(i=0;i&lt;3;i++)  for(j=0;j&lt;2;j++) k+=*(*(p+i)+j);   printf(&quot;%d&#92;n&q珐单粹竿诔放达虱惮僵uot;,k);} 程序输出结果   详细说明
+输出结果为60。<br />简单说p和a是一个东西。也就是说把p换成a结果也是一样的。<br />具体解释一下：<br />二维数组的结构是这样的：a[3]这个第二维数组记录的是第一维数组的开始地址。即，a[0]的值和（＆a[0][0]）的值是一样的。a[1]的值和（＆a[1][0]）的值是一样的等等。因为a值赋给了p的原因，地址又是按顺序存储的，所以p+i的值也就是各第一维数组的开始地址值。即a[i]和*（p+i）是一样的。因此*(p+i)+j就是a[i][j]的地址。因此*(*(p+i)+j)就是a[i][j]的值。也就是说，这个程序求的是各行前两列的数之和。<br /> 1  3  5  7<br /> 9 11 13 15<br />17 19 21 23<br />1+3+9+11+17+19=60<br />由于本人嘴笨，给你简单画一下存储结构，帮助你理解。括号里是程序中与p相关的值。<br /><br />   地址值                珐单粹竿诔放达虱惮僵    内容<br />  0000  (p+0)                1000  (*(p+0))<br />  0001  (p+1)                2000  (*(p+1))<br />  0002  (p+2)                3000  (*(p+2))<br /><br />  1000  (*(p+0)+0)            1    (*(*(p+0)+0))<br />  1001  (*(p+0)+1)            3    (*(*(p+0)+1))<br />  1002  (*(p+0)+2)            5    (*(*(p+0)+2))<br />  1003  (*(p+0)+3)            7    (*(*(p+0)+3))<br /><br />  2000                        9<br />  ... ...
+34
+none
+http://zhidao.baidu.com/question/551897879.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/340176024.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/113067314.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/314022335.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/268198192.html?qbl=relate_question_4

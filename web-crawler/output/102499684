@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中static char是啥意思？
+none
+fail
+8
+static就是静态的意思，char是字符数据类型。<br />在函数内定义变量时加上static，该变量称为静态局部变量或局部静态变量。
+http://zhidao.baidu.com/question/174342702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/161472769.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/30314381.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1446998397654579460.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134879064.html?qbl=relate_question_4

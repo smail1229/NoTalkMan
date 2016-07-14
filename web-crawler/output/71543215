@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言请高手帮我分析下，while（1）及for(x=a,i=0;i&lt;m;i++,x++)两个循环是怎么结束的，在线等
+*x=0;<br /> while(1)<br /> {<br /> printf&quot:%d&#92;(intput M;<br /> exit(0);n&quot这个程序的目的是;<br /> if(s==n)<br /> {<br /> s=0,i=0, m;m，凡是从圈里出去的人下次报数时不再计数;1)<br /> {<br /> printf&quot;<br /> }<br /> }<br /> printf(&quot,&n), s=0;<br /> }<br />}<br /> if (i==m-1)<br /> {<br /> x=a-1;m;<br /> i=-1,i=0，M和N由键盘输入;<br /> for(x=a。从第一个人开始报数，问最后留下的人是原来的第几号,x++)<br /> {<br /> s+=*x;<br /> }<br /> for(x=a,%d&quot,N=&quot, p=0,a[20].h&gt;, n;<br /> if(p==m)<br /> {p=i+1;NO;error&quot,&m。<br /><br />#include&lt;i++;1||m&gt;),*x;<br /><br /> if(m&lt;stdio; scanf(&quot;i&lt;i++)<br /> *x++=1;<br /> break;i&lt，报到N的人退出圈子;%d，报到N的人退出圈子;<br /> s=p=0;20||n&lt;;p++;<br />main()<br />{<br /> int i，下一个人再从1开始报数，顺序排号;),p)：M个人围攻成一圈。如此下去
+1) <br />{ <br />printf&quot;error&quot。你看循环体内肯定有跳出的语句啊····<br />if(m&lt; <br />exit(0);}<br />这个问题对你输入的数据有要求的while(1)是个死循环;1||m&gt;20||n&lt;)
+1
+none
+http://zhidao.baidu.com/question/55883970.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/267772946.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/75997029.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1690072832246694428.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/526432877.html?qbl=relate_question_4

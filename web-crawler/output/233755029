@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中scanf、getchar等输入函数接收空格、回车符的是？
+none
+scanf函数族在用%c接受输入时要接收空格和回车。%s时接受空格。<br />getchar函数族接受所有字符包括回车。
+14
+none
+http://zhidao.baidu.com/question/147733301.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/351768084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/318041857.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/155576579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/246413908.html?qbl=relate_question_4

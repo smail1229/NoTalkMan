@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言中的switch-case语句编写y=x(x&lt;1),y=2x-1(1&lt;=x&lt;10),y=3x-11(x&gt;=10)函数程序输入x的值，输出y的值。
+none
+<br />	scanf(&quot;<br />	else if(x&gt;<br />	}<br />	printf(&quot;=1&&x&lt;<br />	case 2;%f&quot;10) k=2;<br />	float y=0:y=x;break;break,&x);<br />	switch(k)<br />	{<br />	case 0：<br />        float x:y=3*x-11;1)k=0;<br />	else if(x&gt,y)因为switch (x)   中的x只能是整型（包括字符）或枚举型.0;请输入一个浮点数字;;<br />	case 1，而输入的x可能为小数;<br />	printf(&quot；<br />代码如下，所以要整形k转换一下;	<br />	if(x&lt:y=2*x-1;10)k=1;！&#92;);n&quot;<br />	int k；<br />因为只有3种情况所以用3个判断就行了;break;y=%f&quot
+3
+none
+http://zhidao.baidu.com/question/145342740.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169080260.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/183541907.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/11623830.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197105457.html?qbl=relate_question_4

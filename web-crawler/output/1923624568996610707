@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 char *s=“ABC” 那么s中保存的是&quot;ABC&quot;这个字符串的首地址吗
+如果是的话 那么char *s=“ABC” s[1]=&#39;D&#39; 为什么不对 <br />好像和只读区 非只读区 静态 有关系
+那样定义“ABC”在常量存储区，相对于常量，不是变量不能改
+1
+none
+http://zhidao.baidu.com/question/872262694662684332.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/218821384.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1731711862622855427.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/468743427.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1383119976007690100.html?qbl=relate_question_4

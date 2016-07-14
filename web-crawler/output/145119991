@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言函数return和void的用处和意义分别是什么？
+none
+以下不包括构造函数（但构造函数中可以写return;以结束其执行）<br />1，函数的返回值类穿缉扁垦壮旧憋驯铂沫型只要不是 void ，就要返回一个相同类型的值，当函数出现在一个表达式中时，这个值就是函数的值，比如说你的e=max(a,b);中，max若不返回一个值，那e的值就有问题，这样写函数应该会有错误或者警告<br />2，作为返回值类型的话，void必须加，如果是参数列表的话，目前可以什么都不写。<br />3，正如你所说，要不要返回值以及定义成什么类型完全看你的需要，如果你只是用函数来执行一系列操作，那么可以没有返回值（有时可以返回一个值用来表示执行是否成功等信息），如果你用函数来计算一个结果，就可以用返回值来解决，如果结果类型无法或不宜直接返回（如数组等），可以返回指针。<br />当然你总是可以不使用返回值，而是使用一些(输出)参数来代替，这些参数可以是指针或者引用，用来把数据传出函数。<br />新的标准中，对于int main(){}，可以没有return语句，编译器会自动处理主函数的返回值。
+3
+return是C语言中的一个关键字，void是C语言中数据的一个类型。<br />return意为返回，void意为“无类型”或者“空类型“<br />return 用来被调函数返回到主调函数继续执行，返回时可附带一个返回值，由return后面的参数指定。 return通常是必要的，因为函数调用的时候计算结果通常是通过返回值带出的。 如果函数执行不需要返回计算结果，也经常需要返回一个状态码来表示函数执行的顺利与否（-1和0就是最常用的状态码），主调函数可以通过返回值判断被调函数的执行情况。<br />void 用途为：<br />1. 如果函数没有返回值，那么其返回值应声明为void类型，否则会被编译器作为返回整型值处理。<br />2.如果函数无参数,那么应声明其参数为void类型，否则编译器会报错。<br />3.如果函数的参数可以是任意类型指针，那么应声明其参数为void *。<br />如：memcpy函数原型为void * memcpy(void *dest, const void *src, size_tlen);
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/497544932.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/33529034.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/300717881.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/558556346.html?qbl=relate_question_4

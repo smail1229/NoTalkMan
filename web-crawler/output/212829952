@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言三个结束符有什么不同？ EOF ‘&#92;0’ &#39;&#92;n&#39;
+none
+n&#39。<br />‘&#92: 字符串的结束标志EOF :文件结束标志（end of file）<br />“&#92; ;0”
+4
+EOF（End of file）是C&#47;C++里面的宏定义，具体定义式是#define EOF -1，表示的是文件的结束标志，值等于-1，一般用在文件读取的函数里面，比如fscanf fgetc fgets等，一旦读取到文件最后就返回EOF标志并结束函数调用<br /><br />&#39;&#92;0&#39;是转义字符，值等于0，主要用在C风格字符串的末尾，表示字符串结束标志。通常用在和字符串相关的函数里面，如strcmp strcpy等会用到它<br /><br />&#39;&#92;n&#39;表示换行符，通常用作一些读取函数的读取结束标志，比如scanf,getchar(),gets()等，一旦遇到&#39;&#92;n&#39;就结束读取并返回
+http://zhidao.baidu.com/question/461985988.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/116981161.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/14071959.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/60145190.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/48130377.html?qbl=relate_question_4

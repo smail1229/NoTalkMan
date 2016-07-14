@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 void main 代表什么意思
+none
+2 则会发出警告://zhidao。虽然在一些编译器中在 C 和 C++ 中，请一定要用 int main 。 <br />来源。g++3，不接收任何参数也不返回任何信息的主函数原型为“void main(void)”，但并非所有编译器都支持 void main ，因为标准中从来没有定义过 void main 。而 gcc3.html" target="_blank">http：<a href="http.com/question/39961266。所以，所以很多人都误认为如果不需要程序返回任何信息时可以把 main 函数定义成 void main(void) ！main 函数的返回值应该定义为 int 类型，就根本通不过编译.baidu.com/question/39961266，C 和 C++ 标准中都是这样规定的。然而这是错误的.2 中如果 main 函数的返回值不是 int 类型，void main 可以通过编译（如 vc6）://zhidao.baidu。<br /><br />   可能正是因为这个，如果你想你的程序拥有很好的可移植性
+151
+none
+http://zhidao.baidu.com/question/146860495.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/509257506.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/39961266.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/75465245.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/24992453.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中这种&quot;if(a&gt;0);&quot;语句
+引号内的，关键是没见过后面那个分号
+if(a&gt;0); <br />表示只判断 无执行语句<br />跟下面这个一样<br />if(a&gt;0){}
+2
+none
+http://zhidao.baidu.com/question/123984842.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/102514008.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/84955984.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/64598888.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/536410304.html?qbl=relate_question_4

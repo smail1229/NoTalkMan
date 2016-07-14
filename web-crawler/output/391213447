@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，双循环求详解 最好能一步一步注释下
+<br /><br />               i+=11;<br />   while(i&ltmain()<br />{   int i=0;<br /><br />}<br /><br />              printf(&quot;20)<br />    {for(;;;;)<br />          if((i%10)==0)break;<br /><br />             else i--;<br /><br />               a+=i;%d&quot,a),a=0
+即如果i不是10的倍数;i=i+11<br />	a+=i，则i自减;如果i余10为0;否则i自减，i不变，a=11+21=32<br />i=21不满足循环1条件，在i&lt，i=10+11=21：32<br />函数注释;                   &#47：<br />void main()<br />{   <br />	int i=0,a=0;%d&quot;整数形式输出a<br />}  <br />分析，i自减<br />	 &#47，i&lt;    /循环2为以上3行;a=a+i<br />	}<br />	printf(&quot，a为0<br />        while(i&lt;///)        /定义i为0;20时循环<br />        {for(;20)     /          /循环2<br />	if((i%10)==0)break：<br />初值i=0，a=0，功能是判断i是否是10的倍数;/循环1;                         &#47，且i不是10的倍数;;/&#47，a=11<br />i=11满足循环1条件;      ///&#47，即i是10的倍数时结束循环2;20满足循环1条件,即i不变<br />	else i--，是i的值不变，不是则i自减<br />	i+=11，循环后i=11;                    /,a)，且是10的倍数，循环结束输出结果
+1
+none
+http://zhidao.baidu.com/question/455150672.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488406745472561372.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/517409064.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/361204714.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/368083714.html?qbl=relate_question_4

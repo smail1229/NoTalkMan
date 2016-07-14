@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，关于求数组长度的问题！
+%d&#92;&#47,2,9; &#47;请大家帮我详细解答一下;相同的操作,4;<br />printf(&quot;               &#47;&#47,3int Length(int *arr){<br />  int len=sizeof(arr)&#47，错误<br />}<br />&#47;输出为1,10};;&#47;&#47;sizeof(int);n&quot,sizeof(a)&#47;<br />  return len;%d&#92,7;n&quot,8，为什么会有不同的结果，谢谢;？<br />&#47;sizeof(int));输出为10,Length(a))，正确<br />printf(&quot;<br />}<br /><br />main(){<br />int a[10]={1,5,6
+<br />一、如果参数是指针变量（无论什么类型的指针）其结果都是4<br />二，即，则会返回这个类型所占空间的大小;<br />三。sizeof(char)=1 sizeof(int)=4 sizeof(double)=8 具体一个变量类型所占的空间大小与机器类型有关系:int a[n]  、如果参数是是数组、如果参数是个变量类型sizeof命令中，而64位机long占8字节; sizeof(a)=n*sizeof(int) ，如32位机long占4字节，会返回数组所占空间的大小
+17
+none
+http://zhidao.baidu.com/question/141356210.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/176377248.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/94546322.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/17621680.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/152822398.html?qbl=relate_question_4

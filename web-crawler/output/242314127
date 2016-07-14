@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+y+=y-在C语言中是什么意思
+none
+表示自减1.<br />y += y;/&#47：y = 5+4 = 9 ;<br />则首先执行y--：<br />y += y--等价于 结果y值 = 更新后的y值+执行y--时的y值;相当于，：y = y+y，--的运算符优先级要高于+=的；/然后在执行y+=y这条语句时，此时y仍然为5，y的值就为4了，所以你这个问题可以这么理解，即你可以看下C语言中运算符的优先级，若y=5，但是得这条语句运行完后才自减1，一般来说：<br />y--，此时有;<br />比如说; &#47
+6
+none
+http://zhidao.baidu.com/question/220179900.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/623906158887512084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/223464542.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/252334806.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/390596873655035525.html?qbl=relate_question_4

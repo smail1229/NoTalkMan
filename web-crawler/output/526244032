@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+拜托各位了,几个C语言的小问题,哈哈 1,已有定义语句&quot;int a=5; &quot;,则表达式a++的只为? 为什么
+当执行&quot;;&#39;y=(int)(x&#47，已有定义 char c=&#39;2;int a=1,为什么,若有语句&quot,之后y的值为; &quot;  后 b 的值为多少! c&&a,b,执行  b=; (此处的初值为空格字符)?为什么<br />3;int y;;5)%2&quot;double x=17
+ <br />a++等同于 a=a+1;等同于 a=b: ++在前面(如++b)就先加;<br />然后b=1<br />a=5;等同于 b++;5=3.xx=3   3%2=1<br />(int)取整  就是去掉小数点后面的东东  %取余<br /><br />3<br />&&的运算级别高于.xx     (int)3;a++;a=b;<br />记住一条就是了;<br />那么a=6<br />a=b++;b++!  所以先执行c&&a=1,在后面就赋值后再加  <br />这牵涉到左值右值的问题  不是三言两句说的清楚的  你可以去百度查<br /><br />2<br />等于1<br />17/<br />a=++b
+0
+none
+http://zhidao.baidu.com/question/408770636.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/222179056.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/319371094.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/263102062.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2009705779799625868.html?qbl=relate_question_4

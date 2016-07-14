@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，求大神解决，谢谢拉。。我是小白，解释下原因
+<br />void main()<br />{ <br />    int a;n&quot;<br />    b=1;%d&#92;d=20;<br />    printf(&quot;stdio,x,c.h&gt;<br />        else x=25,b;!b)<br />        if(;<br />    else if(;<br />    if(a) d=d-10;<br />}<br />（A）20  （B）25    （C）15     （D）10<br />答案,d;<br />    a=c=0下面程序运行结果是        ：A<br />最后一个else不是对应以上所有吗,d)!c)x=15。<br />#include &lt，为什么不是25
+b){<br />    if(加上括号你就明白了：<br />if(a){<br />    d=d-10;<br />    }else{<br />        x=25!c){<br />        x=15;<br />}else if(，这段连续if-else等同如下代码，按照else与最近的if配合这个规则;<br />    }<br />}<br /><br />所以答案是A
+1
+none
+http://zhidao.baidu.com/question/545064242.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533388192.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/531316502.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533943050.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_4

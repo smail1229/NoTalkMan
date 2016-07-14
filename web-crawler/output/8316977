@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教一个C语言的填空题，麻烦解释一下，谢谢！！执行语句for(j=1;j++&lt;4; );后变量j的值是______。
+none
+执行一次它就自加1。<br />执行完第一次是2<br />执行完第二次是3<br />执行完第三次是4<br />执行完第四次是5
+2
+none
+http://zhidao.baidu.com/question/8299334.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/171637095.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/220677149.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123456371.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/420015212.html?qbl=relate_question_4

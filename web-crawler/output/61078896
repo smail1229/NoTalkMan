@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言scanf函数
+执行下列程序时输入：123&lt;空格&g供花垛拘艹饺讹邪番矛t;456&lt;空格&gt;789&lt;回车&gt;，输出结果是（）。<br />main()<br />{char s[100];<br />int c,i;<br />scanf(&quot;%c&quot;,&c);scanf(&quot;%d&quot;,&i);scanf(&quot;%s&quot;,s);printf(&quot;%c,%d,%s&#92;n&quot;,c,i,s);}<br />A 123,456,789<br />B 1,456,789<br />C 1,23,456,789<br />D 1,23,456<br />请问这个题目应该怎么去理解，小弟实在看不懂，改选哪个，
+这个答案应该选d。<br /><br />scanf(&quot;%c&quot;,&c); 从输入流中得到一个字符，也就是1。printf输出1<br />scanf(&quot;%d&quot;,&i); 从输入流中得到一个整数，输入流中的内容是<br />                123&lt;空格&gt;456&lt;空格&gt;789&lt;回车&gt;。刚才已经取走了1。<br />  供花垛拘艹饺讹邪番矛              因为scanf遇到空白字符就结束了。所以取23<br />scanf(&quot;%s&quot;,s);  同上，遇到空白结束。所以取得字符串456<br /><br />我答了这么多 怎么得也该给点分吧
+4
+none
+http://zhidao.baidu.com/question/540228938.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258997922.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/623631989169281364.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/79430828.html?qbl=relate_question_3

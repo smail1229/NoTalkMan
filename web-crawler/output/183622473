@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中if(a=5)对于这种表达是什么意思啊？？
+是不是错误的啊？？应该是if(a==5)呢
+再执行一个if语句;<br />int main()<br />{<br />        int a = 1 ，那么应该是这样理解:printf(&quot;stdio，这样的写法真是不好，我就说它是错误的这个代码没有上下文不好说的太绝对;);<br />        int b = 2 ;<br />        if(a=2)<br />        {<br />                b==a，如果是我;<br />        }<br />        return 0 ;a=2&quot.h&gt;)。#include&lt:set nonu                                                     1。<br />你可以运行一下下面的代码就想清楚了。<br />先赋值?printf(&quot;<br />}<br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />~                                                                               <br />，不过;a=1&quot，不过如果这是你看到的能正确运行结果的代码
+3
+none
+http://zhidao.baidu.com/question/190495854.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241947575.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/226898137.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/255704013.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/404755689.html?qbl=relate_question_4

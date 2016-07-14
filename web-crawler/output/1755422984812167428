@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于数据类型转换
+none
+double 对应lf le等,   float对应%f %e，则结果远不是你想象的，如果不匹配在输入输出时，类型一定要相匹配，long对应%ld
+0
+none
+http://zhidao.baidu.com/question/145709818.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/463523962.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/34062597.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/189511147.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1365876725393664539.html?qbl=relate_question_4

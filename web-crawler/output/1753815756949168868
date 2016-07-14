@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言里x+=x++应如何理解，和x+=++x有什么不同？
+none
+<br />若x=2;x=x+x;;;x=x+1;。<br />x+=++x等价于x=x+1，则前者结果是x=5，后者结果是x=6x+=x++等价于x=x+x
+3
+none
+http://zhidao.baidu.com/question/2009885231624348188.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/525169209.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/407254994.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/333335284.html?qbl=relate_question_3

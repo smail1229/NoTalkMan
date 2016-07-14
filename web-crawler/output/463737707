@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+以下合法的C语言赋值语句是？ A.a＝b＝58 B.k＝int（a+b） C.a＝58，b＝58
+k＝int（a+b） C.--i？<br />A.a＝b＝58  B；3<br />正确答案为D 请问其他的哪里错了.a＝58，b＝58 D以下合法的C语言赋值语句是
+<br />k=(int)(a+b)、D是合法的赋值语句<br />B是错误的，应该是这样，因为类型转换不是这么写、CA
+1
+none
+http://zhidao.baidu.com/question/428579662.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/527663715.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/34104060.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1510230321416059060.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/711218875155236885.html?qbl=relate_question_4

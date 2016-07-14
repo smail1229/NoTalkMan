@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+1000以内的哥德巴赫猜想C语言程序如何编写？
+none
+ <br />void main() <br />{ <br />int i;i.h&gt; <br />for(j=2,k=1;/j++)/*n是素数继续判断i-n是否素数*/<br />break,j; <br />#include&lt; <br /><br />} <br />if(k) &#47,m=1;<br />if (l%5==0)<br />printf (&quot,i;=(int)sqrt(n);=1000;stdio,l=0;j&lt;&#92;n&quot; <br /><br />} <br />if(m) <br />{ <br />printf(&quot，i不遵循哥德巴赫猜想*/ <br />for(i=4,k,n;i+=2) <br />{ <br />for(n=2.h&gt,i-n); <br />}<br />} <br />if(n==i) printf(&quot;,n;;*判断n是否素数*/*判断i-n是否素数*/ <br />{ <br />if(n%j==0) k=0;=(int)sqrt(i-n),m;j++)/n++) <br />{ <br />for(j=2;i&lt;<br />l++;n&lt;error %d&#92;n&quot;j&lt;)#include&lt;math,i);%d=%d+%d  &quot; <br />{ <br />if((i-n)%j==0) m=0;*n等于i
+29
+<p>#include&lt;stdio.h&gt;</p><p>#include&lt;math.h&gt;</p><p>int isprime(int n)</p><p>{int i;</p><p>for(i=2;i&lt;=sqrt(n);i++)</p><p>&nbsp; if(n%i==0)return 0;</p><p>return 1;</p><p>}</p><p>int main()</p><p>{</p><p>int i,j,s=0;</p><p>for(i=6;i&lt;=1000;i+=2)</p><p>for(j=3;j&lt;=i/2;j+=2)</p><p>if(isprime(j)&amp;&amp;isprime(i-j))</p><p>{printf(&quot;%d+%d=%d\n&quot;,j,i-j,i);</p><p>&nbsp;s++;</p><p>&nbsp;break;</p><p>}</p><p>printf(&quot;From 6 to 1000,succes:%d\n&quot;,s);</p><p>getch();</p><p>return 0;</p><p>}</p><p><a href="http://b.hiphotos.baidu.com/zhidao/pic/item/c75c10385343fbf23ba84019b77eca8065388f00.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://b.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=809a0e5e514e9258a6618ee8acb2fd60/c75c10385343fbf23ba84019b77eca8065388f00.jpg" esrc="http://b.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=3a674f88d658ccbf1be9bd3e2ce89008/c75c10385343fbf23ba84019b77eca8065388f00.jpg" /></a></p>
+http://zhidao.baidu.com/question/140507409.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/404273702.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/74426251.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136207855965825485.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98078484.html?qbl=relate_question_4

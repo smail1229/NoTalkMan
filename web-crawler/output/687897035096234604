@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求讲解return 0;return 1;的意思、
+none
+or (i=2;，也就不是素数不打印，不是返回0<br />    return 1;/ i++)if (func(i))printf(&quot;&#47，如果返回1; i++)if (n%i==0) return 0;n/ i&lt;判断是不是素数;&#47，返回1<br /><br />    for (i=200;t&quot;/如果返回0;2;=300;/%d&#92;&#47,i);如果是素数; i&lt
+0
+<p>C语言（main）主函数return&nbsp;0;表示程序正常结束，非0表示异常退出。</p><p>如果不是主函数main，则只表示该函数的返回值为0或者1。</p><p>关于C语言主函数：</p><p>按照C99标准的规定，C语言的main函数为：</p><pre t="code" l="cpp">int&nbsp;main(<br />void){/*示例代码*/}//整数类型主函数(无参数)</pre><p>或者<br /></p><pre t="code" l="cpp">int&nbsp;main(intargc,<br />char*argv[]){/*示例代码*/}//整数类型主函数(整数类型统计参数个数,字符类型*<br />数组指针至字符[])</pre><p>C语言其他函数可参看百度百科：<a href="http://baike.baidu.com/link?url=J8ApUd6WIMpIC1SEa-6k2FPfAD6J9DFyMzzqsQD-74T4vUaXdeljhyanAWKSHPqYSURzVwODTa3kfE6A91Cj9K" target="_blank">http://baike.baidu.com/link?url=J8ApUd6WIMpIC1SEa-6k2FPfAD6J9DFyMzzqsQD-74T4vUaXdeljhyanAWKSHPqYSURzVwODTa3kfE6A91Cj9K</a></p>
+http://zhidao.baidu.com/question/223565538.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/514562023.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554682327.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148724561.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/13189048.html?qbl=relate_question_4

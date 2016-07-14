@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求助，C语言，函数里有两个return的问题，谢谢
+;<br />}<br />main()<br />{<br />  printf(&quot;<br />long fun(int n)<br />{<br />   if( n&gt;<br />}<br /><br />这是求3的阶层的程序;stdio;<br />   return 1 ，但是为什么return(  n*fun( n-1 )  )是将数值返回至主函数的fun(3);1 )<br />     return(  n*fun( n-1 )  );n&quot.h&gt，在函数fun里有两个return#include&lt,fun(3) );%ld&#92
+这一句;1。<br /><br />在主函数传递进来的参数是3，2还是大于1首先，合起来便是 3 * 2 * fun(1)，当n&gt; 1。而一个函数当返回后，3 &gt，即不执行return(n * fun(n-1));1时。<br /><br />而当n == 1时;这一句;这一句，即退出这个函数，即return 1，递归时返回 2 * fun(1)，所以不会再执行return 1，所以会返回 3 * fun(2)，会执行return(n * fun(n-1))，那么函数会继续执行下面的代码，不满足n&gt
+10
+none
+http://zhidao.baidu.com/question/126774104.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/34967162.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/33529034.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/102471008.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/131803271.html?qbl=relate_question_4

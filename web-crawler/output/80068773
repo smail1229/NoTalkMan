@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 编写头文件
+自己定义头文件时只能在里面写函数的声明，那么函数的定义应当写在哪里呢;<br />#endif<br />像上面这样写可以么，<br />#ifndef   __SUM_H__<br />#define   __SUM_H__<br />int sum(int ？我想最好是不写在主函数的后面，另定义一个C文件, int)，但应当如何实现？还有能不能给一个头文件例子请问下
+主要看用途这样的头文件是对的。<br /><br />其实函数定义可以写在头文件的。<br /><br />C文件和头文件没有什么区别的
+2
+none
+http://zhidao.baidu.com/question/444232765.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/413661236.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/511419841.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/451147916.html?qbl=relate_question_3

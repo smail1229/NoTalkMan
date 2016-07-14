@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+fopen函数的问题 C语言程序设计
+FILE* log;<br /> char logname[]={&quot;note.log&quot;};<br />log=fopen(logname,&quot;a&quot;)<br />&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;<br />我想问的是  这三句话的含义是新建一个文件指针 然后文件指针指向note.l憨埂封忌莩涣凤惟脯隶og这个文件?为什么fopen后面接一个字符数组就代表这个文件了，新建了名字是这个字符数组的文件吗？<br />请尽量解释一下过程
+char logname[]={&quot;note.log&quot;};//由于C里没有字符串，所以写成这种形式表示字符串，作为路径，当然包含文件名<br />log=fopen(logname,&quot;a&quot;);     //这句两个参数，前者就是字符串类型的路径。后者是特定字符或字符串的权限，你想想，读写文件是需要权憨埂封忌莩涣凤惟脯隶限的，操作后存放在文件指针里
+0
+none
+http://zhidao.baidu.com/question/439508344.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/222390538.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/90780189.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/42648385.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/434964503.html?qbl=relate_question_4

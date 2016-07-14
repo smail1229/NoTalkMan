@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求高手帮我写下C语言：要求是1~10的乘和就是1!+2!+3!.......+10! 要求用for语句写。谢啦
+none
+stdio;<br />	for(i=1;10,temp=1,k;k&lt;k++){<br />			temp*=k,sum).h&gt#include&lt;*这是一个简单的c程序*/<br />		temp=1;;i++){<br />		for(k=1;<br />		}<br />		sum+=temp,sum=0;<br />{<br />	int i;%d&quot;i&lt;=i;<br />	}<br />	printf(&quot;<br />int main(void)        &#47
+0
+none
+http://zhidao.baidu.com/question/261931633532483565.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/114117433.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89536885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/410472984.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/199848764.html?qbl=relate_question_4

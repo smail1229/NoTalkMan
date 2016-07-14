@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求看C语言程序，感谢大神！
+t=16;<br /> d=0.0;<br />m=5000;<br /> for(d=0;e&gt;2&&100*d&lt;m;d=d+0.5)<br /> {<br />    e=t-d;<br />     printf(&quot;界供胆垛感艹啡讹拾番浆面坐标为%.2f&#92;n&quot;,5.3*d);<br />     }<br />        printf(&quot;时间为%.2f&#92;n&quot;,d);<br />        printf(&quot;输送体积为%.2f&#92;n&quot;,100*d);<br />        m=m-100*d;<br />  printf(&quot;需求量为%.2f&#92;n&#92;n&quot;,m);<br />}<br />为什么d能够正确输出，而m不能输出来呀！！求教大神！
+你m定义的是int类型吗，如果是，那你输出要用%d，而不是%f
+0
+none
+http://zhidao.baidu.com/question/615917786913288412.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/544461650.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/807953957894890092.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/743957698113687932.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2073822424838279628.html?qbl=relate_question_4

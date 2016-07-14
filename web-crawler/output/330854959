@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中scanf怎样插入换行符？是scanf(&quot;%d&#92;n&quot;,&l)么？？为什么在运行时还是要手动换行啊？？
+如题。谢谢。
+呵;;%d&quot。<br />scanf(&quot，命令行里面也就换行了，当你按回车键之后它就结束输入？scanf是用来输入的，你混淆了printf()和scanf()了吧,&l)就行了
+13
+none
+http://zhidao.baidu.com/question/551313030.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1830856599021783140.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/588540754.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/360397337870979452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1367218487231437059.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中a+=-6是什么意思
+none
+个的学名叫 复合赋值运算符<br />a+=-6<br />相当于<br />a=a+(-6)。<br />再比如<br />a*=-6<br />就相当于a=a*(-6);<br />等号右边的值当成一个整体<br />类似的还有*=,等等一系列的操作,-=,|=，转换方式都是一样的
+6
+none
+http://zhidao.baidu.com/question/531960688.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/215488986.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/255509480.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1432145024542259259.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序题，求运行结果，同时分析下
+none
+程序运行到n对3取余是否为1时满足if的判断条件，进行下一次循环，会打印出 m =2， n = 2，继续向下执行;所以第一次循环会打印出 m = 1,n=0，此时m的值变为1;=10条件不符号，程序结束本次循环，不符合n对3取余为1的条件,n = 10继续进行下一次循环，n = 7, n =4，n =7当执行完n=n+3之后继续执行后面的continue，继续向下执行;<br />当第三次进入循环的时候，由于n=10;<br />第二次进入循环跟第一次一样的顺序执行，n += 2 = n + 2 = 0 + 2 = 2，满足if(n&gt，此时m=4,n = 4;进去循环。<br />第四次进来时m = 3。继续执行到结束，故进入if后面的n = n+3 此时m=3，跟第三次循环一样，会执行continu结束本次循环，n的职位0，n&gt，所以程序会跳出while循环第一次进入循环之前m=0;=10) break的条件，执行了m++。<br />第五次进入循环，m = 2
+0
+none
+http://zhidao.baidu.com/question/751582049015261244.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1945822281765777748.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/61585982.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2051964787955068707.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/538981195.html?qbl=relate_question_4

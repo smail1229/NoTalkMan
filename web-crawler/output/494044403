@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在 c语言中int long unsigned 和 char这四种类型数据的转换规律是_____.
+谢谢了，请问是为什么？这种转换是啥玩意
+<br />比如。  就要先char转换为long型（因为long级别比char高）。  但是不能理解为，有两个数的数据类型分别为：先将char转换成int。<br /><br />希望对您有所帮助，再进行运算。<br /> <br />本题中：char型跟long型，在C中。如果类型不一致，数据之间的运算必须是同类型的才能进行运算，再转换成long,再转换成unsigned，就必须先转换成相同的类型----------由低级别 → 高<br />级别转换，数据类型级别由低到高分别为。转换时由低级别向高级别转换：char→int→unsigned→long首先
+31
+none
+http://zhidao.baidu.com/question/518198686.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89148360.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57709360.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/119517541.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/41366729.html?qbl=relate_question_4

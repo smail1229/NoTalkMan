@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，定义成void类型的函数中可以有带返回值的return语句吗？？ 谢谢
+none
+不行，因为VOID是空类型，就是返回值为空，也可以说没有返回值！用数组指针等是可以带有返回值的
+9
+none
+http://zhidao.baidu.com/question/371204400.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/497544932.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/300717881.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/36167691.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言宏定义中出现的##是什么意思 如define MAX(A,B) A##B
+none
+fail
+0
+预处理运算符# #为宏扩展提供了一种连接实际变元的手段。如果替换文本中的参数用 # #相<br />连，那么参数就被实际变元替换， # #与前后的空白符被删除，并对替换后的结果重新扫描。例<br />如，下面定义的宏p a s t e用于连接两个变元：<br />#define  paste( front, back )  front ## back<br />从而宏调用paste(name, 1)的结果是建立单词n a m e 1。
+http://zhidao.baidu.com/question/175466538823379524.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/516465703.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/59396415.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57220724.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/182234726.html?qbl=relate_question_4

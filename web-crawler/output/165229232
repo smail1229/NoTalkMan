@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言知识这个谁能帮我详细点解释
+该幂次由每个数字所在的位置决定。<br />每个数字都要乘以基数的幂次。<br /><br />数字的总个数等于基数什么意思啊，详细解释下数字的总个数等于基数，如十进制中最大的数字为9，十进制使用10个数字（0～9）<br />最大的数字比基数小1
+其中H代表使用十六进制表示），而所谓数字的总个数即是指你使用该进制数时所能够使用的数字的个数，那么你只有两个数字可用（即0和1），那么你只有十六个数字可用（即0到9，例如，此不用细述，若你使用二进制（即基数是2），在二进制下表示任何一个数都只能用0和1的组合来表示（比如24的二进制是11000），在十六进制下表示任何一个数都只能用这十六个数的组合来表示（比如24的二进制是18H；若你是用的是十六进制（即基数是16）；若你使用的是十进制（即基数是10），那么你只有十个数字可用（即0到9），加上ABCDEF总共十六个）；以此类推基数就是你所使用的进制数，即权值
+2
+none
+http://zhidao.baidu.com/question/1859816373595598467.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1795095067370345187.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147717478.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/681096328286236812.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/304025970577046004.html?qbl=relate_question_4

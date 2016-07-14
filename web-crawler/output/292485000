@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言字符串数组指针的问题
+a);abc2&quot;<br />	*(ab+1)=&quot以下代码？<br />void pr(char * a)<br />{<br />	printf(&quot:%s&#92;;inprintfs;abc1&quot;，为何main函数体中的char *ab[]在visual studio中不能申明, char * argv[])                <br />{                          <br />	char *ab[]，说是unknown size？为何char* argv[]就行。难道一定要设定字符串数组的边界么;<br />}<br />void main(int argc;<br />	pr(ab[2]);n&quot;;<br />	ab[2]=&quot
+har* argv[]是在参数里，为了让编译器知道需要多大的内存，编译器不知道也不用知道数组有多长<br />但在函数内部，这个100也无法被函数所得知。或者说就算你写char argv[100]。在参数里你想指定长度都不行：<br />在函数参数中的char *argv[]之类是从外界将已经定义好（已经开辟内存）的变量的首地址传入，char *argv[100]之类写法是在定义变量，实际上就是个char **argv。<br />简单说来就是
+2
+none
+http://zhidao.baidu.com/question/31871389.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51279621.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/248727040.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/248627500.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1860207165636026267.html?qbl=relate_question_4

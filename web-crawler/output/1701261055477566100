@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言无符号，有符号变量输出问题
+none
+要以有符号的格式%d输出一个无符号的数ic。<br />%x按4个字节打印十六进制（有符号），int是按4个字节的存储的，无符号数是和正数的符号位一样，所以得到224：要按4个字节的%x格式打印一个字节的char型，所以输出了这么多。<br /><br />首先要明白char是按一个字节存储的。<br /><br />第一个打印。<br />%d输出的第二个：要以有符号而且是4字节的格式%d输出一个无符号而且是一个字节的char型挺有意思的题目，%d按4个字节打印十进制（有符号），所以会输出负数。<br />%d输出的第三个。逐条解释吧
+4
+none
+http://zhidao.baidu.com/question/453477882.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/107977916.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/519353801.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/167588827.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265566723260018468.html?qbl=relate_question_4

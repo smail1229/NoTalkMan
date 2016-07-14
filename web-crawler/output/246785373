@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 如何定义一个二维指针数组？
+none
+{3; <br />int* p[2][2],4}}.<br />int (*p)[2][2]int array[2][2]={{1;here;&#47.,2};&#47.
+3
+<p>定义二维指针数组与定义一维指针数组差不多，只是矩阵的维度增加了一维而已。</p><p><br /></p><p>下面通过具体的实例来说明如何定义一个二维数组</p><pre t="code" l="cpp">int&nbsp;*p[2][3];&nbsp;&nbsp;//&nbsp;定义一个二维数组，只是定义，并没有分配地址空间<br />int&nbsp;i,j;&nbsp;&nbsp;//&nbsp;数组的行数和列数<br />//&nbsp;下面的2个for循环是用来对二维指针数组进行初始化的，也即分配地址。如果不进行初始化操作，就会使指针变为野指针（即指向不明）。<br />for(i=0;&nbsp;i&lt;2;&nbsp;i++)<br />&nbsp;&nbsp;&nbsp;&nbsp;for(j=0;&nbsp;j&lt;3;&nbsp;j++)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p[i][j]&nbsp;=&nbsp;(int&nbsp;*)malloc(sizeof(int));<br />*p[0][1]&nbsp;=&nbsp;2;&nbsp;//&nbsp;对指针数组中指针所指向的内存单元进行赋值操作<br />printf(&quot;%d\n&quot;,&nbsp;*p[0][1]);&nbsp;&nbsp;//&nbsp;输出结果</pre>
+http://zhidao.baidu.com/question/194640483.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/537356136.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49483808.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/395358598.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/359213632.html?qbl=relate_question_4

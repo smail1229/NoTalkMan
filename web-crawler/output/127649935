@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言:写一个函数,求一个字符串的长度.在main函数中输入字符串并输出其长度
+none
+num)，可以运行;应该是个整数<br />}<br />程序已经修改了;<br /> return(n-1);传递一个指针而不是*s<br /> printf(&quot;<br /> num=longs(s);i++)/<br />}<br /><br />void main()<br />{<br /> char *s;&#47,n=0;stdio;<br />int longs(char *s)<br />{<br /> int i=0;&#47!=&#39;<br /> s=c;/<br /> gets(c);;<br /> char c[100];/%d&quot.h&gt;/*(s+i);0&#39;&#92;<br /> int num;0不知道你注意没<br />  n++;应该是&#92;;<br /> for(i=0#include&lt
+98
+<p>1.循环读取，直到为 &#39;\0&#39; 时，则是字符串结尾。</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br /><br />//&nbsp;计算字符串str长度，并返回<br />int&nbsp;lenstr(const&nbsp;char*&nbsp;str)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;i&nbsp;=&nbsp;-1;<br />&nbsp;&nbsp;&nbsp;&nbsp;while&nbsp;(str[++i]);&nbsp;//&nbsp;while循环在&nbsp;str[++i]&nbsp;为&nbsp;&#39;\0&#39;&nbsp;时结束<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;i;<br />}<br /><br />int&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;char&nbsp;p[1000];<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;input&nbsp;a&nbsp;string:&quot;);<br />&nbsp;&nbsp;&nbsp;&nbsp;gets(p);<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;string&nbsp;len:&nbsp;%d\n&quot;,&nbsp;lenstr(p));<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre><p><a href="http://h.hiphotos.baidu.com/zhidao/pic/item/29381f30e924b89996dd9b7d68061d950b7bf696.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://h.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=eae561753cf33a879e38081cf66c3c00/29381f30e924b89996dd9b7d68061d950b7bf696.jpg" esrc="http://h.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=0af61129163853438c9a8f25a6239c48/29381f30e924b89996dd9b7d68061d950b7bf696.jpg" /></a></p>
+http://zhidao.baidu.com/question/512948400.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/124254484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/425410643.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/355157248.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/232666310.html?qbl=relate_question_4

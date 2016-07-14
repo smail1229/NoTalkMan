@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中max比较三者怎么定义
+none
+fail
+0
+<pre t="code" l="cpp">&nbsp;#include&nbsp;&lt;stdio.h&gt;<br />int&nbsp;max(int,int,int);//声明，放在前面<br />int&nbsp;main()<br />{<br />&nbsp;int&nbsp;a,b,c;<br />&nbsp;/*<br />&nbsp;int&nbsp;max(int&nbsp;a,int&nbsp;b,int&nbsp;c);<br />&nbsp;{<br />&nbsp;&nbsp;return&nbsp;(a&gt;((b&gt;c)?b:c)?a:(b&gt;c:b:c));&nbsp;<br />&nbsp;}<br />&nbsp;*/<br />&nbsp;//这里是什么东西。。。。？？？？？<br />&nbsp;scanf(&quot;%d%d%d&quot;,&amp;a,&amp;b,&amp;c);<br />&nbsp;printf(&quot;最大值是:%d&quot;,max(a,b,c));<br />&nbsp;return&nbsp;0;<br />}<br />int&nbsp;max(int&nbsp;a,&nbsp;int&nbsp;b,&nbsp;int&nbsp;c)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;max;<br /><br />&nbsp;&nbsp;&nbsp;&nbsp;//return&nbsp;(a&gt;((b&gt;c)?b:c)?a:(b&gt;c:b:c));&nbsp;/*这里太长，不易读懂分开来写就好*/<br />&nbsp;&nbsp;&nbsp;&nbsp;max&nbsp;=&nbsp;a&nbsp;&gt;&nbsp;b&nbsp;?&nbsp;a:b;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;(max&nbsp;&gt;&nbsp;c&nbsp;?&nbsp;max:c);<br />}</pre>
+http://zhidao.baidu.com/question/272292980.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/11004832.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57220724.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116758990.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/220681239.html?qbl=relate_question_4

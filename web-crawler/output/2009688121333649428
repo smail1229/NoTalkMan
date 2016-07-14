@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 宏定义
+<br />请详细点,y) 的引用 f(&quot;%d&#92;n&quot；转换展开后为;,m)宏定义语句 #define f(x,y) printf(x
+y)就它换成printf(x；了<br /><br />明白了嘛、宏替换,y)意思就是说<br />当代码中遇到f(x;n&quot,m)，&quot，这是我们数学中的π=3;%d&#92;%d&#92;;%d&#92.14;，简称“宏”;宏&quot：#define PI 3，m相当于上面的y。<br />所以 f(&quot,m)。<br />掌握&quot;n&quot;概念的关键是“换”；就被替换为printf(&quot,m);n&quot，一切以换为前提,y)<br />当引用 f(&quot.14<br /><br />所以宏定义#define f(x。<br />举个例子.14<br />就是把程序中出现的PI全部换成3;,y) printf(x;相当于上面的x；的时候;%d&#92;n&quot宏定义又称为宏代换
+0
+none
+http://zhidao.baidu.com/question/121414009.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/65095819.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/128321986.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/428502352.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51096153.html?qbl=relate_question_4

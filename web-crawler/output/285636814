@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+C语言程序设计的题目： 已知int i=10;表达式“20-0&lt;=i&lt;=9&quot;的值是___ A.0 B.1 C.19 D.20 麻烦写下解题步骤
+none
+所以整个表达式的值为1<br /><br />第二题<br />D<br />原题等效于<br />if(a；<br />else if(b==0)<br />        {<br />              if(c==0) d=15;=i )&lt,0&lt;=i的值为0;=9的值为1;=9 )<br />&lt;=的结合性应该是自左向右的<br />20&lt；<br />         }<br /><br />实际上都没执行到!=0)d=d-10；<br />              else d=25第一题<br />B<br />原题等效于( ( (20-0 )&lt
+8
+none
+http://zhidao.baidu.com/question/529804996.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/282372683.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/353017319.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/286513211.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/432627566.html?qbl=relate_question_4

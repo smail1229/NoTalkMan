@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言:char a【2】【3】 printf（&#39;&#39;%x&#92;n&#39;&#39;,a【0】）怎么输出了那个
+n&#39;&#39c语言;,a【0】）怎么输出了那个数的地址啊;%x&#92;&#39:char a【2】【3】     printf（&#39
+char a[2][3]是一个二维数组，a[0]代表的是二维数组的第一个元素（是个一维数组）的首地址，肯定是地址。
+0
+none
+http://zhidao.baidu.com/question/342729993.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1702096266029762260.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/56039417.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/356191241.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/257643145.html?qbl=relate_question_4

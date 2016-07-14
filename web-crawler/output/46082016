@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有一道C语言题，请大家帮忙解释一下float x=123.456 printf(&quot;%-5.2f&#92;n&quot;,x)的输出结果是什么？
+none
+你采用的这样的输出取精度的方法，当然会出现四舍五入的！
+3
+none
+http://zhidao.baidu.com/question/452637784.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1510232254246041780.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/397290013.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97686274.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/257074389.html?qbl=relate_question_4

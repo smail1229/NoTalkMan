@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 return函数 都可以返回什么东东？
+none
+用来跳出循环可以返回一个数值（比如int,float，可以无返回，可以是一个函数（在迭代方法里较常用）,char等）
+3
+none
+http://zhidao.baidu.com/question/126774104.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169512984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424527415.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/102471008.html?qbl=relate_question_3

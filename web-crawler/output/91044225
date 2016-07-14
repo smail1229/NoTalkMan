@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言入门学习中的一个小问题
+1000）.169000.5)&#47.5)&#47;1000）；<br />}<br />运行结果是5;<br />printf(%f)，运行结果则是奇奇怪怪的-0，也就是输出语句为printf(%f),<br />而如果将输出语句中的x=去掉；后,x=(int)(x*1000+0为什么<br />main()<br />{double x=5,x=(int)(x*1000+0.000000.16894
+%f&quot，然后<br />printf(%f.169000；最终相当于。<br />printf(%f).5)&#47首先明确,5，x）.169000），printf函数一个右结合性的函数;1000<br />printf（&quot;1000）： x=(int)(x*1000+0.;.5)&#47；<br />去掉x=之后相当于先计算它(int)(x*1000+0;1000得到5；<br />你说错不错,x=(int)(x*1000+0.5)&#47
+1
+none
+http://zhidao.baidu.com/question/49005828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127214900.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/293224403.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90250336.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/181793833.html?qbl=relate_question_4

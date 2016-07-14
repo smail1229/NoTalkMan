@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针交换两个数……求教！
+a2=100,*b2); to `void I(int*;未命名5:19,*b1,*b2.h&gt;<br />b2=&a2？<br />[Error] d;<br />I(&b1;<br />}<br />main()<br />{<br />int a1=20; for argument `1&#39,int *n2p)<br />{<br />int a;,*b1;My Documents&#92;; to `int*&#39;<br />*n1p=*n2p;<br /><br />应该怎样改;<br />printf(&quot: error;<br />}<br /><br />为什么报错;%d %d&quot,*b1.cpp;Temp&#92,*b2);<br />*n2p=a;C-Free&#92, int*)&#39,&b2)#include&lt;<br />b1=&a1;<br />printf(&quot: cannot convert `int**&#39;stdio;%d %d&quot;<br />a=*n1p;<br />void I(int *n1p:&#92
+<br /><br />b1  和 b2  已经是指针地址了 用不着在取地址了，直接<br />I(b1I(&b1,&b2),b2)
+1
+none
+http://zhidao.baidu.com/question/512604110.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/26923953.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/284883165.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/115860884.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/530864350.html?qbl=relate_question_4

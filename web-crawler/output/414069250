@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 a&lt;b?c:++c&gt;d?b:d怎么理解？若声明int a=15,b=20,c=25,d=30,则表达式值为多少？
+none
+<br />else<br />    x = ++c&gt:是3目运算符，你的项目经理会踢死你?c:d<br />把else部分也拆开:++c&gt;<br />else<br />    x=b;b ;b？实际项目中你要是敢写这种程序;<br />}<br />写到这你该清楚了吧: b<br />意思是;b)<br />    x = c;d:d<br />if(a&lt：<br />if(a&lt;b)<br />    x=a;<br />    else<br />        x=d这种表达式是你自己写的玩的还是在哪本书上看到的呢? a ;<br />else{<br />    if(++c&gt：<br />if(a&lt。<br /><br />C语言中的;<br /><br />一步一步把下面的这个式子拆开吧<br /> x = a&lt??b;d)<br />        x=b?b;b)<br />    x = c，例如<br />x = a&lt;d
+4
+none
+http://zhidao.baidu.com/question/298777479.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2202141990811967988.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/201282854.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/365160117.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/394493818.html?qbl=relate_question_4

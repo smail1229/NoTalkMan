@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题：若有定义 float x=1.5;int a=1,b=3,c=2;则正确的switch语句是：
+本题目的一个错误选项自己不太明白：<br />B：switch((int)x);<br />   {c畅伐扳和殖古帮汰爆咯ase 1:printf(&quot;*&#92;n&quot;);<br />    <br />    case 1:printf(&quot;**&#92;n&quot;);}<br />不太明白怎么错的，还有哪位高手能不能在帮我讲一下switch语句的注意点！及一些用法！谢谢！
+你是想问那里错了 还是怎么的  <br />如果说错 那就是你 swit畅伐扳和殖古帮汰爆咯ch((int)x);<br />多了个分号  属于语法错误<br />在个就是没有加break 满足了第1个条件开始  后面的就都打印出来了
+11
+none
+http://zhidao.baidu.com/question/398177135.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1496196820746783059.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/279897141.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/390497104.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/235791340.html?qbl=relate_question_4

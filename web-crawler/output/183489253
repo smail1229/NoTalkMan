@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮我看看，这个C语言程序错在哪里？
+只是输入完毕后就不行了;}<br /><br />没有语法错误;<br /> printf(&quot;),a[i]);}<br />main()<br />{int a[10];<br />int i;stdio,max(a[10]));n&quot;}<br />return r;10;<br />int max(int a[10])<br />{<br /> int r=a[0];i&lt;%d&quot;;<br /> for(i=1;the max is %d&quot.h&gt;i++)  {if(a[i]&gt;i&lt;input&#92;;i++)<br />scanf(&quot;r)  r=a[i];10;<br /> for(i=0;<br /> printf(&quot#include &lt
+max(a));r)<br />       r=a[i]，而且可能造成其他函数引用<br />    int r=a[0];the max is %d&quot;<br />    for(i=1;);n&quot;<br />    return 0;i&lt.输入scanf的时候;//&#47，第2个参数要写地址;/<br />    printf(&quot;<br />    int i;%d&quot;<br />    }<br />    return r;)。而数组元素的地址应该写为&a[i]<br />2;/10.函数传递参数时候应该传递一个地址;i++)<br />    {<br />      if(a[i]&gt，你写成全局的了.数组名就是数组的地址<br /><br />system(&quot;scanf第2个参数要使用地址;i&lt。因为你要从数组的第1个地址到第n个地址比较;pause&quot，所以要知道开始地址<br /><br />int max(int a[]) &#47,&a[i]);&#47主要原因<br />1;/这个放到函数内部;<br />}<br /><br />int main(int argc;input&#92;，没有必要，所以加&<br />    }<br /><br />    printf(&quot,只是传递数组的开始地址<br />{<br />    int i;&#47，写了a[10]等效于a[]; /;i++)<br />    {<br />    scanf(&quot, char* argv[])<br />{<br />    int a[10];也写到内部<br />    for(i=0;10;数组作参数;参数是地址a
+1
+none
+http://zhidao.baidu.com/question/52409102.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/541126108.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/751795700258822604.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76006557.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/110122313.html?qbl=relate_question_4

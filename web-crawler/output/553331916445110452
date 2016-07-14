@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题：a=3，b=4，c=5，则逻辑表达式“!(a+b)*c-1&&b+c%2
+=3，b=4，则逻辑表达式“，c=5!(a+b)*c-1&&b+c%2<br />该表达式是什么意思
+是逻辑非<br />!(3+4)*5 - 1 && 4+ 5%2<br />先算括号里的<br />!7*5-1 && 4+5%2<br />!逻辑非运算符的优先级比－运算符高<br />7转换成bool值是true&&是逻辑和，
+0
+none
+http://zhidao.baidu.com/question/198812025106622005.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/435052603.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/212625722.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/233167532.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/259020149.html?qbl=relate_question_4

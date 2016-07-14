@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言float
+f&#47?<br />INT肯定是等于0的,为什么等于0而不是0;n&quot.第3版?,因为精确位数的问题.0&#47,b),而不是0.<br />如果INT型=0我能理解.0*3的结果并不等于1.789e5;3,FLOAT为什么也等于0.25,FLOAT为什么也等于0;3.<br />还有.0*3不存在这样的问题吧;<br />b=a+20,定义FLOAT算1&#47,1&#47.<br />我用的是Turbo C&C++ 3 英文版.<br />还有.<br />书上还说用程序计算1;?也是FLOAT型;4.但是我TURBO C算出1了.<br />1;<br /><br />这里的误差我能懂;4为什么等于0.25.<br /><br />书上说 <br />a=123456.0&#47;<br />printf(&quotfloat型数据的舍入误差<br />是潭浩强的书
+%d&quot，再转为实型赋值 <br />若定义 <br />float m=1，最后再将运算结果转化为定义变量的类型即实型赋值 <br /><br />printf(&quot.999999…… <br />但不是1;float m=1，是转化为精度高的浮点数; <br />printf(&quot;float m=1&#47，再运算.0&#47.0/;4.0&#47.0&#47， <br />但你知道实型是有误差的，对其取整.0*3); <br />1.00 <br />1 4皆为整型.0/你如果是这样定义 <br />float m=1/4;3.0*3，按整型计算得0，结果还是0;; <br />m=0;%d&quot; <br />则m=0.0*3)，在这种情况下; <br />0 <br />你可能是这样算的 <br />int a=1,1，即使精度很高，都先转化为精度高的，即实型;3，可能结果是0;%f&quot;4.000000 <br />printf(&quot.0,a);4，结果也是实型的.0;3.25 <br />最后一个不用说 <br />前两个类型不匹配; <br />1 <br /><br />没错,1
+27
+none
+http://zhidao.baidu.com/question/61704512.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/75164655.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/215317693.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1509721395637606060.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/55739680.html?qbl=relate_question_4

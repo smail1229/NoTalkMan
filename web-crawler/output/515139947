@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中怎么判断素数
+none
+ ++i)<br />{<br />if (a % i == 0)<br />{<br />return 0，证明这不是个素数;&#47.h<br />int isprime(int a) <br />{<br />int i;<br />for (i = 2，看看以下代码<br /><br />#include&lt，如果找到一个数能整除该数;  /  /  &#47.h&gt从1开始遍历到该数的开方;/= sqrt((long double)a);/头文件为math;math;能整除就返回不是<br />}<br />}<br />return 1; i &lt
+14
+none
+http://zhidao.baidu.com/question/189405513.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40505738.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/173264817.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/107964130.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80129422.html?qbl=relate_question_4

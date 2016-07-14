@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中for循环怎么理解？
+none
+你只要搞清楚for循环3个语句的含义应该就懂了<br />第一个是初始化，第二个是条件语句，第三个是自处理语句；<br />循环时第一个语句只使用一次，然后判断是否满足第二个语句，满足则进入循环体运行a+=i，然后i自加1，再判断是否满足第二个语句，满足则进入循环体运行a+=i，一直到i不满足i&lt;10了，循环跳出。<br />开始时，i=0，开始循环。假设a初始化为0，<br />第一步：a+=i;然后i++，a=0，i变成1，1&lt;10，继续循环；<br />第二步：a+=i;然后i++，a=1，i变成2，2&lt;10，继续循环；<br />。。。<br />第九步：a+=i；然后i++，a=36，i变成9，9&lt;10，继续循环；<br />第十步：a+=珐沪粹疚诔狡达挟惮锚i；然后i++，a=45，i变成10，10&lt;10不成立，循环结束
+62
+<p>1、for是C语言中的一个关键字，主要用来控制循环语句的执行。<br /></p><p><br /></p><p>2、下面举例说明for语句的使用方法：<br /></p><pre t="code" l="cpp">int&nbsp;i;<br />for(i=0;&nbsp;i&lt;3;&nbsp;i++)&nbsp;&nbsp;&nbsp;<br />//&nbsp;i=0是初始化部分；i&lt;3是循环判断条件部分（当满足此条件时才进入执行for循环中的语句）；i++是执行完循环体语句后的操作<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;HelloWorld&quot;);<br />}<br />//&nbsp;上面的for语句就是控制输出3次HelloWorld</pre>
+http://zhidao.baidu.com/question/103235939.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1603630214650707507.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152711258.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/204343337.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/111236486.html?qbl=relate_question_4

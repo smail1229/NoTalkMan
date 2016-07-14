@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言相关 int a; printf(&quot;%d&quot;,a); 为什么显示结果为0？没有定义a的值啊
+<br />为什么显示结果为0C语言相关<br />	int a;%d&quot;,a)？没有定义a的值啊？<br />是不是int a就是inta=0;<br />	printf(&quot
+fail
+0
+none
+http://zhidao.baidu.com/question/347501889.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234337350.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/31637237.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/73748640.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/160618035.html?qbl=relate_question_4

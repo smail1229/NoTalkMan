@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中  scanf_s和 scanf  区别是什么
+none
+必须提供一个数字以表明最多读取多少位字符;2008中提供了scanf_s(),在调用时ANSI C中没有scanf_s(),只有scanf()。所以vc++2005&#47，所以可能会造成内在泄露，scanf()在读取时不检查边界
+32
+<p>scanf()函数是标准C中提供的标准输入函数，用以用户输入数据</p><p>scanf_s()函数是Microsoft公司VS开发工具提供的一个功能相同的安全标准输入函数，从vc++2005开始，VS系统提供了scanf_s()。在调用该函数时，必须提供一个数字以表明最多读取多少位字符。</p><p>原因和区别：</p><p>scanf()在读取数据时不检查边界，所以可能会造成内存访问越界：</p><pre t="code" l="cpp">//例如：分配了5字节的空间但是用户输入了10字节，就会导致scanf()读到10个字节<br />char&nbsp;buf[5]={&#39;\0&#39;};<br />scanf(&quot;%s&quot;,&nbsp;buf);<br />//如果输入1234567890，则5以后的部分会被写到别的变量所在的空间上去，从而可能会导致程序运行异常。</pre><p>以上代码如果用scanf_s（）则可避免此问题：</p><pre t="code" l="cpp">char&nbsp;buf[5]={&#39;\0&#39;};<br />scanf_s(&quot;%s&quot;,buf,5);&nbsp;//最多读取4个字符，因为buf[4]要放&#39;\0&#39;&nbsp;<br />//如果输入1234567890，则buf只会接受前4个字符</pre><p>注： scanf_s最后一个参数n是接收缓冲区的大小（即buf的容量），表示最多读取n-1个字符.</p><p>PS: 很多带“_s”后缀的函数是为了让原版函数更安全，传入一个和参数有关的大小值，避免引用到不存在的元素，防止hacker利用原版的不安全性（漏洞）黑掉系统。</p>
+http://zhidao.baidu.com/question/290403568.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/326617552563451445.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38525231.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/425300131.html?qbl=relate_question_3

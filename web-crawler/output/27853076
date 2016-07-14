@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中实数计算和存储为什么有微小的误差
+none
+所以double 会比float 精确.25呢.2来代替了，如果我要用到1，因为位数有限计算机中储存的数自然不可能是连续的计算机中表示浮点数是采用近似值的～<br />这个问题可以说是计算机用有限的位来表示无限的数，它就要决定用它附近的值了。<br />假设有一台这样的机器.2 1，它能表示1.0 1.4 1.8（只能精确到小数后一位），表示的值就越精确，它可能就会用1。当然位数越多，应该是离散的值。当某个值它不能精确的表示时
+6
+none
+http://zhidao.baidu.com/question/29397531.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/304174989784705124.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/77592221.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/112407929.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/322265874.html?qbl=relate_question_4

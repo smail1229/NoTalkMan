@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中int *a[5]和int(*a)[5]有什么区别吗
+none
+后者表示一个指针int*a[5]是指针数组，int(*a)[5]是数组指针，前者表示一个数组，该指针指向一个int型有5个元素的数组，数组元素都是指向int型变量的指针
+18
+第一个a是个数组名，里面保存的是int指针。<br />第二个a是个指针名，它指向一个包含5个数据的int数组。
+http://zhidao.baidu.com/question/519383568.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/236282173.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240600378.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242424451.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/179085518.html?qbl=relate_question_4

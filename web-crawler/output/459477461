@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言char型字符串转换成int型字符串
+none
+char是字符类型，你想让他已int类型输出，只会输出他的ASCII
+0
+<p>　　可以使用强制类型转换，示例代码如下：</p><pre t="code" l="cpp">char&nbsp;buf[]=&quot;abc&quot;;<br />int&nbsp;tmp&nbsp;=&nbsp;*(int*)buf;<br />printf(&quot;%s&quot;,(char*)&amp;tmp);//输出看看字符串有没有丢失或错误</pre><p>　　但是这样转换有一个限制，就是只能对不超过4个字节的字符串进行转换<br /></p><p>　　因为int类型默认都是4个字节，只能放入4个字符</p><p>　　如果需要大批量的转换，则需要用memcpy，示例代码如下：</p><pre t="code" l="cpp">char&nbsp;buf[]=&quot;abc123&quot;;<br />int&nbsp;tmp[2];//6个字符串需要2个int来保存<br />memcpy(tmp,buf,strlen(buf)+1);<br />printf(&quot;%s&quot;,(char*)tmp);//输出看看字符串有没有丢失或错误</pre><p>　　但是这样并没有什么优势，字节在内存中占用的大小并没有变化<br /></p>
+http://zhidao.baidu.com/question/35677836.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/14719098.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/10647960.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/586621601.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197878579.html?qbl=relate_question_4

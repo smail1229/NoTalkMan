@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中在printf语句中，int型写成%d，float型写成%f,那double类型应该写成%什么？
+如题
+还是可以用%f<br />“%f”和“%lf ”格式的输出相同，“l”符对“f”类型无影响<br />但在输珐互粹就诔脚达协惮茅入中“%f”是float，“%lf ”是double，不能混淆
+9
+none
+http://zhidao.baidu.com/question/73792564.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/351432676.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/288036908.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/349071273.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/140599012.html?qbl=relate_question_4

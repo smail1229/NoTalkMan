@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言语句“ sprintf( szInt [ 0 ] , &quot;%6.6s&quot; , &array[0]); ”中&quot;%6.6s&quot;是什么意思？
+ <br /><br />SetTagChar( TagInt1 ; <br /><br />SetTagChar( TagInt2 ： <br />{ <br /><br />&#47:TAGNAME_SECTION_END <br /><br />&#47; WINCC: #define PicNameInAction &quot; next TagID :PICNAME_SECTION_END <br /><br />char array [ MAX_DM_VARTYPE_TEXT_LEN + 1 ];&#47;&#47; <br /><br />#define TagInt2 &quot;int2&quot: <br /><br />#define TagPro &quot,szInt [0]), &array[6]); ; next PicID ; <br /><br />char szInt [ 2 ] [ 6 + 1 ]:TAGNAME_SECTION_START <br /><br />&#47: 1 <br /><br />&#47;int1&quot; <br /><br />#define TagInt1 &quot;PictureName&quot; 分割一个包含12个字符的字符串为两个含6个字符的字符串;&#47, &array[0]).6s&quot;%6, &quot;%6; WINCC;&#47; syntax, &quot;&#47; WINCC;pro&quot; <br /><br />sprintf( szInt [ 1 ] ;&#47,GetTagChar( TagPro )),szInt [1]);&#47; <br /><br />&#47;&#47.6s&quot; <br /><br />strcpy(array; <br /><br />sprintf( szInt [ 0 ] : 1 <br /><br />&#47; <br /><br />&#47:PICNAME_SECTION_START <br /><br />&#47; WINCC; syntax
+<br />%-m，产生一个调用者想要的字符串，右补空格.ns，则自动取n值：n个字符输出在m列范围的左侧，在格式串内部使用一些以“%”开头的格式说明符（format specifications）来占据一个位置;m，即保证n个字符正常输出sprintf 使用格式化字符串来指定串的格式，在后边的变参列表中提供相应的变量，最终函数就会用相应位置的变量来替代那个说明符。如果n&gt
+0
+none
+http://zhidao.baidu.com/question/485212751.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/392050959.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15055752.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/48023920.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/554380303.html?qbl=relate_question_4

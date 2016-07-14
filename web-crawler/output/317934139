@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言共同体的问题 union dt{int a;char b;double c;}data;
+printf(&quot.000000的话那应该是多少呢;double c？？;char b;<br /> 程序段 data.c)？？请问到底应该怎么解释;}data？？.a=5,data;%f&#92？那我给整形的a赋值5了 用c成员的话应该也是5只不过是用double的格式输出啊？？;n&quot;; 输出结果为 5.000000    （错）<br /> <br />我想问问不是 5？ 共用体不是一个存储单元么union dt{int a
+但是高4个字节还是0xCCCCCCCC这样没初始化数据<br />共用体是一个存储单元没有错.a=5只是给低4个字节赋值为5，所以不会输出5sizeof(data)知道是多少么，<br />但是%f输出的是8个字节的值？<br />是8个字节<br />data
+4
+none
+http://zhidao.baidu.com/question/186286922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/476694719.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49598489.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/528363553.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/358610967.html?qbl=relate_question_4

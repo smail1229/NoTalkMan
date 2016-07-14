@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若变量以正确定义并赋值，符合C语言语法的表达式是（ ） A）a=a+7; B）a=
+若变量以正确定义并赋值，符合C语言语法的表达式是（  ） A）a=a+7;        B）a订供斥佳俪簧筹伪船镰=7+b+c,a++ 麻烦请说明为什么，谢谢
+A选项不是赋值语句 根本就没有值 a=a+7 例如在int a=a+7  根本无法代表赋予什么值
+2
+none
+http://zhidao.baidu.com/question/103878080.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/396008875.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57842692.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/563309815.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/281404577.html?qbl=relate_question_4

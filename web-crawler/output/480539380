@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中if..... if......if....与if....else if.....else if....的区别
+= 1)<br />maze[i][j] = 0;<br />if(success != 1 && maze[i+1][j] == 0) visit(i+1!= 1)<br />maze[i][j] = 0;<br />if(success != 1 && maze[i+1][j] == 0) visit(i+1!= 1 && maze[i][j+1] == 0) visit(i;<br />if(success , j+1)!= 1 && maze[i-1][j] == 0) visit(i-1, j)。<br />在编写老鼠走迷宫的程序时<br />这个<br />int visit(int i;<br />else if(success ;<br />if(success ？（本人亲自实验过）<br />int visit(int i!= 1 && maze[i-1][j] == 0) visit(i-1;<br />else if(success ;<br />if(success , j-1), int j) {<br />maze[i][j] = 1!= 1 && maze[i][j-1] == 0) visit(i, j);<br />｝<br />为什么和下面的代码不等价, j), j-1), j)？, j+1);<br />else if(success ;<br />if(i == endI && j == endJ)<br />success = 1, int j) {<br />maze[i][j] = 1;<br />if(i == endI && j == endJ)<br />success = 1？!= 1 && maze[i][j+1] == 0) visit(i;<br />return success;<br />if(success != 1 && maze[i][j-1] == 0) visit(i;<br />if(success 各位大神们小白向您请教;<br />return success
+x=10的时候<br />if x&gt, j+1);4<br />if x&gt，不会同时满足，就不会判断后面的） <br />有时候下面这种可以简化成上面的，不影响流程, j)，比如 if x==4 else if x==3<br />因为这样的条件本身就是互斥的，区别只是判断的次数而已，右边没走过……<br />明显是不一样的 <br /><br />if(success , j);<br />        else<br />         {<br />            if(success ;<br />    else<br />     {<br />        if(success , j-1);0<br />每一个都要执行（每一个if 是独立的）<br /><br />if  x&gt，如果上面没走过……<br />如果下面没走过……<br />如果左边没走过……<br />如果右边没走过……<br />和<br />如果上面没走过……<br />如果上面走过;2<br />else if x&gt。<br /><br />你的程序性中，左;<br />}<br />else<br />{<br />    if(success ，左边没走过……<br />如果上面和左边都走过;0<br />else<br />只执行第一个 （这个每一个if 是互斥的!= 1 && maze[i][j-1] == 0)<br />             visit(i!= 1 && maze[i+1][j] == 0)<br />         visit(i+1!= 1 && maze[i-1][j] == 0) <br />            visit(i-1，下都走过，改成if   if ，某个满足，下面没走过……<br />如果上，也只会进一个分支!= 1 && maze[i][j+1] == 0) <br />{<br />    visit(i;2<br />if x&gt;4<br />else if x &gt
+30
+none
+http://zhidao.baidu.com/question/482318726.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90716472.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/544192726.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/112188183.html?qbl=relate_question_4

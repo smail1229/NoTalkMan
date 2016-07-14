@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，怎样用逻辑表达式判断int类型变量中x，y，z，中存储的数据恰好有一个零
+语言中，y，怎样用逻辑表达式判断int类型变量中x，z
+x&&y&&z||x&&，那么通过||运算就晓得整个表达式成立。<br />这样只要三部分中的一个表达式成立，可以不加内括号,y和z不为0时第一个表达式成立!z)<br />&&比||优先级高，那么!y&&z||x&&y&&，第三部分就是z!x就是1。第二部分就是仅当y为0时表达式成立，也就是说这时候当且仅当x=0。<br />||把表达式分为三部分第一部分是说x为0if(
+1
+none
+http://zhidao.baidu.com/question/2201589605185282628.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/95419953.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/482618766.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/480300766.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/116991231.html?qbl=relate_question_4

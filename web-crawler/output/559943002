@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言printf函数的输出：定义 float y1=123.4567 输出 printf(&quot;y1=%10f&quot;,y1) 问输出结果
+还有%.456703   ，可是我弄不明白这个%10f不是指小数点前至少有10位的意思吗？不用补0吗？这里没有指明小数点后应该有几位，就是指默认小数点后六位吗，但是给出的答案小数点后有6位.3f  %-10.3f 又是什么意思答案说是123
+1个小数点%10f的意思不是要补0。<br /><br />浮点型输出时，再加三位整数部分，不足的在后面用空格填充.4567输出时，整个输出占10个字符位宽，默认输出6位小数<br />%，小数部分默认有6位.3f表示输出时小数部分保留3位，正好10位，不足的在前面用空格填充.3f表示输出时小数部分保留3位<br />%-10，123，而是整个输出占10个字符位宽
+0
+none
+http://zhidao.baidu.com/question/294688728.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/320656110.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/222044096.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/46082016.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1817615084143238948.html?qbl=relate_question_4

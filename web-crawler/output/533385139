@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，求大神解决，我是小白，最好解释下原因，谢谢拉。
+<br />if(c) x=3,c; c= 0：A<br />第一个符合;<br />a = 0运行下列程序段后x的值是_______;<br />if (!a) x--,b; b = 0,x。<br />int a;  else if (b);<br />A）4             B）6           C）7              D）3<br />答案;  else x=4，执行x--,不就等于6么; x = 7
+ 因为上面if不成立if(，x=6<br />else if(b); c为0;上面if成功;a为0，执行该语句，该语句不成立，不会执行<br />else x=4，该语句不会执行<br />if(c)x=3，所以这条成立!a)x--
+1
+none
+http://zhidao.baidu.com/question/545064242.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533388192.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533017226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533943050.html?qbl=relate_question_4

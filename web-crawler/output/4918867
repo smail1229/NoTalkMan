@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的头文件是什么概念
+none
+fail
+0
+头文件是你程序中需要用到东西，如需要某个数学函数， <br />则必须包括数学相关头文件，如math.h，当然，也可以自己写函数，只要你不怕麻烦！ <br />头文件是你程序中需要用到东西，如需要某个数学函数， <br />则必须包括数学相关头文件，如math.h，当然，也可以自己写函数，只要你不怕麻烦！ 头文件就是在你所编制的程序运行时要用到的文件! <br />如 math.h 和 stdio.h <br />头文件就是在你所编制的程序运行时要用到的文件! <br />如 math.h 和 stdio.h <br />头文件就是在你所编制的程序运行时要用到的文件! <br />如 math.h 和 stdio.h
+http://zhidao.baidu.com/question/86454269.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/77667461.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92022282.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/213325706.html?qbl=relate_question_3

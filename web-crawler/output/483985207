@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言刚上，运算顺序不懂，int k=7，x=12 x%=k-k%5 与 （x%=k）-（k%=5）有什么区别？两个答案分别是多少
+none
+你好。x%=k-k%5 实际上是x = x % (k - k % 5) 结果是2<br />（x%=k）-（k%=5）实际上（x = x%k）-（k = k%5) 结果是5 - 2 = 3
+13
+none
+http://zhidao.baidu.com/question/294706868.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/65156458.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/233970668.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/198781249.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/357244378.html?qbl=relate_question_4

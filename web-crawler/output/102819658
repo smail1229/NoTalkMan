@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数组中的删除一个元素怎么写???
+none
+fail
+7
+#include &lt;stdio.h&gt;<br />main ()<br />{int a[10],i,j,x;<br /> for(i=0;i&lt;10;i++)<br />  a[i]=i*3+2;<br /> printf(&quot;input delete number:&#92;n&quot;);<br /> scanf(&quot;%d&quot;,&x);<br /> for(i=0;i&lt;10;i++)<br />  if(a[i]==x)<br />   for(j=i+1;j&lt;10;j++)<br />    a[i]=a[j];<br /> a[j]=&#39;&#92;0&#39;;<br /> for(i=0;i&lt;10;i++)<br /> printf(&quot;%3d&quot;,a[i]);<br />}
+http://zhidao.baidu.com/question/41903018.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/63839891.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/101542913.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/37777646.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/257664665.html?qbl=relate_question_4

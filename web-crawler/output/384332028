@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+C语言中分段函数用switch语句实现 Y={x , x&lt;10 ; 0.9x, 10=&lt;x&lt;20; 0.8x, 20=&lt;x&lt;30; 0.7x,x&gt;=30
+none
+下面是我假设x是100以内的数.7x;<br />case 2。<br />switch(x&#47.9x;break;10)<br />{<br />case 0:Y=0:Y=0:Y=x;<br />default;break;break.8x;<br />case 1:Y=0。x的范围有吗不太明白你是什么意思;break
+2
+none
+fail

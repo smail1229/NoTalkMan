@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+介绍下一C语言中exit()的用法
+none
+fail
+3
+void exit(int status);<br />程序终止函数,在退出之前会关门所有已经打开的文件,将缓存中的数据写入磁盘……<br />status:表示退出状态,一般情况下0表示正常退出,非0表示非正常退出,一般可以设为以一值:<br />EXIT_FAILURE:非正常退出,知道操作系统程序非正常退出<br />EXIT_SUCCESS:正常退出
+fail

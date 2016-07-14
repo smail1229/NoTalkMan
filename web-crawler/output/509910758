@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 long float 和double有什么区别
+none
+fail
+0
+long float是以前的C语言(传统C语言)用的类型，与 double 同义，在老式的C语言编译器可能会允许该类型，但现在已经被 double 替换掉，C89标准就已经删除了该类型，因此在比较新的C编译器用这个类型时，编译可能会报错。不建议用这个类型，用 double 替换。
+http://zhidao.baidu.com/question/134530977974380885.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/94071955.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80001113.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141994675.html?qbl=relate_question_4

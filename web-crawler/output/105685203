@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中switch语句后一对圆括号表达式类型是什么
+none
+fail
+3
+switch(表达式)<br />其中&quot;表达式&quot;指的是ANSI标准中允许的任何类型.说白了,就是只要是你知道的C语言中的类型都可以用!但是一般来说整型和字符型用的多一点,这可能是因为这两种类型比软好理解,而且又更常用的原因.以上回答是来自谭浩强老先生的&lt;C语言设计&gt;绝对全威!
+http://zhidao.baidu.com/question/50599975.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49029163.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/251851069.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_4

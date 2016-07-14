@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+3. 下列说法中正确的是：______。 A) C语言程序中的main() 函数必须放在程序的开始部分
+B) C语言程序中，要调用的函数必须在main() 函数中定义<br />	C) C语言程序总是从main() 函数开始执行<br />	D) C语言程序总是从第一个定义的函数开始执行
+学过C。它可以在class中的任何地方 ，根据java的规则推过来,<br /><br />但是你这题。C最准确。<br /><br />程序总有一个入口函数。java是以main做入口函数。<br />但是main函数不一定是是第一个函数
+4
+none
+http://zhidao.baidu.com/question/51750008.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/616938775408259612.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/359547224193605332.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163558151.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/110716045.html?qbl=relate_question_4

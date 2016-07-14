@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+数据结构中，顺序表和C语言数组的区别是什么
+none
+顺序表是指对逻辑结构表现为线性特点的元素存储的时候也要求顺哗氦糕教蕹寄革犀宫篓序，其特点是数据在内存存放时体现出来的关系特性。<br />而数组是在分配空间的时候系统自动按照顺序给划出来的一片连续空间。他的作用是存放数据的。关键是在于数组对应的是空间，不对应数据元素。
+14
+顺序表是在计算机内存中以数组的形式保存的线性表，是指用一组地址连续的存储单元依次存储数据元素的线性结构。线性表采用顺序存储的方式存储就称之为顺序表。顺序表是将表中的结点依次存放在计算机内存中一组地址连续的存储单元中。<br />从顺序表的定义上可以看出，顺序表就是数组。二者只是不同领域中的称呼。<br />顺序表是数据结构中的专有名词，而数组是在C语言或者其它编程语言中的一种数据类型。<br />可以说，数组是顺序表在实际编程中的具体实现方式。
+http://zhidao.baidu.com/question/515049966.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/567057325.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/90735209.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/497510467.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/284468725.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 VC++ 
+求解下面的C语言题目~~求高手指点！！！ 是关于静态变量的
+c,b;f(a);;c=c+3;b=b+3;a=%d;<br />void f(int a)<br />       {static int c;}<br /> void main()<br />     {a=b=c=3;f(c);a=a+3;printf&quot,a,b=%d;f(b),c=%d&quot,b,c)int a
+c=3<br />a=9，c静态变量是一个单独的全局变量，函数内的变量作用域优先级较高。f(b)执行后,b=9，f函数内，但遇到局部函数中相同名称的变量时,b=6。c此时的初值为0,b=12，f函数内输入a为传入的变量b，作用域在f函数内,c=9<br />此题主要考虑变量的作用域，f函数中改变的另一个c（静态变量）。全局变量a，注意整个程序中c的值仍是初始化的3、b。<br /> <br />main函数执行f(a)时、c在全局生效，拥有独立的全局内存地址。f(b)执行时，主函数中传入的c是全局变量ca=6,c=6<br />a=6
+1
+none
+http://zhidao.baidu.com/question/463158721.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136448562.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/872419907079605812.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/374759359.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/553147417.html?qbl=relate_question_4

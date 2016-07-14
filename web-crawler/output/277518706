@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+现在有两个c语言程序，要合并在一起用怎么实现
+none
+<br />如果你不知道这两个程序的代码，可以用建立文件作为数据交换的“通道”。<br />如果两个程序要交换使用数据，使用系统调用system可以其中一个程序调用另一个程序的方式
+8
+none
+http://zhidao.baidu.com/question/71655863.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/213036859.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106747016.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/544381217.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/553257080.html?qbl=relate_question_4

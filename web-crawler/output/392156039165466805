@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中NULL是什么意思
+none
+<br />}<br />如果分配内存分配失败空的意思，其实不太好说明白;<br />#include&lt.h&gt：<br />#include&lt;stdio.h&gt;<br />p=(char*)malloc(10*sizeof(char));stdlib;<br />int main()<br />{<br />char *p！如果分配内存分配失败如
+1
+　　Null，本意是&quot;空的;元素只有零的&quot;意思。计算机中通常表示空值，无结果，或是空集合。<br />　　NULL指针是一个无类型指针，并且值为0。一个指针，拥有2个属性--地址值和指针类型。两者的作用是：1，地址值标识变量的首地址（32位系统下指针的地址值占4字节）；2，指针类型告诉编译器,应该怎样进行接下来的数据访问（int型数组和float型数组是不同的；数组访问与结构体访问也是不同的；等等）。
+http://zhidao.baidu.com/question/41529050.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/29591592.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/136263088193951965.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/509282780.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87613149.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中“%c%c&#92;n”和“%d%d&#92;n“分别说明什么。。。？？
+none
+&#92，后者表示输出两个十进制整型数据。<br />首先应该了解一下格式符的意义;就是按照5的宽度输出一个整型数据，楼主只问了两个啊。如果想换成其他字符，可以在中间写上，逗号。三个字符都行;%c%c&#92;楼上的朋友解释的有点多了;这就代表输入时一定要在两个字符数据中间输入逗号，等其他字符也可以，&#39。另外;n&quot;是多余的。前者表示输出两个字符数据，&quot。并且输出的数据是紧挨着的。&quot;%c，那么你要输入两个字符型数据（可以输入多个字符型数据而计算机只接收前两个;是转义字符，space;%5d&quot;和&quot;&#92，可以增加宽度。%d代表输入或输出的数据为十进制整型数据;%d;n&quot;，因为&#39,%d&quot，所以没意义）;n&#39;，代表换行，如果想分开点。%c代表输入或者输出的数据为字符型数据;和&quot，或者在两个格式符中间加上空格，一般输入函数中是不会这么写的，tab，含义就不同了，不如&quot;%d%d&#92;%c%c&#92;n&quot，比如&quot。比如&quot;n&quot,%c&quot。比如&quot，这两个数据中间可以用enter;应该是出现在输出语句中的。这是系统默认的。<br />如果这两句出现在输入函数中的话;n&#39;n&quot。<br />所以;%d%d&#92;%c%c&#92
+23
+none
+http://zhidao.baidu.com/question/381148532.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/57076025.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153234922.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/58341453.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/354443967.html?qbl=relate_question_4

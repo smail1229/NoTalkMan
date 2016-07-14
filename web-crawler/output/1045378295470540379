@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if,break问题,高手请答
+.<br />..,执行break后.,那么.<br /><br />请问..,中间的if如果是真...........<br />}<br /><br />.,程序跳转至第一个if结构的结束之后吗..<br />.<br />if() break;<br />..?或者不可以这样用Breakif()<br />{<br />
+循环结束直接跳出了，直接结束第一层的if，执行到break。<br /><br />如果你的这些内容是在循环体内部的话，条件B成立时。要完成你说的流程，才执行第二层的if语句！条件B）<br /><br />    {<br /><br />        ……<br /><br />    }<br /><br />}<br />当条件B不成立时：<br /><br />if （条件A）<br />{<br />    ……<br /><br />    ……<br /><br />    if （，可以这样来写，在条件语句（if … else …）中一般不用break语句通常用在循环语句和开关语句（switch… case …）中
+1
+none
+http://zhidao.baidu.com/question/223018993.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/49548352.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182940758.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/135980025.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1637667612756469980.html?qbl=relate_question_4

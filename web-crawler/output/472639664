@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言 双精度 单精度 的问题
+还是其它知识我没掌握，双精度小数点后8位：单精度小数点后6位;b的值是，b=2，都是小数点后6位.5.000000）<br /><br />我想知道 单精度和双精度小数点位数是怎么确定的，y=4例题1；float x=2，则表达式（int）a+b&#47：2，可从上述例题结果看.5？网上看到说.7；则表达式 x=a%3*（int）（x+y）%2&#47：设a和b均为double型变量：6.500000）<br />例题2;4的值是？（习题册答案.5？（习题册答案，且a=5，是答案错了呢：若有定义！：inta=7？<br />谢谢各位热心人
+首先你说的精度是指精确度，多思考，a%3*（int）（x+y）%2&#47，a%3*（int）（x+y）值为7，并不是保留小数的位数，要是浮点型就保留小数。 题目二就不用多解释了吧，多学习，题目的运算顺序就是从左到右计算该题其实考察的不是精度问题，要是整形就直接舍去小数，a%3值为1，是整数和浮点数之间的运算问题，double和float默认都是保留六位，（int）（x+y）值为7，而输出的时候，一看结果就什么都明白了，祝你成功，结果没有错误，我就再这里给你解释一下这两个题目吧，这两个概念不同;4值要看他的赋值对象和输出格式了，a%3*（int）（x+y）%2值为1，你可能弄混了。 首先看第一题，以后向这种问题你可以上机运行一下呀
+6
+none
+http://zhidao.baidu.com/question/141387134.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89317458.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/570438059.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/115702007.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87346053.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中*p++和p++有什么区别呢
+none
+<br /> (*p)++。<br />要末用 p=p+1。<br />我觉得， 指针p地址自增1，x = *p，*p++ 的写法不好，但它的作用 也是  指针p地址自增1； （后加加）<br />*p++;  考虑数值; <br />------------<br /> p++。 <br />要末用 *p = *p + 1;  -- 指针p地址自增1;     -- 在本句，应当写，意思含混, 相当执行了 p=p+1;  出了本句; 考虑地址。<br />x = *p++;  -- 编译器也许不报错如果想写数值自增语句，++ 不起作用
+5
+none
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/226084447.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90429271.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/536942769.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道c语言题目: 设有无符号短整型变量i、j、k,i值为013，j值为0x13。
+高手讲解一下计算表达试&quot,j值0x13 ;后， 是不是题目本身有问题：<br />题目，k的值是__;&gt;&gt;&gt: i：06 B;3：066 D;k=~i|j&gt：0177766<br /><br />我的计算方法如下? k=~i|j&gt;3<br /> i=00001011  (13的八进制)<br />~i=11110100  (反值)<br />j=00010011   (13的十六进制)<br />k=~i|j&gt;&gt;3 = 00000010  (右移三位)<br />k=~i|j<br />k=11110100<br />  00000010<br />k=11110110<br />k=366    <br />这样也没答案;&quot、k;3<br />j&gt： 0177776 C? <br />答案A、j,i值013
+k是无符号短整型数;<br />因为，当然结果是不对了<br />其中，应该占两字节：~i = 11111111 11110100，以16位二进制来算：i,其他也是一样的错误，而你只用了一个字节,j答案是D
+4
+none
+http://zhidao.baidu.com/question/332516984.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/159098179.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/65376406.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/107977916.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265566723260018468.html?qbl=relate_question_4

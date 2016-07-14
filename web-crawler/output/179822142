@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言pow函数的问题
+, 2)没问题得出的是100？？？？.？？，再pow(10我的编译器是dev cpp：pow(10, a)得出的却是99？？.为什么...，可先把2赋给一个变量a，举个例子好了<br />比如？
+<br />}<br /><br />无论是断点调试还是直接查看程序运行结果Dev C++ 4; );<br />    printf ( &quot, a );n&quot;<br />    double x;<br />    x = pow ( 10, 都是100;math;<br />#include &lt;stdio.h&gt;<br />    system ( &quot.9.9, x ).2<br /><br />#include&lt;%lf&#92;pause&quot.h&gt;<br /><br />int main ( void )<br />{<br />    double a = 2;;<br />    return 0
+4
+none
+http://zhidao.baidu.com/question/252209154.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/175394396677023564.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/146447626.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/236938380.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/97663831.html?qbl=relate_question_4

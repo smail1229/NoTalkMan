@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于二维数组名和二维数组名的地址的疑问？&#92; int a[2][3]; printf(&quot;%d&#92;n&quot;, a); printf(&quot;%d&#92;n&quot;, &a);
+果为何一样，<br />有人知道&a什么意思么，也不是a=&a[0]的问题: 不是问a是首行地址的问题？指向二维数组地址的地址？a的值是数组首行地址？<br />1245032<br />1245032<br />Press any key to continue<br /><br />PS，而是a和&a的问题
+这个问题问的好，以前也有这个疑问后来忘掉了，我搞个程序看看汇编什么情况。
+0
+none
+http://zhidao.baidu.com/question/197684275.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/546327662.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1046209674845972379.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/215842162.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/449735272.html?qbl=relate_question_4

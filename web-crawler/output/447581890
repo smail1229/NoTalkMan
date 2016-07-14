@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求助，c语言，j=i++*++i+i--*--i;
+求助：<br />main()<br />{<br />int i=3,j=0;<br />j=i++*++i+i--*--i;<br />printf(&quot;j=%d&#92;ni=%d&#92;n&quot;,j,i);<br />}<br />输出显示：j=18 i=3<br />问一下为什么i畅弧扳旧殖搅帮些爆氓=3<br />一定说清楚是为什么哈！
+其实是相当于j=(i++*++i)+(i--*--i);i自加两次自减两次所以i=3
+0
+none
+http://zhidao.baidu.com/question/9048134.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/9048081.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/183425426.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/9048012.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1510223938580961460.html?qbl=relate_question_4

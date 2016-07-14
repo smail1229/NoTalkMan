@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数int x,y; f() {int y,a=25,b=10; x=a+b
+x;<br />   return,%d&quot;n,b=10,y=a-b;<br />}                         这题选择题为什么答案是输出 35; <br />   x=a+bint x; }<br />main()<br />{<br />  int a=9;%d,a=25;<br />  printf(&quot；y=a-b;<br />  f(); <br />f()<br /> {<br />   int y;<br />  x=a+b,b=5,y,y);&#92,4  为什么不是35
+而f函数里会使用到全局变量x主函数在调用f函数之前，不会修改全局变量的值，x=14，函数里对y的操作实际上就是对局部变量y的操作，在函数内部这个变量会将全局变量y隐藏，此时f函数里定义了一个局部变量y，然后进入到f函数中，y=4，执行完f函数后x=35
+4
+none
+http://zhidao.baidu.com/question/142840882.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/450175285.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/286998787.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1830900436365198980.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532454344.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+int x=10,y; y=(x++)+(--x); printf(&quot;%d,%d&quot;,x,y); C语言运行结果 是10，18；18怎么解释？？？
+none
+x=x-1后，因此这种题不做也罢，结果会是 x=10 y=18<br /><br />这种写法与具体的编译器还有关系，意义不大，再用x  ，实际应用没有人会这样写代码的，  此时, 这时经进行x=x+1=10了<br /><br />因此,注意这里是用x而不是用 10这个值 ，到此时。纯粹是学术YY，即 先运算 (x++)+(--x)，所以，x=9<br />计算 x+x = 9+9=18<br />别忘了，x值还是10<br />--x意思是先操作 x=x-1，只用了x;  从左向右顺序运算<br />x++ 意思是先用x    再x=x+1 ：<br />y=(x++)+(--x)，前面x++;  <br /><br />等号右边的先运算。<br />勉强分析一下
+5
+none
+http://zhidao.baidu.com/question/81425316.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/399223266.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/155193845.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2073596755101954108.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/184419055.html?qbl=relate_question_4

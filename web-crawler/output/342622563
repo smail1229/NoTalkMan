@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言从键盘上输入一个十进制整数，求该整数的每一位数字之和。
+RT！！求高手写下啦！
+nt a=234567890;<br />int sum=0;<br />for(int i=0;i++)<br />{<br />sum+=a%10;i&lt;<br />a/=10;9
+2
+none
+http://zhidao.baidu.com/question/342620703.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356323834.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/162652544.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1796096311499031227.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/681486661777396092.html?qbl=relate_question_4

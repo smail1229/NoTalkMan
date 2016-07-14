@@ -1,0 +1,11 @@
+电脑/网络 编程语言 JAVA相关 
+java语言，用牛顿迭代法求平方根近似值的问题。
+要求前后两次求出的得差的绝对值少于0.0珐丁粹股诔噶达拴惮茎0001，输出保留3位小数。我学java刚学到面向对象，求大神给个能看懂的代码，谢谢了。
+public static double squareRoot(double n){<br />double x =1;<br />doub珐丁粹股诔噶达拴惮茎le temp =1;<br />do{<br />temp = x;                //保存上一次计算的值<br />x = 0.5*(x + n/x);    //这个就是牛顿迭代法的基本公式<br />}while(Math.abs(x - temp)&gt;0.00001);        //如果两次求值差的绝对值小于0.00001则结束循环<br />return x;<br />}<br /><br />这个是求平方根的函数，n为要求的数<br />输出保留3位小数：System.out.printf(&quot;%.3f&quot;,x)；<br /><br />还有什么不懂得请继续追问
+5
+none
+http://zhidao.baidu.com/question/122319740.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/16715766.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2651645.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/118532005.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/150220623.html?qbl=relate_question_4

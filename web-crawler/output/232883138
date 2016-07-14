@@ -1,0 +1,11 @@
+教育/科学 
+C语言中的while(!i)是什么意思
+none
+fail
+0
+while(!i)<br />{<br />A<br />}<br />()里值为真，也就是为1时，执行while(!i){ A }里A并且一直执行。当()里为假，也就是0时，跳过{ A }直接执行循环后的程序。!是非，也就是i=0时!i=1。i=1时!i=0。
+http://zhidao.baidu.com/question/1445803333210348060.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/212423070.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/248412561.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/200529125.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/69084562.html?qbl=relate_question_4

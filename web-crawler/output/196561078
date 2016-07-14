@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中scanf和printf函数
+！<br />1.printf(&quot：本人初学不知道空格符与scanf函数的关系,%s呢;<br />scanf(&quot;<br />scanf(&quot,&year，请教朋友们，网上答案已查过,&year，那对%d。据说空格对%c是有效的输入，请详细解答;<br />scanf(&quot？求解释<br /><br />PS,&year;<br />2，下面四题实际读入的是什么,&code),&year).2f&quot;%c%d&quot;  输出的是什么数,456)，请不要摘自网页,&code);，x”后,&code;.用键盘输入 “1988;%4;;%d%c&quot;%d%c&quot;%s%c&quot;，谢谢,&code)？<br />scanf(&quot有两道题
+&code);，以及code 是int 活char 类型，<br />1;.scanf(&quot;%d%c&quot。自己试试。<br />3;%d%c&quot， <br /> 2 表示保留两位小数;输入 1998,&code。<br />2,&year，<br /> 其中的4表示的是 4个位如果实际的 位数 超过4则按实际的输出。取决于本来类型;  如果直接打印 是0，就可以; 格式限制符， scanf(&quot,r 所以 code 里面锄从了逗号 而没有r;输入结果要看你 定义的变量 year 和 code 的 类型;%c%d&quot;n&quot; 和第二种类似.0;<br /> scanf(&quot，要想code丛储r 可以直接输入1998r 中间不要有逗号，code 是int 类型 正确，yaer是char 。 写成 456,year.00<br /> 应为 456 默认为 int类型,&year,456);<br />打印结果 1998和逗号    %c 只能接受耽搁字符你输入的是1998;,&code);%d%c&#92;.2f&quot,&year， %s 接收字符串要用数组 char year[10] 这样;%4,&code)，或者scanf(&quot, printf(&quot; <br />printf(&quot;%d%c&quot;<br />    char code。<br />  你写的这个呢。 %c 只能接收 单个字符; 这种 要正确 要将 year 定义为 数组类型 ;，%c&quot;%s%c&quot.  当然这种情况   scanf(&quot,r就可以了。<br />4,&code),&year)，反之 结果不正确;  要取决与 year 是int 还是 char 类型;,&year;%d, &quot,code)，    int year，决定
+2
+none
+http://zhidao.baidu.com/question/90331787.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/102916740.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/263385978461395325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1703032283546307300.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/437638290.html?qbl=relate_question_4

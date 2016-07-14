@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序段解释
+<br />       print_table_row(ptr);<br />       printf(&quot;next=NULL;next=ptr;<br />                     if(ptr2-&gt;<br />       printf(&quot;<br />       else<br />       {<br />              system(&quot;y&#39;||continue_input==&#39;num==id)<br />                     {<br />                            ptr1-&gt;next=ptr2;num==id)<br />       {<br />              ptr-&gt;n&quot;)，在此之前插入学生信息;;)<br />              returninsert_record(head);N&#39;<br />                     ptr2=ptr1-&gt;Y&#39;<br />       }<br />       else<br />       {<br />              while(ptr2;;<br />       if(continue_input==&#39;<br />                            break:&quot;<br />                     }<br />           }<br />       }<br />      <br />       print_table_head();<br />           return head;<br />   stud=creat_by_input();<br />       if(head==NULL)<br />       {<br />              head=ptr;%d&quot;<br />       getchar(),*stud;);<br />       print_table_bottom();请输入一个学号;next=head;<br />       }<br />       elseif(head-&gt?(Y 继续 N 返回主菜单)&#92;<br />       structstudent *ptr;插入<br />{<br />       structstudent *ptr1;是否继续插入学生信息;<br />              head=ptr;<br />              Print_menu_main();cls&quot!=NULL)<br />              {  <br />                     ptr1=ptr2;head-&gt;<br />       ptr=studstruct student *insert_record(structstudent *head)&#47;<br />       scanf(&quot;<br />                            ptr-&gt;<br />   char continue_input=&#39;);&#47,&id);<br />       intid;next;<br />       continue_input=getchar();<br />       structstudent *ptr2=head
+解释什么？这不是一个用结构体变量实现的学生信息管理吗，下面是插入的功能的嘛
+1
+none
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/166443532.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/65235460.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/428081939.html?qbl=relate_question_3

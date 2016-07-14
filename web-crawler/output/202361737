@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序中如何区分字符是数字还是字母
+none
+||ch&gt;&&ch&lt;=&#39;&&ch&lt;9&#39;=&#39;);=&#39;a&#39;A&#39;0&#39;=&#39;z&#39;)<br />printf(&quot;=&#39;<br />if(ch&gt;字母&quotchar ch;<br />if(ch&gt;Z&#39;)<br />printf(&quot;);数字&quot;=&#39;&&ch&lt;<br />ch=getchar()
+18
+none
+http://zhidao.baidu.com/question/526603905.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/252166774.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/426009138.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/346417623.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/688000642725238444.html?qbl=relate_question_4

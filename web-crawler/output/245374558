@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+c语言问题 scanf(&quot;%d&quot;, &a); scanf(&quot;%c&quot;, &c); scanf(&quot;%d&quot;, %b); scanf(&quot;%d %c %d&quot;, &a, &c, &b);
+这两种写法有什么区别<br />在输入的时候 用空格区分输入 还是用回车区分输入
+;有区别……前面我说错了<br />这是 scanf用法的一个不好的地方<br />你在输入空格和回车的时候空格和回车会输入进scanf(&quot;%c&quot,&c)前加一个比如scanf(&quot;;%c&quot,&c)中<br />如果要改就在scanf(&quot;%c&quot
+8
+none
+http://zhidao.baidu.com/question/96879922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/282116651.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/162140403.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424645475.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/124205111.html?qbl=relate_question_4

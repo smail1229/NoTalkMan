@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 从键盘输入6个整数存入a数组中，编程将其按相反次序存放。
+none
+%d &quot;<br />	for(int i=0;2;<br />void change(int array[],6);<br />		array[i]=array[n-i-1],int n)<br />{<br />	int t;n&#47,a[6]#include&lt;;<br />	for(i=0;6;i&lt;%d&quot.h&gt;i++)<br />		scanf(&quot;<br />	change(a;i&lt;6;i++)<br />	{<br />		t=array[i];,a[i]);<br />	for(i=0;<br />		array[n-i-1]=t;<br />	}<br />}<br />void main()<br />{<br />	int i;i++)<br />		printf(&quot;i&lt,&a[i]);stdio
+1
+none
+http://zhidao.baidu.com/question/1574122623955158580.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/517691529.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/97349454.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/243774199.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92784794.html?qbl=relate_question_4

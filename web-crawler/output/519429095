@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，float x=3.14,计算x*x（3.14*3.14=9.8596），实际计算出来为什么等于9.859601？
+none
+十进制到二进制，再二进制到10进制输出有截断误差。<br />#include &lt;stdio.h&gt;<br /><br />main(){<br />int i,n;<br />double r;<br /><br />scanf(&quot;%d&quot;,&n);<br俯畅碘堆鄢瞪碉缺冬画 />for (i=0;i&lt;n;i++){<br />scanf(&quot;%lf&quot;,&r);<br />printf(&quot;%lf&#92;n&quot;,3.1415 *r*r);<br />}<br />return 0;<br />}
+1
+none
+http://zhidao.baidu.com/question/1429841096444508419.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/167028643.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/435876811.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/305242886.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/222044096.html?qbl=relate_question_4

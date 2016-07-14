@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言题 (关于continue)
+#include &lt;stdio.h&gt;<br />main()<br />{<br />int k=1,s=0;<br />    do<br />{<br />        if((k%2)!=0) continue;<br />        畅弗扳煌殖号帮铜爆扩s+=k;k++;<br />    }while(k&gt;10);<br />    printf(&quot;s=%d&#92;n&quot;,s);<br />}
+程序算法有问题<br /> <br />continue的意思是结束此次循环继续畅弗扳煌殖号帮铜爆扩下一次循环<br />按代码理解s为0，一共只循环一次，因为k为1，while那里就不满足条件了<br /> <br />如果改为while k&lt;10则是死循环，因为第一次if条件满足执行continue后k没有自增永远是1
+0
+none
+http://zhidao.baidu.com/question/128723141.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/372264028.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/355258903.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/518477712389843645.html?qbl=relate_question_4

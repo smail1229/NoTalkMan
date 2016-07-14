@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我写了一个c语言程序，用到数组。就是找出数组中所有数值大于等于80的数组并输出。可是却出现了这样的
+none
+a[i]为int型你却输入时用了%f,该用%d，或改为浮点型
+0
+none
+http://zhidao.baidu.com/question/497510467.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1987953046673542947.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/73354969.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/263955356.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/920149786982799299.html?qbl=relate_question_4

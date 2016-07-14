@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中sigh=(-1)×sigh term= sigh×(1&#47;deno ) term=sum+term deno= deno +1 谁什么意思？
+none
+把sum与term的和赋给term<br />deno=deno+1&#47你这里少了对sigh；也没有deno的初值、term；没有上下文的语境;/deno)&#47，看不出具体的用意<br />sigh=(-1)*sigh/把sigh的相反数赋给sigh<br />term=sigh*(1//&#47、sum，看不出它们是什么数据类型;deno的倒数与sigh的乘积赋给term<br />term=sum+term/&#47、deno的定义
+0
+none
+http://zhidao.baidu.com/question/195910551.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/61807343.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261913511.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/305259133.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/121719265.html?qbl=relate_question_4

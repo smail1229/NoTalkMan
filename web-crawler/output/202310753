@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问c语言中double双精度和float单精度的数据存储范围是多少？
+-32768～32767 <br />那么单双精度实型的上下限是多少，只有位数的限制比如int整形为4字节32位？<br /><br />请教？或者他们没有上下限，其定义分别有上下限
+有效数字15~16位，－10^308~~10^308，-10^38~~10^38double: 8字节:4字节。<br />float,有效数字6~7位。<br />^表示多少次方
+1
+none
+http://zhidao.baidu.com/question/202310381.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/569501010.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163051048.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/288036908.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1110217168262666339.html?qbl=relate_question_4

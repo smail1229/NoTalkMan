@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言char *arry[]是定义一个什么类型数据？
+指向数组的指针还是指针数组？
+就是a[4][4]的第一行; 例如;<br />p就是一个指向数组的指针;<br />如果是指向数组的指针，应该写成char (*arry)[]char *arry[]它是一个指针数组：<br />int a[4][4];<br />int (*P）[4]=a。就是数组里面是复合类型char *
+2
+none
+http://zhidao.baidu.com/question/872267862904840692.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/578691507.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1446998397654579460.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/541165131.html?qbl=relate_question_4

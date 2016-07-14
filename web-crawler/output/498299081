@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言素数判断
+<br />      else<br />         printf(&quot;k;&#92;<br />#define TRUE 1<br />#define FALSE 0<br />intIsPrimeNumber(int m)<br />{<br />  int i.h&gt.h&gt,i);<br />  for(i=0;;i&lt;i++)<br />      if(IsPrimeNumber(i))<br />         printf(&quot;<br />#include&lt;<br />}<br />int main()<br />{<br />    int IsPrimeNumber();;math#include&lt,k;<br />      else <br />         return TRUE;<br />}<br />voidTestPrime(int iNum)<br />{<br />  int i;<br />    void TestPrime();n%d is not aprime;=iNum;stdio;<br />  if((m==0)||(m==1))<br />      return FALSE;<br />  return 0;<br />  for(i=2;i++)<br />      if(m%i==0)<br />         return FALSE,i);n%d is a prime&quot;i&lt.&quot;&#92;<br />  k=(int)sqrt(m)
+i++)<br />  if(m%i==0)<br />  {return FALSE;,k.h&gt;;/=iNum;<br /> return 0;<br /> for(i=2;<br />  else<br />   printf(&quot;<br />    void TestPrime(int);i&lt;<br /> if((m==0)||(m==1))<br />  return FALSE;n%d is not aprime;break;<br /> k=(int)sqrt(m);i&lt;<br />}<br />int main()<br />{<br />    int IsPrimeNumber(int);<br />}<br />void TestPrime(int iNum)<br />{<br /> int i.&quot;<br /> for(i=2;&#92，你那个输出屏幕只显示一部分<br />#include&lt;n%d is a prime&quot,i);}<br />   return TRUE;&#92;已经改正/i++)<br />  if(IsPrimeNumber(i))<br />   printf(&quot,i);k;stdio.h&gt;<br />#define TRUE 1<br />#define FALSE 0<br />int IsPrimeNumber(int m)<br />{<br /> int i;<br />    TestPrime(1000);<br />#include&lt;math
+2
+none
+http://zhidao.baidu.com/question/189405513.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40505738.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80129422.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/515139947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/107964130.html?qbl=relate_question_4

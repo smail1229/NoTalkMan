@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程。函数Sort()用于对参数整数数组array的元素进行由小到大的选择排序
+直到排序完成，其中参数n表示array数组中存储的数组元素数，…；再将a[1]到a[9]中的最小数与a[1]对换。例如：先将10个数中的最小数与a[0]对换，假设数组array中有10个元素，选择排序就是函数Sort()用于对参数整数数组array的元素进行由小到大的选择排序.。请完成该函数并编写主函数验证之
+input 10 number;array[j]) <br />    {   <br />     &#47,&array[i]); i&lt; i&lt;数组元素个数<br />#include&quot; i&lt;;随便输入数组值<br /> int array[N]; i++)<br />   for(j=i+1; <br />     array[j]=temp;<br /> }<br /> /%d&quot;主函数<br />{<br /> /stdio;n,temp;10;  <br /> &#47.h&quot;交换<br />     temp=array[i]:&#92,N);<br /><br />void sort(int array[];<br />    }<br />   }<br />}<br /><br />void main()  /N,int n) /排序函数<br />{<br /> int i,i; j++)<br />   {<br />    if(array[i]&gt;调用排序函数<br />    sort(array;/输出排序后的结果<br /> for(i=0;&#47,j;<br />    printf(&quot;;/<br />    for(i=0; i++)<br /> {<br />  printf(&quot;<br /> for(i=0,array[i]);/);n;/ j&lt; <br />     array[i]=array[j]#define N 10  /n&quot;// i++)<br /> {<br />  scanf(&quot;%d &quot
+2
+none
+http://zhidao.baidu.com/question/65698975.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/204359454.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/360080084717227652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/154091496.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/266078623.html?qbl=relate_question_4

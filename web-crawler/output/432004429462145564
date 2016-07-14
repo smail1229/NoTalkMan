@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的一个问题，代码如下，我想要求的是在一个数组中，输入数组的数据，18的倍数比数组中的元素小，
+=4;stdio，这个18的倍数是最接近该数组元素的;<br />	printf(&quot,x;<br />		}<br />		sum+=x,i：%d&quot;i&lt,j;输入数据;j++)<br />		{<br />			x=18*j，例如;);j&lt;;销售为;N;<br />	}<br />	return sum;N;<br />	for(i=0：数组中的元素是37;i++)<br />	scanf(&quot:&quot;<br />	int a[N];<br /><br />	for(i=0，得到的元素就应该是36;%d&quot;18)<br />				return x;<br />			if((a[i]-x)&lt,sum)求这些数的和;.h&gt;i&lt;i++)<br />	{<br />		<br />		for(j=1,&a[i])，而不是18<br />#include&lt;<br />	printf(&quot;<br />#define N 2<br />int main()<br />{<br /><br />	int sum=0
+;j++)<br />        {<br />            x=18*j;i++)<br />    {<br />        for(j=1;18)<br />            {<br />                if((a[i]-x)&lt;N;<br />                break:&quot;输入数据;N;<br />    int a[N];i&lt,j：%d&quot;i&lt;j&lt,i;;9) sum+=x;销售为;<br />    printf(&quot;<br />            }<br />        }<br />    }<br />        printf(&quot;<br /><br />    for(i=0,x;<br />            if((a[i]-x)&lt;<br />                else sum=sum+x+18;<br />#define N 2<br />int main()<br />{<br />    int sum=0#include&lt;stdio;i++)<br />        scanf(&quot.h&gt;=4,&a[i]););<br />    for(i=0;%d&quot,sum)
+0
+none
+http://zhidao.baidu.com/question/226428783.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/297467102.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240138295243761444.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/446687271.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/297414098.html?qbl=relate_question_4

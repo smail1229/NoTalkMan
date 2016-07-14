@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急求一个c语言程序 输入5个学生成绩，求输出最高分和最低分 我是学生，希望不要用哪些太专业的函数
+none
+j&lt,j;<br />    m[j]=m[i];stdio;<br />main()<br />{<br />float m[5].h&gt;4;j++)<br />     if (m[i]&lt;);请输入5个学生的成绩;i++)<br />scanf(&quot;<br /><br />for(i=0,&m[i])#include&lt;最低分%4;<br />printf(&quot;.1f&quot,m[0]),t,m[4];<br />for(i=0;5;i++)<br />{<br /> for(j=i+1;.1f;<br />    m[i]=t，最高分%4;}<br />}<br /><br />printf(&quot;%f&quot;m[j])<br />      {t=m[j];i&lt;5;i&lt：&quot;<br />int i
+1
+#include &quot;stdio.h&quot;&#47;&#47;<br />void main(void){&#47;&#47;试试正确不?<br />    int a[5],i,max=0,min=32767;<br />    printf(&quot;请输入5个学生的成绩...&#92;n&quot;);<br />    for(i=0;i&lt;5;i++){<br />        printf(&quot;student%d:&quot;,i+1);<br />        scanf(&quot;%d&quot;,a+i);<br />        if(a[i]&gt;max) max=a[i];<br />        if(a[i]&lt;min) min=a[i];<br />    }<br />    printf(&quot;最高成绩是:%d&#92;n最低成绩是:%d&#92;n&quot;,max,min);<br />}
+http://zhidao.baidu.com/question/80605984.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/106215557.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/104711382.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1883378096438734508.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/504299093.html?qbl=relate_question_4

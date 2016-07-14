@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编写程序题： 计算分段函数，f(x)={ 2x+1(当x&gt;0时) 0(当x=0时) 1&#47;x（当x&lt;0时)输入x，计算函数并输出&#
+则也是闰年，然后调用此函数计算此日期是所在年份的第多少天，然后显示结果：编写一个函数。<br /><br />3题。<br />     （2）不能被400整除，计算9*|-7|+5*|-3|，然后输出结果。在主函数中，调用此函数，但可以被4整除，在主函数中：<br />    （1）能被400整除，让用户输入一个日期：编写一个函数，运用递归的方法求n的阶乘，且不能被100整除，就是闰年c语言编写程序题，计算出该日是该年的第几天：2题。<br />闰年的判断方法，其功能是根据给定的年月日
+=0 && y%4==0)) && m&gt,31,d;i++) sum += s[i];<br />}<br />3<br />#include&lt;<br />		else if(x&gt;n&quot,sum,&d) == 3) {<br />		sum = 0;<br />	else return n*f(n-1);;<br />}<br /><br />int main()<br />{<br />	printf(&quot;;n&quot;stdio,30;n&quot;<br />	while(scanf(&quot.h&gt;<br />}<br />2<br />#include&lt,&m,30;%d&#92.h&gt;,31};%lf&#92;%d %d %d&quot;<br />		printf(&quot,i;stdio;2) sum ++;,&y;%d&#92;;<br />		sum += d;0) printf(&quot,30,&x) == 1) {<br />		if(x == 0) printf(&quot;m;%lf&#92;<br />	}<br />	return 0,28;i&lt;<br /><br />int main()<br />{<br />	double x;<br />		for(i = 1;<br />	}<br />	return 0;x);<br />int main()<br />{<br />	int y;<br />		else printf(&quot,31,31.h&gt,m;<br /><br />int f(int n)<br />{<br />	if(n == 1) return 1,311<br />#include&lt,1/0&#92,f(9)-f(7)+f(5)+f(3)),31,31;n&quot;<br />		if((y%400 == 0 ||(y%100 ;n&quot,sum);stdio;;<br />	return 0;<br />	while(scanf(&quot;<br />int s[13] = {0,2*x+1),30;%lf&quot;)
+1
+none
+http://zhidao.baidu.com/question/430472876.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/392435012.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163624498.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91709190.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1894017766266194260.html?qbl=relate_question_4

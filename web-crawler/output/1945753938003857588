@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+大学的c语言求教。 int a=10 t； int *p=&a； t=*p； 那这个时
+<br />那这个时候t是什么啊。<br />int   a=10   t大学的c语言求教；<br />t=*p；<br />int   *p=&a！是a
+t是10，不是地址
+0
+none
+http://zhidao.baidu.com/question/100700518.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88151828.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1302059886391060299.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/314945309.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/355659428.html?qbl=relate_question_4

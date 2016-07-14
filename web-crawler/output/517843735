@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言类型强制转换
+char a;double d;int b;float c;则表达式a*b+d-c的值的类型是若有定义
+以表达式中最长类型为主、乘：<br />在进行运算时。<br />(2)若运算数中最长的类型为long型．则其他类型数均转换成long型数：<br />(1)若运算数中有double型或float型，将其他类型位据均转换成该类型，则char型也转换成int型进行运算，如进行算术运算（加，不同类型数招必须隐式转换成同一类型的数据才能运算、除，则其他类型数据均转换成double类型进行运算，算术转换原则为。算术转换是在运算过程中自动完成的<br />你所说的这个表达式结果类型为double型、减。<br />(3)若运算数中最长类型为int型、取余以及符号运算）时
+2
+none
+http://zhidao.baidu.com/question/502435603.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/513331402.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1382716.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/75362550.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234572727.html?qbl=relate_question_4

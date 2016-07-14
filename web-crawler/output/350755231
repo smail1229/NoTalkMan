@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+（C语言自定义函数，&#47;*编写函数实现在字符串pStr中查找子串pSub int subString( char* pStr, char* pSub);
+,pSub);<br />	for(i=0;<br />	printf(&quot;<br />char* sucString( char* pStr;),  char* pSub)<br />{<br />	int i！,num)！!=NULL)<br />	{<br />		pStr=sucString( pStr;<br />	return 0;<br />	printf(&quot;numpa;<br />		}<br /><br />	}<br />	return n,  char* pSub)<br />{<br />	int n=0;n&quot;<br />	strlenb=strlen(pSub);<br />	gets(pa):%d&#92;<br />    int strlenb;<br />			pStr=pStr+strlenb;n&quot！;<br />	char *pa=a：&#92;子字符串出现的个数为!=*(pSub+j))<br />				{<br /><br />break,  char* pSub);<br />	num=subString(pa;<br />int subString( char* pStr;<br />			}<br />		}<br />		<br />	}<br />	<br />	return NULL.h&gt！;<br />	int numpb！求高手指点哪里有错;<br />				}<br /><br />}<br />			if(j==(numpb-1))<br />			{<br />				return pStr+i！十万火急急;请输入一个字符串：&#92!=NULL)<br />		{<br />			n++;j++)<br />			{<br />				if(*(pStr+i+j)！<br />#include&lt;<br />		if(pStr;<br />	printf(&quot;<br />		gets(pb);i++)<br />	{<br />		if(*(pStr+i)==*pSub)<br />		{<br />			for(j=0;<br />int main()<br />{<br />	char a[100]={0},*pb=b;n&quot,j;stdio;<br />}<br />char* sucString( char* pStr;<br />	numpa=strlen(pStr);i&lt,numpa;<br />	while(pStr;<br />#include&lt;string;,pb),  char* pSub).h&gt;请输入要查找的自字符串; <br />}<br />int subString( char* pStr;<br />	char b[100]={0};<br />	int num;);numpb;<br />    numpb=strlen(pSub);j&lt！
+char* sucString( char* pStr,  char* pSub)<br />中的<br />if(j==(numpb-1))<br />不对<br />应该是:<br />if(j==numpb)
+0
+none
+http://zhidao.baidu.com/question/509504644.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90527508.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/186932444.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/323597476.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2051623274143408787.html?qbl=relate_question_4

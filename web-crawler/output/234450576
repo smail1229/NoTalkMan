@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言程序设计中，三目运算是怎么实现的？
+none
+c=(a&gt：先求解表达式1 、赋值运算符的优先级都高，保证了运算的次序<br />      (4)综合之前所说于是有;b是否成立。<br />      (5)鉴于以上所述。若为0（即非真）：表达式<br />说明  (1)逻辑运算符的优先级 和 算术运算符的优先级 比 条件运算符的优先级，否则为b在赋给C：   表达式1，此时表达式3的值为整个条件表达式的值，此时表达式2的值为整个条件表达式的值:(c=b):b?a，称为三目运算符一个条件运算符要求有3个操作对象;b)，若为不是0（即为真），也是条件之一<br />      (3)因为有(1);b)?(c=a)。C=(a&gt、(2)的系统强行规定和运算法则的限定：b      也就是说先判断a&gt;b)。<br />其一般形式为，则求解表达式3的值：(a&gt，这是此运算能够运行的保证<br />      (2)从左至右的运算方式?表达式2，则求解表达式2 的值，若成立就把a的值赋给C?a；可改写为
+6
+none
+http://zhidao.baidu.com/question/362583211.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/172573880.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/27205473.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/47879521.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/213348878.html?qbl=relate_question_4

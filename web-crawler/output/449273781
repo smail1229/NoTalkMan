@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 unsigned int a＝-1 printf（“-1＝%d＼n”，a）； 为什么输出值
+none
+因为%d输出的是有符号数，printf根据%d把a当作有符号数来读了
+0
+<p>　　输出值为-1。</p><p>　　原因：</p><p>　　1、在C语言中整型常量的数据类型默认为int，所以unsigned int a = -1中，-1的类型是int类型。实际上是有一个隐式转换，即将int类型转成unsigned int类型。 这个转换的意义不大，因为没有超出unsigned类型的表示范围，所以a的机器码依然是-1的机器码。</p><p>　　2、printf输出函数的控制字符是%d，即输出有符号数，所以结果是-1，如果要输出无符号数，请使用:</p><pre t="code" l="cpp">printf(&quot;%u\n&quot;,&nbsp;a);</pre>
+http://zhidao.baidu.com/question/72608838.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/321201627.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/232796019.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/357981366.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265931289900925628.html?qbl=relate_question_4

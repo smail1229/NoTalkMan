@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序对不对
+please input a;<br />      }<br />      求两方程的根;);<br />      printf(&quot;<br />      printf(&quot;<br />      float x1;<br />      if(p&gt,c=1回车，算出来不对,x2=%;stdio;(2*a),x1.2f,c&quot;<br />      }<br />       if (p=0)<br />      x1=x2=(-b)&#47;n&quot，但是算出结果不对;<br />      if (p&lt;<br />             printf(&quot;ax^2+bx+c=0,x1);a=%d;;(2*a);<br />             x1=(-b+k)&#47,&a;;<br />      p=b*b-4*a*c,b=%d。键盘输入.2f&#92;;0)<br />      {<br />             k=(float)sqrt (p),c=%d&#92;<br />      sleep(1000000),b=-2.h&gt,k,&c),p;x1=%,&b,x2).h&gt，程序可编译;<br />#include&lt;the equation is no answer&quot：a=1;0)<br />       printf(&quot;); <br />             x2=(-b-k)&#47;<br />      scanf(&quot#include&lt;math,b;n&quot,b;x1=x2=%;<br /> void main ()<br /> {<br />      int a;(2*a),c,x2.2f&quot
+x1);(2*a)程序基本正确,c=%d&quot;<br />#include&lt;<br />    float x1; <br />    printf(&quot;math.h&gt;<br />            printf(&quot;分隔］<br /><br />    p=b*b-4*a*c;<br /> }<br />else if (p==0)                                         (p=0) 改为  (p==0)  <br />        {<br />            x1=x2=(-b)&#47.2f;);<br />            printf(&quot;<br />void main ()<br />{<br />    int a,&c);(2*a),x2),c&#92,x2;stdio;<br />    if(p&gt,c;<br />getch();<br />            x1=(-b+k)/%d; <br />            x2=(-b-k)/ax^2+bx+c=0,p;;;;   输入时用 &quot.2f&#92,k.2f&quot;0)                                                        改用 if  -- else if -- else  三分支 结构<br />  {<br />   k=(float)sqrt (p),b=%d,please input a;x1=%;(2*a);<br />        }<br />    else<br />        printf(&quot,b,b=-2：a=1.h&gt;);         注意 键盘输入格式,%d;<br />    scanf(&quot,&b,&a;a=%d,%d&quot,&b,&a,&c);the equation is no answer&quot,c=1  回车<br />［可化简为  scanf(&quot;x1=x2=%,b，&quot,x2=%;n&quot;;n&quot;                                                 用getch()，只略作改动<br /><br />#include&lt,x1;
+0
+none
+http://zhidao.baidu.com/question/12870648.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/167645555.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424560011.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1430171526447769779.html?qbl=relate_question_3

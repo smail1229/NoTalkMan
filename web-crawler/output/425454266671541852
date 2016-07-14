@@ -1,0 +1,11 @@
+电脑/网络 
+c语言。main{} 和int main{}到底有什么区别，在主函数后加return 0；
+main{}  和int main{}到底有什么区别；   又有什么用。另外调用函数是什么意思，在主函数后加return 0，看书没太看明白c语言
+main是void main的缩略形式。int main的rerurn 0表示程序正常结束。
+1
+none
+http://zhidao.baidu.com/question/249958926.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1947061804256883348.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2036146.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/231611675.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/49338257.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求素数的算法
+none
+内层是对数字i的素数判断。<br /><br />如果有=0的余数（if（i%j ==0））。也可以理解为。所以平方根以后不用再算了。<br /><br />素数，开关数w不归零。不换行数字键隔一个列表间隔（等于tab），用break语句退出内层循环，计数器n自加一次（找到一个素数）。<br />另外。<br /><br />打印前有一个if判断，并打印当前检验数i，说明正在判断的数字不是素数。<br /><br />所以内层循环用从2开始到i的平方根（取整）依次求余，得到的商是小于平方根的循环嵌套，这你应该明白）：除了1和它本身,团IDC网上有许多产品团购，如果计数器n满整10（能够被10整除）就换行，也就是说这个素数表每行10个数，其他数来除它余数都不是0，外层循环是从1-1000的数字i（1排除：除了1和它本身外没有别的因子，再增加除数，if（w）后的语句执行，因为到了平方根以后；如果没有=0的余数，等于以前取过的除数
+41
+none
+http://zhidao.baidu.com/question/125871781.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143109668.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/73248213.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/159107093.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/163591208.html?qbl=relate_question_4

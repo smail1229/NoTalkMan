@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言： (int)(num&#47;=10); 请问我写的这个表达示对吗？（将float型的变量强制转换成整型）
+none
+int k = num/10;<br /><br />就可以了,不管num是什么型的
+0
+none
+http://zhidao.baidu.com/question/69731909.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/253664261.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/6556663.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/270304129.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/162435619.html?qbl=relate_question_4

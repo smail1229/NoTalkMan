@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若数组a中有十个整数8,2,5－3，7，－9，0，－4，10，15,请编程求出该数组中的最大值和最小值。（用C语言）
+none
+10;a[i])<br />       max=a[i].h&gt,0,2;}<br />printf(&quot;i&lt;10#include&lt,min,-3,-9;,7;i++)<br />   {if(max&lt;stdio;a[i])<br />        min=a[i];%d&#92;t%d&quot,15},max,-4;<br />     if(min&gt,5;<br /> for(i=0,a[ ]={8;<br />max=min=a[0];<br />void main()<br />{int i,max,min)
+0
+none
+http://zhidao.baidu.com/question/324333110.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192116366.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/745641302273543972.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/408357122.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/261198625.html?qbl=relate_question_4

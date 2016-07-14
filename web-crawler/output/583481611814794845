@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+易语言 数组成员引用下标超出定义范围 附源码
+none
+这个好像你是根据我的源码改造的吧？<br />只要你在剪头指向行代码上面加如下代码就行：<br />.版本 2<br />    .如果真 (取数组成员数 (资料2) ≤ 1)<br />   订姬斥肯俪厩筹询船墨     跳出循环 ()<br />    .如果真结束<br /> <br />变成了：<br />.版本 2<br />    &#39; 其他的代码我略过，只写下面的<br />    资料2 ＝ 分割文本 (资料 [i], #换行符, )<br />    .如果真 (取数组成员数 (资料2) ≤ 1)<br />        跳出循环 ()<br />    .如果真结束<br />    &#39; -----其他代码我也略过，下面就按你自己写的<br />    &#39;-----我写的代码你更改以后有啥问题可以私信我。
+0
+none
+http://zhidao.baidu.com/question/127252160.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/93077463.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1574073420128901900.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/505690478.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/752220612563359684.html?qbl=relate_question_4

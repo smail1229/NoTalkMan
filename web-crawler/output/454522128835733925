@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 a为int型，其值为3。 a+=a－=a*a的结果是？尽量加讲解。
+none
+// /a=3-9=-6<br />最后计算<br />a+=-6;  /<br />在计算<br />a-=9先计算<br /><br />a*a=3*3=9;a=-6+-6=-12
+3
+none
+http://zhidao.baidu.com/question/647095008527652805.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/39385925.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/403319494.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/517919186.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/517923743.html?qbl=relate_question_4

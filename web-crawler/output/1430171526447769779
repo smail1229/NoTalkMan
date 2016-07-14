@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序。帮我看看哪错了？？？
+%f&quot;struct Student*creat(); } p2-&gt;%ld %5;&#92;next,%f&quot; p2=p1;num;num; if(n==1)head=p1;#include&lt!=NULL);}void print(struct Student head){ struct Student*p;   p=p-&gt;score).h&gt; p1=p2=(struct Student*)malloc(LEN); return head.1f&#92; p1=(struct Student*)malloc(LEN);#include&lt; struct Student*p1,p-&gt; float score;nNow,These%drecords are;%ld;    head=NULL,p-&gt;malloc;;};; n=0;n&quot;next=p1;n&quot.h&gt!=NULL)  do  {   printf(&quot;<br />}void main(){ struct Student*head;#define LEN sizeof(struct Student)struct Student{ long num,&p1-&gt; p=head; scanf(&quot;score); struct Student*next,n);    while(p1-&gt;int n:&#92,&p1-&gt; printf(&quot;next=NULL!=0) { n=n+1,&p1-&gt;{ struct Student*head;num,&p1-&gt;,*p2;    scanf(&quot; else p2-&gt;num;score);%ld; if(head; print(head);  }while(p; head=creat();stdio
+#define LEN sizeof(struct Student)<br />宏常量定义中间是不能有空格的，改为<br />#define LEN sizeof(Student)
+2
+none
+http://zhidao.baidu.com/question/541126108.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/211578958.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52409102.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183489253.html?qbl=relate_question_3

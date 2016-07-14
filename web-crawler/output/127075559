@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针难点？高手请进… typedef int *p; p r; p &q=r; 这是怎么理解？
+none
+ <br /> int aa = 0x2222, *q =%x;*r = %x ;<br /> r =&aa, *r, aa =%x &#92;<br />         p &q=r;<br />}<br /><br />从结果可以看出; <br /> *q =0x3333;<br /> printf(&quot，通过引用已经改变了aa里面的值;<br /> p r =NULL;,*q, aa)typedef int*  p; <br />void main(void)<br />{<br /> uchar i;n&quot
+3
+none
+http://zhidao.baidu.com/question/198325815.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/252345132.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/5804406.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/489599403.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/354581288.html?qbl=relate_question_4

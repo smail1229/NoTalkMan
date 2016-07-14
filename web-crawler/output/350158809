@@ -1,0 +1,11 @@
+电脑/网络 软件开发 数据结构及算法 
+C语言问题（关于递归算法）
+如何做的; <br />	         *s = f1 + f2, &f2);<br />	     else <br />	    { 		 <br />                         Fun(n – 1请明白人帮忙解释一下, &x);<br />	     Fun(6, f2,  int  *s)<br />	{		<br />                      int  f1;<br />	    }<br />	}<br />	main( )<br />	{		 <br />                     int  x.h&gt;stdio; <br />	         Fun(n – 2, x);<br />	      if (n == 1 || n == 2)<br />                       *s = 2;<br />	void  Fun(int  n ;  printf(“%d”, &f1)，对这道题弄不明白<br /><br />	#include  &lt
+n=6  f1为n=5时的*s  f2为n=4时的*s<br />n=5  f1为n=4时的*s  f2为n=3时的*s<br />n=4  f1为n=3时的*s  f2为n=2时的*s<br />n=3  f1为n=2时的*s  f2为n=1时的*s<br />n=2 n=3的*s 都是知道的   那就可以逆推回去 得到n=6时的*s  这个就是main中 x的值喽
+1
+none
+http://zhidao.baidu.com/question/74073955.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1923716532745801387.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/936038991156888092.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1303596571893524219.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/557284715.html?qbl=relate_question_4

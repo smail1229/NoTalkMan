@@ -1,0 +1,11 @@
+电脑/网络 
+c语言大神进 c语言大神进 若已定义x和y都为double型，则表达式x=1,y=x+
+000000<br /> 答案为什么可以这样写啊？<br />答案是2，则表达式x=1.0<br /> y不是double型的吗？可不可以写成2,y=x+3&#47;2的值是c语言大神进<br /><br />c语言大神进<br /><br />若已定义x和y都为double型
+fail
+0
+none
+http://zhidao.baidu.com/question/489406691636621892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/425546983546274132.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127716380.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/51015080.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/688649720267413924.html?qbl=relate_question_4

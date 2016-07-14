@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的一个题目，请给出具体解释，11点之前有效，谢谢
+定义unsigned short x = 0xFFFF;执行<br />语句printf(“%d&#929. short型数据占两个字节;n”,x)
+由于他占16位，初始化0xFFFF后他的值默认就是正数<br />同时选A<br /> <br />x由于是无符号数，那么在内存中，他的各二进制位就是<br />1111 1111 1111 1111          16位全是1，且最高位不是符号位
+1
+none
+http://zhidao.baidu.com/question/1540250236048376427.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390405031479077005.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1302599152239667339.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/484854422.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/244621456.html?qbl=relate_question_4

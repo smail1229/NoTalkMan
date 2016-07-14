@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里面横向跳到下一制表位(&#92;t)是跳了几个空格
+none
+t3<br />则会输出<br />空空空空空空空空3<br />而加入有8个，也就是如下<br />21&#92;tX<br />12345678X<br />如果有9个;t3<br />则会输出<br />21空空空空空空3<br />如果没有，如果已经有2个了;tX<br />123456789空空空空空空空X<br /> <br />如果还没理解绝对位置8个，请给我邮件mcg890414@163，则会隔7个输出<br />123456789&#92，是<br />&#92，则会不空输出<br />12345678&#92。<br />也就是说
+190
+none
+http://zhidao.baidu.com/question/459831785.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239439984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/487537613.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/99003603.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/319737331.html?qbl=relate_question_4

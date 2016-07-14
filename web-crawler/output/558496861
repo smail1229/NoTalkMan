@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中%p%m什么意思
+none
+一般为了输出地址了%p意思就是以16进制的格式输出。<br />%m输出错误的，errno（一个全局的变量）里面的错误码以字符串的形式输出
+6
+none
+http://zhidao.baidu.com/question/125445694.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/444774483.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/259054476.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/751840091654948964.html?qbl=relate_question_3

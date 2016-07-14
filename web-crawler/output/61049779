@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教C语言关系表达式问题
+&brvbar!X等价的C语言关系表达式 <br /><br />书后答案为X==0 &brvbar?设X为整型?请详说下;X==1请问各位高手为何会有X==1?,请以最简单的形式写出与逻辑表达式
+如果非要展开了是有很多式子的：<br /><br />  x.<br />2），既x代表的含义为True时!x ）  等价于 （ x==0||x==1 ）<br />这是不对的!x 等价于 x==0，既x代表的含义为False时：<br />（ !=0 时，估计设计这个问题的人想让做题的人明白两点:(false) 等等：当 x==0 时.<br /><br />但是：<br />1）!x 等价于 x==1,是取非的最简单表达式，既TRUE。<br /><br />。<br />在C语言中对0值取非其结果为1。<br />在C语言中对非0值取非其结果为0?0?(true):1<br /> (x==0)：当 x：x==0||x==1  <br />      是有歧义的，给的答案很容易让人误以为 ，（ x==0 || x==1 ） 这个表达式永远为 1,如，答案!x ，
+1
+none
+http://zhidao.baidu.com/question/96394138.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145260383.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/118833996.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/47205814.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134988547461924645.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，关于定义#define 的一个问题
+j=2;}<br /> <br />输出结果为什么是  143 ;%d&#92,S(k+j))#include  &lt;<br />#define  S(x)   4*(x)*x+1<br />main()<br />{int k=5;n&quot;<br />printf(&quot;;stdio.h&gt
+#define S(x) 4*(x)*x+1 //注意后面的x没括号<br /> <br />S(k+j)会被替换为 4*(5+2)*5+2+1==143<br /><br />输出143
+2
+none
+http://zhidao.baidu.com/question/161356351.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158476867.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/72503303.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/136096361.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 程序设计 关于 二元一次方程
+y)？是两位数 甚至三位数呢;  这种方式来实现任意输入表达式？  就假如读取出来放到另外一个 int  x 。<br />1）如果能保证 a  b 小于10  那么可以按照y[i]  这样把 x的系数读取出来。<br />2） 如果 a b  小于10呢？那怎么读取出来x系数呢求二元一次方程 ax^2+bx+c=0<br />如果采用  scanf（&quot;%s&quot;
+<br /> if(signal==1)b=0-b;+&#39;<br /> i++.h&gt;<br />    if(signal==1)c=0-c;<br /> a=getpara(s!=&#39;)i++;stdio;<br /> printf(&quot;);-&#39;<br />  while(s[*i],b=%d;<br />}<br />void main()<br />{<br /> int a=0;<br /> char s[32];<br />  }<br />  while (t,signal;<br /> c=getpara(s;a=%d,t=0;n&quot!=&#39,a!=&#39;<br /> char temp[32];&&s[*i];x&#39,b=0,c=0;-&#39,&i);<br /> b=getpara(s;<br />}<br />你看看行不;&&s[i];)<br /> {<br />  a=1;<br />   k++;<br /> if(s[i]==&#39;;<br /> printf(&quot!=0)<br />  {<br />   a=a+(temp[t-1]-48)*pow(10,i=0,k);<br /> while(s[i];<br />    if (s[*i]==&#39;<br />#include &lt;math;请输入一个一元二次方程的标准形式;+&#39;-&#39;)signal=1,&i)，如2x^2+3x+9=0&#92;<br />    while (s[i];n&quot!=&#39;&&s[i];=&#39!=&#39,&i),c=%d&#92;)i++;-&#39;x&#39.h&gt;<br />  }<br /> }<br /> return a;<br />  t=0,b,c),int *i)<br />{<br /> int a=0;<br />int getpara(char s[];<br />    if(s[i]==&#39;)<br />  {<br />   temp[t++]=s[(*i)++],t=0!=&#39;<br /> ++i;<br /> }<br /> else <br /> {<br />  int k=0;<br /> <br /> gets(s);<br />   t--,temp[32];)signal=1#include &lt
+1
+none
+http://zhidao.baidu.com/question/410470097.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196079834.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/455141165.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/479326151.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/137410118.html?qbl=relate_question_4

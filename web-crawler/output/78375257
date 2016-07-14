@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言结构体定义
+none
+下面定义; 就是你把整型int重命名为zhengshu; 和 zhengshu i，比如 typedef int zhengshu，也就是说struct student和student表示同一个事物。<br /><br />第一个是用typedef把struct student这个结构体类型名字重新定义为student：int i第二个struct student是定义了一个student结构体，这个明白吧，都是一个类型的标识符
+709
+<p>　　struct在C语言中是一个关键字，用于定义结构数据类型。</p><p><br /></p><p>　　问题中的两种定义的区别在于第一种是给student数据类型，重新定义了一个类型别名，而第二种则单纯的表示一种叫做student的数据结构类型。两者的主要区别在于后面直接定义变量时。如下代码，则可以直接在结构体后面定义一个zhang_san的结构体变量。</p><pre t="code" l="cpp">struct&nbsp;student<br />{<br />int&nbsp;num;<br />struct&nbsp;student&nbsp;*next;<br />}zhang_san;</pre><p>　　而第一种的定义，则会出现错误。</p><pre t="code" l="cpp">typedef&nbsp;struct&nbsp;student<br />{<br />&nbsp;int&nbsp;num;<br />&nbsp;struct&nbsp;student&nbsp;*next;<br />}student&nbsp;zhang_san;</pre><p>　　<br />扩展：</p><p>　　“结构”是一种构造数据类型，现在一般叫做用户自定义数据类型，它是由若干“成员”组成的。&nbsp;每一个成员可以是一个基本数据类型或者又是一个构造类型。&nbsp;结构即是一种“构造”而成的数据类型，&nbsp;那么在说明和使用之前必须先定义它，也就是构造它。如同在说明和调用函数之前要先定义一样。</p><p><br /></p><p>　　定义一个结构的一般形式为：</p><pre t="code" l="cpp">struct结构名<br />{<br />//成员表列<br />};</pre><p><br /></p><p>　　成员表由若干个成员组成，&nbsp;每个成员都是该结构的一个组成部分。对每个成员也必须作类型说明，其形式为：“类型说明符&nbsp;成员名;”。成员名的命名应符合标识符的书写规定。例如：</p><pre t="code" l="cpp">struct&nbsp;stu<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;num;<br />&nbsp;&nbsp;&nbsp;&nbsp;char&nbsp;name[20];<br />&nbsp;&nbsp;&nbsp;&nbsp;char&nbsp;sex;<br />&nbsp;&nbsp;&nbsp;&nbsp;float&nbsp;score;<br />};</pre><p><br /></p><p>　　在这个结构定义中，结构名为stu，该结构由4个成员组成。&nbsp;第一个成员为num，整型变量；第二个成员为name，字符型数组；第三个成员为sex，字符型变量；第四个成员为score，浮点型变量。&nbsp;应注意在括号后的分号是必不可少的。</p>
+http://zhidao.baidu.com/question/535824970.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89128922.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/322328587.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1110346212211149579.html?qbl=relate_question_3

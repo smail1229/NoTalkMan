@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中调用COS函数的应用问题
+<br />printf(&quot;，用来算COS值的,a)？double float 和float之间有这么多区别么;math，得出来的结果都是0;<br />}<br /><br />的时候;<br />printf(&quot;<br />a=cos(x),a)。无论输入什么数字,a;<br />scanf(&quot.h&gt,a;%f&quot，程序却不能正常运行：<br />当输入<br /><br />#include&lt;<br />}<br /><br />的时候：<br /><br />#include&lt,&x);stdio;cos x=%f&#92.h&gt.h&gt,&x)我用TC2;;<br />scanf(&quot。<br /><br />请问这是什么原因呢;<br />main()<br />{<br />double x.h&gt;n&quot;n&quot;<br />main()<br />{<br />float x;，程序能正常运行.0做了个很基本函数;<br />a=cos(x);stdio;%f&quot;cos x=%f&#92;;<br />#include&lt；<br />可当输入，遇到了一点问题;math;<br />#include&lt
+你必须通过%f %lf来告诉它这一点，double 用 %lf，float 用 %f 、double都用%f，无需区分，因为即使你传的是float。<br /><br />printf时scanf时. 因为scanf不知道你传的是float还是double数的地址，float，也会被编译器先自动转换为double再交给printf
+10
+none
+http://zhidao.baidu.com/question/513632384.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1883271017160798468.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/4690341.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/149275106.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/548499630.html?qbl=relate_question_4

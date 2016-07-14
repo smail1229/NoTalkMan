@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言  static静态变量
+<br />y=y+1;endl;&lt;p(1)&lt;}<br /><br />答案是3和5，为什么不是3和4呢;<br />return (x+y);&lt.h&quot;&lt;<br />cout&lt;p(2)&lt;&lt;<br />int p(int x)<br />{<br />static int y=1#include &quot;endl;}<br />int main()<br />{<br />cout&lt;iostream
+y已经加1了，下次执行p（2）时，而不像普通变量那样函数执行一次分配一次，还是2；你就当全局变量的功能处理就行c语言的static变量是在程序加载的时候就为之分配内存的，y不会恢复成1，一直到程序结束。所以当第一次执行p（1）的时候
+47
+none
+http://zhidao.baidu.com/question/116491920.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/261702466.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/196150496.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/403720755.html?qbl=relate_question_3

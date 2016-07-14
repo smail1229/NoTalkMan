@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的typedef 定义结构体的问题。
+none
+别名,stPACKED也是个类型名,你可以用stPACKED去定义一个该结构体对象,例如stPACKED st;相当于int i; int 就是整型类型的类型名,它表示你定义的那个结构体类型,不是具体的变量typedef其实就是为结构体类型定义了一个新的名字
+2
+替代   __attribute__((packed)) <br />当然只在 LINUX 下有效果<br /> <br />所以前边有<br />#ifdef        SYSTEM_USE_ARM_LINUX<br />来做为约束条件<br /> <br />在非LINUX 系统下  stPACKED 就是空了<br /> <br />这是为了提高代码的可移植性<br /> <br />__attribute__((packed))  是 LINUX 下c语言扩展的语法<br />windows下c语言里是没有的 <br /><br />在LINUX下替换后是<br /> <br />typedef struct {<br />&#47;&#47;成员名省略<br /><br />}  __attribute__((packed))    MDIN_4CHVIDEO_INFO;<br /> <br />在windows下替换后是<br /> <br />typedef struct {<br />&#47;&#47;成员名省略<br /><br />}     MDIN_4CHVIDEO_INFO;
+http://zhidao.baidu.com/question/519420845.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153618359.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89128922.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/169598031.html?qbl=relate_question_3

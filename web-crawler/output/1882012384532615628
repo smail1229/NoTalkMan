@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题。 *p+i与*（p+i）有什么区别啊？
+none
+理解成char (*p)。那么，而*(p+i)是在先p+i再*操作，在这里是“取值”;*p在一起是一个char，*是什么意思呢，*p+i就是*p的值加上i，再返回前地址的值。所以，*(p+i)是把指针移动i个位置其实在定义时你这样理解就很清楚答案了：<br />char *p
+4
+none
+http://zhidao.baidu.com/question/474111996.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/16537798.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90429271.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_4

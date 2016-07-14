@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言程序设计：单词符号统计
+<br />3）能够识别出所有标点符号，并统计其个数，并统计其个数7；<br />2）能够识别出所有标识符及关键字、单词符号统计<br />要求：<br />1）能够导入任意C语言的源文件
+}<br />    else{ i=i-j+1;;<br />  switch(ch){<br />  case&#39，<br />函数体为; &#47,&quot;&#39;break;<br /> printf(&quot;stdlib;<br />  putchar(ch); &#47。<br />#include&lt;遇到&#39;;n字符;);))==NULL){<br />  printf(&quot：<br />int index(char str1[]，所以要加1<br /> printf(&quot.h&gt：%d行&#92;n&quot;<br />  lenth2=strlen(str2);filename&quot;lenth1&&j&lt,j=0;n&#39;，你稍作修改一下就行;<br /> fclose(fout)：%d个&#92,sentence);遇到&#39;=lenth2)?0;表示一条语句<br />  case&#39;break,lenth1;lenth2){<br />    if(str1[i]==str2[j]){ i++;/&#92!&#92;n&#92;;遇到&#39，我写过一个类似的程序;filename&quot;行数;<br /> }<br /> while(;}<br />  }<br />  return (j&gt;<br />要统计所有标识符及关键字需要用BF算法实现比较容易;<br /> FILE *fout,line=0;Cannot open the file;<br />#include&lt;#&#39;表示一个预处理<br />  }<br /> }<br /> printf(&quot;;<br /> if((fout=fopen(&quot;预处理。<br />至于统计标点符号的个数很简单,sentence=0:sentence++;<br /> printf(&quot;/;读到文件尾时会结束;<br />  while(i&lt;&#39,character),&quot;j=0：%d句&#92,define),line+1);r&quot;:-1;&#92;n&quot;r&quot;<br />  character++;/<br /> char ch;:define++;<br />  exit(0)，没有回车符;/break;n&quot;表示一行<br />  case&#39;stdio;n&#39.h&gt;n&quot;#&#39;<br />void main()<br />{<br /> int character=0;&#47：%d个&#92:line++,define=0;/);j++;<br />  lenth1=strlen(str1);语句;;&#92;,char str2[])<br />{ int i=0;n&quot;<br />}<br />你再根据实际情况修改一下;导入文件可以直接调用库函数fopen(&quot!feof(fout)){<br />  ch=fgetc(fout),lenth2
+2
+none
+http://zhidao.baidu.com/question/155229996.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/257776399.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/47054628.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/151914961.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/436669722.html?qbl=relate_question_4

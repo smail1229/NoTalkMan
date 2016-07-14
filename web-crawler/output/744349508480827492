@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计题目要求设计一个程序当输入项数时输出兔子序列（1，1，2，3，5，8......）
+该项的佩布拿奇数列值为;<br />long p(int a)<br />{<br />if (a&lt# include &quot;;%d&quot：%d&quot;stdio.h&quot;<br />}<br />main()<br />{<br />int a;3)<br />return(1);<br />sancf(&quot;<br />printf(&quot,p(a));,&a);<br />else return(p(a-1)+p(a-2))
+fail
+2
+none
+http://zhidao.baidu.com/question/105527026.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/103885510.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/519350542677755845.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241876847632164604.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/360607533.html?qbl=relate_question_4

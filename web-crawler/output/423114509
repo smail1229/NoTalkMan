@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，如何统计一维数组中重复频率最多次的元素，（数组中可能存在多组相同元素），并将其输出。
+不知我的问题讲的清楚不，希望给个答案。谢谢
+<br /><br />void main()<br />{<br />	unsigned short arr[] = {1, *pTempInfo, 6; sizeof(short);<br />			pHeadInfo-&gt, value = %d&#92, 8;<br />		}<br />	}<br /><br />	while (pHeadInfo)<br />	{<br />		if (pHeadInfo-&gt;Max count = %d;<br />			pEndInfo-&gt;<br />		}<br />		pHeadInfo = pHeadInfo-&gt;nCount = 1;<br />			pHeadInfo-&gt, *pEndInfo = NULL, 7, 9}, 8.h&gt;<br />	for (i = 0;<br />};<br />			pEndInfo = pHeadInfo;<br />			sLastValue = arr[i];<br />			pTempInfo-&gt;<br />			sLastValue = arr[i]; i &lt;<br />	int nCount;nCount = 1;;<br />			continue;pNextInfo;stdio;nCount;<br />	short sLastValue, 6;<br />	int nMaxCount = -1;nValue);n&quot;<br />			pTempInfo-&gt;<br />	}<br /><br />	printf(&quot;<br />			pEndInfo = pTempInfo;nValue = arr[i];nCount++;nValue = arr[i];<br />	int MAX_SIZE = sizeof(arr) /);pNextInfo = pTempInfo;<br />		}<br />		if (sLastValue ;stdlib, 5;<br />	struct VALUE_INFO *pHeadInfo = NULL;PAUSE&quot, 2;<br />		}<br />		else<br />		{<br />			pTempInfo-&gt!= arr[i])<br />		{<br />			pTempInfo = (struct VALUE_INFO*)malloc(sizeof(struct VALUE_INFO));pNextInfo = NULL; MAX_SIZE, pTempInfo-&gt.h&gt, 6; i++)<br />	{<br />		if (pHeadInfo == NULL)<br />		{<br />			pHeadInfo = (struct VALUE_INFO*)malloc(sizeof(struct VALUE_INFO)); nMaxCount)<br />		{<br />			pTempInfo = pHeadInfo, 6;<br /><br />struct VALUE_INFO<br />{<br />	int nValue;<br />			nMaxCount = pHeadInfo-&gt;<br />			pHeadInfo-&gt;<br />	struct VALUE_INFO *pNextInfo;<br />	system(&quot, 2, pTempInfo-&gt;nCount &gt;<br />	int i, 4;<br />			pTempInfo-&gt;pNextInfo = NULL;nCount#include &lt;<br />#include &lt
+2
+none
+http://zhidao.baidu.com/question/132916507.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/509784773.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/507249869.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/391293918.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/342610813.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+int a,b,c; a=(b=c=5,++b,b+(c++)) 最后算出abc为多少是C语言中的题目该怎么算详细说下
+none
+c=6，接着b+(c++)，然后++b；<br />看你的代码，而c的值为6,b=6,此时b的值为6：a=(b=c=5，b,c赋值，先算括号中的C++这个是关于逗号表达式,b+(c++)),++b,顺序是由左向右运算，接着运算b+括号的值为11，首先给b,c均为5，因此括号的整体值为5，而c的值依然是5，整体的值就是最后一个式子的值，所以输出的是a=11，即a的值为11，到此整个表达式的值就为11;<br />就这么多
+4
+none
+http://zhidao.baidu.com/question/646921114764601925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/561385533.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/384941986.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/357244378.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/455660256913618525.html?qbl=relate_question_4

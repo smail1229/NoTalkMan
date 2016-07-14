@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数据类型转换问题！
+b=a，FLOAT型精度不是7位吗,b; c=a;n,j; <br />return 0,j),c=%d：a=123456; <br />long c，精度是怎么减少到8位的,i#include&lt，上面的运行结果看不懂.h&gt, b=123456;a,j=-7616 <br />刚学C语言不久;stdio;a=%f; <br />float b; <br />int main(void) <br />{ <br />double a = 123456！急切希望哪位能帮我解决; <br />b=a,j=%d&#92.789098765！谢谢了,c,c=123456; <br />printf (&quot.789099,&quot; <br />short i.789063这个输出结果不懂.789063;j=c; <br />} <br />运行结果为,b=%f,i=%d！ <br />主要是b=123456,i=-7616！; i=a,最后不b的值是FLOAT型的还是DOUBLE型的！希望说详细点
+b=a,最后不b的值是FLOAT型的还是DOUBLE型的!<br />是 FLOAT 类型<br />将一个DOUBLE副给一个FLOAT类型<br />截取前7位 有效数字<br />建议你看看 老潭的 三版<br />三章九小节 上面讲的很清楚
+3
+none
+http://zhidao.baidu.com/question/189511147.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/147193371.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1365876725393664539.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/149508982.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/65726335.html?qbl=relate_question_4

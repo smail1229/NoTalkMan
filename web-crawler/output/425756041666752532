@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言程序为什么输出的总是0.0000
+none
+ &#47.score[1].score[2] ); ！，所以，输入时不能用%d  , &stu[i];而且数组下标要从0开始， 换成%f<br />scanf(&quot;/%f %f %f&quotfloat score[3] 类型是浮点类型,  &stu[i].score[0]！ 不然score[3]就越界访问了, &stu[i]
+0
+none
+http://zhidao.baidu.com/question/243843379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/530174931.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149946076.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/226399842.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/210746445.html?qbl=relate_question_4

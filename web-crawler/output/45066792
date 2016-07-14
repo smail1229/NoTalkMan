@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言fopen函数
+如果想给c:&#92;program filse&#92;1.txt里写东西<br />fopen应该怎么写<br />我试过了如果是fopen(&quot;c:&#92;&#92;program f旦害测轿爻计诧袭超陋iles&#92;&#92;1.txt&quot;,&quot;w&quot;)的话,程序就会在c:&#92;program&#92;下写一个1.txt;当然要program存在.<br />应该怎么办<br />给program files加&quot;&quot;也不行..编译不过去...
+把“program files”换成“progra~1”试试看。
+5
+none
+http://zhidao.baidu.com/question/434964503.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90780189.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/222390538.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/502773097.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/42648385.html?qbl=relate_question_4

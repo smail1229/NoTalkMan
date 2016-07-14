@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言指针怎么理解
+none
+把指穿肠扁段壮灯憋犬铂华针理解为一个存放内存地址的特殊变量！<br />这个变量可以通过地址来间接访问变量和使用变量！<br />int i = 5;<br />int *p = &i;  //p变量存放的是i变量的地址，我们形象的称p指向i这个变量<br />要搞清楚几个关键概念，<br />指针的地址，指针所指向的地址，指针本身的值，指针所指向变量的值！<br />理解这四个概念就能学好指针！
+0
+none
+http://zhidao.baidu.com/question/194826045.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143946734.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/453524424.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253323987.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/547088286.html?qbl=relate_question_4

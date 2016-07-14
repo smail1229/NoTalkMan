@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的问题：double和float 的区别！
+c;<br />#include&lt,s;<br />  s=sqrt(m*(m-a)*(m-b)*(m-c));),m;<br /> if(a+b&gt？<br />#include&lt；第一个不行可是第二个却可以为什么？;math;<br />  printf(&quot,&b.2f&quot;<br />}<br /><br />#include&lt;<br /> scanf(&quot;n&quot;%f%f%f&quot？<br />是不是double和float 不同的原因啊,s););<br /> scanf(&quot？;<br /> if(A+B&gt;B)<br /> {<br />  P=(A+B+C)&#47;<br /> printf(&quot,&a;Input ERROR,C;<br />main()<br />{<br /> float  A;stdio.h&gt.h&gt;三角形的面积是;<br /> }<br /> else<br />  printf(&quot,P.h&gt,S;<br />main()<br />{<br /> double a;2：%6;n&quot,&C),b;),B;输入三角形的三边;n&quot：a大家试一下;%f%f%f&quot, b;A&&A+C&gt;,&c);c&&b+c&gt;%f&#92.h&gt;a&&c+a&gt;n&quot;<br />        S=sqrt(P*(P-A)*(P-B)*(P-C));不能构成三角形&#92;b)<br /> { <br />  m=(a+b+c)&#47;,&A;<br />#include&lt;<br /> }<br /> else<br />  printf(&quot;C&&B+C&gt!&#92,&B;stdio, c&#92;;2;<br />  printf(&quot;,S);math
+,&b,&a; <br />这一旬就表明你的abc是float型的<br />因为你先定义的abc是double型,&c)，所以在scanf的时候读不出来scanf(&quot;%f%f%f&quot
+0
+none
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1701675779448903780.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/395934984.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/744205118228508892.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/85158117.html?qbl=relate_question_4

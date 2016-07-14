@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言程序为什么会输出 0
+0+x&#47,c;<br />void main()<br />{<br /> double x=1;y,c),y=2;<br /> c=1#include&lt.h&gt;n&quot;;<br /> printf(&quot;%d&#92;stdio
+75(二进制为0，存储时，则按整型数输出，即1c的值为1.11)和阶码1(二进制为1)即可.5。<br />但c是按浮点型存储的，int数占4字节，按int型输出时。<br />double浮点数从高到低位分别存储符号位(1位)，如果对应%f输出，32位.5 = 0，则输出1，对应%d输出，64位.75)<br />按整型数输出时：<br />即输出0，取低32位(全0)，占8个字节.75 * 2，只存储尾码0、指数部分(11位)和小数部分(52位)<br />1：<br />         0                             000 0000 0001              011(后面49个0)<br />      符号位(0表示正数)             指数部分(1)                  小数部分(0，只取前4个字节.5。<br />double浮点数占8字节.5的浮点存储格式为
+23
+none
+http://zhidao.baidu.com/question/425756041666752532.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/149946076.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/646414958244010245.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/240458681204844084.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/145198522.html?qbl=relate_question_4

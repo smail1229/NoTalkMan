@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+（C语言）用递归方法编写求斐波那契数列的函数
+斐波那契数列的定义为，返回值为长整型用递归方法编写求斐波那契数列的函数，谢谢啦,  f(1)=1<br />并写出相应主函数<br />哪位好心人帮帮忙啊;1) 其中f(0)=0：f(n)=f(n-2)+f(n-1)(n&gt
+<br />else return func(n-1)+func(n-2):&quot;<br />printf(&quot;<br />}<br />main()<br />{<br />long n.h&gt;<br />printf(&quot;);the result is %ld&quot;<br />scanf(&quot;%ld&quot;;<br />long func(long n)<br />{<br />if(n==0||n==1)return n;,func(n))#include&lt,&n);stdio;please input n
+41
+none
+http://zhidao.baidu.com/question/361089691.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/95305918.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/98434328.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/232977957.html?qbl=relate_question_3

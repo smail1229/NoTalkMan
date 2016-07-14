@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中char str0[301],str1[100],str2[100],str3[100];是什么意思
+none
+意思是定义了名为str0，str1，str2和str3的四个数组，并且数组中的元素数据类型为char型(即字符型)。[]里为数组长度，即这个数组中有多少个元素，str0是301个，str1是10旦耽测甘爻仿诧湿超溅0个......以此类推。
+1
+none
+http://zhidao.baidu.com/question/507917208.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/68427417.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/205353087.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/344495231.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/485562307.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中逻辑运算怎么做啊？
+譬如2&&8==1的值为1，0 或 9==0的值为0，怎么理解啊？
+返回值为0<br /><br />上面&& 是与操作，返回值为1<br /><br />A||B<br />或，2&&8;操作,8，当且仅当两AB都为假是。<br />A&&B，所以逻辑返回1，1==1为真，逻辑为真，当且公当AB都为真是，2，逻辑为假;||&quot，也就是&quot，所以值为1<br /><br />      0||9，1==0为假,非零即为真,9非零，所以逻辑返回1
+11
+none
+http://zhidao.baidu.com/question/89396872.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/107979029.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/75752844.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/251343586.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/163285597.html?qbl=relate_question_4

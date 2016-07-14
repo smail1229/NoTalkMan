@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编写一个、数组删除元素的问题
+接着从下一人员又重新从1开始数起，并输出淘汰过程，当数到k时。请输出最后所剩那一个人的编号题目：有12人围坐成一圈，而后从1号人员开始数起，使用数组来存放人员编号，直到最后剩下一个人时停止，假设他们的编号依次为1到12.编程序，则该号人员退出
+stdio;<br />#define  K 12/<br />  }<br />  i++.h&quot;<br />  for(i=0;i&lt;<br />  printf(&quot;<br />  int *p=NULL;<br />  }<br />  while(*p==0)<br />      p++;<br />  if(i==n)<br />      i=0;n-1)<br />  {if(*(p+i);<br />#include&quot;stdlib.h&quot;<br />  i=0;&#47!=0)<br />      s++;<br />   m++;在这可以定义一圈的人数<br />main()<br />{<br /> int n;%d&quot;,i;;<br />  m=0;<br />  if(s==K)<br />  {*(p+i)=0,s,m;<br />  scanf(&quot;<br />  while(m&lt;<br />  s=0,&n);<br />  p=(int*)malloc(n*sizeof(int));n;i++)<br />      *(p+i)=i+1#include &quot;%d&#92;n&quot,*p);<br />   s=0
+3
+none
+http://zhidao.baidu.com/question/102819658.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41903018.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/37777646.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/124870307.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/262041564.html?qbl=relate_question_4

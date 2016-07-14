@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+如何初始化C语言中指向指针的指针
+menu:11： 从不兼容的指针类型初始化<br />;<br />我想知道这是为什么，望高手给予赐教;.&#47;d - delete record&quot： 标量初始值设定项中有多余元素<br />: 警告: 警告;<br /><br />我在代码中这样初始化为什么不对,<br />  NULL }.&#47;q - quit&quot;src&#47;src&#47;d - delete record&quot;;;menu: 警告： (在‘menu’的初始化附近)<br /><br />必须写成这样<br />static char *menu[] = { &quot.c;src&#47, &quot:11.&#47;q - quit&quot;menu.c, &quot,<br />  NULL }:11;, &quot;a - add a record&quot？<br />;a - add a record&quot, &quot;.c..;static char **menu = { &quot.
+你得先给*menu申请一个空间，才能使用**menu，不然你这**menu都没什么内容啊～
+0
+none
+fail

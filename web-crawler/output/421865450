@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言If语句相关问题
+语句2属于If语句还是单独的一条语句，If选择结构结束后还会有别的语句：If (条件)语句else(条件)语句1语句2那么在这段代码中！关于If语句的用法：If (条件)语句else(条件)语句 问题在于小弟刚学C语言，可是如何区分那些语句与Else语句那个属于哪个呢，望高手指点？比如说
+else 只包括语句1  语句2是独立的很简单<br />请看这个<br />if()<br />语句1<br />else <br />语句2       这样是单个语句，else里面包括2个语句，因为它没有大括号{ }括起来，像你问题所述，既if和else各控制一个语句  <br />再有一句是复合语句<br />if（）<br />语句1<br />else <br />{<br />语句2<br />语句3<br />}<br />这样就是复合的
+3
+none
+http://zhidao.baidu.com/question/92921657.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126601166.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/175600156811762444.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/710772868806805645.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/936715227927724572.html?qbl=relate_question_4

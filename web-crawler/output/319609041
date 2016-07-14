@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中双精度浮点数（即double类型数据）的取值范围
+none
+fail
+21
+再推荐一个文章给你看，更详细的。认真读完，就知道了。要有耐心啊，比较长。<br /><br />---<br /><br />浮点数分为单精度（float）和双精度（double），根据IEEE754标准，float类型在计算机内部存储占4字节，double类型占8个字节。<br /><br />无论是单精度还是双精度在存储中都分为三个部分：<br /><br />符号位(Sign) : 0代表正，1代表为负 <br />指数位（Exponent）:用于存储科学计数法中的指数数据，并且采用移位存储 <br />尾数部分（Mantissa）：尾数部分 <br /><br />float:符号 1 指数 8 尾数 23<br />double 符号1 指数 11 尾数 52<br />
+http://zhidao.baidu.com/question/159231922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125054490.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/158901357.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/289130842.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/361282722.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+c语言题,求每步的解释
+<br />scanf(&quot;<br />puts(c2);<br />c2[j]=&quot;stdio,t;;%d&quot;<br />for(i=0,c2[100]!=t)c2[j++]=c1[i],&t);i++)<br />if(i;0.h&gt#include&lt;strlen(c1);stringh&gt;<br />char c1[100];<br />#include&lt;<br />gets(c1);i&lt;&#92;<br />main()<br />{<br />int i j=0
+分析一下;     输入字符串 并把输入的内容存在c1中<br />scanf(&quot，这个文件中一般包含的就是输入输出printf scanf等函数，然后j向后移动一位<br />c2[j]=‘&#92; 这个纠正一下应该是string;stdio，这句话相当于if(i，所以在main函数中就不用重复定义了<br />#include&lt.h 否则编译是不成功的<br />main()       main函数这个应该就不用说了吧~^_^<br />{<br />int i j=0;             首先定义三个整型变量 j赋值为0 i t现在还是没有赋值的情况;   定义两个字符数组.h中<br />if(i;strlen(c1);这句话是重点!=t)c2[j++]=c1[i];i++) 一个for循环 从i为0开始，计算机中默认为任意值<br />char c1[100];}意思就是如果i不等于t那么把c1的值赋值给c2#include&lt;%d&quot;,&t)，看吧;stringh&gt，所以用%d<br />for(i=0;i&lt，跟字符串有关系了<br />gets(c1).h&gt.h 你看到这个可以条件反射之后的代码中很有可能是关于字符串的;       输入t;这个呢，是说明之后代码中出现的函数都包含在stdio;j++，第二个strlen(c1)为c1数组的长度，j++是先使用再加一.h的文件中,t;0’，大小均为100个单位!=t){c2[j]=c1[i]，t是整型变量，这个包含在之前定义的头文件string,c2[100]，一般取字符串的时候前面都必须加一个string; 这个就是在最后加上结束符号<br />puts(c2)
+2
+none
+http://zhidao.baidu.com/question/198586392.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/78835216.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/93027785.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/436874520.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/409167865.html?qbl=relate_question_4

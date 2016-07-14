@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言变量的定义
+如果和TR1=0对调位置就会报错;100,256us中断一次<br />{	  <br />      int a;&#47;显示共1000us<br />    {<br />         E=0;a&lt;&#47：“a” undefined identifier;<br />      TR1=0;赋初值重新计数;   	   <br />      }<br /><br />      TH1=0X00;<br />        delay(pwm);				   &#47;<br />        delay(100-pwm).;&#47。     why;<br />        E=1;a++)	   &#47;关中断<br />	 for(a=0,256us足以让主程序循环检测一次按键<br />      TL1=0XFF?<br />void T1_int() interrupt 3	  &#47;T1中断服务子程序;必须定义在中断子程序的最开始位置;				   &#47;<br />      TR1=1今天在用c写单片机程序是发现int a;&#47
+如果定义变量的话。如果不确定初值。形成良好的变成习惯，一般我们都定义为0这个.因为在用到变量时，如果没有初始化经常导致意想不到的错误，不太清楚你的意思。<br />请采纳，最好给它赋初值
+0
+none
+http://zhidao.baidu.com/question/59616754.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/203019391.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/123072673.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/122173381.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51337443.html?qbl=relate_question_4

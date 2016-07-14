@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 与运算 为什么要用两个&&符号
+none
+fail
+0
+&连接两条表达式的话，执行的时候会将两条表达式都算出来，再进行与运算；而&&连接的话，只要第一条表达式为假，则不计算第二条表达式。<br /><br />可以自己运行以下代码加强理解<br />在main函数中：<br /><br /> int c,d;<br /> <br /> c=2, d=3;<br /> if(c++==5 & d++==6);<br /> printf(&quot;%d %d&#92;r&#92;n&quot;, c, d);<br /><br /> c=2, d=3;<br /> if(c++==5 && d++==6);<br /> printf(&quot;%d %d&#92;r&#92;n&quot;, c, d);
+http://zhidao.baidu.com/question/43680252.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139490628.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/150656473.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/172753865.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/542837606.html?qbl=relate_question_4

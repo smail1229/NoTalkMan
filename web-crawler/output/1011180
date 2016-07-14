@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+用C语言for语句编出一条程序
+最好在今天晚上能有答案
+n&quot;<br />printf(&quot;..+9+10<br />***********<br />分析<br />定义整型 i 用来做循环计数.，sum=0表示sum值等于0<br />如果i小于11 那么i就自动+1 运行下面的语句;sum=%d&#92;表示输出sum=的值<br /><br />选我int i,sum).;i&lt,sum).哈哈，选我;11.楼上的不好意思,sum=0;;n&quot;        <br />for(i=0:<br />sum+=i;sum=%d&#92;表示sum=sum+1 意思是累加sum的值 <br /> <br />printf(&quot;i++)   <br />sum+=i;<br /><br />计算sum=1+2+.
+1
+none
+http://zhidao.baidu.com/question/44100912.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/93026186.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1753816862084189948.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/214674387.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针变量运算
+而哪些是报错的，浮点型数据，比如整型关于俩个相同类型指针间的运算是可以加法的？<br />我试了下。<br />是不是太奇葩了，做运算的时候。<br />那么如果是指针和其它数据，目前只有和整型的加减貌似可执行，哪类是可行的
+&#47！目前只有和整型的加减貌似可执行;<br />p=(int *)((int)p//指针<br />++p;///&#47？<br /><br />一点也不是;指针<br />p++;/ 整数或bool<br />p-p1，因为只需要加减运算<br />int *p=(int *)0xA00000000;指针<br />;指针<br />p+x;/指针<br /><br />指针不需要其他运算!p。<br />p-x！;指针<br />--p; /指针<br />p-10;/200！<br />难道你是想这样做;<br />int *p1=p+10;&#47！;/<br />int x;整数个数<br /><br />p+10;<br />下面是指针可以进行的运算;//<br />p-=(p-p1)////指针<br />p--;&#47!<br />p+=(p-p1)*200;&#47！;&#47，是不是太奇葩了;20)
+0
+none
+http://zhidao.baidu.com/question/559388316631844564.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/436738031.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/202076356.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/104401587.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/548258430.html?qbl=relate_question_4

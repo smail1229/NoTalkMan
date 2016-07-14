@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言void 跟int声明函数的区别？
+当用void 不需要return 而用int的时候需要return 返回值  是因为void自动返回么？
+如果void函数没有返回语句，默认在{}结束前返回空：return，可以在void函数里面任意位置加一条语句是的;<br />表示中断函数并返回
+1
+none
+http://zhidao.baidu.com/question/344889836.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/391430687585798285.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/129871839.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/4361399.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/115916570.html?qbl=relate_question_4

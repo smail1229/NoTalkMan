@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+将一个数字字符串转换为一个整数(不得调用C语言提供的将字符串转换为整数的函数)
+将一个数字字符串转换为一个整数(不得调用C语言提供的将字符串转换为整数的函数)例如，若输入字符串“-1234”，则函数把它转换为整数值 -1234<br /><br />怎么做啊！！正数我会，如果是负数就不性了，到底要怎么做<br /><br />include &lt;stdio.h&gt;<br />#include &lt;math.h&gt;<br />long fun ( cha哗罚糕核蕹姑革太宫咖r *p)<br />{<br />}<br />main() <br />{ char s[6];<br />long n;<br />printf(&quot;Enter a string:&#92;n&quot;) ;<br />gets(s);<br />n = fun(s);<br />printf(&quot;%ld&#92;n&quot;,n);<br />}
+int func(char* s)<br />{<br /> int retval=0;<br /> int n=1;<br 哗罚糕核蕹姑革太宫咖/> if (*s==&#39;-&#39;)<br />  {<br />  n=-1;<br />  s++;<br />  }<br /> while (*s!=&#39;&#92;0&#39;)<br /> {<br />  retval=retval*10+(*s-&#39;0&#39;);<br />  s++;<br /> }<br />return(n*retval);<br />}<br /><br />看看刚编的一个函数,如果你没学到指针的话我在用数组给做一个,呵呵
+64
+none
+http://zhidao.baidu.com/question/319252718.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92252382.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/536424691.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/399452917.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154560284.html?qbl=relate_question_4

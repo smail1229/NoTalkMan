@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中sizeof的用法
+sizeof(a));<br />printf(&quot;n&quot;%d&#92main()<br />{struct{int day;int year;char month;;n&quot;}<br />输出5和2;;<br /> printf(&quot,sizeof(b)),*b;}<br /> a;%d&#92，为什么不同啊;<br /> b=&a
+<br />printf(&quot,sizeof(p));n&quot，它在不同位的机器上占的字节数不同;;<br />结果都是2;;%d&#92sizeof(a)<br />说的是结构体的大小2+1+2=5<br />sizeof(b)是指针b的大小;%d&#92,sizeof(q));<br />printf(&quot;n&quot，在你的机器上可能是2了<br />指针不因为类型的不同而使占的自己数变化<br />它就是一个整型占的字节数<br />char *p;<br />int *q
+46
+none
+http://zhidao.baidu.com/question/19171773.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/441367369.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/538301841.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/518461117374551685.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/489882449.html?qbl=relate_question_4

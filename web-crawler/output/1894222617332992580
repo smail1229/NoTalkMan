@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 新手求助！
+4如何将一系列的计算结果数据整齐的;..,i)   &#47、6、7.. 排成5个数一列....：for（i=1;：1.;例如..;i&lt.、9...、8.;100；例如.、0、3......&quot..;*要求每八个数排一列*&#47：1 2 3 4 5                            6 7 8 9 0、2、5;i++)    {if(i%2==0)printf(&quot、间隔排列.                      
+t&quot;100;i&lt;%d&#92;&#92,i););i++)<br />{<br />    if(i%2==0)<br /><br />    printf(&quot;;n&quot;<br /><br />    if(i%5==0)<br /><br />    printf(&quotfor(i=1
+0
+none
+http://zhidao.baidu.com/question/1731715212377632907.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/175872495719880684.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/256685736.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/256707912.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/175392156560923324.html?qbl=relate_question_4

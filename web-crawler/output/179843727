@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+请教一道关于求素数的C语言程序
+ k) <br />      printf (&quot.h&gt;yes&#92: “);  <br />   k = sqrt (m);no&#92;= k;    <br />   for (i = 2，前面for循环不是已经有限制条件i&lt;<br />}<br /><br />最后这里;n&quot谭浩强C语言教材上有一个关于求素数的C语言程序<br /><br />#include &lt; k) <br />      printf (&quot;math;<br />   else<br />      printf (&quot;n&quot;);; i++) <br />      if (m % i == 0) <br />         break, &m), i;no&#92; i &lt;);<br />void main ( )<br />{<br />   int m;);n&quot;n&quot;<br />看不明白了.h&gt， if (i &gt;);=k吗;%d&quot; k) 呢;input a number;<br /><br />   printf (&quot, k;<br />   if (i &gt;stdio？这里怎么会出现if (i &gt;yes&#92;<br />#include &lt;<br />   scanf (&quot;<br />   else<br />      printf (&quot
+即2&lt;i&lt;=i&lt。事实上i只需取2到 sqrt (m);=i&lt;3即i&gt;m你自己弄个数字测试一下就知道了 首先说这个算法的原理;=3<br />先是i=2： 2&lt，i依次取2到m-1）余数都不为0则为素数;=3  于是跳出循环  此时i=4了 则i&gt;=i&lt，虽然如你所说前面for循环不是已经有限制条件i&lt：其实你的问题很简单;= sqrt (m)<br /><br />现在我们举例说明为什么出现if (i &gt; k) <br />我们看 比如m=13  则k= sqrt (m)=3  即2&lt;k故m=13是素数<br /><br />总结，显然余数不为0  然后i++取i=3  余数也不为0  然后i++ 则i=4<br />显然i不满足条件：求任意一个正整数m是否是素数   如果m能依次除以整数i（2&lt
+149
+none
+http://zhidao.baidu.com/question/248150164.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126168897.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/157875635.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76216230.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/581756772.html?qbl=relate_question_4

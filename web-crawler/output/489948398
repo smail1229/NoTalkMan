@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言将一个小数四舍五入的问题
+比如将55.33哗定糕剐蕹溉革税宫粳51保留2位小数，第三位四舍五入，可以用<br />a=(a*100+0.5)&#47;100.0或a=(int)(a*100+0.5)&#47;100.0,,,我的问题是，，两个都行吗？有什么区别，我做过实验，貌似没什么区别……
+有差别，第一个不会做四舍五入的，它精确的进行了计算，第二个是正确的，进行了舍运算，这个运算是在(int)的时候利用类哗定糕剐蕹溉革税宫粳型转换做的 <br /><br />如果你输出的结果是一样的，我怀疑是你在输出的时候指定了输出精度，你检查一下你的printf或者cout
+4
+none
+http://zhidao.baidu.com/question/189604056.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/335308991.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/22834864.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117657660.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/49382173.html?qbl=relate_question_4

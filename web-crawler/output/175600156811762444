@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言的if语句的疑问
+结果都是这样，就分别写了一段keil和ICCAVR的;3000)<br />  P2=0XFF;3000)<br />  { P2=0x00：不管给t赋值是多少;<br />  while(1)<br />  {<br />  if(t&gt;<br />  else if(t&lt，我以为是编译器的问题，都会进到else if里去执行？<br />unsigned char t=500。这是为什么呢主函数里的程序如下
+nsigned char 是一个字节的类型，也就是最大只能存储255这个数字，超出这个数字就溢出了，溢出后的值是244<br />所以就是目前你这个情况了<br /><br />如果想解决，那么t溢出后的值就是0了，你赋500，也就是说你给t赋值256
+1
+none
+http://zhidao.baidu.com/question/334676623.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/710772868806805645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/936715227927724572.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/244988566.html?qbl=relate_question_3

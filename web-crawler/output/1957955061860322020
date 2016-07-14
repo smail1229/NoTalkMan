@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编写当-2&lt;=x&lt;=0时,y=2*x+1;&lt;x&lt;2时,y=1;当2&lt;=x&lt;=5时,y=x-1
+none
+我猜测你忘记写的那个数是0<br />if(x&gt;=-2)y=2*x+1;=5)y=x-1;/&#47if(x&lt;=0&&x&gt;=2&&x&lt;2)y=1;x&lt;<br />if(0&lt;我猜你问题这里的左边忘记加一个数了
+1
+none
+http://zhidao.baidu.com/question/2009798775818395468.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/487922893495754692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/253268501.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/710421723869476845.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2009881783929458988.html?qbl=relate_question_4

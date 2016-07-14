@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中取地址运算解释
+<br />f=e,返回运算符“&”后面名为“标识符”的变量（或数组元素）的地址值,*e.比如这个片段<br />int d,&d);,*f;<br />e=&d;%d&quot;<br />scanf(&quot书上定义说 执行该表达式后
+ 获取终端输入的一个整数，e保存的是d的地址; <br /><br />以上,*f,*e;       <br />&#47,&d)，而不是一个普通变量<br />e=&d;/&#47，保存d的地址<br />f=e;&#47,*f;%d&quot，即/ 指针f也跟e一样;  <br />/&#47，将终端获取的整数值写入scanf后面跟的地址中  <br />scanf(&quot;,f <br />int d，*e，赋值给d（即,f; 定义int普通变量d,d实际上都是d<br />e，int指针变量e; <br />/ 指针e指向d的地址
+11
+none
+http://zhidao.baidu.com/question/1541739370518090267.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/329221617.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/558162064.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/343839721.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/23320930.html?qbl=relate_question_4

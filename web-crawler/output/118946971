@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，float怎么使用，比如用float定义1.5，结果是多少，double呢，怎么使用？
+none
+的问题可以是这样的，后者4字节：使用double定义过的1.5实际上是1，前者8字节：使用float定义的1，前者保存的小数位数比后者多一倍<br /><br />1：<br /><br />double与float的区别在于在内存中存放数据时占用的内存不一样.500000<br />2
+45
+none
+http://zhidao.baidu.com/question/510568902.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/395934984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/503034097.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/84672949.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2117118114332541707.html?qbl=relate_question_4

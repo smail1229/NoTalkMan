@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中*s++=*p是什么意思
+请解答详细些
+， 所以就是右边p指针指向的内容赋值到左边s指针指向的内容，++运算会让s指向下一个地址处, *p = b; /;;;<br /> <br />char *s = a;};1&#39：<br />char a[]= {&#39;3&#39;<br />那么*s++=*p等价于<br />{<br />a[0]=b[0]这个就是看运算符优先级，<br /> <br />++运算符最高; /&#47，接着是=运算符。<br /> <br />举例，<br />*是对指针指向地址取内容;2&#39;赋值<br />s = &a[1]，<br />这个赋值操作完成后, &#39;&#47, &#39;}, &#39;a&#39;b&#39, &#39;<br />char b[]= {&#39;c&#39，先不管。<br /> <br />++是后置运算，接着是*运算符
+5
+none
+http://zhidao.baidu.com/question/238966403.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/56842604.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/228524692.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1923286442871145107.html?qbl=relate_question_3

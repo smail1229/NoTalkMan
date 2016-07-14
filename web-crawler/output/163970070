@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言printf函数
+ 4;, *p.a = n, (++p) -&gt？<br />struct ks<br />{<br /> int a;<br />main ()<br />{<br /> int n = 1.a;<br /> for (i = 0;<br /> }<br /> p = &s[0];<br />}s[4];<br /> int *b;%d; i++)<br /> {<br />  s[i],%d&#92; a, i; a)能帮我解释哈这段程序的执行结果吗, (p++) -&gt;n&quot;<br />  s[i]; i &lt;<br /> printf (&quot.b = &s[i];<br />  n = n + 2;<br /> p++
+a = 7 , s[2];&#47.a = 3.<br />赋值完后; a, s[0].<br /><br />故最后的结果是, s[3]; a 的值是s[2], *p.a的值;&#47分析:<br />++p是先做++运算再取p的值, 即为5<br /><br />而(p++)是指向了s[1]的首地址, 即s[1]的首地址; a的值是s[1]. 所以(p++) -&gt.b = &s[2];<br />}s[4].<br /><br />四, 这时(++p)指向了s[2]的首地址.a的值. 数组s的每个元素的成员指针变量b都指向了它本身的成员变量a:<br />p = &s[0], 而p++是先取p的得.<br /><br />二.<br /><br />故对于最后的打印语句, s[3].a;结构体指针变量p指向了结构体数组变量s的第一个元素, s[2];. 所以(++p) -&gt.<br />p++;&#47, s[0];<br /><br />由上述的分析, 分别是数组s和指针p: 5, s[1].a = 1, (p++) -&gt;<br />定义了两个结构体变量,%d&#92.a.b = &s[0].b = &s[1];n&quot, (++p) -&gt;%d:<br />main函数中的for语句是给数组变量s赋值:<br />printf (&quot, 即为3, s[1].a = 5;/p指向了结构体数组变量s的第二个元素.a <br /><br />三.<br />且; a).a;<br /> int *b, 再做++运算:<br /><br />一.b = &s[3]:<br />struct ks<br />{<br /> int a
+2
+none
+http://zhidao.baidu.com/question/60921121.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/359896811444949132.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/74003953.html?qbl=relate_question_3

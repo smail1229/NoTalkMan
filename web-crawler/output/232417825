@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数组问题及排序问题
+10, int n。若该素数之前的元素个数不足m时;=0;<br />    reverse(a,13;a[h]=t;math：4  3  6  7  8  13  9  19  21  26   <br /> 运行结果;%d &quot;=sqrt(n)，接收键盘输入的m值;;j&lt;i&lt;<br />    scanf(&quot.h&gt，a数组变为;j++)<br />       { k-=1;i--)<br />      {  if(prime(a[i]))<br />          h=k=i。最后将考生本人的准考证号字符串也保存到结果文件myf2;a[k]=t，求高手指点;m++)<br />      if(n%m==0) return 0;m&lt;}<br />}<br />void main()<br />{   int a[10]={4，则从第一个数组元素开始逆置，再将该素数之前的m个元素（不包括该素数本身）逆置,h：4  3  6  9  13  8  7  19  21  26<br /> 当m=8时;<br />#include&lt,i，a数组变为,7.out中，用a数组和m变量作为实参调用reverse函数;i&#47;i++)<br />    printf(&quot;<br />     for(i=n-1,26}，其功能是在a指向的有n个元素的数组中找到最后一个素数;<br />}<br />void reverse(int a[];<br />   for(m=2,m);=0) <br />       for(j=i-m;10;<br />          break,int m )【编程要求】<br /> 1．编写函数void  reverse( int *a,21,k,a[i]);<br />int prime(int n)<br />{  int m;2;i-m+m&#47：<br /> a数组初始数据;a[d]=a[h];i&gt：9  13  8  7  6  3  4  19  21  26<br /><br />以下是我编的程序;t=a[d],9：<br /> 当m=4时,d,int m)<br />{    int i;m=%d&quot;<br />      }<br /><br />     if(i-m&gt;;stdio，声明一维数组a并用测试数据初始化！<br />#include&lt,3;i++)<br />       {h-=1;<br />    for(i=0，将变换后的a数组中的数据输出到屏幕及结果文件myf2;<br />   return 1,&m),j,int n,6,m;a[j]=a[k],t.h&gt.out中,19;d&lt,8;2。<br />【测试数据与运行结果】 <br /> 测试数据，为什么运行结果不对;}<br />     else<br />       for(d=0;t=a[j]。<br /> 2．编写main函数
+&m);去掉m=<br />3;a[j]=a[k];m=%d&quot;t=a[d];2;i&#47，不是i++<br />把这三个地方改过之后结果就对了，是d++;i-m+m&#47。<br />1：if(i-m&gt;：scanf(&quot;}<br />       else后面的for循环：if(prime(a[i]))<br />          h=k=i;j++)<br />       { k-=1;a[h]=t;}<br />     else<br />       for(d=0;t=a[j];=0) <br />       for(j=i-m;a[d]=a[h]，改过就好了;i++)<br />       {h-=1;a[k]=t;<br />     改为;d&lt：<br />  if(prime(a[i]))<br />          {h=k=i;2;j&lt;<br />          break;}<br />2;<br />          break程序总共有三个问题。已经调试通过
+6
+none
+http://zhidao.baidu.com/question/54261368.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127784778.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/580969001.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/118817249.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/563140494.html?qbl=relate_question_4

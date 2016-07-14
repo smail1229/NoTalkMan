@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数返回值
+<br />}<br />这里return返回的是什么类型比如说，需不需要输出;<br />a=b？<br />void类型是否有返回值;<br />return;<br />b=t;<br />t=a,int b)<br />{<br />int t：my_max(int a
+我不确定<br />非void型在c中任何函数都有返回值，程序执行的时候，我好像在哪里看到过这个说法，也就是在不需要子函数返回数值的时候用到，如printf，在子函数中。注意的是不需要不代表没有返回值，逐个说一下<br />主函数的返回值，可以根据需要自己定义都可以，这个是定下的。<br />vc中好像必须写，主函数也有返回值<br />返回值分几个方面。调用成功返回1，要不然编译系统提示出错<br /><br />子函数的返回值，scanf等，分两类<br />void，这个一般用户用不到，不管后面有多少代码<br /><br />一些系统自带的函数，只要执行return一定结束子函数，这个返回值类型根据定义来返回<br />值得注意的是，不成功返回0，在tc中默认为void型（这个可以省略），系统会根据这个返回值来判断程序的运行结果<br />不管定义神马类型的返回值
+4
+none
+http://zhidao.baidu.com/question/34090883.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/72833618.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149927876.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/584425579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/425686049.html?qbl=relate_question_4

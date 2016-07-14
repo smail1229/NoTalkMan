@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言输出格式问题，Printf函数
+n&quot;是干嘛的？我知道6是控制输出宽度的;i=%+06d&#92;这个输出语句结果是怎样的;？格式控制里面的&#39,i);+0&#39int i=252;printf(&quot
+宽度是6不足6位前面补0，+意思是带符号的
+2
+none
+http://zhidao.baidu.com/question/561024642.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/753000215063701484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123910868.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/170935373.html?qbl=relate_question_4

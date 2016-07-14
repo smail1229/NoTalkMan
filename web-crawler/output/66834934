@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言对数组中n个整数进行排序
+；并将整数x（从键盘输入）插入到排好序的有序数组中，请各位帮忙，并在主函数中调用<br />     （4）尽量不要使用全局变量<br />小弟刚学。<br />要求，使数组仍然有序，并在主函数中调用<br />     （3）插入用函数实现：（1）n个整数从键盘上输入<br />     （2）排序用函数实现对数组中n个整数进行排序
+<br />   a[p]=s;<br />    for(i=0;<br />      }<br />    printf(&quot;=i,a[10];<br /> for(i=0;10;s&gt;i++)<br />      printf(&quot,a[i]);,q;%d&quot;s--) a[s+1]=a[s];&#92,&n);i++)<br />      scanf(&quot;j++)<br /> if(q&lt;n input 10 numbers;q=a[j];<br /> }<br /> printf(&quot;i&lt;),s,p;%d &quot;);}<br />      a[i]=n;<br />  for(i=0;&#92;j&lt;i&lt;;);<br />    for(i=0;n&quot:&#92,&a[i])!=i)<br /> {<br />   s=a[i];10;a[i])<br />      {for(s=9;<br />   a[i]=a[p];i&lt;}<br /> if(p;10;<br />    printf(&quot;i++)<br />      { p=i,n;<br /> for(j=i+1;10;%d&quot;%d &quot;<br />    scanf(&quot;;=10:&#92;;&#92;ninput number;n&quot;q=a[i];n&quot;i&lt,a[i])main()<br />{<br />  int i;a[j]) {p=j;<br />      break;i++)<br />      if(n&gt;<br />  printf(&quot,j
+3
+none
+http://zhidao.baidu.com/question/129681617.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118817249.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/54261368.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/540440360.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/251913684.html?qbl=relate_question_4

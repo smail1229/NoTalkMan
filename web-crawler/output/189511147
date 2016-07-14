@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言数据类型转换
+none
+fail
+0
+C语言算术表达式的计算，在计算过程中，每一步计算所得结果的数据类型由参与运算的运算对象决定，相同数据类型的两个对象运算，结果数据类型不变，不同数据类型的运算对象进行运算，结果的数据类型由高精度的运算对象决定。精度的高低：double&gt;float&gt;int<br />需要注意的是，数据类型的转换是在计算过程中逐步进行的，整个表达式结果的数据类型一定与表达式中出现的精度最高的数据相同，但是具体得到数据值是逐步得到的，例如：int x=1,y=3; double k=1573.267;<br />  x &#47; y * k<br />这个表达式计算结果的数据类型是double, 计算结果的答案是 0.0<br />因为在第一步 x&#47;y 的计算中 结果是一个整型数据 0<br />第二步计算 0 * 1573.267 结果是一个double类型的数据，但数值是0.0<br /><br />也就是说，算术表达式计算结果的数据类型与运算的优先级没有关系，一定具有表达式中精度最高的数据类型，但是具体得到数据结果数值，与优先级可就有关系啦。
+http://zhidao.baidu.com/question/145709818.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/34062597.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/312471510.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91369490.html?qbl=relate_question_3

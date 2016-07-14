@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的for(i=a+1;i&lt;b;i++)表示什么意思？
+none
+fail
+4
+死格式套用理解就可以<br />for中的三个表达式<br />第一个是初始化变量，可以有多个，用逗号隔开<br />第二个是判断是否满足条件，表达式返回值是非零就执行循环体，是零就退出循环<br />第三个是改变循环条件的<br /><br />执行顺序是，先执行第一个表达式（这个只有在第一次循环的时候用到，后面的循环就不用了）。接着判断第二个表达式，非零就执行循环体，零就退出，接着运行循环体，最后运行第三个表达式（改变循环条件）<br /><br />这样，套用进去理解就可以了
+http://zhidao.baidu.com/question/175231276.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/131208363.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/130754638.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97957462.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/173050167.html?qbl=relate_question_4

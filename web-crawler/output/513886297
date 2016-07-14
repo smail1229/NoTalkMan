@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中Int和double怎么转换?
+none
+fail
+3
+使用强制类型转换，就是要转换的类型，加个括号。<br />int iA;<br />double dA;<br /><br />iA=1234;<br />dA=(double)iA;<br />&#47;&#47;这样dA就等于1234.00<br /><br />dA=12.34567;<br />iA=(int)dA;<br />&#47;&#47;这样iA就等于12,问题是这种转换会损失精度，小数部分被截取还可以接受，如果double超出了int的最大值，高出部分的位数也会被截掉，那就是灾难性的了，所以一般不做这种转换，除非你对待转换的数据大小心中有数。
+http://zhidao.baidu.com/question/1366244562165238019.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1731904278230785827.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/234001410.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/138458587.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/571413249.html?qbl=relate_question_4

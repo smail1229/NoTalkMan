@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+本人因C语言考试，有一题不会，希望大家能帮帮我，很快就用，望大家速度，待遇优厚，谢了
+C语言题（编程）<br />输出图案（用两种方法做）：<br />1234567<br />2345671<br />3456712<br />4567123<br />5671234<br />6712345<br />7123456
+3456712&quot;<br />            printf(&quot;%d&quot;：<br />#include&lt,&quot;1234567&quot;2345671&quot;<br />	<br />    printf(&quot;<br />main()<br />{<br />    int num[7]={1;n&quot方法1,&quot,&quot;<br />	for(i=0,&quot;),&quot;);5671234&quot;%s&#92;7,j;    <br />	}<br /><br />} <br />楼主如果需要;;7123456&quot,&quot;i++)<br />	{ for(j=0,4;<br />main()<br />{<br />	char s[7][8]={&quot;&#92;j++)<br />		  printf(&quot;7,2,num[(i+j)%7]);6712345&quot;stdio;i&lt;i++)<br />		printf(&quot,5;<br />    int i;;;<br />    <br />	for(i=0;},s[i]);4567123&quot;;j&lt;&#92;7;stdio,6;<br />    int i;i&lt,3;<br />} <br /><br />方法二,7}.h&gt;;n&quot.h&gt;;：#include&lt;n&quot
+4
+none
+http://zhidao.baidu.com/question/511156851.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136344167.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/113755103.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89159865.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/212294227.html?qbl=relate_question_4

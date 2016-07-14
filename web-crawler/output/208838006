@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中if(j%3)是什么意思?
+none
+.余2<br />if(j%3)判断j对3取余以后是否为0，如果不是0，因为5&#47,<br />如果是0，执行另外的语句(例如else下面的语句);3=1，执行if下面的语句：j=5.j%3.，那么j%3=2:j对3取余<br />也就是求j除以3的余数<br />比如
+17
+%是C语言的取余运算符，又称为模除运算符。<br />a%b的结果是，计算a&#47;b后的余数。<br />比如 5%3 = 2, 6%2=0等。<br /><br />if是判断语句，写成if(expr)的格式，执行时判断逻辑表达式expr的值，如果为真，则执行if后归属于if语句的程序段，否则不执行该段。<br /><br />余数if(j%3)的含义就是，当j是3的整数倍，或者说整数j有3的因子时不执行后续属于if的程序段，否则执行。
+http://zhidao.baidu.com/question/233379478.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/264699808.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/513536163.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/139003928.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/431883319.html?qbl=relate_question_4

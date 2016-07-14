@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设 int a=012，b=11，c=3;表达式a&lt;&lt;(c%b)的值是？ 谢谢求讲解
+none
+(c%b)先计算c%b=3%11=3;n等价于乘上2^n倍(不溢出的情况下)，即2^6+2^4=64+16=80<br />实际上&lt，对应的二进制数为00000000 00000000 00000000 00001010（32位）<br />a&lt;&lt;&lt，也就是00000000 00000000 00000000 01010000;&lt，a&lt，a&lt;&lt;3左移3位，a=012实际上就是10int a=012表示一个八进制数
+0
+none
+http://zhidao.baidu.com/question/283251616.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/273568122.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/9067774.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/298777479.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/91314355.html?qbl=relate_question_4

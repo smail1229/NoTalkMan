@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我是一位C语言的初学者，有个问题，请哪位高人指点一下。 mian() {float a1=123.456; printf(&quot;%d&quot;,a1); }
+none
+并不能一下子就能撑握，或者调用操作系统的API，可能你写一个窗口可能就要用上百条代码。大家都是把C或C++学好了。比如你说的这条输出语句，但是不是所有学C语言的人都真正直接拿它写软件，而且还得学很多低层的东西。如果你一下子就撑握了。其实C语言只是一门编程语言，比如VC++编程是一个循序渐进的过程，你学了集成开发环境之后基本不会用，要学它，因为他的低层库要求程序员学很多东西。如果你只想用C语言编写软件，然后用其它的集成开发环境，那些软件公司早就关门了
+0
+none
+http://zhidao.baidu.com/question/487922366.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/46082016.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/512341510.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/504539215.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/261600209.html?qbl=relate_question_4

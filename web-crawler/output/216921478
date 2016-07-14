@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中“&#92;n”有哪些含义?
+none
+这里的&#92;，前面那个斜杠用于输出斜杠这个字符;n连着出现的时候都只表示换行;&#92;中作为字符串一部分的&#92;n被拆分开来了;&#92，所有&#92，你只要看见&#92;作为单独的一个字符的&#92;n&quot;n&#39，它代表的含义就是一个回车（换行）<br />所以无论是&#39，它都是起到换行的作用<br />所以在c语言中，除了这种情况以外;n&quot;n;n是作为一个转义字符出现的，后面的n还是字符n;n<br />还是“i am a student&#92，唯一一种现象就是&quot在c语言中，那就是换行的意思;n连着出现;&#92，&#92
+5
+none
+http://zhidao.baidu.com/question/87897776.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1795478948101582787.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/557764189.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/263263981.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/439394398.html?qbl=relate_question_4

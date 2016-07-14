@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言auto，register，static，extern 都可以用来修饰函数吗
+none
+fail
+0
+前两个是用来修饰变量的,后两个都变量函数都可以<br /><br />定义的变量默认是auto类型的<br />register,不知道你听没听过寄存器变量, 变量是存在内存单元中的,当大量使用的时候,比如循环,就会不停地在存储单元中操作, 这种变量就会直接存在CPU寄存器中<br /><br />static int a = 0; 静态变量(可以是局部,也可是全局)<br />extern int a; 外部声明, 通常该变量在其他文件中定义, 在这里声明表示引用该变量<br /><br />static 修饰函数为静态函数,本文件中可以使用<br />extern 外部声明, 改函数在其他地方有被定义过
+http://zhidao.baidu.com/question/438699310.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/370242451.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/311480724.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/56624752.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/380556122.html?qbl=relate_question_4

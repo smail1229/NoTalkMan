@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，for(y=1;y&lt;10;)  y=((x=3*y,x+1),x-1);  求x,y的值
+none
+=15,x的值 仍不变,y的值 才会发生变化，x+1对x的值 没有影响，最后把x-1的值 赋给y，x，如此循环,只要当出现=号时,y=14 <br />每次运行时
+9
+none
+http://zhidao.baidu.com/question/710594688146581205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1766059875710249660.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/241736564.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/240935400.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/193549168.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+谁知道在C语言编程里定义这个名字时 char name[20] 这个20是什么意思啊
+马上要c语言二级考试啦！有没有高手指教指教啊，谢谢啊
+实际上我们只能存19个;0作为字符串的结束符，还有一个系统要保留给&#92也就是说name这个变脸里面最多只能放20个字符
+9
+none
+http://zhidao.baidu.com/question/1702545281738578380.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/404283062.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/497294356660864804.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/518739682893011085.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/416286100.html?qbl=relate_question_4

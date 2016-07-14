@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的for语句括号后能不能加“；”，为什么？
+none
+”他运行的是  ）和 ；但是你的for语句无意义加了不会给你提示有error的错误；i&lt;=n；i++)   ，因为每次它进行的都是空语句<br />如果这样“for（i=1
+0
+none
+http://zhidao.baidu.com/question/295765250.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/233618573.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/21242763.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/399362452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1817813476776542228.html?qbl=relate_question_4

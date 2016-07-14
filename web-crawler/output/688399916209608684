@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+a=&#39;A&#39;,b=5,b—=a*=a+b C语言
+b=5，a,经过b—=a*=a+b   运算后设a=&#39;;A&#39
+<br />如果b后面是一个减号的话第一个条件可知a等于65，如果b后面是两个减号的话，a等于65*70等于4550，b减减。第二个条件可知b等于5，等于－4545。第三个算式a*(a+b)赋值给a。<br />所以a等于4550，b等于4549，b等于b减4550，b等于4549，4550赋值给b
+0
+none
+http://zhidao.baidu.com/question/202816999.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/240324011.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239981748926552524.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/579622413.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561055294.html?qbl=relate_question_4

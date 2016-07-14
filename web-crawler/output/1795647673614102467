@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编写：求方程ax2+bx+c=0的实数根。a,b,c由键盘输入，a≠0且b2-4ac&gt;0；谢谢！
+none
+2a;=0)<br />printf(&quot,c;<br />else<br />{<br />x1=(-b+sqrt(b*b-4*a*c))&#47:&#92,x2)!&quot;Error;stdio;<br />x2=(-b-sqrt(b*b-4*a*c))/),x1;<br />scanf(&quot,c;,&b;<br />main()<br />{<br />double a.h&gt;<br />printf(&quot,x1;x1=%lf.h&gt;%lf %lf %lf&quot;<br />{<br />if(a=0)<br />printf(&quot,x2=%lf&quot;Input a;);!&quot;<br />#include&lt;math;<br />printf(&quot,b,b;<br />else<br />if(b*b-4*a*c&lt;2a,x2;);n&quot;Error,&c),&a#include&lt
+1
+none
+http://zhidao.baidu.com/question/537316741.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/138681675.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/67261313.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87060258.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/182624640.html?qbl=relate_question_4

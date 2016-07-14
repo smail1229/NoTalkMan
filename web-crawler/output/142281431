@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言选择题小弟菜鸟，希望高手给详细解答下，谢谢
+=’a’）&& (ch&lt,b=2;<br />  return y,c=3;=”a”）&& (ch&lt;=’a’）|| (ch&lt,c)))、有如下程序<br />int fun(int x,fun(b,s=0,s); i&lt; j++)<br />  if ((j%3==0) || j%5==0)) a++、有如下程序段<br />a=0;n”; i+=2) s+=i+1,int y)<br />{ if (x&lt;=”z”)<br /> <br />2,b);=’z’)<br />C）ch&gt;y) return x;<br />for(j=1、有如下程序<br />main( )<br />{ <br />int i;<br />printf(“%d&#92,fun(fun(a;n”;n”;<br />printf(”%d&#92; j&lt,a);<br /> printf(”%d&#92;<br />程序运行后的输出结果是  <br />A） 10 B）5   C）3   D）2 <br /><br />3、以下只有当变量ch中存放的是小写字母时;<br />}<br />main( )<br />{int a=1;<br />}<br />程序运行后的输出结果是  <br />A）自然数1~9的累加和           B）自然数1~9中奇数之和<br />C）自然数1~10的累加和          D）自然数1~10中偶数之和<br /><br />3;<br />for(i=1;10，表达式值才为“真”的是<br />A）（ch&gt;=10;=65       <br />D）(ch&gt;=’z’)   <br />B）(ch&gt1
+ j++)这个是循环语句，只要两个都满足。<br /><br />3; i+=2) s+=i+1,b=2。<br /><br />4;这个||是或者的意思,b)；||是或者关系?所以是求1~10的偶数和,所以返回小的值a，答案才是真,6,5; i&lt.所以答案为1。<br />在语句中这一句printf(”%d&#92,fun(b,int y)<br />这是一个自定义函数。if (x&lt;y那么就返回x值，如果x&lt，返回小的值b ,s+=i+1等价于s=s+i+1<br />那么就可以知道是2+4+6+8+10=,&是并列关系;<br />所以b&gt,b)因为a=1;a.B if ((j%3==0) || j%5==0)) a++，刚要同时满足两个条件，最后得出的就是最小的值1;<br />是重点;2所以返回小的值1;其中i+=2等价于i=i+2,fun(fun(a;y) return x，那么从1到10找出能被3和5整除的数，for(j=1;n”;<br />这一句的意思是说，先从里到外，%是求余的运算符号,2)因为1&lt，只要其中一个满足就真，fun(a; j&lt;10，只有3,最后变成<br />fun(1,c）中,9，否则返回y值;=10,10是符合题意，而fun(b.Dfor(i=1.B  这个是判断是不是小写字母,c=3,c))).B  int fun(int x;<br />  return y，如果是真的话，从1到10找出符合条件的数。<br /><br />2，大于等于a并且小于等于z1
+2
+none
+http://zhidao.baidu.com/question/306513213.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41015279.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2073714412381197028.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89752789.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1923762544230063907.html?qbl=relate_question_4

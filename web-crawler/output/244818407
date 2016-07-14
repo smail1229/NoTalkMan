@@ -1,0 +1,11 @@
+电脑/网络 编程语言 JAVA相关 
+用JAVA语言编程 求1！+2！+3！+4！+5！+6！+7！+8！+9！+10！。（要求：使用while、do-while、for三种语句
++10！+8！+3！是什么意思！+2！+9！+5！+7！+6！+41
+ /对于这里;<br />                          count = x; i &lt;<br />                          sum = sum + count;= 10.println(&quot;/count = &quot,sum = 0public class Test{<br />       public static void main(String[] args){<br />                int x = 1;用于统计1 - 10 阶层的和<br />                int[] m = new int[10]，你自己带值手动跑2次。<br />                for(int i = 1.out;  /// i++){<br />                          x = count + x * i; + count);<br />                 }<br />                System;  /用于保存每个阶层的结果;<br />                          m[i] = count，就知道是什么意思了;&#47，没什么好解释的，可以自己去打印<br />                /用于求每个数的阶层<br />                int count = 0
+7
+none
+http://zhidao.baidu.com/question/334376427.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/198717130.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/64127735.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2267998121747407028.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/433133905.html?qbl=relate_question_4

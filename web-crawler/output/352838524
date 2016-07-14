@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮我看看这个C语言程序哪有错吧。。。谢谢。。。
+;0&#39;n&quot;<br />			     ps[i]= ps[i+1];n&quot;<br />		    }<br />	}<br />	for(l = 0 ;%s&#92,sizeof(char)););<br />		ps[i]=(char*)calloc(size;<br />	char *ps[FFF] = {NULL};&#92; l++)<br />	{<br />		printf(&quot;<br />	char *pt = NULL;<br />	char *pi = NULL;<br />		}<br />		strcpy(ps[i++]; l++)<br />			if((sizeof(ps[i]))&gt. Program terminated!=&#39;n&#39;<br />	int i = 0;)<br />	{<br />		size = strlen(aaa);<br /><br />		for(l = 0 ;请输入几行谚语&#92; i ; l &lt;<br />	int l = 0;<br />	while((*(fgets(aaa;<br />	size_t size = 0;<br />			return 1#include &lt;n&quot;<br />#define FFF 100<br />int main(void)<br />{<br />	char aaa[FFF] = {NULL}.&#92,stdin)));;<br />		if(ps[i]==NULL)<br />		{<br />			printf(&quot;<br />		free(ps[i]);<br />#include &lt;(sizeof(ps[i+1])))<br />		    {<br />			     pt = ps[i];stdio; i .h&gt;);<br />	}<br />	return 0,ps[i]).h&gt,FFF; Memory allocation failed;&#92.h&gt;<br />		aaa[--size] = &#39;<br />		ps[i] = NULL;<br />#include &lt;string;<br />			     ps[i+1] = pt;l &lt;<br /> <br />	printf(&quot,aaa);stdlib
+我编译了一下 没有错误 只有一条警告 <br />warning: initialization makes integer from pointer without a cast<br />char aaa[FFF] = {NULL};<br />数组 aaa[FFF] 不能赋值为 UNLL 改成 aaa[FFF] = {0}; 就可以了
+2
+none
+http://zhidao.baidu.com/question/1430171526447769779.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/52409102.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/183489253.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/541126108.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/751795700258822604.html?qbl=relate_question_4

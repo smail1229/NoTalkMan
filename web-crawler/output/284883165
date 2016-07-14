@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言用指针法交换两个数的顺序问题
+n&quot,*y;%d %d&#92;<br />    {t=x,b;a=b。<br />main()<br />{<br />	int swap(int *a，可以交换地址;<br />	x=&a;y=&b,*y);,&b),*t;。当用函数调用法交换地址的时候,*x,&a,*x;b=t，可以交换值.h&gt;这是用一个主函数就交换的方法;<br />	scanf(&quot;&#47;%d %d&quot;n&quot。程序如下,b;&#47;<br />	int a;%d %d&#92;&#47;,y);。<br />main()<br />{<br />	int a,int *b);<br />	swap(x;<br />} <br /><br />#include&lt.h&gt;<br />	x=&a;}<br />	printf(&quot，为什么不可以实现;y=&b;stdio;%d %d&quot;x=y,&b);&#47,*y,*x,*x;<br />	scanf(&quot;<br />	{t=a，为什么这个方法为什么就不能实现;stdio;这是用函数调用的方法;y=t,&a,int *b)<br />{<br />	int *t交换两个数的顺序;<br />	printf(&quot：<br />#include&lt;<br />} <br />int swap(int *a,*y)
+通过交换;a与b分别复制主函数x与y的值;b=t;}&#47int swap(int *a,b与y的指向相同<br />{<br />	int *t,这样函数swap结束,x与y没有改变原来指向;&#47，但是;a=b,即a与x的指向相同;<br />	{t=a,b与x的指向相同;}&#47,a与b消失,int *b)&#47,a和y的指向相同;/将改变x和y指向的地址的值;*b=t;/*a=*b;<br />{t=*a,输出结果不变<br />}<br />换成<br />int t
+38
+none
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/530864350.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87237827.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/512604110.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203673617.html?qbl=relate_question_4

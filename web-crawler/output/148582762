@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言delay函数延时计算
+none
+fail
+2
+你 的程序有问题额。<br />void  daly（）<br />{unsigned  char j；<br />  for（j=60；j〈=0；j--）<br /><br />}<br /><br />你可去看看单片机的时钟信号产生电路中的有关<br /><br />节拍：指振荡脉冲周期<br />状态：振荡脉冲尽过2分频后，就是单片机时钟信号的周期，定义为状态，一个状态等于两个节拍<br />机器周期：单片机采用定时控制方式，有固定的机器周期，一个机器周期等于6个状态，<br /><br />机器周期=6个状态=12个节拍<br /><br />当振荡脉冲频率为12Mhz时，一个机器周期为1微秒，振荡脉冲频率为6Mhz，一个机器周期为2微秒<br /><br />数据类型中unsigned  char为无符号字符型值域是在0~~~255范围里<br />在上面我设的是60次的循环，且晶振是约在12mhz，那么可以看出我们的算值是用60x1微秒，即可得到我们所要的延时值啊
+http://zhidao.baidu.com/question/184327747.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/133709987.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/146600153.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1690148632072245828.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/396500307.html?qbl=relate_question_4

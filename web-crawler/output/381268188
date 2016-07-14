@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+if (i!=k&&i!=j&&j!=k)在c语言中&&干嘛的？？？？？？？？
+none
+还有一个上面没涉及到的逻辑运算符“||”单独的一个&是位运算符；<br />两个在一起：&&是逻辑运算符！”也是逻辑运算符，表示“且”的意思<br />在你写的语句里，“，表示“否”，表示“或”
+2
+none
+http://zhidao.baidu.com/question/196404825.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/256109807.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80575082.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/21445480.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/42836424.html?qbl=relate_question_4

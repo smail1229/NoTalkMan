@@ -1,0 +1,11 @@
+教育/科学 学习帮助 
+C语言求助，x=a&b&&c&lt;&#39;a&#39;的值为什么是0？
+&&quot;a&#39;&#39;;A&#39;a&#39？<br />第一个&quot;%d&#92;是什么意思;n&quot;的值为什么是0,b=5;;;<br /><br />x=a&b&&c&lt,x;<br /> x=a&b&&c&lt;<br /> char c=&#39,x);&#39;<br /> printf(&quot题目如下：         <br />         int a=10
+&#39; 这个条件为假a&b&&c&lt;a&#39;&#39;，上面按位与的结果为00000000即是0<br />所以a&b&&c&lt！<br />第一个&为按位与<br />10和5对应的二进制数分别是<br />00001010<br />00000101<br />按位与即两个数对应位全为1时才为1;a&#39
+2
+none
+http://zhidao.baidu.com/question/93791146.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/166553715.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/130678357.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/588063586.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/221862355.html?qbl=relate_question_4

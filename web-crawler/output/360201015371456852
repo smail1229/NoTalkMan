@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计 我是初学者 求大神打救
+这样从文本文件中读入一行。：统计某篇英语小说中某些单词的出现次数。输出的每个单词的出现次数。<br />要求，尽量注明语句的意思（原谅我这渣渣、说明大致思路架构：完整具体的语句问题描述，直到文件结束，即统计工作必须在程序的一次运行之后全部完成，就统计每个单词在这行中出现的次数。要求在程序运行时才输入文本文件名和要统计的词汇。<br />实验提示。约定小说中的词汇一律不跨行。）<br />要答辩：英文小说存储在一个文本文件中，求大神打救。待统计的词汇集合要一次输入完毕
+fail
+0
+none
+http://zhidao.baidu.com/question/1731784897806450907.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/240203387811497764.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/559878955425838724.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/568459948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1603765887430627347.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求高手帮我看看，这个c语言程序哪里有错误？？！！
+name,&quot;}, nn)==0) flag=1，以下程序当输入某人姓名时.tel), stud[i].name,&#39,&quot.h&quot;<br />void main()<br />{ struct aa stud[]={&quot;<br />#include &quot,&#39;);，输出该人电话号码,&#39;Wangping&quot.h&quot;;<br />  char tel[20];n&quot;<br />struct aa<br />{ char name[10]，请填空;;.name;<br />  int i;stdio。<br />#include &quot;<br />  {if(flag==1)printf(&quot:%s&#92;;88665544&quot;n&quot;string:%s  tel;3; i&lt;<br />};<br />  else printf(&quot.&#92;Liming&quot;<br />  char nn[10];<br />  gets(nn);88776655&quot;zhanghua&quot;.;Can not find;88554433&quot;<br />  for(i=0, stud[i]; i++)<br />  if(strcmp(stud[i]（1）结构体数组中保存有3个人的姓名和电话号码
+}; i&lt;<br /> struct aa stud[]={{&quot,&quot;<br />  char nn[10], nn)==0) flag=1,{&quot,&quot, stud[i];;<br />  {if(flag==1)printf(&quot;3;Can not find;<br />  char tel[20], stud[i];<br />  int i;;88554433&quot.&#92;n&quot; i++)<br />  if(strcmp(stud[i];):%s&#92;<br />};<br />struct aa<br />{ char name[10];Wangping&quot;stdio;<br />void main()<br />{<br /> int flag.name;88776655&quot.;zhanghua&quot.h&quot;;<br />#include &quot.h&quot;<br />  for(i=0;n&quot;.name;88665544&quot;<br />  gets(nn)#include &quot;}},{&quot;<br />  else printf(&quot,&quot;name;string;Liming&quot.tel):%s  tel;}
+0
+none
+http://zhidao.baidu.com/question/157056962.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1430171526447769779.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52409102.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/751795700258822604.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/254765616.html?qbl=relate_question_4

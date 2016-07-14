@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中int值是99，那么转换成char unsigned float和long int分别是是什么啊？怎么算的？
+如果float=53.65换算成其他的是什么啊？long int=65535呢？
+unsigned char 还是99<br />同理float 就是99.<br />int 99-&gt：<br />int 99-&gt，变的是其存储格式或者是表现形式小空间转换为大空间;c&#39：转换的时候;char  还是99只不过变成字符了&#39，数值没有变。所以;.000000<br />    long int 就是99 这个就是容器大了而已。<br />大空间转换为小空间 数据小了就没事
+13
+none
+http://zhidao.baidu.com/question/36152775.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/57709360.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41951178.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/58935886.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/41366729.html?qbl=relate_question_4

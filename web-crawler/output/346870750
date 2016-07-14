@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言，如何编写程序输出九九乘法表。 形式如下 ********* ******** ******* ****** ***** **** *** ** *
+none
+fail
+1
+#include&lt;stdio.h&gt;<br />void main()<br />{<br />	int i,j;<br />	for(i=1;i&lt;=9;i++)<br />	{<br />		for(j=1;j&lt;=i;j++)<br />			printf(&quot;%dx%d=%-2d  &quot;,j,i,i*j);<br />		printf(&quot;&#92;n&quot;);<br />	}<br />}
+http://zhidao.baidu.com/question/74570340.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/337561229.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/48784952.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39727221.html?qbl=relate_question_3

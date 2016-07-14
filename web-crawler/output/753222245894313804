@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言的逻辑运算中3‖2为什么等于1呢
+none
+辑运算，结果只有0和非0，非0即为1.<br />而参与逻辑运算的数值，同样是判断0或非0，所有非0数值都是按照1来处理
+1
+none
+http://zhidao.baidu.com/question/1702660257539122780.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/454477849.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195735324.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/115423005.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/189509431.html?qbl=relate_question_4

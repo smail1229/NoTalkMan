@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言有关if……else的问题
+=&#39;<br />printf(&quot,&ch);<br />if(ch&gt;)，为社么一到else就报错呢;);=&#39;););yes&quot？<br />else以前应该都没问题;&&ch&lt;no&quot先看我的两个简单的程序<br />#include&lt;YES&quot，本人初学者;<br />else<br />printf(&quot;=&#39;NO&quot;;<br />}<br />这是第一个<br />第二个<br />char ch;<br />printf(&quot;%c&quot;<br />scanf(&quot;stdio;Z&#39;&&ch&lt;z&#39;<br />main()<br />{<br />scanf(&quot;A&#39，求详细的解答;=&#39;<br />第二个省略了#……<br />求高手帮我看一下那里错了;;%d&quot;<br />else<br />printf(&quot,&a).h&gt;a&#39;);||ch&gt
+);z&#39;no&quot，表示if已经执行完了;Z&#39;||ch&gt;=&#39;z&#39，后面的else就没有匹配的if了<br />你的程序等价于<br />if(ch&gt;&&ch&lt;=&#39;&&ch&lt;<br />else<br />printf(&quot;);=&#39;A&#39;Z&#39;yes&quot;里面为空<br />}<br />printf(&quot;<br />楼主看清楚  你的if后面有个分号;||ch&gt;&&ch&lt;/=&#39;)if(ch&gt;=&#39;<br />else<br />printf(&quot;no&quot;);a&#39;yes&quot;=&#39;=&#39;a&#39;<br />改正方法就是去掉if条件后面的分号<br />可以只用if;=&#39;);A&#39;)<br />{   /<br />printf(&quot;&&ch&lt
+1
+none
+http://zhidao.baidu.com/question/142785092.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90716472.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/108785090.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95937771.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/145239852.html?qbl=relate_question_4

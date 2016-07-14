@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中判断闰年的一个条件是：if(year%4==0&&year%100！=0||year%400==0)
+有两点疑问，一是为什么一个是&& 另一个是||，二是为什么是求余等于0而不能是相除等于0<br畅叮扳顾殖该帮双爆晶 />求高手指教。
+首先，解答你第一个疑问：<br />闰年的判断有畅叮扳顾殖该帮双爆晶两种：第一种是能被4整除而不能被100整除，第二种是能被400整除，注意，第一种是连一起的，所以用&&（与），而||（或）表是另外一种情况，随便满足哪一种都可以得出是闰年的结论<br />第二个疑问：<br />整除只能用%，相除的结果不是0哦，除非year值为&lt;4的数。。。<br />好了，还有什么不懂的hi我。。
+29
+none
+http://zhidao.baidu.com/question/1430746204348733219.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/334688803.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/10601381.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/503175905.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/401081040.html?qbl=relate_question_4

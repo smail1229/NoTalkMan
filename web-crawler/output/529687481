@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c++语言如何将txt中的16进制数读取，并以十六进制数保存？麻烦~~
+以十六进制 10133AA45EE35E17E65F2445F来保存。。如txt文件中10133AA45EE35E17E65F2445F
+a;hex&lt;<br />输出<br />out&lt，可能还需要使用setw（设置读入和输出长度）和setfill（输出时若长度不够，若不改变;a。（10进制使用dec）<br />另外;&lt，以后均采用16进制包含头文件iomanip<br /><br />读入<br />in&gt，将用这个进行填充）;&gt：hex使用后;hex&gt;<br />注意;&lt;&gt。详细使用可以自己搜索一下
+1
+none
+http://zhidao.baidu.com/question/138532999.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192523325.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/150989636.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/510524746.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/359480455.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中删除一个数组元素
+先定义一个穿哗扁狙壮缴憋斜铂铆数组，赋值<br />再输入一个数<br />判断这个数组里有没有<br />如果有就删除他<br />最后输出删完后的数组<br /><br />谢谢各位大人拉~~~~~~~~~~~~~~小弟没多少分只有30  这里都贡献了吧
+一维数组啊，其实实现一个数的删除很简单啊，只要不输出就行，你说的那个方法也行，或者直接记住这个下标，输出时加个条件判断就行，达到目的就好了，不必拘泥形式。<br /><br />#include&lt;stdio.h&gt; <br /><br />int main() <br />{ <br />int a[2][2]={1,2,3,4},n; <br />printf(&quot;input the number to delete:&quot;);//输入查找的数 <br />scanf(&quot;%d&quot;,&n); <br />for(int i=0;i&lt;2;i++) <br />for(int j=0;j&lt;2;j++) <br />if(a[i][j]==n) a[i][j]=0;//找到修改成0，只能修改 不能删除 <br />//输出 <br />for(int i=0;i&lt;2;i++) <br />for(int j=0;j&lt;2;j++) <br />printf(&quot;%d&quot;,a[i][j]); <br />getchar(); <br />getch穿哗扁狙壮缴憋斜铂铆ar(); <br />return 0; <br />}
+1
+none
+http://zhidao.baidu.com/question/262041564.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41903018.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/16352956.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/102819658.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198908537.html?qbl=relate_question_4

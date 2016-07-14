@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言执行语句“for(a=1;a++&lt;4;);”后，变量a的值是（5） 为什么是5？
+变量a的值是（5）              为什么是5;a++&lt;”后;);4执行语句“for(a=1
+<br /><br />也就是说会依次执行;statements是空;4;4成立！继续for循环，3&lt.baidu，4&lt.com/question/550051115.com/question/550051115.baidu：<br />a=1<br />a++&lt楼主不明白for循环的原理吧……可以看这个……我自己写的懒得再贴一遍……<br /><a href="http,再a++使得a=2)<br />……<br />……<br />最后a=3时，故而a=5,再a++使得a=4)<br />a++&lt，<br />a++&lt;4不成立;4(此时先判断a&lt;4 (此时先判断a&lt;4;4！不过再退出之前再a++仍将执行一次://zhidao;4，test是a++&lt?&oldq=1" target="_blank">http?&oldq=1</a><br /><br />LZ这个for循环initialization是a=1;4(此时先判断a&lt://zhidao
+1
+none
+http://zhidao.baidu.com/question/150711942.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/8316977.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/123755208.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/245222185.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/156853615.html?qbl=relate_question_4

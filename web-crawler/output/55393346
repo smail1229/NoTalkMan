@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言关于continue的疑惑
+<br />   }<br />   getch().h&quot;<br />   printf(&quot;);stdio#include &quot;&&quot;<br />main(){<br /> int t？;<br /> for(t=1;);t&lt;=8;<br />   else continue;@&quot!=0) printf(&quot;t++){<br />   if(t%2;<br />   }<br /><br />为什么答案是@&@&@&@&<br />不是continue之后的语句跳过不执行吗
+&&quot,不满足IF条件;)if(t%2,满足IF条件!=0) <br />printf(&quot;<br />第二次T是2;@&quot,打印@!=0) <br />   printf(&quot;<br /><br />第一次T是1,第一次循环结束,把ELSE下所有语句用大括号括起来<br /><br />  if(t%2;<br />printf(&quot;);<br />第345678次循环重复以上步骤<br />你把代码改成这样试试看是不是你要的效果;<br />else continue,跳出本次循环,执行CONTINE;&&quot,打印&;);@&quot,不执行ELSE下的CONTINUE;<br />  else <br />  {continue;<br />  printf(&quot;)
+1
+none
+http://zhidao.baidu.com/question/470123985.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91411785.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/66810365.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98743975.html?qbl=relate_question_4

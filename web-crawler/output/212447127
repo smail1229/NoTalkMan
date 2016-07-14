@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言如何写头文件？
+none
+h&quot;*以下是test;*头文件内容;<br />千万不要包含;<br />#include &quot;<br />#endif<br />/<br />void Draw_Background().c的内容*/*后面就是各个函数的实现*/<br />&#47：<br />#include &quot;<br /><br />同项目中其他各个文件需要使用这些函数时只需要下面这样一句，假设名字是test&#47.h&quot;test.c文件;test;<br />#ifndef MYHEADFILE<br />#define MYHEADFILE<br />void InitInterpolation();<br />void Draw_Gray();<br />void Draw_Border().h*&#47
+47
+　　直接在程序编辑框输入即可。例如#include&lt;stdio.h&gt;就是一个头文件。<br />　　在C语言家族程序中，头文件被大量使用。一般而言，每个C++&#47;C程序通常由头文件(header files)和定义文件(definition files)组成。头文件作为一种包含功能函数、数据接口声明的载体文件，主要用于保存程序的声明(declaration)，而定义文件用于保存程序的实现 (implementation)。 .c就是你写的程序文件。
+http://zhidao.baidu.com/question/413661236.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192132810.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/78338113.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80068773.html?qbl=relate_question_3

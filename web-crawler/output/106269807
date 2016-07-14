@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言宏定义的语法问题（望高手解答）
+<br />#define f(x) x*x<br />main()<br />{<br /> int i ？这个宏定义是怎么嵌入的，然后再24&#47？希望给出宏定义的算式：4+4*4+4=24;n&quot;<br />}<br />为什么最后i是21:f(4+4)先算;<br /> printf(&quot..<br />个人认为;<br /> i=f(4+4)&#47？,i);stdio;(2+2)=6;%d&#92;(2+2).h&gt#include &lt，这样哪儿错了;
+应该是4+4*4+4/(2+2)<br />等于21 <br />记住宏定义是原样替换，不能自己想当然
+11
+none
+http://zhidao.baidu.com/question/96744677.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533748536.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/134923608.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/100657638.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/133232993.html?qbl=relate_question_4

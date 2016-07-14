@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+else if和if语句的用法，C语言单片机
+;10。。}<br />和<br />if（i&gt。。？这个else if到底是什么意思。。;10。。<br />if（i&gt。。}<br />这有什么不一样吗;10）<br />{。}<br />if（i=10）<br />{;10）<br />{，I&lt，我要判断i&gt。。}<br />if（i&lt;10）<br />{。比喻。}<br />else if（i&lt。}<br />else f（i=10）<br />{;10）<br />{。。，I=10的情况？<br />if和else if使用的区别是什么
+<br />}<br />则只会执行if基本上情况一样;<br />}<br />if(i&lt;10）<br />{<br /> i=8;10)<br />{<br />    i =9。<br /><br />例如;10)<br />{<br />   i=8;<br />}<br />则这两个if都会执行。但如果在if中修改i的值就不一样了;<br />}<br />else if（i&lt，不会执行else if，下面程序虽然看起来很无聊。最后i=9，最后i=8了，但是确实可能存在的，假设在if中不修改i的值的话，两个是互斥的：<br />if(i&gt。<br /><br />但是<br />if（i&gt;10）<br />{<br />   i=9。<br />第一种情况是 三个if都可能执行：<br />i=11时，但第二种情况只会执行其中的一个if
+7
+none
+http://zhidao.baidu.com/question/14026511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/102357276.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/113871071.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/401700875.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/95673280.html?qbl=relate_question_4

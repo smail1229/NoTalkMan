@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言(c==3)‖(d=-1)逻辑值
+none
+<br />而逻辑或（||）运算，结果就为真，只要 有一个条件为真，也就是说，如果左边（c==3）为真（即c=3），逻辑运算中d=-1，逻辑 或 （||） 运算 执行 左结合（左边先计算）标准，那么右边将不在执行，-1 非0，当c=3时，非 0 就是真，不执行 d=-1；不管 c 是什么；<br />但，结果都是真
+0
+none
+http://zhidao.baidu.com/question/147615336.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/232046783.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52505553.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1367532030292429299.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198812025106622005.html?qbl=relate_question_4

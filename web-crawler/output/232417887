@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+用C语言编的程序，要生成可执行文件的时候，要编译、链接，编译是什么意思啊？链接是什么意思？编译和链接
+none
+每个编译就是把C代码转换成CPU可执行的机器指令.obj文件.c文件生成一个.lib)一起组合生成可执行文件（.obj 文件及用到的库文件(。<br />链接就是把生成的(多个) .exe）
+21
+C语言是一门计算机语言，有自己一定的语法。但是，C语言并不能直接被对象所理解，需要将C语言转变成可执行代码，即二进制代码。在C语言转变成二进制可执行代码时，是以工程为单位的。而一个工程中往往会包含多个C文件。因此，需要将每个C文件都编译成二进制代码。此时，每个C文件所对应的二进制代码是独立的。由于工程是一个系统，所以需要将所有的C文件二进制代码链接到一起，形成一个工程的可执行文件。<br />综上，编译和链接就是指的将C文件转变成二进制代码，并将各个独立的C文件二进制代码链接到一起，形成一个可执行文件的过程。
+http://zhidao.baidu.com/question/277923200.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/224870140.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/51068166.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/187249463.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/534028702.html?qbl=relate_question_4

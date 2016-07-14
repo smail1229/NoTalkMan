@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言return 0的问题
+none
+如果当前函数是主函数，返回到调用该函数的地方; 主函数返回;  / 由于函数返回void，举个例子; 执行完本函数后：<br />void fun()<br />{<br />    return，继续执行下面的<br /><br />    return 0return 的意思就是当前函数返回，则当前函数返回;/  / &#47，返回这里，如果不是; 不能用return 0;/<br /><br />}<br />int main()<br />{<br />    fun();&#47，那么主函数就返回，因此只能用renturn
+5
+none
+http://zhidao.baidu.com/question/128799090.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/554682327.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/264760648396519365.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/151404556.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/223565538.html?qbl=relate_question_4

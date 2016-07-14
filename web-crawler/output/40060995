@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中return -1 和 0，1 的区别？
+C语言中return -1 和 0，1 都有什么主要区别？ 各用在什么情况下。<br />比如说下面的程序是线性表中元素的插入：<br />int Insert_SeqList(SeqList *L,int i,datatype x)<br />  { int j;<br /> if(L-&gt;last==MAXSIZE-1)<br />   { printf(&quot;table is full!&quot;); return(-1); }<br /> if(i&lt;1||i&gt;(L-&gt;last+2))<br />   { printf(&quot;place is wrong!&quot;); return(0); }<br /> for(j=L-&gt;last;j&gt;=i-1;j--)<br />    L-&gt;data[j+1]=L-&gt;data[j];<br /> L-&gt;data[i-1]=x;<br /> L-&gt;last++;<br /> return(1);  }<br />其中三个retu俯紶碘咳鄢纠碉穴冬膜rn语句的具体含义。
+这里只是通过return返回不同的值来区分函数执行的结果啊，-1表示队列满，不能插入；0表示标号越界；俯紶碘咳鄢纠碉穴冬膜1表示正常执行插入。
+14
+none
+http://zhidao.baidu.com/question/1691009758081978508.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/687897035096234604.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/180959464.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424084280951570972.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2202072635624910588.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言在数组中求出素数的个数和素数之和（不可以用函数）还有我写的那一段哪里出错了，素数之和一直都不
+none
+if(j == a[i])需要用括号<br />if(j == a[i])<br />{<br />    num++;<br />    sum += a[i];<br />}
+0
+none
+http://zhidao.baidu.com/question/27446691.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127492838.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/560029332.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/542165752.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/381302855.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若有定义：double a=22;int i=0,k=18；为什么（i=a%11)是不符合C语言规定的赋值语句。
+none
+需要加强制类型转换，所以编译肯定会报错的：i=(int)a%11因为取余运算符（%）是对整形变量（或常量）取余数。而我们知道整形可以被自动转换为float或者double，即，而你的变量a是double型的，但是反过来是不行的，所以你要是想用上面的语句的话
+57
+none
+http://zhidao.baidu.com/question/235629263.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/477321688.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/142181759.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/572345630.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/479015004.html?qbl=relate_question_4

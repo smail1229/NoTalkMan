@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中整型常量为什么要分那么多种，其中长整型和短整型和有符号或没符号整型除了取值范围外
+有什么不同.45，<br />最后还有问一下如何在编程的时候说明某个数是什么整型与，我是初学者要不要再编程的时候注意一下.45是否等于我们日常生活中的123，还有在实型常量中用科学记数法所代表的数字例如SciNum1=123，用起来有什么区别
+我学了一年了，除了节省空间没发现有别的作用
+4
+none
+http://zhidao.baidu.com/question/107977916.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38983452.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/24346382.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/48106210.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197278040.html?qbl=relate_question_4

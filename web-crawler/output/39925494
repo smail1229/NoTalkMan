@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求教：c语言中单精度实数的数值范围是如何计算得出的
+请高手详细解答一下，c语言中单精度实数的数值范围是如何计算得出的
+单精度浮点数位长：32位<br /><br />（1）     IEEE 754 标准规定：第1位为符号位，1 代表负，0代表正<br /><br />（2）     接下来用8位来表示指珐伐粹和诔古达汰惮咯数部分。<br /><br />（3）     接下来的23位用来表示有效数位<br /><br />v......<br />...<br />...<br />你自己看一下吧
+4
+none
+http://zhidao.baidu.com/question/305800645.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239331960.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/19086342.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/172192866.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/77592221.html?qbl=relate_question_4

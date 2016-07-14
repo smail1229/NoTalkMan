@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中计算X的N次方，不能用POW函数
+是我写的程序<br />#include &lt.h&gt;i&lt;%，不管N是多少;%lf%d&quot, &x, &n);stdio;; ri &lt;<br />    printf(&quot, ri;<br />    int repeat，结果都是4 怎么回事啊;<br />    for(i=0;<br /><br />}<br /><br />}<br /><br />让X=2时;%d&quot;i=i+1)<br />    mypow=x*x,mypow); ri++){<br />        scanf(&quot;<br />    double mypow;;<br /><br />    scanf(&quot;n&quot.2f&#92;, x;=n;= repeat;<br />    for(ri = 1, &repeat), n;<br />int main(void)<br />{<br />    int i
+你可以把<br />for(i=0mypow每次赋值都是x的平方当然这样啦;然后把<br />mypow=x*x;i=i+1)变成<br />for(i=0;i&lt;=n;i&lt,mypow=x;=n;i=i+1);改成mypow*=x
+4
+none
+http://zhidao.baidu.com/question/2074200827056631548.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94446466.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/273753329.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/202288149.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/432947509.html?qbl=relate_question_4

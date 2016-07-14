@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序改错题求助！谢谢
+*r，调用函数f()对字符串按从小到大排序并删除重复字符;*p,q--);<br /> gets(s).h&gt;*q;n&quot;stdio;<br />   *r=*p;%s&#92。<br />#include &lt;<br />void f(char *str)<br />{<br /> char *p.h&gt;<br />   *p=c，然后将处理后的字符串输出;*--用选择排序法对字符串str中字符按从小到大排序;p++)<br /> {<br />  for(q=p+1。找出以下程序段中的错误--*&#47,s),*q。<br />    程序有两处错误;q)<br />    r=q;<br />  }<br /> }<br /><br /> &#47程序改错题<br />    gc557;);Please enter a string;p++)<br /> {<br />  for(r=p;<br /> printf(&quot,q=p+1;<br />#include &lt。不得增加行或删除行;q++)<br />   strcpy(p;<br />  if(r;<br /> for(p=str，请找出并修正;<br /> for(p=str;*p,c。找出以下程序段中的错误--*&#47，也不得更改程序结构;n&quot;<br /> f(s);<br /> printf(&quot;<br /><br /> &#47.c的功能是;<br /> }<br /><br />}<br />void main()<br />{<br /> char s[50]:&#92!=p)<br />  {<br />   c=*r;string;q++)<br />   if(r&gt;*q;<br /> int number=0;*--删除字符串str中的重复字符;:从键盘任意输入一个字符串，使之符合上述要求
+*q)<br /><br />第二处错误<br />for(q=p+1;*q==*p第一处错误<br />if(r&gt;*q;q++)<br />应该改成<br />for(q=p+1;q)<br />应该改成<br />if(*r&gt
+1
+none
+http://zhidao.baidu.com/question/159466009.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/200975254.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/159496956.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/128680135.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128063557.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+(x)＜(y)?(x):(y)在C语言中的意思?
+none
+面说的等价都是错的，那么整个表达式就相当于exp1，cpu都会计算它的值<br />其实按asci规范来说，实际上它是个表达式? exp1 ，无论如何，否则就相当于exp2<br />即使是一个赋值语句也会有其结果，下面这个表达式<br />exp0 : exp2<br />如果exp0为真
+11
+none
+http://zhidao.baidu.com/question/177518892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2265623123306651828.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/257009770.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/257009307.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/210237935.html?qbl=relate_question_4

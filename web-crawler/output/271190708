@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中float f=1.23，为什么用printf（“%d”，f）输出是乱码？
+C语言不是能自动将输出数据转化为格式控制类型吗？
+这里的要求就与我们的函数里头讲的要求是一样的！<br /><br />C语言输出时调用printf函数实现的“C语言不是能自动将输出数据转化为格式控制类型” 指的是在赋值运算的时候，在printf函数里头是需要形参与实参一一对应。而且必须是一一对应。<br />printf只不过是一类标准的库函数，它本质上还是函数
+5
+none
+http://zhidao.baidu.com/question/67136696.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/480725807.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/688689961683135124.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/530701582.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/541018970.html?qbl=relate_question_4

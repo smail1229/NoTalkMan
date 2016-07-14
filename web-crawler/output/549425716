@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言的程序按位 与（&）运算什么运算啊
+none
+然后逐位进行与运算。<br />例如。如果参加&是负数运算的是负数(如-3 & -5)，然后按位进行“与”运算：3&5　并不等于8，应该是按位与。<br />       3 = 00000011<br /> (&) 5 = 00000101<br />——————————<br />             00000001<br />因此，3&5的值得1，则以补码形式表示为二进制数先把&运算的两个值转换成二进制
+1
+none
+http://zhidao.baidu.com/question/1691372184088301188.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/160909661.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/587797308.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/681684237627830812.html?qbl=relate_question_3

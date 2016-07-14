@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中t=s[0].a+s[1].b是什么意思
+none
+[]是一个结构体数组,b则是结构体里的两个成员，<br />t等于s[0]结构体中的成员a加上s[1]结构体里的成员b，a
+2
+none
+http://zhidao.baidu.com/question/184447693.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/689617560842553524.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/587805770.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/233021309.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/171174497.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，float f=123.456与123.456是不相等的，请问为什么？
+none
+可以是float，也可以是double或者字符，所以可能是不等的，前边你定义的是float，就不相等啊类型不一样，后边那个没说啊
+0
+none
+http://zhidao.baidu.com/question/142646809.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/232044270.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/284328213.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/46082016.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/60593194.html?qbl=relate_question_4

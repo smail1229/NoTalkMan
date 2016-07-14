@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教大家一个c语言的问题，希望高手给详细讲解下？？
+*b)  请问输出是多少？;%08x&quot；<br />    printf(&quot;<br />      char *b=(char*)&a、 unsigned int a=0xfffffff71;
+char 一般来说是有符号的，所以实际入栈的参数是-9.，先将字符串“%08x&quot，打印的结果是000000F7.。这里假设你用的系统的int是32位的，但注意.<br />printf 调用时，*b的内容严格来说是f7，这时入栈的是无符号的字符数据0xF7，结果自然是0xFFFFFFF7，x指出当前要打印的数据是int型.，所以f7会被解释成负数9;的地址入栈，可以试试第二行改成 unsigned char *b =程序执行结果应该是fffffff7。<br />如果还不好理解，int型的-9，而打印的时候，再将*b的内容入栈
+1
+none
+http://zhidao.baidu.com/question/178967863.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/231675286.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/234544646.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/481173357.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1731697572439932787.html?qbl=relate_question_4

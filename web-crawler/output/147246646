@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编写C语言程序,实现以下功能.
+3千克以下每千克2,购买10千克以上每千克1顾客买桃子,5千克以上每千克1.5元.输入桃子重量和顾客所付贷款和应找钱数,3千克以上每千克2元.2元.8元
+应找钱数;<br />   else<br />      money=weight*2;%f&quot.2;<br />   scanf(&quot：&quot;输入顾客付款金额，这个可以用if……else if……或者switch语句写,&money1);<br />   scanf(&quot.5.8;stdio;<br />}<br />直接在这里写的,&weight), money1 .h&gt;<br />   if(weight&gt;=5)<br />      money=weight*1;<br /><br />void main()<br />{<br />   float  money ;%f&quot：&quot;<br />   else if(weight&gt;);),money1-money), weight;<br />   printf(&quot;<br />   printf(&quot;;=10)<br />      money=weight*1：%f&quot;输入购买桃子的重量;;<br />   else if(weight&gt;;=3)<br />      money=weight*2; <br />   printf(&quot，你自己好好想想吧#include &lt
+4
+none
+http://zhidao.baidu.com/question/409465108.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/106333942.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/429632956.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/192664702.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/982157756422625899.html?qbl=relate_question_4

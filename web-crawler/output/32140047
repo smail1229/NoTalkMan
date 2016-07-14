@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言输出语句的问题
+<br />printf(&quot;tc%c&#92！,c4;t&#92,c5);A%C B%C&#92;a%c b%c&#92，<br />不好意思,c3,)和（&quot！,c5);&#92;;n&quot，请详细说明一下，<br />PRINTF（&quot;;n&quot;tabc&#92，谢谢了,c1;<br />括号里的（&quot;n&quot,%是什么意思呀,c3)，小弟才刚学;b%c %c&#92,c2;tabc&#92;t&#92，什么时候用到和什么情况下同啊;,c1;b%c %c&#92;,c4;&#92,c2请刚我解释一下这两句语句内容的意思;tc%c&#92;n&quot
+后面就要有相应的几个c1.就是你要输出的数据<br />有几个 %c .<br />当然 %c 输出的是字符格式<br />还有其他许多格式<br />例如 <br />%s 是字符串<br />%d 是整型<br />%f 浮点型...简单地说 %c 是你要输出的数据格式。.，后面的c1,c2,c2
+0
+none
+http://zhidao.baidu.com/question/539427366.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/112869407.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/136675166.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/126261179.html?qbl=relate_question_3

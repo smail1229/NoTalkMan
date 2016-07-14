@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，int m，n; if（m%n）printf(&quot;#&quot;)中
+%n的结果只要不为0，是不是都可以输出#，就是if句子的否定，如果等于0。而大于0的任何数都是成立的呢，就不输出？m%n=0而0是否定的意思
+=0不是输出而是继续试下一个m值，m=2;n;<br />意思是如果遇到n%m==0就跳出循环;}<br />if (m==n)<br />printf(&quot，此时n%m，也就是如果遇到n%m，也就表示n是素数了;m++)<br />if(n%m)<br />printf(&quot;%5d&quot,n)？ <br /><br />for(m=2;%5d&quot;n;!=0）<br />它的对立面是if（m%n==0） <br /><br />-------------补充------------------<br />for(m=2;，如果遇到n%m，如果n=9;m++)<br />{if(n%m==0) break!=0的就输出，你可以由此就判断9是素数么。比如!=0;m&lt，那就是n不能从2到n-1的任何一个数整除,n)。<br />这样如果试遍了所有比n小的m值都不能整除(这时候m就增加到跟n相等了）对;}}<br />意思是。<br />if（m%n）等同于if（m%n;m&lt
+1
+none
+http://zhidao.baidu.com/question/232796019.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234210260.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1366021454734817939.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/112786041.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/331868985.html?qbl=relate_question_4

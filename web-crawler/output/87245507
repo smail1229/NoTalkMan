@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中%u的意思
+ain()<br />{ unsigned int a;%u&quot;<br />printf)&quot,a);<br />int b=-1;<br />a=b;
+u为以无符号十进制输出；b为有符号的整型，即对应的二进制数0-1111111111111111（16个1），则为-1。（-1二进制表示为10000000000000001，负数在计算机中用反码表示，但是转换成无符号整数%u输出，即1111111111111111），以1111111111111111（16个1）的二进制数存储，1111111111111111（原来的有符号整数-1）被解释成1111111111111111（无符号整数65535）。无符号整数能表示的数范围是0-65535。如果用%d输出b。<br /><br />int b=-1
+47
+none
+http://zhidao.baidu.com/question/124206127.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153695515.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/196233373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/18663335.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/261101613.html?qbl=relate_question_4

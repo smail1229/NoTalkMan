@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言赋值语句&quot;a=(7+b,b++,a+7)&quot;语法错在哪里?
+是一道选择题,这个选项是错的,我想知道为什么.谢谢各位
+所以在进行初始化之前不可以进行运算，这是一个赋值语句，因为a还没有初值，但可能不是楼主真正想问的错误少个分号也是一个错误,a+7)  假设b是有初值的;和b++都没有错误，因此a还没有初值。所以这里是错误的，既然是赋值语句，因此a+7就是错误的,b++，那么也就是说变量a还没有初始，但是a是正在被初始化的变量，因此7+b，因此你的这个语句就是错误的。解释如下<br />a=(7+b。<br /><br />依楼主题意
+18
+none
+http://zhidao.baidu.com/question/101249267.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488752892.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92861086.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/320095190.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/514226434.html?qbl=relate_question_4

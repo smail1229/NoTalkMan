@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+求这个c语言程序的输出结果
+printf(“85-100&#92; scanf(“%d”;n”);<br /> Switch(grade)                     <br /> {case ‘A’ :printf(“60-69&#92;break;n”);         <br />case ‘D’ ,&grade);60&#92;n”);          <br />  case ‘C’ :printf(“error&#92;n”);<br />   }                                  <br />当输入;;n”):printf(“70-84&#92;   <br />   default ;         <br />case ‘B’ :printf(“&ltmain()                              <br />{ int grade
+60-69<br />&lt;60<br />因为如果没碰到break就会从case C这一步一直做下去
+0
+none
+fail

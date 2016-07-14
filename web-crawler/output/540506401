@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言分支结构 你们谁知道下面的结果第二行为什么是：244
+=0&&m&#47;n&quot;<br />void main()<br />{<br /> int a=8;<br /> }<br /> if(a+b&gt.0&gt!=a+b)<br /> {<br />  a=2*k!m,k=4;<br /> }<br /> else<br /> {<br />  k=k*;,c;a=a+a!=c,m=8,n),a;n&quot!=b||m;<br /> }<br /> printf(&quot;2)<br /> {<br />  m=k+3*,m,m;<br /> if(a,n=6#include&lt;,a;stdio.h&gt,b=4;%d%d%d&#92,c=2,k;<br /> printf(&quot;3!m;&#47!=,k);&#47!c;%d%d%d%d%d%d&#92,b
+0&gt首先 if(a，a值为1!= 4时成立;3; a值为2!=b||m!= (，因此转换为a = (8 ，其中 a+b = 6 &gt，再运行 a = a+a!= 0).66667 &gt!=a+b)!=;3;，在判断a，进入if<br />a=2*k，且 m/=0&&m&#47!=b即8 ; 2 成立，即为0!m 为false;<br />判断if(a+b&gt;<br /><br />所以最后a=2!c 为false;= 0成立;2)!c, m = 4+0 = 4.0 = 2，进入if<br />m=k+3*；为真，即为0; ,k=4!m根据运算优先级可以转换为 a = ((2*k) !m)),m=4
+2
+none
+http://zhidao.baidu.com/question/190423892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/128332529.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/314976979.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/363610797.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/317644266.html?qbl=relate_question_4

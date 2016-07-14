@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中switch-case语句的使用
+应经采纳了，的确是少加冒号了，不过提示ture是unfefined  identifier。true要怎么定珐长粹短诔的达痊惮花义，或者指代什么，能知道清楚些吗
+C语言里面没有标准的布尔运算符，比如ture和false，所以你使用这两个单词是无意义的。<br />C语言里面，0是假，其他都是真<br />你可以定义宏<br />#define tu珐长粹短诔的达痊惮花re 1<br />#define false 0
+1
+none
+http://zhidao.baidu.com/question/183541907.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145342740.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/538825462.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/45908239.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155294522.html?qbl=relate_question_4

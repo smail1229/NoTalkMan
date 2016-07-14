@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中函数的形参的地址之间满足什么特定的关系？比如说void fun(char a,int b,
+C语言中函数的形参的地址之间满足什么特定的关系？比如说void fun(char a,int b,int c){printf(&quot;%d,%d,%d&quot;,&a,&b,&c);}  调用fun时订酣斥叫俪既筹习船卢 输出的值 之间有什么特定的关系？
+形参一般是存在栈上订酣斥叫俪既筹习船卢的，参数也是挨着存的，对于你说的这个fun函数来说，也要考虑形参压栈的顺序，有可能a先入栈，紧接着是b,c。也有可能是c先入栈，紧接着是b,a。以a先入栈来说，但是他们的地址是挨着的，参数a是个char型，占一个地址，因为要地址对齐，所以b的地址应该就是a的地址加4，c的地址是b的加4。想要更深入了解这方面的只是，得了解变量的存储形式，函数调用规则以及函数调用时的栈的情况！
+0
+none
+http://zhidao.baidu.com/question/396565802.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356790110.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/11010134.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/397127860.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/393937659.html?qbl=relate_question_4

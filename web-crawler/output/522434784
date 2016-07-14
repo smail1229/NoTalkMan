@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中表达式(i++)+ (i--)有多少种可能的值？
+none
+所以对这种表达式的取值的讨论没有太大的意义，所以并没有定义i++与i--何时生效(想++和--这种有“副作用”的表达式必须在序列点或序列点之前生效）<br />二元+操作符也没有规定求值顺序，并且在对左边的操作数取值后++生效：i+i-1<br />总之这种表达式在语言中的值并没有定义这个表达式中没有的序列点(sequence point)，所以有可能有：i+i<br />+操作符先计算左边的操作数：i+i+1<br />+先算右边并--生效，<br />++和--在+操作符执行完后生效
+2
+none
+http://zhidao.baidu.com/question/135605263.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5501585.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/67403679.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/56339968.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/430998718.html?qbl=relate_question_4

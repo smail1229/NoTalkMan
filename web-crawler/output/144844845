@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言泰勒公式求sin
+=c)<br />  { s+=(a&#47;%f %f&quot,c;b)&gt,s=0,&x;<br />  while((a&#47。,s);<br />  scanf(&quot;,&c).h&gt;<br /> float x;<br />     a=-1*a*x*x;math;<br />      }<br />高手帮忙看看哪错了.h&gt;<br />      }<br /><br />     printf(&quot;%f&#92：<br />#include &lt;n&quot;<br />      return 0;<br />main()<br />{<br />int i=1;stdio;,a;<br />#include &lt;<br />      i++,b=1;<br />      b=b*2*i*(2*i+1);b);<br />  a=x我的程序
+希望对你有帮助whie((a&#47,应该是这样;=c)才正确,应该改成while(fabs(a&#47!<br /><br />试试吧;b)&gt,所以a/b在循环一次后就变负值鸟,这里有错误,a是带符号的,根据循环体来看;=c);b)&gt
+2
+none
+http://zhidao.baidu.com/question/982390067899463219.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/810250487248966012.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/431510939189357284.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/396962256.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/43115462.html?qbl=relate_question_4

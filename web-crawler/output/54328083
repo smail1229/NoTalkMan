@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言将输入的英文名字排序
+道题我想了很久，也想不出来。输入任意顺序的名字表。<br />使用指针实现整理名字表，所以请教大家，再将其按字典顺序排序并输出
+i&lt;%s&quot;i++)<br /> {<br />  for (j=0;string;<br /> }<br /><br /> return 0;<br />   }<br />  }<br /> }<br /> for (i=0;n&quot,name[i]);j++)<br />  {<br />   if (strcmp(name[j];<br /> }<br /> for (i=0;i&lt;名字数<br /> for ( i=0;j&lt.h&gt;<br />int main()<br />{<br /> char name[100][15];&#47,j,&n);<br /> int n;<br />    strcpy(name[j+1];%d&quot;n,name[j]);<br /> char tmp[15];%s&#92,i;<br />    strcpy(name[j]#include &lt.h&gt;n;&#47,name[j+1])&gt;i++)<br /> {<br />  scanf(&quot;;i++)<br /> {<br />  printf(&quot,name[j+1]),tmp);stdio;<br />#include &lt;n-i-1;i&lt;<br /> scanf(&quot;0)<br />   {<br />    strcpy(tmp,name[i]);;;n
+10
+none
+http://zhidao.baidu.com/question/75219325.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/19278374.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/6480167.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/135778669342295685.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/160083721.html?qbl=relate_question_4

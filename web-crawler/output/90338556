@@ -1,0 +1,7 @@
+电脑/网络 互联网 网站使用 
+C语言程序问题 调用函数进行数组排序
+none
+fail
+2
+#include&lt;iostream.h&gt;<br />void sort(int a[],int n) &#47;&#47;降序<br />{ <br />for(int i=0;i&lt;n;i++) <br />for(int j=i+1;j&lt;n;j++) <br />{ <br />if(a[i]&gt;a[j]) <br />{ <br />int temp; <br />temp=a[i]; <br />a[i]=a[j]; <br />a[j]=temp; <br />} <br />} <br />}<br />void main()<br />{<br />  int a[10];<br />  for(int i=0;i&lt;10;i++)<br />  cin&gt;&gt;a[i];<br />  sort(a,10);<br />  cout&lt;&lt;&quot;after sorted,the array is:&quot;&lt;&lt;endl;<br />  for(i=0;i&lt;10;i++)<br />  cout&lt;&lt;a[i]&lt;&lt;&quot; &quot;;<br />  cout&lt;&lt;endl;<br /><br />}
+fail

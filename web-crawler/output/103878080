@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若变量已正确定义并赋值，符合C语言语法的表达式是（  ）
+A）a+=7<br /><br />B）b+c=a=7<br /><br />C）int 18.5%3<br /><br />D）a=a+7=c+b
+5不是整形,=是赋值符，18，表示将右边表达式的值赋值给左边的变量，a += 7 即a = a+7。%运算符是除法取余数运算，先计算a+7的值B和D为什么是错误的不用解释吧，然后存入a所在的地址（从新赋值a）。+=是复合运算符,c编译器从右向左编译，只有整形才能用，之前肯定是不能出现表达式的.因此A正确
+20
+none
+http://zhidao.baidu.com/question/378730465.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/281404577.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80076445.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/8438232.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1945767634572586588.html?qbl=relate_question_4

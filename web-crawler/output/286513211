@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题 若int x=6;则x+=x-=x*x表达式最后x的值是（ ）。 要详细的解答步骤和说明
+none
+从右往左计算：<br />x-=x*x所以x=6-6*6=-30<br />x+=x所以x=(-30)+(-30)=-60<br />所以最后结果等于-60<br />求给分
+27
+none
+http://zhidao.baidu.com/question/533641409.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356763566.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/279669495.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/350231038.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/284145643.html?qbl=relate_question_4

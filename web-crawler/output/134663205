@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int  half, n = 0, i; 和if (data%i == 0) 什么意思
+nt  data = m+1;<br />  for (i=2;<br /> int  half; i&lt; i++)<br />   if (data%i == 0)<br />    break;=half;= k)<br />   break, n = 0;<br /> while(1)<br /> { <br />  half = data&#47; 看不太懂;<br />   n++;2, i; half)<br />  {<br />   xx[n] = data;<br />  if (i &gt;<br />  }<br />  if (n &gt;<br />  data++
+int half, n = 0<br />是定义half和n两个整形变量，并给n赋给初值0<br />if (data%i == 0)<br />是判断data%i的余数是否为0 即是否能被整除。
+6
+none
+http://zhidao.baidu.com/question/295713179.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226376907.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/288868986.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/589687238.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/446558172.html?qbl=relate_question_4

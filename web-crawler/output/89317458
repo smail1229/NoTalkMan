@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言单精度与双精度的区别？
+none
+fail
+24
+其实就是有效位数不一样。<br />浮点型变量分为单精度（float)、双精度（double)和长双精度(long double)3类。在Turbo C 中：<br />        比特（位）数      有效数字       <br />float       32              6-7         <br />double      64              15-16<br />long double 128             18-19<br />ANSI C 并未具体规定每种类型数据的长度、精度、数值范围，有的系统将double所增加的32位全用于存放小数部分，这样可以增加数值的有效范围，减少舍入误差。有的系统则将所增加的位（bit）一部分存放指数部分，这样可以扩大数值范围
+http://zhidao.baidu.com/question/1830169220912875100.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/159908274.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/141387134.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/388886551.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/489879375.html?qbl=relate_question_4

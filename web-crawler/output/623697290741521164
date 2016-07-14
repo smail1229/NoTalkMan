@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言while问题
+none
+在if()语句加一个跳出break;<br /> if(x%y==0)<br />        {z=1;<br />        break;<br />        }
+1
+none
+fail

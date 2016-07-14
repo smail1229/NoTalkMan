@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 统计范围内数字出现个数
+在数20中出现了1次,22】，在数12中出现了一次，数字2在数2中出现了一次，在数22中出现2次，在数21中出现1次Problem Description<br />请统计某个给定范围【L，数字X出现的次数<br />比如给定范围【2,R】的所有整数中
+i&lt;;%d %d&quot,l;i++)<br />  {n=i#include &lt.h&gt;10,&x),r;<br />  scanf(&quot;<br />    n=n&#47,&r),x;<br />   while(n;!=0)<br />   {if(n%10==x)ax=ax+1;%d&quot;stdio,&l;%d&quot,ax);<br />  for(i=l;<br />  scanf(&quot;<br />  ax=0;;<br />   }}<br />   printf(&quot;=r;<br /><br />int main()<br />{ int n,i,ax
+3
+none
+http://zhidao.baidu.com/question/54543747.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/122144736.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/18085894.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/153837977.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/123086486.html?qbl=relate_question_4

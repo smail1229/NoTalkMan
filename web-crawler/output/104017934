@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的switch语句，使用时应注意哪些？
+none
+fail
+0
+Switch语句编程规范总结：<br />    【规则1】每个case 语句的结尾不要忘了加break，否则将导致多个分支重叠（除非有意使多个分支重叠）。 <br />       【规则2】不要忘记最后那个default 分支。即使程序真的不需要default 处理，也应该保留语句 default : break; 这样做并非多此一举，而是为了防止别人误以为你忘了default 处理。<br />       【规则3】 在使用switch语句时，不管case分支中有几条语句，都是用”{}”将其括起来。<br />课本上的
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/81214969.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/216981914.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_4

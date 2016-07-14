@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题算法 设x,y 为int型变量，则执行下语言句后， y的值是（） x=5; y=
+y 为int型变量;    y=x++*x++，则执行下语言句后， y的值是（） x=5;    y=--y*--yC语言问题算法  设x
+ x++;--y，最终结果是529; x++.<br />因为对于第一个式子“y=x++*x++; --y; 然后x进行两次自加;”，变为7，这样.<br />而对于第二个式子，y=25，然后再乘，意义是&quot;&quot; y=y*y&quot;;y=x*x，y先通过两次自减变为23. <br /><br />答案一定正确，减号在前面、减号在变量前后的区别，于是相当于&quot;，考点在于考生要掌握加号. 这样最终答案是529
+0
+none
+http://zhidao.baidu.com/question/213257972.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/568861657.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/212614966.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/275631505.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98272246.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+用c语言 设计函数的问题!
+用C语言设计一函数Str供尝垛妒艹德讹泉番沪ingCopy实现字符串str1拷贝到str2中，（即实现strcpy功能）要求用指针实现，不能用计数器。参考函数原型：char * StringCopy(char *str2, char *str1);
+char* StringCopy( char *str2, char *str1)<br />{<br />    while ( *str2++ = *str1++ );<br />}供尝垛妒艹德讹泉番沪<br />//当str2的长度比str1小时，会越界，标准的库函数也没有进行检测
+1
+none
+http://zhidao.baidu.com/question/397525287.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/411474644.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43333528.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/54142648.html?qbl=relate_question_3

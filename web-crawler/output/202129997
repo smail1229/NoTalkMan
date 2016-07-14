@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言小白求助：用π&#47;4≈1-1&#47;3+1&#47;5-1&#47;7+。。。。公式求π的近似值，直到某一项的绝对值小于1e-6为止
+一定要用for语句   我自己弄的一个，乱七八糟的，希望有那位大神赏脸给指正下#include &lt;stdio.h&gt;<br />#include &lt;math.h&gt;<br />int main()<br />{<br /> int s;<br /> double t,n,pi;<br /> s=1,t=1,n=1.0,pi=0;<br /> for(t=1;fabs(t)&gt;=1e-6;n=n+2)<br /> {<br />  pi=pi+t;<br />  s=-s;<br />  t=-s&#47;n;<br /> }<br /> pi=pi*4;<br /> printf(&quot;%.6f&#92;n&quot;,憨缉封垦莩旧凤驯脯沫pi);<br /> return 0;<br />}
+用For语句没有问题。但应该把 pi=pi+t 放到后面，应为执行完for下面的大括号才执行 这句 n=n+2<br />严格按照你列出来的等式，每执行一次for循环体进行一次算术运算，改成下面这样就可以了<br />#include &lt;stdio.h&gt;<br />#include &lt;math.h&gt;<br />int main()<br />{<br /> int s;<br /> double t,n,pi;<br /> s=-1,t=1,n=1.0,pi=0;<br /> for(t=1;fabs(t)&gt;=1e-6;n=n+2)<br /> {<br />  s=-s;<br />  t=s&#4憨缉封垦莩旧凤驯脯沫7;n;<br />  pi=pi+t;<br /> }<br /> pi=pi*4;<br /> printf(&quot;%.6f&#92;n&quot;,pi);<br /> return 0;<br />}
+9
+none
+http://zhidao.baidu.com/question/509058116.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/194540852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2051899991090167347.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1883403815132397388.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/494437886.html?qbl=relate_question_4

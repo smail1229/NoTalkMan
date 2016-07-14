@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：（1）定义函数fun(x)计算x^2-3.14x-6，函数返回值类型是double （2）输出一张函数表（如下表所示）
+14-6.要求调用函数fun（x）计算x^2-3。，x的取值范围是【-10.14x-6C语言.<br />急啊，+10】：每次增加1：（1）定义函数fun(x)计算x^2-3.14x-6，函数返回值类型是double （2）输出一张函数表（如下表所示），y=x^2-3
+美观一点;n&quot测试结果;).28<br />  3               -6.40<br /> -9              103.26<br /> -8               83;).<br /><br />代码;pause&quot;i++)<br />      {<br />         printf(&quot.42<br />  4               -2.2lf&#92.14<br />  2               -8;t %6.88<br />  9               46.02<br />  8               32;t 函数值 y &#92.56<br /> -3               12;<br />      }<br />      system(&quot.56<br />  5                3;自变量 x &#92.86<br />  0               -6.00<br />  1               -8：<br />#include &quot;math：表格显示;n&quot;<br />#include &quot.70<br /> -4               22. ;);n&quot; %2d &#92.60<br />请按任意键继续;     <br />} <br /><br />main()<br />{<br />      int i.h&quot.30<br />  6               11;; <br />      for(i=-10.14*x-6,i.h&quot;=10,fun(i));stdio;_______________________&#92;<br />#include &quot.74<br /> 10               62.h&quot;<br />      printf(&quot;<br />      printf(&quot.84<br /> -5               34.98<br /> -6               48;t&#92;stdlib;i&lt.16<br />  7               21.28<br /> -1               -1; <br /><br />double fun(double x)<br />{<br />    return x*x-3. ：<br />自变量 x         函数值 y<br />_______________________<br /> -10             125.12<br /> -7               64.42<br /> -2                4
+1
+none
+http://zhidao.baidu.com/question/202061268.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1946952370201735148.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/241114604.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1047878505614858579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/478273634.html?qbl=relate_question_4

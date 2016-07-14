@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+还请各位大哥解释一下这个c语言程序，看不懂
+k);<br />void main()<br />{<br />	int n,*k=&n,*k)#include&lt;;stdio;<br />	scanf(&quot;%d&quot;%d&quot;;<br />	printf(&quot.h&gt
+k)，那么k=&n<br />所以可以写成scanf(&quot，同时将k指向n;<br /><br />因为k指向n;;;%d&quot，此时*k的就是n<br />那么如果要读取一个值赋给n可以写作<br />scanf(&quot，*k=n,&n);%d&quot定义了一个int类型变量n以及一个int类型的指针k
+0
+none
+http://zhidao.baidu.com/question/1753891146156412788.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/49992130.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/25761163.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1859631845557956787.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2073682996898337148.html?qbl=relate_question_4

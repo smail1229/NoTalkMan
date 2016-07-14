@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中如何定义一个结构体
+none
+fail
+0
+struct name{<br /> int x;<br /> double y;<br /> type a;<br /> type b;<br />}<br />用的时候要用struct name c;<br />c.x是c的成员x<br />可以定义别名<br />typedef struct name Name;<br />Name c;<br />或者直接定义别名<br />typedef struct {<br /> int a;<br /> int b;<br />}Name;
+http://zhidao.baidu.com/question/89128922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/78375257.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/272792927.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/323109454.html?qbl=relate_question_3

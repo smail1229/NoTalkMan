@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中数组在内存中占用一段连续的存储空间，它的首地址由什么表示 在线等
+none
+fail
+7
+首地址由数组名表示，也是0元素的地址。<br />若有： int a[10];<br />则：a与&a[0]都表示a数组所占存储空间的起始地址
+http://zhidao.baidu.com/question/278719379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/215266552.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/366237834.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/343688987.html?qbl=relate_question_3

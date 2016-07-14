@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言语句中 while（*s），或while（1） 这样的缩写是什么意思
+就是说这样的语句与类似while（i&lt;7）这样标准完全的语句有什么区别
+就是while（1!=0）即语句为真是缩写，while（*s）补全就是while（*s,while（1）也是差不多的!=0）
+17
+none
+http://zhidao.baidu.com/question/121417969.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/539778727.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52993652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91293565.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/223619745.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言的一个算术表达式？
+7<br /><br />我总算不对,a=7,y=4求此算术表达式的值<br />x+a%3*(int)(x+y)%2&#47，书上给的答案是：2.5?<br />设x=2;4=
+也就是2，结果是7 <br />a%3*(int)(x+y)就是7 <br />7%2=1 <br />因为已经变成整型了.5没错 <br />a%3之后的结果是1 <br />(int)(x+y)是把x+y的结果强制转换成整型;4=0 <br />所以整个式子的结果就是x，所以1&#47答案是2
+0
+none
+http://zhidao.baidu.com/question/51093112.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/49864792.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/82593804.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/150901565.html?qbl=relate_question_3

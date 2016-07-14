@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程，二维数组求助
+%d%d&quot;i&lt;}<br />}<br /><br />急求大神帮忙.;&#92,&M;j++)<br />			printf(&quot.<br />整数M1 整数M2 整数M3 ;<br />	for(i=0;=25 ）&#47.. 整数MN <br /><br />示例;stdio.h&gt;i&lt：<br />     1&gt;a[i][0])<br />				t=a[i][0].;),N;<br />	printf(&quot;;<br />		for(i=1,&a[i][j]),i：<br /><br />输入;<br />	for(i=0;i++)<br />	{for(j=0，<br />  <br />  要求；<br />     2&gt;求出首列所有元素最大值s;N;. 整数2N<br />. 整数1N <br />整数21 整数22 整数23 ;i++)<br />	for(j=0;将s加到首行所有元素上;N.;按M行N列输出,&N);j&lt;=25  3&lt;=M&lt;i++)<br />		a[0][i]+=t,&a[i][j]);i&lt.;%d&quot;N;*<br />  输入一个M*N的整数矩阵（3&lt;<br />	<br />	t=a[0][0]：<br />17 18 19 20 21 <br />6 7 8 9 10 <br />11 12 13 14 15 <br />16 17 18 19 20 <br /><br />*&#47;n&quot；<br />     3&gt：<br />行数M 列数N<br />整数11 整数12 整数13 ;i++)<br />			if(t&lt;<br />#include &lt;i&lt;<br />void main ()<br />{int a[25][25].;<br />	scanf(&quot;j&lt;M;M：<br />4 5<br />1 2 3 4 5 <br />6 7 8 9 10 <br />11 12 13 14 15 <br />16 17 18 19 20 <br /><br />输出;.;M;j++)<br />	scanf(&quot，怎么更改.,t,M.<br /><br />输入数据格式;<br />	for(i=0;%d &quot;=N&lt,j
+%d &quot;;%d &quot;,&a[i][j]);<br />变为printf(&quot,a[i][j])printf(&quot
+0
+none
+http://zhidao.baidu.com/question/152592730.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/79055365.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/97588932.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/577746577.html?qbl=relate_question_3

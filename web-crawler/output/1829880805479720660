@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+对下面C语言程序的解析...
+&quot;<br />}<br /><br />要求 详细;n&quot;<br />	printf(&quot;n);%d&#92;n),p-&gt,NULL}};stdio,{6;，程序 中的参数变化要写明;<br />	p=x;,p-&gt#include&lt,{4;struct node *next.h&gt;<br />main()<br />{<br />	struct node { int n,x+1};%d;} *p,x+2};<br />	printf(&quot。<br />谢谢;next-&gt;<br />	struct node x[3]={{2
+x是数组的第一个元素的地址;next指向的位置的n是多少，NULL}，所以，x+1就变成了第二个元素的地址，x+2}，p指向了第一个元素，那很明显是2，node是结构体（struct），{4，元素有3个。<br />第二句话是定义了 一个结构体数组x，那么就是{4，分别是{2，x+1}。那么这个next又等于是x+1.<br />第五句话是指这个指针所指向的p-&gt，因为数组名代表首地址，p是指向这个结构体的结构体指针，所以输出2，{6;n是说这个指针指向元素的n成员的值是多少，x+2}。<br />第三句话是p指向了这个数组的数组名。<br />第四句话p-&gt，一个是整数n：{2，x+1}。在node里面有两个成员。这个是结构体的嵌套了，一个是结构体指针next首先，所以这个时候n就是4
+0
+none
+http://zhidao.baidu.com/question/1988031337964986907.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/56868548.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/305169168.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/231748462.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/511103058.html?qbl=relate_question_4

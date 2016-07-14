@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程~~：输入三阶矩阵，输出该矩阵的转置矩阵。
+知道的 ~~<br /><br />谢谢`~~
+t,j++)<br />printf (&quot;t&quot;);,j++)<br />printf (&quot,&a[i][j]);i++)<br />{<br />for(j=0。现在全是汇编思维;i&lt;;    /shu ru a[%d][%d]&quot;<br />scanf (&quot,j;=2，你自己改改;i++)<br />{<br />for(j=0;n&quot，有点问题。<br />上面的程序行列式没定义对;%d&quot;t=a[2][1];*交换<br />a[0][1]=t，01和12;j&lt;a[1][2]=t;=2;<br />a[1][0]=t,j);<br />for(i=0;=2;a[0][0]=t;t=a[1][2];*输入一排后提行<br />}<br />}<br /><br />还有个方法就是在输出的时候把I和J换一下就行了。;*输出<br />printf (&quot;a[2][1]=t;j&lt;    /i&lt;&#47.h&gt，10和21交换;stdio;<br />int a[3][3];    &#47，试着编一下;    /<br />for(i=0,&a[i][j]);;*输入数据<br />}<br />a[2][2]=t;=2。<br />#include &lt;%d/t=a[0][0]。,i;<br />main()<br />{<br />int i。<br />太久没编C了转置就是把00和22交换
+2
+none
+http://zhidao.baidu.com/question/505976138.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/55157477.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163700060.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/79054782.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197966083.html?qbl=relate_question_4

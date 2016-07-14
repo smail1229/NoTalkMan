@@ -1,0 +1,11 @@
+教育/科学 
+C语言 歌德巴赫猜想
+要求：将6～100之间的偶数都表示成两个素数之和，打印时一行打印5组
+# include &lt;stdio.h&gt;<br /># include &lt;math.h&gt;<br /># define BEGIN 6<br /># define END 100 <br />prime(int x) <br />{ <br /> int k=(int)sqrt(x),i; <br /> for (i=2;i&lt;=k;i++) <br />   if (x%i==0) break; <br /> if (i&gt;k) return 1; <br /> else return 0; <br />} <br />void main() <br />{ <br /> int a=BEGIN; <br /> int z=END; <br /> int i,m,n,p,q;<br /> int t=1;<br /> for(i=a;i&lt;=z;i+=2) <br /> {<br />  for(m=3;m&lt;=i/2;m+=2) <br />{<br />  n=prime(m);    <br /> if (n==1) <br /> {<br />   p=i-m;  <br />   q=prime(p); <br />   if (q==1) {printf(&quot;%4d=%2d+%2d&quot;,i,m,p);<br />   if(t++%5=珐工粹继诔荒达维惮哩=0) printf(&quot;&#92;n&quot;);<br />   }<br />   else continue;<br /> } <br /> else continue; <br />  }<br /> }<br />}
+1
+none
+http://zhidao.baidu.com/question/58744778.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/151944381.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/529764175.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/454328728.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1112023785456834139.html?qbl=relate_question_4

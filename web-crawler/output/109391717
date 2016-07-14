@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言如何在数学表达式中隔离出运算符号
+如何分离出m=1，输入数学表达式，计算显示出结果，c=‘+’，在表达式中如何把运算符号和数字分离开，例如输入“1+2”我想做个简单的计算器
+使用gets()函数以字符串形式读入吧<br />然后对读入的数据进行处理<br />在48~57范围内的全部减去48 并分别合成2个整数<br />如果不是 就判断是42 43 45 47中的哪一种<br />分别代表* + - /<br />然后就可以进行运算了
+1
+none
+http://zhidao.baidu.com/question/109373656.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519372444.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/101473925.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/309211579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1540030293463400427.html?qbl=relate_question_4

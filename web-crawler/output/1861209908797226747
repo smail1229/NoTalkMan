@@ -1,0 +1,11 @@
+电脑/网络 
+c语言中赋值错误. [Error] incompatible types when assigning to type &#39;char[11]&#39; from type &#39;char *&#39;
+<br /><br />typedef struct StuItem<br />{<br />	char sname[20];<br />出现上述错误<br /><br />使用 <br />L-&gt;<br />	<br />}Node;*数据域*&#47.sname = &quot;<br />{<br />	Item item.h)<br /> List L;  &quot;item = {&quot;item; (List;  &#47;;<br />}Item;<br />	PNode next.sid = &quot?谢谢了; &quot;.c 中<br />使用<br />	L-&gt.h中定义两个结构体;*链域*&#47;item;<br />	char sid[11].c)<br />出现 16	12 [Error] expected expression before &#39编译环境 dev-c++<br />在list,<br />typedef struct node&#47;{&#39; &#47;*节点的定义*&#47;  &quot, &quot;<br />在list;   typedef  PNode List;; &quot;(main;};<br />其中 L 是 typedef struct node * PNode; token<br />请问怎么办;<br />	L-&gt
+给数组填充字符串怎么能用 = 呢<br />用strcpy，或者memcpy更加安全些
+4
+none
+http://zhidao.baidu.com/question/1175831342264678219.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1174325034312735179.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/917945237057423939.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/323856810.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/296818768.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言for语句嵌套问题
+<br />   a[p]=s;q=a[j];i&lt;n%d&#92;n&quot;i++)<br />  scanf(&quot;)#include&lt!=p)<br />      {<br />   s=a[i];10,a[i]);<br />&#47,j,p;<br /> printf(&quot;n&quot;<br />main()<br />{<br /> int i;;n input 10 numbers;&#92;10,s,&a[i]),a[10];i&lt;<br />   }<br />  printf(&quot;q=a[i];a[j])<br />   {<br />    p=j;%d&quot;&#92;i++) <br /> {<br />  p=i;<br />   a[i]=a[p];<br />   }<br />  if(i:&#92;<br /> for(i=0;j++)<br />  if(q&lt;10;;j&lt;<br />&#47;*2  for(j=i+1;*1 for(i=0;stdio,q.h&gt
+<br />for（j = i + 1，那么j = 3 + 1,6,2，这就变成死循环了; 10,10-2=8。<br /><br />然后要弄懂for语句究竟是怎么执行的：j  &lt。（初始化循环变量）<br /><br />然后，i现在是3，当运行完循环体中的语句后。那啥叫循环变量呢，那么程序永远都不会跳出这个循环：j = i + 1，所以j每次的初始化值都不同，这样j就变成5了，否则就接着执行下面的语句; j &lt：<br /><br />当然不是你所说的那样,2，所以不会结束这个循环，那么你就可以控制这个循环会循环多少次了，内层循环每次循环的次数都不一样，给定一个循环变量,9，你也可以在编程软件中单步调试看看; 10，如果没有这一句的话，再规定它的初始值和结束值; j++ ）<br />第一个分号前的j = j + 1这句的意思是初始化循环变量j，10。打个比方。这句的作用是把循环变量j增加1，执行第一句，而i是外层循环的循环变量，永远都小于10。<br /><br />就是这样。现在j是4？就是跟循环相关的变量,3，现在来回答你的问题，那么j永远都是4，是1，这才算真正进入了循环，里面循环变量j的初始化值是i+1,7，再规定好它每次循环增加（或减少）多少，程序进入循环体,3; 10这句的意思是规定了j的结束值,5,4;*2的那条for语句。<br /><br />第一个分号和第二个分号之间的j &lt，即j现在是4，外层的循环每次都会i++,5。这个语句的作用是判断循环变量是否超过了结束值10。你可以把自己当做编译器按照for循环的执行顺序走一遍。<br /><br />最后一个分号之后的j++这句的意思是j每次增加1,0。（判断循环变量）<br /><br />然后：<br />首先，执行第二句。（执行循环体）<br /><br />最后，，如果超过了就跳出这个循环。（改变循环变量）<br /><br />好了,8,1,4，也就是每次循环都要干嘛，也就意味着这层循环究竟要循环多少次与i有关，执行j++，请注意&#47，是10-1=9。所以相应地,6,7要弄懂这个问题首先要明确for语句的括号里面的东西都是什么意思
+8
+none
+http://zhidao.baidu.com/question/516548920.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92049241.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/569279885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39012062.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/550051115.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，39题，这题什么意思？
+none
+因为你这是通过值调用(把a拷贝给x，b拷贝给y)，因此你在func中对x和y的修改不会改变a和b的值。
+0
+none
+http://zhidao.baidu.com/question/1604456101108072867.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/261543537.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/477477198.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2202142594044940228.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/58677856.html?qbl=relate_question_4

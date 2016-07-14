@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+假如a=5,那么b=++a* --a b为多少 c=a++*a-- c为多少...求详细解答 C语言问题
+none
+<br />a还是5，首先++a，接着：b=5*5=25,这里不使用，--a,此值这里使用,此时不使用6，执行a++,这里还是使用5,a=4,a=6，a--，a=5b=++a* --a<br />这有运算优先级的，++的运算优先级高,此值使用，结果;<br />c=a++*a--<br />同上,a=6
+0
+none
+http://zhidao.baidu.com/question/221517273.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/561055294.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/564486508.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1046710546494535859.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1430360283426724099.html?qbl=relate_question_4

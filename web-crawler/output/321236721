@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中定义数组的时候，如何开辟一段内存，内存里有无初值？
+小的出入LinuxC#include &lt;？记得不是说定义数组的时候直接在内存中开辟一段内存，并且每个单元中都存“&#92;t&quot;20.h&gt;stdio;<br />        int f=0;%u&#92;0”吗,a[f]);<br />        for(;f&lt;<br />}为什么输出数组a【20】中有无符号的整形数呀;f++)<br />       {<br />                 printf(&quot;<br />        }<br />        return 0;<br />int main()<br />{<br />        char a[20]
+<br />你这个实验做得很好c语言是高级语言，可以通过你这个实验了解到编译器是如何实现的，则是取决于编译器的实现，至于有没有为这块内存初始化，定义数组的指令会转换成分配内存的指令
+1
+none
+http://zhidao.baidu.com/question/157328337.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/200583877.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/484633748.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/410042897.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/407175705.html?qbl=relate_question_4

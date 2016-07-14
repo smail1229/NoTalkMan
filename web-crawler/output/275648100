@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+61. 能正确表示逻辑关系：“a≥10或a≤0”的C语言表达式是
+=0<br />d)	a&gt;=10<br />c)	a&gt;=0|a&lta)	a&gt;=10 or a&lt;=10‖a&lt;=0<br />选什么;=0<br />b)	a&gt;=10 &&a&lt
+<br />这些书上应该有的；；||是逻辑-或-的运算符d<br />&&是逻辑-与-的运算符！是逻辑-非-
+19
+none
+http://zhidao.baidu.com/question/240572628.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/208960739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/409234545.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163410428.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203370947.html?qbl=relate_question_4

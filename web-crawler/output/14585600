@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有关int float 菜鸟问题！C语言
+关int float 菜鸟问题,i&lt;<br />for(i=1;=10！<br />main()<br />{int a=13,i？！且是根据什么原理得到的.2%)<br />一个简单的人口计算的问题<br />但问题是 int 在C中有范围 在小数点后多少就不能够定义<br />float的范围比int 大但也有范围<br />我想问的就是int float 分别可以定义多大的范围,i++)<br />a=a*(1+0
+C语言中.因为是有符号整型,范围在-3.2%) 这里是把a 当做一个float 类型.4*10的38次方 之间<br />小数点后有效位为7位.<br />int 是整型,而 a = a*(1+0.<br />a 是int 类型.4*10的38次方~3,所以范围在<br />-32768~32768之间,占4个字节,也就是16位.<br />float 是浮点型. 占2个字节,这种语法是错误的.
+2
+none
+http://zhidao.baidu.com/question/326671880233253325.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53222405.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/139467508.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/312755708.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/78871492.html?qbl=relate_question_4

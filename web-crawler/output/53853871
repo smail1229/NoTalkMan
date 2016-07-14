@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程求教，用递归函数求f(n)=f(n-1)+f(n-2),其中f(1)=f(2)=1,设n=10.
+用递归函数求f(n)=f(n-1)+f(n-2),其中f(1)=f(2)=1,设n=10.
+%d&#92; <br /><br />int fun(int n)<br />{<br />if(n==1 || n==2)<br />return 1.h&gt,fun(n));<br />}<br /><br />void main() <br />{ <br /> int n=10;;<br /> printf(&quot;n&quot;<br />else<br />return fun(n-1)+fun(n-2);stdio结果为55<br />#include&lt
+6
+none
+http://zhidao.baidu.com/question/76760040.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/412597543.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/81367591.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/503020729.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/283212284.html?qbl=relate_question_4

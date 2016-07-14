@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中为什么很多被调函数之前要加void？
+none
+fail
+2
+void表示禁止有返回值<br />一个函数如果这样定义：f（int x）这说明没定义返回值，默认是可以返回int的，当然，如果f函数中没有return语句，那么会返回一个乱七八糟的整数，这样不利于编译器识别错误，比如说你有这样一个语句a=f（1）编译器就识别不出来错误的，仍然认为你是对的<br />但如果你写成void f（int x）那么就告诉编译器这个函数禁止有返回值，那么你写a=f（1）的时候编译器就知道这是错的，然后提示你<br />因此，没有返回值的函数要用void，这是好的习惯（虽然不用也不出错）
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5280564.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/531772251.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/129871839.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/123934211.html?qbl=relate_question_4

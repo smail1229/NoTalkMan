@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言a*b&#47;c 和 a&#47;c*b 的运算结果
+none
+0那么结果是2;2=2;c是5*1，取整数;2那么是2，那么返回的也是int型;乘除优先级相同吧，所以返回时float小数;2都是int型.5;2*1，那么5&#47.0&#47.0;c*b是5&#47.5<br />a&#47，因为b是float型的，也就是5.0&#47，所以是从左到右依次运算<br />a*b&#47*&#47，在乘以1，应该是2
+6
+none
+http://zhidao.baidu.com/question/1366237467256657859.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214296855.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/275673187.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/426108232.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/439668684.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中typedef的定义
+<br />                             }struct data{<br />                              char name[20];<br />            typedef PERSON *LINK;<br />上面的2句typedef是什么呢 <br />new = (LINK)malloc(sizeof(PERSON));<br />                              struct data *next;<br />            typedef struct data PERSON
+<br />new = (LINK)malloc(sizeof(PERSON))就是起个别名<br />在这里用PERSON替代了struct data，也就是struct data*;的意思是<br />new = (struct data*)malloc(sizeof(struct data))。<br />用LINK替代了PERSON*
+5
+none
+http://zhidao.baidu.com/question/100314456.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/25672560.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1573585853017016540.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/55381891.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/76334822.html?qbl=relate_question_4

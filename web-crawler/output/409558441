@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编写函数用冒泡法对数组中10个整数由大到小排序，并在主函数中调用
+none
+fail
+1
+#include &lt;stdio.h&gt;<br /><br />void fun(int *num)<br />{<br />	int temp;<br />	for(int i=0; i&lt;10; ++i)<br />		for(int j=0; j&lt;10-i-1; ++j)<br />		{<br />			if(num[j]&lt;num[j+1])<br />			{<br />				temp=num[j];<br />				num[j]=num[j+1];<br />				num[j+1]=temp;<br />			}<br />		}<br />}<br /><br />void main()<br />{<br />	int num[10]={3,2,4,1,5,6,4,3,9,8};<br />	fun(num);<br />	for(int i=0; i&lt;10; ++i)<br />		printf(&quot;%-2d&quot;,num[i]);<br />}
+http://zhidao.baidu.com/question/1603826055612468987.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/269979600.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/129681617.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/200044080.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80983260.html?qbl=relate_question_4

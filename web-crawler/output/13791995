@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中求教一道有关级数的问题，真的不会写麻烦帮忙
+利用泰勒级数 sin(x)=x-x^3&#47;3!+x^5&#47;5!-x^7&#47;7!+x^9&#47;9!-x^11&#47;11!......... <br />计算sin(x) 的值 ，要求最后一项的绝对值小于10-5,并统计出此时累计了<br />多少项，俯肌碘可鄢玖碉雪冬磨并输出，我虽然写出来了，但是数学问太浓了，我不会用循环写，写了很久了<br />希望大家帮帮我，谢谢了<br />还有一道是求数值的题目我也不大会把循环的算法写出来<br />题目如下：m=2&#47;1*2&#47;3*4&#47;3*4&#47;5*6&#47;5*6&#47;7*.......用循环求出m的前一百项的数值<br />我在这里向问问应该怎么练习才能把算法写好，我看了很多的题目，还是写的不行，但是<br />我身边的朋友很多看了复杂的题目也能很快的写出程序的算法，我想问问有没有什么好的<br />教材能帮助我练习有的话，麻烦大家提供一下，真的谢谢
+泰勒级数:<br />返回double类型的sin值,如果负值表示失败.<br /><br />double GetSin(int num,int x) /* num是你需要循环的次数,比如上面到11就是6次 */<br />{<br />   double value = 0.0;<br />   int flag = 1;  /* 控制符号 */<br />   int add = 1;   /* 每项的递增值 */<br />   long mul = 0; &#俯肌碘可鄢玖碉雪冬磨47;* 临时值 */<br />   double temp = 0;<br />   int i = 0;<br /><br />   if(num &lt; 1)return -1.0; /* 判断num的有效性 */<br /><br />   while(num)<br />   {<br />      mul = 1;<br />      for(i = 0;i&lt;num;i++)mul *= x; /*求分子*/<br /><br />      temp = mul/Mul(num); /* 得出每项值 */<br /><br />      value += flag*temp;<br /><br />      flag = -flag; /* 改变符号 */<br /><br />      add += 2; /* 递增2 */<br />      <br />      num--;   /*num减1*/<br />   }<br />   return value;<br />}<br /><br />long Mul(int num) /*求阶乘*/<br />{<br />  return num&lt;=1?1:num*MUL(num-1);<br />}<br /><br />第2个题目大同小异,希望你能根据上面的实现自己实现出第2个题目,其实算法要自己多写多练习,光看题目是不行的:)
+2
+none
+http://zhidao.baidu.com/question/66504306.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/251132007.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/872239021453463932.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1110684693194946419.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153112037.html?qbl=relate_question_4

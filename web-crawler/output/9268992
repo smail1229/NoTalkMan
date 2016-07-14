@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言函数调用中，什么时候才用return返回，详细一点，最好有对比例子，谢了
+none
+很久没写C程序，所以只体旦绩测啃爻救诧寻超默现思路，有语法不对请见谅<br /><br />main()<br />{int r;<br /> scanf(r);<br /> call s(r)  //调用子函数S()<br />}<br />Void S(int r;) //计算圆的面积并显示<br />{<br /> printf(3.14*r*r);<br />}<br />即子过程中没有数据需要返回时就不必用Return返回数据<br /><br />main()<br />{int r;<br /> single s; <br /> scanf(r);<br /> s=(s(r));  //调用子函数S()并接收返回值<br /> printf(s);<br />}<br /><br />single s(int r;)<br />{single s;<br /> s=3.14*r*r<br /> return s;<br />}
+6
+none
+http://zhidao.baidu.com/question/113453897.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/33529034.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/514545116.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/491105556.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/232822521.html?qbl=relate_question_4

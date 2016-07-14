@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题：求s=a+aa+aaa+aaaa+aa...a的值
+程序分析;please input a and n&#92：求s=a+aa+aaa+aaaa+aa。<br /><br />    2;a+aa+;.程序源代码,a：<br /><br />main()<br />            {<br />             int a,%d&quot,n);=n)<br />             {<br />          tn=tn+a,n,count=1,sn);%d;<br />          ++count.,tn=0;n&quot;<br />             printf(&quot;，几个数相加有键盘控制;a=%d;).;<br />          sn=sn+tn,&a,&n);<br />             long int sn=0,n=%d&#92;;n&quot;<br />             while(count&lt;<br />          a=a*10：关键是计算出每一项的值.。<br /><br />    1.=%ld&#92题目;<br />             scanf(&quot;<br />             printf(&quot;<br />             }<br />            printf(&quot..a的值。例如2+22+222+2222+22222(此时共有5个数相加)，其中a是一个数字;n&quot
+我也不懂
+27
+none
+http://zhidao.baidu.com/question/38279034.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90411314.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100871397.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/14628090.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/178447163.html?qbl=relate_question_4

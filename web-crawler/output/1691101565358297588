@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这道c语言程序如何编写
+<br />例。最后调用函数WriteDat()把结果bb输出到屏幕上，<br />然后取出满足此条件的前10个数依次存入数组b中：要求按每个数的后三位的大小进行升序排列，<br />则按原先的数值进行降序排列，如果后三位的数值相等，且每个数均在1000至9999之间。<br />jsSort()函数的功能是。函数ReadDat()产生这10个数存放到数组aa中有10个正整数
+fail
+0
+none
+http://zhidao.baidu.com/question/123657895.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/455680204977219725.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/150257176.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/571468264.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241563116.html?qbl=relate_question_4

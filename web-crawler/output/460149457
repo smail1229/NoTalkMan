@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里 char **p; char *a[2] = {&quot;abc&quot;,&quot;def&quot;}; *p和**p有什么不同？
+none
+通过个这个指示牌;. <br />我们再定义一个指向指针的指针：我们可以理解为一个无符号双字整型，通过这个指示牌，即100，有一个char字符a，有个指示牌; 其中指针p的值为138，假设为100，也有个指示牌; 此时s的值就代表指针p的存储位置,*s==p;，我计算机内存一般为2G。<br />假设char *p=&#39，即4个字节的整数;a&#39，而在图书馆.<br />所以*s==100;;<br />一句话，我们可以知道图书馆的位置;   *p==&#39。此时校门口的指示牌就相当于指向指针的指针**p，简单点，比如char **s=p,即在100到103这四个字节中，指针就是地址值指针是什么。大约能表示4096M个数，比如在大学校门口;  **s=&#39。此时指针p是4个字节;a&#39，教学楼就是最终目的地，储存着指针p，也存储在计算机的某个位置,即a存储在第138个字节中,所以4字节数字基本可以标示出所有内存地址. 意思是在内存位置138;a&#39,即2048M;   p==138，我们可以知道教学楼的位置，而图书馆的指示排相当于指针*p
+2
+none
+http://zhidao.baidu.com/question/90324423.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2052142079275450987.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/544883096.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/446667734.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/508440897.html?qbl=relate_question_4

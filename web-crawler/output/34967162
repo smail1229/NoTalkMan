@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中  递归函数 的return 返回值问题
+none
+把这个结论交给别人;。 <br />函数返回值就可以理解为解决一个问题以后得到的结论,res); <br />} <br />在主函数main中调用子函数add，add经过运算后得到值7，就像写在书上成为一个定理，返回值被用于给res赋值所谓函数返回值是一个函数在运算结束以后向调用它的母函数或者系统反馈一个值,int b) <br />{ <br />return (a+b); <br />} <br /><br />int main() <br />{ <br />int res; <br />printf(&quot; <br />return 0. <br />举个简单的例子,并传递参数3和4过去，通过return语句将得到的值返回给调用它的main函数供其使用,4)，来让别人使用: <br />int add(int a; <br />res=add(3，而在main中;%d&quot,这个值可以是各种变量类型
+24
+return 表示从被调函数返回到主调函数继续执行，返回时可附带一个返回值，由return后面的参数指定。<br />       return通常是必要的，因为函数调用的时候计算结果通常是通过返回值带出的。 如果函数执行不需要返回计算结果，也经常需要返回一个状态码来表示函数执行的顺利与否（-1和0就是最常用的状态码），主调函数可以通过返回值判断被调函数的执行情况。<br />       return语句后面具体是什么内容，这就要具体情况具体分析了：<br />（1） 在返回类型是char的函数中，return后应该是char类型的值；<br />（2） 在返回类型是int的函数中，如果是要停止函数的调用，最好应该为0；其他的按照你的目的而定，只要是int 类型就行了<br />（3） 在返回类型是结构类型的函数中，return后应该是结构的一个实例对象。<br />总之，函数定义为什么样的返回类型，该函数中return后就应该是相应类型的值。
+http://zhidao.baidu.com/question/492739065.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/518798859361900125.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/459749500.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/282331650.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/34886761.html?qbl=relate_question_4

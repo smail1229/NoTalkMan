@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言while循环语句循环体解读。
+我就是不懂循环体内的语句求值逻辑顺序;<br /> n+=2;<br /> s=-s，可是求n值的语句在第二句;<br /> t=s&#47;n，若按右又向左的顺序，可求t值的语句却在最后;<br />}<br />以上是while循环语句程序片段，希望大神解读下，例最先的是pi=pi+twhile(fabs(t)&gt.0;=1e-6)<br />{Pi=pi+1
+肯定循环之前先有t的值的啊，不然塔怎么利用fabs(t）判断啊？
+0
+none
+http://zhidao.baidu.com/question/539778727.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/172362222.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/454934905227474765.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/187484934.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/187484771.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+帮我编写这个功能的C语言程序，简单
+输入用户名：abc，输入密码：123就能供敞垛缎艹等讹劝番滑看到以下内容：百度一下，你就知道。<br />要求：输入的密码字符在0.5秒后自动变成＊，在0.5秒内输入下一个字符时前一个字符也会变成＊，不像输入QQ登陆密码那样，全部都变成＊的。
+#include &quot;stdio.h&quot;<br />#include &quot;conio.h&quot;<br />#include &quot;windows.h&quot;<br />#include &quot;string.h&quot;<br /><br />int main(void)<br />{<br />	char szUser[20] = {0};<br />	char *PUser=&quot;abc&quot;;<br />	char *Pword=&quot;123&quot;;<br />	char chPwd[4];<br />	int   flag_u=0,i=0,flag_p=0;<br />	printf(&quot;Enter user name:&quot;);<br />    gets(szUser);   <br />	//printf(&quot;szUser=%s&#92;n&quot;,szUser);<br />    if(strcmp(szUser,PUser)==0)<br />       flag_u=1;<br />	else<br />       flag_u=0;<br />	printf(&quot;Enter passwd:&quot;);	<br />	<br />	while (i&lt;3)<br />	{<br />		chPwd[i]=getch();<br />		if(chPwd[i]==13)<br />			break;<br />		printf(&quot;%c&quot;, chPwd[i]);		<br />		Sleep(500);<br />		printf(&quot;&#92;b*&quot;);	<br />        i++;	<br />	}<br />	getch();<br />    chPwd[3]=&#39;&#92;0&#39;;<b供敞垛缎艹等讹劝番滑r />    //printf(&quot;chPwd=%s&#92;n&quot;,chPwd);<br />	printf(&quot;&#92;n&quot;);<br />	if(strcmp(chPwd,Pword)==0)<br />       flag_p=1;<br />	else<br />		flag_p=0;<br />	if((flag_u==1)&&(flag_p==1))<br />		printf(&quot;百度一下，你就知道！&quot;);<br />	else<br />		printf(&quot;您输入的账号或密码错误！&quot;);	<br />	getch();<br />}
+0
+none
+http://zhidao.baidu.com/question/135959882.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169971999.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534749368.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98454300.html?qbl=relate_question_3

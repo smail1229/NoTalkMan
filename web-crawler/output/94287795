@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言给单片机编程时，主函数中的变量为什么都得定义成全局变量
+none
+fail
+0
+变量是定义成全局变量还是局部变量得看变量的在程序中所起的作用，比如如下程序：<br />#include &lt;REGX52.h&gt;<br />unsigned int int_count=0;<br />unsigned char count=0;<br />unsigned char second=0;<br />unsigned char seg[]={0x3F,0x06,0x5B,0x4F,0x66,0x6D,0x7D,0x07,0x7F,0x6F,0x40};<br />unsigned char seg1[]={0xC0,0xF9,0xA4,0xB0,0x99,0x92,0x82,0xF8,0x80,0x98};  <br />Delay_1s()  &#47;&#47;500m秒延时子程序<br />  {unsigned char l,i,n;<br />   for(l=50;l&gt;0;l--)<br />   for(i=20;i&gt;0;i--)<br />   for(n=248;n&gt;0;n--);<br />   }<br /><br />void t0(void) interrupt  1 using 0<br />{int_count++;<br /> if(int_count==4000)<br />   { int_count=0;<br />     second=1;<br />    }<br /> }<br />void main (void)<br />{TMOD=0x02; <br /> TH0=0x06;  <br /> TL0=0x06;<br /> TR0=1;<br /> ET0=1;<br /> EA=1;<br /> while(1)<br /> {<br />  if(second)<br />  {<br />  second=0;<br />  P0=seg1[count];<br />  count++;<br />  if(count&gt;=10)<br />  count=0;<br />   }<br />  }<br /> }<br />定时器输出0到9，每一秒变化一次，其中int_count、second是全局变量这是因为，int_count是中断次数统计，他需要在完成一次次的中断以后数值保持不变，如果定义成局部变量，没发生一次中断，它加一，中断结束又变成0了，所以定义成全局变量，这样他的数值会根据中断发生的次数不断增加。而second则因为是数码管显示的数组的下标，如果定义成局部变量那么每次函数调用结束，内存释放变量值也就没有了，这样就达不到每秒输出不同数字的要求。、<br /> 总的来讲呢，如果变量的值在函数调用结束以后还会被其他的函数，活着表达式使用，才定义成全局变量。
+http://zhidao.baidu.com/question/256924966.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/337602396.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/310716289.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/59644199.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1947343280943935348.html?qbl=relate_question_4

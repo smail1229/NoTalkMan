@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的int char 的区别
+none
+fail
+0
+char是有符号数，表示范围是-128~127，不是你想的0~255哈。所以你把%256的结果赋值给它，大于等于128的情况下全成负值了。想要无符号的就是 unsigned char<br />而赋值给int就不会了。 int至少有2字节。典型的是4字节。
+http://zhidao.baidu.com/question/395703953.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/26088740.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/35677836.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1731873847328207627.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/18236735.html?qbl=relate_question_4

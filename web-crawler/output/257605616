@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言菜鸟求助for(flag=1;flag==1;) 不知道是啥意思？
+none
+fail
+5
+flag=1; 是第一次进入循环时会进行的运算，以后就不会了！！而flag==1是用于当循环进行一次后判断循环是否还继续下去的条件！！！本来第二个“；”的后面还有一个运算，此运算是每次循环一次后就先运算，然后再在flag==1判断循环是否继续，如果满足那个条件，则循环继续，否则停止不再继续~~~~~
+http://zhidao.baidu.com/question/238094909.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/159212266.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/211943040.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/349464908.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/3536689.html?qbl=relate_question_4

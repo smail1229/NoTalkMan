@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+【C语言】如何给一堆   数组   整体赋值  ?
+....比如<br />int a[1000].<br />我知道用循环可以做到..是不是一定得,0.,0.....:<br />int a[1000]={0,0;<br />才行,0....,应该怎么办,0.,..<br />如若不是...;<br />如果想给这一千个数值都赋值为0的话.<br />我是说在不借助其他程序的情况下......(1000个)},0.
+<br />或int a[1000]={0;<br />因为如果有至少一个赋值的话你只须给至少一个赋0值就行了,0}，编译器就会给那些没有给定值的默认初始值。如<br />int a[1000]={0}
+9
+none
+http://zhidao.baidu.com/question/416047735.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/147549045.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/361457828.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/506362985.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/112398940.html?qbl=relate_question_4

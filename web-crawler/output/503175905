@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C 语言 解惑 if(year%400==0||(year%4==0&&year%100!=0))&#47;*判断是不是闰年*&#47;
+为什么这样呢&#47; 只需要year%4==0 就可以判断是否为闰年了啊？
+所以规定.24219天），所以公历中每400年有97个闰年，每四百年中要减少三个闰年。公历的平年只有365日，因此.2422 *400＝96，公历年份是整百数的.88天）.2422 日。 例如，平均每年就要多算出0。但如果按照每四年一个闰年计算地球绕太阳运行周期为回归年,这就是通常所说的，即365天5小时48分46秒（合365，比回归年短约0,虽然是100的倍数，这样经过四百年就会多算出大约3天来。经过400年，公历平年比回归年一共少了（0.0078天，约等于97天：四年一闰，也是平年，必须是400的倍数的才是闰年，四百年再闰，不是400的倍数的，2000年是闰年，百年不闰
+25
+none
+http://zhidao.baidu.com/question/49304561.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/295733390.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/334688803.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/10601381.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1430746204348733219.html?qbl=relate_question_4

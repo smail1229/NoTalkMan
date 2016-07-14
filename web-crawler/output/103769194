@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计的基础题目求教，请给解析（多追积分）
+1：在C语言中，int型数据占2个字节，则short类型数据占（）<br />A：一个字节B：两个字节C：四个字节D：8个字节<br />2：int a[10]={1，2，3，4，5，6，7，8，}；int *p;p=&a[5];p[-3]的值是<br />A:2B:3C:4D:不一定<br />3：若有说明：int n=2,*p=q;则以下非法的赋值语句是（）<br />A：p=q<珐穿粹费诔渡达杀惮辑br />B:*p=*p<br />C:n=*p<br />D;P=n<br />4：变量p为指针变量，若p=&a,下列说法不正确的是（）<br />A：&*p==&a<br />B:*&a==a<br />C:(*p)++==a++<br />D:*(p++)==a++<br />5:下列定义数组的语句中不正确的是（）<br />A：static int a[2][3]={123456};<br />B:static int a[2][3]={{1},{45}};<br />C:static int a[][3]={{1},{4}};<br />D:static int a[][]={{123],{4,5,6}}
+第一题。2个<br />int型可能2个也可能4个，这个取决于编译器以及操作系统，TC是2个，VC6.0是4个。但short在哪都是2珐穿粹费诔渡达杀惮辑个<br />你<br />printf( &quot;%d&quot;, sizeof(short) );<br />看下就知道。<br /><br />第二题，3你自己运行一下就行。<br />a[5]==6<br /><br />第三题 D<br />n 是int型<br />p 是int*型<br />q 是int*型<br />*p 是int型<br />*q 是int*型<br />A：p=q <br />B:*p=*p<br />C:n=*p<br />D;p=n <br /><br />第4题 C<br />(*p)++ 是p指向的变量++<br />而a++ 是地址++<br /><br />第5题d<br />C语言不支持这样声明。<br />最起码要声明有几列
+4
+none
+http://zhidao.baidu.com/question/106660528.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/130105542.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/110782978.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/262524227311929725.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161327068.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中交换X,y的值为什么要用第三变量
+C语言中交换X,y的值为什么要用第三变量
+b就不知道把什么值传给a了,由于b在同一时刻只能有一个值，所以，问题就解决了？如果弄到a那里去的话，如果b要接收a的值的话第三变量是临时变量。于是。如果不顾b为何值而强行把a的值赋予b的话，这就发生了死锁，用来临时储存a或b的变量值，引入第三个变量，原先b的值就会被覆盖掉，比如说变量a在同一时刻内只能等于3或者是等于4，但是弄到哪里去呢，就必须先把自己原先的值弄出去，假设先把a的值给b,要交换它们的值.<br />现在考虑两数交换, b = 4。所以,而不能是同时既等于3又等于4。因为一个变量只能有一个值，a也陷入了与b相同的境况了，所以，由于a 在同一时刻也只能有一个值，假设有a = 3，这样一来，这样就达不到交换的目的了
+11
+none
+http://zhidao.baidu.com/question/155437652.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/26035623.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/268592909.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22935288.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/313053404.html?qbl=relate_question_4

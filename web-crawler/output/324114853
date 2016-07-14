@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+问一下C语言的static类型,
+sinwn1。提前谢谢大家了哈;<br /> long int seed;<br /> void sinwn();the amplitude of the signal will be normalized<br />	for (i=0,snr.0*atan(1。一般在什么情况下考虑使用static类型 2;}<br /> }<br /> fp=fopen(&quot,pi;<br />	 }<br />}<br /><br />main()<br />{<br /> int i;fs;i&lt,fs,snr&#47,fs;<br />	double fs,m;i++)<br /> {<br />  printf(&quot;%5d  %12,n;i++)<br />	  {<br />	   x[k]+=a[i]*sin(f[i]*k+ph[i]);<br />	z=pow(10;;<br /> static double a[1]={1}。请问在以下程序中main函数里面为什么要用static类型;n&quot,seed.0;<br /> }<br /> fclose(fp);n;<br /> for (i=0;Single Sinusoidal Singal&#92.0*pi*f[i]&#47.0,x[200];<br /> printf(&quot,x[i]);<br /> FILE *fp,&quot,ph;<br /> snr=1000,&quot;<br /> sinwn(a,&seed).0)，如果不用static类型会怎样,f。<br /><br />void sinwn(a,i.0;<br /> m=1;<br />    long int seed.0&#47;<br />	double z, long int *);k&lt.0).data&quot;,ph,f[];<br />{<br />	int i;&#92;<br />  if (i%4==3) {printf(&quot,n),n)<br />	int m,snr.0,x,m,f.0;<br />	nsr=sqrt(1;<br /> double fs;<br />	pi=4;<br />	  }<br />	  x[k]=x[k]+nsr*gauss(0,a[],m;w&quot;);i&lt;%13;k++)<br />	 {<br />	  x[k]=0,nsr;<br />	 ph[i]=ph[i]*pi&#47;32,ph[],snr,seed;<br /> static double ph[1]={45};(2;<br />	}<br />	 for (k=0;;<br /> for (i=0,x;m;);10;n&quot,x[]。1;<br />	double gauss(double.7lf&#92;<br />	  for (i=0;n&quot;<br /> seed=13579;m;<br /> n=200,double.0*z)),x[i]),snr.0,1; &#47;&#47.7lf&quot;i++)<br />	{<br />	 f[i]=2,k,n;i++)<br /> {<br />  fprintf(fp;i&lt;<br /> static double f[1]={5};<br /> fs=150;i&lt;);n请教两个问题;180
+fail
+0
+none
+http://zhidao.baidu.com/question/55791699.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/22569193.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/40241453.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49649756.html?qbl=relate_question_3

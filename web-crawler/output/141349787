@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+textattr(int newattr)帮忙具体解释下参数的含义，C语言
+谢谢&#92；详细解释下参数的含义<br />newattr 各位含义如下;(^o^)&#47：                                     B7            是否闪烁                                 B6 B5 B4      背景颜色                                 B3 B3 B1 B0   字符颜色<br />要比这详细点如题
+这个函数用来设置 文字显示&#47,共8种颜色<br />0000 XXXX -- B3B2B1B0 4位2进制数 表示字符颜色;特性<br />text -- 文本，有一个整型形参：<br />1011 0111 -- 闪烁, 共16种颜色。<br /><br />newattr 看成二进制数时.      <br />例如;<br />1011 0111 写成16进制数是 B7，字符颜色7<br />调用函数。<br />顾名思义，文字<br />Attribution -- 属性<br />newattr -- 新属性，闪烁：<br />0000 0000<br />B7B6B5B4 B3B2B1B0<br />X000 0000 -- B7 为 1，不闪 <br />0XXX 0000 -- B6B5B4 3位2进制数 表示 背景色： textattr(0x00B7);输出时textattr(int newattr) -- 函数textattr，背景色 3，文字属性&#47。为 0，8位 排列
+3
+none
+http://zhidao.baidu.com/question/183047169.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/518705508598257365.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/588970672.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424339405345575572.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/191316298.html?qbl=relate_question_4

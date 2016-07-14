@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急！！！c语言中#include语句问题
+c语言课上，老师说#include语句能不放开始部分而内嵌在函数的{ }内俯担碘杆鄢访碉诗冬涧，但我编译不成功，请高人指点，谢谢了。
+可以把#include看成“文件级展开的宏”。<br /><br />对于一般的宏，如<br />#define PI 3.14<br />....<br />int a = PI;<br />编译俯担碘杆鄢访碉诗冬涧程序会简单地把PI替换成3.14。<br /><br />而对于#include &quot;a file&quot;<br />编译程序会把a file这个文件的内容替换掉“#include &quot;a file&quot;”这个语句。<br />从这个角度来看#include语句是可以放在任何地方，并且&quot;a file&quot;这个文件的名称也可以是任意的，关键有两个：一是必须能找到“a file”这个文件，其次是替换后的整个文件的内容要合符C/C++语法。<br />我想你没成功肯定是其中一项出了错。<br /><br />下面我举个例子：<br />创建一个dos下的C工程，主文件main.c内容为：<br />#include &lt;stdio.h&gt;<br /><br />void main()<br />{<br />#include &quot;part.txt&quot;<br />}<br />然后在main.c的同一目录下用记事本创建part.txt这个文件，内容为：<br />printf(&quot;I am in another file&quot;);<br />编译、运行通过！<br /><br />++++++++++++++++++++++<br />当然，这并不是一个好习惯！
+1
+none
+http://zhidao.baidu.com/question/47620156.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/808209803267612492.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/151618495.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/45699614.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80007913.html?qbl=relate_question_4

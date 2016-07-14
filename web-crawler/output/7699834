@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我想用C语言实现一个串口发送的功能
+7位数据位，1位校验位，1位停止位：假设定义在一个数据帧中有，能不能我随意的控制校验位我想用C语言实现一个串口发送的功能。我向外发送的时候，1位起始位
+<br />首先你可以用程序判断你待发送的字符的校验和y<br />设你在校验位要发送的位为x<br />设校验方式为z<br />         因为   x=y xor z<br />         所以   z=x xor y <br />即根据校验和y 与 你的要求x 决定用奇校验还是偶校验，上述方法只能在一个字符<br />发送完成后才能改变校验方式，你可能是想用校验位来多一个发送位。<br />要是没有猜错。不要忘记，<br />达到特殊控制功能可以
+0
+none
+http://zhidao.baidu.com/question/479827997.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/430739768.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/343850140.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/55473480.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265352418678304748.html?qbl=relate_question_4

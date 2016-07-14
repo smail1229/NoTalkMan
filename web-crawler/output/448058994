@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机c语言编程语句temp=temp&lt;&lt;1和temp=temp&lt;&lt;1+1怎么理解 ，他们有什么区别？
+none
+temp=temp&lt;&lt;1表示将temp左移一位；temp=temp&lt;&lt;1+1则是将temp左移一位后加1。左移的含义：比如temp=00001111B（二进制），那么temp&lt;&lt;1的结果是00011110，也就是temp的数据位珐绩粹啃诔救达寻惮默依次向左移动一位，最高位可以认为被舍弃，最低位由0补齐。这是基本的位运算，可以参考相关的C语法书目。
+4
+temp = temp &lt;&lt; 1        右移一位，相当于乘以2<br />temp=temp&lt;&lt; 1+1        +运算优先级高于&lt;&lt;，本句相当于temp=temp&lt;&lt;2，右移2位，相当于乘以4
+http://zhidao.baidu.com/question/327090760.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/293697598.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/427409824.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/295070659.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/295560454.html?qbl=relate_question_4

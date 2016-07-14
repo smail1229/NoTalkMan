@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题,求大神解决,谢谢啦,我是小白,最好能够解释下原因
+有定义,*p=a+6，则下列运算哪种是错误的（  ）,*q=a;。<br />① p-q           ② p+3          ③ p+q         ④ p&gt：inta[10]
+地址相减，两个变量的地址不能相加① p-q，所以 是错的，就相当于a的指针向后移6+3=9位，等于6。<br />③ p+q，地址会超出原来定义的范围，可以准确求得,q指向a[0]，所以p&gt;q;q是一定的；<br />② p+3，没有移出数组a，也可以，可以,地址不会溢出，如果相加,数组是连续的。<br />④ p&gt，p指向a[5]，恰好等于a的地址加上6再减去a的地址
+1
+none
+http://zhidao.baidu.com/question/533388192.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/547876739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533017226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533943050.html?qbl=relate_question_4

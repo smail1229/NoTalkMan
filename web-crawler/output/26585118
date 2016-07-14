@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+这个c语言的流程图怎么画 马上用
+=EOF)<br />{putc(c;w+&quot;stdio;r&quot;<br />c=getc(fp1),*fp2;<br />fp2=fopen(&quot.dat&quot,&quot;<br />fp1=fopen(&quot;<br />FILE*fp1;<br />main()<br />{<br />int c.h&gt;<br />while(c.dat&quot;<br />}<br />fclose(fp1);new;);;,&quot,fp2);old;<br />c=getc(fp1);)#include &lt;<br />fclose(fp2)
+打开文件new;-----------------<br />***************|*******************************|<br />***----------------------------****************|<br />*******|**********************|****************|<br />*******|是********************|否**************|<br />*关闭old.dat一个字符.<br />***************|<br />*******打开文件old.dat.dat******|<br />*******|*********************读old.以只读.dat文件****写c到new,付给c<br />***************|<br />*******文件old.<br />***************|<br />******读old.dat.dat和new?&lt.dat是否到结尾.dat文件中的一个字符.以写***********入口(可不要)<br />***************|<br />************定义变量 c<br />***************|<br />*********定义文件指针
+8
+none
+http://zhidao.baidu.com/question/155862697.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/42489639.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/214067109.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98177210.html?qbl=relate_question_3

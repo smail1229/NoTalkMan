@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，这道题怎么解释？不懂 16、while(!x)中的条件表达式(!x)与下面条件（）
+这道题怎么解释、while(!x)与下面条件（）等价C语言？不懂    16!x)中的条件表达式(。 A．x==0    为什么选择A
+0的意思就是false<br />所以，也就是需要一个逻辑结果（即true或false）!x就不为0!x的结果就是0while()的括号内需要一个逻辑表达式，while条件才能成立，当x=0的时候，不为零的意思就是true，。当x不是0的时候!x就是true的意思，。<br />这里的逻辑表达式是!x （x取反）<br /><br />当x是0的时候，
+1
+none
+http://zhidao.baidu.com/question/488714508.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1494922234973317059.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1701985580224973420.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/277405675.html?qbl=relate_question_4

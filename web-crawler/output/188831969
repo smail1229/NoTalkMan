@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言printf函数输出的一个问题
+f）,2f”.46”   为什么不是“    123，则左端补空格  然后我再TC3上面测试 f=123,nf  意思是 指定输出的数据共占m列 其中n位小数 如果数值长度小于m；  输出的是“    123.456 printf（“%10书上说 printf中  %m
+是按照四舍五入的方式进行的，而通过%m，用 int 进行取整是这样的，那么会直接舍去小数部分，你需要明白一些系统的规则.nf这种方式进行保留小数位时
+5
+none
+http://zhidao.baidu.com/question/255165996.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/247005530.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80559238.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561024642.html?qbl=relate_question_4

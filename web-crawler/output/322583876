@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言自定义BOOL函数
+none
+我看你还是定义一个整形，C++中才有这个类型，返回非0（如：1）就表示trueC语言没有bool类型，返回0就表示false
+5
+C语言没有BOOL类型变量<br />boolean类型是C++所独有的<br />由于使用BOOL类型可以使代码更具有可读性，很多编程者都在C中自己定义了类似的应用，一般方法有两种：<br />1、采用宏定义方式（windef.h中就是用的这种方式）<br />typedef int BOOL ;<br />#define true 0<br />#define false 1<br /><br />2、采用枚举型变量方式（这种方式更象C++的boolean类型）<br />typedef enum { true=0, false} BOOL;
+http://zhidao.baidu.com/question/10081172.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/315919895.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/119194476.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/5026337.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/248451881.html?qbl=relate_question_4

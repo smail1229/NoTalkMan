@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教高手，如何用c语言中的数组编程显示0~360度的余弦函数cos(x)曲线？
+none
+显示曲线？这个应该是画图了吧，想问一下，你的介订稜斥谷俪咐筹栓船兢面用什麽来做？console还是MFC？<br />姑且算是用console吧。<br />cos函数可以在math.h中调用，然后把相应的度数换算成pi，比如30°就等於六分之一pi，然后把算出的值放入数组，显示的时候就按照数组中的值在对应的高度打印出&#39;*&#39;等各种符号就可以了
+3
+none
+http://zhidao.baidu.com/question/7917223.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/4690341.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2074091776895725948.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/581970105.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/55835983.html?qbl=relate_question_4

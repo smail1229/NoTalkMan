@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求助一段C语言程序的解释！急用！
+请求高手们给出每一句的注释;<br />  *((char*)Info+i) = *((char*)Info+length-i-1);2;<br /> char info_t;<br />  *((char*)Info+len-i-1) = info_t;<br /> }<br />}<br /><br />这个函数是什么意思; i++)<br /> {<br />  info_t= *((char*)Info+i)，尤其是*((char*)Info+i), size_t length)<br />{<br /> size_t i; i&lt;<br /> <br /> for (i=0，看不懂好郁闷，这种形式不理解void Chang(void *Info;length&#47
+所以给其赋值;/length/定义一个char型的info_t<br /> <br /> for (i=0,变成*(char*)就是里面地址的内容<br />  *((char*)Info+i) = *((char*)Info+length-i-1);因为info_t是char类型;循环length&#47，变成char*就是指向char型的地址;/ i++)/ i&lt;//2次<br /> {<br />  info_t= *((char*)Info+i);2，要先强制转换成char型, size_t length)<br />{<br /> size_t i;size是自定义的类型（没有main不清楚）猜应该是（整型）<br /> char info_t;//<br />  *((char*)Info+len-i-1) = info_tvoid Chang(void *Info;&#47
+2
+none
+http://zhidao.baidu.com/question/87440113.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/165525961.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1946780810284208628.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1988705048013386227.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154233444.html?qbl=relate_question_4

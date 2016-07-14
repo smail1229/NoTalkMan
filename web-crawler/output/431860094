@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+2.8 若变量已正确定义并赋值，符合C语言语法的表达式是 请问为什么选择B啊？D为什么不对呢？
+2.8 若变量已正确定义并赋值，符合C语言语法的表达式是 <br /><br />A)a=a+7;      B)a=7+b+c,a++       C)int(12.3%4)         D)a=a+7=c+b <br /><br />答案：B         珐碃粹度诔道达权惮护 为什么D不对呢？
+重点是：在C语言赋值表达式的时候，左边被赋值的都必须是变量，D是a+7不是一个变量，如果珐碃粹度诔道达权惮护改成a=x=c+b就是对的了，而b是一个逗号表达式，所以选择B，不选择D
+1
+none
+http://zhidao.baidu.com/question/457342885.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258500911.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/103878080.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/396008875.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80076445.html?qbl=relate_question_4

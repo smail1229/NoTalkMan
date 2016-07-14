@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言程序设计:输入一行字符,统计出其中单词的个数,个单词之间用空格分隔,空格数可以是多个
+C语言程序设计:输入一行字符,统计出其中单词的个数,个单词之间用空格分隔,空格数可以是多个！
+楼主请看这里这里 决对好用的程序<br /><br />#include&lt;stdio.h&gt;<br />main()<br />{<br /> char str[20];<br /> int i=0,j,count=0;<br 缉鼎光刮叱钙癸水含惊/> printf(&quot;请输入要统计的字符以回车结束:&#92;n&quot;);<br /> gets(str);<br />    while(str[i++]!=&#39;&#92;0&#39;)<br /> {<br />  if(str[i]==&#39; &#39;)<br />  {<br />   i++;<br />   while(str[i]==&#39; &#39;)//判断连续空格<br />   { i++;}<br />  count++;<br />  }<br /> }<br /> printf(&quot;单词书为：%d&#92;n&quot;,count+1);<br />}
+33
+none
+http://zhidao.baidu.com/question/211822234.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/57194996.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92856457.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/187965499.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200523772.html?qbl=relate_question_4

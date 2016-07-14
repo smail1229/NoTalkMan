@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中“if（!a[i]） 语句1”何意？
+none
+fail
+1
+if的条件是这样判定的，如果为非零值认为为真，为0则为假。当用！a[i]时，说明a[i]为0时执行下面的语句。其中！为非，也就是说“反”，因为我们默认的是非零即为真，所以说原句省略了一部分他相当于if(!a[i]!=0),即（！a[i]是非零的）
+http://zhidao.baidu.com/question/578756338.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/398730023.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/431883319.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/21445480.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1947429867015999428.html?qbl=relate_question_4

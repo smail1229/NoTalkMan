@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言数组中的一定要是整数吗?如何我想在数组中放*可以吗
+none
+int a[5]就是整形，char a[5]就是字符型可以，数组中想存放什么类型的数据就声明数组为什么什么类型，，
+1
+none
+http://zhidao.baidu.com/question/154156530.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/95367321.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/129681617.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1431674097639577819.html?qbl=relate_question_3

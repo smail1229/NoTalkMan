@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：创建一个一维(int)数组（维数为6），输入数组元素，并输出数组元素中值最大的一个。
+none
+%d&#92;);n&quot;6;;6;<br />int main()<br />{<br />   int a[6];6;n&quot,temp;stdio;最大值为;j++)<br />    if(a[i]&lt;<br />                 }<br />    printf(&quot,j.h&gt; <br />                 a[j]=temp,&a[i]);i++)<br />    for(j=i+1;<br />                 a[i]=a[j];i&lt;输入6个数;i++)<br />    scanf(&quot;a[j])<br />    {<br />                 temp=a[i];j&lt,i#include &lt; <br />    for(i=0;<br />    printf(&quot;,a[0])：&#92;<br />    for(i=0;%d&quot;i&lt
+0
+none
+http://zhidao.baidu.com/question/351096399.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/417744607.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152230101.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2074654204270767668.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198665111.html?qbl=relate_question_4

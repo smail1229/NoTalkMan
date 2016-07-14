@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数组结构赋值
+如何将数组结构中的值赋给其他变量。比如我现在有一个数组结构<br />struct Fee <br />{<br />char  date[36}<br />char  posting_date[36]; <br /订单斥竿俪放筹虱船僵>float money;<br />}f[100];<br />现在想将f[i].date的值赋给一个变量P，应该怎么做？
+#include &lt;stdio.h&gt;<br />#include &lt;string.h&gt;<br /><br />struct Fee <br />{<br />	char  date[36];<br />	char  posting_date[36]; <br />	float money;<br />}f[100];<br /><br />订单斥竿俪放筹虱船僵int main()<br />{<br />	int i = 10;<br />	char* p1 = f[i].date; // 单纯复制地址的话用这个<br />	char p2[36]; <br />	strcpy(p2,f[i].date); // 想复制字符串的话用这个<br />}
+2
+none
+http://zhidao.baidu.com/question/81357579.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92789770.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/26292521.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/35327829.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/73551310.html?qbl=relate_question_4

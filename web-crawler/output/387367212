@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求三个整数的最大值
+none
+int max(int x,int y,int z);<br />把上面一句写在<br />int main()<br />上面去
+0
+<pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;</pre>void&nbsp;main()<br />{<br />int&nbsp;<br />(int&nbsp;x,int&nbsp;y,int&nbsp;z);<br />int&nbsp;a,b,c;<br />scanf(&quot;%d%d%d&quot;,&amp;a,&amp;b,&amp;c);<br />int&nbsp;d=<br />(a,b,c);<br />printf(&quot;<br />=%d&quot;,d);<br />}
+http://zhidao.baidu.com/question/39804649.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158375246.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/474034893.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/529159737.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/53415920.html?qbl=relate_question_4

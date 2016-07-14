@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+36．C语言规定，函数返回值的类型是（）。 A）return语句中的表达式类型所决定的 B）调用该函数时 的主调
+none
+fail
+3
+选择A<br /><br />一般在C语言的函数体声明时前面都会有个声明<br />例如<br />double myFunction(para1,para2)<br />{<br />   return (...);<br />}<br />该例中return的数据类型即为double
+http://zhidao.baidu.com/question/492739065.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/30629741.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/282331650.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/393176099.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数squeez(char s[],char c)功能是删除相同字符
+&#92;i++)if(s[i]，如果i=0时和字符不相等执行s[0]=s[0];0&quot;是算在for语句内的吗 ,j;&#92;s[i];for(i=j=0;;0&#39，如果i=1时和字符不相等执行s[1]=s[1]!=&quot;} 看的我烦 s[j++]=s[i]有什么用 !=c)s[j++]=s[i];&#92，那怎么没有复合语句的{}把if语句和s[j]=&#39;s[j]=&#39;0&#39;&#92;，不知道执行什么s[j]=&#39,如果他吗i=0时和字符相等;0&#39squeez(char s[],char c)<br />{int i
+<br />squeez(char s[]!=&quot;0&quot;a&#39; 的字符 就往 s[j] 的位子上坐：<br />用 j 指示 当前位子;;&#92;s[i]!=c){<br /> s[j]=s[i];0&quot;}  )<br />一直判断到 s[i] == &#39，可拆成 {s[j]=s[i]!=&quot;<br />不是 &#39;<br />判断了一个字符s[i];<br />}<br />s[j]=&#39写成这样好看些;; 里了;0&#39,  就是把 s 中的 &#39; 全 去掉;<br />for(i=0;;&#92，<br />则是;<br />坐了一个位子 j  要增1。 假定 c=&#39。( if s[i] ;<br />}<br /> <br />squeez 的意思是“挤压”;i++) <br />{<br />if(s[i];<br /> j++; j++!= c) ;<br />};<br />j=0;a&#39;&#92;0&#39;a&#39。<br />具体做时;&#92，后面的字符往前移, i 就增 1 （循环语句里 i++);<br />用 i 指示 要判断哪个 字符了,char c)<br />{<br />int i;&#92,j。(j++ 隐含 在 s[j++]=s[i];)<br />---<br />s[j]=&#39;  加1个字符串结尾符号;0&#39;  ( 循环语句里 s[i] ;
+5
+none
+http://zhidao.baidu.com/question/552007720.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94609033.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/242122255.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/355989174.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/919531985561446659.html?qbl=relate_question_4

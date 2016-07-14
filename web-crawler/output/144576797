@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急求C语言编程，求整型数组中元素是奇数的元素之和
+none
+以5个数为憨害封轿莩计凤袭脯陋例<br />int main()<br />{<br />   int a[5]={1,2,3,4,5},i,sum=0;<br /><br />   for(i=0;i&lt;5;i++)<br />      {<br />         if(i%2==0)<br />         {<br />             sum+=a[i];<br />          }<br />      }<br /><br />   printf(&quot;sum=a[0]+a[2]+a[4]=%d&#92;n&quot;,sum);<br />   system(&quot;pause&quot;);<br />}
+1
+none
+http://zhidao.baidu.com/question/420196549.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/212400277.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127338493.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/263639179.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/247535415.html?qbl=relate_question_4

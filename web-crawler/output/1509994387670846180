@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于printf一题的疑惑
+<br />}<br />运行结果,2）<br />（6,a+b);,5）<br />（9;<br />printf(&quot;<br />#define N 5<br />void fun()？<br />感谢各位大神出手相助,%d)&#92，9）<br />（14?<br />而改为printf(&quot;<br />main()<br />{<br />	int i，6）<br />（11;N，3）<br />（8;(%d，a+b中的a用的依然是a=0;<br />	for(i=1;i&lt;n&quot#include&quot;i++)<br />		fun(),a+b,11）<br />-------------------------<br />为什么在经过a+=3之后（a=3）,%d)&#92：<br />（3,8）<br />（12,a+=3);n&quot，12）<br />a的值反而改变了;<br />}<br />void fun()<br />{static int a;stdio;后结果变成了<br /><br />（5？不是从左到右结合吗;<br />int b=2;(%d;,a+=3.h&quot
+printf明明是从右往左编译的~
+2
+none
+http://zhidao.baidu.com/question/189146315.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1689868477072355948.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/204155889.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/193334870.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2073836853897658828.html?qbl=relate_question_4

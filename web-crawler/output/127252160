@@ -1,0 +1,10 @@
+电脑/网络 编程语言 其他编程语言 
+易语言数组成员引用下标超出定义范围（有源码）
+ , .置标题 (sy.支持库 iext<br /><br />, 到文本 (仓库物品 [i].版本 2<br />.数量 × 仓库物品 [i].数量))<br />    超级列表框4, 2, i)<br />    sy ＝ 超级列表框4.置标题 (sy.插入表项 (-1, 到文本 (仓库物品 [i], 仓库物品 [i].单价))<br />    超级列表框4, 3, .单价))<br />, 到文本 (仓库物品 [i].作物名称, 1, )<br />    超级列表框4.计次循环首 (取数组成员数 (仓库物品).置标题 (sy
+检查一下“仓库物品”的数组定义是否正确。 <br /><br />“仓库物品”在定义时各维上限是否定义为0。 <br /><br />还有就是执行你所列代码之前“仓库物品”必须已添加了成员数据，则后面向此数组添加数据时应使用“加入成员”语句，否则就会出现你说的错误，否则也会出现你的错误？如果是这样
+20
+none
+http://zhidao.baidu.com/question/1539688124611964987.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/492777096.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/392917942.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/518406766553709325.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教C语言中（*p)++与*p++与++*p与*++p的区别
+none
+fail
+fail
+首先，明确：++的优先级高于*的优先级。<br />（*p)++<br />&#47;&#47;首先取p所指向的值，给它所指向的值做后缀加，由于是后缀加，所以返回原来表达式的值，即该表达式最后的值为p所指向的值<br />*p++<br />&#47;&#47;它相当于*(p++),首先指针p后移，由于对指针是后缀加，所以p++返回p没后移时的指针，如果是数组，那么表达式的值为指针当前所指元素(指针没有后移时)的值<br />++*p<br />&#47;&#47;即相当于++(*p),先取p所指向的值，然后施以前缀加，则该表达式的值为p当前所指对象的值+1的结果。<br />*++p<br />&#47;&#47;相当于*(++p),指针p先后移，如果是数组，则指向下一个元素，然后++p返回指针下移后的指针。然后*取下移指针后所指向的值
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226084447.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/53097165.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/238713566.html?qbl=relate_question_4

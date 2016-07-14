@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if else
+a，b，c，b=0;％d，c=0，％d；c=2，d=0，％d＼n&quot；<br />if(a=1) b=1；<br />else d=3;;<br />printf(&quot，％d，d)有以下程序<br />main()<br />{int a=0
+b=0; <br /><br />}<br /><br />或者改成<br />if(a=1) b=1;<br />if(a=1) {b=1首先程序肯定会出错的<br />if和else之间不可以超过一句语句<br />所以楼主这个程序是错的<br />如果改成这样的话<br /><br />main()<br />{int a=0;;n&quot;注意这里的a=1是赋值语句,%d&#92,b,d=0；也可以;a=1;&#47,a，所以是永真，因此执行b=1;}//%d,c=0,%d,d=0，c=2,c;&#47,%d,c=2。这里是逗号表达式,d);c=2,b=1;c=2不执行else <br />else d=3。只有一个分号;<br />printf(&quot
+13
+none
+http://zhidao.baidu.com/question/480539380.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90716472.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/160291122.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/482318726.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_4

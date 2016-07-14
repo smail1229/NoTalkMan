@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言整型与浮点型数据间的运算
+应该<br />例如<br />int n=5，b=4；<br />float k；<br />想要k得到n&#47;b的结果，如何处理要得到两个整型数据相除的结果
+楼请不要误导楼主<br />如果楼主希望的是得到1.000000 则可以<br />（float）n/b.250000 则可以用<br />(float)n/(float)b;<br />如果希望是1
+21
+none
+http://zhidao.baidu.com/question/157732209.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/376546255.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/130723325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90752050.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/479388864.html?qbl=relate_question_4

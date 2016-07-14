@@ -1,0 +1,11 @@
+电脑/网络 编程语言 汇编语言 
+用汇编语言编写程序计算(X*Y-Z)÷X
+none
+X DD ?<br />Y DD ?<br />Z DD ?<br />假设已经定义了已经赋值了<br /><br />MOV EAX,X<br />MUL Y<br />SUB EAX,Z<br />XOR EDX,EDX<br />DIV X<br />经过以上后 EAX里放了结果<br />汇编语言直接写可以这样<br />不过如果是高级语言编译后产生的，肯定不是这样，100%不是这样的 <br /><br />如果X Y Z不缉掸光赶叱非癸石含将是DWORD类型要先统一类型就比较麻烦了额
+0
+none
+http://zhidao.baidu.com/question/2010389732066828748.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127317175.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1367250649662555739.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/25231536.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/432724941.html?qbl=relate_question_4

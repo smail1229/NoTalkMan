@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言里,,什么是声明函数,,什么是定义函数
+<br />函数不是应该先声明在使用吗定义是声明还是使用？<br />定义和声明如何解释？<br />会的大侠告诉我一声
+stdio;<br />int AddOne(int a，比如写成下面这样。有时候声明和定义是同时进行的;stdio：<br />#include&lt.h&gt;<br />int AddOne(int a;<br />}<br /><br />在上面的代码中，后面必须有分号, int b);<br />}<br />void main()<br />{<br />int first, int b)<br />{<br />return a+b,second);<br />void main()<br />{<br />int first;<br />int second;<br />}<br />int AddOne(int a；而从倒数第四行开始是函数AddOne的定义;<br />int result,second);<br />………………<br />………………<br />result=AddOne(first;<br />………………<br />………………<br />result=AddOne(first，第二行是对函数AddOne的声明, int b)<br />{<br />return a+b，后面有大括号括起来.h&gt;<br />int second;<br />int result例如：<br />#include&lt
+9
+none
+http://zhidao.baidu.com/question/138376702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90271471.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126022818.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/10044847.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于continue的小问题
+有以下程序：<br />void main()<供沪垛疚艹狡讹挟番锚br />{int i,n=0;<br />for(i=2;i&lt;5;i++)<br />{  do<br /> { if(i%4+1)continue;<br />   n++;<br /> }while(!i);<br /> n++;<br />}<br />printf(&quot;n=%d&#92;n&quot;,n);<br />}<br />程序执行后的输出结果是（ ）<br />A.n=5    B.n=2    C.n=3    D.n=4<br />正确答案是C，我想知道具体是怎么算出来的，能帮我详细分析一下吗？谢谢！
+continue的作用是结束这一次循环，进行下一次循环。<br /><br />这句话do<br />{ if(i%4+1)continue;<br />n++;<br />}while(!i);里面的N++根本就没有用到，供沪垛疚艹狡讹挟番锚因为i%4+1一直为真。<br />接下来的n++;可以看成是for(i=2;i&lt;5;i++)执行了几次循环。<br /><br />for(i=2;i&lt;5;i++)共执行了三次，因此n=3
+2
+none
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91411785.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66810365.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98743975.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/117476305.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+二级C语言的问题。。。关于用printf输出数组。。。。
+<br />如果char b[]=&quot;%s&quot;hello you&quot,b)？;hello0you&quot;<br />}<br />请问为什么输出hello而不是hello0you;就输出hello0you了呢;	<br />printf(&quot;;main()<br />{	<br />char b[]=&quot;？？;<br /> b[5]=0
+当遇到串尾符&#39;&#92，所以就被当做串尾符了;0&#39;的ASCII码值一样;&#92，输出结束<br />hello you中间的空格和串尾符&#39;时认为字符串到末尾;0&#39%s输出时
+13
+none
+http://zhidao.baidu.com/question/77588356.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/208858760.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/175562468.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/393951898.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/354237150.html?qbl=relate_question_4

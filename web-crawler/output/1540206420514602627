@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求大神写一道c语言算法题
+none
+*如果元素总个数为奇数;<br />    }<br />    if(n %2){   &#47。然后再将a[min]与a[0]交换;<br />        if(a[2 * i] &gt; n - 1;<br />    for(i = 0，i为检测指针;<br />    }<br />}<br />对每一组元素将进行处理时将有3次比较.;<br />        else if(a[n - 1] &gt;*第二次比较*&#47。则在对第i组进行处理时, max, Max与Min为每相邻两个元素中的较大者和较小者*/<br />    *a = *b.;<br />            Max = 2 * i。min和max指针用于指向前若干组中已决出的最小元和最大元的下标，所以总的比较次数为3*n/ a[max]) max = n - 1;*依次对每相邻两个元素为一组进行处理*/<br />    }<br /> <br />    if(max == 0 && min == n - 1) {<br />        Swap(&a[0];    &#47, int *b){   /<br />        Swap(&a[max];<br />        }<br />        else  {<br />            Max = 2 * i + 1.、下标为2的与下标为3的作为第2组;<br />        if(a[n - 1] &lt.下标为2i的与下标为2i+1的作为第i组; a[min])   min = Min。直到所有的组都处理完毕, &a[min])，再将a[Min]与a[min]比较;<br />    }<br />    else if(max == 0){<br />        Swap(&a[max], Max; a[2 * i + 1]) {          /<br />        if(a[Max] &gt，则对最后一个落单的元素进行比较*/<br />        Swap(&a[min];<br />    min = 0;<br />    }<br />    else {<br />        Swap(&a[0];    Min = 2 * i + 1;   Min = 2 * i。<br /> <br />void Swap(int *a，第二次为将a[Max]与a[max]比较, i, Min，例如在进行第i组的处理时;2，min和max指向前2*(i - 1)个元素中的最小元和最大元、b两个数*&#47, &a[n - 1]); a[max])  max = Max，先比较a[2 * i] 和a[2 * i + 1]：第一次为本组内的两个元素比较。Min和Max则在处理每一组时，第三次为将a[Min]与a[min]比较;  &#47，指向该组中的较小元和较大元;*min与max为指向最小元与最大元下标的指针。这样可以尽可能减少比较次数;    /<br />    max = 0，决出两者中的大者Max与小者Min, int n){<br />    int min.，从而提高算法的效率;<br />        }<br />        if(a[Min] &lt算法思路为, &a[n - 1]);*交换a; 2 * i &lt;<br />    if(n &lt; 2) return，例如下标为0的与下标为1的作为第1组;<br />}<br />void find_minMax(int a[];<br />    *b = tmp：将这列数每相邻两个元素为一组进行处理; i++) { /<br />    int tmp = *a; a[min]) min = n -1，时间复杂度为O(n)，其中大的为前i组的最大者，再将a[Max]与a[max]比较，其中小的为前i组的最小者, &a[0]), &a[n - 1])、a[max]与a[n - 1]交换;*第三次比较*/*第一次比较*&#47.
+3
+none
+http://zhidao.baidu.com/question/554556983.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519004052720544125.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/571125549.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/411238848.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/551706192.html?qbl=relate_question_4

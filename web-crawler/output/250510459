@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言如何给数组赋值
+说重复定义，但是用keil编译后说错误,{ 0？别人能用的, 0 }？static float P[2][2] = {{ 1，奇怪了，为什么呢;这是别人初始化的时候的赋值, 1 }}
+，你的变量“p”重定义了;P&#39？<br />这个是说BALANCE_FLOATDATASENDING.C(170): redefinition<br />这个到底是什么问题呢: &#39: error C231
+2
+none
+http://zhidao.baidu.com/question/506362985.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/112398940.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/125484776.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/425005293.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/16669114.html?qbl=relate_question_4

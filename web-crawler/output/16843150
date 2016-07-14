@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题——自定义函数编程
+编写一个函数：1，写下详细过程、要求只输入一次圆的半径<br />    3。<br />注、自定义两个函数一个用于计算面积，不能用C＋＋语言<br />请C语言高手多多指点，计算圆的面积和周长、必须用C语言题目。编写一个程序，提示用户输入半径（r），另一个用于计算周长<br />    2，然后输出该函数计算的值
+a;stdio;Please input the radius;<br />}<br />呵呵;<br />a=area(r);<br />printf(&quot;n&quot,l;<br />l=length(r);<br />float length(float r2);<br />return(y);<br />y=2*pi*r2;;<br />}<br />float length(float r2)<br />{<br />float y;<br />return(x):&#92.我那全局变量都忘了.14;<br />}<br />float area(float r1)<br />{<br />float x,l),a);.h&gt;The length is %f&#92;<br />printf(&quot;<br />scanf(&quot;n&quot;;n&quot;<br />#define pi=3:&#92;The area is %f;<br />printf(&quot,&r).;);<br />void main()<br />{<br />float area(float r1);<br />float r#include&lt;<br />x=pi*r1*r1,也不知道对不.;%f&quot
+2
+none
+http://zhidao.baidu.com/question/157960052.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154710104.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/297957774.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/254610671.html?qbl=relate_question_3

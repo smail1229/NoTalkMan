@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+输入一个自然数n,求n!，同时统计结果中有多少个n?用c语言编写
+none
+上的你写得太复杂了<br />我估计楼主也是刚学C的吧<br />很难看懂你的<br />哈哈楼主我的简单看看我的吧<br />#include&lt;<br /> while(sum&gt,count=0;<br />main()<br />{<br /> int i;n&quot;;/<br />  sum=sum/自己改n的值吧 n大于9就复杂点了 先看懂这个程序吧<br /> for(i=1;i&lt.h&gt,n=9;10;i++)<br />  sum=sum*i,count);共有%d个n&#92;n;stdio;,sum); /<br /> printf(&quot;n&quot; //=n!=%d&#92;<br /> }<br /> printf(&quot;0)<br /> {<br />  if(sum%10==n)<br />   count++,sum=1
+4
+none
+http://zhidao.baidu.com/question/43298032.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/79876610.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43507081.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/155442398.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/6378297.html?qbl=relate_question_4

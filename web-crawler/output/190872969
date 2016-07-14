@@ -1,0 +1,10 @@
+电脑/网络 编程语言 其他编程语言 
+一个简单的C语言程序错误
+f)。;n”,%8,%2d&#92;<br />      char ch=‘a’;t%x&#92;<br />      float f=123。;<br />      printf(“%d&#92.2f;t%o&#92,b),a;<br />int b=255;<br />      printf(“%3c&#92,%8f，我找不到》,b;<br />      printf(“%f;<br />}<br /><br />老师让我们找错main()<br />{<br />int a=1234,%,a);n”,ch).456.2e&#92,f;<br />      printf(“%8d;n”,f;n”,f。,b,f,%.1f
+其中有1位小数最后一个printf里%3c出错，因为是以字符型数据输出，没有这种形式.1f是指定输出的数据共占8列，像%8，不应该有3
+0
+none
+http://zhidao.baidu.com/question/255152037.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/250170014.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2009945306725634828.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/561652386.html?qbl=relate_question_3

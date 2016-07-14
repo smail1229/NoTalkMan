@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C 语言,文件结束符 EOF问题
+ }<br />     }<br />   printf(&quot:case&#39;i&lt; break;;5&#39; &#39;n&quot#include&lt:case&#39,i;6&#39; break;,white space=%d,ndigit[10];10,nwhite;<br />           case&#39;3&#39:<br />           case&#39:case&#39;;<br />&#47:nother++;);;9&#39;&#92,nother!=EOF)<br />     {<br />       switch(c) {<br />           case&#39;n&#39;0&#39:case&#39.h&gt;%d&quot:case&#39;i&lt;;<br /><br />   nwhite=nother=0;7&#39;t&#39;&#47;<br />   printf(&quot;]++ ,nother);;;<br /><br />   while((c=getchar()):case&#39;;2&#39;1&#39;digits=&quot;#define EOF -1<br />int main(void)<br />{<br />   int c;8&#39;<br />}<br />~<br />这个程序问题出现在哪里;;4&#39;<br />   for(i=0,nwhite:case&#39;10;;i++)<br />        ndigit[i]=0;;&#92;;<br />           default;break;0&#39;<br />   return 0;<br />   for(i=0;;;;:case&#39:case&#39:case&#39,other=%d&#92,ndigit[i]):ndigit[c-&#39;i++)<br />        printf(&quot:nwhite++;stdio
+&#47!=13)<br />回车的ASCII码就是13，根本就没有－1这个字符。因为所有字符的ASCII码都是正的，而键盘输入的字符ASCII码就没有EOF这个标志，比如回车，是想从键盘来判断是否结束：<br />while((c=getchar());#define EOF -1<br />这也是错的。<br />while((c=getchar())，那么那就应该改成这样的。而你在这里和getchar()放在一起!=EOF) <br />即使你前面定义了EOF。<br />你可以使用一个特殊的字符作为结束的标志错在这里了。在C语言中EOF具有特定的含义，所以就错了:&#47，是文件结束的标志
+13
+none
+http://zhidao.baidu.com/question/121146064.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/461985988.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/414895082.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/409738592.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/13071751.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言-返回两个字符串里相同字符的个数
+一个程序，昨天一个考试题，在线等,t，这里的话就是s。<br />谢谢了.返回2，要求输入两个字符串，自己写不出来，比如microsoft和student.判断里面有几个相同的字符
+<br /><br />给分吧我觉得最简单的办法如下;; i&lt;<br />}<br />for (str=s2;have %d same characters&quot;*该字符计数器+1 *&#47, b[256];, str++) {<br />  a[*str]++;0) {<br />   cnt++;  /microsoft&quot;<br />}<br />for (i=0!= 0;*该字符计数器+1 */ i++) { a[i]=0; i&lt, *str ;student&#39；<br />因为你的字串估计是指ascii字串!= 0, *str;256, cnt=0;0 && b[i]&gt;<br /> }<br />}<br />printf(&quot; }<br />for (str=s1;256，总共就256个Ascii码啊<br /><br />char s1[]=&quot;<br />for (i=0, s2[]=&#39;  / i++) {<br /> if (a[i]&gt;<br />int i, str++) {<br />  b[*str]++, cnt); b[i]=0;<br />char a[256], *str ;
+5
+none
+http://zhidao.baidu.com/question/544748040.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258349142.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/29325109.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/10353514.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1667606907260592627.html?qbl=relate_question_4

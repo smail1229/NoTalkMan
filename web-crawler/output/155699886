@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 选择结构 switch
+b=0.？这样和++a有什么区别:switch(y)<br /><br />  {case 0;n&quot.h&gt, a=0;break:b++#include &lt;, y=0.谢谢各位前辈了先;  &#47;<br />  }<br />  case 2.;<br />main()<br />{int x=1 ;b++，a++后a得1？？不是参与运算后才自增1吗;<br /> switch(x)  <br /> {case 1 ;<br /> }<br /> printf(&quot;   &#47:a++？,b=%d&#92？谁的值得2了.,b);break;break;*case 2 是怎么回事？*&#47;*这个地方:a++;<br />}<br /><br />C语言新手;<br /><br />   case 1. 答案是a=2？*&#47;a=%d.,a;stdio
+* ++a 先自加后计算 a++ 先计算后自加1 这里没有什么计算 所以 a=1: a++: b++.h&gt. a++ b++ 最后结果就等于 a=2; break; b++, b = 0;<br />int main()<br />{<br /> int x = 1;语句 所以没有跳出 执行case 2;* 我把程序帮你改了改格式 你应该还清楚能看到 这个case 2是哪个switch的了吧 因为你switch(x)的case 1中 无break#include &lt;b=1;*&#47, y = 0; break;<br /> }<br /> printf(&quot;<br />   }<br />    case 2 ;,b=%d&#92, a = 0;  /<br />    case 1 : switch(y)<br />   {<br />    case 0 ;<br /> <br /> switch(x)  <br /> {<br /> case 1 ; break;n&quot: a++,b);   /*&#47,a;a=%d;stdio
+1
+none
+http://zhidao.baidu.com/question/155770094.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/155452307.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/441004155.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57996919.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/535615296.html?qbl=relate_question_4

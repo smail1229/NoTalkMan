@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中*P=&S与*P=S有区别吗？
+none
+fail
+0
+区别大了<br />如果是 这样<br />int s<br />int *p=&s<br />没有任何问题，p指向了 s的地址空间，&就是取地址的意思<br /><br />如果是这样<br />int s<br />int *p<br />*p=&s&#47;&#47;正确是 p=&s；<br />就有问题了，p是个指针，没有赋值，就对指向的空间赋值，那就错了，因为p指向的位置不确定。并且&s是取s的内存位置
+http://zhidao.baidu.com/question/238713566.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/238966403.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239073516.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_4

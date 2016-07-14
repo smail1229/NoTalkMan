@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 x ！=0  和 x 等价，为什么
+谁能解释下c语言问题！=0  和 x 等价，书上说 x ，为什么，不怕详细，最后有这个说法的验证，很不理解
+你说是不是一样呢x和x很明显是一样的啊，因为在C中不为零的值也就是!0就为真，也就是说x和x!=0的结果对于逻辑运算来说是一样的，因为在C中非零值就表示真
+7
+none
+http://zhidao.baidu.com/question/209653159.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/489935583.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38178371.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/541819419.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/246228314.html?qbl=relate_question_4

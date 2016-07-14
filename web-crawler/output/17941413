@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，10的n次方怎么表示？
+none
+h&gt;n&quot, double y）; <br />程序例.h&gt;stdio, y)): <br /><br />#include &lt，double pow10（int p）<br />下面是这两个函数的使用方法: <br /><br />#include &lt.h&gt: 指数函数(x的y次方) <br />用  法;stdio: pow <br />功  能; <br />#include &lt;n&quot，个人建议用.0, pow(x, double y): 指数函数(10的p次方) <br />用  法，double pow（double x: double pow(double x; <br />   return 0: double pow10(int p); <br />   return 0; <br />程序例;.h&gt;math, y; <br />}<br /><br />函数名;%lf raised to %lf is %lf&#92; <br />#include &lt; <br /><br />int main(void) <br />{ <br />   double x = 2; <br /><br />   printf(&quot.0: pow10 <br />功  能, y = 3;math有两个函数可以实现：pow10(n)<br /><br />函数名; <br /><br />int main(void) <br />{ <br />   double p = 3;Ten raised to %lf is %lf&#92, p, x;; <br /><br />   printf(&quot.0, pow10(p))
+158
+在C语言中，10的n次方可以表示为pow(10, n)<br />其中pow函数在头文件math.h中，所以调用该函数的时候，必须将math.h加进来，即#include &lt;math.h&gt;<br /><br />原型：extern float pow(float x, float y);<br />功能：计算x的y次幂。<br />说明：x应大于零，返回幂指数的结果。
+http://zhidao.baidu.com/question/2116142789536842427.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/171818936.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/281697533.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/36159266.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/216383963.html?qbl=relate_question_4

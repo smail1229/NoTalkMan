@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，调用的pow函数用法。谢谢
+none
+结果是01/3，编译器认为是整型数除法.;3，结果=0<br />换为1，编译器认为是浮点型数除法.0&#47..33333
+1
+原型:extern float pow(float x, float y);<br /> <br /> 用法:#include &lt;math.h&gt;<br /> <br /> 功能:计算x的y次幂。<br /> <br /> 说明:x应大于零，返回幂指数的结果。<br /> <br /> 举例:<br /><br /> &#47;&#47; pow.c<br /> <br /> #include &lt;stdlib.h&gt;<br /> #include &lt;math.h&gt;<br /> #include &lt;conio.h&gt;<br /> void main()<br /> {<br /> printf(&quot;4^5=%f&quot;,pow(4.,5.));<br /> getchar();<br /> }<br /> <br /> 相关函数:pow10
+http://zhidao.baidu.com/question/26776768.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/252209154.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/19776442.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97663831.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/179822142.html?qbl=relate_question_4

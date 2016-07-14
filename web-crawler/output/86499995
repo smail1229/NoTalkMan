@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+1+2+3+4.......+100的C语言程序
+小弟初学C语言，因为是自学的，看到第三章的时候碰到这样的题目，条理是理清了，可是上机运行结果就是不正确俯缉碘垦鄢旧碉驯冬沫，请高手帮帮忙！<br />小弟在此拜谢了！
+#include&lt;conio.h&gt; <br />#include&lt;stdio.h&gt; <br /><br />void main() <br />{<br />int i,total=0; <br /><br />for(i=1;i&lt;=100;i++) <br />total+=i;<br /><br />printf(俯缉碘垦鄢旧碉驯冬沫&quot;%d &quot;,total);<br /><br />getch();<br />}
+1
+none
+http://zhidao.baidu.com/question/520225225206789925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/745276424034189092.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/711548427067254365.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/582253033147131725.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/681545631901130852.html?qbl=relate_question_4

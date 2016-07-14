@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言switch语句的break问题
+ain()<br />{<br />   int fs;break？怎么会是两个e呢;aa&quot:printf(&quot:printf(&quot:printf(&quot;e&quot；上面把第一个的break去掉后为什么在输入0的时候会出现个ee;<br />     case 6 ;);break;<br />     default;a&quot,&fs);););<br />     case 2 :printf(&quot:printf(&quot;break;break;break;<br />     case 1 ;d&quot;););););break:printf(&quot;d&quot;<br />}<br />关于另类思考;);s&quot:printf(&quot:printf(&quot;break;<br />   scanf(&quot:printf(&quot;break;<br />   switch(fs)<br />   {<br />     case 0 ;%d&quot;<br />     case 7 ;<br />     case 9 ;<br />     case 5 :printf(&quot;<br />     case 3 ;e&quot;<br />     case 4 ;<br /><br />   }<br />   getch();e&quot;<br />     case 10 ;);<br />     case 8 ;);e&quot;e&quot;););e&quot:printf(&quot;break:printf(&quot;cuo&quot;;break
+所以将第一个break去掉并输入0之后程序判断第一个case的条件为真，输出e，之后遇到break语句退出switch结构。所以输出是两个e,再继续执行第二个case后的语句，它将在执行该case所带的的语句块之后不再对后面的case的条件进行判断而直接执行c语言的switch语句是穿透的= = 也就是说当程序判断某个case的条件为真后，又输出e
+35
+none
+http://zhidao.baidu.com/question/240803025.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1987880739957198907.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/19382129.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/297773307.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言#include &lt;stdio.h&gt;
+none
+n&quot;<br />main()入口<br />{int c;break，但是忘记了初始化<br />while((c=getchar());最后输出了一个回车,还继续运行<br /><br /> default ，跳出<br /><br />}<br /><br />}printf(&quot,不继续运行;)循环的从控制台读输入字符,还继续运行<br /> case 2，如果输入回车则退出<br />{switch (c-&#39，跳出<br /><br /> case 3;2&#39:putchar(c+3),不继续运行;也就是输入的是2此时什么也不干;当输入的是4那么他就在控制台输出4+4也就是8;)判断输入的是什么<br />{case 0;2&#39;);&#92:putchar(c+2);定义一个int变量c;&#47:putchar(c+4),c-&#39;2&#39;当输入是其他字符那么他就在控制台输出他下2个位置的字符:putchar(c+4);&#92，继续运行<br /> case 1;当输入的是5那么他就在控制台输出5+3也就是8!=&#39:输入0; &#47.h&gt;stdio;当输入的是3那么他就在控制台输出3+4也就是7;break;n&#39;=0推导出c=0+&#39#include &lt
+3
+none
+http://zhidao.baidu.com/question/24154492.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/211280471.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/419173838.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/53088445.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/199133206.html?qbl=relate_question_4

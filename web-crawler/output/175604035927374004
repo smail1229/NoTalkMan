@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求PI值！！！速度求！
+<br />    return 0;！！.141598;<br />        n=1&#47;<br />    printf(&quot，但正确结果是3;;<br />        sum=n+sum;<br />    printf(&quot.141591int main()<br />{<br />    float a;a*d;<br />	   f=fabs(e);<br /><br />    return 0,c;<br /><br />}<br />这个运行结果是正确的;=0！跪求到底差在哪里.000001,p);<br />        ++i,sum=0;n&quot.6f&#92;d=-d;<br />        if(i%2？;%;<br />    for(a=1;<br />    }<br />    p=sum*4;<br />    int d=1;<br />    int i=0，运行结果是3;？;j=2*i+1)<br />    {<br />        if (i==500000)<br />        break;j!=0)<br />        j=j*(-1);<br />    for (j=1;f&lt,j;<br />}<br />以上是我的主程序,n。<br />double p;%！下面还有一个正确的程序.6f&quot！,a=a+2){<br />		e=1&#47,e,c);<br />    }<br />    c=4*b;<br />		b=b+e,f=1,b=0！！速度啊
+结果应该是0.000001的条件而进不了for循环.000001的精度使循环比第二宗代码早结束了一项计算而造成第一宗代码连3，这很正常，因为f的初值是1.000000，由于0，不满足f&lt.141598的原因就是精度问题，结果为3;=0。如果第一宗代码能运行.141598都不会得到
+1
+none
+http://zhidao.baidu.com/question/424347928.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/523228420.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88329959.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/751750671055919444.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/118956335.html?qbl=relate_question_4

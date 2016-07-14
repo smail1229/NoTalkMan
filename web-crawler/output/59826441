@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 加入我定义了一个int数组a[10]和int指针p和q
+10*p =*q = a[0];<br />for (int i=1。;*q)<br />    *q = a[i];<br />  else if(a[i] &lt;i&lt;i++)<br />{<br />  if(a[i] &gt;<br />}<br />请问P和Q不都是指向a[0]的嘛<br />如果*p改变了那么*q不也是改编了*p一样的值了嘛<br />那么这个程序不是找出来一样的值了嘛 <br />分不来最大和最小了啊;*p)<br />    *p = a[i]
+是,q不是指向a[0]，p，而是p
+0
+none
+http://zhidao.baidu.com/question/553661039.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/475330442.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/567619008.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/646863026481465645.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/448490346.html?qbl=relate_question_4

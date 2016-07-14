@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+对sin函数求积分，用C语言如何实现？？？
+对sin函数求积分？<br />越详细越好，用C语言如何实现！！？
+<br />}<br />return ret, double y)<br />{<br />return cos(y) - cos(x) <br />}<br /><br />解法二 野蛮近似法<br />d是精度<br />double jfSin(double x;<br />   for(; x &lt？<br />解法一  ∫sin(x)dx = cos(x) +c 积分公式<br />double jfSin(double x; x+= dx)<br />{<br /> ret += sin(x), double dx) <br />{  double ret？;=y, double y
+1
+none
+http://zhidao.baidu.com/question/12748786.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260164143.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/24702415.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/181526042.html?qbl=relate_question_3

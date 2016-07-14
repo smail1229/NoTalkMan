@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编写加减计算程序
+none
+/}<br />     printf(&quot,a，而且输入的时候需要用地址符&····<br /><br />if(op==&#39，也就是原来的值。;&#47#include &lt,c),去掉,b都是在没处理过的数,b;<br />     scanf (&quot.h&gt,&b);。如果有空格的话要记得空格也要打a + b;n&quot;楼主这句应该放在数据处理完后;}<br />     <br />     if(op==&#39;<br /><br />main (void)<br /><br />{<br />     int a,c,op,&op，而且最好是把;<br />     char op;&#47。而且没必要那样输出;%d%c%d&quot;/最好空格去掉;，这样就可以直接写成a+b或者a-b,&a。。要不会出现错误 ;%d%c%d=%d&#92;+&#39。切记;)<br />     {c=a-b;)<br />     {c=a+b;-&#39,op,b,而且printf后面不需要&。要不你输出的a，这样更美观 。;stdio
+6
+简单的加减运算C语言很好处理。<br />#include &lt;stdio.h&gt;<br />main (void)<br />{<br />     int a,b,result;<br />     char opprator;<br />    printf(&quot;Please input a op b(as 1 + 2)&quot;);<br />     scanf (&quot;%d%c%d&quot;,&a,&opprator,&b);<br />    if(op==&#39;+&#39;)result=a+b;<br />    if(op==&#39;-&#39;)result=a-b;<br />    printf(&quot;%d%c%d=%d&#92;n&quot;,a,opprator,b,c);<br />    getch();<br /><br />}
+http://zhidao.baidu.com/question/2267596564779982908.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/346235589.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/109516515.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/79971597.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126684350.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程 求和(从m到n的和)
+none
+fail
+0
+<pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br /><br />void&nbsp;main(void)<br />{<br />	int&nbsp;n,m,i,sum=0;<br />	printf(&quot;输入n和m的值：&quot;);<br />	scanf(&quot;%d&nbsp;%d&quot;,&amp;n,&amp;m);<br /><br />	for(i=n;i&lt;=m;i++)<br />	{<br />		sum&nbsp;=&nbsp;sum&nbsp;+&nbsp;i;<br />	}<br /><br />	printf(&quot;sum=%d\n&quot;,sum);<br /><br />	return;<br />}</pre>
+http://zhidao.baidu.com/question/430745458.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/149449053.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/474901422.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/554059810.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/30787565.html?qbl=relate_question_4

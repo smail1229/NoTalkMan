@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+volume和sup area在C语言里是什么意思？
+例如flaot volume(flaot r)<br />flaot  sup_area(flaot r)
+大多用一些有意义的单词或其简写命名，没有特别的含义。<br />函数名称是随便你自己取的，一般为了方便编程float  volume(float r)<br />float  sup_area(float r) <br /><br />中的volume和sup_area都是函数名称
+2
+none
+fail

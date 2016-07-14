@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+设计C语言程序，输出值为33~127的ASCII码码值，字符对照表
+none
+%c value;stdio;).h&gt; <br />main() <br />{ <br />char c；main默认是int型; <br />for(c=33; <br />printf(&quot，没必要加个int吧：&#92，c);n&quot; c++) <br />{ <br />printf(&quot;n&quot;);; <br />} <br />}<br /><br />鄙视为了点分瞎回答别人问题的；题中的赋值没有负数;=127;干嘛？循环条件写的也很垃圾……没必要用16进制 <br /><br />#include &lt，c; <br />n++; <br />if(n%5==0) <br />printf(&quot:%d&quot.h&gt; <br />int n=0，又没有用到动态分配空间;ASCII table;symble;&#92，没必要把c定义成unsigned吧;stdlib楼上用&lt; c&lt
+39
+none
+http://zhidao.baidu.com/question/62591037.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1796471417024483347.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/42274941.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/257773273.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/518615324362492605.html?qbl=relate_question_4

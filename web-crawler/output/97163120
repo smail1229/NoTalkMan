@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用函数编写一个C语言程序
+<br />1.输入每个学生每门功课的成绩<br />2设有5名学生6门功课，要求编写程序完成以下功能.求出每个学生6门功课成绩中最高成绩<br />3.求出每个学生的平均成绩<br />4
+,a[i][j]);6;<br />    a[i][k]=a[i][j];5;6;5;max)<br />    max=a[i][j];5;5;<br /> }<br />}<br /><br />void avg(int a[][])<br />{<br /> for(i=0;<br /> }<br />}<br /><br />void sort(int a[][])<br />{<br /> for(i=0;6;i++)<br /> {<br />  max=a[i][0];j&lt;j++)<br />   for(k=j+1;6;i++)<br />  for(j=0;j++)<br />   scanf(&quot;j++)<br />   sum+=a[i][j];j&lt;6;i&lt;a[i][k])<br />   {<br />    temp=a[i][k];i&lt;j&lt;<br />    a[i][j]=temp;<br />  a[i][6]=max;j&lt;6;%d&quot;<br />}<br /><br />void max(int a[][])<br />{<br /> for(i=0;j++)<br />   if(a[i][j]&gt;k&lt;<br />  a[i][7]=sum/i++)<br />  for(j=0;i&lt;i++)<br /> {<br />  sum=0;i&lt;<br />  for(j=0;k++)<br />   if(a[i][j]&gtvoid set(int a[][])<br />{<br /> for(i=0;<br />  for(j=0
+0
+none
+http://zhidao.baidu.com/question/116357104.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/303942751028557764.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/552701811.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/256700156.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/518881233928443645.html?qbl=relate_question_4

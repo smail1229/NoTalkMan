@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言与运算一道简单题
+=1,表达式a=0&&b=7运算后,b=1,b的值为多少？<br />请说明如何求出的谢谢！，变量a
+但是，也就是说&&的前面为假,b=1<br />a=0是个赋值表达式a=0，因此b的值不改变，因此在此a的值改变，所以不再继续进行&&后面的赋值，对于a=0&&b=7这个表达式来说，因为a的值为0，也就是说b=7的赋值表达式不起作用
+3
+none
+http://zhidao.baidu.com/question/1702189142472428100.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1494669223088691779.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195236254.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123561662.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/157900835.html?qbl=relate_question_4

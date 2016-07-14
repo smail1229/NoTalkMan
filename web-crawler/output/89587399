@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 定义char
+none
+fail
+1
+(ii),(iv)是对的<br />(i)和(iii)是错的<br />(i)char string1只能保存单个字符，不能保存这个&quot;Hello&quot;的首地址<br />(iii)字符串定义的大小少了一个，这个字符串末尾的&#39;&#92;0&#39;没有地方存放,没有显示的字符串结束标志，运行的时候会出现问题
+http://zhidao.baidu.com/question/872267862904840692.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/315251849.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1446998397654579460.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1604717253423628307.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/680039710687588772.html?qbl=relate_question_4

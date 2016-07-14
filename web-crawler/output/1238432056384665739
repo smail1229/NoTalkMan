@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 运行程序 问题
+a[i]=a[i+1];&#92在运行一下程序后;a[i+1]){                m=a[i];i++)scanf(&quot,a[i])：#includevoid main(){int a[10];     }for(i=1;    printf(&quot,i;int j;j++)for(i=1;=10;a[i+1]=m;for(i=1;j&lt;,&a[i]);for(j=1;i++)if(a[i]&gt;=10;i&lt;&#92;n&quot,m;%d&quot;););printf(&quot;=10;=10;i&lt;i++)printf(&quot;%d &quot;;n&quot;i&lt
+循环中i的值从1到10，那么a[10]就是下标越界了。最大是a[9]
+0
+none
+http://zhidao.baidu.com/question/260858812.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/424471729096385292.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/552084158249582252.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1429910576417413019.html?qbl=relate_question_3

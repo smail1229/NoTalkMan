@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+[C语言]关于定义指针的基础问题，感谢！
+整型变量，整形指针变量, q ;<br /><br />表示的分别是整型指针变量, * h int * p 。 对吗
+对的，可以这样写<br />不过为了代码的易读性和维护性建议指针变量单独写。
+3
+none
+http://zhidao.baidu.com/question/54046046.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/186344428.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/646781254439000285.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/573713574.html?qbl=relate_question_3

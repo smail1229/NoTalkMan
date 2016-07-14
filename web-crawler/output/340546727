@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+决定C语言中函数返回值类型的是【 】
+A)	 return语句中表达式的类型<br />B)	 调用该函数的主调函数的类型<br />C)	 调用函数临时指定的类型<br />D)	 定义函数时在函数首部所指定的类型
+选D   return的类型是由D选项来决定的，不能选A
+10
+none
+http://zhidao.baidu.com/question/8291158.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/425686049.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/176132142.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/524834241.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/140334406.html?qbl=relate_question_4

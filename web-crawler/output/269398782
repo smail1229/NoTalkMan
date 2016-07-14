@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 fun 函数是怎么用的 ？
+none
+fail
+fail
+如果在程序中定义正确，直接在主程序中调用，比如：<br />例1：<br />#include&lt;stdio.h&gt;<br /><br />void fun();<br /><br />void main()<br />{<br />  fun();<br />}<br />void fun()<br />{<br /><br />}<br /><br />例2：<br />#include&lt;stdio.h&gt;<br /><br />void fun()<br />{<br /><br />}<br /><br />void main()<br />{<br /> fun();<br />}
+http://zhidao.baidu.com/question/468190561.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/255562810.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/415168699.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/118061448.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/73704332.html?qbl=relate_question_4

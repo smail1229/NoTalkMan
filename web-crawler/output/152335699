@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 char name[10] &quot;[]&quot;代表什么意思？
+none
+fail
+0
+数组。。int a[10]   定义整型数组a[10]里面有10个整型数字元素。。<br />        char name[10]  定义字符数组name[10]里面有10个字符元素。<br /><br />有关内容请查阅谭浩强 C语言程序设计 数组一章
+http://zhidao.baidu.com/question/177971175.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/77125868.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/497294356660864804.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/416286100.html?qbl=relate_question_4

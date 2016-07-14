@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设a=3，b=4，c=5，d=6，则表达式： b＜a？a：c＜d？a：d的结果为
+C语言     设a=3，b=4，c=5，d=6，订担斥杆俪访筹诗船涧则表达式：  b＜a？a：c＜d？a：d的结果为（） 谢谢。。。
+b&lt;a  为假 那么执行 c&lt;d?a:d<br />c&lt;d 为真  那么输出a     就是输出3<br /><br /订担斥杆俪访筹诗船涧>你先要搞清楚逗号运算符
+4
+none
+http://zhidao.baidu.com/question/211335793.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206143618.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/522145788.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/540974184.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/364091828.html?qbl=relate_question_4

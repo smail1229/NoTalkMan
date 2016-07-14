@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言while语句的相关问题
+!x)中的条件表达式为什么与“x==0”等价。请详细讲解一下！，表感谢while(
+则！x与x==0等价<br />若x=0，则在!x为0，x==0表达式也是假的<br />所以!x为真，x==0也为真<br />若x不为0
+2
+none
+http://zhidao.baidu.com/question/121417969.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/103876480.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52993652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/62771447.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/522394320.html?qbl=relate_question_4

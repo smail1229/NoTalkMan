@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言程序设计基础
+<br /><br />5.下述源程序的书写格式不正确的是（）<br />A？<br /><br />4.函数组成<br />C.用回车符换行<br />D.C语言的程序一行写不下时.用逗号换行<br />C，同样书上没有答案，其后必须加分号<br />答案是C还是D.可以任意<br />D.以下不正确的概念是（）<br />A.若干过程组成<br />D.用分号换行<br />答案为A。<br /><br />3.必须在最开始<br />B，C为什么不对.在C程序中.必须在最后<br />我觉得应该是B：在一个源程序中.一个C程序必须包含一个main函数<br />C.C语言规定.函数的首部，应该和A的意思一样啊，可以只包括一条语句<br />D？<br /><br />2.在任意空格处换行<br />B.分号是语句的一部分<br />D.C程序的每行上可写多条语句<br />应该选哪项.一行上可以写几条语句<br />C，不知对不对？觉得哪项都对啊.一个C程序由一个或多个函数组成<br />B，main函数的位置（）<br />A.必须在系统调用的库函数的后面<br />C：<br />循环结构分（）和（）两种.若干子程序组成<br />答案是B么.一个C语言程序是由（）<br />A.一个主程序和若干个子程序组成<br />B？<br /><br />以下是填空题1.一条语句可以写在几行上<br />B，可以（）<br />A
+<br />第五道题 B; 调用的函数只要被申明了就OK了第一道题 A。<br />第二道题 C. 这是常识； 理由变量名关键字等不能用回车键换行拆开;  理由排除法。<br />第三道题 D<br />第四道题 C
+5
+none
+http://zhidao.baidu.com/question/488645845.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/616451716699491892.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/130131715.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130272430.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/575813547.html?qbl=relate_question_4

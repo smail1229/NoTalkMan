@@ -1,0 +1,7 @@
+电脑/网络 编程语言 其他编程语言 
+那为帮我看看这个C语言程序是干什么的？要快  谢谢了
+main()<br />{<br />    int n;<br />    printf(&憨锭封瓜莩盖凤睡脯精quot;input number&#92;n&quot;);<br />    scanf(&quot;%d&quot;,&n);<br />    s(n);<br />    printf(&quot;n=%d&#92;n&quot;,n);<br />}<br />int s(int n)<br />{<br />    int i;<br />    for(i=n-1;i&gt;=1;i--)<br />      n=n+i;<br />    printf(&quot;n=%d&#92;n&quot;,n);<br />}<br />是干啥的啊
+函数s()的作用是计算1+...n，即等差数列的和，计算完后再打印在屏幕上，而在main()中打印了一次n，是为了表明执行完s()后，n的值并不会发生变化，即函数s()对传入的n憨锭封瓜莩盖凤睡脯精为传值调用。<br />另外，函数s()的返回值类型为int，LZ没有return一个int值啊。
+0
+none
+fail

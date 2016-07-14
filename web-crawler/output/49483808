@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里怎么在数组里定义汉字变量 和指针指向汉字数组？
+none
+成功&quot可以用unicode。Unicode字符有时也被称作宽字符.h&gt，因为它比单子节字符宽（使用了更多的存储空间）;}。<br /><br />#include &lt。Unicode 字符串使用两个字节表示的0作为它的结束标志。注意，Unicode不能被看作MBCS。MBCS的独特之处在于它的字符使用不同长度的字节编码;<br /><br />Unicode是一种所有的字符都使用两个字节编码的编码模式;<br />tc = table[0];<br />wchar_t tc;<br /><br />wchar_t *table = {L&quot;string
+2
+1、在C语言中，可以通过将汉字作为字符串输入。<br />由于一个汉字占2个字节，所以对汉字的操作，只能以2个字节作为操作单位。<br />2、下面通过具体实例来说明汉字在C语言中的使用：<br />char s[] = &quot;首都北京&quot;;      &#47;&#47; 将汉字字符赋值给字符数组<br />char s2[20];                &#47;&#47; 定义字符数组，存放用户输入的汉字<br />scanf(&quot;%s&quot;, s2);            &#47;&#47; 接收用户输入的汉字字符<br />printf(&quot;%d&#92;n&quot;, sizeof(s));  &#47;&#47; 计算字符数组s所占的内存单元，输出9（最后一个字节是结束字符&#39;&#92;0&#39;）<br />printf(&quot;%s&#92;n&quot;, &s[2]);      &#47;&#47; 输出“都北京”（首字占2个字节）<br />printf(&quot;%s&#92;n&quot;, s2);         &#47;&#47; 输出用户输入的汉字
+http://zhidao.baidu.com/question/128664534.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/246785373.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/359213632.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/134886597391263885.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/248627500.html?qbl=relate_question_4

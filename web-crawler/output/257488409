@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 static 作用范围是什么呢?
+none
+fail
+4
+在C语言中，static的字面意思很容易把我们导入歧途，其实它的作用有三条。<br />（1）第一个作用：隐藏。<br />当我们同时编译多个文件时，所有未加static前缀的全局变量和函数都具有全局可见性。为理解这句话，我举例来说明。我们要同时编译两个源文件，一个是a.c，另一个是main.c。<br />下面是a.c的内容<br />#include&lt;cstdio&gt;增加这条语句<br />char a = ‘A‘; &#47;&#47; global variable<br />void msg() <br />{<br />     printf(&quot;Hello&#92;n&quot;); <br />}<br />你可能会问：为什么在a.c中定义的全局变量a和函数msg能在main.c中使用？前面说过，所有未加static前缀的全局变量和函数都具有全局可见性，其它的源文件也能访问。此例中，a是全局变量，msg是函数，并且都没有加static前缀，因此对于另外的源文件main.c是可见的。<br />如果加了static，就会对其它源文件隐藏。例如在a和msg的定义前加上static，main.c就看不到它们了。利用这一特性可以在不同的文件中定义同名函数和同名变量，而不必担心命名冲突。Static可以用作函数和变量的前缀，对于函数来讲，static的作用仅限于隐藏，而对于变量，static还有下面两个作用。<br />（2）static的第二个作用是保持变量内容的持久。存储在静态数据区的变量会在程序刚开始运行时就完成初始化，也是唯一的一次初始化。共有两种变量存储在静态存储区：全局变量和static变量，只不过和全局变量比起来，static可以控制变量的可见范围，说到底static还是用来隐藏的。<br />（3）static的第三个作用是默认初始化为0。其实全局变量也具备这一属性，因为全局变量也存储在静态数据区。在静态数据区，内存中所有的字节默认值都是0x00，某些时候这一特点可以减少程序员的工作量。<br />最后对static的三条作用做一句话总结。首先static的最主要功能是隐藏，其次因为static变量存放在静态存储区，所以它具备持久性和默认值0。<br />下面是main.c的内容<br />除了头文件，需要声明函数：void msg();<br />int main(void)<br />{    <br />    extern char a;    &#47;&#47; extern variable must be declared before use<br />     printf(&quot;%c &quot;, a);<br />     (void)msg();<br />    return 0;<br />}
+http://zhidao.baidu.com/question/174342702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/334499375.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261702466.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/245356234.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/237961868.html?qbl=relate_question_4

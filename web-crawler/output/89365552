@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，设int a=3,执行a+=a-=a*a后，a的值为（  ）
+-12<br />请详细解释.0   CA. 3     B.9     D，谢谢
+12<br />计算步骤；<br /><br />2，此时a的值已经是-6了 <br />所以  a += -6 . a += (a -=a*a) 等价于  a += -6 ;<br />   注意：<br />1.根据操作符优先级先算  a*a =9<br />则  a -= 9  等价于 a = a-9 所以此操作结束后 a的值为-6
+4
+none
+http://zhidao.baidu.com/question/454522128835733925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91698087.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/623366795186797044.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/541979942.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2052013847939904267.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里面int* a,int* b是什么意思？
+none
+<br />结果为 10定义指针变量;<br />printf(&quot，变量指向整型数据的地址<br />例如;%d&quot;<br />int b=10;<br />a=&b：<br />int * a;,* a)
+0
+当int* a和int* b后面都有分号时，int* a;是声明或说明指向int型变量的指针a，int* b;是声明或说明指向int型变量的指针b。题面中二者后面都没有分号，应该说都是错误语句。行话这样表述：int* a;是声明int*型指针a，int* b;是声明int*型指针b。当然要明白，指针的类型是指它指向的目标的类型。
+http://zhidao.baidu.com/question/503700887.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/558737586.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/555994470.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/233962943.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1957727238052751860.html?qbl=relate_question_4

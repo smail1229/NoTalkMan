@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，*p+=1的计算优先顺序
+none
+即*p += 1的功能等同于++(*p)或(*p)++，也就是说，增加的是p指向的内容，而不是改变指针的指向*运算符的优先级高于符合运算符+=
+2
+<p>　　这是复合赋值表达式。等同于：</p><pre t="code" l="cpp">*p&nbsp;=&nbsp;*p&nbsp;+&nbsp;1;&nbsp;//指针p所指向的内容加1后保存到指针p所指向的地址中。</pre><p>　　所以，优先顺序是先算*，在这里*运算符并不是乘法运算符，而是指的间接引用运算符，然后再算+运算符。</p>
+http://zhidao.baidu.com/question/234740454.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/187280309.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/549425716.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1509674075209841060.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/587797308.html?qbl=relate_question_4

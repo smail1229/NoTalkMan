@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有关c语言中静态变量的题目，求解题全过程和答案
+c++,%d,fun(a);:<br />return (a+b+c)<br />}<br />void main()<br />{<br />int a=2,c=3<br />printf(&quot,fun(c);%d,%&quotfun(int a)<br />{<br />int b=4<br />static int c<br />b++
+出为12,10，静态变量c=2；fun(2)返回值为2+5+3=10,16，因此fun(fun(c))最先执行，fun(9)返回值为9+5+2=16，静态变量c=4，静态变量c=3。fun(fun(3))先求里面的fun(3)，fun(c)最后执行。C语言的压栈顺序是从右到左,返回值为3+5+1=9，此时静态变量c=1；fun(3)返回值为3+5+4=12。 <br />楼上的把C语言的压栈顺序搞反了吧
+0
+none
+http://zhidao.baidu.com/question/567690846.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/191543821.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1754147300508807148.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/374759359.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/151615021.html?qbl=relate_question_4

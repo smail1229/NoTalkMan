@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言规定，调用一个函数时，实参变量和形参变量之间的数据传递方式是什么
+none
+只能把实参数值传给形参 函数只有两种传递方式，通过指针，又称单向传递。址传递，把实参的地址给形参，形参最后的结果不影响实参（形参改变大小 。值传递：1，实参大小不变）<br />                      2
+53
+none
+http://zhidao.baidu.com/question/132702900.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169733511.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/328370643570694925.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/358209131.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/937378246882537452.html?qbl=relate_question_4

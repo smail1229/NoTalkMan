@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 苏小红 课后习题 union { int x; struct { char c1; char c2; }b; }a; 执行语句“a.x=0x1234”之后
+c2  的值.b.b.c1        a求 a。<br />求详细解释
+int x 是4个字节下面的结构体也是四个字节，根据联合体存储数据是相同地址，就得出你说的情况，
+3
+none
+http://zhidao.baidu.com/question/410640581.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/222734770.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/345057435.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/167027588.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/349385638.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言continue问题
+b=2,b=1!&gt;<br />           }<br />      printf(&quot,continue, b=4,b%3=1;20!&gt;%d;=100,b=22,b=1,continue,b,而不会执行b=5，回到a++开始下一轮循环;20)    break,然后因为continue;20，当if(b%3==1)为真时;a++)<br />       {<br />              if(b&gt,b)，执行b+=3;<br />    getch(),a;<br />那岂不是永远不会执行b=5了,%d&quot,<br />                                        b=13,<br />a=3;<br />              if(b%3==1)<br />                      {b+=3, b=7;<br />for(a=1,b;;<br />}<br /><br />我这样认为的,break,printf <br /><br />是这样分析得吗,continue,<br />                                        b=19, b=10,b=7,b;20;<br />a=2?<br /><br />a=1;continue,b,b&gt,<br />                                        b=16,b%3=1;a&lt;<br />a=8!&gt;<br />                                        b=22;20,continue;}<br />               b=5main()<br />{<br />int a,b%3=1
+因为你每次都满足b%3==1啊，continue就是忽略此次循环后面的代码继续下次循环
+0
+none
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/518477712389843645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1831345014400440540.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1540047991934414387.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/470123985.html?qbl=relate_question_4

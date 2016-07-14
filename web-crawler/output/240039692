@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言：将一个数组中的值按逆序重新存放
+none
+#include&lt;stdio.h&gt;<br />main()<br />{<br />    int a[5], i, temp;          /*定义数组及变量为基本整型*/<br />    printf(&quot;please input array a:&#92;n&quot;);<br />    for (i = 0; i &lt; 5; i++)        /*逐个输入数组元素*/<br />        scanf(&quot;%d&quot;, &a[i]);<br />    printf(&quot;array a:&#92;n&quot;);<br />    for (i = 0; i &lt; 5; i++)        /*将数组中的元素逐个输出*/<br />        printf(&quot;%d &quot;, a[i]);<br />    printf(&quot;&#92;n&quo旦供测佳爻簧诧伪超镰t;);<br />    for (i = 0; i &lt; 2; i++)        /*将数组中元素的前后位置互换*/<br />    {<br />        temp = a[i];          /*元素位置互换的过程借助中间变量temp*/<br />        a[i] = a[4-i];<br />        a[4-i] = temp;<br />    }<br />    printf(&quot;Now array a:&#92;n&quot;);<br />    for (i = 0; i &lt; 5; i++)        /*将转换后的数组再次输出*/<br />        printf(&quot;%d &quot;, a[i]);<br />}
+187
+none
+http://zhidao.baidu.com/question/103053356.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/208481961.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161965463.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424770030794822212.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/8094934.html?qbl=relate_question_4

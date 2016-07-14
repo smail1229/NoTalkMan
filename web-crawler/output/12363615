@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言字符串转实数 函数 是什么
+none
+atof() asc to float (double in some implementations)<br />atoi() asc to integer<br />atol() asc to long
+2
+思路：利用整数的的字符串之间的差值是整数来实现单个字符化为整数。然后乘以相应的权值求和。<br />#include &lt;stdio.h&gt;<br />int convert(const char *str)<br />{<br /> int v = 0;<br /> do {<br />  v = 10*v+*str-&#39;0&#39;;<br />  str++;<br /> } while((*str&gt;=&#39;0&#39;)&&(*str&lt;=&#39;9&#39;));<br /> return v;<br />}<br />int main()<br />{<br /> int x;<br /> char a[]=&quot;1254&quot;;<br /> x=convert(a);<br /> printf(&quot;%d&quot;,x);<br /> return 0;<br />}
+http://zhidao.baidu.com/question/92252382.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97937968.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161208144.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/319017447.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/326451230.html?qbl=relate_question_4

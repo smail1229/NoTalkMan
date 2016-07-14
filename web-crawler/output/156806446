@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+用指针完成c语言程序
+入10个整数，并输出对换后的10个数，把最大的数与最后一个数对换，将其中最小的数与第一个数对换
+<br />        int *p;i&lt;<br />        k=0;<br />void minToFirst()<br />{<br />        int k;i++)<br />        {<br />                printf(&quot;<br />                k=i;10;<br />        }<br />        p = num;i&lt;10;i&lt,min;i&lt;i++)<br />        {<br />        scanf(&quot;i++)<br />        {<br />                if(min&gt;,i;%d&quot;<br />        for (i=0;<br />        for (i=0;<br />        int *p;<br />                }<br /><br />        }<br />        *(p+k)=*p,i:&#92;);<br />        *(p+9)=max:&#92;10;n&quot,*p++);<br />        int *p,max;<br />        printf(&quot;<br />        maxToLast();<br />        max=*p;<br />}<br /><br />void maxToLast()<br />{<br />        int k;<br />        minToFirst();<br />        for (i=0;<br />}<br />main()<br />{<br />        int i,&num[i]);<br />        printf(&quot;<br />        p = num;<br />        for (i=0;10;);<br />        min=*p;n&quot;<br />                }<br /><br />        }<br />        *(p+k)=*(p+9);please input 10 NUMint num[10];<br />        *p=min;output;<br />        }<br />        getch();<br />        k=0;;i++)<br />        {<br />                if(max&lt;%d &quot;<br />                k=i;*(p+i))<br />                {<br />                max = *(p+i);*(p+i))<br />                {<br />                min=*(p+i)
+2
+none
+http://zhidao.baidu.com/question/156805172.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/134391950.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126512712.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95248395.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+解释两个C语言程序
+main()<br />{<br />  int 1;<br />  for(i=1;i&lt;=5;i++)<br />  {<br />     if(i%3) printf(&quot;*&quot;);<br />     else continue;<br />     printf(&quot;#&quot;);<br />  }<br />  printf(&quot;$&#92;n&quot;);<br />}<br />有以下程序：<br />#include &lt;stdio.h&gt;<br />{<br />  int c;<br />  while((c=getchar())!=&#39;&#92;n&#39;)<br />  {<br />     switch(c-&#39;2&#39;)<br />     {<br />        case 0憨籂封饺莩祭凤熄脯陇:<br />        case 1: putchar(c+4);<br />        case 2: putchar(c+4);break;<br />        case 3: putchar(c+3);<br />        case 4: putchar（c+2）;break;<br />     }<br />}<br />帮忙解释一下程序运行时的算法与过程，谢谢了!
+main()<br />{<br />  int 1; // 这是肯定是 int i<br />  for(i=1;i&lt;=5;i++)<br />  {<br />     if(i%3) printf(&quot;*&quot;); // 如果i%3 != 0 打印*<br />     else continue; /&#4憨籂封饺莩祭凤熄脯陇7; 如果i%3 == 0 跳过后面<br />     printf(&quot;#&quot;); // 如果i%3 != 0 打印#<br />  }<br />  printf(&quot;$&#92;n&quot;);<br />}<br /><br />i = 1,2,4,5打印 *#*#*#*#$&#92;n<br />i = 3不打印*#<br />这个程序就是看i 是不是3的倍数<br /><br />有以下程序：<br />#include &lt;stdio.h&gt;<br />{<br />  int c;<br />  while((c=getchar())!=&#39;&#92;n&#39;)<br />  {<br />     switch(c-&#39;2&#39;) // c - &#39;2&#39; 之后为0,1,2,3,4，也就是c为 &#39;2&#39;,&#39;3&#39;,&#39;4&#39;,&#39;5&#39;,&#39;6&#39;<br />     {<br />        case 0:<br />        case 1: putchar(c+4);<br />        case 2: putchar(c+4);break;<br />        case 3: putchar(c+3);<br />        case 4: putchar（c+2）;break;<br />     }<br />}<br />c = &#39;2&#39;时 从 case 0: 接 case 1: 接 case 2: 打印 66<br />c = &#39;3&#39;时 从 case 1: 接 case 2: 打印 77<br />c = &#39;4&#39;时 case 2: 打印 8<br />c = &#39;5&#39;时 从 case 3: 接 case 4: 打印 87<br />c = &#39;6&#39;时 case 4: 打印 8<br /><br />没有break，就继续下一个case
+0
+none
+http://zhidao.baidu.com/question/488137911373607012.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/149451274.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/98826510.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_4

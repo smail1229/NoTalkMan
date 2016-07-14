@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言逻辑表达式问题
+请问这个算法是先算那个再算那个的？要详细的，一步一步解答：a||b+c<br />&&b-c
+则仍需计算后面的表达式，所以计算顺序是，再计算b-c. 先算a: +，整个表达式直接为1<br />2，则后面的表达式不用算了.b+c不为0：<br />1，整个表达式直接为0<br />4; ||<br />结合律，则后面的b-c不用计算了,- &gt优先级; && &gt. 如果b+c为0. a为0，先计算b+c<br />3:都是左结合<br />所以a||b+c&&b-c等价于a || ( (b+c) && (b-c) )<br />由于||和&&具有短路求值的特点，如果a非0
+15
+none
+http://zhidao.baidu.com/question/126210706.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/460783457.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/409088343.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/164574225.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/135917099.html?qbl=relate_question_4

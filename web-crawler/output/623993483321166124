@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，给程序注释，10行
+<br />int &f(int &i)<br />{<br />	i+=10;k&lt;iostream;&lt;&lt;&lt;<br />	cout&lt;<br />	cout&lt.h&gt;<br />	int &m=f(k);<br />	return i;<br />	m=20;endl;<br />}<br />void main()<br />{<br />	int k=0;k&lt#include&lt;&lt;endl
+&lt;iostream;//输出10<br />	m=20;endl;/<br />	return i;///定义一个函数 参数类型是引用类型 返回类型也是引用类型;&lt.h&gt;&#47,所以参数和返回的实际都是引用的同一个变量<br />{<br />	i+=10;k&lt;输入输出流头文件<br />int &f(int &i)/&lt,所以这里修改k 的值为20<br />	cout&lt;&lt;因为m是对k的引用, m是对k 的引用<br />	cout&lt;/k的值增加10;<br />}<br />void main()<br />{<br />	int k=0;/endl;<br />	int &m=f(k);k&lt#include&lt;/&#47
+1
+none
+http://zhidao.baidu.com/question/158361233.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/560316171.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/196568591.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/190966059.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1829724690669106860.html?qbl=relate_question_4

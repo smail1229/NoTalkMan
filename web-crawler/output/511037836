@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c=(a&lt;&lt;2)^b在c语言中表示什么意思
+none
+看字面意思、其实是：<br />      m=m&lt1;2 (m的二进制向左移动2位)<br />      c = m^b  (m与b异或)<br /><br />2：c的值是a的值乘以2的2次方之后所得的值与b异或所得的值;&lt
+3
+none
+http://zhidao.baidu.com/question/197326163.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/130754638.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535688705.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/215215332.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1637725805319996980.html?qbl=relate_question_4

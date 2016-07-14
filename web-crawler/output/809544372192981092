@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言怎么输入不确定个数的double型数据？
+<br />	for(i=0,downum[N];stdlib;<br />#include&lt;;enter 10 以下是部分编码;&#47;);stdio;n&quot.h&gt;%f&quot,&upnum[i]););;<br />	printf(&quot;这里的N我想由输入的数据个数决定应该怎么写？<br />	printf(&quot;&#47,upnum[N]; <br />#include&lt.h&gt;math,pnum[N];n&quot;N;<br />#define N 10<br />void main()<br />{<br />    int i.h&gt:&#92:&#92;<br />	double u,k=0;i++)<br />		scanf(&quot;i&lt：<br /><br />#include&lt
+<br />pnum=(double *)malloc(10*sizeof(double));<br />printf(&quot;enter %d ;;):&#92:&#92;N;n&quot用mallco函数,N);%f&quot;%f&quot;,&N);n&quot;;<br />for(i=0;<br />printf(&quot;<br />scanf(&quot;i++)<br />   scanf(&quot;,&pnum[i])，如下<br />int N = 0;<br />double *pnum;i&lt
+1
+none
+http://zhidao.baidu.com/question/7338875.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/235629263.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/299406588.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40721910.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/310808352.html?qbl=relate_question_4

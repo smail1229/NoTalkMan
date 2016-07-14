@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我用C语言编程实现sinx=x-x^3&#47;3!+x^5&#47;5!……结果只有输入1和2时正确，输入3及3以后就有错了，请指点一下…
+#include &lt;stdio.h&gt;<br />#include &lt;m旦订测寡爻干诧吮超经ath.h&gt;<br />void main()<br />{<br />    double x,sinx;<br /> int i=0,j=1;<br /> long p=1;<br /> printf(&quot;In sinx,x=&quot;);<br /> scanf(&quot;%lf&quot;,&x);<br /> while(pow(x,j)&#47;p&gt;=1e-5)<br /> {<br />  i++;<br />  if(i==1)<br />   sinx=(pow(x,j))&#47;p;<br />  else if(i%2==0)<br />   sinx=sinx-(pow(x,j))&#47;p;<br />  else<br />   sinx=sinx+(pow(x,j))&#47;p;<br />  p=p*(j+1)*(j+2);<br />  j=j+2;<br />  <br /> }<br /> printf(&quot;sinx=%7.5f&#92;n&quot;,sinx);<br /> printf(&quot;%7.5f&#92;n&quot;,sin(x));<br />}
+把long p=1;改为double p=1.0;即可。
+3
+none
+http://zhidao.baidu.com/question/17960638.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5580694.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245493348.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/428082358.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134451639710725725.html?qbl=relate_question_4

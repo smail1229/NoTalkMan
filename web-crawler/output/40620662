@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中%x是哪种数据类型？
+如题
+<br /><br />例如：int a=16。<br /><br />把整型值按16进制整型输出;;%x&quot,a)，不带前导0x这是用在标准输出和输入函数里的格式控制符;执行后输出10; printf(&quot
+2
+none
+http://zhidao.baidu.com/question/54290424.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/34261611.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57487991.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49520382.html?qbl=relate_question_3

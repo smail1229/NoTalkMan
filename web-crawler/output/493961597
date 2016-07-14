@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里，什么时候用数组什么时候用指针和动态内存(malloc&#47;calloc)?
+比如 <br />int arr[100];<br />和<br /> int* pArr;<br />pArr = (int*)malloc(100*sizeof(int));<br />free(pArr);<b憨浮封簧莩毫凤桐脯昆r />似乎都能解决问题。但我做了一个简单测试，好像动态内存要快20％左右，而且数组的大小好像有个上限，是不是在实际操作中就可以通用动态内存而舍弃数组了呢？
+堆上分配内存通常比栈慢。<br />而且堆内存要记得释放不然会造成内存泄漏。<br />堆内存没有什么限制，现在用的都是虚拟内存。<br />数组长度确定且主要用于查询时憨浮封簧莩毫凤桐脯昆最好在栈上分配。
+0
+none
+http://zhidao.baidu.com/question/461603807.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/11820623.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/131437255.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/348089504.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/207240089.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题 int a=3，求a++*a 要解释过程！
+none
+a++*a<br />值为9<br />++运算符比 *(乘号)优先级高<br />相当于(a++)*a<br />a++的值为 3(你不要误以为下一个a的值会变为4, 一般情况下有后++的, 当这条语句完成后其值才会改变, 更编译器有一定关系)<br />故结果为9
+2
+none
+http://zhidao.baidu.com/question/517923743.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/454522128835733925.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/39385925.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2010637354760982148.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/214442913.html?qbl=relate_question_4

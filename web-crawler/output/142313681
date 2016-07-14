@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 if语句条件的嵌套？？？
+K2) &#47; &#47。，我仿真试过！!K2.h&quot.5位置高电平*&#47;<br /><br />}<br />}<br /><br />谁能告诉我 else if(！。   知道的解释下！<br /><br />急;*同时按下;<br />sbit K1=P3^2;*判断K1与K2是否同时按下*&#47;<br />  if(;*断开 K1*&#47！<br /><br />这个程序;<br />sbit K2=P3^3;<br />   P1=0;<br />void main()<br />{ <br /> for(.2~P3！;*灯全灭*&#47？解释下是什么意思。;<br />  <br />  else if(;;)<br /> { <br />  P3|=0x3c。。,K1)   if有这种格式吗。谢谢;*将P3!K1&，灯就全亮*&#47;  &#47！,K1)&#47，满足要求运行。;<br />   P1=0xff;  &#47!K2！。#include &quot;reg51
+就是逗号表达式<br /><br />定义如下，如。a=3*5，优先级别最低：3+5，如：<br />逗号表达式<br /><br />c语言提供一种特殊的运算符，它将两式联接起来，逗号运算符，6＋8的值是14：3＋5,6+8称为逗号表达式，其求解过程先表达示1，整个表达示值是表达示2的值，后表达示2有
+5
+none
+http://zhidao.baidu.com/question/340545982.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/515341558.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/39012062.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/175398318519220364.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/14148481.html?qbl=relate_question_4

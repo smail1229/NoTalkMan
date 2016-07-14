@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言矩阵计算.急!
+C语言编写一个2乘2矩阵计算的程序.输入两个2x2的矩阵,然后问使用者想要执行加(+),减(-)还是乘(*)来计算矩阵
+n&quot,c);) multiplication(a; <br />if(p==&#39;<br />p=getchar(),b;i++) <br />{for(j=0;没有注册这个运算符号&quot;i&lt;i++) <br />{for(j=0;2; <br />for(i=0; <br />puts(&quot,c[i][j]); }<br />printf(&quot,b;了;) add(a,&a[i][j]):&#92;;j&lt;j++) <br />scanf(&quot;*&#39;%d&#92;j++) <br />scanf(&quot;2; <br />printf(&quot;-&#39; <br />puts(&quot;+&#39;2,c[2][2]; <br />puts(&quot;2;j++) <br />{c[i][j]=a[i][j]*b[i][j];else <br />if(p==&#39;);2;&#92;i&lt;n&quot;/%d&quot,&b[i][j]);2;i&lt;i++) <br />for(j=0; <br />printf(&quot;input operation;stdio,c);) minus(a;j&lt,&p);2;}<br />} <br />void minus(int a[][2];else <br />if(p==&#39;楼上的回答有问题,b[2][2];%c&quot;,运行的时候不输入运算符就直接打印&quot;,int b[][2];t&quot:&#92; <br />char p;n&quot; <br />for(i=0,c[i][j]).0;input 2*2 array--B;);%d&#92; <br />getchar(););j++) <br />{c[i][j]=a[i][j]-b[i][j];);没有注册这个运算符号&#92,c),b;2;j&lt;; }<br />printf(&quot;<br />printf(&quot;t&quot:<br />#include&lt;input 2*2 array--A;2;);scanf(&quot;%d&quot;n&quot;<br />/%d&#92;&#92.我做了下修改;i++) <br />{for(j=0:&#92,c[i][j]),int b[][2];}<br />} <br />void multiplication(int a[][2];j&lt;,int c[][2]) <br />{ <br />int i,int b[][2],int c[][2]) <br />{ <br />int i;}<br />} <br /><br />main() <br />{ <br />int a[2][2];i++) <br />for(j=0;&#92;2; }<br />printf(&quot; <br />void add(int a[][2];n&quot; <br />for(i=0; <br />}<br /><br />运行结果已经通过VC++6; <br />for(i=0.下面是程序;n&quot,并且运算结果也没有打印出来;j++) <br />{c[i][j]=a[i][j]+b[i][j],j;j&lt,j; <br />for(i=0.h&gt;i&lt;t&quot,j;),并且结果正确;);i&lt,i;else <br />puts(&quot;n&quot,j,int c[][2]) <br />{ <br />int i
+4
+none
+http://zhidao.baidu.com/question/127189028.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/205412648.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/283284687.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/204762106.html?qbl=relate_question_3

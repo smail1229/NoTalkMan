@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 关于return语句
+nt isprime(int a)<br />{int i;2;a&#47;<br />return 1;i++)<br />if(a%i==0) return 0；后就不会再执行return 1;<br />for(i=2;}<br />是不是return 0;i&lt
+是的!return后立即退出本函数
+0
+none
+http://zhidao.baidu.com/question/148901475.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/83782230.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/467360220.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1109633504890603379.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234660526.html?qbl=relate_question_4

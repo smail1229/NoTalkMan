@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，表达式 应表示为 。
+ c – d。<br />（A）	x = a + b &#47; c – d，表达式 应表示为     ; <br />（D）x = (a + b) &#47;<br />（C）	x = (a + b) &#47; (c – d); (c – d);<br />（B）	x = a + b &#47在C语言中
+保证算法运行的顺序，所以会先运行括号里的内容。在C语言中括号的优先级是比除号高的，所以要用括号括起来。<br />因为加减法的优先级没有除法的优先级高，应该选C楼主
+0
+none
+http://zhidao.baidu.com/question/439537866.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/135182882.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/140519338.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/578949622.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/56367563.html?qbl=relate_question_4

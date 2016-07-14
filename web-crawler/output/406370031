@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮忙解释一下下面语句的几个*的含义以及语句的意思，在C语言环境下，谢谢！
+<br />   &#47typedef struct  {<br />   void (*Init)   (void*);&#47;输入<br />   unsigned long Ta,Tb;<br />   void (*SetPwm) (void*)，范围0~1<br />}EVA ，iq格式;   &#47;&#47; CAMP1~3 的比较值 ;<br />   void (*Open)   (void*),Tc;<br />   void (*Close)  (void*)
+都是指针<br />这4句语句的意思也是一样的，都是申明一个函数指针（第一个星号），指向的函数返回void这结果星号的意思都是一样的
+0
+none
+http://zhidao.baidu.com/question/555048666.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/567315253.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/568147340.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/582846601124706285.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/6986838.html?qbl=relate_question_4

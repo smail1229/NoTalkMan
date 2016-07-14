@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言自定义函数中，怎样返回多个数值呢？？好像return不行啊，求高手举例解答
+none
+采用数组呀！<br />如rrturn a[n]:要返回的n个值放在a[n]
+5
+none
+http://zhidao.baidu.com/question/492739065.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53087529.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/9268992.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/147614847.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/34967162.html?qbl=relate_question_4

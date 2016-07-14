@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言宏定义有无参数的区别
+none
+<br /><br />不管带不带参数， 带参数的需要将对应的文本导入到宏定义的定义中去然后再替换; <br />那么在编译之前就会变成<br />k=3+x*3+x+3*3+x  (注意这里原样替换; <br />那么在编译之前就会变成<br />k= 5*5 + 3*5<br /><br />#define M(y) y*y+3*y    &#47。 <br />在处理之前做了文本替换的工作;    /    /*宏调用*/*宏定义*&#47，一定要记住一点; <br />k=M(3+x)，比不带参数多了一步<br />#define M(y) y*y+3*y    &#47，“原样替换”是宏定义的本质你是指带参的和不带参数的;*宏调用*&#47。 <br /><br />如果说区别的话;*宏定义*/ <br />k=M(5)
+0
+none
+http://zhidao.baidu.com/question/1817720578283635068.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/502794531.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/191369670.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2116091350267118307.html?qbl=relate_question_4

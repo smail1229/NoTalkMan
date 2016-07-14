@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编写程序,从键盘输入两个字符分别存放在变量x和y中,要求通过程序交换它们
+none
+你的意思是交换吗？<br />再定义一个变量，z<br />char z;<br />z=x;<br />x=y;<br />y=z;<br />是缉甫光晃叱浩癸彤含廓这个意思吗？
+5
+none
+http://zhidao.baidu.com/question/296656422.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/155437652.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/331706031.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/78502198.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/330279391.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言for语句后面分号(大括号之后）
+<br />		delay(490);0，加不加有什么差别,1)	 ，但求解释？<br />编写单片机程序是有下面两个<br />void main()<br />  {		<br />   temp=0xaa;0;i&gt;<br />	<br />   }  		<br />     }<br />还有一个<br /> void main()<br />  {		<br />   temp=0xaa;<br />   while(1)<br />  {<br /> <br />   for(i=8如题;i&gt,1)	 ;<br />		delay(490);<br />		 <br />		} 	<br />	<br />   }  		<br />     }<br />请别说for语句没用;<br />	 	temp=_crol_(temp;<br />		 <br />		} ;<br />   while(1)<br />  {<br /> <br />   for(i=8;i--) <br />	{<br />	 	P0=temp;<br />	 	temp=_crol_(temp;i--) <br />	{<br />	 	P0=temp
+要是正常的C语言。<br />单片机C的我倒是没写过，for后面的大括号是不可能有分号的。加了就是报错，但是我的朋友是写这个的
+1
+none
+http://zhidao.baidu.com/question/525056186.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/399362452.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/17426971.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/21242763.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/96310354.html?qbl=relate_question_4

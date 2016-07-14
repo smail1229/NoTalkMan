@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一道C语言解答 ！我初学C语言 麻烦讲详细点！
+<br />f=fl，20,%d;<br />printf(&quot,%d&#92,b.h&gt;<br />}<br /><br />上题的答案是10,a,c),int y;;<br />}<br />void main()<br />{int a=10,int y，30    <br />我想知道的是  为什么c=30    如果是因为返回值   那为什么a和b没有返回值  即a=11  b=21,++y;%d,int *sum)<br />{ *sum=x+y;<br />(*f)(a,&c),b,int *sum)#include &lt;<br />++x?    可能说的有错   我是初学    求详细解释  谢谢;stdio,b=20;<br />void (*f)(int x,c=100;<br />void fl(int x;n&quot
+所以在函数中改变x或y。当将执行 *sum=x+y，20）而不是地址：sum指向了c在函数调用时把c的地址传送给了sum，均不对a或b产生任何影响，即；把30送到sum指向的地方去，即送给了c。而a和b向函数传递的是它们的值（10
+0
+none
+http://zhidao.baidu.com/question/102195655.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1637964290168370860.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/249586988.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/186233164.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/917699363719239379.html?qbl=relate_question_4

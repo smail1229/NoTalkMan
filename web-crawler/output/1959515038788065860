@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序编辑：求斐波那契数列的前n项值
+none
+fail
+3
+#include&lt;stdio.h&gt;<br />main(){<br />int i,n,s=1,f[]={0,1,1};<br />printf(&quot;Please input the number of terms:&quot;);<br />scanf(&quot;%d&quot;,&n);<br />if(n==0){s=0;f[2]=0;}<br />for (i=2;i&lt;=n;i++)<br /> { f[2]=f[1]+f[0];f[0]=f[1];f[1]=f[2];<br /> s+=f[1];<br /> }<br /> printf(&quot;f(%i)=%i&#92;n&quot;,n,f[2]);<br /> printf(&quot;Sum(%i)=%i&#92;n&quot;,n,s);<br /> scanf(&quot;%d&quot;);<br />}<br />首先要清楚斐波那契数列的特征，算出第n项，然后前n-1项的和再加上第n项
+http://zhidao.baidu.com/question/73164647.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/525272231.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/238150687.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/538670285.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1238165108280740299.html?qbl=relate_question_4

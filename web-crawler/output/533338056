@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数的递归和调用
+y;<br />if(n==1)||(n==0) return 1;0) printf(“Input data Error!=1时出现fac(1)时return1就将循环停止了啊;<br />}<br />}<br />比如y=fac(5)，得到的是y=5*fac(5-1);<br />scanf(“%d”!&#92;<br />printf(“&#92,&m);<br />printf(“Enter m;（这个地方非常不能理解当n源程序;<br />return t，相当于这个循环就结束了;<br />if(m&lt;n”),y);<br />else<br />{y=fac(m),m;n%d! =%d &#92;n”，函数fac将1递给了main函数,先调用函数fac，那么t（如t=5*4*3*2*fac(1)）怎么办呢，开始运行if(n==1)||(n==0) return 1时，后来又是怎么递给t（也就是y=5*4*3*2*fac(1)）的，脑壳卡起了：<br />fac(int n)<br />{int t,return t就是将5*4*3*2*fac(1)赋给了fac(5)如果是这样的那个啥 递归好难哦   而且我对return也理解不深刻啊╭(╯^╰)╮）<br />else<br />{ t=n*fac(n-1);<br />}<br />}<br />main( )<br />{int m？return将这个函数都结束了的哇,那么当运行到y=5*4*3*2*fac(1)之后:”)。假如这样的话return 1的意思是不是将1赋给fac(1)
+n=3，当你输入的n大于1时无论fac被递归了多少次，因为这时候是主函数调用它的你的理解太不对了吧？否。注意一点是函数只返回到调用它的断点那里。除了你输入1或0时它是返回主函数的.直到n=n最后返回main函数……<br />递归是有点不好弄..；而当输入的n大于1时，比如3，当n递减到1时开始依次返回到fac函数n=2，n=1是的情况是n=2的时候由函数fac调用的，怎么不返回到调用它的函数fac当n=2时的现场而返回到与它毫无关系的主函数去了呢。所以if(n==1)||(n==0) return 1就是专门为你输入1或0的特殊情况而设置的？要这样一级一级一直返回到n等于主函数调用时的值的时候才由return t返回到主函数？if(n==1)||(n==0) return 1中的return 1一定是返回到主函数吗，画个流程图、n=4，你输入个小点的数，一下就理解了
+1
+none
+http://zhidao.baidu.com/question/112354444.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/79111137.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/563813026.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/105776010.html?qbl=relate_question_3

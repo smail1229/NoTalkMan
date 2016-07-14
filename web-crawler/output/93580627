@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目：年份用year表示，判断闰年的表达式是：
+年份用year表示，判断闰年的表达式是：
+bool leap=(year%400==0)||(year%4==0&&year%100!=0)<br /><br />leap true 表示闰年，否则非闰年
+4
+none
+http://zhidao.baidu.com/question/295733390.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/200631002.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/334688803.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/435642152.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/503175905.html?qbl=relate_question_4

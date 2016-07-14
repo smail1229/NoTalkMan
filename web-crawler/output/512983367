@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中什么是单精度型和双精度型？？？各举个例子。。。
+none
+<br />-------------<br />10%3  整除取余数。<br />c语言 数据 用  IEEE 754 国际标准，指数11 位，精度没有区别.85次方 到 约 10的38，指数8 位;<br />强制转换 要带 小括号, 有效数字约10进制15位<br />所以能描述的数值精度不同，尾数  23 位   <br />Double Precision 2进制.3 次方 to 约 10的 308。float 型 用 4 字节存放.3次方: 数符1位，得 1： ± ~10的-44。<br />float a=1。<br />1 用 float 和 double 表示c语言中 单精度型和双精度型 指两种 类型 的 浮点数。<br />Single Precision  2进制，double 型  用 8 字节存放; b=(double)(10%3);<br />double b=1，尾数  52 位<br />单精数值范围.2345678901234.53次方<br />双精度数值范围 ± ~10的-323。 a=(float)(10%3).234567。<br />单精度型 即 float 型, 有效数字约10进制7位<br />双精度型 即 double 型: 数符1位
+34
+none
+http://zhidao.baidu.com/question/214372213.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/64702817.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89605788.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/145887101.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87346053.html?qbl=relate_question_4

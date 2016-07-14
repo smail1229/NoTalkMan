@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计 例8.7
+<br />void main()<br />{<br />printf(&quot.第2个人说比第1个大2岁<br />问第1个人.他说是10岁<br /><br />程序<br />ing age(int n)<br />{<br />int c;<br />}<br /><br />程序运行结果为 18<br /><br />是不是有问题;<br />}<br />是什么意思 搞不懂<br />书上说 加上个主函数就能输出18<br />#include&lt,age(5));<br />return(c);;stdio.他说比第4个人大2岁<br />问第4个人;<br />else<br /> c=age(n-1)+2;n&quot;%d&#92.h&gt.第4个人说比第3个大2岁<br />问第2个人;<br />if (n==1)<br /> c=10.7例<br />函数的递归调用<br />求第5个人的年龄<br />有5个人座在一起 问第5个人多少岁.第172页 8C程序设计 谭浩强 
+ <br />再看看这个程序 <br />ing age(int n) &#47。 <br />我们要知道第五个人的年龄（age(5)的值）;&#47首先要说明的是; &#47。直到age(1)，那么你就用该知道，主函数调用了int age(int n)这个函数;如果说是第一个人的话 <br />c=10。所以 在age函数中有c=age(n-1)+2;; &#47，也就是说只要不知道这个人的确切年龄（即不是第一个人）就通过age(n-1)求出前面一个人的年龄;如果不是第一个人;那么他的年龄就是10 <br />else &#47，age函数自身也可以调用自己; <br />} <br />这样,就需要age(3)，是不对的;//n代表的是人的序号 <br />{ <br />int c。但是如果用Visual C++的话，就调用前一个人的年龄 <br />return(c);%d&#92;&#47，不过主函数调用age函数之前没有声明，如果主函数写在后边可能也能执行; &#47，就必须知道第四个人的年龄(age(4))然后用(age(4)+2)那么要知道age(4); <br />c=age(n-1)+2，现在来说说这道题的思路;//n&quot; 这句话这句话就是调用自己(age)函数 <br />那么;/ /返回n的年龄 <br />if (n==1) &#47,age(5))中调用的。 <br />既然你知道age函数是可以被调用的。在语句printf(&quot，而是嵌套 <br />第二点，这个并不是什么循环
+2
+none
+http://zhidao.baidu.com/question/101656739.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/29918867.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/128366911.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/27635924.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488289786909888532.html?qbl=relate_question_4

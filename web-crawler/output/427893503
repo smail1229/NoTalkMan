@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一种C语言变量定义方式
+这种表示方式叫什么,0x04,0x10；其取值只为0x01,0x02,0x08,0x80,0x20,0x40,即只用一个bit位来表示数据比如定义一个变量int var
+比如，那些是关闭状态，在程序中的复选框中，检查var的值就可以知道在16个复选框中那些是开状态这种方式通常是用来保存某个状态的开关状态，因为一个bit来储存数据就有两种状态0和1，其他是关闭的，表示前三项的状态是开的。比如当值为00111
+0
+none
+http://zhidao.baidu.com/question/59616754.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/191316298.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/115741172.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/396344230.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/498230806.html?qbl=relate_question_4

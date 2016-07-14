@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言如何取数组元素个数？
+none
+比如数组是int型，定义数组为int a[]，则该数组的元素个数就是sizeof(a)/sizeof(int)
+10
+<p>1、C语言中，定义数组后可以用sizeof命令获得数组的长度（即可容纳元素个数）。但是通过传递数组名参数到子函数中，以获得数组长度是不可行的，因为在子函数当中，数组名会退化为一个指针。<br />2、例如：<br /></p><pre t="code" l="cpp">int&nbsp;data[4],length;<br />length=sizeof(data)/sizeof(data[0]);&nbsp;&nbsp;//数组占内存总空间除以单个元素占内存空间大小，即等于元素个数<br />printf(&quot;length&nbsp;of&nbsp;data[4]=%d&quot;,&nbsp;length&nbsp;);&nbsp;//输出length&nbsp;of&nbsp;data[4]=4</pre>
+http://zhidao.baidu.com/question/55248207.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/72247315.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/560476235.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/187071815.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1731686446457254267.html?qbl=relate_question_4

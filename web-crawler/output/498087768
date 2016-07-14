@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于堆块用malloc申请空间的问题
+<br />解析中给出，因为90000并不能和16位的int型想匹配，这里申请的是double型啊。<br />求详解语句如下：<br /><br />double *array = malloc(300*300*sizeof(double))，所以上述语句不能正确运行。<br />请问为什么不能正确匹配？那它可以和多少位int型匹配：300*300=90000
+那就是应该在malloc前加一个强制转换符(double *)。 就是说要写成souble *array=(double *)malloc(300*300*sizeof(double))，不会存在有括号的行而没有括号的就不行的问题。你的这两句代码倒确实是有错误的，不然是要报错的;才行。因为malloc产生的是void *型指针。有括号和没有括号的表达式是完全等价的你对操作过程可能有所误会，要赋给double型的指针的话要强制转换一下
+0
+none
+http://zhidao.baidu.com/question/356500949.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/194278852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/374209226.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92941573.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/46949961.html?qbl=relate_question_4

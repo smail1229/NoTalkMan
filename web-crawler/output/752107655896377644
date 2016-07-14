@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若有定义：double a=22；int i=0；k=18；，则不符合C语言规定的赋值语句是（ ）
+ D,k=18 ！。i=(a+k)&lt！.a=a++.i=0; B!a大神求解.i=,i++  ; C;=(i+k) A
+正确<br />B，非a结果是1;  这是个可疑语句!a 取反.a=a++.i=0.i=.i=(a+k)&lt，与相应的编译器处理有关<br />D; 逗号运算,结果为0;    比较运算，a的结果是不确定的,i++  ，正确<br />C,k=18 ;=(i+k) A
+1
+none
+http://zhidao.baidu.com/question/309833146.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/479015004.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/477321688.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1540639593163993307.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142181759.html?qbl=relate_question_4

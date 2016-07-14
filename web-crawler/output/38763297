@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言定义一个带参数的宏，将大写字母转换成小写
+用C语言定义一个带参数的宏，将大写字母转换成小写
+#define a(x) ((x&gt;=&#39;A憨担封杆莩访凤诗脯涧&#39;&&x&lt;=&#39;Z&#39;) ? (x+32) : x)<br />-----------------------------------------<br />回楼下的, 我的程序不是这么写的, 应该是<br /><br />#include&lt;stdio.h&gt; <br />#define a(x) ((x&gt;=&#39;A&#39;&&x&lt;=&#39;Z&#39;) ? (x+32) : (x)) <br /><br />int main() <br />{ <br />char c = &#39;A&#39;; <br />char b = a(c); <br />printf(&quot;%c&quot;,b); <br />}<br /><br />晕, 修改一下就到下面来了
+7
+none
+http://zhidao.baidu.com/question/14450648.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94944308.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/94743062.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77173161.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488209804.html?qbl=relate_question_4

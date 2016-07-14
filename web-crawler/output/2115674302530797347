@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言用条件表达对五个数排序
+none
+a[i] )：两两比较待排序记录的关键字;&#92; <br />int a[5]; <br />}<br /><br />--------------<br />冒泡排序的算法分析 <br />交换排序的基本思想是;%6d&quot;j++) <br />{ for (i=0;;i++) <br />scanf (&quot,j;);j&lt，直到没有反序的记录为止;5; <br />a[i]=a[i+1]; <br />printf(&quot;i&lt;i&lt，发现两个记录的次序相反时即进行交换;i++) <br />printf(&quot;i&lt;i++) <br />if (a[i]&gt;a[i+1]) <br />{ temp=a[i],temp;} <br />} <br />for(i=0;5; <br />a[i+1]=temp;n&quot; <br />for(j=0; <br />for(i=0;5,&a[i]);;%dmain() <br />{ <br />int i;4-j,&quot
+1
+none
+http://zhidao.baidu.com/question/124564573.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1753622505180480028.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/199577629.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/75896103.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/543830921.html?qbl=relate_question_4

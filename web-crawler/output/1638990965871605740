@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+计算机c语言中float和double有什么区别
+none
+有效数字16位单精度浮点数在机内占4个字节，double 和 float的区别是double精高，不要写错，能用单精度时不要用双精度（以省内存，C语言中数学函数名称double 和 float不同，用32位二进制描述。但double消耗内存是float的两倍，double的运算速度比float慢得多，用64位二进制描述。<br />双精度浮点数在机内占8个字节，加快运算速度）。<br /><br />对编程人员来说，float精度7位
+2
+none
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/395934984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/375690737.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1701675779448903780.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/85158117.html?qbl=relate_question_4

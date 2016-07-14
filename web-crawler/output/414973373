@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的标准库头文件中有没有定义max相关函数或者宏
+none
+fail
+0
+C 是没有的，c是面向过程的语言，很多都是自己动手的，像那些面向对象的编程语言就提供了很多的函数供直接调用。其实自己写也有自己写的好处，自己写的方法更具有针对性，更适合自己的程序，编译出来的程序更精妙。<br />double max_double(double x,double y)<br />{<br />  return x&gt;y? x:y;<br />}<br />int max_int(int x, int  y)<br />{<br />  return x&gt;y? x:y;<br />}<br />如果你想要头文件也行，自己动手做，比如<br />用记事本输入：<br />double max_double(double x,double y)<br />{<br />  return x&gt;y? x:y;<br />}<br />int max_int(int x, int  y)<br />{<br />  return x&gt;y? x:y;<br />}<br />保存为<br />mymath.h<br />文件类型选择：所有文件<br />然后把它和系统头文件放在一起<br />#include&lt;mymath.h&gt;就行了<br /><br />如果是放在其他位置：比如D:&#92;mylib&#92;mymath.h<br />#include&lt;D:&#92;mylib&#92;mymath.h&gt;<br />不过意义不大,如果是要经常用到的，做成头文件也是件好事<br />只是你的代码移植到别的电脑编译就有点麻烦，你要把你的头文件也要弄过去
+http://zhidao.baidu.com/question/560449717.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/11004832.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116758990.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/585360452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/428143709.html?qbl=relate_question_4

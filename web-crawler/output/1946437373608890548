@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+为什么执行c语言编程时停止工作
+none
+&N是输入对应的变量，你的printf(&quot;也要该做%lf，对应输入输出是%lf的格式你的scanf语句应该改为scanf(&quot；<br />其次;n&quot;，分开;，%d是整形输出<br />第二个是输入语句的“%lf”是输出格式;IMul=%d&#92;<br />这里有两个问题，中间需要用;%lf&quot,iMul),&N)，请参考，第一个是N是double类型，不能写在一起
+3
+none
+http://zhidao.baidu.com/question/146492376.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/497017265.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/809664614212923532.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1895390043721595620.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/392768090134882125.html?qbl=relate_question_4

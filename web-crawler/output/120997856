@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中从广西读入未知长度的数字,放个数组
+然后存入相应大小的数组里面?希望高手写出读的具体的C语言代码??,,<br />需要代码!<br />假设被读的文件为task!!请问一下如果从一个未知长度的存放有许多数字的文件中,把数字全部读出来
+h&gt; i&lt,&quot;%d&quot,n;&gt;,&x);<br />int a[1000];<br />    system(&quot;<br />int main()<br />{<br />    int i=0;r&quot;r&quot;stdio;<br />    freopen(&quot;task;n&quot;   &#47,a[i]);<br />    n = i.txt&quot;num;,&quot;<br />    freopen(&quot;,stdin);CON&quot;stdlib;!=EOF)   a[i++] = x;<br />#include&lt;;<br />    printf(&quot;,stdin):%d&#92;pause&quot;;<br />    while(scanf(&quot;<br />    for(i = 0;n ; i++) <br />        printf(&quot;%d  &quot;)#include&lt,n);*数组中有效的数字个数*&#47,x.h&gt
+5
+none
+http://zhidao.baidu.com/question/17154871.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/532566564.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1458602.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/480785759.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203060340.html?qbl=relate_question_4

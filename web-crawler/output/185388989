@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言数据结构的表示(储存结构)用类型定义(typedef)描述怎样分配空间
+none
+<br />xx 和yy的存储结构完全一样;/<br />}yy，编译器类型和编译的参数设置有关，那你定义的变量就是按照字节一个挨着一个，如果你没有设置字节对齐，那每个变量的存储空间就是结构体里面最长的那个成员所占的空间;&#47typdef 定义结构体;<br />defxx xx。<br />而结构体的存储结构则与你的机器字长;<br />int j;<br />int j，所得变量存储结构与结构体是一样的;定义变量<br /><br />struct styy{<br />char i;<br />}defxx。<br />typedef stuct stxx{<br />char i，并且你设定了字节对齐。<br />如你使用的编译器支持字节对齐
+0
+none
+http://zhidao.baidu.com/question/100314456.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/25672560.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/5804406.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/515414626.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/249431151.html?qbl=relate_question_4

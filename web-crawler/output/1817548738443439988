@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言数据类型中“双精度”“单精度”是什么意思？
+none
+fail
+1
+双精度,单精度指浮点型数，<br />双精度 叫 double 型, 单精度 float 型。<br />double 型 用 64位2进制存放，float 型 用 32位2进制存放。<br />所以，两种数 的 最大和最小 数值范围 不同，数的有效数字个数不同，也就是精度不同。<br /> <br />double 型 最大数值   1.7976931348623158e+308<br />最小正数数值   2.2250738585072014e-308<br />有效数字 十进制 15 位。<br />float 型<br />最大数值 3.402823466e+38F<br />最小正数数值 1.175494351e-38F<br />有效数字 十进制 6-7 位。<br />详细定义 见编译器 头文件  float.h
+http://zhidao.baidu.com/question/87346053.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/115702007.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/107969128.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/250316066.html?qbl=relate_question_3

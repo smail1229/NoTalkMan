@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，a[10:0] 表示什么？ 是数组a 的0到10位吗？ 如果定义了int a[10]. 如何表示a[0] 的第一位
+两个问题，如题
+ 表示1维数组C 语言下标 没有这种写法.<br /> <br />定义了int a[10]:10)，例如  a(0，相当 C 语言 声明 int a[11]，下标从0到10。<br />FOTRAN 90  用 小括号
+0
+none
+http://zhidao.baidu.com/question/361887314.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88151916.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/6314812.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88151828.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/59826441.html?qbl=relate_question_4

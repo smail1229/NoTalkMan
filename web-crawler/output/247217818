@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言高手请进……在线等 int a[ ] [3] = {{1,0,2},{ },{2,3}}； 这个语句有什么错误？
+none
+<br />要改成,0,{ },{2：<br />int a[3][] =  {{1;<br />或者可以省略第二个维度（只有最后一个维度可以省略）,2},0,2},3}}：<br />int a[3][3] =  {{1,{2,{ }第一个维度不能省略,3}}
+0
+none
+http://zhidao.baidu.com/question/87685578.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/520161543730448525.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132092505.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/396283136.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/431358271.html?qbl=relate_question_4

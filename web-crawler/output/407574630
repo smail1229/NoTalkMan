@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言结构体如何在主函数声明函数调用
+none
+name;i++) {<br />		printf(&quot;;<br />	return 0;,int n),%f&quot，英语成绩(逗号隔开);n&quot,60<br />王曙光同学的平均分是 85;*<br />输入第1位学生姓名:李大海<br />请输入数学;<br />#define	N 3<br />struct student {<br />	char name[20],i + 1);%f.2f&#92;):&quot,87.score[2])/<br />#include&lt.score[0];<br />	fenshu(stu;请输入数学,85.score[0]+stu[i].name),75，英语成绩(逗号隔开):王曙光<br />请输入数学,&stu[i],stu[i];<br />		scanf(&quot.score[1]+stu[i],N);3.5<br />输入第3位学生姓名;<br /><br />int main() {<br />	struct student stu[N];输入第%d位学生姓名:韩金明<br />请输入数学;i++) {<br />		printf(&quot; n;;%s同学的平均分是%6,int n) {<br />	int	i:90;<br />}<br /><br />void fenshu(struct student stu[];<br />	}<br />	for(i = 0，语文，英语成绩(逗号隔开);<br />	float score[4].h&gt.17<br />韩金明同学的平均分是 76，语文.score[2])，语文.00<br />李大海同学的平均分是 84;<br />	for(i = 0:90，语文.score[3] = (stu[i];<br />}，英语成绩(逗号隔开)/stdio,&stu[i];<br />		scanf(&quot,78;;<br />		printf(&quot.00<br />Press any key to continue<br />*&#47:90;<br />		stu[i].score[3]).score[1];i &lt,%f; n:&quot;i &lt;<br /><br />void fenshu(struct student stu[],80<br />输入第2位学生姓名;%s&quot,&stu[i],&stu[i],stu[i]
+2
+1、什么叫在主函数中定义在主函数之外使用。如果指的是在外函数中作为数据结构引用,那是做不到的,这是C&#47;C++的基本结构决定的,也是基本常识；因为主函数也是函数,在函数中定义的结构体是局部性质,只能在定义它的主函数中可见.如果是主函数调用的某个函数使用,那就把结构体当作实参传给被调函数就行了。<br />2、但这不叫在外函数中使用,实质是在主函数中使用；而且,被调函数必须要有相同的结构体类型变量来接收,那“相同的结构体类型”,还得在主函数外定义,这实在是得不偿失,用个指针什么都解决了.
+fail

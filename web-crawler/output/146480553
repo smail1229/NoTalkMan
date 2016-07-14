@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+3ds max和C语言
+他就怎么动，我点什么键，用C怎么关联？或者要配合什么软件，没有像我想象中那样像flash游戏一样，一切都是安排好的，做个动画，3ds max到底怎么做游戏的在学习了3ds max的有关知识后，发现3ds max只能做个模型，但是我根本没听懂，最近问有关人士告诉我什么用C可以！请有关的专业人士给我介绍一下，固定的，比如一个人
+的方法.<br />需要去自己编写接口或整合他人的成品;,游戏过程中发生相应的事件时.<br />而且很多时候还需要win和DX的相关知识,java这类软件来关联动作的话,<br />只是将不同的动作剪辑连接在一起,需要比较系统地学习才行,仍有很多动作是按照第一种方法完成的,形成动画,需要工作量可就大了,形成各类动作,通过编程关联角色的&quot.<br />这种动画效果足以应付大多数状况.<br /><br />如果要运用C++,但是动作总是很生硬;即时演算&quot,自身也不能方便的建模,典型的像仙剑4就是这样.<br />但是像WOW,最终幻想这类游戏则会采用&quot;骨骼&quot.<br />因为这类软件本身没有很好的3D模型的接口.即使如此.<br /><br />就像楼上几位说的实际上呢,很多游戏都是采用以下方法<br />用3d事先做好动画
+1
+none
+http://zhidao.baidu.com/question/538730720.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/82012395.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/448088272.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/85535750.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/54406492.html?qbl=relate_question_4

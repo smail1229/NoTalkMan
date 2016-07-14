@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教一道C语言的题目 若有定义：int a=1,b=2,c=3;语句++a||++b&&++a运行后b的值为几？为什么？ 谢谢~~
+none
+b还是2<br />因为 A||B 编译器会先判断A 如果A为真就直接跳过B执行下一句了 又因为a=1 ++a也为真 所有++b不执行 还是2
+6
+none
+http://zhidao.baidu.com/question/623366795186797044.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2117118326213029867.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/222179056.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/435112036.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/295452494.html?qbl=relate_question_4

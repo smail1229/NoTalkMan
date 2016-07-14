@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言递归编程
+n由键盘读入，不准使用循环语句for while do  while。要求不允许使用选择语句if switch case求1一直加到n的和，不准使用乘法 除法?    ,     )，这是我们的一次考试题，不允许使用除输入输出的库函数。跪求大神来解， 不准使用判断语句(    
+, &n).h&gt;<br /><br />int mulitiply(int n)<br />{<br />    int i = 0;n&quot;%d&quot#include&lt;%d&#92;, n+i;<br />    return (n-1) && (i=mulitiply(n - 1)), mulitiply(n));<br />}<br /><br />void main()<br />{<br />    int n = 0;<br />    scanf(&quot;<br />    printf(&quot;stdio
+2
+none
+http://zhidao.baidu.com/question/1174923328570992859.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94243129.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1988211975729738067.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/94115330.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/429839900.html?qbl=relate_question_4

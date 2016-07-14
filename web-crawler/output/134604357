@@ -1,0 +1,10 @@
+教育/科学 人文学科 语言学 
+(a&gt;b)?a:b什么意思？怎么解释？在C语言中
+none
+b是假（0）那么就取b ;c<br />他是从右到左结合<br />(b&gt? b;c);c)?a;c先计算在a&gt;<br /><br />对三个数比较大小还可以表示成<br />(a&gt:b 如果a&gt:(b&gt?a;b);b)? b;c)? b?a:(b&gt;b);b为真（1）就是取a<br />如果a&gt(a&gt
+3
+none
+http://zhidao.baidu.com/question/1365316473230919379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/189734620.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/193094762.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/193094321.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编写程序 输入一个正整数n，求1到n的数中1出现的个数
+none
+%d&#92;10;i++)<br /> {<br />  j=i;<br />   {<br />    c++:&#92;<br /> printf(&quot;n&quot;;<br />  while(j;<br /> printf(&quot;<br />int count(int n)<br />{<br /> int i;*用c语言编写程序 输入一个正整数n;<br /> c=count(n)，即原来的十位变成个位*/input n，求1到n的数中1出现的个数*/ &#47,&n);).h&quot;%d&quot;<br />  }<br /> }<br /> return c;i&lt!=0)<br />  {<br />   if(i%10==1) /<br /> scanf(&quot;=n,n;<br /> for(i=1&#47,c=0;*让数除以十让他原来的高位变为低位;stdio,c);,j;<br />#include&quot;n&quot;*判断位数中是否有1*/<br />}<br />main()<br />{<br /> int c;<br />    <br />   }<br />   j=j&#47
+5
+none
+http://zhidao.baidu.com/question/76688929.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76517889.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240917734212553084.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/194317507.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1959405990048286980.html?qbl=relate_question_4

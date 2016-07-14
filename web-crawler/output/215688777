@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的问题 int x=5,y=3; y+=y-=x*=y; 能否给出计算过程？
+none
+y+=y-=x*=y;从右到左算<br />x*=y   x=x*y=5*3=15<br />y-=15   y=y-15=3-15=-12<br />y+=-12 y=y+(-12)=-12-12=-24<br /><br />结果<br />x:15<br />y:-24
+1
+none
+http://zhidao.baidu.com/question/210104273.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/198781249.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1765803020772730780.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241676608.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234039432.html?qbl=relate_question_4

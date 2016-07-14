@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中char ch什么意思
+none
+har是数据类型，例如int a，a是变量名;int 就是整形变量，ch是变量名
+92
+<p>char ch表示定义一个字符变量，变量名为ch。</p><p>char表示字符型的数据类型，是C语言中的一个关键字，用来定义一个字符型数据类型（变量，数组或指针等）。</p><p><br /></p><p>举例如下：</p><pre t="code" l="cpp">char&nbsp;ch=&#39;a&#39;;&nbsp;&nbsp;//&nbsp;定义一个字符类型的变量，并初始化为字符&#39;a&#39;<br />printf(&quot;%c&quot;,&nbsp;ch);&nbsp;&nbsp;//&nbsp;输出字符c</pre>
+http://zhidao.baidu.com/question/75403818.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/22189866.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/440302504.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/5909963.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265630055471198708.html?qbl=relate_question_4

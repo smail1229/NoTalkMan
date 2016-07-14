@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求n的阶乘函数(用C语言编程)
+none
+fail
+fail
+main()<br />{int n,sum=1;<br />for(n=1;n&lt;=你想要求的数(中间这项没有的话是死循环);n++)<br />sum=sum*n;<br />printf(&quot;n!=%d&quot;,sum);<br />}
+http://zhidao.baidu.com/question/144977259.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/56661359.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/6437242.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/81367591.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/10355063.html?qbl=relate_question_4

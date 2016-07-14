@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目int a; int fun(int b){static int c=3; return((++a)+(++b)+(++c));} main(){int i,a=2; for(i
+<br />int a;i++)printf(&quot;stdio; for(i=0;}<br /> main()<br />{int i;;2;%5d&quot; return((++a)+(++b)+(++c))#include&lt;i&lt.h&gt,a=2;<br /> int fun(int b)<br />{static int c=3,fun(a))
+第一次fun(a)这里的a是main局部变量是2<br /><br />          fun里面 ++a的a是全局变量int a产生的未初始化默认0 <br />      ++a=1  ++b=3  ++c=4   =8<br />第二次fun(a) 仍然是fun(2) <br />        fun里面 a全局现在a=1  c是静态变量保存在静态区 现在c=4<br /><br />      ++a=2  ++b=3 ++c=5   =10<br />另外如果在main想用全局的a应该是::a
+0
+none
+http://zhidao.baidu.com/question/443141588.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184414628.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/551990463.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/434883737.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/286792086.html?qbl=relate_question_4

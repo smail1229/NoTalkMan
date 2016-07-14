@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言。假设array是一个有10个元素的整型数组，则下列写法中正确的是
+假设array是一个有10个元素的整型数组，则下列写法中正确的是         。<br /><br />       A) array[0]=10                     B) array=0<br />       C) array[10]=0                     D) array[-1]=0<br /><br />选什么  为什么呢？
+选A，数组下标是以0—(x-1)。没有指定数据下标;w=&quot。（当然如果char数组可以这样赋值;）<br />C，超过数组下标。char w[10];abc&quot。<br />先说B，同样。（会指到另一存储空间）<br />D
+11
+none
+http://zhidao.baidu.com/question/97561581.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/393236540.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/409326252.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203812699.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/179034493.html?qbl=relate_question_4

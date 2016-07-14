@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言编程填空题，求x的y次方
+none
+fail
+0
+<pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />int fun( int x,int y)<br />{int i;<br />int z=1;<br />&nbsp;for(i=1;i&lt;=y;i++) z=z*x;<br />return z;<br />}<br />int main()<br />{printf("%d\n",fun(3,2));<br />return 0;<br />}</pre>
+http://zhidao.baidu.com/question/75346335.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/102542181.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38741654.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/171818936.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/101579897.html?qbl=relate_question_4

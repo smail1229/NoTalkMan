@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言计算数组中任一元素a[i][j]在数组中位置的公式
+若二维数组a有m列,假设a[0][0]位于数组的第一个位置上,则计算珐攻粹纪诔慌达苇惮俩数组中任一元素a[i][j]在数组中位置的公式为<br />A i * m + j<br />B j * m + i<br />C i * m + j-1<br />D i * m + j+1<br />个人认为是A 可答案为什么是D 呢<br />请分析分析
+J是从0开始的 ，所以实际的位置应该加1，数组嘛~~都是从零开始的，第一个数是0，第二个是1
+8
+none
+http://zhidao.baidu.com/question/18902125.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/254136660.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/440437273.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/342610813.html?qbl=relate_question_3

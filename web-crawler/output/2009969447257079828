@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用定义和调用函数求2到100之间的素数的c语言程序，哪里错了啊 ，大神们指点啊
+i&lt;本函数用于将2到100之间的素数输出<br />	{<br />		int j;<br />		<br />	}<br />	void f(void)       &#47;m;<br />			}<br />		}<br />	}<br /><br />return 0;j&lt;=100;&#92; <br /><br />void f(void);%d&quot;;<br />		}<br />		if(i==m)<br />			return true;<br />				count++;&#47;&#47;);&#47;用定义和调用函数求2到100之内的所有素数<br /><br />#include&lt;j++)<br />		{<br />			if(prime(j))<br />			{<br />				printf(&quot;<br /><br />bool prime(int m),j);<br />		<br />		for(i=2&#47;<br />		<br />		for(j=2;<br /><br />int main(void)<br />{<br />	bool prime(int m)   &#47;i++)<br />		{<br />			if(m%i==0)<br />				break,count=0;n&quot;本函数用于判断一个数是否为素数<br />	{<br />		int i;<br />				if(count%5==0)<br />					printf(&quot;<br />		else<br />			return false.h&gt;stdio
+是你才看第一页书。而你的prime和f怎么都嵌套定义在main之内，即相互独立的，也不该犯这种错误吧？把这问题解决了才谈得上其他，也就是说不能在函数中定义函数？C的函数定义都是外部的
+0
+none
+http://zhidao.baidu.com/question/397320283.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/263678374643431045.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535682509.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/430219409.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/287988172.html?qbl=relate_question_4

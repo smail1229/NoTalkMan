@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言统计单词个数问题！
+#include &quot;stdio.h&quot;<br />main()<br />{<br /> char 穿恭扁枷壮磺憋委铂莲s[81],c;<br /> int i,num=0,word=0;<br /> printf(&quot;请输入一行英文:&#92;n&quot;);<br /> gets(s);<br /> for(i=0;(c=s[i])!=&#39;&#92;0&#39;;i++)<br /> if(c==&#39; &#39;) word=0;<br />  else if(word==0)<br />    {<br />      word=1;<br />      num++;<br />    }<br /> printf(&quot;本行中共有%d个单词.&#92;n&quot;,num);<br />}<br />请高手给上通俗易懂的注释，尤其是for以后，怎么也看不懂！！ 谢谢<br />单词之间用空格分开！
+#include &quot;stdio.h&quot;<br />main()<br />{<br /> char s[81],c;<br /> int i,num=0,word=0;<br /> p穿恭扁枷壮磺憋委铂莲rintf(&quot;请输入一行英文:&#92;n&quot;);<br /> gets(s);<br /> for(i=0;(c=s[i])!=&#39;&#92;0&#39;;i++)//判断句子是否到未<br /> if(c==&#39; &#39;) word=0;//是空格就为0<br />  else if(word==0)//不是空格就判断之前有没有空格<br />    {<br />      word=1;//复位用来判断空格是否存在的开关<br />      num++;//如果之前有空格，单词数加1<br />    }<br /> printf(&quot;本行中共有%d个单词.&#92;n&quot;,num);<br />}<br /><br />其原理很简单：<br /><br />对每个字符进行判断，如果是空格就把变量word标记为0，如果不是空格就判断word是不是0（即判断之前有没有空格），如果存在空格单词量加1，然后复位word变量为0。就这样重复，知道句子结束
+128
+none
+http://zhidao.baidu.com/question/111723910.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/554351369.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/548392016.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203518499.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1539863755487919907.html?qbl=relate_question_4

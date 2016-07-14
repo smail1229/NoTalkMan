@@ -1,0 +1,11 @@
+电脑/网络 编程语言 VC++ 
+各位帮我看一下这个C语言程序，主要是关于break的问题
+<br />}<br />for(i=0;n&quot;i++)<br />printf(&quot;k--)<br />if(a[i]&gt;%4d  &quot,a[i]),a[i]);%4d  &quot,k.&#92;&#92;Please enter 10 int;i++)<br />{<br />    if(s&lt.h&gt;)，放在22222就出问题;&#92;k&gt;a[%d]=&quot;11111;<br />printf(&quot;}<br />    a[i]=s,&a[i]););k--)<br />{a[k]=a[k-1]，插入的数字也按升序排入数列中？还有;<br />scanf(&quot;<br />int main()<br />{<br />int a[11];<br />printf(&quot;i&lt;%d&quot.&#92;<br />}<br />for(i=0？<br />#include&lt;<br />else <br />{<br />for(i=0;;=i+1,t;i我用11111和22222来代替break的位置了，然后排列为升序数列,&s);10,i);stdio;9;<br />a[i]=t;);<br />}22222<br />}<br />}<br />for(i=0;i&lt;11;a[9])<br />a[10]=s;;<br />return 0;<br />a[k]=a[i];a[k])<br />{<br />t=a[k]，然后插入一个整数;<br />scanf(&quot;k&gt。我发现break放在11111就行;n&quot,s;10,i，但是放在这两个位置不应该是一样的吗;);i&lt;<br />printf(&quot;%d&quot;<br />if(s&gt;？这是一个输入10个整数;<br />for(i=0;;10;i++)<br />printf(&quot;i++)<br />{<br />printf(&quot;<br />printf(&quot;i&lt;Please enter the nmuber you want to insert;;i&lt;i++)<br />for(k=9;=a[i])<br />{<br />    for(k=10;n&quot;n&quot，break放在11111的位置和放在22222的位置有什么区别，if里面不是不能带break吗
+也就是无论什么情况，这个疑问使用F10单步跟踪，第一次i=0就直接跳出了;10，结果当然不同了（也就是如果i=0的时候。<br />if里面带break没问题，如果没有进if。<br />111的位置，break跳出的是在if条件成立的情况下，一目了然；<br />222的位置是在if之外，if中的语句一遍也不会执行）<br /><br />你通过单步调试跟踪一下就知道了，那么也跳出，跳出的for(i=0;i++)循环;i&lt，只是和if无关，跳出的是上一层的循环罢了这两个位置效果完全不一样
+0
+none
+http://zhidao.baidu.com/question/523657875.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/202596505.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/194788326.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1173881092967372379.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/25962024.html?qbl=relate_question_4

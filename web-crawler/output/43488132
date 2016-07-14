@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言简单编程“3乘3矩阵求对角线元素之和”
+none
+fail
+2
+#include &lt;stdio.h&gt;<br /><br />int main(int argc, char* argv[])<br />{<br /> int arr[3][3] = {4,2,8,9,13,64,21,0,28};<br /><br /> int sum = 0;<br /> int i=0;<br /> int j=0;<br /><br /> printf (&quot;待求数组为:&#92;n&quot;);<br /> for (i=0;i&lt;3;i++)<br /> {<br />  for (j=0;j&lt;3;j++)<br />  {<br />   printf (&quot;%4d&quot;, arr[i][j]);<br />  }<br />  printf (&quot;&#92;n&quot;);<br /> }<br /><br /> for (i=0,j=0;i&lt;3;i++,j++)<br /> {<br />  sum+=arr[i][j];<br /> }<br /><br /> printf (&quot;正对角线之和:%d&#92;n&quot;, sum);<br /><br /> sum = 0;<br /> for (i=0,j=2;i&lt;3;i++,j--)<br /> {<br />  sum+=arr[i][j];<br /> }<br /> <br /> printf (&quot;反对角线之和:%d&#92;n&quot;, sum);<br /><br /> return 0;<br />}
+http://zhidao.baidu.com/question/203872988.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51381036.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132069068.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1871945.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1541348182352191147.html?qbl=relate_question_4

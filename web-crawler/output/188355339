@@ -1,0 +1,10 @@
+电脑/网络 编程语言 其他编程语言 
+易语言数组成员引用下标超出定义范围
+none
+如一个4成员的数组,我也没办法了^<br />试试在定义时数组那里输入0<br />或者在调用或者赋值前使用  清除数组() 试试,我记不太清楚这个名字了,当然也有别的可能:WH[5]就会提示那个错误.<br />这个是常见的可能,变量名为WH<br />但如果你这样调用,自己看看默认支持库中的数组操作里,不过你不给源码
+16
+none
+http://zhidao.baidu.com/question/93077463.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127252160.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518406766553709325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/616666996211249772.html?qbl=relate_question_3

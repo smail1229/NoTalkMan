@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 求算数表达式的值x+a%3*(int)(x+y)%2&#47;4。 是怎么运算的？ 先算什么在算什么？x=2.5,a=7,y=4.7
+他的运算顺序？
+(int)(x+y) = 7<br />3*(int)(x+y) = 21<br />2 / 4 = 0<br />a%3*(int)(x+y) = 7<br />7%0 = 0
+4
+none
+http://zhidao.baidu.com/question/134064183.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/278274731.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210104273.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/184521869.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/278289052.html?qbl=relate_question_4

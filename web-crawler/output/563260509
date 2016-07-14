@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+static类型的变量在函数内说明，而在整个程序运行期间都存在，因此c语言中全局变量的存储类别是static
+static类型的变量在函数内说明，而在整个程序运行期间都存在，因此c语言中全局变量的存储类别是static。<br /><br />是对是错在c语言中
+错，<br />虽然static声明的变量生存周期是整个程序运行期间，但它的作用域并不是全局的
+4
+none
+http://zhidao.baidu.com/question/311480555.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139297169.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55791699.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/289466855.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/582573613680256565.html?qbl=relate_question_4

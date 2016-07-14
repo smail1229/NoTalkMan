@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言输入一元二次方程的系数a，b，c，采用二分法求方程的根 ，精确到小数点后2位（即误差&lt;=0。01）
+none
+&quot;<br /> }<br /> do<br /> {<br />  x = (u + v) /%lf%lf%lf&quot;;<br /> scanf(&quot;);<br /> if (f1 * f2 &gt;<br /> &#47, f1;请输入区间端点;<br /> printf(&quot.0) /  求函数值<br />{ return a * x * x + b * x + c, b;<br />  if (fm == 0)<br />   break以下是二分法求已知区间的根;= 1e-2), c.h&gt;请输入一元二次方程的系数;&#47.h&gt;<br />  {<br />   u = x;<br /> f1 = f(a;<br /> } while (fabs(fm) &gt;<br /> return 0, c; 0;);<br />double f(double a：%8, x), double c, double x) &#47, b, f2, &b;<br />  }<br />  else<br />   v = x, b, b;* 同号时修改端点*/&#47：&quot, v); }<br />int main()<br />{<br /> double x，自己将其修改一下, c, u).3lf&#92; 2;根为, b;);stdio;%lf%lf&quot, u;<br />  return 1, x);<br /> printf(&quot;, &a;n&quot;<br />#include &lt, u);*这里还可以在条件中增加循环次数控制*&#47，增加一个区间确定就可以了<br />#include &lt;<br /> f2 = f(a; 0)<br /> {<br />  printf(&quot;<br />  if (f1 * fm &gt;!&#92, &u, c;<br /> scanf(&quot, c;<br /> printf(&quot;math, &v);<br />   f1 = f(a;区间内无解;<br />  fm = f(a;n&quot, double b, v;* 这里可以增加是否合法二次方程的判断*&#47, fm, a, &c)
+5
+none
+http://zhidao.baidu.com/question/391754350.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/30410285.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/238935527.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77478071.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/352174001.html?qbl=relate_question_4

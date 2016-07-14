@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请把c语言翻译为中文注解，，谢谢
+int x=getmaxx(),y=getmaxy();<br />  int sx=INTERFACE_STARTX,sy=INTERFACE_STARTY,ex=INTERFACE_ENDX,ey=INTERFACE_ENDY;<br />  int spinesTop=INTERFACE_ENDY-30,spinesLength=(ex-sx)&#47;12;<br />  int s旦海测剿爻济诧汐超搂pines[14][2];<br />  cleardevice();<br />  setcolor(BLUE);<br />  setfillstyle(1,BROWN);<br />  bar(sx,sy,ex,ey);
+你这个程序不完全哦，先解释一下所有大写的应该都是#define的符号常量然后getmaxx()应该是你定义过的一个子函数。  cl旦海测剿爻济诧汐超搂eardevice();setcolor(BLUE);  setfillstyle(1,BROWN);bar(sx,sy,ex,ey);这些应该都是库函数，而且是图形函数库里的函数。
+0
+none
+http://zhidao.baidu.com/question/46548828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76740694.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1381650132024412060.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/430912535.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/25276757.html?qbl=relate_question_4

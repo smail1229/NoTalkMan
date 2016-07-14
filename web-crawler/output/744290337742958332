@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言哥德巴赫猜想。怎么做到输出a最小的那组解
+2000以内的不小于4的正偶数都能够分解为两个素数之和(即验证歌德巴赫猜想对2000以内的正偶数成立)。<br />每行输入一组数据，即2000以内的正偶数n。输入到文件结尾符为止。<br />输出n能被分解成的素数，a和b。如果不止一组解，输出a最小的那组解#include&lt;stdio.h&gt;<br />int p(int x)<br />{<br /> int i;<br /> for(i=2;i&lt;x;i++)<br />  if(x%i==0)<br />   return 0;<br />  return 1;<br />}<br />int main()<br />{<br /> int n,a,b,j,i;<br /> while(scanf(&quot;%d&quot;,&n)!=EOF){<br />  for(i=1;i&lt;=n&#47;2;i++) <br />  {  <br />   a=i;b=n-i;  <br />   i珐场粹渡诔盗达醛惮互f(p(a)==1&&p(b)==1) <br />   {  <br />    if(j%5==0)  <br />     j++;   <br />   } <br />   printf(&quot;%d %d&#92;n&quot;,a,b);<br />  } <br /> }<br /> return 0;<br />}我要在那加上东西才能输出a最小的那组解。
+int p(int x)   <br />{<br />int i;<br />for(i=2;i&lt;x;i++)<br />if(x%i==0)<br />return 0;   <br />return 1;<br />}<br /><br />int main()<br /><br />{<br />int n,a,b,j,i;<br />while(scanf(&quot;%d&quot;,&n)!=EOF)<br />{<br />for(i=1;i&lt;=n/2;i++) <br />{  <br />a=i;b=n-i;  <br />if(p(a)==1&&p(b)==1)   //当a,b均为素数时<br />{  <br />if(j%5==0)      //j值未初始化，会出错！ 这里%5是干嘛？j是干嘛的？<br />j++;   <br />} <br />printf(&quot;%d %d&#92;n&quot;,a,b);<br />} <br /><br />return 0;<br />}<br />}<br /><br />以下为修改后的代码<br />--------------------------------------------------------------------<br />int p(int x)   //当x为1时，会判断为素数！<br />	{<br />		int珐场粹渡诔盗达醛惮互 i;<br />		for(i=2;i&lt;x;i++)<br />			if(x%i==0)<br />				return 0;   <br />		return 1;<br />	}<br /><br />int main()<br />{<br />	int n,a,b,i;	 //j没什么用，去掉<br />	while(scanf(&quot;%d&quot;,&n)!=EOF)<br />	{<br />		if(n &lt; 4 ||(n%2 != 0))<br />		{<br />			printf(&quot;请输入大于等于4的正偶数!&#92;n&quot;);<br />			continue;<br />		}<br />		for(i=2;i&lt;=n/2;i++)   //这里从2开始，因为1既不是素数，也不是合数。<br />		{  <br />			a=i;b=n-i;  <br />			if(p(a)==1&&p(b)==1)   //当a,b均为素数时<br />			{  <br />				printf(&quot;%d %d&#92;n&quot;,a,b);  <br />				break;   //因为取a值最小的解，所以此处跳出for循环<br />			} <br />			<br />		} <br />		<br />	}<br />	return 0;   //持续操作，放这里，只操作一次，放到while循环结尾。<br />}
+1
+none
+http://zhidao.baidu.com/question/59439013.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/151944381.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/97238345.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/55804338.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/129434608.html?qbl=relate_question_4

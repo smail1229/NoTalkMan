@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言入门级小程序.
+none
+<br /> int p;<br /> default;n&quot！&#92;良好！&#92;不要自卑;stdio;优秀，没有错误;输入有误:<br /> case 6;<br /> }<br />}<br />我刚刚运行了;);break.h&gt;n&quot;break:printf(&quot，希望你采纳;);)！&#92;;<br /> case 7:<br /> case 2:<br /> case 3:&quot;n&quot;)！&#92;<br />int main(void)<br />{<br /> float score;break;<br /> scanf(&quot;输入成绩:printf(&quot:printf(&quot;及格，继续努力:printf(&quot,&score);<br /> case 8;break;10;<br /> p=score/<br /> printf(&quot;n&quot;);n&quot;);<br /> switch(p)<br /> {<br /> case 10;%f&quot:<br /> case 1！&#92！&#92;n&quot;不及格;<br /> case 0:printf(&quot:<br /> case 9;break:printf(&quot:<br /> case 4;<br /> case 5#include&lt;)
+4
+下面的内容是Helloworld的详细说明。<br /><br />&#47;&#47; #include是预处理指令，用于包含头文件。<br />&#47;&#47; 头文件中包含着系统或者其他库已经写好的接口。<br />#include &quot;stdio.h&quot;  &#47;&#47; 标准输入输出库的头文件<br />#include &quot;conio.h&quot;  &#47;&#47; 控制台输入输入库的头文件<br /><br />main() &#47;&#47; main是固定名称，用于标记程序的执行入口<br />{<br />    printf(&quot;Hello, world&#92;n&quot;); &#47;&#47; printf是系统输出函数，用于向控制台打印文字。<br />    getch(); &#47;&#47; 用于获得用户输入。在此处是为了让程序暂停，便于观察执行结果。对于Helloworld的输出没有影响。<br />}
+http://zhidao.baidu.com/question/92976678.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/472599931.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/689426662659589884.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/334168346.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/529288223.html?qbl=relate_question_4

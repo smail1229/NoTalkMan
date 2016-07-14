@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言单精度浮点型的输出
+none
+输出过程中会有偏差，比如;n&quot，所以一般来说输出浮点数都要指定精度,g);<br />在%f前面加.3f可以在整数位保留2位的同时小数也保留3位;%：<br />printf(&quot程序在处理浮点数精度的问题过程中.3表示小数点后保留3位，同样%2，由于浮点数在内存里是按2进制存储的。它的有效数值在小数点后的6-7位;.3f&#92
+11
+none
+http://zhidao.baidu.com/question/91534154.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/64702817.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518714985.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/332938295.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/680267849050960452.html?qbl=relate_question_4

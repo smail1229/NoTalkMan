@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 在任一个文件中定义外部变量Num，解释这句话
+这样会引发“重复定义”错误，而在另一文件中用extern对Num作“外部变量声明”，因为外部变量若不用存储类别extern，但显然不可能；<br /><br />    应在任一个文件中定义外部变量Num如果一个程序包含两个文件，在两个文件中都要用到同一个外部变量Num，怎么能在函数里定义呢；<br /><br />    我不明白第二段的“在任一个文件中定义外部变量Num”中的“文件”是指什么？第一时间想到是“函数”？那“文件”究竟是指什么，不能分别在两个文件中各自定义一个外部变量Num
+可以声明再主函数中，在函数中，也可以在文件的开头进行声明。<br />（2）外部文件不用extern（1）此“文件”就是指程序中的文件啊；<br />（3）“文件”应该就是指子函数（或调用函数）
+0
+none
+http://zhidao.baidu.com/question/191316298.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/171637095.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/525369855.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22487267.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/587934501.html?qbl=relate_question_4

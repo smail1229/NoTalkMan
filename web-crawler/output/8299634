@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教一个C语言的填空题，麻烦解释一下，谢谢！！分析以下程序段，while 循环执行的次数是______次。
+分析以下程序段，while 循环执行的次数是______次。<br />int k=0<br />while(k=1) k++;
+所以就一直进入循环，所以实际上while会将k=1判断为真。<br /><br />或者你可以到TC上去实践一下<br />#include&lt.h&gt;<br />main(){<br />int k=0; <br />while(k=1)<br />{ k++，而不是判断是否相等的==符号，这个是一个赋值符号;<br />  printf(&quot,k)死循环<br /><br />while中的k=1;stdio，也就是说循环条件永远成立;%d&quot;
+8
+none
+http://zhidao.baidu.com/question/577644794.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/114392191.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38661793.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258848941.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/130258261.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个c语言的赋值语句是什么错误？
+256;<br />for(y=0,下次写入时先步进一位;<br /> int   bEnableTskTxd;z&lt;  <br />    char       SendPutIndex;指向当前最后写入的数据位;<br /><br />UART_BUFFER_TYPE UartBuffer;  <br /> int  bOverFLow.<br />    char       SendGetIndex;y++)     <br /> for(z=0;<br /> int   TxdCnt;<br />   YEAR[z1] = UartBuffer; <br />    char       RcvGetIndex;<br /><br />char YEAR[4];<br />}<br />这是程序的一部分<br />编译报错  expression must have pointer-to-object type    是最后的那个循环里的赋值语句有问题,下次读取时先步进一位#define buffer_size 256<br />typedef struct<br />{<br />    char  rcv_buf[buffer_size]，各位大侠这应该怎么修改;4;  <br />    char  Send_buf[buffer_size];&#47;y&lt;&#47.rcv_buf[y] ;  &#47;   &#47.<br />    char       RcvPutIndex;<br />} UART_BUFFER_TYPE;z++)  {<br />    y++;指向当前最后读取的数据位
+ <br /><br />回答补充.<br />    char       SendGetIndex;<br />    int   TxdCnt;z++)  {<br />            y++,下次读取时先步进一位;y&lt，UartBuffer;<br />    for(y=0, YEAR[z]);z&lt, z;  &#47。<br />另外;指向当前最后写入的数据位;指向当前最后读取的数据位;<br /><br />UART_BUFFER_TYPE UartBuffer; <br />    char       RcvGetIndex;  <br />    int  bOverFLow;&#47。下面是我的测试程序, y;<br /><br />char YEAR[4];<br />int main()<br />{<br />    int y,下次写入时先步进一位;   &#47.<br />    char       RcvPutIndex;y++)     <br />        for(z=0;<br />            YEAR[z] = UartBuffer;;  <br />    char       SendPutIndex;stdio，编译及运行成功<br />#include&lt;&#47, %d&#92;n&quot，你这个程序你应该是写错了.rcv_buf[y] ;  <br />    char  Send_buf[buffer_size]，y有可能大于255）.h&gt, z，YEAR[z]而不是YEAR[z1]，z1这个变量没有声明.rcv_buf[y]有越界的可能（最后一次循环;<br />        }<br />    <br />    return 0;250;<br />} UART_BUFFER_TYPE：<br />你举的例子中应该没有错误;<br />            printf(&quot;%d, %d;<br />#define buffer_size 256<br />typedef struct<br />{<br />    char  rcv_buf[buffer_size];<br />    int   bEnableTskTxd;4
+11
+none
+http://zhidao.baidu.com/question/116136960.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/81673181.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66709980.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/114051647.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/101593414.html?qbl=relate_question_4

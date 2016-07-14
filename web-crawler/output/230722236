@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+使用C语言编程，输入学生的学号，姓名，三门成绩，并求学生、课程的平均成绩。跪求高手速答，三十分钟内给
+none
+<br />    float shuxue;i&lt.shuxue).name;%f&quot;%s&quot;%s&quot;;<br />    for(j=0.h&gt;n&quot;<br />  printf(&quot：%:&quot.1f&#92.yuwen)？感觉下;<br />  aver=sum/<br />        printf(&quot;j++)<br />    {<br />  sum+=stu[j];.yingyu;请输入学生学号:&quot.id);<br /> }<br />}<br />void main()<br />{<br />    int i,stu[j],aver;<br />  sum+=stu[j];<br />        printf(&quot;<br />struct student<br />{<br />    char id[10];<br />    float yuwen;<br />    float yingyu：%s的平均分为;<br />    }<br /> ave(),stu[i];请输入该学生的数学成绩,&stu[i];<br /><br />void ave()<br />{<br />    float sum=0;);<br />  printf(&quot;););,&stu[i];<br />        printf(&quot.yuwen;%f&quot;<br /> char name[20];<br />}stu[3];j&lt：&quot;请输入学生姓名;3;<br />        scanf(&quot;请输入该学生的语文成绩;请输入该学生的英语成绩.id;<br />  sum+=stu[j].shuxue;;<br />    int j;%f&quot;<br />        scanf(&quot.name);),stu[i];i++)<br />    {<br />        printf(&quot;3：&quot;,&stu[i];,stu[j];3;<br />        scanf(&quot,aver);<br />        scanf(&quot;<br />        scanf(&quot;)：&quot;%s.yingyu)#include&lt;stdio;<br />    for(i=0;<br />} <br /><br />你试试怎么样
+3
+none
+http://zhidao.baidu.com/question/28955935.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356474803.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/560310413.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424373914.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161218488.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言：定义一个整形变量 int a；a的地址（指针）占4个字节，a变量本身占4个字节 。
+那是不是说内存为a分配的空间是连续的8个字节。
+这样理解<br />int类型的a占用了4个字节的内存空间，假设其占用的空间地址是0x12ff88<br />也就是说a占用了从0x12ff88上行或者下行4个字节大小<br />那么如果要表示其地址，则需要增加一个4个字节的变量来存放这个0x12ff88，也就是指针了
+9
+none
+http://zhidao.baidu.com/question/280555046.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/425441322857173732.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/96577621.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/219614273.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个c语言程序问题，关于for语句
+j++)<br />   {<br />    printf(&quot;n&quot;&#92; &quot;<br />  for(i=1;<br />   }<br />    for(j=1;;=2*i-1;j++)<br />   {<br />    printf(&quot;<br />   scanf(&quot,n;<br />   }<br />    printf(&quot.h&gt;)，为什么程序代码如下<br /><br /># include &lt;j&lt;j&lt;*&quot,&n);<br />  }<br /><br />}  <br />这样子写在vc中能用但是如果去掉后面两个for的{}结果也一样;);i++)<br />  {<br />    for(j=1;=n,j:&quot;i&lt;stdio;<br />void main ()<br />{<br />  int i;););please input n;=n-i;%d&quot;<br />  printf(&quot
+for循环如果有多条语句，则可以{}括起来这是基础知识。<br />1，必须用{}括起来<br /><br />2.for循环如果只有一条语句
+0
+none
+http://zhidao.baidu.com/question/90678668.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94633374.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/233618573.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/244300156.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/26769181.html?qbl=relate_question_4

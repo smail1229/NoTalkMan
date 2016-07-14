@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急求C语言编程：从键盘输入n个实数（n的值由键盘输入），求其中的最大值。谢谢了、、、、
+none
+float max(float a[])                               //求数组a中的最大值函数<br />{float max=0;<br />for(int i=0;i&lt;sizeof(a);i++)<br />if(a[i]&gt;max) max=a供唬垛舅艹矫讹蝎番莽[i];                       //将数组a中比max大的元素存入max中<br />return max;<br />}<br />main()<br />{int n；<br />float b[100];<br />for(int i=0;i&lt;n;i++)<br />scanf(&quot;%f&quot;, &b[i]);                       //输入n个元素存入b数组中<br />printf(&quot;输入的数中，最大的数是：%f&quot;，&max(b));}              //调用max函数，将最大值输出
+1
+none
+http://zhidao.baidu.com/question/321100982.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/30410285.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/26468385.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/507294941.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/233077787.html?qbl=relate_question_4

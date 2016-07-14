@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求C语言大神，指导……什么是循环体，什么是死循环？y+=y是什么意思？怎么看C中的运算符号啊？
+可以直接上线QQ，CALL我，490852409
+ i++)<br />{<br />    &#47循环体就是一段执行多次的代码;&gt；<br />+= 是种简写的方法;这个循环永运不会退出;/<br /> 变量1+=变量2  =&gt; i++) <br />{<br />    // i &gt; i &lt; 变量1 = 变量1 + 变量2。<br />for(int i=1; 10 。<br />for(int i =0; 一段代码 执行10次<br />}<br />死循环是永远不会终止的循环体， 条件i &gt; 0 总是成立的<br />}<br /> y+=y 的意思其实就是 y = y + y ; 0
+4
+none
+http://zhidao.baidu.com/question/43680252.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/256482269.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/539465180.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/194073839.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/245847953.html?qbl=relate_question_4

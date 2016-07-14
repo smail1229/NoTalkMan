@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言 pow10函数的一个问题!
+stdio.h&gt;<br />int main(void)<br />{<br /> double p = 3, pow10(p));Ten raised to %lf is %lf&#92;n&quot, p.0:<br />  : 找不到标识符<br /><br />那个懂程序的帮小弟解答下~;<br />#include &lt.h&gt;math: “pow10”;<br />}<br /><br />编译后错误提示: error C3861;;<br /> return 0;<br /> printf(&quot#include &lt!<br />先谢谢了~
+~~~~<br />一样的问题啊！<br />但是都都不行啊？？
+6
+none
+http://zhidao.baidu.com/question/225265661.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/175394396677023564.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/228173597.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242677954.html?qbl=relate_question_3

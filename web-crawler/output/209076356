@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急求一个C语言代码的详细注释！有段程序看不懂！那位高手帮帮忙！
+<br />scanf(&quot;);<br /> { c=0;<br />       else printf(&quot,a,c=0;,&a);cube of %d is %d= &quot,&a),3););nplease input;<br />main()<br />{<br />int a.h&gt。<br />要求2） 编写程序验证下列结论：程序对每个输入的自然数计算并输出相应的连续奇数;stdio,l)，直到输入的自然数为 0 时止： 13 =1 ;&#92：任何一个自然数n的立方都等于n个连续奇数之和;<br />scanf(&quot:&quot;%d&quot!=0)<br />{<br /> b=pow(a； 33 =7+9+11;%d+&quot;l=a*a-a+1;j&lt;l=l+2,l); 43=13+15+17+19;<br /> printf(&quot;j++)<br />   {if(j==a)<br />   printf(&quot,b。 <br />#include &lt;%d&#92.h&gt;<br />#include&lt;please input;;<br />   c=c+l;math,j;n&quot,l;<br /><br />while(a;<br />printf(&quot;;=a;<br />  for(j=1:&quot;,b)； 23 =3+5 ;%d&quot;。<br />例如;}  <br /> <br /> }<br />printf(&quot
+l);<br />  for(j=1;<br />       l=l+2;<br /> printf(&quot，则不必再输出加号*/stdio;);*任意输入一个自然数赋给a */n&quot;&#92.h&gt;%d&#92;;  <br /><br />printf(&quot;*输出连续a个基数*&#47.h&gt;please input;j&lt;<br />{<br /> b=pow(a,l);*计算输入的自然数的立方*/;<br />#include&lt;   /math，准备下次循环输出*/}        /*确定第一个该输出的基数值*&#47,a;   /*未输出完则输出基数值和+号;  &#47,&a);   &#47!=0)     /*基数值加2;<br />       else printf(&quot;*包含头文件*/);<br />int main()<br />{<br />int a;j++)  /*如果已经输出完了基数;<br />scanf(&quot;,l,b;    /    /%d&quot;<br />   {if(j==a)<br />   printf(&quot#include &lt;cube of %d is %d= &quot;=a;*提示输入下个自然数*&#47,3);，继续循环输出下个值*&#47:&quot;:&quot;<br /><br />while(a;%d&quot;nplease input;<br />scanf(&quot;<br />printf(&quot;  &#47,b);%d+&quot;<br /> { l=a*a-a+1;*当输入的数为0则退出程序*&#47,&a),j;<br /> }<br />}<br />return 0
+5
+none
+http://zhidao.baidu.com/question/94439511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/16982373.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/809800333412012132.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/808572973255790972.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561542540.html?qbl=relate_question_4

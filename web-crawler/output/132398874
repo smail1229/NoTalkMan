@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，若有int a[3]={10，12，30}；*(a+2)=
+none
+a+2就表示第三个元素的地址30<br />数组名表示数组第一个元素的地址，*为取值符号，*（a+2）就是第三个元素空间存储的内容，而数组空间是连续分配的
+8
+none
+http://zhidao.baidu.com/question/192722612.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/561140975.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/270952693.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/516472879.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/84816002.html?qbl=relate_question_4

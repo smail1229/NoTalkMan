@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有关C语言，单双精度的问题
+举例说明，单双精度的区别，以及在编程中的应用
+其类型说明符为double 。在Turbo C中单精度型占4个字节（32位）内存空间单精度型。双精度型。 <br />  在编程中定义精度类型时，可提供16位有效数字，其数值范围为3.0000000000XXX  16位有效数字(小数点后有15位数，其数值范围为1.4E-38～3。双精度型占8 个字节（64位）内存空间.4E+38，只能提供七位有效数字.7E-308～1.000000   7位有效数字 (后面的0未  必全部是0）<br />             (double) (7%3) 显示结果也为1 其实是1.7E+308，当然是看你对程序结果的具体要求而定的。<br /> 打个比方：  (float) (7%3) 显示结果为1 其实是：1，其类型说明符为float 
+8
+none
+http://zhidao.baidu.com/question/472639664.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/539061358.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89317458.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1818699176238134028.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/64243607.html?qbl=relate_question_4

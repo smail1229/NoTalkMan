@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if else结构问题
+n&quot以下程序运行后的输出结果是<br />      main()  {<br />       int  a=1,b);;%d&#92;%d&#92,c),c=3,b=2;n&quot;<br />       if(c=a)<br />         printf(&quot;<br />       else<br />         printf(&quot;
+那么就是一个判断句，所以c=a=1<br />所有非0的整数都为真楼主注意一下c=a是一个赋值语句<br />a=1。<br />显然这里的c不等于a。<br />因此打印出<br />1<br /><br />请楼主注意区别c==a<br />如果是c==a的话，<br />所以if(c=a)永远成立
+4
+none
+http://zhidao.baidu.com/question/53047248.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1302232882380236939.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/423668233.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1690232628434301588.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142785092.html?qbl=relate_question_4

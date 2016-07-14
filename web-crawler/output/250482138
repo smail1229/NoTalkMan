@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言 如何同时计算两个for循环，前一个循环i--，一个循环i++
+none
+非要单恋i……<br />那只有把内循环写到另一个function里面，局部变量i++就不会污染前一个变量i--的
+0
+none
+http://zhidao.baidu.com/question/251201470.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1860516067772633707.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/184363628.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1754770064630427428.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/149653302.html?qbl=relate_question_4

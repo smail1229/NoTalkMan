@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言表达式（（4│0)&3)的值怎么求？最好解释一下谢谢
+none
+4(10) == 100(2)<br />0(10) == 000(2)<br />4 | 0 == 100(2) | 000 (2) =&gt; 000(2)<br /> <br />3(10) == 011(2)<br />000(2) & 3(10) == 000(2) & 011(2) =&gt; 000(2)<br /> <br />故最终结果为0
+0
+none
+http://zhidao.baidu.com/question/623366795186797044.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431003999.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/252852441.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/432163432.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51687187.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中指针变量的问题
+也就是他的好处在哪，用一个变量来储存另一个变量的地址有什么作用，对于指针变量不是很明白看了一段C语言的书
+它可以非常方便的定位指针在函数参数传递，对数组合结构的操作，<br />唉，我刚开始的感觉和你是一样的，还是在实践中慢慢学习慢慢体会吧，真是一句话说不清，尤其是非常复杂的结构
+1
+none
+http://zhidao.baidu.com/question/183623807.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/503565916.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/104401587.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求助c语言逻辑表达式
+网上下载的谭浩强的c语言教程讲义，关于逻辑表达式的一道例题，内容是：<br /><br />#include&lt;stdio.h&gt;<br />main()<br />{<br /> char c=&#39;k&#39;;<br /> int i=1,j=2,k=3;<br /> float x=3e5,y=0.85;<br /> printf(&quot;%d,%d&#92;n&quot;,!x*!y,!!!x);<br /> printf(&quot;%d,%d&#92;n&quot;,x||i&&j-缉厂光断叱登癸券含猾3,i&lt;&&x&lt;y);<br /> printf(&quot;%d,%d&#92;n&quot;,i==5&&c&&(j=8),x+y||i+j+k);<br />}<br /><br />-----------------------------<br />我用linux下的gcc去编译，然后就给出了这些提示：<br />luoji.c: In function ‘main’:<br />luoji.c:8: warning: comparison between pointer and integer<br />luoji.c:8: error: label ‘x’ used but not defined<br /><br />怎么回事？
+这里错缉厂光断叱登癸券含猾了：i&lt;&&x&lt;y，少了一个字母。估计是i&lt;j&&x&lt;y或者i&lt;k&&x&lt;y吧。
+0
+none
+http://zhidao.baidu.com/question/48697802.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/512671301.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/449812420.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/450001531.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/164574225.html?qbl=relate_question_4

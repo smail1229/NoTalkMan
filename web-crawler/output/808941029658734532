@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中static int a=1和static int a; a=1有什么不同？
+如题，静态变量的赋初值方式跟动态变量相同吗？
+不可以，c语言里面没有public和static关键字，那些都是面向对象里面的。但是你可以在C语言里面const int a=1;定缉虎光臼叱铰癸歇含忙义一个常量。
+0
+none
+http://zhidao.baidu.com/question/65053558.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/78585327.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89313174.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/583387949937629245.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/60257549.html?qbl=relate_question_4

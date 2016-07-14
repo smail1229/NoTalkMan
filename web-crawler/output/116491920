@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中变量前的static有什么用？？？？
+none
+fail
+38
+static变量大概是两种情况<br /><br /> 在函数里的static变量意味着这个变量的生存期是全局的，你可以想象它实际上就是在函数外声明的， 当然因为可见范围的原因其他函数不能访问它<br /><br /> 在函数外的static变量意思是本地的， 跟不加static的差别就是其他文件不能通过extern来访问这个变量。
+http://zhidao.baidu.com/question/8153780.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/221220554.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/90486076.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/338496974.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1894019057739438300.html?qbl=relate_question_4

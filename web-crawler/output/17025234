@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的switch语句该怎么理解?
+现在遇到点小麻烦,就是选择结构中的switch语句怎么看都不明白,尤其是在这个语句后面加上一个break小弟学C不久(20天左右)
+BREAK;BREAK;就是执行完之后停下来!你是计算机,你就跟着等下条命令,我写命令控制你,你就跟着执行向右转了.有了这句!<br />CASE 向右转,不要再做下面的命令了!<br />SWITCH(命令)<br />{CASE 向左转:你向左转;/&#47!如果没有这句:你向右转SWITCH 语句就是一个开关<br />我给你举个例子吧
+8
+none
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/270536724.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/158744131.html?qbl=relate_question_4

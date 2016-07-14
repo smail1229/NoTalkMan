@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序题：输出结果（小数点后只保留一位）main(){double d;float f;long l;int i;i=f=l=d=20&#47;3;printf
+输出结果（小数点后只保留一位）main(){     double d,l;3,f;float f,i;%d %ld %f %f&quot;}        为什么结果是6 6 6;long l,d);int ic语言程序题;      printf(&quot.0 6;;      i=f=l=d=20&#47
+l都是整型;3=6，所以还是6：“&#47，i：i=l=f=d=6,d都是浮点数;”，f，对两个整型数据做除法运算需要注意的是，等式相当于，得到的永远是整数（结果相当于取整）<br />这里20&#47，所以是6，右边赋值给左边
+29
+none
+http://zhidao.baidu.com/question/73795894.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/255736397.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/243660839.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242051553.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/176774175.html?qbl=relate_question_4

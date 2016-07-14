@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序题
+要求按照畅激扳刻殖灸帮熏爆抹考试成绩的等级输出百分制分数段，A(100-85),B(85-75),C(75-60),D(60以下），输入一考生等级，输出成绩分数段。
+#include &quot;stdafx.h&quot;<br />#include &quot;iostream&quot;<br />using namespace std;<br /><br />int main(int argc, char* argv[])<br />{<br /> char grade;<br /> cout&lt;&lt;&quot;请输入考生等级：&quot;&lt;&lt;endl;<br /> cin&gt;&gt;grade;<br /> <br /> switch (grade)<br /> {<br /> case &#39;A&#39;:<br />  cout&lt;&lt;&quot;分数段为（100~85）&quot;&lt;&lt;endl;<br />  break;<br /> case &#39;B&#39;:<br />  cout&lt;&lt;&quot;分数段为（85~75）&quot;&lt;&lt;endl;<br />  break;<br /> case &#39;C&#39;:<br />  cout&lt;&lt;&quot;分数段为（75~60）&quot;&lt;&lt;endl;<br />  break;<br /> case &#39;D&#39;:<br />  cout&lt;&lt;&quot;分数段为（60分以下）&quot;&lt;&lt;endl;<br />  break;<br /> default:break;<b畅激扳刻殖灸帮熏爆抹r /> }<br /><br /> return 0;<br />}
+1
+none
+http://zhidao.baidu.com/question/235462290.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/583267093.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2202952613925162948.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/361163591038698212.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/229998602.html?qbl=relate_question_4

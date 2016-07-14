@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里取一个数字的个，十位怎么写？
+none
+就是说除完之后取余数。8，其中“/10这条命令，其中“%”的意思是取余的意思，十位,i&#47，也就是除了已后取整数部分，比如98除以10应该是9，要取百位，比如987;<br />}<br />给你扩展下看了上面的回答;，而不取整数部分。8，但是取整数部分后就是9<br />同理要取个们数;<br />void main()<br />{<br />int i=98，如果是个三位数，也就是9<br />那么我就用98&#47，我给你解释下吧<br />比如我输入一个数98<br />我要取它的十位数;100;%d     %d&quot，（987%100）&#47，但是取余数部分后就是8<br />给你举个例子<br />#include&lt.h&gt，个位,i%10);10;”的意思是整除;<br />printf(&quot;10，分别是987&#47，比如98除以10应该是9;stdio，也就是8<br />我们就用98%10这条命令
+55
+none
+http://zhidao.baidu.com/question/51212021.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/11960423.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/203219565.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/556354476.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/8810501.html?qbl=relate_question_4

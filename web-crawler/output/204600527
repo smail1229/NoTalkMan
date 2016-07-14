@@ -1,0 +1,11 @@
+社会民生 其他社会话题 
+在C语言中，假设有a,b两个值，不通过其他变量，如何交换a,b的值，求助方法，多谢！
+none
+a=a+b;<br />b=a-b;<br />a=a-b;
+6
+none
+http://zhidao.baidu.com/question/26035623.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/582932691216063005.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/368264380025555204.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/348072.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/22935288.html?qbl=relate_question_4

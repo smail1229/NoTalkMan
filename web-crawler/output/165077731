@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+a+==a=2; 是一个合法的赋值语句，赋值后a的值为：2。  这个句子在C语言中对吗？错了的话哪里错了，为什么
+none
+不对，==这里不对，不能写两个==.
+0
+none
+http://zhidao.baidu.com/question/165077808.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/222900861.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/432250999.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/208388846.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/303411738309515924.html?qbl=relate_question_4

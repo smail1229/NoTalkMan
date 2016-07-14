@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，a+=b++，，s+=1&#47;i ，什么意思？还有a++和++a有什么区别？
+none
+和++a;  和 b=++a; 之后 a是4 ; 单独写没任何区别<br /> <br />但是 如果 b=a++，执行 b=++a;  等价于 a=a+b++; 等价于 s=s+1/i，b是3<br />如果 a=3 ; 之后 a是4 ，执行 b=a++;<br /> <br />a++; 就有区别了<br />如果 a=3 ;i;<br /> <br />s+=1&#47a+=b++
+0
+none
+http://zhidao.baidu.com/question/212695082.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/548181630.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/162140403.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/536803345.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/180444240.html?qbl=relate_question_4

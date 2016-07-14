@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言。有高手吗？帮我解读下程序填空题，while查找那段不懂
+none
+分别选D,B,A<br />1、文件存在则追加，不存在则创建，用珐氦粹教诔寄达犀惮篓a+<br />2、从键盘输入名字，fgets是读文件，scanf是格式读入，getc是读一个字符<br />3、如果ferror返回值为0(假)，表示未出错。如果返回一个非零值，表示出错。<br /> <br />data是30没啥意义，就是怕20不够读一行
+0
+none
+http://zhidao.baidu.com/question/8299634.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92451031.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/422913764.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/58386813.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/121128357.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言程序是怎么运行的？为什么最后y=6？
+continue;}<br />x - =3程序的一部分<br />for(y=1;<br />        If(x%2==1)<br />{x+=5;y&lt;=50;y++)<br />{  if(x==10)  break,x=1
+运行过程：  <br />X  Y<br />1   1<br />6   2<br />3  3<br />8  4<br />5  5<br />10 6<br />想想有continue的用法是不是这样！
+0
+none
+http://zhidao.baidu.com/question/533257906.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260858812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/562872225.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/170529876.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2201793598526640348.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言里，如果定义变量时INT型，但输出是用%f，为什么结果是0.000000
+<br />main()<br />{<br />int k.000000<br />为什么呢;<br />}<br />结果是0;<br />k=-18;<br />printf(&quot,k);%f&#92;;n&quot请看这样的程序<br />#include &lt.h&gt;stdio
+18的内部表示如果看作是float.000000<br />一般不这样写，是个很小的数<br />所以输出的是0，用%d
+3
+none
+http://zhidao.baidu.com/question/453048880.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/183047169.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/347966136.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/518705508598257365.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/432015978.html?qbl=relate_question_4

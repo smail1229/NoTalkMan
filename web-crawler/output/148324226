@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言习题中的问题::::输出以下图案~
+k;k++)  这是用了什么样的思路算法啊;i-0;<br /><br />for(k=0。 详细点 求教; &quot;n&quot;=5。谢谢了,j;i++)<br />{<br />for(j=0。for(k=0,k;j++)<br />printf(&quot;<br />for(i=0;k&lt。;<br />printf(&quot。;<br /><br />printf(&quot;<br /><br />i   j   k 分别 代表着什么;i&lt;2-i;k++)<br />printf(&quot;i&lt;j&lt;);&#92;);=5;i++)<br />{<br />for(j=0;);*******&quot。for(i=0;k&lt;j&lt;<br />}<br /><br />}<br /><br />问题：int i。我看不明白;);i-0;2-i;&#92。;n&quot,j。;j++)*******<br />  *******<br />  *******<br />  *******<br />  *******<br /><br />main()<br />{<br />int i
+1-i,j.h&gt;<br />for(i=0#include &lt，<br />printf(&quot;j++)/);i++)<br />{<br />for(j=0;这里是把j初始化=0;n&quot，判断如果k&lt，如果j&lt;stdio;<br />void main()<br />{<br />int i;&#47,则j++<br />printf(&quot;&quot;);的空格要去掉<br />之后可以输出正确长方形 <br /><br />基本上没算法可以就是一个简单的for的判断;1-i;i&lt;<br />printf(&quot;i-0;i-0;);j&lt;k++)/);=5;<br />}<br /><br />}调试后输出图形于预期输出不同;<br /><br />printf(&quot，原因是<br />printf(&quot;/k&lt;k初始化=0;);&quot;n&quot;<br /><br />for(k=0;*******&quot，则k++;&#92;&#92,k
+2
+none
+http://zhidao.baidu.com/question/488275436764127892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1668206134895935627.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/228066317.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/546540944.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/361238398.html?qbl=relate_question_4

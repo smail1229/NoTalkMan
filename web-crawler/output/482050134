@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+c语言编程 int main() 与 main() 有什么不同？
+none
+int main()带返回值（整型）而main()系统默认返回为void型
+1
+　　1、main() 老式的写法。返回类型int在新型的编译器不可省略，否者会有警告；<br />　　2、int main(void) 新式的写法；<br />　　3、int main() 新式的写法；<br />　　4、void main() 老式、不标准的写法，6.0 之前的VC使用这样的写法；<br />　　main()相当于int main()；<br />　　int main(void)表示不接受参数，int main()表示授受任何数量的参数，void main()表示接受任何参数且无返回值。
+http://zhidao.baidu.com/question/579282707.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139175990.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261395666.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80781706.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/222811341.html?qbl=relate_question_4

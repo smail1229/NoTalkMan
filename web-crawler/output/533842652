@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+4.14 C语言，现有定义int a;double b;float c;char k;
+a&#47;b+c-k指的类型是？<br />为什么
+double型。因为double是最高的类型。
+5
+none
+fail

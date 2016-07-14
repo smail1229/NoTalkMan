@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若变量已正确定义并赋值,符合C语言语法的表达式是 A a=a+7; B a=7+b+c,a++ C int(12.3%4) D a=a+7=c+b
+none
+12;不符合.3%4)  &#47,a++ /不符合;&#47，是语句<br />B a=7+b+c，这是逗号表达式<br />C int(12;&#47，a+7不能做左值;/不符合;符合A a=a+7，这不是表达式。<br /><br />结论.3不能做%运算<br />D a=a+7=c+b    // &#47
+32
+none
+http://zhidao.baidu.com/question/270031315.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488360418423386012.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/396008875.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258500911.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/103878080.html?qbl=relate_question_4

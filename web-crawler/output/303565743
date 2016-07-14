@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中int *p[5]与 int (*p)[5]的区别
+none
+它的大小是5。（括号优先）<br /><br />这个在《C专家编程》里面说的很清楚,首先它是一个数组。  所以它叫指针数组，因此这叫数组指针，指向大小为5的数组，int *p[5]，首先p是一个指针。你可以看一下,也就是整型指针，它里面存放的数据类型是int *楼上说的是错的、 （从右向左解析这个表示）<br />int (*p)[5]
+35
+none
+http://zhidao.baidu.com/question/39385925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/100700518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87685578.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1755874279480885748.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/93553001.html?qbl=relate_question_4

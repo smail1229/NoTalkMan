@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言逻辑运算顺序
+=0)||(z=x+y),z)<br />}<br />k=x++&gt,%d.y;=0)||(z=x+y)应该先算哪个在算那个,k;%d;<br />k=x++&gtmain()<br />{<br />int x=-1,x;!(y--&lt,z=6;=0&&,%d!(y--&lt,%d&#92,k;n&quot;<br />printf(&quot;=0&&,y=5?如何计算
+所以k=1,则第二个表达式将不验证<br />所以.<br />所以x++&gt,则表达式的值为true<br />最后得出整个k=后面的表达式的值为true,y的值仍然为5<br />对于或运算,再++;=0))||(z=x+y) <br />就是这个顺序<br /><br />x++是先使用x的值,表达式的值为5!(y--&ltk= ((x++)&gt!(y--&lt,被强制转换为bool类型;=0)没有执行,则还要验证第二个表达式<br />于是z=x+y执行了,若第一个表达式的值为false,之后,x的值变为0,如果第一个表达式为false;=0这个表达式的值为false<br />对于逻辑与运算;=0)&&(
+16
+none
+http://zhidao.baidu.com/question/187280309.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/288438894.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/115423005.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/107979029.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/163285597.html?qbl=relate_question_4

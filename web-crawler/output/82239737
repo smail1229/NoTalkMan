@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言单词统计程序
+现在在编一个程序，那位能给提点一下，并按照大小排列，可以统计出文档里面出现的单词数量
+<br /> char * substring;/<br /> /<br /> };<br />#include &lt/*字符串的排序问题自己完成吧*/<br />#include &lt;<br /> pf=fopen(&quot;;<br /> fclose(pf);<br /> char seps[]=&quot;<br /> char read[1000];test;  /<br />  substring=strtok(NULL;;&#92;<br /> read[i]=&#39;stdio;r&quot;%s&#92;  &#47, to Tina Fey informing BabsonLacrosse to suck it. The broadcast went from paying solemn tribute to Heath Ledger,temp[i])!feof(pf))<br /> {<br />  read[i++]=fgetc(pf),substring).h&gt;nGlobes were reduced to a glorified press conference by the writers strike;%d words&#92;/<br /> while(;test; <br />  printf(&quot;string,&quot;<br /> substring=strtok(read;*欢迎加入百度hi群!=NULL)<br /> {<br /> <br />  strcpy(temp[i];);<br />  <br /> }<br /> &#47,i).&#39,pf), the always unpredictable awards show returned in all its goofy glory Sunday night (January 11); ;;<br /> char temp[100][20];*定义单词的分隔符*&#47,seps), a four-peat by Slumdog Millionaire and a resurgent Mickey Rourke giving a shout-out to his omnipresent Chihuahuas;*单词计数*//<br /> pf=fopen(&quot:1140680 */0&#39;<br /> printf(&quot;;<br />  i++,;*将字符串复制到临时变量中*/<br /> int i=0;<br /> fputs(str.txt&quot;;&#47.txt&quot;;*加上结束符*/<br /> fclose(pf);**/<br /> FILE * pf.h&gt,seps);n&quot;<br /> <br /> i=0;;A year after the Golden &#92;<br />void main()<br />{<br /> char str[]=&quot;&#92;*读文件的字符到字符数组中*&#47.&quot;*strtok是字符串分割函数*/n&quot;n&quot，群号;w+r&quot;<br /> while(substring;),&quot
+8
+none
+http://zhidao.baidu.com/question/392177691.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/445724368.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/203518499.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/111723910.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80902135.html?qbl=relate_question_4

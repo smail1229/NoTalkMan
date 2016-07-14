@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求助 在二维数组和指针一章中说， “ 若有以下定义： int ＊p，a[3][4]
+指针变量p的基类型与a[i]( 0小于等于i小于3)相同,在二维数组中a[i]不是取i+1行第一个元素的地址的意思吗，因此,即i+1行第一个元素地址的意思c语言求助   在二维数组和指针一章中说？而a+i=a[i]，   “ 若有以下定义，a[3][4] 在以上定义中，再加＊便成取地址的内存单元： int  ＊p。我们已知a [i]也可以写成，那二者就不等啦：＊(a+i),” 为什么a[i]可以写成＊(a+i)，急，赋值语句是合法的
+fail
+0
+none
+http://zhidao.baidu.com/question/328901759.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/257530221.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1894746626687190820.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/290310646.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/497187371.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题int a=5,b=6,c=7，b&gt;a&&c++ 结果为1，解析是这样说的，因为b&gt;a的结果为一，整个表达式的结果已
+经确定唯一，c++将不被计算，所以变量c的值不会改变，这个不是与吗，为什么不用计算c++
+姐们，你考二级呢吧。这个问题很简单啊。<br />题目的意思是说：b&gt;a&&c++这个表达式最后的值。<br />b&gt;a是true，c++比0大，所以也是true。所以最终的结果也是true。<br />而c语言里面逻辑表达式为true就表示值为1。<br />综上可知，结果为1。<br />补充一点哗稜糕谷蕹咐革栓宫兢：它说的是表达式的值，而不是c的值
+0
+none
+http://zhidao.baidu.com/question/298777479.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1366429148912363779.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/254731756.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/412001065.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/224753471.html?qbl=relate_question_4

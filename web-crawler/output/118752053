@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言scanf的问题。
+<br />printf(&quot,n);<br />char c=&#39,&m，%d&quot,10的结果呢;%d%c%d&quot，A;%d,c,n=0，如果我输入10A10回车的结果是什么;<br /><br />大家说,n),%d&quot,m,&c,m,&n);%d%c,&n),n=0,%d&quot;<br />scanf(&quot;？<br /><br />如果把源程序改成<br />int m=0;<br />char c=&#39那些头文件就不写了<br />int m=0;;a&#39，他们的三种结果又是什么？<br />输入10 A 10的结果又是什么样子的;<br />scanf(&quot;,c;a&#39,&m？<br />输入10;<br />printf(&quot;%d%c;？为什么,&c;;<br /><br />按照如上输入方式，%c;
+遇到你输入的空格，当你调用printf函数时<br />这几个变量的值会按照“”内你规定的格式输出，于是它把10赋给整型变量n,0<br />10a，于是它把10送给整数m）<br />同样，系统首先把10赋给m，0<br />10a,10<br />10空格，系统判断它是非整型数据，你输入10A10系统会自动把10这一个数赋给整数m（输完10你输入A时？如果a已赋值为0,&a)，所以n的值仍为0（这句话仅为我个人理解，你可以执行一下<br />#include&lt，输入A时。这样系统遇到A时;&#47.h&gt，n,0<br />10;;/stdio，A不是%d格式的;，你输入的10A10,0<br />未改之前的程序;%d&quot;<br />void main()<br />{<br /> int a。也就是说。比如，，c，但由于你是规定以%d格式输入n的,分别被送给变量m？<br /> printf(&quot，所以就把空格赋给字符型变量c,0<br />10a，并不可靠），系统就判断数字输入已完成，就不能正常付给<br />n，将输出什么，A就不会和空格字符一块赋给c，当你输完A后输入10系统认为字符型数据页输入完毕10A;<br />}<br /><br />其他的解释和上面类似;%d&quot，虽然字符型数据和0~255之间的整形数据在计算时是合法的。<br />当你输入10空格A空格10时,a);输入字符型‘A’它是输出65吗，由于系统给字符型变量开辟的存储空间只能<br />容纳一个字节的字符;<br /> scanf(&quot。同时系统认为你已经完成输入操作所以后面的10就没机会被赋给n了，系统把它也当成一个一个字符
+11
+none
+http://zhidao.baidu.com/question/253852770.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/142280865.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/129938977.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143112440.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/504892548.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 while循环
+循环条件   while（k）      与while（k!=0）     等价么？
+=0）编译器对 k!=0）是效果上是等价的。<br />while（k，非零就执行循环体，结果如果为 true 就执行循环。 但是编译器背后执行的动作不同while（k） 与while（k!=0 这个表达式求值：<br />while（k）编译器判断 k 是否是 0 值
+1
+none
+http://zhidao.baidu.com/question/258848941.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/520118211.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/28413665.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98295609.html?qbl=relate_question_3

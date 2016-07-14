@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 for语句嵌套 求解这道题是怎么运算的
+<br /> for(i=0;2;n&quot;n&quot;k&lt;);;<br />void main()<br />{<br /> int i;%d%d%d&#92,j;j&lt;k++)<br /> printf(&quot;2,i;j++)<br /> for(k=0,k;i++)<br /> for(j=0;i&lt#include &lt;<br /> printf(&quot,j;i j k&#92;stdio,k).h&gt;2
+k++)<br />当k=2时，j加1，<br />i加1，重复之前过程，整个退出，变成2;k++)，不满足条件，然后又往下执行；再次k=2时，返回上一层嵌套;2，j加1嵌套的for，不满足条件。<br />中间每步都会输出ijk的数值：for(k=0，先执行最内层的，从0变成1，再往上一层，又返回，这里也就是最下面的一个；然后又继续执行<br />for(k=0;k&lt;2，不满足条件，所以表现出来的就是一个三位的二进制过程;k&lt，直到i等于2
+4
+none
+http://zhidao.baidu.com/question/399418236.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/161954518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92049241.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1637992509001983860.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/223160575.html?qbl=relate_question_4

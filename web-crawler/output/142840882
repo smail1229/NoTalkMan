@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的FUN函数计算，f(int  x,int y)     d=f(f(a,b),f(a,c))返回(y-x)*x的值，怎样传值
+none
+=f(f(a，调用f函数；先调用f(a，然后用反回的这两个值，也就是f((b-a)*a,b),c)反回(c-a)*a,f(a，然后再调用f(a,c)),(c-a)*a),b)反回(b-a)*a，再次作为f函数的参数，反回结果为((c-a)*a-(b-a)*a)*((b-a)*a)
+5
+none
+http://zhidao.baidu.com/question/368045549903776084.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/357519454.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/396565802.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/99759269.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/287738465.html?qbl=relate_question_4

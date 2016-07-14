@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中  有定义语句 double a,b; int w;long c;若变量已正确赋值为什么(c+w)%(int)a正确
+none
+fail
+fail
+(c+w)%(int)a ： 做 % 运算前， 把a 强制类型转换成了int，当然正确了。<br /><br />w=a==b 可以看成是 w = (a==b)<br />(a==b)的结果是一个逻辑值，不能赋值给w
+http://zhidao.baidu.com/question/222044712.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/175633447.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237715553.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/297442337.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/309833146.html?qbl=relate_question_4

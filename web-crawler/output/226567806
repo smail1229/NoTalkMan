@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言表达式求值(float)(a+b)&#47;2+(int)x%(int)y 其中a=3,b=-4,x=2.5,y=4.7
+none
+00000<br />结果是-0.00000再除以2 ，结果为2<br /><br />加号前边先算a+b  结果是-1<br />把-1强制转成float类型 变成-1(int)x 和(int)y分别对x和 y 取整  .0000 = 1.00000<br />然后-1，后者2会隐式转成2.50000+2.50000<br />再-0，就直接去掉小数点及其后边的数<br />所以它们运算后结果分别为2和4<br />2%4  就是2除以4取它的余数
+13
+none
+http://zhidao.baidu.com/question/278274731.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519411220365543925.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/473091833.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/277511278.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1989313179882651747.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中“SIZEOF（INT）“是什么意思？有什么作用？
+none
+所以如果是一般使用的tc编译器(16位的)那么sizeof(int)就等于2。8位代表一个字节长度.某某的大小长度。如果是sizeof(int)那就意味着一个int型的长度..sizeof()顾名思义size of 
+27
+none
+http://zhidao.baidu.com/question/127758550.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/475882328.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/341025979.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/488328047.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155278798.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 
+C语言。 我想读取一个文件，将此文件以二进制方式读入，并把这个二进制串转换为字符的二进制表示，比如
+比如把00001000转换为&quot，并把这个二进制串转换为字符的二进制表示;;00001000&quotC语言，怎么做，将此文件以二进制方式读入。<br />我想读取一个文件
+&#39;7;j++){<br />    &#47?&#39;/&lt;0&#39;&gt;7 把第j位放入最低位并去掉第j+1到7位;=j;输出<br />    b&lt;j&gt;<br /><br />    res[k++]=(b&gt;i++){<br /> b=buffer[i];&lt;1&#39;;<br /> for(j=0，结果efgh0000<br />  &gt;<br /><br /> }<br />}<br /><br />原理是位运算<br /><br />b=abcdefgh<br />  b&lt;=j 把第j位顶到最高位并去掉第0到j-1位 若j=4;7)==1;<br />for( i=0;;&gt,i&lt;len读取入unsigned char* buffer<br />长度 int len<br />结果 char res[len*8]<br /><br />int k=0
+0
+none
+http://zhidao.baidu.com/question/28515460.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/157716830.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/936400147506123292.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/503693091.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/310042590.html?qbl=relate_question_4

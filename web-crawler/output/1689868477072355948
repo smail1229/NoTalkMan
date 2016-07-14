@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个关于printf的C语言程序题
+%d&quot,++i;%d,3;<br /> <br />结果为什么是3,%dint i = 0;<br /> printf (&quot,++i)？printf不是从右向左压栈吗,3,++i;
+程序猿是不屑使用这种带歧义的代码的<br /><br />解释<br />这里++i三次，那么i最终变成3<br />在打印出来，是三个变量i，就是三个3<br /><br />你要是不理解，最好反汇编看看汇编代码情况这个题目真的好像是跟编译器有关<br />这种代码很蛋疼
+0
+none
+http://zhidao.baidu.com/question/187787491.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1509994387670846180.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/180219071.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/255784714.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/873095479570297372.html?qbl=relate_question_4

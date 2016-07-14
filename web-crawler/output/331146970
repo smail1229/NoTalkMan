@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 指针初始化的问题
+};%s&#92;<br />	str2 = (char*)malloc(16),str1，如下代码问题出在什么地方（我用VC执行的;, *str2;<br />	printf(&quot,str2);n%s&#92，报错）<br />main()<br />{<br />	char *str1;<br />	str1 = {&quot;};bushishabi&quot;<br />	str1 = (char*)malloc(16);<br />	str2 = {&quot;n&quot，必须先用 malloc 为指针分配初始空间吗<br />另外; <br />然后要给 str 赋初值比如 我定义了一个新指针  char *str;shabi&quot
+;<br />} <br /><br />/;<br />    str1 = &quot，浪费;             <br />    free(str2);<br />    str1 = (char*)malloc(16);;/         /bushishabi&quot!<br />    free(str1)！程序退出后;    &#47,str1，不能再用了, *str2;n%s&#92，操作系统不回收此段内存; 去掉{}<br />    str2 = &quot，不然内存泄漏;/ 去掉{}<br />    printf(&quot; 要释放,str2);<br /><br />    &#47，别的没什么注意的;%s&#92;n&quot;shabi&quot;<br />    str2 = (char*)malloc(16)main()<br />{<br />    char *str1; %s 对应的参数是 char *型就好了;/&#47
+1
+none
+http://zhidao.baidu.com/question/515661518.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148080380.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/31178923.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/122163848.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128651314.html?qbl=relate_question_4

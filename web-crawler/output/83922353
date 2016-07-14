@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有符号变量的C语言程序的解释
+a);n&quot.h&gt;<br />main()<br />{<br />unsigned a=32768;;<br />printf(&quot;a=%d&#92;<br />}<br />执行后输出结果为<br />结果为-32768<br />结果为这个数有以下程序<br />#include&lt，谁能具体的说一下;stdio，看了看书也没有明白
+你的执行环境是int为16位。 <br />16位的a被赋值为32768，便将那个16位数解释为有符号的int类型。它发现格式控制符为%d,其二进制各位为 10000000 00000000. <br />在调用printf时，这个16位数据被拷贝传入printf函数，是根据格式控制符。printf执行时，如何解释这个16位数据。 <br />16位的 10000000 00000000作为int类型解释时，输出的结果是 32768 <br />2 在int为16位的环境下1 在int为32位的环境下，输出的结果是 -32768 <br />从结果看，它表示-32768
+0
+none
+http://zhidao.baidu.com/question/136460894.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/129820289.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/159098179.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/519353801.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/117718527.html?qbl=relate_question_4

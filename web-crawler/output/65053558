@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于此处的static int  C语言高手进!!
+k[i]),i;m&lt？;<br />for(i=0;<br />printf(&quot;i&lt;m++)<br />{<br />s=m;n&quot;i++)<br />{<br />if(m%i==0)<br />{<br />s-=i,s：请参照程序&lt;1001;&#47;n&quot;<br />}<br />}<br />}<br />为什么不加 static的时候 只能得到两组值完数6和8  而得不到248;：一个数如果恰好等于它的因子之和,m)。<br />&#47;);&#92;=n;stdio;%d &quot;<br />void main()<br />{<br />int m;&#47;<br />n++;i++)<br />printf(&quot,n;&#47;%d&#92;i&lt，这个数就称为“完数”;--上页程序14;<br />k[n]=i;<br />static int k[10];;<br />for(i=1;}<br />}<br />if(s==0)<br />{<br />printf(&quot. <br /><br />#include&lt;m;&#47;<br />n=-1;<br />for(m=1。例如6=1＋2＋3;1.编程&#47.h&gt. 程序分析;题目;   找出1000以内的所有完数;<br />&#47&#47
+15,60，因为程序得不到正确结果，编译器将把k作为静态局部变量，但是如果程序使用的内存对运行环境造成了破坏,20，程序对内存的访问会出现错误的，编译器就不会报错,3，静态区和堆类似,6，程序甚至文件系统就会崩溃……扯远了~~<br /><br />总结一下，而只要n的大小是运行环境也能接受的，对于静态变量，因为如果不采用static声明，k开10肯定是不够的，个数已经超过10了,8，大概讲一下，看你能不能听懂吧，编译器实际只是标记了一个数组的首地址,24,2，其地址空间也是向上的，在这之后才会出现错误，就是static数组在编译期间只分配首地址，运行期间不动态检查下标是否越界。所以对于这个小程序而言;为其分配空间，比如120的因数有<br />1，如果采用了static声明;=10时,40。实际上,5,12，那么当n&gt：<br /><br />首先，编译器将在&quot,120，而在实际执行过程中，程序也不会出错,10，如果正规来讲，为其在栈上分配内存空间;静态区&quot,4，当你使用的地址长度超过预计的分配长度时，对于k[n]这样的数组,30这问题有点深了，到120的时候才有越界的情况发生。<br />但是，声明为static程序依然能得出正确结果~~<br /><br />——————————————————————<br /><br />计算第一和第二组的时候并没有越界，编译器将把k当作局部变量来对待
+12
+none
+http://zhidao.baidu.com/question/78585327.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/55201659.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/18206269.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/538054831.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/60257549.html?qbl=relate_question_4

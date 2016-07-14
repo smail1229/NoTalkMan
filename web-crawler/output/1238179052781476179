@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int a[][3]={{1,2,3},{4,5},{6,7}}; 则数组a的第一维的大小为: ( B ) A. 2 B. 3 C. 4 D.无确定值
+怎么看出来的？
+3},7}}即二维表示就是<br />1  2  3<br />4  5 <br />6  7<br />，{4,5}，{6a【】【】。a【】【】={{1，第二个【】表示的是列数，第一个【】表示的是行数,2
+0
+none
+http://zhidao.baidu.com/question/351096399.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/417744607.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/54426854.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/103957189.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/425453540.html?qbl=relate_question_4

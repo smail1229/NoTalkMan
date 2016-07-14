@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求详解 一道c语言二级题 答案为c
+<br />   printf(“%d,p);printf(“%s&#92,One*World<br /> B）9有以下程序<br /> #include <br /> #include<br /> main()<br /> { char str[ ][20]={“One*World”,*p=str[1],One*Dream<br /> C）10;n”,”!”};<br /> }<br /> 程序运行后的输出结果是<br /> A）9,One*Dream<br /> D）10, “One*Dream,strlen(p))
+”<br />strlen(p)是计算字符串的长度字符串p指向的是“One*Dream;0&#39;&#92，不包括结束符&#39;<br />printf(&quot;%s&quot;
+0
+none
+http://zhidao.baidu.com/question/454394054246570645.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/182824232.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/181886468.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/181659712.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/242650498.html?qbl=relate_question_4

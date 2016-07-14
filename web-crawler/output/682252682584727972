@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言if单语句花括号问题
+4),0,5);<br />		 }<br />最近学编译原理。gendo是宏定义函数，发现这里加花括号和不加花括号的结果是不一样的，目的是对另一个导向函数的判断。忘大神指点if(mulop==times)<br />		 {<br />			 gendo(opr;<br />		 }<br />		 else<br />		 {<br />			 gendo(opr,0
+这个加不加括号要看你的gendo宏是如何定义的了，所以，则必须加括号，不然可能编译都会有问题gendo是宏定义函数！<br /><br />如果gendo 这个宏有多条语句实现
+0
+none
+http://zhidao.baidu.com/question/65022381.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/513601834.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/455510034517305405.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123884350.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239868017.html?qbl=relate_question_4

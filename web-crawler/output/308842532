@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言结构体的一道题 struct STU { char name[10]; int num;};
+Penghua&quot;;<br />void f(char *name.h&gt,{&quot?;.num 形式错误么;n&quot;f(p-&gt;YangSan&quot？<br />是因为  num=s[0]; int num,s[0];<br />printf(&quot;stdio.h&gt？,p-&gt。为什么只有name被覆盖 num不变。,20045}}.num;<br />num=s[0];？,20041};LiSiGuo&quot？<br />还有为什么答案说是SunDan 20042?<br />我觉得S[1]的地址都赋予了P啊;<br />p=&s[1], int num)<br />{struct STU<br />s[2]={{&quot;?;string？;num);<br />#include &lt;name;<br />}<br /><br />麻烦帮我看看哪里有错误,{&quot,200042}}？;name,p-&gt,20044};%s%d&#92,p-&gt;<br /><br />struct STU { char name[10],*p#include &lt;。;<br />}<br />main(void)<br />{strcut STU<br />S[2]={{&quot;SunDan&quot.name);<br />strcpy(name;};num)
+fail
+16
+none
+http://zhidao.baidu.com/question/399276072.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/197751042.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/5414645.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/349106273.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/419470297.html?qbl=relate_question_4

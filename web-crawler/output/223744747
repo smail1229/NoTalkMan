@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，若变量已正确定义并赋值，则该表达式 a=a+7=c+b 有误吗？怎么解释。
+none
+stdio;<br /><br />int main(void)<br />{<br />  int a=3;语句为错误的<br />如果写成a=a+7=c+b;<br />}<br />则结果为;<br />  return 0；语句为正确的<br />而a+7=b+c;,c=9,b=6,c);<br />  a=a+7；<br />a=a+7;%d %d %d&#92,c);n&quot,b,a,c=9;<br />}<br />如果如上编写程序;<br />  a+7=b+c;;<br /><br />int main(void)<br />{<br />  int a=3;%d %d %d&#92;n&quot.h&gt;<br />  printf(&quot;<br />  a=a+7,b;<br />  return 0;<br />  printf(&quot.h&gt;同样也会出现错误<br />若改为<br />#include &lt#include &lt，则无输出,a,b=6;stdio
+2
+none
+http://zhidao.baidu.com/question/224753471.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/313533697.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/561861736.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/68549209.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/396008875.html?qbl=relate_question_4

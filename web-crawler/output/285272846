@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的++a是什么意思，等于什么
+none
+fail
+6
+下面回答是不正确的<br />这个叫做 自增语句，++a 就是使a 增加 1<br />相当于 a=a+1<br />a++ 也是一个道理。只不过 a++是后加 <br />++a  a++  a=a+1   对于本身a 来讲是一样的<br />但是 b=++a    和  b=a++   b的值就不一样了，一个是先增加a 赋值给b  一个是先赋值给b 然后自身加1
+http://zhidao.baidu.com/question/228524692.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210463507.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/550097063.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/256858709.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/199115805.html?qbl=relate_question_4

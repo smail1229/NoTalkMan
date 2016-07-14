@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中变量类型后面的“&”号是什么意义呢
+就是声明一个指针型的变量：<br /><br />bool CTXmlParser, int* pnFlags )<br />{……}<br /><br />“CString* pstrError”这个我知道有这么一个函数声明？我看了调用此函数的语句:, CString& strDoc:ReadTextFile( LPCTSTR szFileName，小弟先谢过了，可“CString& strDoc”是什么意思呢，对应的实参也是CString型的？请各位回答，那个“&”号是什么意义呢, CString* pstrError
+求地址运算符<br />比如scanf（&quot;,$a）;%d&quot
+15
+none
+http://zhidao.baidu.com/question/24238440.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/918478949866321579.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/410889763.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/44853535.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/482700741.html?qbl=relate_question_4

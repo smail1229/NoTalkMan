@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言指针。比如char a[3]；然后int *p;p=(int *)&a[2];现在这个指
+关于c语言指针;p=(int *)&a[2]。比如char a[3]；然后int *p;现在这个指针p是指向哪的
+向a[2]，前面的(int *)是强制类型转换，把地址转换成(int *)类型，再赋值给p，就是数组a的第三个元素的地址。<br /><br />&a[2]就是a[2]的地址
+1
+none
+http://zhidao.baidu.com/question/1860031233777308267.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/200942016.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/409477776.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/251304922.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/472643419.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言double类型输出问题及字符输入问题
+<br /> printf(&quot;*以下为输入一个字符串*&#47：以上结果为什么输出了一个随机数;*问题3;<br /> &#47？;*问题2;%f&quot;%s&#92;<br /> scanf(&quot,&x);<br /> &#47;;<br /> scanf(&quot？;<br /> printf(&quot？*&#47;<br /><br />}<br />问题在以上程序注释中<br />编译环境是VC++6;<br /> char str[10];<br /> &#47;;<br /> scanf(&quot;%f&#92,x)？;%s&quot;%c&quot,&ch),ch)？;*以下为输入一单个字符*&#47;;n&quot;;%c&#92;n&quot;<br /> &#47,str).h&gt;,str);;<br /> &#47;<br /> &#47;*以下为输入一个double类型的数*&#47？*&#47;n&quot？*&#47：为什么没有相应的输入中断：以上输出结果为什么单个字符没有被赋值;<br />void main(){<br /> double x;stdio？;*问题1,ch;<br /> printf(&quot#include&lt
+而回车实际上输入了2个字符,肯定按了回车,所以不可见;来清空一下缓冲区,&ch),这个字符是个控制字符;,你最好用fflush(stdin),第1个被用来确认scanf结束.<br /><br />在任何读取字符的语句之前,被scanf(&quot;读到了;%c&quot,还有一个仍然保留在了缓冲区内double要用%lf <br /><br />你输入字符串时
+32
+none
+http://zhidao.baidu.com/question/89771161.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/37274991.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/125054490.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/140566689.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/580709752.html?qbl=relate_question_4

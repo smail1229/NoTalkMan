@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：从键盘上输入a与n(a和n的值都在1之9之间)的值，计算sum=a+aa+aaa+……
+则sum=2+22+222+2222(共n项的和)，n=4。例a=2。输出2468<br />怎样编程
+%d %d&quot;<br />} <br />自己做题目前多想想,i;i&lt,term=0;n,&n),sum=0;i++)<br />           {     term=a+term*10#include&lt;;<br />                 sum=sum+term,&a;<br />           }<br />    printf(&quot,n,sum).h&gt;n&quot;;<br />    for(i=0;<br />void main()<br />{<br />    int a;Sum=%d&#92;<br />    scanf(&quot;stdio
+0
+none
+http://zhidao.baidu.com/question/71174427.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/23560005.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/28464483.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/120226845.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/687503132549188124.html?qbl=relate_question_4

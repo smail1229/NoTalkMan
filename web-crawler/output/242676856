@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中0&lt;x&lt;20是什么意思
+none
+20。<br />它先比较0和x大小，结果也是1，整个结果也为1。<br />如果x小于0，然后0与20比较，如果x大于0，整个结果为1。这个不是数学意义上的取值范围，结果为0，结果为1,;x为假，则0&lt，该式判断为1，然后1比20小；小于0;x为真，x大则0&lt;x&ltC语言中0&lt
+13
+none
+http://zhidao.baidu.com/question/181857898.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/224734447.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/190867164.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/368143201734231764.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/303406994994080244.html?qbl=relate_question_4

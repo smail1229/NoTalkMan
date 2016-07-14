@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中怎样判断一个数的数据类型
+0<br />的数据类型;2）＋3比如<br />int i，要步骤；<br />double d；<br />求<br />（int）（3*i＋d&#47
+0后自动结果会取精度高的那种类型（int）（3*i＋d&#47，+3;2）是把（3*i＋d/2）强转成int 
+2
+none
+http://zhidao.baidu.com/question/371027037.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53678283.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/180295731.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/23552707.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/504496343.html?qbl=relate_question_4

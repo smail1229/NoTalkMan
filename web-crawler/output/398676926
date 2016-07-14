@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言运算表达式问题
+义int a=5;<br />则执行表达式b=++a*--a之后，变量b的值是什么,b
+就是所有运算之后才自增。而++a是操作符最高的。<br />所以b=++a*--a=6*-5=30.<br />答案错了，就是先自增，再进行别的运算a++这个后缀++是很低的运算级别
+0
+none
+http://zhidao.baidu.com/question/131842881.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53050619.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/162145167.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/235671662.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/39334274.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中1除以2为什么等于0
+none
+c语言的取整和数学上的不一样;2 ;2 ，无论小数部分是多少都是舍弃，因为1和2都是整形常量，c语言默认结果为整形值。<br />如果是1%2，也是0，所以是0.5取整为0，还是1%2。1除以2的余数？<br />如果是1&#47你问的是1&#47。因为%是取余运算符，也是0，是0
+8
+<p>因为1默认的是int型的常量，所以1/2的输出结果为了与被除数一致就输出0（0.5进行int类型转换后就变成了0）</p><p><br /></p><p>这里需要注意的就是C语言除法中，结果的数据类型是会转换成被除数的数据类型的。</p><p>比如：</p><pre t="code" l="cpp">int&nbsp;a&nbsp;=&nbsp;4;<br />int&nbsp;b&nbsp;=&nbsp;3;<br />float&nbsp;d&nbsp;=&nbsp;5;<br />int&nbsp;c&nbsp;=&nbsp;a/b;&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;变量c的结果就是1，本来4/3=1.333（为了与被除数a的类型一致，所以取了整数部分，舍去小数部分）<br />float&nbsp;e&nbsp;=&nbsp;d/a;&nbsp;&nbsp;&nbsp;//&nbsp;e的值就是1.25，因为d是float类型的</pre>
+http://zhidao.baidu.com/question/115578838.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7866733.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/36382948.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/525266580.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/305430318967670524.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中：若有定义语句：int a[4][10],*p,*q[4];且0≤i&lt;4。
+<br />（2）p[i]=a[i]与p=a[i]:语句：int a[4][10];4;且0≤i&lt！<br />（1）*q[4]是几维数组？<br /><br />小弟在此谢过了,*q[4],*p！。小弟有几个问题想请教大侠;这两个分别怎么理解！关于
+它是一个指针数组，原因，你的第一个式子估计不会成立，不过运行会有问题），它的每一个元素均为一个地址<br />(2)如题，第二个式子的意思是把a的第i列的首地址赋值给p（此时p就相当于一个一维数组(1)与2维数组相似，但绝不是2维数组，有的编译器可能能通过，而a[i]是二维数组a的第i列的首地址，即指向不确定空间，类型不匹配（你的p也没有赋初值，是个野指针：p[i]应该存放一个数据，p是一个一级指针可等价于一维数组,它能访问a的第i列的元素）
+0
+none
+http://zhidao.baidu.com/question/146634849.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88151916.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132405202.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/501043047.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141441503.html?qbl=relate_question_4

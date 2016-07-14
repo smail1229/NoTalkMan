@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+C语言 求方程aX^2+bX+c=0解,其中a.b.c由键盘输入。若方程无实根,输出没有实数根,否则输出实根
+求解决 ！！！   用比较简单的语句完成
+<br />     scanf(&quot;<br />             printf(&quot,(-b+sqrt(b*b-4*a*c))&#47,c;<br />     }<br />     else<br />          printf(&quot,(-b-sqrt(b*b-4*a*c))&#47,b,(-b+sqrt(b*b-4*a*c))/<br />         else<br />             printf(&quot;x1=%.2f&quot,&a:&quot;(2*a)),&c),x2=%;)#include &lt;<br />#include &lt.2f;input a;=0)<br />     {<br />         if (b*b-4*a*c)&#92;).2f&quot,&b;x=%;stdio;%f%f%f&quot;<br />     printf(&quot;<br />void main()<br />{<br />     float a;<br />     if (b*b-4*a*c&gt;.h&gt,c;n无实数根&#92;math;(2*a));n&quot.h&gt,b;(2*a);;&#92;
+4
+none
+fail

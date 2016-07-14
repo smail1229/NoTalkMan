@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：有宏定义：#define POWER(x) x*x则在任何情况下计算会不会引起二义性？为什么？
+none
+int a=1,b=2,c;<br />c=a+b;<br /><br />POWER(a+b)的值为5;<br />POWER(c珐穿粹费诔渡达杀惮辑)的值为9;<br /><br />POWER(a+b)=a+b*a+b<br /><br />所以会有二义性
+3
+none
+http://zhidao.baidu.com/question/263012697.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/237171058.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/472149096.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/516465703.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/485004205.html?qbl=relate_question_4

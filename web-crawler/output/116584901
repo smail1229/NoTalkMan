@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题：传递参数
+<br />}<br />这样一首题;<br />s+=a[M-1][j];<br />}<br />for(i=1;i＜=M-2int fun(int a[M][N])<br />{<br /> int I;<br />}<br />return s,j;i++)<br />{<br /> s+=a[i][0];<br />for(j=0;<br />s+=a[i][N-1];j＜N,s=0：如果要编写一个主函数，把主函数中的实参传递到上面的形参中去，应该怎么写;j++)<br />{<br /> s+=a[0][j]
+传递的只是一个数组指针，N无从得知，而函数体中的M数组做为非引用形参的时候。实际你用fun(a)调用这个函数时，肯定要出错，编译器不会检查数组的维数
+0
+none
+http://zhidao.baidu.com/question/449581739.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1110302776318433339.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/376989152.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/192094306.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/264946934.html?qbl=relate_question_4

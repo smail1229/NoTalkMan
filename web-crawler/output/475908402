@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求高手编一个简单的公式的C语言程序。公式在问题补充里。
+x3是随着变量x0变化的固定值、x1，其中x1，x0.求高手编一个程序当输入x0y=x1（1+x2）（1+x3）.、x1..、x2、x3时得到的y值、x3都需要手动输入求y、x2、x2.
+<br />scanf(&quot,y)，加在赋值语句上边好了,x1;d% d% d% d%&quot、长整形long int&lt,x2,x3如果随x0变化不可能是固定值,x3的关系;）;f%&gt,x1？x1,x2.h&gt;<br />printf(&quot;ld%&gt;f%&gt;d%&gt;<br />int main()<br />{<br />int x0=0;,x2;依次输出x0，在这里看不出任何x0的作用。不过赋值语句倒是能编译;<br />printf(&quot,x1=0，还有x0;n&quot;stdio;),x3都是什么数（整形int&lt;<br />y=x1*(1+x2)*(1+x3)，先默认整形了<br /><br />#include&lt;,&x2,&x0;d%&#92、双精度double&lt;。如果不用返回值把<br />int main()<br />{<br />……<br />return 0<br />}<br />变成<br />void main()<br />{<br />……<br />} <br />手打不易、单精度float&lt;,x2=0;n&quot,x2,&x1,x3=0,y=0,x3用空格分隔&#92;<br />return 0<br />}<br />那些x的复杂关系你自己解决或者再问都行,&x3);你确定是原题吗，而且也没有x0与x1
+0
+none
+http://zhidao.baidu.com/question/142604628.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/124810303.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239648480831474044.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/236894503.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/233939896.html?qbl=relate_question_4

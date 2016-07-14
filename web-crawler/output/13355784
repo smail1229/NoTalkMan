@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 switch函数的用法是什么？
+none
+如果是就跳入执行，只是补充一点，用来监测变量是否满足于本case相符，直到最后，否则监测下一个：在swich后面有变量同意楼上的，在case后面可以有对变量的“赋值”，所以在最后应该有一个默认的情况，也就是一个标准
+8
+none
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/44898662.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/12958579.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/81214969.html?qbl=relate_question_3

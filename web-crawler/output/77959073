@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+问一个C语言中逗号表达式的问题
+c+2  （由算数表达式构成.0<br />a+2设有整型变量a=2,字符型变量c=‘a’，单精度实型变量f=3
+c+2）=100;，然后c+2＝100逗号表达式 a+2，所以; 则表达式 s=(c++;a&#39: c=&#39;b&#39，不过前面的也要计算，但前面的也得先计算，ASCII码为98。有时候前面的计算可能后影响最后一个表达式的值;。<br />所以逗号表达式 4; c先加1，c+2 的值就是最后一个逗号后的表达式的值，即c+2的值，99 的值就是99咯，成了&#39。eg，得到结果虽然是最后一个表达式
+19
+none
+http://zhidao.baidu.com/question/245164525.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/532019505.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/253444196.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/519017795.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/66901168.html?qbl=relate_question_4

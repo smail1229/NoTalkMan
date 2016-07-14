@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+大神们！若变量已正确定义并赋值,这样写符合c语言的语法吗？ float 18.5%3
+none
+不符合，% 取余符号左右值都必须为整型………………
+0
+none
+http://zhidao.baidu.com/question/103878080.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/270031315.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/396008875.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/281404577.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/57842692.html?qbl=relate_question_4

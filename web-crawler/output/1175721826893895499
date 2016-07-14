@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，*p++是什么意思
+有*p是一个指向某个数组的指针，那么*p++这样写是应该理解为取数组下一个值还是所指数组值加一呢
+<br /><br />一，那么*p++ 是表示两个意思*p是一个指向某个数组的指针、然后，p指向下一位置的数据、取数组当前位置的值*p<br />二
+1
+none
+http://zhidao.baidu.com/question/259054476.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125445694.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/751840091654948964.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/576566645.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/368934305946036204.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 NULL的使用问题
+.<br />}<br /><br />在if语句那一行报错NULL 未声明（在此函数内第一次使用）<br /><br />怎么改if(p .!= NULL)<br />{<br />      ？ 或者是怎么声明.？
+结果为屏幕上打印出了“NULL很正常”;NULL很正常 &#92;<br />	}<br />}<br />看我这段代码;<br />int main()<br />{	<br />	int a;n&#92;)#include &lt.0的结果<br />敢问楼主的编译器是什么.h&gt;<br />	int *p = &a;stdio!= NULL)<br />	{<br />		printf(&quot;<br />	if(p ，没错啊<br />vc6;n&quot
+2
+none
+http://zhidao.baidu.com/question/158366830.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154591535.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/489081620.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/41529050.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/57481561.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+Windows8系统下怎样编写C语言程序?
+电脑的系统是Windows8 专业版的64位的。要用什么程序编写C语言？刚接触C语言。
+<br /><br />当然Visual C++ Express 2010 2012 2013 （x86 x64通吃）<br />如果想更好的兼容XP及以前系统请用CodeBlocks或者DevCPP，啊哈C非常适合你，它们都是GCC编译器的IDE，你要是只用于学习
+2
+none
+http://zhidao.baidu.com/question/171491614.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/173735333.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/197573509.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/134967854607161365.html?qbl=relate_question_3

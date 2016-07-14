@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针的问题，哪位高人能否给个简单的例子
+最好说明程序段的运行方式和结果！！<br />谢谢！
+2;&#47,*p);这里指指针p指向下一个元素;&#47.h&quot,*p=a;&#47举个例子吧，即 1 <br /> p++;&#47，即指向a[1];&#92;,3};stdio;/n%d&quot：<br />#include&quot;/<br />main( ) <br />{ <br /> int a[3]={1;所以输出了指针p所向数组a的第一个元素;&#47,*p);%d&quot;；<br /> printf(&quot;指针p就指向数组a的首地址;<br /> printf(&quot;所以输出a[1]的值;&#47
+4
+none
+http://zhidao.baidu.com/question/151587215.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/151583075.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/151482076.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97742191.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/217040694.html?qbl=relate_question_4

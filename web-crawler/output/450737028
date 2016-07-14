@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+C语言中，设x的值为4，则表达式（++x)+(++x)+(++x)的值是多少？
+none
+一定，编译器是这样运算的，刚开始为4，所以自加3次得到7; x：21 <br />VC6编译结果！，也就是： <br />g++编译结果，实现三个7+7+7=21   刚好我们老师有讲过！！！明白了吧.0中是占4个字节，编译器还是有区别的！还望你能理解！： 21 <br /><br />int X = 4; <br />的结果，不同的编译器结果会不同 <br />g++编译结果; &lt！其实 ; <br />X = (++X*4)+(++X*3).0中占2个字节，而在turbo c2；结束的语句才算结束; <br />cout &lt，程序在计算式需要完成一句语句： 42 <br /> <br />你的答案是21 是这样的： 38 <br />bcc32编译结果！就好像int 在vc 6：42 <br />VC6编译结果！，最后在运算结果：（++x)+(++x)+(++x)中： 19 <br />bcc32编译结果
+3
+none
+http://zhidao.baidu.com/question/1732182090713715107.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/489306589.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/26633316.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/9074229.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/81500492.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言开头部分，fun（）函数，有的是void fun（）。有的是char fun（），还有int fun（）什么的，谁给介绍
+还有int fun（）什么的。<br />一共都有哪些种，有的是void fun（），fun（）函数，谁给介绍的详细一些。有的是char fun（）c语言开头部分
+);<br />}<br />相应的 如果是int fun（）<br />意思就是函数结束后返回个 int（整形）的值，c语言里只不过把函数的值从数学里简单的数字扩大了  void 是指 函数运行完后 啥也不返回  比如说  <br />voidfun()<br />{<br />printf(&quot。。; hello word&quot；此时函数体内最后一句话要是 return x（x得是你定义的整形的变量）<br />进而  char fun()  返回字符型的  double fun()<br />返回double 形的   以此类推前面的 void  char int 是指函数的返回值类型 比如你做数学题时 不都会最后得到个数嘛
+2
+none
+http://zhidao.baidu.com/question/356790110.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/316134411.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/124870749.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/11010134.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/873239160192479892.html?qbl=relate_question_4

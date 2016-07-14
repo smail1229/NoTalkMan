@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的if语句的执行顺序是怎么执行的？嵌套时怎么组合，花括号的位子怎么放？
+none
+关于if嵌套有一句话很重要：else总是与之前离它最近的if配成一对，当然配过对的if就不算了
+0
+none
+http://zhidao.baidu.com/question/513601834.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/161954518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182940758.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/14148481.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/123884350.html?qbl=relate_question_4

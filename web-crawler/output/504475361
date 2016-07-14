@@ -1,0 +1,11 @@
+电脑/网络 编程语言 
+c语言中使用define宏定义的问题
+stdio;.h&gt编了一个小程序：<br />#include &lt;;n&quot,a);<br />#define x qwert<br />main()<br />{<br />char a[10]=&quot？<br />多谢;a［10］ is %s&#92;x&quot;<br />}<br />输出结果为a［10］is x<br />请问在这个程序中x怎么没被替成qwert呢;<br />printf(&quot，如下
+n&quot;n&quot。<br />如果想要输出qwert;这句话本身是有问题的;<br />宏虽然是文本替换;a［10］ is %s&#92;a［10］ is %s&#92;);,a)，但是是发生在预编译也就是说 printf(&quot。如果qwert没被定义则会出现一个错误;n&quot;;a［10］ is %s&#92，则应该写成 printf(&quot;会编译成 printf(&quot,“qwert&quot;,qwert)要替换成#define x &quot;qwert&quot
+1
+none
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/414756102.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/516465703.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1446053703972956580.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_4

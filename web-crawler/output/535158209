@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+8.32 C语言，有下列定义语句char s[3][10],(*k)[3],*p
+下列赋值语句是正确的是<br />p=s<br />p=k<br />p=s[0];<br />k=s<br /><br />求解求为什么<br />不是说一维指针指向不能和二维数组么？
+&#47，类型不同<br />p=s[0];<br />k=s    /&#47，类似char a[5];/k是一个指向3个char类型数组的指针，而p是一维指针; /&#47。s[0]是s第一维数组的首地址;s是二维数组的首地址;这个是正确的;char *p = a，类似**s，不正确<br />p=k    &#47p=s  &#47
+2
+none
+http://zhidao.baidu.com/question/295452494.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/567441688.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/533948290.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533950106.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142236676.html?qbl=relate_question_4

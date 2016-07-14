@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+以下有一段c语言程序 请高手详细解释一下
+stdio;<br />main()<br />{char bell;<br /> putchar(bell).h&quot;<br /> bell=7#include&quot
+呢~~你说是吧;)这里错了哦！如果是char bell = &#39;&#47，所以输出就是一个声音“滴” <br />}/&#47，而asc码为7的字符是个声音“滴”（屏幕上是不会打印这个字符的），在ASCII码中码值为7的; <br />第一个输出就是单纯的字符7 <br />第二个输出就是asc码为7的字符，是声音“滴”，就是7特殊，这个bell只是一个变量名字而已; //主函数 <br />{char bell，如果是char型的话看下面 <br />char bell = &#39;输出也是声音滴; /// &#47，你也不用太好奇;&#47.h&quot，明白了嘛;定义一个char型的变量bell <br />bell=7;&#47：标准输入输出函数库 <br />main() ///不是的;，这都是那个美国标准什么组织定的，我怎么解释 <br />&#47，实际应用中可以用来提醒使用者输入有误啊等等~<br />&#47，那你问我为什么a的码是97而不是1，应该是‘}’ <br />&#47，只是发出声音而已;大清早给你做题不容易哦~这个解释的蛮全的了吧~从头到尾呢 <br />/ /stdio; 输出就是a;7&#39，这就是 <br />/那要看你定义的咯#include&quot;/声明;把bell输出;/ASCII码就是这么定义的;一个标准啦 <br /><br />// <br />char bell = 7，比如你char a=7;a&#39;;bell被赋值为七 <br />putchar(bell)
+5
+none
+http://zhidao.baidu.com/question/214566114.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1302354961813023059.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/79254907.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/195428229.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/517622302.html?qbl=relate_question_4

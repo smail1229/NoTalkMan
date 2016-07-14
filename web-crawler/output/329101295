@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言初学者提出的问题（函数传递问题）
+struct node<br />{...}*x;<br />在c中主函数以前定义了这样一个结构体指针然后主函俯怠碘干鄢妨碉施冬渐数中以此定义一个变量y<br />x y;<br />为何其他函数想要传递y的时候，实参部分是&y呢？应该是y吧？y不是本来就是一个地址吗？这是数据结构书上写的
+你这是定义的毛结构体，x根本不是什么类型，而是一个指针变量，指向结构体node的<br /><br />你现在纠结的是地址变量前边加上&之后，就搞不清了。<br /><br />&是取地址，也就是存放符号之后的数据的地址。所有数据在内存中都有一个地址（包括指针）。这下你应该明白了在x前面加上&符号后，也就是取了x这个地址数据存放的位置，可能有点绕，这个自己好看看就行了。<br />还有一点就是我第一眼看你的题目还以为是函数之间进行值传递和地址传值的区别呢，<br />例：int a;  <br />    p=&a<br />    如果你把a这个参数传到另一个函数中的话，在原来的函数中是不能改变其值的。不信你自己测试。<br />俯怠碘干鄢妨碉施冬渐    你把p这个值传进去了之后，也不能改变p的值，但是能改变*p的值，也就是a的值。这样我们想在其它函数里改变a的值的话，就在a前边加个&这样就能改变a的值，但是在用的时候要加*
+1
+none
+http://zhidao.baidu.com/question/175649319716112564.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/100037888.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76453228.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241133736.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134590218885024005.html?qbl=relate_question_4

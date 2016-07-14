@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+1*2+3*4+…+19*20的值。求一个c语言程序
+none
+C:&#92;&gt;test.exe<br />sum 1*2+3*4+..19*20=1430<br />源代码如下：<br />#include &lt;stdio.h&gt;<br />#哗激糕刻蕹灸革熏宫抹include &lt;stdlib.h&gt;<br /><br />int main(int argc,char *argv[])<br />{<br />    unsigned long sum=0;<br />    int n=19;<br />    int i=0;<br />    for(i=1;i&lt;=n;i+=2)<br />    {<br />        sum+=i*(i+1);<br />    }<br />    printf(&quot;sum 1*2+3*4+..%d*%d=%ld&#92;n&quot;,n,n+1,sum);<br />    return 0;<br />}
+0
+none
+http://zhidao.baidu.com/question/14143157.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431303188276558284.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/258555444.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1639845298407127700.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241117036.html?qbl=relate_question_4

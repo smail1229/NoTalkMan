@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+long数组通过指针强制转换为char数组 c语言程序问题！
+none
+fail
+0
+强制类型转换<br />  当操作数的类型不同，而且不属于基本数据类型时，经常需要强制类型转换，将操作数转化为所需要的类型。强制类型转换具有两种形式，称为显式强制转换和隐式强制类型转换。<br />  1、显式强制类型转换<br />  显式强制类型转换需要使用强制类型转换运算符，格式如下：<br />  type（&lt;expression&gt;）<br />  或<br />  （type）&lt;expression&gt;<br />  其中，type为类型描述符，如int，float等。&lt;expression&gt;为表达式。经强制类型转换运算符运算后，返回一个具有type类型的数值，这种强制类型转换操作并不改变操作数本身，运算后操作数本身未改变，例如：<br />  int nVar=0xab65;<br />  char cChar=char (nVar);<br />  上述强制类型转换的结果是将整型值0xab65的高端两个字节删掉，将低端两个字节的内容作为char型数值赋值给变量cChar，而经过类型转换后nVar的值并未改变。<br />  2、隐式强制类型转换<br />  隐式类型转换发生在赋值表达式和有返回值的函数调用表达式中。在赋值表达式中，如果赋值符左右两侧的操作数类型不同，则将赋值符右边操作数强制转换为赋值符左侧的类型数值后，赋值给赋值符左侧的变量。在函数调用时，如果return后面表达式的类型与函数返回值类型不同，则在返回值时将return后面表达式的数值强制转换为函数返回值类型后，再将值返回，如：<br />  int nVar；<br />  double dVar=3.88；<br />  nVar=dVar；&#47;&#47;执行本句后，nVar的值为3，而dVar的值仍是3.88
+http://zhidao.baidu.com/question/126232205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/147894828.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/213913940.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/583341303084099485.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1701880089935492660.html?qbl=relate_question_4

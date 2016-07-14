@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言计算圆周率出错，求大神帮忙！
+);  <br />    printf(&quot;n&quot;   <br />   if(b==0) <br />   return 1;<br />printf(&quot;<br />main()<br />{<br />int i=1,k=1;<br />} <br />为什么计算结果老是4.0;stdio;<br />cifang(int a.0,i.h&gt.0,(k+1))*(1&#47;  <br />   else for(i=0,pi);%lf&#92;<br />double s=0;i&lt;n&quot;;<br />for(i=1;} <br />   return sum,int b);=1000,k=1#include &lt,pi=0,k++)<br />s=s+cifang((-1);<br /><br />}   <br />cifang(int a,int b)<br />{      int sum=1,s=0;i+=2;i++){ sum*=a;计算π的近似值&#92;i);b;i&lt;<br />    pi=4*s
+此处要用1; /&#47，1也是int型.0<br />因为默认的i是int型,(k+1))*(1s=s+cifang((-1);i).0&#47，所以这里两个int型数据计算结果也是int型
+0
+none
+http://zhidao.baidu.com/question/34851750.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/463350107.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192176724.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/147439433.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2009899538396827228.html?qbl=relate_question_4

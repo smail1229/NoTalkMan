@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中return()起什么作用？
+none
+fail
+0
+是将调用涵数所得的值返回到主涵数中，举个例子吧：<br />int add(int a,int b）        &#47;*函数将返回一个整型的值S给主函数中sum*&#47;<br />{int s;<br />s=x+y;<br />return s;&#47;*实现语句*&#47;<br />}<br />main()<br />{int a=10,b=20,sum;<br />sum=add(x,y);&#47;*实现函数调用*&#47;<br />print(&quot;sum=%d&quot;,sum);<br />}<br /><br />如果是无返回值的就可以这样改：<br />void   int add(int a,int b）        &#47;*函数将不返回给主函*&#47;<br />{int sum;<br />sum=x+y;<br />printf(&quot;sum=%d&quot;,sum);<br />}<br />main()<br />{int a=10,b=20,sum;<br />add(x,y);&#47;*实现函数调用,但是无返回,直接在无返回值中输出了*&#47;<br />}<br />说了这么多，应该明白了吧。<br />多看看书吧。
+http://zhidao.baidu.com/question/48725638.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/128799090.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/421834611.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/172148832.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+教育/科学 学习帮助 
+单片机C语言设计里说的可重入函数是什么？和不可重入函数的区别是什么？
+单片机C语言设计里说的可重入函数是什么？和不可重入函数的区别是什么？
+所有数据都由函数的调用者提供，或者在代码的关键部分禁用中断）、可重入函数<br />1）什么是可重入性？<br />可重入（reentrant）函数可以由多于一个任务并发使用，稍后再继续运行，而不必担心数据错误。相反。 <br />不返回指向静态数据的指针，不会丢失数据，那么它是不可重入的， 不可重入（non-reentrant）函数不能由超过一个任务所共享，除非能确保函数的互斥（或者使用信号量。 <br />使用本地数据。可重入 函数可以在任意时刻被中断；<br />函数体内调用了其他标准I&#47。可重入函数要么使用本地变量。<br /><br />2）可重入函数；<br />函数体内调用了malloc()或者free()函数。<br /><br />3）不可重入函数，要么在使用全局变量时保护自己的数据：<br />不为连续的调用持有静态数据。<br />函数体内使用了静态的数据结构，如果一个函数在重入条件下使用了未受保护的共享的资源，或者通过制作全局数据的本地拷贝来保护全局数据。<br />如果必须访问全局变量，记住利用互斥信号量来保护全局变量。 <br />函数返回静态变量。<br />绝不调用任何不可重入函数，无论是全局静态变量还是局部静态变量：<br />函数中使用了静态变量。 <br />函数中调用了不可重入函数;O函数。<br />函数是singleton中的成员函数而且使用了不使用线程独立存储的成员变量 。<br />总的来说一
+18
+none
+http://zhidao.baidu.com/question/235063191.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/359695492.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88460565.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88011397.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/94057107.html?qbl=relate_question_4

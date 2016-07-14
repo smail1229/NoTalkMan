@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，int i＝3,j=4 k=++i+j--+++i---j，结果为几？为什么？
+none
+正常是不会这样写代码的，不同的编译器可能会有不同的结果，而且这么写纯属自找麻烦涉及到优先级问题
+0
+none
+http://zhidao.baidu.com/question/3072667.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/487018868.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1882015496232768108.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/71875253.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/489759291607314532.html?qbl=relate_question_4

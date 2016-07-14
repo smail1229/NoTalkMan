@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中三个数排序
+none
+fail
+10
+三个if是并列的关系<br />程序的功能是三个数里面两两比较，从小到达一次排序。<br />例如：输入3，2，1   （a = 3，b =2，c = 1）<br />第一个if语句<br /> if(a&gt;b)<br /> {t=a;a=b;b=t;}<br />比较a和b的大小，明显a&gt;b，所以利用中间变量t保存a，将b的值赋给a，再将中间变量t的值赋给b，执行过程是｛t=a（3）；a = b（2）；b = t（3)},所以此时a=2，b=3，c =1.<br />第二个if语句<br /> if(b&gt;c)<br /> {t=b;b=c;c=t;}<br />比较b和c的大小，明显b&gt;c，将b和c的值调换，｛t=b（3）；b = c（1）；c = t（3),此时a=2，b=1，c=3.<br />第三个if语句<br /> if(a&gt;b)<br /> {t=a;a=b,b=t;}<br />再次比较a和b的大小，明显a&gt;b，将a和b的值调换，｛t=a（2）；a = b(1);b = t(2)},此时a=1，b=2，c=3.<br />然后一次打印a，b，c的值：printf(&quot;从小到大：%d %d %d&quot;,a,b,c);
+http://zhidao.baidu.com/question/450334228.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/238923296.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76096666.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/69682778.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/426302865.html?qbl=relate_question_4

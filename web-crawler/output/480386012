@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数参数传递的是值还是拷贝
+none
+或外层栈变量空间），函数出栈后，对**非常难理解;&#47,所以必须拷贝构造传递出来，所有函数出栈操作已经结束，只是传递进去的是一个访问变量的渠道，匿名变量不会生成，会传出一个值。<br />      因此;  而a并不等于函数里return的那个值，去学习编译原理的函数调用的参数压栈和出栈对应内容），很多初学C的程序员，如上面a=function这样的语法，直接使用a变量拷贝返回值）<br />    例如。（如果想知道为什么,而函数里return的值会随函数调用结束出栈而被删除。<br /><br />二 返回值<br />       返回值是按拷贝传递，都是传递值的拷贝。<br /><br />    变量a = function()，往往传进去的是指针变量的指针;注意。<br />     很明显function()必须有一个变量或常量参与计算。相当与调用点形成一个匿名的栈变量，函数已经执行完毕，其实也是把这个指针值按拷贝传送进去。 完全可以 int x = function() + 6。其实本质还是按拷贝传递:+运算时。<br />   2 C传指针进去。(其实编译器会检查语法;&#47： function（）返回int值。呵呵。<br />    其实function()执行结果自身就是一个匿名变量，所以感觉可以在函数里改变外部变量，该值在调用函数的代码段的生命周期里一直有效，如果我们希望函数内能改变外部的指针值。但是因为指针值指向一块外部内存空间（其实更多是堆空间一 参数<br />   1 所有的参数传递
+24
+<p>C语言中函数参数的传递有两种方式：传值与传地址。</p><p>传值就是将实参的值传递给形参，使得形参的值与实参一样。</p><p>传地址就是将实参所在内存单元的地址传递给形参，使得形参指向实参所在的内存地址。</p><p><br /></p><p>举例说明如下：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />int&nbsp;fun1(int&nbsp;a,&nbsp;int&nbsp;b);<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;a&gt;b&nbsp;?&nbsp;a&nbsp;:&nbsp;b;<br />}<br />int&nbsp;fun2(int&nbsp;*a,&nbsp;int&nbsp;*b);<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;*a&gt;*b&nbsp;?&nbsp;*a&nbsp;:&nbsp;*b;<br />}<br />void&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;x=5,&nbsp;y=3;<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;z1&nbsp;=&nbsp;fun1(x,&nbsp;y);&nbsp;&nbsp;&nbsp;//&nbsp;传值调用方式<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;z2&nbsp;=&nbsp;fun2(&amp;x,&nbsp;&amp;y);&nbsp;//&nbsp;传地址调用方式<br />}</pre>
+http://zhidao.baidu.com/question/43153883.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40485565.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/504673978.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/455639873.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/204359454.html?qbl=relate_question_4

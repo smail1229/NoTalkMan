@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，这种表达式1&lt;=a&lt;=10表示的意义是什么？
+none
+结果为0或1，再跟1比较;=(a&lt，先判断表达式“a&lt从后往前看。相当于1&lt;=10”是否为真
+1
+none
+http://zhidao.baidu.com/question/275648100.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/265371667.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1540100047534256587.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117597860.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/409653066.html?qbl=relate_question_4

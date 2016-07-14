@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的for语句和n++、++i 语句
+none
+++是先判断后执行自加运算;i++)会执行一次for循环内的语句;2;2;i&lt，而for(i=1;i&lt，++i是先执行自加运算后进行逻辑判断<br />举例来讲for(i=1
+3
+<p>n++这种形式是后缀自增1运算，表示先使用n值，然后n=n+1自增1</p><p>++i这种形式是前缀自增1运算，表示先对i进行i=i+1自增1，然后再使用i值</p><p>如果是单独执行这样的语句，两者没有区别，如：</p><pre t="code" l="cpp">for(&nbsp;i=0;&nbsp;i&lt;10;&nbsp;++i&nbsp;)&nbsp;printf(&quot;i=%d\n&quot;,&nbsp;i&nbsp;);//输出0-9<br />与<br />for(&nbsp;n=0;&nbsp;n&lt;10;&nbsp;n++&nbsp;)&nbsp;printf(&quot;n=%d\n&quot;,&nbsp;n&nbsp;);//输出0-9</pre><p>这两者都会循环10次，没有差别。而下面的语句：</p><pre t="code" l="cpp">for(&nbsp;i=0;&nbsp;++i&lt;10;&nbsp;)&nbsp;printf(&quot;i=%d\n&quot;,&nbsp;i&nbsp;);&nbsp;//输出1-9<br />与<br />for(&nbsp;n=0;&nbsp;n++&lt;10;&nbsp;)&nbsp;printf(&quot;n=%d\n&quot;,&nbsp;n&nbsp;);&nbsp;//输出1-10</pre><p>这两者是有区别的：</p><p>++i&lt;10这种，先改变i值，然后判断，所以，循环9次</p><p>n++&lt;10这种，先判断，然后改变n值，所以，循环10次</p>
+http://zhidao.baidu.com/question/461493433.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89536885.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/199848764.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/219806167.html?qbl=relate_question_3

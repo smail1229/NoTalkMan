@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，定义int型变量a指针*p，那么，*p=&a和p=&a是什么区别？
+none
+只能int *p=&a或者int *p;p=&a;
+1
+none
+http://zhidao.baidu.com/question/328901759.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/142141953.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/549313271.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/257530221.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/263351212905376325.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言return函数的用法
+none
+fail
+2
+这条语句一般情况下加在主函数的最后，表示程序运行正常，则返回一个整数值0。其实在windows下一般没有这个要求，除非是一个程序调用另外一个程序，或者在unix和linux下系统会要求一个程序返回一个整数值。
+http://zhidao.baidu.com/question/558556346.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126774104.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/169512984.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/102471008.html?qbl=relate_question_3

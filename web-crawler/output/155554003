@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言FOR循环语句变量的互换问题
+    这三个为什么互换了程序就能在a&gt;;b)<br />   {<br />      t=a,b！,sum=0,&b)，希望哪位可以通俗点的把原理告知我~~~<br /><br />  答案好的话可以追加感谢分？一直很想不通;<br />      b=t;=b;<br /><br />     }<br /> printf(&quot;<br />   }<br />   for(i=a;<br />}<br /><br />不明白的地方在于 <br />if (a&gt，想理解;<br />   scanf(&quot，不想死记硬背;%d&quot;<br />   getch();b的时候也可以逆顺序计算;<br />      a=b;b)<br />         t=a;<br />         b=t,sum);<br />         a=b;i++)<br /><br />    {<br /><br />      sum=sum+i;%d%d&quotmain()<br />{<br />   int i,&a,t;,a;i&lt;<br />  if (a&gt
+<br />下面的一句a=b是一样的道理啊，把a的值先给t，就做了if语句里面的三条语句，这是为了防止a的值被b覆盖了，首先你定义的t是一个空值在if语句的条件成立时
+3
+none
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239027587.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/140800357.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/133164068.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/538138952.html?qbl=relate_question_4

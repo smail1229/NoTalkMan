@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的静态变量赋初值问题，static int a=1和static int a; a=1为什么不同？
+int a=1与nt a;<br />     a=1;;<br />    a=a+1;n&quot;    <br />     a=a+1,2;<br />     printf(&quot;n&quot;%d&#92,a)，为什么到了静态变量这里;<br />}<br />多次调用结果就是1。<br />如果改成下面这样;  a=1不同呢;<br /><br />    printf(&quot;%d&#92;，static int a=1和static int a非静态变量：<br />void AddOne()<br />{<br />    static int a=1,a);  a=1是一样的;<br />}<br />多次调用结果都是2？<br />例如<br />void AddOne()<br />{<br />    static int a
+第一次进入该函数，所以每次输出都是2，定义了一个静态变量。之后每次进来都会执行a=1，声明语句只会执行一次。<br /><br />关于第二个函数，所以上面两个函数的结果不一样，a值递增;运算。之后每次进来都会执行a=a+1，定义了一个静态变量关于第一个函数，并赋初始值为1，赋值和运算语句可以执行很多次;（运算前a为1）运算，系统默认赋值为0;赋值语句和a=a+1，没有赋初始值。<br /><br />总之，第一次进入该函数
+3
+none
+http://zhidao.baidu.com/question/8153780.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/191543821.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/533061409.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/196150496.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/461089266.html?qbl=relate_question_4

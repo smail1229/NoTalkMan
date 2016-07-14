@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 指针作为函数参数传递时属于值传递还是地址传递
+%d;<br />	*y=z;<br />	z=x;<br />	x=y;<br />	*x=*y;<br />	y=z;<br />	z=*x,int *y)<br />{<br />	int z,b=5,b);<br />  p=&a;<br />}<br /><br />void swap1(int *x,q=&b.h&gt;<br />	*y=z,int *y)<br />{<br />	int *z,q)#include &lt;;<br />  int *p,int *y)<br />{<br />	int z;<br />  swap2(p;<br />	y=z;<br />  swap(a，swap2和swap3属于什么传递;<br />  swap1(&a,&b);<br /><br />void swap(int x;<br />  a=3; <br />  printf(&quot;<br />}<br /><br />void swap3(int *x;<br />	z=*x,int y)<br />{<br />	int z;<br />}<br /><br />swap和swap1分别是值传递和地址传递;<br />	*x=*y;<br />	z=x;<br />	x=y;<br />}<br /><br />void swap2(int *x;  <br />  swap3(p,%d&quot,b);<br />}<br /><br />main()<br />{<br />  int a,b,*q,q),a;stdio
+传地址 <br /><br />看形参是不是指针
+1
+none
+http://zhidao.baidu.com/question/37552960.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/73801045.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127519540.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/476077553.html?qbl=relate_question_3

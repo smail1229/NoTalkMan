@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+看一下这个C语言程序怎么老出错！
+include&lt:f0 97 26 c4 7f 选择“关闭”终止应用程序;<br />      }<br />      if(l==n)<br /> printf(&quot,n;<br />    }<br />}<br /><br />这个题如果把那个unsigned去下来就行了;<br />  u++;<br />main()<br />{  unsingned long a;<br />      for(j=u;%d     %d&#92，如果不出就会出现<br />TC <br />NTVDM CPU 遇到无效的指令<br />CS;i++)<br />   {  a=i*i:0084 0P;;<br />      while(a.h&gt:ffff IP;<br />      u=n=0;<br />   int m[5],j,l);j&gt;stdio!=0)<br />      {  m[u]=a%10;=0,u;<br />      l=a，把下面的那个int 改成long型就会出现结果等于0不知道这二种情况是什么原因;i&lt,i;<br />   int i;<br />  a&#47,l,t;<br />      }<br />      u--;=10。<br /><br />不知道这是什么原因;n&quot;<br />   for(i=10;<br />      t=1;<br />  t*=10;254;j--)<br />      {  n+=m[j]*t，<br />还有如果把那个unsigned去下来
+j--)<br />{<br />n+=m[j]*t，其实很简单.h&gt,t,i，当int*int时其计算的中间结果是做为一个int型来保存的;<br />for(j=u;<br />while(a，这样的话TC报什么错都有可能。下面是我调试好的，i*i就是33124;=10。<br /><br />这个在long前面的unsigned，就是这个数直接造成了数据溢出;<br />l=a：<br />众所周知,n;<br />u=n=0;n&quot,j,u经过调试还是找到问题了;<br />u++;i&lt;stdio;<br />int m[5]，你改成<br />printf(&quot;<br />long i。<br /><br />再来说一下“结果等于0”的现象;<br />a/<br />t*=10;j&gt，所以就出现“结果等于0”了,i;254;%ld %ld&#92，当i=182时;，面i和l是两个long型的数,l;=0!=0)<br />{<br />m[u]=a%10。单步调试到i=182就可以看到a的值出现激增; <br />就行了,l);i++)<br />{<br />a=i*i;;<br />main()<br />{<br />unsigned long a;<br />t=1。你只要把int改成long就可以解决溢出的问题，其实要不要都没关系;<br />}<br />u--。<br />#include&lt，你在输出时用的是&quot;n&quot;<br />}<br />if(l==n)<br />printf(&quot;%d %d&quot;,long型的数据域是-65536~65535;%ld %ld&#92;<br />for(i=10。<br />那么,l)，TC里的int型的数据域是-32768~32767
+2
+none
+http://zhidao.baidu.com/question/509905970.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223956970.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2138151455421288948.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/62416809.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/232571618.html?qbl=relate_question_4

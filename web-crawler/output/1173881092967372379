@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求1-N之和,如果和大于30000的话就break,if sum&gt;=30000 break 如何用C语言程序写
+none
+/加到几;这个不需要使用break<br />int fun(){<br />int i=sum=0;i++){<br />sum+=i<br />}<br />return i;//30000&#47，值大于30000;sum&lt;<br />if(
+0
+none
+http://zhidao.baidu.com/question/202596505.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/194788326.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/523659328.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/505272526.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234956218.html?qbl=relate_question_4

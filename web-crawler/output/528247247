@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if else语句在else那儿老是提示输入语句怎么回事？
+none
+他后面必须包涵一句话，明显是包涵要两句话，多句，要是看不太懂，也就是一个分号，而且只能是一个分号（一句话）<br />要是包涵多句话，都括起来<br />这样虽然多占几行if else while for等都不是完整的一句话，所以要用花括号括起来<br />这么说，需要用{}花括号括起来，一般的写法是不管是一句，让他当成一句话<br /><br />你这个小程序，你明白了吧<br /><br />在c中，你可以每个if else while for等后面都用{}这个括起来<br />在c++中，因为他后面没有分号<br />记住
+2
+1、if else while for等都不是完整的一句话，因为他后面没有分号、他后面必须包涵一句话，也就是一个分号，而且只能是一个分号（一句话）、要是包涵多句话，需要用{}花括号括起来，让他当成一句话、<br />2、if是条件判断语句，只有if的条件成立（表达式的值为真）后，才会执行if部分的代码，否则将会执行else的代码。<br />如果是if...else if，则满足第一个if执行第一个if里的代码，如果不满足第一个if，而满足第二个if，则执行第二个if（即else if）的代码，如果都不满足，就不执行，如果后面有else（不带if的else），则只要前面的if和else if都没执行，就执行最后一个else。
+http://zhidao.baidu.com/question/14026511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127391579.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/160607660.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/584422961.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126649919.html?qbl=relate_question_4

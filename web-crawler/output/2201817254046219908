@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言改错误，统计字母，数字，空格，和其他字符个数。一定要用数组呀，最好能改一下程序
+a&#39; &#39;z&#39;string;<br />    int i=0;A&#39,others);    <br />        else if ((str[i] &gt;)&&(str[i] &lt;)&&(str[i] &lt; &#39;<br />    int letters=0.h&gt;0&#39;))         <br />                 digits++;<br />  i++;= &#39;= &#39;<br /> return 0;9&#39;%s&quot;  <br />    scanf(&quot;;<br />  } <br />    printf(&quot;<br />     while(str[i];         <br />             else if (str[i] == &#39,letters;)||(str[i] &gt;<br />int main()<br />{<br />    char str[81]#include&lt;Z&#39;stdio,str);= &#39;)               <br />                 blank++,blank,digits=0;&#92,digits;0&#39;)                                                                                           <br />  {<br />        if ((str[i] &gt;= &#39;%d %d %d %d&quot;;              <br />                  else others++;))  <br />            letters++;= &#39;)&&(str[i] &lt!=&#39; <br />#include&lt,others=0,blank=0.h&gt
+fail
+0
+none
+http://zhidao.baidu.com/question/205162119.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/29554757.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153837977.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/408044103.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/18085894.html?qbl=relate_question_4

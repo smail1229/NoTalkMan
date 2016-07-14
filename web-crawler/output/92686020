@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有关C语言解一元二次方程问题
+<br />      printf(&quot; <br />      printf(&quot;);); <br />                            system(&quot，所输入的值没有赋值到a;);<br />      printf(&quot;%f&quot，请问我的问题出在哪里;);<br />      d=pow(b,&c),&a),b;<br />                            x2=(-(double)b-sqrt(d))&#47;),x2);n&quot,c);<br />      printf(&quot;方程式有虚根;<br />      }while(a=0);<br />                            }<br />                            x1=(-(double)b+sqrt(d))&#47;<br />      printf(&quot!=0)值,x1);n&quot;=0))<br />      {<br />                        printf(&quot;n&quot：&quot;math;(2*(double)a);n&quot：&quot;<br />      scanf(&quot;(2*(double)a);<br />                            return 0：<br />#include&lt;;<br />      printf(&quot;<br />      if((d&gt，请指教;请输入b值;n&quot;求方程式ax(2)+bx+c=0的一元二次方程式的根;<br />main()<br />{<br />      double a;<br />      double d=0我写的程序如下;<br />                            printf(&quot;pause&quot。;%f&quot,c里;,&b);;请输入c值，先谢啦,x2=0;方程式有实根;),a;n&quot。。&#92，在输入a;n&quot,c;);方程式的根x2=%f&#92;<br />                        }<br />                        else<br />                        {<br />                            printf(&quot;<br />                            printf(&quot,b;请输入a(a;=================================&#92。;;a=%f;),c后,2)-4*a*c;<br />      do<br />      {<br />      printf(&quot。,b：&quot。&#92,b;<br />      scanf(&quot;<br />#include&lt;;<br />      scanf(&quot,x1=0,c=%f&#92;stdio;方程式的根x1=%f&#92.h&gt.h&gt;=================================&#92;);n&quot.h&gt。&#92;,b=%f;%f&quot;stdlib;<br />#include&lt
+还有,所以用scanf时应用&quot你声明的变量a，那while条件里应该用比较语句.，不管你输入了a的值为多少;%lf&quot,b,c都为double，所以;，这样;之后，应该是while(a==0)，而不是赋值语句，执行完while(a=0).while的话，如果你硬是要用do.,a的值就为0了;循环呢，你为什么要用do{}while()
+2
+none
+http://zhidao.baidu.com/question/23885680.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89165404.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195459133.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/492862023.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1753956314290966068.html?qbl=relate_question_4

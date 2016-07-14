@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+下列可作为c语言赋值语句的是（） A)x=3,y=5； B)a=b=6 C)i--； D)y=int(x)； 答案是c 求解释。。。
+none
+ 没有分号，如果是  int x=3;int y。<br />C，只赋值时是不能这样写的:int x=3: 相当于  i=i-1,y=5;这样是对的A;<br />B，应该写成x=3：  声明变量并初始化时：x没有定义;y=5;但是; y=int(x);<br />D，不是一个完整的语句
+51
+none
+http://zhidao.baidu.com/question/408770636.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/463737707.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/34104060.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/63871014.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/428579662.html?qbl=relate_question_4

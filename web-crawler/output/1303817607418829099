@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 里面的int main()中的int代表什么？
+none
+int main() //这里int是指返回值类型<b穿顶扁雇壮概憋谁铂京r />｛<br />return 0; //这里返回的0，就是函数返回值，其类型要与前面的声明相一致！<br />｝
+0
+none
+http://zhidao.baidu.com/question/261395666.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41716462.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80781706.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/139175990.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203393732.html?qbl=relate_question_4

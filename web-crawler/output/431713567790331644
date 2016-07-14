@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求答案 c语言编程：编写函数int StrCount(char* str1,char* str2)。
+要求;howareyouareGGGare&quot,char* str2);,str2)后输出结果，调用函数StrCount(str1。如输入str1为&quot，返回该数值。函数统计str2在str1中出现的次数;are&quot编写函数int StrCount(char* str1，str2为&quot：在主函数main中初始化str1和str2;。Str1和str2为两个输入的字符串
+;pause&quot;* run this program using the console pauser or add your own getch;int StrCount(char* str1;)    {        while(str1[i];howareyouareGGGare&quot.h&gt;stdio;    char str1[]=&quot, char *argv[]) {    int count;&#92;} int main(int argc;0&#39;        }    }    return count;                j++;    while(str1[i],char* str2){    int i;            j=0;)        {            count++,j;&#92;            }                    }        if(str2[j]==&#39!=&#39;                j=0;&#92;            }            else            {                i=i-j+1,count)!=&#39;0&#39;0&#39.h&gt;&#92;&&str2[j];0&#39;    char str2[]=&quot;    i=j=0!=&#39;) or input loop *&#47, system(&quot;&#47,str2);#include &lt#include &lt;    int count=0;    return 0;    count=StrCount(str1;)        {            if(str1[i]==str2[j])            {                i++;%d&quot;;are&quot;    printf(&quot;;stdlib
+1
+none
+http://zhidao.baidu.com/question/507917208.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/58273354.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/319961458.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/432390753.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/151542292.html?qbl=relate_question_4

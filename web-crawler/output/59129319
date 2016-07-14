@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+写出数学计算式y=√(sin72°&#47;|1+x|)的C语言表达式。
+none
+y=sqrt(sin(72*PI/180)/abs(1+x));
+1
+none
+http://zhidao.baidu.com/question/194554387.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1540030293463400427.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/109373656.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/309211579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/395577622.html?qbl=relate_question_4

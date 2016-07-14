@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言表达式分析
+a = 12<br /><br />a + = a - = a * = a  为什么等于0？
+这个算法是从右往左算<br />算法步骤等于这样的思维<br />a*=a a*a=a 这时a=144<br />a-=a a-a=a 这时a=0<br />a+=a a+a=a 这时a=0
+1
+none
+http://zhidao.baidu.com/question/435732390.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/248858244.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/117615012.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/562476945.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/562658545.html?qbl=relate_question_4

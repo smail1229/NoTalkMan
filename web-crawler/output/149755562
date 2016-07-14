@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于%符号的运算
+求10000秒等于多少小时多少分多少秒 举个列子说100秒是1分40秒<br />请求高手们写下具体过程最好能说明下每一步，我是初学者，谢谢。
+stdio;/<br />main()<br />{<br />    int n=10000;;3600;%d小时 %d分钟 %d秒&#92;小时数为n/60<br />/60;3600   余数为 n%3600<br />&#47.h&gt;多少秒就直接对60求余即可 n%60<br />#include&lt/ <br />/n&quot;/余数再除60就是分钟数;&#47，即 (n%3600)/&#47,n%60);<br />    printf(&quot;1h=3600 s ---&gt,n%3600/定义秒数为n;1m=60 s -----&gt,n&#47
+3
+none
+http://zhidao.baidu.com/question/139490628.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/172753865.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542837606.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/181389952.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/43680252.html?qbl=relate_question_4

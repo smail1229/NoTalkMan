@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言函数指针调用
+ }<br />  main()<br />  { char b[4]={&#39,*p=b;;;a&#39; printf(&quot, *p);b&#39;有以下程序<br />  point(char *p){ p+=3;<br />    point(p);n&quot;%c&#92,&#39;};c&#39;d&#39,&#39,&#39;
+写在同一行,&#39;&#47，不是局部变量<br />/ / 这里传递的是指针;}void point(char *p){ p+=3;;c&#39; /n&quot;b&#39;/;a&#39;d&#39，在函数里面改指针是“临时变量”; 输出结果为a, *p), *p=b;/临时对象不会被记录。<br /><br />printf(&quot，p是char*的<br /><br />point(p);//;/;%c&#92; } &#47,&#39;加上void比较好 <br /><br />char b[4]={&#39，如果改p指向的内存就可以被记录,&#39
+3
+none
+http://zhidao.baidu.com/question/233815980.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1958211191107943060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/512231721.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/125407226.html?qbl=relate_question_3

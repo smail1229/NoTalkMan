@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编写 用数组输出杨辉三角十行
+none
+,j;10;j++)<br />   a[i][j]=a[i-1][j-1]+a[i-1][j];<br /> for(i=1;j++)<br />  a[0][j]=0;j&lt;<br />    for(i=0;);j&lt;i++)<br />  for(j=0;i&lt;10;%4d&quot;n&quot;<br />   if(j==i)printf(&quot;i++)<br />  for(j=1;i&lt;n&#92;<br /> for(i=0;<br /> ;=i;&#92,a[i][j]);10;10;j++)<br />  {<br />   printf(&quot#include&lt;i&lt;<br /> int a[10][10];10;i++)<br />  a[i][0]=1;<br /> for(j=1;<br /> ;j&lt;stdio;<br />void main()<br />{<br /> int i.h&gt
+99
+none
+http://zhidao.baidu.com/question/176123552.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/201037002.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/351865308.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/171799981.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1669617054421086907.html?qbl=relate_question_4

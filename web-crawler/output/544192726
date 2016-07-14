@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言刚入门 else if 和else{ if }的区别
+0) {    }<br />    }<br />}<br />这两种方法是不是一样的;0){    }<br />else if(a==0){    }<br />else if(a&lt比如说判断a的正负号或零<br />if(a&gt;0){    }<br />else <br />{<br />    if(a==0){    }<br />    else<br />     {<br />        if (a&lt;0){    }<br />和<br />if (a&gt
+0){    }<br />else<br />if(a==0){    }<br />else<br />{<br />if (a&lt，变为<br />if (a&gt;0) {    }<br />}<br />}<br />实际上可以去掉第一个else后面的大括号（因为这个时候else后面只有一个if else语句）;0) {    }<br />}<br />同样最后一个else后面的大括号也可以去掉，才必须加{}<br />这样的话<br />if (a&gt。<br />在if 和else后面;0) {    }<br />然后空格和回车换行在C里面用来分割关键字的时候是等价的，可以不用加{}，如果只有一个语句的话一样的，变为<br />if (a&gt，只有多句话的时候;0){    }<br />else<br />{<br />if(a==0){    }<br />else<br />{<br />if (a&lt;0){    }<br />else<br />if(a==0){    }<br />else<br />if (a&lt
+1
+none
+http://zhidao.baidu.com/question/480539380.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90716472.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1302232882380236939.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/522400918.html?qbl=relate_question_4

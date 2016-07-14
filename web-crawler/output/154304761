@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计大赛试题
+输入一个数看看能不能整除11如果能输出这个数，如果不能把这个数重新排列一下要求重新排列的数能整除11且是最大数。<br />例如急需一个程序请大家帮忙想想
+= 0 )<br />  {<br />   a[i] = num % ti:&quot;<br /> if( num % 11 == 0 )<br /> {<br />  printf( &quot, m = 0;= i;<br />    a[j+1] = temp;%d&#92。<br /><br />#include&lt;<br />   i++; ti;.h&gt;<br /> scanf( &quot，每次只需交换数组中两个元素的位置即可;= 0!&#92;<br /> printf( &quot，判断能否被11整除;<br />  while( num &#47我写了个程序;<br />    temp = a[j]; j &lt;<br />    }<br />   }<br />   if(nable == 1)<br />    break;%d&quot;; k, &num )？<br /><br />主要的算法思路是若输入的数不能被11整除; t &lt;n&quot;);<br /> }<br /> else <br /> {<br />  int a[10] = {0};n&quot;<br />  for(int k = i;<br />  int ti = 10;n&quot, i = 0; k &gt, nable = 0;Please input your number;<br />    a[j] = a[j+1];stdio;<br />  }<br />  a[i] = num;<br /><br />int main()<br />{<br /> int num, m ); j++)<br />   {<br />    int temp;<br />    for(int t = 0; );Your number is undivisible;<br />  }<br />  if(nable == 0)<br />   printf(&quot;<br />    if( m % 11 == 0)<br />    {<br />     printf( &quot;%d&#92;，就先用一个数组将输入数的每一位存起来;<br />     break; ti ，不知道能达到你的要求不;<br /> }<br /> return 0; k-- )<br />  {<br />   for(int j = 0; t++)<br />     m = m * 10 + a[t];<br />     nable = 1，然后通过交换数组元素的位置达到重新排列数的目的;<br />   num = num &#47，不能则继续循环, num )，交换（即）重新排列后再将数组合
+36
+none
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158641135.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/136520918.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/155690620.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/573116012.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中elseif和else if有区别吗？
+none
+<br />实际上是<br />if()<br />{<br />a();<br />}<br />b()。如<br />if()<br />a();<br />b()。如果是多条的话应该用{}括起来，只有else<br />if()<br />{}<br />else<br />{}<br />你说的elseif像是vb的，else也一样，if()默认只带一条语句，c应该这样。<br />if()<br />{}<br />else<br />{<br />    if()<br />}<br />另外c中c语言没有elseif
+3
+none
+http://zhidao.baidu.com/question/90716472.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/480539380.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/482318726.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/528157144.html?qbl=relate_question_4

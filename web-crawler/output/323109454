@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中定义结构体有哪些方法?
+none
+<br />② 直接定义结构类型变量：有三种形式<br />① 定义类型时定义变量：<br />（1）结构体类型和结构体类型变量是不同的概念。如果一个结构体中又嵌套一个结构体，定义结构体类型变量时应先定义<br />结构体类型：struct 结构体类型名<br />{<br />成员列表<br />}变量名列表。<br />使用结构体时注意，系统才为所定义的变量分配相应的存储空间：struct<br />{<br />成员列表<br />}变量名列表。只有定义了一个结构体类型变量。<br />（2）定义了—个结构体类型后。<br />（3）结构体成员的引用，应采取外层向内层逐级访问的方法，它在所有的运算符中优先级最高1．结构体类型数据的定义方法和引用方法<br />定义结构体；<br />③ 由已定义的结构体类型来定义变量，系统并没有为所定义的各成员项分配相应的存储空<br />间：<br />结构体变量名，则要访问一个成员<br />时：struct 结构体类型名变量名列表：在定义了结构体类型变量后，然后再定义变量属于该类型；<br />引用结构体类型变量：struct 结构体名<br />{<br />成员列表<br />}.＂是成员（分量）运算符.成员名<br />这里＂，采用下列方法引用结构体类型的<br />变量；<br />定义结构体类型的变量。结构<br />体类型变量占用内存的字节数是所有成员占用内存长度之和
+7
+struct time_str{<br />  unsigned char hour,min,sec;<br />  unsigned int days;<br />}time_of_day;<br />这告述编译器定义一个类型名为 time_str 的结构 并定义一个名为 time_of_day 的结<br />构变量 变量成员的引用为结构 变量名.结构成员<br />struct time_str oldtime,newtime;<br />这样就产生了两个新的结构变量 这些变量都是相互独立的
+http://zhidao.baidu.com/question/323112194.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143844286.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237853434.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89128922.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/535824970.html?qbl=relate_question_4

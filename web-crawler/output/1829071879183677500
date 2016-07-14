@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言宏定义算法
+#define   N    2<br />#define   M   N+1<br />#define   NUM   2*M+1<br /><br />我想问为什NUM=2X2+1+1珐户粹鞠诔角达携惮毛，而不是2X（2+1）+1呢？
+宏只是在编译的时候进行替换，而不会对定义的内容进行计算，只是单纯的替换，  首先N 定义为2，M珐户粹鞠诔角达携惮毛 定义为N+1, 在编译的时候，C系统就会把这里的N变为2， <br />下面的NUM定义为了2*M+1,在编译的时候，就直接把M变为N+1，放进去， 系统只是做了替换，<br />如果你用 #define N 2<br />         #deine M (N+1)<br />         #deine MUN 2*M+1   则可以得到MUN为2*（N+1)+1，要记住，宏只是替换，
+0
+none
+http://zhidao.baidu.com/question/314176150.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/121414009.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/299691578.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/65095819.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/387015022.html?qbl=relate_question_4

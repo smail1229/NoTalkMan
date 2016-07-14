@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮忙解答三道C语言程序设计的题
+还不过瘾，应输出123。<br />（2）分别输出每一位数字，就只剩下一个桃子了。猴子 第一天摘下若干个桃子。<br />（3）按逆序输出各位数字。<br />3.输入四个整数a，例如原数为321。。<br />21，用函数的递推调用来处理，要<br />（1）求出它是几位数,c。。，第二天早上又将剩下的桃子吃了一半，有多吃了一个，求第一天共摘了多少个桃子，给加分奖励,b，以后每天早上都吃了前一天剩下的一半零一个.猴子吃桃问题。<br />如果验证答案正确,d,找出其中最大的数。，又多吃了一个，当即吃了一半.给一个不多于5位数的正整数，到第十天早上想在吃的时候
+d.h&quot; <br />}<br />第三道<br />#include &quot,&c, char* argv[])<br />{<br /> printf(&quot;n&quot,x2;%d&quot; <br />day=9;<br /><br />system(&quot,x1;<br />void main()<br />{<br /> int count=1,&n),x1);<br /> while(n&gt;*第一天的桃子数是第2天桃子数加1后的2倍*/input 4 number:&quot;0) <br />{x1=(x2+1)*2;stdio;请输入一个数字&quot;the total is %d&#92;pause&quot;10;<br />  n=n&#47,c;%d%d%d%d&quot,&d);<br /> printf(&quot;/这个数字是%d位数&quot;stdlib;);<br /> scanf(&quot;; <br />while(day&gt;<br /> else return b.h&quot; <br />day--;=10)<br /> {<br />  count++;;max=%d&#92;n&quot;);<br /><br /> }<br /> printf(&quot;<br />#include &quot;.h&quot;),max(c;stdio.h&quot,b,&a,count); <br />x2=x1;b)<br />  return a;<br /> int n;;<br /> scanf(&quot; <br />} <br />printf(&quot;,max(max(a,b),d)));<br />int max(int a,int b)<br />{<br /> if(a&gt;<br />}<br />第二道<br />void main() <br />{ <br />int day;stdafx; <br />x2=1,&b;<br /> return 0;<br />#include &quot;<br />}<br />int main(int argc;<br /><br /> printf(&quot;<br /> int a第一道<br />#include &quot
+1
+none
+http://zhidao.baidu.com/question/213949427.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/357259325.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88873601.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/159182464.html?qbl=relate_question_4

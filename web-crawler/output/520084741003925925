@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言：调用函数，交换两个变量的值。
+a;n&quot;}<br />这个输入3;tb=%d&#92;n&quot,b,&b),b);调用函数后;<br />  printf(&quot&#47，y的值 <br />} void main()<br />{  int a;; &#47;  <br />  temp=x：<br />#include &lt：a=%d&#92,&a, int y)<br />{<br />  int temp;stdio,a.h&gt;<br />  swap(a,5为何值没有被交换,b)：a=%d&#92;tb=%d&#92？<br />不要给同等指针的运算;&#47:”);;<br />  scanf(&quot;调用函数前;交换形参x; x=y;<br />  printf(“请输入两个整数a和b;;<br />void swap(int x ;<br />  printf(&quot;  y=temp，使用整型参数,5为何答案也是输出3;&#47,b);程序1;%d%d&quot，那个可以理解，只是这个不能
+<br />C语言函数参数的基本规则是值传递这个无法交换数据、值的传递，所以传递时只能实现实参向形参的单向的。这就是为什么需要使用指针才能实现值交换的原因
+3
+none
+http://zhidao.baidu.com/question/43153883.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/485378550.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1861343003486138027.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/182912687.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/414942150.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+求N!(阶乘) C语言
+none
+fail
+0
+有影响，<br />int的值域是-32768~32767<br />float的值域是-3.4e-38~3.4e+38<br />也就是说float类型的至于要比int类型的值域大。<br />既然是n的阶乘，自然是至于越大越好，最好是用double类型。<br />如果用int类型的话，那么，n的值稍大一点就会出现溢出。
+http://zhidao.baidu.com/question/29975402.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88700974.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127096176.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91991924.html?qbl=relate_question_3

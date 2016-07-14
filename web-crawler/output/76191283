@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急求c语言考式题：从键盘上依次输入一批数据，求最大值，并统计出其中的正数和负数个数
+none
+fail
+fail
+#include&lt;stdio.h&gt;<br />void main()<br />{<br /> int n,i,a[10000],max,sum1,sum2;<br /> scanf(&quot;%d&quot;,&n);<br /> for(i=0;i&lt;n;i++)<br />  scanf(&quot;%d&quot;,&a[i]);<br /> max=a[0];sum1=0;sum2=0;<br /> for(i=0;i&lt;n;i++)<br /> {<br />  if(a[i]&gt;max) max=a[i];<br />  if(a[i]&gt;0) sum1++;<br />  if(a[i]&lt;0) sum2++;<br /> }<br /> printf(&quot;%d %d %d&#92;n&quot;,max,sum1,sum2);<br />}
+http://zhidao.baidu.com/question/26993442.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/43734723.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/198810389.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/93169046.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1539717983309939187.html?qbl=relate_question_4

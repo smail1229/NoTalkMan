@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一个求平均值的C语言程序
+50求n个整数的平均值。谢谢<br />例如输入 10，30，60 输出结果为，随意输入任意个整数，求它们的平均值
+h&gt#include &lt;<br /> while(1)<br /> {<br />  scanf(&quot;调试成功<br />/<br />}<br />&#47,sum=0;<br />main()<br />{<br /> int n;stdio;<br /> }<br /> avg=sum/;;n&quot;&#47,count=0;count;<br />  sum+=n;<br /> printf(&quot;<br />  count++;<br /> float avg;%d&quot;average is %f&#92;<br />  if(n==0)<br />   break,avg);&#47,&n)
+2
+none
+http://zhidao.baidu.com/question/402351910.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/249567290.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/50516742.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/236830076.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/85662842.html?qbl=relate_question_4

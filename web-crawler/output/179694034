@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言——if语句
+ <br />if(i==0)scanf(&quot,i) ;<br /> printf(&quot;;%d&quot.h&quot;%d&quot,&i);; <br />main() <br />{int i=0;stdio#include&quot;<br />} <br />为什么没有执行scanf语句
+是不是你用的编译器的问题。我用的是dev c++<br />你再看看.h&gt; 头文件试试？ 不行的话你加#include &lt;stdlib有执行该输入语句啊
+1
+none
+http://zhidao.baidu.com/question/123984842.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/102514008.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/84955984.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/64598888.html?qbl=relate_question_3

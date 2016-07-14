@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C＋＋中的什么代替了C语言中的带参数宏定义？谢谢
+有点无法理解<br />我看到有人说模板可以理解为高级点的宏如题，答案是内联函数，这对吗
+模板 inline函数 都不算是宏定义<br />都不能算完全代替宏<br />比如inline 函数 是否被直接替换 还是作为普通函数  编译器会自己判断的 而宏是无条件替换<br />模板 看起来像宏，但实际上它一般不会被带入到函数中 <br />即编译的时候 大多数时候都是有自己的符号的<br /><br />教科书的话 答案就是内联函数了 <br />这个是唯一一个C++中 可以不产生函数本身符号 而是在编译的时候可以替换到主调函数中的语句类型
+1
+none
+http://zhidao.baidu.com/question/191369670.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/175581896409934524.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/384163822.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/59396415.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1817720578283635068.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 break疑问
+，还是跳出了read(word_address)函数....&#47.&#47.;&#47;此处省略<br />read(1)..;&#47.。<br />谢谢啦～～<br />main()<br />{<br />;此处省略<br />while(aa==0) break;<br />delay(10)，请高人指点;<br />：<br />我的疑问是当while(aa==0)条件成立..&#47;此处省略<br />}<br />read(word_address)<br />{<br />.&#47.，继续执行main函数里read(word_address)后面的语句;&#47.，执行Break后，程序是跳出了这条while(aa==0) <br />语句呢..;&#47.;<br />delay(10)<br />.;<br />scl=0.这里有段程序有点不懂（小弟正处在入门阶段）
+跳出多层循环(或复合的条件)的话则是，不能跳出函数<br />另外要注意，不能跳出read函数<br /> <br />另外要跳出函数应当写return语句，不能跳多层<br /> <br />所以你的这个例子，break只能跳出一层循环或复合的条件，所以它只能用于跳出while循环，break是写在while循环语句层里的：简单点就用goto语句，复杂点就用一个变量作标志再到外层用break语句break语句只能跳出(即终止)循环或条件复合
+4
+none
+http://zhidao.baidu.com/question/246008665.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/590170912.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/250826520.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/590252791.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/452587289.html?qbl=relate_question_4

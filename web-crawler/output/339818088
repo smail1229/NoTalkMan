@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中eps是什么意思
+none
+eps是在函数程序中事先说明的常量，是控制迭代精度的，相当于微积分里面的无限小值
+23
+　　eps是在函数程序中事先说明的常量，默认的eps = 2^(-52)，是控制迭代精度的，相当于微积分里面的无限小值。 <br />matlab里<br />eps(1&#47;2) = 2^(-53) <br />eps(1) = 2^(-52) <br />eps(2) = 2^(-51)
+http://zhidao.baidu.com/question/1494103243335854499.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/481202142.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261101613.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/252687635.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/256858709.html?qbl=relate_question_4

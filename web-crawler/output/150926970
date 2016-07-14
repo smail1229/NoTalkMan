@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中, gets(s);while(s[i]!=&#92;&#39;&#92;&#92;0&#92;&#39;)是什么意思啊
+0&#92;&#92;&#39;&#39;while(s[i]!=&#92, gets(s)C语言中;&#92
+&#39;&#39！<br />请楼主仔细想清楚自己想表达的意思;0’<br />表达式中运用到转义字符<br />因为C中某些特殊符号是需要用到转义字符的否则无法显示<br />例如;0&#92：&#92；因为‘’单引号不是你想要的字符，是不可能的;<br />      &#92!=‘&#92; 0 ’这4个字符：&#92;&#92!=&#92;<br />但是楼主想表达应该不是这样，要是想判断字符串是否结束可以直接改成while(s[i];0<br />而现在你判断语句变成要S[i]同时不等于‘ &#92;&#39，单引号括着的只是表示你想它判断的具体字符&#92：<br />判断字符串s中第i+1个元素是否为字符串结束符号‘&#92：&#92;&#92;0’)。<br />表示一个循环体里面判断语句为;<br />      &quot;&#92;要表示为;)应该是表示错误;&quotget(s)：&#39;要表示为;要表示为;<br />是获取字符串s或者数组s<br /><br />while(s[i]
+24
+none
+http://zhidao.baidu.com/question/128667187.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/120978013.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/200529125.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/366759569.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/495451859754153964.html?qbl=relate_question_4

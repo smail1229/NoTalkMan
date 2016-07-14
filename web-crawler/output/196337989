@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中a[++i]=是什么意思?
+none
+<br />如果让i等于3.<br />但如果是a[i++].<br />第一个式子，是用其本身的值去运算.那么结果是a[3]a[]指的是数组。在括号里的，是一个自增自减运算符，然后再下一个句子的时候再加一<br />其实不难。<br />而第二个式子，是在本身这个语句中i的值加一，然后再运算，a[++i]的结果是a[4]
+11
+none
+http://zhidao.baidu.com/question/199459930.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/130754638.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/258997822.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/200775073.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/586732722.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题： j=*i j=&i j=*&i 三者有何区别？？？
+<br />j=*i   j=&i j=*&i  三者有何区别C语言问题？？
+//说明j是普通变量，这样j就指向i了<br />j=*&i&#47，然后求这个地址所指向的内容，意思是把i指向的变量中的值赋值给j<br />j=&i/&#47，j和i都是普通变量;&#47，i是指针变量，*&i等价于*（&i），所以这里，取i的地址然后赋值给j，其实就是i;说明j是指针变量,也就是先取i的地址;你得先确定*和&的优先级和结合性，i是普通变量j=*i
+14
+none
+http://zhidao.baidu.com/question/9048134.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/183425426.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/216081262.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/447581890.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/556234208.html?qbl=relate_question_4

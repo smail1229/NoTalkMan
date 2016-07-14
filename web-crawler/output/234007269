@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在 C 语言中，若有以下定义和赋值语句
+*( *(p+i)+j) B; <br />p=bint    b[2][3]={0}  (*p)[3],j 已正确说明并赋值)元素的非法引用为___________<br /><br />A; <br />则对 b 数组的第 i 行第 j 列(假如 i、*(p+i)+j D、*(p[i]+j) C
+不能赋值<br />D选项，如上面所说，*(p+i)+j为p[i][j]的地址，*(p+i)+j为p[i][j]的地址，其他跟A一样了<br />C选项，*( *(p+i)+j) 也就是p[i][j]的值<br />B选项中p[i]相当于*(p+i)C选项是错的<br /><br />A选项*(p+i)为p[i][0]的地址，(*(p+i))为p[i][0]的地址
+2
+none
+http://zhidao.baidu.com/question/285711607.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519966361.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182012371.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/408770636.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/162834114.html?qbl=relate_question_4

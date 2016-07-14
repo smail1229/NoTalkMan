@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言语言中FOR的用法
+none
+fail
+8
+for 是一个循环语句，和while是类似的，for一般的用法有：<br />for(i=0;i&lt;10;i++)<br />{<br />    printf(&quot;hello world&quot;); <br />}<br />这里就是输出10次hello world，为什么是10次呢？因为首先i=0，第一次先判断i&lt;10是否成立，成立的话，就运行 printf(&quot;hello world&quot;);，然后回过来i++，再判断i&lt;10是否成立，成立的话再运行{ }内的程序，最后当i=9时，再回过来i++,i变为10，再判断i&lt;10已经不成立了，所以就结束for语句，i从0~9一共是10次，所以输出10次hello world。while的话也类似的道理。<br />for也可以这样用：for(int i=0;i&lt;10;i++) ,这里的i的周期（或者生命）只存在与这个for语句内，当for语句结束后，这个i就不存在了，是个临时变量，其他的话用法基本上就是这样。
+http://zhidao.baidu.com/question/42132851.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54810654.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/242096161.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/68711123.html?qbl=relate_question_3

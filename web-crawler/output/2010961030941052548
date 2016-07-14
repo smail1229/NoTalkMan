@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的整型变量，有长整型、短整型、符号整型和无符号整型，这些怎么用啊，哪种情况用哪种啊！
+none
+内存要求不大的时候，且内存比较少时候这个其实不必要顾虑太多，我们一般用signed int，用最少的字节去表示范围。如果你的是嵌入式系统, unsigned int等，unsigned char，可以看情况而定
+0
+none
+http://zhidao.baidu.com/question/65376406.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/159098179.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/107977916.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2265566723260018468.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2572795.html?qbl=relate_question_4

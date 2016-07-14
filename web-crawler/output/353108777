@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中for得三重以上循环是怎么循环的
+none
+每一层循环都是由本身和外层决定的;m,j;<br />for(i=0,j&lt,k&lt,k,k++)<br />{<br />}<br />}<br />这就是 一个是第一个for语句先循环完n遍再循环第二个for一遍第三个for m遍<br /><br />三重以上循环以上的循环由里到外依次来循环,i&ltmain()<br />{<br />int i;1,i++)<br />  ｛for(j=0;n,j++)<br />          { }<br />  ｝<br />for(k=0
+2
+1)如果循环次数在执行循环体之前就已确定，一般用for语句；如果循环次数是由循环体<br />的执行情况确定的，一般用while语句或者do...while语句。<br />2)当循环体至少执行一次时，用do...while语句，反之，如果循环体可能一次也不执行，<br />选用while语句。
+http://zhidao.baidu.com/question/516548920.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/204343337.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52440169.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123832996.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141617488.html?qbl=relate_question_4

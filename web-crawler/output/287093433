@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+实现3行3列矩阵的转置，即行列互换。(C语言）
+j++)<br />      &#47;**********ERROR**********&#47;n;<br />  for(i=0;<br />      t=a[i][j];n;),j;<br />void fun(int a[3][3];<br />    printf(&quot;<br />      a[j][i]=t;i;n;i++)<br />  {<br />    for(j=0;<br />    for(j=0;i&lt;<br />      &#47;<br />    }<br />  for(i=0;stdio,t;<br />      scanf(&quot,a[i][j]);&#92;n;<br />  for(i=0;n;;i&lt;i&lt,a[i][j]);<br />      a[i][j]=a[j][i];<br />       printf(&quot;j++)<br />      printf(&quot;**********ERROR**********&#47;<br />  fun(b;%4d&quot;n&quot;j&lt;<br />	scanf(&quot;%d&quot。<br /><br />------------------------------------------------------*&#47;i++)<br />    for(j=0;i;j&lt;j&lt;,int n)<br />{ <br />  int i;i++)<br />    &#47;;**********ERROR**********&#47;j++)<br />    {<br />      &#47,a[i][j]);%d&quot,3);)，即行列互换;j++)<br />    printf(&quot.h&quot;n&quot;&#92,(*(a+i)+j));<br />  }<br />  for(i=0：实现3行3列矩阵的转置;j&lt;%4d&quot;;i++)<br />  {<br />    for(j=0;<br />  }<br />}<br />void main()<br />{<br />  int b[3][3];<br />#include &quot;n;i&lt;**********ERROR**********&#47&#47;*------------------------------------------------------        <br />【程序改错】<br />--------------------------------------------------------<br /><br />功能
+第一个正确形式为scanf(&quot,a[i][j]);%d&quot,(*(a+i)+j));%d&quotscanf(&quot;<br />这两个只需要一个，第二个是正确的;<br />	scanf(&quot;;%d&quot,&a[i][j]);;;<br />两个去掉一个，第一个错误
+6
+none
+http://zhidao.baidu.com/question/983140266323978219.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158812318.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/173645149.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/28917844.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/250455679.html?qbl=relate_question_4

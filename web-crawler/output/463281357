@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言字符变量&#39;&#47;123&#39;是什么意思
+none
+fail
+0
+你可以用字符输出来观察字符常数 &#39;&#92;123&#39; 到底是什么字符：<br />printf(&quot;&#92;nCharact ：%c&quot;,&#39;&#92;123&#39;);   输出的是大写字母S<br />楼上说的对，&#92;表示8进制，<br />8进制123，是10进制的83 是ASCII字符大写S的内码<br />你可以用：<br />    char xc=0123;<br />    printf(&quot;&#92;ncharact %c   %c    %d&quot;,&#39;&#92;123&#39;,xc,xc);<br />来观察字符的表达。
+http://zhidao.baidu.com/question/487221426.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/197451900.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/264372872234850765.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/29830024.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141734840.html?qbl=relate_question_4

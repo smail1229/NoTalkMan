@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言多个文件时应该怎么定义？？函数、？头文件、？宏等？？
+none
+且需要在 .c中定义了的函数}给你推荐 编程回忆录 之 C语言 .h&quot;/   &#47.h中声明了;/study;study.c文件中添加一行 #include &quot函数定义则放在 ;这里必须包含这个头文件int main(){……&#47.c#include&quot.c源文件中; 包含这个头文件如果要用到这个模块的功能的其他源文件 比如主测试源文件 main.h&quot;调用study，且在study
+0
+none
+http://zhidao.baidu.com/question/463731565.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/560449717.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/414973373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143044196.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/447409521.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 麻烦帮写个不定参数函数的程序
+写一个函数可以输入不定个数的参数，计算输入参数个数个的数值总和，并且输出输入的每个参数
+)<br />{<br />  va_list lst,;n表示输入参数;Sum is, t);<br />  int t = 0;<br />    printf(&quot,1;.，总的个数;<br />  return 0，后面是各个元素的值<br />int va_add(int n, c):%d&#92;<br />  getch();<br />  }<br />  return t,2.#include &quot;<br />  <br />}<br />int main()<br />{<br />  int t = va_add(4;<br />/%d;<br />    t += c;n&quot;n&quot: %d&#92;; i++)<br />  {<br />    int c = va_arg(lst;stdarg;<br />  printf(&quot; i &lt;&#47,4),n);<br />  va_start(lst,3;<br />  int i, int); n;<br />  for (i = 0.h&quot
+1
+none
+http://zhidao.baidu.com/question/399484461.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241152234.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49780136.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/184599783.html?qbl=relate_question_3

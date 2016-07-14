@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中--y什么意思?
+none
+%d,y--+(y--)),%d；二者在y参与运算的情况下,%d&quot，--y与y--都表示自减一。我也给举个例子<br />#include&lt,x，常用于循环语句,y=5，3,y，所代表的意义有所不同当y不参与函数中的运算时；而y--则表示先用y参与运算而后再自减一，10<br />（注;<br />main()<br />{<br /> int x=5;<br />}<br />运行结果为3;,%d;stdio,--x+(--x).h&gt;<br /> printf(&quot，6，所有--y先都自减一即为y=y-1（记着是所有出现--y的地方）然后再参与运算
+27
+none
+http://zhidao.baidu.com/question/623906158887512084.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/240867542.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/257009770.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242314127.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561550914.html?qbl=relate_question_4

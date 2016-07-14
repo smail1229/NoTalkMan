@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请用C语言编写函数fun, 函数的功能是: 将M行N列的二维数组中的数据, 按列的顺序依次放到一维数组中。
+none
+3,0,0,0,0;%d&quot,55;i++)	 printf(&quot,q),33;<br />        void fun(int p[][3];<br />	   int q[10]={0;stdio;;<br />	for(j=0;10.h&gt,33};	<br />                    q[m]=p[i][j],{44,0};i&lt;}<br />              }<br />       void main(){	<br />                   int p[3][3]={{33;i++)<br />                   { m=j*3+i;j++)	 <br />                  for(i=0,j,0;j&lt,int q[]){	<br />                  int i,44},m;	<br />                    fun(p,55}},q[i]),0;3;i&lt,44;<br />}<br />上机验证过了#include&lt,{55;<br />	  int  i;	<br />	  for(i=0,0
+10
+<pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />void&nbsp;fun(int&nbsp;p[][3],int&nbsp;q[])<br />{	<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;i,j,m;<br />&nbsp;&nbsp;&nbsp;&nbsp;for(j=0;j&lt;3;j++)	&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i=0;i&lt;3;i++)<br />&nbsp;&nbsp;&nbsp;&nbsp;{&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;m=j*3+i;	<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;q[m]=p[i][j];<br />&nbsp;&nbsp;&nbsp;&nbsp;}<br />}<br />void&nbsp;main()<br />{	<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;p[3][3]={{33,33,33},{44,44,44},{55,55,55}};<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;q[10]={0,0,0,0,0,0,0,0,0};<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;&nbsp;i;<br />&nbsp;&nbsp;&nbsp;&nbsp;fun(p,q);<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i=0;i&lt;10;i++)	&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%d，&quot;,q[i]);<br />}</pre>
+http://zhidao.baidu.com/question/167113999.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1796547583515005707.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87245486.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/402375839.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/135688152279168565.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言x&(x-1) 是什么意思
+none
+按位与，<br />假设x = 4 转换成2进制就是100  3转换成2进制就是011<br />位与后就是000 那么结果就是十进制0了
+4
+none
+http://zhidao.baidu.com/question/241332720.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/193034355.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/134725636580357765.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/134726149189658965.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/228527206.html?qbl=relate_question_4

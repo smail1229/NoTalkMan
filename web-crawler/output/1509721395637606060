@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中float 的问题
+none
+<br />float 有效数字精度.290001 有8位，再由内存2进制 数据转10进制数据 输出过程中，只有6-7位10进制数位，或输出时限定小数位数，所以 最后一个1是不可靠的，32位字长截断误差引起的。 你可以用 %g 格式输出，21这是10进制数据变2进制float型内存数据
+0
+none
+http://zhidao.baidu.com/question/448221640.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/107296292.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55739680.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/63012355.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/74723530.html?qbl=relate_question_4

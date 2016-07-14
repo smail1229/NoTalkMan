@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 指针问题 哪个函数可以给char *P 分配100byte空间
+100)<br />function(**pfunction(p，100)<br />function(&p，100)<br />function(*p
+100)<br />function(**pfunction(&p，原理不同；前者是c++中的传引用；后者为二级指针，100)<br />两者都可实现
+0
+none
+http://zhidao.baidu.com/question/149093767.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/207240089.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1881562315790369228.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/552560021.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126232205.html?qbl=relate_question_4

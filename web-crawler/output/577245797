@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的continue问题，这个程序满足if时，跳过了b++，怎么可以跳的这么远
+none
+continue是结束本次循环，进入下次循环。如果i%2==0成立，结束本次for循环，憨亥封酵莩寂凤檄脯漏进入下一个for循环，那b++肯定不会运行了呀。
+0
+none
+http://zhidao.baidu.com/question/19149671.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/135842926.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192811091.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/499904953.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/386333313.html?qbl=relate_question_4

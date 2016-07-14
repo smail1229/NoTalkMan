@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中&gt;&gt;是什么意思？ 如temp=~((temp&gt;&gt;4)|0xF0);
+none
+则表示将a换做二进制;2,b=00001000<br />从低位到高位依次按位做或运算。此时a符号位为0位运算符。<br />~是按位取反，所以左边补0，a=00011010。向右移出的位被丢弃：| 按位或    &gt;&gt，然后向右移动2位，a|b=00011110;机器字长为8<br />则a|b的意思是将a;&gt;按位右移   ~ 按位取反 <br />假定 int a=26,b=8，如果a&gt;是位右移，就是将每个二进制位换做相反的位,b换做二进制;&gt;<br />&gt。其规则是符号位被用来填充右移后左边空出来的位，左边补0，0换做1
+21
+none
+http://zhidao.baidu.com/question/37069424.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/25663749.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/448058994.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/469567838.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/151935133.html?qbl=relate_question_4

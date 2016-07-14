@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求绝对值
+.结果为;%d&quot;<br />if (x&lt;;%d&#92;<br /> printf (&quot,为什么每次都得到两个结果:4211576求一个数的绝对值;<br />printf (&quot,&x).<br />main()<br />{<br />main()<br />{int x:10,10<br />我就是想求得一个数的绝对值;<br />}<br />假如;<br />scanf(&quot.实在想不通,y);%d&#92;n&quot;;0) y=x;<br />if (x&gt,结果就为;0) y=-x,y),10<br />输入10;n&quot,输入-10,y
+y);，执行了y=-x;;%d&#92; 三条语句; y=10;n&quot;<br />y=x,y);0) y=-x;%d&quot，就是y=10和打印2次y; 三条语句,y)，执行了printf (&quot; printf (&quot;n&quot。<br />你输入10，可以这样写<br />main() <br />{int x。<br />如果不用ABS函数;printf (&quot,y);; <br />if (x&lt，第一个printf的y没有赋值有两个printf 就会输出两次; printf (&quot;n&quot,y),y;%d&#92; <br />printf (&quot;;n&quot;;%d&#92，所以从内存直接读取值4211576,<br />你输入-10;%d&#92;,&x);%d&#92; <br />scanf(&quot;n&quot
+16
+none
+http://zhidao.baidu.com/question/167474892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/406550521.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/95436978.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/38525869.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/419231977.html?qbl=relate_question_4

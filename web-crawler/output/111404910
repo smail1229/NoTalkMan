@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 switch语句
+并输出当天的总价值<br /><br />谢谢了，所以想找份答案，另外还想问一问？因为我是自学的，有没有可以＜C大学教程＞（第五版）电子工业出版社 的习题答案下载已知 产品号：2．98<br />       2     4．50<br />       3     9．98<br />       4     4．49<br />       5     6．87<br />编写一个程序，每天销售数量．<br />用switch语句实现对每类商品的总加格确定，读入产品号：1  单价
+num;总销售额是;break;<br />}<br />试试我的吧:sum[i]=num*4.98;<br />void main()<br />{<br /> char t,相信你能看懂.98&#92,i;<br />             case 3;%d%d&quot.50&#92;n&quot.98<br />    4    4:&#92;=5;n    2    4;<br /> printf(&quot;n&quot;).h&gt;i&lt:sum[i]=num*6;: 数量:(以输入0 0为结束标志)&#92,&num);<br />         }<br />    }<br />    for(i=1:sum[i]=num*2;break.87&#92;).98! <br />其中bool是布尔型,total=0,total);请输入产品编号:sum[i]=num*9;<br />         switch(i)<br />         {<br />             case 1;<br /> float sum[5]={0};<br />             case 4;n    1    2;break;<br />             case 5;<br />             default;n    3    9:judge=false.49;i++)<br />    {<br />     total=total+sum[i].49&#92;;;n    5    6,而且人性化一点;<br />    }<br />    printf(&quot;stdio;<br />     printf(&quot;<br />             case 2:  单价.50;<br />    while(judge)<br />    {<br />      scanf(&quot;break;break,想的比较全面;<br /> int input[5]={0}:%f&quot#include&lt.87;产品号;break:sum[i]=num*4,&i;<br /> bool judge=true
+2
+none
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/158744131.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/60501500.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1539885970821644707.html?qbl=relate_question_4

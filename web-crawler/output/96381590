@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+C语言随机数
+C语言中的rand（）函数好像只能生成整数的随机数，怎么 生畅浮扳簧殖毫帮桐爆昆成【0，1】区间的均匀分布的随机数？请各位高手帮帮忙！！！！
+先生成0-1000的整数，再除1000不就行了……
+5
+none
+http://zhidao.baidu.com/question/261686083.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41075726.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/110520001.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148733486.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/144281445.html?qbl=relate_question_4

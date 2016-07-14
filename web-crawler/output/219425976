@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求教一道c语言： main() {float d=2.2; int x,y; x=6.2; y=(x+3.8)&#47;5.0; printf(&quot;%d&#92;n&quot;,d*y);} 输出结果?
+首先x=2我觉的结果是2，这是怎么回事，输出2,y=1,那么实行按整形输出是强制转换。<br />但是结果一运行发现结果是0
+但是float要顺利转换成int;n&quot;%d&#92,(int)(d*y))结果就是2<br /><br />这是因为int可以顺利的转换成float;n&quot如果你改成printf(&quot; printf(&quot，（int）(d*y)<br /><br />如果float d = 2;%f&#92;.2,d),d*y)结果是2.200000<br /><br />改成printf(&quot;;.<br /><br />希望能帮到你~,必须要强制转换;结果还是0;%d&quot
+1
+none
+http://zhidao.baidu.com/question/296820864.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/560542608.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/352033905.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/227238645.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/179123736.html?qbl=relate_question_4

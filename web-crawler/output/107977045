@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里单精度和双精度怎么理解？
+none
+即后面随机派出的小数可能不同：（float）（10%3）<br />结果是1.000000即七位有效数字，要用fabs（）&lt，（后面不一定全是0，计算机可随机选择数字，单精度float是保证7位有效数字：1，double是保证16位有效数字，但由于有效位数不同，实际比较不能用==，所以二者理论上不同;1e-6单精度和双精度顾名思义是两种精度的不同划分，所以整数1不等于float或double的1）<br />（double）（10%3）<br />同理结果是。<br />例.XXXXXXXXXX……后面有十五位的有效数字<br />虽然整数位都是1
+9
+<p>c语言里单精度和双精度都是浮点型数（实数），也就是我们常说的小数（如3.14）。</p><p>变量声明：<br /></p><p>类型说明符为float 单精度说明符，double 双精度说明符。</p><p>实型变量说明的格式和书写规则与整型相同。</p><p>例如：&nbsp;</p><pre t="code" l="cpp">float&nbsp;x,y;&nbsp;//&nbsp;(x,y为单精度实型量)<br />double&nbsp;a,b,c;&nbsp;//&nbsp;(a,b,c为双精度实型量)</pre><p>实型常数不分单、双精度，都按双精度double型处理。</p><p>单精度浮点数：<br /></p><p>通常占用4个字节（32位）存储空间，其数值范围为-3.4E38～3.4E38，单精度浮点数最多有7位十进制有效数字，单精度浮点数的指数用“E”或“e”表示。如果某个数的有效数字位数超过7位，当把它定义为单精度变量时，超出的部分会自动四舍五入。</p><p>双精度浮点数：</p><p>通常占8 个字节（64位）内存空间，其数值范围为1.7E-308～1.7E+308。双精度完全保证的有效数字是15位，16位只是部分数值有保证。</p>
+http://zhidao.baidu.com/question/141387134.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/115702007.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1494051912283350619.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87346053.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/512983367.html?qbl=relate_question_4

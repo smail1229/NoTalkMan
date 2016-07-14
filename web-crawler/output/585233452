@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的int (*a[10]) (int)是什么意思？举个小例子吧
+none
+fail
+2
+这样的表达式可以遵循这样的规则:从右向左，由近及远，括号优先；比如<br />从a符号开始。其右边是[10]，说明a是个数组，其中存了十个元素。<br />再看a的左边是一个*。说明数组中存的是指针。<br />现在在看(*a[10])的右边是(int);说明所存的指针是指向有一个int形参的函数<br />现在看(*a[10])的左边是个int ，说明指向的函数的返回值为int 类型；<br />下面是代码；不过为了简化，我把数组改成了长度为3。但是不影响理解。<br />#include &lt;stdio.h&gt;<br />int a1(int);<br />int a2(int);<br />int a3(int);<br />int main()<br />{<br />    int (*a[3]) (int);<br />    a[0] = a1;<br />    a[1] = a2;<br />    a[2] = a3;<br />    int x1 = a[0](3);<br />    int x2 = a[1](3);<br />    int x3 = a[2](3);<br />    printf(&quot;x1=%d&#92;n&quot;,x1);<br />    printf(&quot;x2=%d&#92;n&quot;,x2);<br />    printf(&quot;x3=%d&#92;n&quot;,x3);<br />    return 0;<br />}<br />int a1(int x){<br />    printf(&quot;这是a1,其中x的值为:%d&#92;n&quot;,x);<br />    return x;<br />}<br />int a2(int x){<br />    printf(&quot;这是a2,其中x的值为:%d&#92;n&quot;,x);<br />    return x;<br />}<br />int a3(int x){<br />    printf(&quot;这是a3,其中x的值为:%d&#92;n&quot;,x);<br />    return x;<br />}<br />希望对你有帮助。
+http://zhidao.baidu.com/question/236424437.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/251452677.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1302158393562797939.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/192722612.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/163051048.html?qbl=relate_question_4

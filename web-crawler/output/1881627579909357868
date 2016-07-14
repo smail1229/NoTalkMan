@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，指针，数组，自定义函数。 如下 #include&lt;stdio.h&gt; void s(int
+指针，其它的往后移动c语言，自定义函数,&a[i])，在指针数组在自定义函数中用法;;<br />for(i=0;<br />s(a);a[i-1]=a[i-3],i;=0;;i--)<br />{t1=a[i];a[i-3]=t2;i++)<br />scanf(&quot;i&lt;10;i++)<br />printf(&quot，所以求教正确用法，数组;<br />for(i=0;a[i]=a[i-2]。<br />希望能够细解,t1;i&lt;stdio，估计是因为应用错误;i&lt。<br />编译运行后发现指针没有运用;a[i-2]=t1，所以做不来。<br />教科书上没有关于使用包含指针数组的自定义函数;%d&quot！<br />非常感谢,a[i]);<br />}<br />我的目的是将最后两个元素移到最前面;10;}<br />}<br />main()<br />{<br />int a[10];i--.h&gt;t2=a[i-1];<br />for(i=9,t2;<br />void s(int *a)<br />{<br />int i。<br />如下<br />#include&lt;%d &quot
+fail
+0
+none
+http://zhidao.baidu.com/question/616481833445670652.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/410443084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/411363880.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/431777335486613964.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/487930085885673852.html?qbl=relate_question_4

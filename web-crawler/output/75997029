@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计（循环控制用while ,do-while,for语句
+但总共只有三次输入机会。编写程序实现能够输出该数所有的是素数的约束（简称素约数）。并计输出其个数。（提示从键盘输入一个正整数（》=1）如果输入的数据不合要求，提示用户重新输入
+<br /><br />if(i==3) exit(0),n你看这个应该满足要求吧;;&#92;math;=1)<br />break;3);<br />}<br />printf(&quot;<br />scanf(&quot;),n);%d&quot;prime submultiples.h&gt;<br /><br />i=0;<br />}<br />return 1:&quot:%d&#92;;<br />while(i&lt;<br />if(a&gt;<br /><br />int isprime(int n)<br />{<br />int i,&a),t;;<br />if(n%10==0)<br />printf(&quot;<br />do<br />{<br />printf(&quot;n&quot;<br />for(i=3;<br />if(n==2)<br />return 1,t=(int)sqrt(n);<br />if(n%2==0 || n&lt;<br /><br />i=1：<br />#include&lt,i);i+=2)<br />{<br />if(n%i==0)<br />return 0。我把三种循环方式都用上了;2)<br />return 0;<br />#include&lt.h&gt;stdio;=1);<br />n++;<br /><br />printf(&quot;%d &quot;<br />}<br />i++;=a)<br />{<br />if(a%i==0)<br />if(isprime(i))<br />{<br />printf(&quot;);i&lt;n&quot;Input an integer (&gt;);&#92;nnumbers of prime submultiples;<br />}<br /><br />void main()<br />{<br />int i,a;<br />n=0;n&quot;<br />}while(++i&lt:&#92;=t
+16
+none
+http://zhidao.baidu.com/question/75996610.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/190614289.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/808453127279194732.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/15202844.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/251792220.html?qbl=relate_question_4

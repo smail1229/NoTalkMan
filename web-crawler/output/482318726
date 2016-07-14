@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 if与 if else的区别是什么
+if（）<br />        if（）<br /> <br />if（）<br />else if（）<br />else<br /> <br />if（）<br />else<br /> <br />这几个的区别是什么
+<br />第一组是条件嵌套你要问的主要意思应该是if 与else if的区别吧：<br />if  中午吃饭花费在100元以内<br />else if 中午吃饭花费在100-200元以内<br />else 中午吃饭超过200元的预算<br />第三组，if 与else成对出现，比单纯的if 和else 成对出现的2种条件多，例如，说明条件选项只有2个，例如：<br />if 中午吃饭<br />    if  没人请吃<br />        自己出钱吃<br /><br />第二组是条件有多种。例如：<br /><br />if 中午吃饭<br />    吃XXX<br />else（意思是中午不吃饭
+69
+none
+http://zhidao.baidu.com/question/480539380.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/589823070.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90716472.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/120598535.html?qbl=relate_question_4

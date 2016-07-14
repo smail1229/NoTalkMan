@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 编写fun函数 将数组中的数逆序存放
+include &quot; i&lt;%4d&quot;<br />#define N 5<br />int fun(int arr[].h&quot;%4d&quot; i&lt,temp;N,i;n;<br />  for(i=0; <br />} <br />return 1;i&lt; <br />return *r;N;<br />  fun(a;stdio;<br />}<br />fun函数为什么写成下面这样输出结果还是顺序的呢; <br />}<br />main()<br />{<br />  int a[N]={8;i++)<br />    printf(&quot;i&lt;);<br />  for(i=0,a[i]);n&quot;&#92,6;n&#47; ++i) <br />{ <br />temp=arr[i]; <br />arr[n-1-i]=temp; ++i) <br />r[i]=arr[n-1-i],r[5]; <br />for(i=0,a[i]);<br />  printf(&quot,4。<br />int fun(int arr[]; <br />arr[i]=arr[n-1-i];,1}; <br />for(i=0;2,int n)<br /> <br />{ <br />int i;i++)<br />    printf(&quot,5。？请大神答疑;,N),int n)<br />{ <br />int i
+当函数调用结束返回时。因为你的数组r[5]的生命周期是在fun函数运行期间，想法不错  但上面代码实现不了的你是想按倒序重新放到一个数组里  然后将数组地址返回是吧，数组r[5]也就不存在了，这个函数的栈清空
+2
+none
+http://zhidao.baidu.com/question/80521969.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/197746620.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/156711275.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/419412243.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/456140980362122965.html?qbl=relate_question_4

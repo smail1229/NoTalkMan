@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的return
+C语言中的return 0或return 1是什么意思呀？
+eturn 的意义是返回。当函数的返回类型是void时，通常return 0或者return 1，return 1相当于返回true，需返回该类型的数据，return 0相当于返回false，可以不用返回，是发生在函数返回类型是bool类的函数；<br /><br />当返回类型为特定类型时，也可以只写return。这是在函数中根据函数的返回类型决定的
+3
+none
+http://zhidao.baidu.com/question/120783460.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/558882075.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/52010360.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/38011811.html?qbl=relate_question_4

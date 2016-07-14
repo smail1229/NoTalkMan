@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目main() { int i=8; printf(&quot;%d&#92;n%d&#92;n%d&#92;n%d&#92;n&quot;,++i,--i,i++,i--); }
+从右到左是8778，我自己算出来也是这两个结果.0运行出来是8788，可是在VC6，这是为什么呢？如果在试卷上遇到这类题目应该写哪种答案呢书上说实参表按照从左到右的顺序计算结果是9889
+fail
+3
+none
+http://zhidao.baidu.com/question/412206114.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/253441748.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/395510484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/318032153.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/109969354.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程：求方程f(x)=e的-x次幂减去x=0的一个实根近似值，误差小于10的-8次幂
+f&#39;（Xn）<br />误差公式迭代公式：Xn+1=Xn-f（Xn）&#47
+iostream;&lt;&#39;&lt.h&gt;&lt;setprecision(10)&lt;&lt;x1&lt;&lt;xn&lt;&lt;&#92;df(xn);<br />}<br />void main()<br />{<br /> double xn=f(100);setprecision(10)&lt;&#39;xn&lt;<br /> x1=xn-f(xn)/<br />}<br />double df(double x)<br />{<br /> return -exp(-x)-1;<br /> }<br /> cout&lt;<br />#include &lt;setprecision(10)&lt;<br />  cout&lt.h&gt;fabs(xn-x1)&lt;t&#39;&lt;endl;df(xn);endl.h&gt;&lt;&lt;<br />#include &lt;&lt,x1;&lt;&lt;<br /> while(fabs(xn-x1)&gt;&lt;1e-8)<br /> {<br />  xn=x1;math#include &lt;&#92;<br />double f(double x)<br />{<br /> return exp(-x)-x;t&#39;<br />  x1=xn-f(xn)/setprecision(10)&lt;&lt;iomanip
+1
+none
+http://zhidao.baidu.com/question/84195374.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/215418816.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/22514467.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/343099382.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/296043959.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言一元二次方程组怎么求解a*x*x+b*x+c=0
+none
+简单的就是用公式喽<br /><br />x = sqrt(b*b-4*a*c)/(2*a);(2*a)-x<br /><br />当然需要判断条件<br />比如<br />b*b-4*a*c &gt：<br />-b/(2*a)+x<br /><br />-b/<br /><br />两个根就是
+3
+none
+http://zhidao.baidu.com/question/248205675.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/201394131.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/391754350.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/322874916.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/352174001.html?qbl=relate_question_4

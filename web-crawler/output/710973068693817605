@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+在c语言里面想给*p[10]以及(*p)[10]动态分配内存 应该怎么写
+none
+<br />if(;;<br />if(!p[i])<br />{<br />printf(&quot;p[%d] aply error&quot;<br />}<br />}<br />第二个<br />p = (int (*)[10])malloc(10*sizeof(int))假如两个前面的类型都是int<br />第一个<br />int i = 0; i &lt;<br />exit(-1);<br />exit(-1)!p)<br />{<br />printf(&quot;10;i++)<br />{<br />p[i] = (int *)malloc(sizeof(int));),i);p aply error&quot;<br />for(i = 0 
+0
+none
+http://zhidao.baidu.com/question/55764282.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136664674.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55763836.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39428293.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128140462.html?qbl=relate_question_4

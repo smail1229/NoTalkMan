@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言习题。。。。。 编写函数int sLen（char＊s），函数功能计算字符串s的长度，不允许使
+。<br />编写函数int sLen（char＊s）。c语言习题，函数功能计算字符串s的长度，不允许使用strlen（）库函数。编写主函数调用它。。
+s.h&gt!=&#39;<br /><br />int sLen(char *s)<br />{<br />  int i;<br /><br />  return 0, sLen(buf));0&#39;;;abcdefg&quot;i++)<br />  {<br />     s++;<br />  }<br />  return i;<br />}<br /><br />int main()<br />{<br />  char buf[] = &quot;;<br />  printf(&quot;<br />  for(i=0;n&quot#include &lt;&#92!=NULL && *s;stdio;%d&#92
+1
+none
+http://zhidao.baidu.com/question/65902633.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94609033.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/277105007.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/355989174.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/552007720.html?qbl=relate_question_4

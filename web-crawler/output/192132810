@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言头文件怎么写~!!最好举个例子！！非常感谢！！
+none
+<br />for (i=0, int N){<br />int i，在抽出的地方写 #include ;<br />}<br />void main()<br />{<br />double x[10]={1.h ，再把一部分抽出去;<br />printf(&quot;n&quot,10},8;a_x;mean = %lf&#92,9;<br />return s;<br />s = s &#47：<br />#include&lt; (double) N; <br />#include &quot: <br />#include&lt,8，抽出去的存到 自己的头文件里,8;i++) s=s+y[i].h）,7，例如抽出（也叫 a_x;<br />void main()<br />{<br />double x[10]={1.<br /><br />例如.;<br />for (i=0,7,10)),5.h&gt;<br />printf(&quot; <br />#include &quot,4,10};<br />}<br />void main()<br />{<br />------------------------<br />程序变.h&gt.,3;mean = %lf&#92,3,2;<br />double s=0, mean(x; <br /><br />double mean(double *y;<br />double x[10]={1，头文件里放 函数原型,9：<br />double mean(double *y;;<br />}<br />--------------------------------<br />程序变;a_x;;stdio;<br />return s.h&gt,3;<br />}<br />----------------------------------------------<br />抽出部分 存入 a_x, int N){<br />int i;<br />}<br />=============================================<br />你要是愿意随便抽一块也可以;<br />s = s /N，不易出错.0;n&quot.0; (double) N，完整程序（计算平均值）;i&lt：<br />double mean(double *y，先写完整程序;<br />double s=0;stdio,10));<br />return s, mean(x.h&quot.0,5,10}, int N){<br />int i,6; (double) N,4,4,2;N;,9;i++) s=s+y[i];N，两种抽法都可以;<br />for (i=0,10));i&lt;n&quot;<br />printf(&quot;i++) s=s+y[i],6,5.h&quot;<br />s = s &#47,6简单办法;<br />double s=0,7: <br />#include&lt;<br />}<br />==============================<br />语法上;stdio。但第一种方法较好--程序可读性好;i&lt，功能上,2。<br /><br />一般情况下;mean = %lf&#92，全局量声明 和 函数定义, mean(x
+161
+none
+http://zhidao.baidu.com/question/74285945.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/129676638.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52943788.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/511419841.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/212447127.html?qbl=relate_question_4

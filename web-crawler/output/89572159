@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言指针传递问题
+ <br />} <br /><br />2; <br />} <br />第一题可以改变实参的值; } <br />main() <br />{ char b[4]={&#39.point(char *q) { q+=3;%c&#92，最好两题对比着分析一下.#include &lt;<br />void swap1(int c0[];c1[0]=t;b&#39;,a+1);;<br />为什么;a&#39;; <br />    t=c0[0];d&#39;n&quot;stdio;; <br />     printf(&quot, *p=b; <br />printf(&quot，输出结果是5 3<br />第二题就不能改了，结果是a;c0[0]=c1[0].h&gt,&#39,*p); <br />     swap1(a,a[0],int c1[]) <br />{   int t;c&#39,&#39;n&quot; <br />} <br />main () <br />{    int a[2]={3; <br />point(p),&#39,5};};;%d%d&#92,a[1])1
+但却没有说得明明白白看了前面两位的回答。<br /><br />但第二题<br />{ q+=3，只能改变指针所指地址的内容，指针做函数参数。<br /><br />C的书上有句话，当然可以改变。<br /><br />第一题中<br />t=c0[0]; <br />是对内容的操作;c0[0]=c1[0];c1[0]=t，但不能改变指针所指的地址，感觉意思是说对了; }<br />却试图向改变q的地址
+1
+none
+http://zhidao.baidu.com/question/540081826.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/564545493.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1048216717422828179.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/616016841956995052.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/572754259.html?qbl=relate_question_4

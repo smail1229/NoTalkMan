@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言新手 把下面的程序一步一步解释下 谢谢!
+#include&lt;stdio.h&gt;&#47;*包含头文件*&#47; <br />void main() <br /><br />{ <br />char dj;&#47;*声明字符变量*&#47; <br />scanf(&quot;%c&quot;,&dj);&#47;*输入*&#47; <br />switch(dj) <br />{ <br />case &#39;a&#39;:printf(&quot;90~100&quot;);break; <br />case &#39畅海扳剿殖济帮汐爆搂;b&#39;:printf(&quot;80~89&quot;);break; <br />case &#39;c&#39;:printf(&quot;70~79&quot;);break; <br />case &#39;d&#39;:printf(&quot;60~69&quot;);break; <br />case &#39;e&#39;:printf(&quot;0~59&quot;);break; <br />default:printf(&quot;输入错误&quot;); <br />} <br />}
+一个简单的swith case语句。。不知道你想解释什么。。
+0
+none
+http://zhidao.baidu.com/question/432174899.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/367124690.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/374671474.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/366909997.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/368083714.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：POW函数问题
+none
+fail
+fail
+这样就可以啦～～ <br /><br />#include&lt;stdio.h&gt; <br />#include&lt;math.h&gt; <br />main() <br />{ <br />double i, b=2.0; <br /><br />for(i=0.0;i&lt;4;i++) <br />{ <br />printf(&quot;%f&#92;n&quot;,pow(b,i)); &#47;&#47;主要是这儿～～&quot;%f&#92;n&quot;～～ <br />} <br />}<br /><br />原因是咱们要输出的是个Double型的数据，而Double占空间很长，后边放的都是0，前边放的才是计算过的数字（因为要输出的值其实是整数），当用%d去输出的时候，由于int型数据占空间短，就只输出double数据后边的那部分了，也就是只有0～<br /><br />这样说不是很准确，但是很形象～～
+http://zhidao.baidu.com/question/100041511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/146447626.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1494224601944954859.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/252209154.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/236938380.html?qbl=relate_question_4

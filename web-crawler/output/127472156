@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+利用c语言的二维数组输出下面的图形
+该图形是 1 0 0 0 0 1<br />         0 1 0 0 1 0<br />         0 0 1 1 0 0<br />         0 0 1 1 0 0<br />         0 1 0 0 1 0<br />         1 0 0 0 0 1
+h&quot;n&quot;i&lt,j;<br />else <br />a[i][j]=0;i++)<br />for(j=0;6;;j++)<br />{printf(&quot;i++)<br />{for(j=0;&#92;6;<br />void main()<br />{<br /> int a[6][6];j&lt;<br /> int i;i&lt;<br /> }<br /> printf(&quot;6;<br />}<br /> for(i=0,a[i][j]);<br /> for(i=0;j++)<br /> {if((i==j)||(i+j==5)) <br /> a[i][j]=1;%d&quot;);6;stdio#include &quot;j&lt
+2
+none
+fail

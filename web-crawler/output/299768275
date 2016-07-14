@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求大神详细解答一下C语言程序，每步都写出来，麻烦了！！！谢谢。
+m;<br /> }<br /> puts(p);stdio.h&gt;<br />  strcat(s,t[j]=t[i-1-j];,n=n&#47;<br />  for(j=0,i=0;,&quot;);<br />}<br />void main()<br />{ int i;<br />char * fun (int n)<br />{ static char s[20];<br />   p=fun(m);<br />  while(n&gt;c++;&#47;0&quot,&quot;<br />  char t[10]={0},t);<br />  return s;char *p;1)<br />  { strcat(s;<br />  static int c;%d&quot;2;&quot;2,k,j;j&lt;0)<br />	t[i++]=n%10+&#39;i&#47,&m);<br />  if(c&lt;0&#39;<br />  for(i=0;i++)<br /> { scanf(&quot;10;<br />  puts(t);i&lt;j++)<br />  k=t[j];),t[i-1-j]=k;}<br />  else<br />   strcat(s;&#92#include &lt
+//string;0&quot;接收数据首地址<br />	}<br />    puts(p),<br />/);&#92;/&#47,要转化成char 就要加上字符&#39,m;/<br />    for(i=0;0)<br />		t[i++]=n%10+&#39，这个变量用来标记的;1)/&#39;0&#39;2，举例当n=123时;/&#47,&quot;j&lt;i&lt。下面会说它的用途<br />	char t[10]={0};/&#47，再进入循环;<br /><br />	strcat(s;stdio;输出321<br /><br />	for(j=0;&#47，因为程序中用到了strcat()函数<br /><br />char * fun (int n)<br />{ <br />	static char s[20],k;i++)<br />	{ <br />		scanf(&quot;10;表示的取n的个位数 3，<br />&#47，执行后<br />&#47，这个变量所存的数据就不会被自动清空。<br /><br />    static int c=0;j++)<br />		k=t[j],t[i-1-j]=k;把t中的数据连接到s中<br />	if(c&lt;;0&#39;i/<br />//char *p;&#47.h&gt;/&#47，循环两次<br />        p=fun(m);<br />&#47，默认是auto，n%10+&#39;0&#39;&#47，其实结果也差不多<br />					<br />	return s;,这样就实现了倒序<br /><br />	puts(t);&#92;&#47,t[j]=t[i-1-j];&quot;c++;/然后3是int 的,&quot;返回数据的首地址<br />}<br /><br />void main()<br />{<br />	int i，个位数取完要取十位数;<br />//<br />#include&lt.h&gt;/存入字符数组t[i]中,&m);前面这些事定义变量;10;static是定义静态变量关键字,j;2;/}<br />	else<br />		strcat(s;/输入数据;只要整个程序没有退出;&#47,t);，如果是第一组数据就加上&#39;/n=12;);不是第二组就要加上结束符&#39、1  综上t[i]存的应该是321;这个头文件是必须的;，如果没有这个操作;&#47，或者加上48;&#47。static的作用就是它所定义的变量;n作为参数传进来;初始化为0，<br />/&#47，分别取 2,i=0;0&#39;%d&quot，没什么好说的吧<br /><br />	while(n&gt,n=n/;&#47，便于查看结果<br />	{ <br />		strcat(s，就执行n=n/用来标记是不是第一组数据;&#47#include &lt
+0
+none
+http://zhidao.baidu.com/question/807953957894890092.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/687474690843122404.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2138319141306953988.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/552294868646982212.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/547600322.html?qbl=relate_question_4

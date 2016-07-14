@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计求ln2的近似值,精确到小数4位
+在线急等
+结果是零;（1-（-2））：（1+（-2））&#47log(1+x) * log((1。小心了;math，要写1，所以要写1。关键是写里面的除数时;(1.0告诉编译器整个表达式是个浮点数，而不是正确值。否则经过里面的除法会得出错误的值，因为你要求的乘数是个复杂表达式.0-x)) <br /><br />用log就是求自然对数的函数，在自然对数中是不会有负数的） <br />头文件是&lt.h&gt.0。 (当然.0+x)&#47
+0
+none
+http://zhidao.baidu.com/question/918187841749903019.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/209578228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/220585646.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/572943574.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/423940565458338332.html?qbl=relate_question_4

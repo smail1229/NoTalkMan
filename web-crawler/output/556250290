@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 1．一个整型数组有10个元素，编写程序删除所有值为n的元素。 要求： （1）主函数完成n的输入，数组
+1．一个整型数组有10个元素，编写程序删除所有值为n的元素。<br />要求：<br />（1）主函数完成n的输入，数组元素输入以及删除后数组元素的输出。<br />（2）删除功能用子函数完成。<br />编写程序如下<br />#include &lt;st畅禒扳溉殖防帮狮爆饯dio.h&gt;<br />#include &lt;string.H&gt;<br />int fun(char a[])<br />{<br />    int i,j,k;<br />    char n;<br />    printf(&quot;请输入您要删除的数&quot;);<br />    scanf(&quot;%c&quot;,&n);<br />    for(i=0;i&lt;k;i++)<br />    if(&#39;a[i]&#39;==&#39;n&#39;)<br />    {<br />        for(j=i;j&lt;k;j++)<br />        a[j]=a[j+1];<br />    }<br />}<br />int main()<br />{<br />    char a[81];<br />    printf(&quot;请输入要输入的数组元素：&#92;n&quot;);<br />    scanf(&quot;%s&quot;,a);<br />    printf(&quot;删除后的数组顺序为%s&quot;,fun(a));<br />}<br /><br />第一次写函数 还有点弄不懂 请问在原程序上还要在呢么改
+fail
+4
+none
+http://zhidao.baidu.com/question/428154583.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125539888.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2073862200385445668.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/427920772.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/623648135704397924.html?qbl=relate_question_4

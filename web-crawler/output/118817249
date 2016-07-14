@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言(数组排序)
+我不懂开头的N-2代表什么?麻烦高手详细解说一下,这是教程上的后面没说明白请大家根据下面的NS流程图写出完整的程序,谢谢
+=n-2.选择排序思想,a[i]即a[n-1]对应数组最后一个元素,a[index]=temp，当比较完a[n-2]和a[n-1]并排序后，挑出最大的元素与第二个元素交换位置;i++)<br />       {<br />          if(a[i]&lt，依此类推,a[k]=a[index];k&lt：k=0 to k=n-2：假定按从大到小排序。<br /><br />2，此时i=n-i，对应a[n-2]为数组倒数第二个元素.给你解释开头的n-2;<br />              }<br />        }<br />    temp=a[k]，比较数组中所有数的大小;a[index])<br />             {<br />              index=i，当k=n-2时，整个数组就完成了排列。<br /><br />3，挑出最大的元素将其与第一个元素交换位置;=n-1：<br />for(k=0，然后比较除第一个元素外其他各元素的大小;<br />    for(i=k+1;i&lt;k++)<br />{<br />    index=k，完成排序.代码,k总共取n-1个元素1
+7
+none
+http://zhidao.baidu.com/question/80785028.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127784778.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/54261368.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92291963.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+以下叙述中正确的是（ ）A C语言程序总是从第一个定义的函数开始执行 B 在C语言程序中，要调用的函数必须
+在main函数中定义C  C语言程序总是从main函数开始执行  D  C语言程序中的main函数必须放在程序的开始部分  麻烦大家帮我解答解答，不胜感激！！
+C ，C程序总是从main函数开始执行。 A错，调用的函数不是必须放在程序的开始部分。B错，调用的函数可以放在main函数之后。D错，故选C
+27
+none
+http://zhidao.baidu.com/question/268730522.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/300972138.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/51750008.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/490873077.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128434251.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中~指数运算应怎么表示?例如:要计算5^3+4^2+2等于多少时，
+怎么用代码在C语言中表示出来?求高手,
+,3)+pow(4;<br />    return 0;<br />int main(){<br />    int sum.h&gt,2)+2;<br />#include&lt;<br />    printf(&quot;%d&#92,sum);n&quot;math;stdio;<br />    sum=pow(5.h&gt#include&lt
+5
+none
+http://zhidao.baidu.com/question/133609390.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/442818783.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/7866733.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2073224528976601228.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1575284788601313260.html?qbl=relate_question_4

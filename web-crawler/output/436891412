@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中下列函数属于格式化函数的是 A.getchar B.printf C.scanf D.puts
+none
+C格式化函数自然要有格式控制啊<br />格式化输入函数scanf(&quot;, %&XXX);，看是输入还是输出;<br />格式化输出函数printf(&quot;格式控制&quotB;格式控制&quot,XXX);<br />看一下你的题目
+0
+none
+http://zhidao.baidu.com/question/241783265.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/510532883.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38525231.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90331787.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/422534953.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+菜鸟提问单片机c语言函数_crol_
+none
+fail
+3
+这么说吧，举个例子，假如原来 b = 0xBA;即二进制的(10111010),<br />p1=_crol_（b,1）;其执行过程是这样的，<br />1，首先把b循环左移，结果是 01110101,即b=0x75;<br />2,把循环后的结果送给P1口，所以，P1口的值是0x75
+http://zhidao.baidu.com/question/235063191.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88460565.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/84216001.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/94057107.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200180836.html?qbl=relate_question_4

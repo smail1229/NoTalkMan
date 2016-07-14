@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中怎么把一个实数分解成整数部分和小数部分
+none
+fail
+fail
+#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />void main()<br />{<br /> double F;<br /> double a;&#47;&#47;存放整数部分<br /> double b;&#47;&#47;存放小数部分<br /> printf(&quot;请输入一个浮点数:&quot;);<br /> scanf(&quot;%lf&quot;,&F);<br /> a=floor(F);<br /> b=F-a;<br /> printf(&quot;将该数分解后:&#92;n&quot;);<br /> printf(&quot;整数部分:%lf&#92;n&quot;,a);<br /> printf(&quot;小数部分:%lf&#92;n&quot;,b);<br />}
+http://zhidao.baidu.com/question/173599285.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/324013003.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542730016.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/514076154.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533758121.html?qbl=relate_question_4

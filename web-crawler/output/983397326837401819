@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中char * a=(char *)_a什么意思?
+none
+<br />int d = 32，这个参数就是实际参数如，也就是形参<br />而当你在调用这个函数时;<br />&#47，参数分为, char * b){}<br />上面的函数定义中;<br />char * s = &quot，也就是函数定义中的参数<br />实参就是实际参数：形参与实参<br />形参就是形式参数，函数定义括号中的参数a与b就是形式参数。也就是实际传递给函数的参数, s)，也就是函数调用中的参数<br />如<br />int a(int a：<br />a(d;Hello Josin&quot;<br />此时函数a的参数中d与s就是实际参数;;/注意下面的函数调用这里是要注意一个参数的问题
+1
+<p>char *a = (char *)_a; &nbsp;// 表示将变量_a进行强制类型转换为char *类型<br /></p><p><br /></p><p>比如：</p><pre t="code" l="cpp">char&nbsp;_a;&nbsp;<br />char&nbsp;*a&nbsp;=&nbsp;(char&nbsp;*)_a;&nbsp;&nbsp;//&nbsp;就是将char类型的变量_a转换为char&nbsp;*类型，并赋值给*a</pre>
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535264280.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/559302722747890084.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/256387528.html?qbl=relate_question_4

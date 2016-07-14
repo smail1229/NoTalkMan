@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程求x的n次幂
+<br />unsigned n,&x).h&quot;<br />}<br /><br />#号句中n--是什么意思;<br />while(n--) p*=x;%f&quot;);<br />p=1;Please input x,p););<br />main()<br />{<br />double x;;%d&quot;;<br />scanf(&quot;     …………#<br />printf(&quot;:&quot;%lf&quot.0,p:&quot;<br />printf(&quot,&n)#include&quot;<br />scanf(&quot？p*=x又是什么意思;Please input n;<br />printf(&quot;stdio
+当n的值为0（假),即p=p*x不再累乘。<br /><br />  最后输出最终p的值while(n--) p*=x;<br /><br /> n--表示n自减，即n=n-1,终止执行循环体p*=x
+3
+none
+http://zhidao.baidu.com/question/208063746.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/215418816.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41183337.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/296043959.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/146770411.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言&quot;%d%-10s%d&quot;那个-10s什么意思
+none
+fail
+2
+int i=1 j=2;<br />char str[5]=&quot;qwert&quot;;<br />%d%-10s%d<br />输出为 1qwert     2<br />系统流出10个空格的输出空间存放目标变量的值，默认情况下是右对齐，例如：<br />int i=1 j=2;<br />char str[5]=&quot;qwert&quot;;<br />%d%10s%d<br />输出为 1     qwert2<br /> <br />加上“-”是左对齐。<br />在预留的个数不足的情况下，按照原有的长度输出，例如：<br />int i=1 j=2;<br />char str[5]=&quot;qwert&quot;;<br />%d%-3s%d<br />输出为 1qwert2
+http://zhidao.baidu.com/question/1046108868869027979.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/389488352.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/226158284.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/238484008.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356813187.html?qbl=relate_question_4

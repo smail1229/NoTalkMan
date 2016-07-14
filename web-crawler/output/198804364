@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程的小问题~希望大家教教
+);You lose;<br />       break;%c&quot;break;!&quot:printf(&quot，输入一个提示信息,&iNum1;),thanks。结果都是game over）<br />      continue,&iNum2););game over&quot;<br />    else<br />       {printf(&quot。否则就赢了~不管游戏输赢都不结束游戏而是在一轮游戏后;<br />  scanf(&quot;);<br />main()<br />{<br />int iNum1;break;please input two number!;<br />   scanf(&quot;&#92;) (问题出在这里 不管我输入的chExit是什么，输入两个数据.h&quot;<br />   default;y&quot，如果输入数据之和为5的倍数那么游戏就输了因为我是刚上大一的学生 所以学的C语言是很基础的~暂时也很肤浅~所以问的问题也许会很低级~~所以请大侠们不要见怪~<br />题目是这样的~试编写一个小游戏程序:&quot?;<br />    if(chExit==&quot;n;%d:printf(&quot,do you want to continue,%d&quot,Yes input Y if N,x1;stdio;<br />  switch(x1)<br />  {<br />   case 0;<br />   }<br /><br />   printf(&quot;You win;<br />  x1=(iNum1+iNum2)%5,iNum2,&chExit):&quot。要求用户是否继续游戏如果用户输入的为Y则游戏继续 否则游戏结束~~<br />然后我编的是这样~~<br />   #include&quot;<br />char chExit!&quot;;<br />while(1)<br /> {<br />  printf(&quot;);}<br />   }<br /> getch()
+<br />        x1=(iNum1+iNum2)%5.h&quot;conio;<br />  }<br />    }<br />} <br />另外switch语句一般不这样用;<br />  if(x1==0)<br />   printf(&quot,%d&quot;)&quot;y&#39，适用于情况较多时<br />像这样只有一种情况建议用if语句<br />还有getch（）函数使用时要有头文件“conio?&#92!&quot:&quot;stdio!：<br />#include&quot;<br />  if(getch(),&iNum1,iNum2;,thanks;<br />            break!&quot;<br />#include&quot;You lose!=&#39.h”不然会有警告<br />希望对你有帮助;game over&quot;&#92;)<br />        {<br />   printf(&quot;<br />    while(1)<br /> {<br />        printf(&quot;n do you want to continue;<br />        scanf(&quot;);另外我帮你改进了一下;<br />        printf(&quot;););):&#92;n&quot;<br />main()<br />{<br />    int iNum1,&iNum2);n Yes input Y or any key to over.h&quot;You win! ;<br />  else<br />   printf(&quot;不应该用双引号 字符应用单引号 &#39;please input two number;%d;y&#39,x1;y&quot
+1
+none
+http://zhidao.baidu.com/question/508014832.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54707766.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/508950268.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/225340115.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/94018343.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中  *p++的运算顺序和printf输出表列的问题
+;<br />printf(&quot，*p=&a？  首先p++ （选择）<br />(A)在printf函数中 执行p=p+1暂存储  ，而是a=a+1等乱七八糟的东西，不然就选择一下答案，输出结果*p<br />(B)在printf函数中 得结果*p  printf函数结束  后执行p=p+1<br />(C)在printf函数中 得结果*p  后执行p=p+1  printf函数结束<br /><br />第二个问题<br />像printf（“%d”，如果问题本身都有问题，答的好的话追加100分<br />int a=2，输出的结果是根据什么判断的啊，做好能自己说明下过程,*p++)，也请改正，a=a+1） 输出表列不是单一个变量a问题是自己编的;%d&quot;<br />问这个运算过程的执行顺序
+就是2 <br />然后在P++ P指针指向下一个地址.<br />你后面的表达式是什么 把a赋值按表达式写的算,就是输出a+1的值.<br /><br />问题2<br />后面如果a=a+1的话.<br />printf结束输出结果是 2<br />先得结果 *P,把表达式的结果输出.
+4
+none
+http://zhidao.baidu.com/question/187787491.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/141322898.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/488192369.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/187451942.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/278602855.html?qbl=relate_question_4

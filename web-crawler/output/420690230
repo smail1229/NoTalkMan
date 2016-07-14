@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 的几道例题 求讲解
+2？<br /><br />例2,789e5中<br />的逗号什么意思.4里123456.9整体都不怎么明白<br />里的结果65535怎么得来的
+789e5，是将原来的数取反得到的值再加1<br />-1的原码为  0x8001=1000 0000 0000 0001    最后的1为符号位<br /> 取反符号位不变，没什么用;<br />相当于两个语句： 1111 1111 1111 1110;<br />789e5：<br />a=123456，在这里<br />a = 123456。<br />第2题<br />有符号数转为无符号数， 这时的最后位不再表示符号了<br />加1后为逗号是一个语句符号来的;只是产生一个临时的变量
+0
+none
+http://zhidao.baidu.com/question/66807667.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/120282776.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147352763.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/51382809.html?qbl=relate_question_3

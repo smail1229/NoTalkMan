@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中printf(a+b)这样的表达式成立吗？
+函数的参数只能是变量？ 或者我不要变量.直接printf(1+2)行吗？
+不 可以  要 加“”printf(&quot;1+2&quot;)  输出1+2
+0
+none
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/422650127.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/413985755.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/189628051.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/326381984.html?qbl=relate_question_4

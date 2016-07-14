@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言指针的指针问题××P
+<br />指针的指针我一直都很难搞得明白c语言中的指针的指针问题。弄了半天不知道究竟是什么，什么地址的地址？可以举个具体详细的例子吗，比如××P究竟具体是指点什么呢，呵呵<br />谢谢高手指点
+其实指针就是地址<br />记住一个*就叫地址<br />两个*就叫地址的地址<br />如：*p就是指向某个变量的地址<br />**p就是指向某个变量的地址的地址<br /><br />或者说p中存放的是某个变量的地址<br />p中存放的是某个变量的地址的地址<br /><br />这个也就是整个指针的大部分内容<br />背过后，大部分考试应该都没有问题的
+1
+none
+http://zhidao.baidu.com/question/533425674.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1945760132558450268.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/524181051.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/254783541.html?qbl=relate_question_3

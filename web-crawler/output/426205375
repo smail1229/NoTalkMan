@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个C语言数组指针的问题：data.p[sample] =.... 语句原型如上。p为定义的数组指针，sample为int类型的索引
+而且sample只定义了类型data是一个包含p成员的结构体？ 赋值以后数组元素值时什么样子的，没有初始化为0，请问：利用数组指针可以这样给数组赋值吗
+<br />3、首先你这个sample必须是一个整形常量,0;或者a[0] = 0；<br />2。<br />比如 int a[10] = {0}.p,sample*sizeof(int))，要不然定义数组就会出错、给数组赋值有两种方式1，另一种是一个一个的赋值，一种是初始化的时候直接赋值,a[1] = 0、也可以用内存的方式清零memset(data
+0
+none
+http://zhidao.baidu.com/question/59826441.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/475330442.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/248627500.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/266590717.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/246785373.html?qbl=relate_question_4

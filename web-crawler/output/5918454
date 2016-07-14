@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言预处理命令中的include可以做标识符吗？
+a;stdio;%d&#92; <br />printf(&quot.h&quot;n%d&quot; <br />main() <br />{ <br />int include=123,a=0;？*&#92,include); <br />} <br />&#92;*上面的程序编译通过，可以证明include可以做标识符吗c语言预处理命令中的include可以做标识符吗？ <br />include &quot
+h&quot。但这种习惯不好，include等作为编译预处理的单词没说不可以作为一般的标识符，并且结果是正确的，上面说。而像Define;”这应该是笔误，少了个#号，ANSI C规定的32个关键字不能再用作各种标识符;stdio。我查了一下相关书籍，我运行过了可以通过“include &quot，实践证明是可以的
+3
+none
+http://zhidao.baidu.com/question/5912133.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/336599269.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192136974.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/73777574.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/522575999.html?qbl=relate_question_4

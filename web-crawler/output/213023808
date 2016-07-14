@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，这题怎么解释，(&quot;%2d%2ld&quot;,&x,&y
+行下列程序时输入1234567;.h&gt,&x。<br />#include &lt;;   printf(&quot;<br />scanf(&quot;n&quot;stdio;%2d%2ld&quot;<br />main(   )<br />{  int x,y;%d&#92;<br />}<br />A)17  B)46  C)15 D)9 <br /><br />答案已知 ,&y),x+y)，程序的运行结果为( B  )
+2d 是输入两列数,%2ld让你的计算机只获取了12和34这两个数,&x;； <br />%2d，例如 123456  只会输入前面的两列数,&y)，12   后面的数都被舍去了<br />scanf(&quot，后面的自动丢弃;% 2d% 2ld&quot
+13
+none
+http://zhidao.baidu.com/question/199894268.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/174195899.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/472539433.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203573906.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/178387053.html?qbl=relate_question_4

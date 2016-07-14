@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：用筛选法求100以内的素数。
+none
+fail
+2
+int notPrime[101];<br /><br />int main()<br />{<br />    int i,j;<br />    for(i=2;i&lt;=100;i++)<br />        if(!notPrime[i]) {<br />            printf(&quot;%d is a prime number&#92;n&quot;,i);<br />            for(j=i*i;j&lt;=100;j+=i) notPrime[j] = 1;<br />        }<br />}
+http://zhidao.baidu.com/question/543794841.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/384142160.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52017869.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/26052179.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/140268388.html?qbl=relate_question_4

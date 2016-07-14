@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 define 带参数的宏替换
+n&quot,这个替换的细节能否叙述得详细一些：若改为(void) (  ););<br /> }<br />int main( )<br />{<br />  #define print(  )  ((void)(3) )<br />  print(  )，谢谢，期待着您的解答;<br /><br /> return 0;<br />}<br />问题一：(void)(3)该如何替换掉print( );<br />void print(  )<br />{<br />  printf(&quot，结果又是如何？<br />只有15分了#include&lt;stdio？<br />问题二;hello&#92.h&gt
+fail
+0
+none
+http://zhidao.baidu.com/question/74343215.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/688193246338176844.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22042731.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1767240576337357260.html?qbl=relate_question_4

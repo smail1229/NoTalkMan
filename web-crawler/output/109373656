@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言如何在数学表达式中隔离出运算符号
+n=2，如何分离出m=1，c=‘+’，输入数学表达式我想做个简单的计算器.<br />请高手指点，例如输入“1+2”，在表达式中如何把运算符号和数字分离开，计算显示出结果
+，括号;0&#39;，加一个判断，，小数全部按字符读入、<br />另.：<br />你要做到什么程度，则result=c-&#39？是否考虑运算优先级;<br />再按符号判断+ -×：<br />如果字符c是0～9
+1
+none
+http://zhidao.baidu.com/question/109391717.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519372444.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/290612813.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101473925.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/237409633.html?qbl=relate_question_4

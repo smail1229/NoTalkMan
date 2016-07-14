@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言调试错误中说重定义什么函数是什么意思
+C语言调试错误中说重定义什么函数是什么意思
+你看看你前边的int  char 或是其它的类型里是不是有重定义两次相同的变量 如果有的话就去掉一个,不允许重复定义两次的
+0
+none
+http://zhidao.baidu.com/question/1766479580133694180.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/490873077.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1731746643105538227.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1987622302638440027.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211490601.html?qbl=relate_question_4

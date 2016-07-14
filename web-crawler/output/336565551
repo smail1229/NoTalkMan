@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言或汇编语言编写一个：将数组按由小到大的顺序排列的程序。要求1：数组元素的个数由键盘输入。
+格式自定）！：数组元素由键盘输入：显示排序后的数组。4。2！。很急！。3范围5-10个：附加（将排序后的数组存到文本文件中！
+, iTemp。。<br />#include&lt忘了有什么文件函数;<br /><br />	printf(&quot;输入数组个数，有个可以一次写入的函数;); ++i)<br />	{&#47.txt&quot.h&gt:&#92, &quot;%d &quot;), iArray[i]);/ i &lt;排序<br />	for(i = 1;写入文件;%d&quot, iArray[10];<br /><br />int main(void)<br />{<br />	int iNum：&quot;1;<br />	scanf(&quot;<br />				iArray[j] = iArray[j + 1], &iNum); iArray[j + 1])<br />			{<br />				iTemp = iArray[j];&#92; ++i)<br />	{<br />		scanf(&quot;%d&quot;C;<br />				iArray[j + 1] = iTemp; iNum;wb+&quot; ++j)<br />		{<br />			if(iArray[j] &gt, i; iNum, (iArray + i));<br />	}<br />	fclose(fp);<br />	return 0;<br />	for(i = 0, j; i &lt;;<br />	FILE *fp;<br />			}<br />		}<br />	}<br />	fp = fopen(&quot;; i - j;<br />	for(i = 0; ++i)<br />	{<br />		for(j = 0，但我忘了<br />		fprintf(fp; j &lt，搞得晚了; i &lt;。; iNum;stdio;&#47。, &quot;<br />	}<br />	&#47
+1
+none
+http://zhidao.baidu.com/question/357878535.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/380671421.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/214309216.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/485573818.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/162760561.html?qbl=relate_question_4

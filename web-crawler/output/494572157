@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问如何用单片机C语言编写这个例子
+并带到count函数中的公式内求值S=（m-60）&#47定义m、n两个变量，通过矩阵键盘定义的加，给这两个变量赋值、减按钮
+     //////松开后 就是P3=0xfe temp=0xf0跳出这个while循环继续执行总循环<br />       temp=temp&0xf0!=0xf0)<br />     {<br />      temp=P3;<br />       case 0x7e;不跳出的话下边的case语句全部执行<br />       case 0xde;<br />        break;有键盘按下<br />    {<br />     delay(5);返回temp值<br />     temp=temp&0xf0;           ///<br />       case 0xbe;/检测是否有矩阵键盘按下<br />   while(temp;//     /switch函数<br />      {<br />       case 0xee;/矩阵键盘检测函数  最终得到一个num值传给显示函数使用<br />{<br />   P3=0xfe;/ /<br />&#47!=0xf0)/<br />      }<br />     while(temp;/////松手检测  当手一直按下时一直再次循环<br />      {<br />       temp=P3;/<br />        break;&#47:num1++;判断  第一行  有没有键盘按下<br />   temp=P3;/最后要返回num的值<br />        break;<br />     temp=P3;//再次判断是否有矩阵键盘按下<br />     while(temp;/<br />   temp=temp&0xf0!=0xf0)//判断 第一行 哪一列 第一个键<br />        break;/&#47:num3--;///&#47:num4--;<br />     switch(temp)/////&#47:num2++;//<br />      }<br />     }<br />    }/&#47uchar keyscan()&#47
+1
+none
+http://zhidao.baidu.com/question/148445884.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148240620.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/259302101.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/153559003.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/563171089.html?qbl=relate_question_4

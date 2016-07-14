@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言自定义函数void和return的区别
+none
+如<br />void getarea()<br />{<br />    area=a*b，计算矩形面积的函数。举个例子，需要返回，直接在函数中给出值;<br />}<br />在调用时  area=getarea()这个;<br />也可以不用返回值，什么意思，getarea();<br />}<br />调用时,如 <br />float getarea()<br />{<br />     return a*b，void是定义一个没有返回值的函数;<br />两个函数效果一样，也就是void定义的函数就没有return<br />return是将本函数中的运算结果或者状态返回到调用本函数的地方，那就要用到return 
+6
+none
+http://zhidao.baidu.com/question/497544932.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/145119991.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/393176099.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/361034229959585412.html?qbl=relate_question_4

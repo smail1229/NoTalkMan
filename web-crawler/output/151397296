@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程：3行4列的二维数组中输出每一行的最大值怎么编程呀
+none
+fail
+0
+#include&lt;stdio.h&gt;<br />main()<br />{<br />    int array[3][4];<br />    int i,j,max;<br />    for(i=0;i&lt;3;i++)<br />        for(j=0;j&lt;4;j++)<br />          scanf(&quot;%d&quot;,&array[i][j]);<br /><br />    for(i=0;i&lt;3;i++)<br />    {<br />         max = array[i][0];<br />         for(j=0;j&lt;4;j++)<br />         {<br />             if(array[i][j]&gt;max)<br />                 max = array[i][j];<br />         }<br />         printf(&quot;The max num of line %d is : %d&#92;n&quot;,i,max );<br />    }<br />}
+http://zhidao.baidu.com/question/1945914211536601588.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/259558319.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/121914101.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/44330584.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211303854.html?qbl=relate_question_4

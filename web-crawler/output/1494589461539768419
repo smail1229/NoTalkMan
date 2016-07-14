@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，字符串“123”如何分解成为‘1’，‘2’，‘3’，把它放在char数组array[]里面？
+none
+char array_name[0] = string_name.at(0);
+0
+none
+http://zhidao.baidu.com/question/1638020087595919420.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139538960.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2011216527521107668.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/354907243.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126232205.html?qbl=relate_question_4

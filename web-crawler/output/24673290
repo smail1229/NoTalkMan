@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言赋值语句得问题。。。
+设x,y均为flout型变量，则以下不合法赋值语句是（）<br />a. ++x畅担扳杆殖访帮诗爆涧;          b. y=(x%2)&#47;10;<br />c. x*=y+8;       d. x=y=0;<br />请一一说明一下？？？？30分钟后我再回来。。。
+赋值.??<br />a. ++x; //++x是先让X加上1再把这畅担扳杆殖访帮诗爆涧个值.赋给别的变量等.++不能对bool运算.能对算术运算..<br /><br />b. y=(x%2)/10; //求余确实是不能为浮点类型的数据.所以是错.<br />c. x*=y+8; <br />d. x=y=0;
+0
+none
+http://zhidao.baidu.com/question/223540683.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/116136960.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/114051647.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/209014131.html?qbl=relate_question_3

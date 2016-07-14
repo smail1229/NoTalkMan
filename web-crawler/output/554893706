@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题 把一个数组的元素逆向输出 希望可以指出我编的程序的问题 谢谢
+<br /> for(i=0.h&gt;;i++)<br />    x[9-i]=a[i];<br /> return(x[10]),b[j]);i&lt;<br />void main()<br />{<br /> int change(int a[10]);%d&quot,a[10];10;<br /> int b[10],i;<br /> b[10]=change(a)#include&lt;<br />}<br />change(int a[10])<br />{<br /> int x[10];10,a[i]);i&lt;stdio;i++)<br />  scanf(&quot;;<br /> int j;<br /> printf(&quot;<br /> for(i=0;%d&quot;j++);<br /> for(j=0;j&lt;10,i
+fail
+3
+none
+http://zhidao.baidu.com/question/510601977.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/351292321.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/197140676.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/156455184.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/328028100.html?qbl=relate_question_4

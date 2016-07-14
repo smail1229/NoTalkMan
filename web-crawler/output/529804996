@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言的问题。已知 int i = 5; 执行语句 i += ++i; i 的值是 我需要过程!过程！
+none
+关于这个问题，你一定要理解优先级的意义~<br />  所谓优先级，就是在执行一个运算时的顺序，比如我们小时候学的先乘除，后加减，意思就是3+5*4这个式子我们是先算后面的5*4，那么如果有个括号，（3+5）*4，那么，就是先算3+5了，为什么？因为乘除法的优先级比加减法高，而括号的优先级又比乘除法要高~如果是相同优先级就是从左到右依次计算了<br />   我们换到你这道题上，+=这个运算符的优先级比++这个运算符低，所以先算++这个运算符，关于这个自加运算符，有是一个考点，++i是先+1，再使用，而i++是先使用，后+1，考虑到你刚供激垛刻艹灸讹熏番抹接触C语言不久，这条规则你先死记下来，以后慢慢就会明白~<br />    i是5，加1变成6，+=运算符意思是这样的，比如x+=y，就是x=x+y，你也可以理解成把等号移到前面，然后再加一个最开始得字符`<br />  现在我们看这道题目就简单了，i先加一再使用，就变成了6，i=i+i，这时候系统里的i已经是6了，所以就是6+6=12<br />   啰啰嗦嗦说了这么多，还是希望对你有帮助吧~
+18
+none
+http://zhidao.baidu.com/question/370802681.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/216006983.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/19404555.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116563970.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356444647.html?qbl=relate_question_4

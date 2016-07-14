@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 while(scanf(&quot;%d&quot;,&n)!=EOF,n) 是什么意思？
+&a),s;n&quot,&n);<br />        while(scanf(&quot;<br />                while(n--)<br />                {<br />                        scanf(&quot,n)<br />        {<br />                s=0#include &lt;stdio;%d&quot,&n);.h&gt,s);%d&quot!=EOF;;<br /><br />int main()<br />{<br />        int n;,a;%d&#92!=EOF：while(scanf(&quot;<br />                }<br />                printf(&quot;<br />                        s+=a;<br />        }<br />        return 0;<br />}<br /><br />中 ;%d&quot,n) 的意思;
+好,当scanf读取内容发生错误或者读到文件结尾的时候就会返回EOF，EOF的值其实就是-1，直到输入缓存中的内容为空时停止，那个while的意思就是说当当前输入缓存还有东西时就一直读取
+29
+none
+http://zhidao.baidu.com/question/237281591.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/293483473.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/446165492.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49788926.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/463353080.html?qbl=relate_question_4

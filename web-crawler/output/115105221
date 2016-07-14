@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中for(i=2;i&lt;n;i++)说i的顶值是n怎么理解
+com/question/115036865;<br /> }<br />}<br />两个问题.baidu;t%d&quot;<br /> void main()<br />{<br /> int n.h&gt;i&lt.html;=100.com/question/115036865;n)<br />这三个if该如何理解;<br /> for(n=2.html;n，能从i循环出来的i 不是小于n就只能等于n <br />for(i=2.baidu;n&lt;;n++)<br /> {<br />  for(i=2;<br />#include&lt://zhidao;i++)<br />   if(n%i==0) break;i++)i的顶值是n吗;=n？<br /><br />原题 <a href="http;<br />   if(i&gt;=n)<br />   printf(&quot：<br />1;i++)说i的顶值是n怎么理解;=n)<br />if(i==n)<br />if(i&gt;*输出100以内的素数*&#47,n)， if(i&gt?quesup1" target="_blank">http;=n)可以改成 if(i==n)是因为i循环的顶值被限在了n？<br /><br />2;i&lt,i;stdio，if(i&gt://zhidao&#47;i&lt;n;&#92？<br />for(i=2
+n++)<br /> {<br />  for(i=2.;i++)i的顶值是n+1。因为i=n-1的时候,n)，顶值是n。<br />第2中情况下,不成立;i&lt.，判断.<br /><br />if(i&gt;n的时候执行{}这里面的否则跳过{} 开始判断 i==n;t%d&quot，进入循环for(n=2，出来i++，要么就不满足i&lt;<br />  }<br />   if(i&gt;i++)----------------------------1<br />  {<br />    if(n%i==0) break;&#92;n!=n的时候就继续跳过{}，<br />if(i==n){}    i;，if（）永远是true;n，要么是n%i ==0 就break了，然后i++<br />i就变成n了;n){}<br /><br />if(i=n){}   是一个赋值.这里要注意不能 (i=n)<br />if(i&gt;=100;n，就跳出1这个for()了，所以顶值是n<br /><br />同理 for(i=2,然后进不去了;i&lt;<br /> }<br /><br />1循环语句结束条件. 在i=n的时候还可以进入循环.，i=n+1;=n){}    i&gt。同理，不是一个判断;n&lt;=n)<br />   printf(&quot;=n。然后判断i&lt
+3
+none
+http://zhidao.baidu.com/question/223602742.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/229374157.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/348236894.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/517681823.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1301570351788574539.html?qbl=relate_question_4

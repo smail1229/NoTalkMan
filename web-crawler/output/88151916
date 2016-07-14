@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 数组定义时需要语句 int p=10; int a[p];请教为什么编译不过？
+none
+定义数组时 数组的大小 必须是常数，不能是变量 可以在 main函数前面先加上 <br />#define p 10 这样就可以了
+6
+none
+http://zhidao.baidu.com/question/88151828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/272818491.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240406583791806844.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1859693734780306187.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/426205375.html?qbl=relate_question_4

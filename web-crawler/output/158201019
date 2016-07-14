@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：编写已知三角形三边求面积的函数，对于给定的3个量（正值），按两边之和大于第三边的规定
+若能够成三角形，输出对应的三角形面积判别其能否构成三角形，输出其构成三角形的情况。要求主函数输入10组三角形三边
+%f&#92,b[10];<br />s=sqrt(p*(p-a[i])*(p-b[i])*(p-c[i])).h&gt;,float;<br />void m(float,&c[i]);;n&quot;;<br />#include &lt;<br />for(i=0;math,float)<br />{<br />if(a[i]+b[i]&gt;i&lt,c[10];%f%f%f&quot,p;<br />printf(&quot;i++)<br />{printf(&quot,s),i+1);<br />float a[10];n&quot.h&gt;c[i]&&a[i]-b[i]&lt;三角形面积是,&b[i],b[i];c[i])<br />{p=(a[i]+b[i]+c[i])/2;*海伦公式*/请输入第%d个三角形三边,s;<br />scanf(&quot;stdio;n&quot;10;}<br />m(a[i];}<br />else<br />printf(&quot;这不是三角形&#92;<br />}<br />void main()<br />{int i;),&a[i]：&#92,c[i])#include &lt;&#47
+3
+none
+http://zhidao.baidu.com/question/52063664.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/412308193.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/145011010.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98635888.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128350442.html?qbl=relate_question_4

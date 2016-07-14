@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言for循环的使用和讲解，希望详细点，初学者
+none
+.;The sum from 1 to 10 is &quot， num 表示多少个数;1设置初始值; for循环的执行顺序为 1-2-4-3-2-4-3-2-4-3-2;/&#47！ 下面的例子是一个对1-10这10个数求和的例子; i &lt。<br />}  &#47，用4表示;&#47。<br />printf(&quot。<br />int i。<br />for(i = 1; i++)   &#47, sum)，用来控制边界.这时.，将退出循环。<br />    sum += i; 声明几个变量, sum = 0.，2边界控制; 相当于 sum = sum + i。<br />{                                     &#47, num = 10.直到i &gt我用例子来给你解释一下吧;          &#47...：i 计数;       /= num.，3通常用来调整计数值！; 打印输出sum值...！ 加油;;&#47。<br /> <br />希望对你有帮助; num; for语句包含三个语句。 {}内的语句均为循环体.;/     &#47.; 表示不断地加i..，用;/隔开， sum 存储最后的总和
+23
+none
+http://zhidao.baidu.com/question/520688906895304885.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/66904767.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261270878.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/305101382486247204.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/427902727.html?qbl=relate_question_4

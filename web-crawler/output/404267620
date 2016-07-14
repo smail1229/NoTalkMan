@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程问题，计算出从n 个不同元素中取出m 个元素(m≤n)的组合数&#65377;编写程序
+是刚预习的.：n;<br />return 0;;要求定义和调用函数fact(n)计算n,x): 5<br />Enter n;%lf&quot!)<br />【输入形式】<br />从键盘输入正整数m和正整数n;(m: &quot,&m);<br />printf(&quot;result=%f&quot!;Enter m根据下列公式可以计算出从n 个不同元素中取出m 个元素(m≤n)的组合数&#65377;<br />return a;<br />公式为;;<br /> for (i=1: 12<br />result=792<br /><br />下面是我写的!&#47;stdio;<br />int main()<br />{<br />double x,n，很多东西还不会用;<br />y=m&#47;;(m+n);<br />scanf(&quot.;%lf&quot: &quot,a;i++) <br />	a=a*i;i&lt;=s;n;<br />printf(&quot!*(m-n);<br />n=fact(n)。<br />【输入输出样例1】（下划线部分表示输入）<br />Enter m;Enter n,y;).  但错误一大堆;<br />}<br /><br />double fact(double s)<br />{<br /> double i,&n);<br />x=y&#47;)，请高手帮忙改改。或者直接编一个新的也可以<br />#include&lt;<br />printf(&quot.h&gt,函数类型为double&#65377,计算并输出组合数&#65377;<br />m=fact(m);编写程序,m,输入2 个正整数m 和n(m≤n);<br />scanf(&quot
+&m);stdio;<br />	m=fact(m): &quot;<br />	printf(&quot;(y*m);<br />	y=fact(n-m);).0f&quot;;%lf&quot,m;);i&lt;<br />	printf(&quot,a=1.h&gt;<br />	n=fact(n),&n),y;<br />	return a;<br />double fact(double s)<br />{<br />	 double i;result=%;%lf&quot,x);<br />	 for (i=1;<br />	x=n/Enter m;<br />}<br />int main()<br />{<br />	double x;Enter n;;=s,n;i++) <br />		a=a*i;;<br />	return 0;<br />	scanf(&quot: &quot;<br />	printf(&quot;<br />	scanf(&quot#include&lt
+37
+none
+http://zhidao.baidu.com/question/141993853.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/419986306.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/246896499.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/535999142.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2116947371819695787.html?qbl=relate_question_4

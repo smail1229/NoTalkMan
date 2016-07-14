@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 n=3 a=(n++)+(++n) a为什么等于8？
+none
+（前面n算好已经是4了）n++与++n是不同的，n就是4了,这个表达式去的的值就是N加1后的值，n++这个表达式得到的值是还是原来的n初始值3，然后最后就是8了，然后再++n，也就是4+1=5，关键还是n++与++n的区别++在后直接去的原始值，但是表达式结束后
+0
+none
+http://zhidao.baidu.com/question/104561792.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/87490252.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135362684.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/81340424.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241933407.html?qbl=relate_question_4

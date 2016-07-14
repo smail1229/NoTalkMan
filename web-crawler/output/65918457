@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+++i;为什么不是C语言的合法赋值语句
+none
+<br /><br />a=++i;表达式&gt赋值语句必须有如下的格式<br /><br />&lt;变量&gt; = &lt，左边就一个。<br />++i = a;这就不行了。<br /><br />永远记住;这是可以的
+4
+none
+http://zhidao.baidu.com/question/63871014.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/106520844.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/62540708.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/46878039.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/133578193.html?qbl=relate_question_4

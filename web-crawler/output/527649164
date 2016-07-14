@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 定义了结构数组的指针，如何才能读（printf）写（scanf）啊？
+&((*p)[i]；<br />printf（“%d”这样对吗？<br />scanf（“%d”。.xuehao)）；<br />字符都是半角英文.xuehao），(*p)[i]
+&((*p)[i]-&gt,(*p)[i]-&gt不对，如下;xuehao));xuehao)：<br />scanf(“%d”;<br />printf(“%d”，应该是这样
+0
+none
+http://zhidao.baidu.com/question/1988018457535070547.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/445178723.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/190599094.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/498184879.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/340867363.html?qbl=relate_question_4

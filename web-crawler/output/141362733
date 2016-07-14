@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针自增自减运算
+%d,*(p--)),5},3,&quot;<br /> printf(&quot,&quot,<br />每一步骤是什么意思;%d,&quot;<br />}<br />运算结果是<br />1,2;;;,4,3,*p);<br /> printf(&quot;<br /> printf(&quot;<br /> printf(&quot;%d,*p),2，*(++p)和*++p有什么区别;;<br /> printf(&quot,4;,&quot;<br />main()<br />{<br /> int a[]={1;%d;%d,++(*p)),*(++p));;.h&gt;<br /> getch(),&quot,2;<br /> p=a,&quot？<br />另外;stdio;%d;<br /> printf(&quot,*++p);%d;<br /> printf(&quot,*p++),&quot,&quot,3;;%d;<br /> int *p=NULL;<br /> printf(&quot,4,*p),3#include &lt
+&quot;;p=a+1，P值<br />1;      &#47，3+1=4<br /> printf(&quot;,1245044<br />3,1245044<br />4;      /%d,1245040<br />2,&quot,*p),1245040<br />3;<br />}<br />;/,*(++p));p=a;<br />main()<br />{<br /> int a[]={1;%d;%d,&quot;<br /> int *p=NULL,*p);，后p+1=a+2<br /> printf(&quot;,1245036<br />2,&quot,取出3<br /> printf(&quot;取出3;%d;先取出3,++(*p)),*++p),5};确实是4;  //取出3<br /> printf(&quot;%d,&quot;先取出2,3,1245044<br />4;%d,*(p--))，但不知原因<br /> getch(),*p);&#47,2,取出1<br /> printf(&quot,&quot;&#47,取出2<br /> printf(&quot;;    &#47.h&gt;/;/<br /> printf(&quot;  &#47,1245044<br />3;stdio;p=a+2;%d;    &#47,&quot;&#47，后p-1=a+1<br /> printf(&quot,&quot,*p++),4;/  /<br /> p=a;%d，*(++p)和*++p没有多大区别<br />我的验证<br />%d;      /#include &lt
+3
+none
+http://zhidao.baidu.com/question/491833902.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40936659.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554258461.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/47801816.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/559388316631844564.html?qbl=relate_question_4

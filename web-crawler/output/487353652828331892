@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言:int b=2 b&lt;&lt;2&#47;(3||b)是什么意思?
+none
+你的写法有问题：<br />如果这样写的结果为:<br />int b;<br />b=b&lt;&lt;2/(3||b);<br /><br />C语言运算符优先级详细列表请参看：<a href="http://www.slyar.com/blog/c-operator-priority.html" target="_blank">http://www.slyar.com/blog/c-operator-priority.html</a><br />从此表可以看出：/运算符比左移运算符&lt;&lt;级别高。而左移运算符&lt;&lt;比逻辑或||运算符级别高，但此处逻辑或运算符被小括号()扩起来了，故该表达式的详解为：<br />3||b：由于3为非零值故该表示结果为真，即结果为1<br />由于除法运算级别高，故先执行除法，即2/1结果为2.<br />然后执行左移运算：将b的值左移2位，十进制2的二订矗斥匪俪睹筹色船姬进制格式为0010，左移两位为1000，故结果为8.
+2
+none
+http://zhidao.baidu.com/question/623366795186797044.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/503700887.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163463458.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1510619011733432540.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/555994470.html?qbl=relate_question_4

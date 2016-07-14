@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求用c语言编写一个函数二分法求根的算法
+或插值法也行
+二分法计算函数f(x)=x*x*x*x+2*x*x*x-x-1;<br /><br />本程序在turbo c或c++下编译<br /><br />#include &quot;stdio.h&quot;<br /><br />#include &lt;math.h&gt;<br /><br />float f(float x)<br /><br />{float y;<br /><br />y=x*x*x*x+2*x*x*x-x-1;<br /><br />return y;<br /><br />}<br /><br />void main()<br /><br />{float a=0,b=0,h,y,x;<br /><br />int k,n0;<br /><br />printf(&quot;please input qujian a and b&quot;);<br /><br />sc憨缉封垦莩旧凤驯脯沫anf(&quot;%f%f%d&quot;,&a,&b,&n0);     /*输入含根区间a,b，循环次数n0 */<br /><br />for(k=0;k&lt;=n0;k++)<br /><br />   { x=(a+b)/2;<br /><br />     h=(b-a)/2;<br /><br />     y=f(x);<br /><br />     if(h&lt;10e-6||fabs(y)&lt;10e-6)<br /><br />     { printf(&quot;k=%d,x=%f,y=%f&quot;,k,x,y); <br /><br />break； }        /*输出分半次数k，函数的根x，及x对应的函数值.*/<br /><br />else<br /><br />       {if(f(a)*f(x)&lt;0)<br /><br />              b=x;<br /><br />       else a=x;<br /><br />       }<br /><br />    }<br /><br />}
+4
+none
+http://zhidao.baidu.com/question/51910438.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/70808121.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/28067404.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/337919200.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/872858032744824692.html?qbl=relate_question_4

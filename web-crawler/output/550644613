@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序中，switch是什么意思有什么用的？？
+none
+如果匹配：break和defult不是必须的:语句；<br />````````````````<br />}<br />option可以是数字，跳出开关，但是建议加上。<br />如果没有找到匹配的option；break。<br /><br />注意。这是良好的编程习惯;<br /><br />    case option2:语句；break，执行对应的语句；break：语句，然后从break;<br />    defult：语句，就会执行defult默认那一行语句;<br />    case option3，也可以数字符<br /><br />程序会查找是否有匹配的option这个是开关分支结构。用法<br />switch(option){<br />    case option1
+13
+none
+http://zhidao.baidu.com/question/588662151.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/541761221.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/374782376.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1896026878307379180.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/74643664.html?qbl=relate_question_4

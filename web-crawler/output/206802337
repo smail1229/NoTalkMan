@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计试题 1-2+3-4...-100=?
+none
+只写关键部分啊，观察;=100，可以写成   -1的n次方乘以  i  的形式<br />for(i=1;i++)<br />{<br />sum=sum+sign*i;/<br />sign=-sign    &#47，这个表达式是由1加到100的变形;不管-1的多少次方也好，不同的是双数的符号与奇数的符号相反<br />可以设置一个变量 sign=1<br />正如1L的老兄说的;i&lt，变的只是符号罢了<br />}<br />其他输出，剩下的我相信对你来说不成问题才对<br />首先
+2
+none
+http://zhidao.baidu.com/question/206814356.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/281866584.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/202874763.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/145818839.html?qbl=relate_question_4

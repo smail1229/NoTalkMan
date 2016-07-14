@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中如何自定义数组长度
+none
+组不能在方括号中用变量来表示元素的个数;<br />         ……<br />}<br /><br />但是;<br />         int a[n];<br />        ……<br />}<br />是合法的，数组可以超界使用。<br />但是下述说明方式是错误的,b[7+FD]， 但是可以是符号常数或常量表达式：<br />    #define FD 5<br />        main()<br />       { <br />        int a[3+2]。<br />例如。<br />    main()<br />        { <br />         int n=5
+20
+<p>动态分配的数组可以自定义数组的长度，示例如下:</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />#include&nbsp;&lt;string.h&gt;<br />#include&nbsp;&lt;stdlib.h&gt;<br />int&nbsp;main()<br />{<br />printf(&quot;输入要分配的内存大小:&quot;);<br />int&nbsp;size;<br />scanf(&quot;%d&quot;,&nbsp;&amp;size);&nbsp;&nbsp;//输入自定义的数组长度<br />int&nbsp;*pstart&nbsp;=&nbsp;(int&nbsp;*)malloc(sizeof(int)&nbsp;*size);<br />if&nbsp;(pstart==0)&nbsp;{<br />printf(&quot;不能分配内存\n&quot;);<br />return&nbsp;0;<br />}<br />memset(pstart,&nbsp;0x00,&nbsp;sizeof(int)&nbsp;*&nbsp;size);<br />int&nbsp;inx;<br />for&nbsp;(inx=0;&nbsp;inx!=size;&nbsp;++inx)&nbsp;pstart[inx]&nbsp;=&nbsp;inx;<br />for&nbsp;(inx=0;&nbsp;inx!=size;&nbsp;++inx)&nbsp;printf(&quot;%d\t&quot;,&nbsp;pstart[inx]);<br />printf(&quot;\n&quot;);<br />return&nbsp;0;<br />}</pre><p><a href="http://g.hiphotos.baidu.com/zhidao/pic/item/8718367adab44aed007c574bb61c8701a18bfb6b.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://g.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=7f000566d22a60595245e91c180418a3/8718367adab44aed007c574bb61c8701a18bfb6b.jpg" esrc="http://g.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=fa25f4ab319b033b2cddf4de20fe1ae5/8718367adab44aed007c574bb61c8701a18bfb6b.jpg" /></a></p>
+http://zhidao.baidu.com/question/176377248.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262979100912482645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/481190361.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/532566564.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/152822398.html?qbl=relate_question_4

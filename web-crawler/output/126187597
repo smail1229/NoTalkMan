@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序 c++6.0
+用C++6.0  做一个 等边倒置的空心三角形的程序
+#include &lt;iostream&gt;<br />#include &lt;string&gt;<br />#include &quot;stdio.h&quot;<br />using namespace std;<br />void main() <br />{<br /> int fixN;<br /> int i,j;<br /> printf(&quot;输入奇数?&quot;);<br /> scanf(&quot;%d&quot;,&fixN);<br /><br /> for(i=0;i&lt;fixN;i++)<br /> {<br />  printf(&quot;*&quot;);<b憨抚封幌莩呵凤童脯阔r /> }<br />   printf(&quot;&#92;n&quot;);<br /> int a;<br /> a=(fixN-1)/2-1;<br /> for(i=1;i&lt;=a;i++)<br /> {<br />  <br />  for(j=1;j&lt;=fixN;j++)<br />  {<br />   if(j==i+1||j==fixN-i)<br />    printf(&quot;*&quot;);<br />   else<br />    printf(&quot; &quot;);<br />   <br />  }<br />  printf(&quot;&#92;n&quot;);<br /> }<br />  for(j=0;j&lt;fixN;j++)<br /> {<br />  if(j==a+1)<br />   printf(&quot;*&quot;);<br />  else<br />   printf(&quot; &quot;);<br /> }<br /> <br />  scanf(&quot;%d&quot;,&fixN);//为了程序停住<br />}
+1
+none
+http://zhidao.baidu.com/question/552020913174270532.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533257906.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/559665466003195444.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1604589787138470347.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561214773.html?qbl=relate_question_4

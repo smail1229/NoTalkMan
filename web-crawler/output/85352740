@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，如何将字符串数组中的52提取出来，并转换为int类型
+R52C05D&quot;;<br /><br />谢谢了<br />我想把数组中的东西合并成字符串char string[]=&quot
+),char *s1)<br />{<br />   int len1=strlen(s);0&#39;<br />int main(){<br />char string[]=&quot;R52C05D&quot; /%d&quot;<br />#define WRONG -1<br />int getnum(char*!*s)return WRONG,str[]=&quot;;<br />         if(,则说明string 中没有查到str*//;<br />   if(len2&gt,a);52&quot;<br />      }<br />   }<br />   return WRONG;string,len2=strlen(s1);<br />         if(;<br />}<br />int getnum(char *s;;*变量a用来存储查找并转化过来的 str *&#47#include&lt,char*);<br />#include&lt,sum=0;stdio;len1)return(WRONG);<br />      }<br />      else<br />      {<br />         if(sum)return WRONG.h&gt;<br />         s++.h&gt;<br />printf(&quot;<br />getch();<br />int a = getnum(string!*s1)return sum;<br />return 0;<br />         s1++,str);*如果a为-1;<br />         s++;<br />   while(*s)<br />   {<br />      if(*s==*s1)<br />      {<br />         sum = sum*10+(*s1-&#39
+4
+none
+http://zhidao.baidu.com/question/87546562.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2202191553907539908.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/505556198.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/506309808.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/310750794.html?qbl=relate_question_4

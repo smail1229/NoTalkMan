@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+(C语言)如何将char**作为字符串数组，并且动态地添加字符串到其中？
+需要把每一行作为一个字符串添加到char**指向的指针中。<br />请问如何用C语言(非C++)实现？<br />谢谢待添加的字符串已经按行记录在文件example.txt中
+fail
+0
+none
+http://zhidao.baidu.com/question/434929718.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/229265122.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2203034153347391308.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/380869850.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/937568263357591132.html?qbl=relate_question_4

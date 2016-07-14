@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮忙写个C语言程序 实现功能如下功能
+入N个数  求出平均值并输出所有小于平均值的数  再对所有小于平均值的数求一次平均数从中取出和第二次平均值最接近的数 并输出。<br />输入的数值比较大 精确到千分位  如10000000.321  <br />300000.145   2000000
+<br /> ave1=sum1/n.3lf&#92，看下合不合你要求<br />#define N 10<br />#include &quot;;<br />   t2=j;math,ave1),j=0;i++;stdio,n=0;n&quot;N;<br />  }<br /> }<br /> ave2=sum2&#47.3lf&#92,sum2=0.h&quot;N,j,b[N];<br />#include &quot;n&quot;%5;;The number nearest the second average is %5;min)<br />  {<br />   min=t1.h&quot,t2;ave1)<br />  {<br />   printf(&quot;n&quot;<br />void main()<br />{ <br /> double sum1=0.0;);<br />   b[j]=a[i];<br />  if(t1&lt;<br /> for(i=0;n&quot.0;<br /> <br /> printf(&quot;<br /> <br /> for(i=0;j++)<br /> {<br />  t1=fabs(b[j]-ave2),a[i]),ave1;,ave2;<br /> for(j=1,a[N];i++)<br />  scanf(&quot.3lf&#92,ave2);i++)<br />  sum1+=a[i],min;<br /> printf(&quot,t1,&a[i]);n;<br /> int i;i&lt;<br /><br /> printf(&quot;i&lt;j&lt;<br /> for(i=0;please input some numbers;<br /><br /> min=fabs(b[0]-ave2):&#92;);N;<br />  }<br /> }<br /> printf(&quot;<br /> printf(&quot;The second average is %5;n&quot;%lf&quot;N.3lf&#92;The frist average is %5;n&quot;The number smaller than average is;:&#92;i&lt,j++)<br /> {<br />  if(a[i]&lt;<br />   sum2+=a[i];<br />   n++;,b[t2])C中不允许可变数组的好像
+11
+none
+http://zhidao.baidu.com/question/147246646.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/409465108.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/982157756422625899.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/429632956.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1895402869587835420.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+x==(y=z)C语言里面表示什么意思“==”符号在这里的作用？
+none
+则表达式的值为 1 ;的作用就是，然后再拿y与x比较，看x是否等于y：如果x=y。&quot;==&quot，否则 表达式的值为 0 先把y的值赋给z
+2
+none
+http://zhidao.baidu.com/question/14033586.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/13577911.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/385595885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127684321.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/23177977.html?qbl=relate_question_4

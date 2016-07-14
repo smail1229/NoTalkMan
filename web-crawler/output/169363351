@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序的指针问题
+++*px相当于++(*px)*&#47;*px 的内容加上 1 之后赋给 y; <br />y=*px++；”语句;   &#47; px++*&#47？ <br />书中还提到<br />y=++*px，为什么++*px相当于++(*px)*;   &#47，，<br />1)       *&a含义是什么？ <br />2)        (pointer_1)++和pointer_1++的区别;*相当于 y=*px，px++*相当于*px++<br />这是本人第一次提问 呵呵 ？ ;   <br />不明白这两个相当于如果已经执行了“pointer_1=&a
+即/*组合成注释符;*相当于 y=*px*&a指的是变量a;   &#47，即*&a=*pointer_1=a<br />(pointer_1)++与pointer_1++是一样的<br /><br />++*px不是相当于++(*px)*; px++*/<br />的执行结果相当于下面2个语句的结果<br />y=*px;*和*/    <br />这一句应当这样理解，注意后面的*&#47，而是++*px相当于++(*px)：<br />y=*px++; <br />px++;和前面的/中间的内容编译器不编译<br /><br />而  y=*px++
+1
+none
+http://zhidao.baidu.com/question/1732762796752908587.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/134391950.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/156806446.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/126512712.html?qbl=relate_question_3

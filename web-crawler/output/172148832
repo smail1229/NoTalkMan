@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言当中关于return用法
+none
+n&quot;stdio1;<br />return(z);%10d &quot,i=0;}<br />if(i%5==0) printf(&quot.h&quot;<br /> if(n&lt。<br />2;=100。<br /><br />看看这个题（编写函数求Fibonacci级数）<br />#include &quot;<br /> i++;<br />   else<br />   z=fib(n-1)+fib(n-2);<br />for(n=1;<br />}<br />void main(){<br />int n;)，通过它将被调函数的中一个确定值带回主函数，供主函数使用;<br />else<br />  if(n==1||n==2) z=1;;n&lt;=0) printf(&quot;n++){<br /> {printf(&quot，则以函数类型为准;&#92.定义函数的类型是一般应该与return语句的返回值的类型一致;),fib(n));有误&quot。如果不同,i;<br />int fib(int n)<br />{<br /> int z.函数中的return语句是用来获得函数的返回值的
+2
+none
+http://zhidao.baidu.com/question/180784576.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/458420953.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/178349477.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/14902400.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/13340424.html?qbl=relate_question_4

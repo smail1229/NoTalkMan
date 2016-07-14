@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中strcmp的问题
+<br />同样;0&#39;<br />    }<br />    if(*strA == &#39;0&#39; || *strBint strcmp(const char *strA，如果返回的都是正数;&#92;0&#39;----------------------(3)<br />    else<br />       return (int)*strA，返回值的意义!=NULL)&& (strB ;&#92!=&#39，怎么去判断到底是strA大还是strB大呢;<br />    strB++!=&#39!=NULL))，第（3）(4)行中;){<br />    if(*strA - *strB)--------------------------(1)<br />             return *strA - *strB;<br />    int i=0; ---------------------(4)<br />}<br /><br />请问,const char *strB){<br />    assert((strA;<br />    while(*strA;)<br />       return (int)*strB;-------------(2)<br />    strA++？<br />谢谢，第（1）和（2）行中;&#92
+可能&gt，返回值的意义是两字符串第一个不相同的字符ASCII码的差值，它们的大小应由 strlen 来判断<br />当然，此时返回值大小是否大于0已经没有关系了;0<br />能运行到第（3）(4)行;0或&lt，至少也是前辍关系，说明它们有相等的可能第（1）和（2）行中
+0
+none
+http://zhidao.baidu.com/question/59434291.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90366348.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/509698806.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1366048696935864339.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/410474817.html?qbl=relate_question_4

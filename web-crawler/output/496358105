@@ -1,0 +1,11 @@
+µÁƒ‘/Õ¯¬Á ±‡≥Ã”Ô—‘ C/C++ 
+C”Ô—‘±‡≥Ã«Û 1*2*3*4*5.
+none
+fail
+0
+#include &lt;stdio.h&gt;<br />int main(void)<br />{<br /> int i;<br /> int pro=1;<br /> for (i=1; i&lt;=5; ++i)<br /> {<br />  pro=pro*i;<br /> }<br /> printf(&quot;pro=%d&#92;n&quot;, pro);<br /> return 0;<br />}
+http://zhidao.baidu.com/question/248624160.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/14310619.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/142060504.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/271894121.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1894015384288860020.html?qbl=relate_question_4

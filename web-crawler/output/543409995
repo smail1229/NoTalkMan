@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+编写c语言程序，
+输入100个学生的&quot;c程序设计&quot;课程的期中和期末成绩,计算出总评成绩，总评成绩为“0.03*期中成绩+0.7*期末成绩”，根据总评成绩的统计90-100、80-89、60-79和0-5俯缉碘垦鄢旧碉驯冬沫9这4个分数段各有多少人，输入统计情况。
+#include &lt;stdio.h&gt;<br />main()<br />{<br /> double a,b,s;<br /> int n1=0,n2=0,n3=0,n4=0,k;<br /> printf(&quot;分别输入100个学生的期中和期末成绩:&#92;n&quot;);<br />    for(k=1;k&lt;=100;k++)<br /> {<br />  scanf(&quot;%lf%lf&quot;,&a,&b);<br />  s=a*0.3+b*0.7;<br />  if(s&gt;=90&&s&lt;=100)<br />   n1++;<br />  else if(s&gt;=80)<br />   n2++;<br />  else if(s&gt;=60)<br />   n3++;<br />  else<br />   n4++;<br /> }<br /> printf(&quot;90-100:%d&#俯缉碘垦鄢旧碉驯冬沫92;n&quot;,n1);<br /> printf(&quot;80-89:%d&#92;n&quot;,n2);<br /> printf(&quot;60-79:%d&#92;n&quot;,n3);<br /> printf(&quot;0-59:%d&#92;n&quot;,n4);<br /><br />}
+2
+none
+http://zhidao.baidu.com/question/1446187041069701500.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/250797855.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/919698231044146859.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1691101565358297588.html?qbl=relate_question_3

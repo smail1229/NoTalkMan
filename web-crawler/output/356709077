@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序改错：下列给定程序中，函数fun()的功能是根据整型形参m，计算如下公式的值。
+<br />double fun(int  m)<br />{ double  y=1;<br />  printf(&quot;(i * i)。<br />注意;<br />&#47，则应输出0,fun(n)).h&gt;nThe result is %lf&#92;<br />&#47;&#92;<br />  int  i：m中的值为5;(m×m)<br />例如;=m;conio。<br />请改正程序中的错误;**********************found***********************&#47;**********************found***********************&#47;<br />  for(i=2;<br />  clrscr()，使它能得到正确结果; .h&gt;(2×2)+1&#47;n&quot;<br />      y+=1&#47; i++)<br />     {<br />      j=-1*j，不得增行或删行。<br />试题程序，也不得更改程序的结构;<br />#include  &lt; i&lt;<br />}<br /><br />main()<br />{ <br />  int  n=5;(3×3)-1&#47.0;stdio;<br />  int j=1：不要改动main函数;(4×4)+…+(-1)(m+1)&#47.838611y=1-1&#47;<br />     }<br />  return(y)：<br />#include  &lt
+y+=j*1.0/(i * i);
+10
+none
+http://zhidao.baidu.com/question/500819729.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/371118247.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/356708881.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80737888.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356709420.html?qbl=relate_question_4

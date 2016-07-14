@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计函数问题
+试编写函数void func（int a[]）找出这三个数字，并存放在数组a中，用它们可以组合出6个不同的三位数，并将结果数组中每个元素的值写入到数据文件中。（运行结果有3个非零十进制数字。如果将这3个数字按从大到小和从小到大的顺序依次排列成两个三位数，它们的差是396；在主函数中调用函数func，这些三位数的和是2886
+fail
+2
+none
+http://zhidao.baidu.com/question/550818277.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/555101697.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/86156362.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/254669151.html?qbl=relate_question_3

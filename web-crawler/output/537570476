@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 for(i=1;i&lt;m;i++) j=R[j]; 这个循环什么意思？
+<br />  while(R[j];<br /> printf(&quot,n;m;n;%d&#92;<br />  else<br />   j=k-1;n&quot;m,m,j;<br /> josephus(n;,k);<br />  for(i=1!=j)<br />  {for(i=1;i++)<br />  j=R[j];n=%d：&quot;%d&#92;i&lt;<br /> void josephus(int n;stdio,&k);<br />这个循环什么意思;<br />  R[n]=1;<br />}<br /><br />程序中的<br />for(i=1;<br />  if(k==1)<br />   j=n;<br />  }<br />  printf(&quot,k=%d&#92#include&lt;i++)<br />   R[i]=i+1;josephus 问题求解;<br />  int i,k;<br /> }<br /><br />void main()<br />{<br /> int n,m=%d;i&lt,m;,&n;%d %d %d&quot,R[j]);<br />  printf(&quot;,m;n&quot;i&lt.h&gt;);i++)<br />  j=R[j],k);,&m,int m;<br />  R[j]=R[R[j]],R[j]),int k)<br /> {<br />  int R[1000];n&quot;<br /> scanf(&quot;<br /> printf(&quot
+每报到3的人就要死掉，n代表总共有n人围成一圈。<br />你问的这个循环就是报数的过程。<br />这个循环代表报数，那么这些人死的顺序为<br />42135，k表示从编号为k开始报数，从编号为2开始报数。<br />比如有5个人围成一个圈 ，m就表示报数报道m时这个人就要自杀Josephus问题
+0
+none
+http://zhidao.baidu.com/question/103235939.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/514452876.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/71543215.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/212568148.html?qbl=relate_question_4

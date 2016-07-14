@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设有语句int a=4；则执行了语句a+=a-=a*a后，变量a的值是多少？
+none
+等于号是从右向左计算的……<br />不过，谁这么蛋疼，用这种表达式？
+0
+答案：-24<br /><br />1、a = 4，先算a * a，表达式的值为16。<br />2、+和-同一优先级，因为是复合赋值运算结合性从右向左进行，所以此时算<br />a -= 16 (a *a 表达式的值是16）<br />相当于<br />a = a - 16; <br />此时a=-12<br />3、最后算:<br />a+ = -12（a-=a*a表达式的值是-12）。<br />相当于<br />a = a + (-12);<br />因为a = -12，所以最后的值是-24。
+http://zhidao.baidu.com/question/330720332.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/537371083.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/117414222.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117416742.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/918474933958891579.html?qbl=relate_question_4

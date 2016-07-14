@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言printf();语句的作用
+#include &quot;stdio.h&quot;<br />#include &quot;conio.h&quot; <br />void main()<br />{  int a, b;<br />   float d, e;<br />   char c1, c2;<br />   double f, g;<br />   long m, n;<br />   unsigned int p, q;<br />   a=61; b=62;旦厂测断爻登诧券超猾<br />   c1=&#39;a&#39;; c2=&#39;b&#39;;<br />   d=5.67; e=-6.78;<br />   f=1234.56789; g=0.123456789;<br />   m=50000; n=-60000;<br />   p=32768; q=40000;<br />   printf(&quot;a=%d,b=%d&#92;nc1=%c,c2=%c&#92;n&quot;,a,b,c1,c2);<br />   printf(&quot;d=%6.2f,e=%6.2f&#92;n&quot;,d,e);<br />   printf(&quot;f=%15.6f,g=%15.10f&#92;n&quot;,f,g);<br />   printf(&quot;m=%ld,n=%ld&#92;np=%u,q=%u&#92;n&quot;,m,n,p,q);<br />   getch();<br />}<br />⑴ 运行所给出的源程序，对照结果分析各printf()语句的作用。
+printf(&quot;a=%d,b=%d&#92;nc1=%c,c2=%c&#92;n&quot;,a,b,c1,c2); <br />a=61,b=62 整型<br />c1=a,c2=b 字符型<br /><br />printf(&quot;d=%6.2f,e=%6.2f&#92;n&quot;,d,e); <br />d=5.67,e=-6.78 浮点型, 2位小数,一共6位<br /><br />printf(&quot;f=%15.6f,g=%15.10f&#92;n&quot;,f,g); <br />f=1234.567890,g=0.1234567890; <br />f浮点型, 6位小数,一共15位<br />g浮点型, 10位小数,一共15位<br /><br />printf(&quot;m=%ld,n=%旦厂测断爻登诧券超猾ld&#92;np=%u,q=%u&#92;n&quot;,m,n,p,q); <br />m=50000,n=-60000 长整型<br />p=32768,q=40000 无符号整型
+0
+none
+http://zhidao.baidu.com/question/455109399.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/517137719.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/208802862.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123243051.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/475827312.html?qbl=relate_question_4

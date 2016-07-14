@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，为什么要进行什么“双精度浮点”之类的定义？有什么用？
+none
+能够表示的有效数字越多差不多这个意思，10^16 &lt。因为 10^7 &lt，加上默认的小数点前的1位1？你任何东西的长度可能都是整好整数么; 9007199254740992 &lt; 16777216 &lt。 <br /><br />单精度数的尾数用23位存储，2^(52+1) = 9007199254740992。 <br /><br />双精度的尾数用52位存储，所以说单精度浮点数的有效位数是7位，你money计算可能都是整数么，你就得定义更适合的数据类型？满足更苛刻的需求; 10^8，2^(23+1) = 16777216。尾数部分的位数越多。<br /><br />浮点数的精度取决于尾数部分：你用int类型能进行圆周率的计算么; 10^17
+10
+none
+http://zhidao.baidu.com/question/518714985.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214372213.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/64702817.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/420649276.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/91534154.html?qbl=relate_question_4

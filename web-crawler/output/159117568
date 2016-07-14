@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编写一道程序，求输入字符串的长度，且不能用strlength函数
+请写出该程序代码，尽量简约明了，谢谢！
+int strlength(char *s)<br />{<br />  int i=0;<br />  while(*s++) i++;<br />  return i;<br />}
+3
+none
+http://zhidao.baidu.com/question/94609033.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/330301854.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127649935.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/29386924.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98740338.html?qbl=relate_question_4

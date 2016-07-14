@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言计算S（n）=a+aa+aaa+...... 其中a是一个数字
+<br />    scanf(&quot.描述   计算S（n）=a+aa+aaa+;<br />    for(i=0,&a..;stdio.,&n);。不知道哪儿错了<br />#include&lt? 22*10+2=;%d %d&quot;?    <br /> <br />我写了个.;<br />    return 0,c),n.h&gt;%d&quot;i&lt;<br />    }<br />    printf(&quot,c=0;<br />        a=a*10+a;=n-1;i++)<br />    {<br />        c=c+a,i;<br />int main()<br />{<br />    int a。。. 其中a是一个数字   <br />输入数据   两个分别表示a和n的整数   <br />输出数据   一个表示S（n）的整数   <br />输入示例   3 5    <br />输出示例   37035    <br />提示   2*10+2=
+);<br />    }<br />    else<br />        b = a;需要输入个位数字;n&quot,b;;<br />        a=a*10+b;<br />    scanf(&quot;1)<br />    {<br />        printf(&quot,n;i++)<br />    {<br />        c=c+a;<br />    if(a&gt,&n);n,i;%d&#92;<br />}<br /><br />a=a*10+b 如果不改;stdio#include&lt;<br />    }<br />    printf(&quot！&quot，会加的不是个位数字,c);<br />    return 0.h&gt;9||a&lt;%d %d&quot,&a;i&lt;<br />    for(i=0;<br />        return 0,c=0;<br />int main()<br />{<br />    int a;
+4
+none
+http://zhidao.baidu.com/question/416324509.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/331758891.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100871397.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/178447163.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/408381107.html?qbl=relate_question_4

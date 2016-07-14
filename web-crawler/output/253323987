@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于指针的理解
+<br />}<br />为什么这个程序会运行错误呢;%d&quot#include&quot,p),*p);<br />void main()<br />{<br /> int *p=NULL;<br /> printf(&quot，是这样理解的吗;stdio;;;<br /> scanf(&quot;%d&quot.h&quot？定义*p为指针，那么p就是指针所指的地址
+stdio;;<br /> printf(&quot;<br /> scanf(&quot;%d&quot;<br />void main()<br />{<br />int x,*p)指针指向的地址要有空间才能scanf<br />#include&quot;<br /> int *p=&x;%d&quot.h&quot;,p)
+0
+none
+http://zhidao.baidu.com/question/194826045.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143946734.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/453524424.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/444686091.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/547088286.html?qbl=relate_question_4

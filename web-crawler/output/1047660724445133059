@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求C语言大神。12题怎么算，怎么会有四个值？
+none
+答案是A吗？肯定是4个值啊，fun函数要输出2个值，main再输出两个，那个fun函数是交换x和y的值的，但是因为不是指针传递畅範扳既殖焕帮唯爆沥，所以main里面x和y的值不会交换。
+0
+none
+http://zhidao.baidu.com/question/584017833513847565.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390872200501172485.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1540206420514602627.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1946081384850013948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1302033758375208499.html?qbl=relate_question_4

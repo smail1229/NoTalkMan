@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言scanf语句的问题。
+n&quot;<br /> char d;No swap&#92;%d&#92;<br /> if(d==&#39.h&gt;)<br /> {<br />  swap=a;<br />main()<br />{<br /> int  a, b)，输出字符串“No swap”<br /><br />为什么我在vc6;);%c&quot。<br />#include &quot;%d%d&#92;);stdio;<br />        printf(&quot;n&quot;;shu ru shu ju&#92，<br />        printf(&quot.0中运行;<br /><br />void main(void)<br />{<br />    int  a,&b);;;<br />        b=swap;stdio;<br />  printf(&quot;n&quot，将要输入第三个字符时就说遇到问题需要关闭, &d), swap;<br />}<br /><br />以上程序为什么不能运行呢,b。<br /><br />而以下程序就能运行;<br />        a=b，不能运行<br />在TC2;<br /> }<br /> else printf(&quot;&#47。;&#47;);n&quot;%d%d&quot;n%d&#92.0中运行时只输入前两个数字就自动结束了;<br />  b=swap,d);;y&#39，<br />怎样才能正常运行呢;n&quot;%c&quot;<br /> scanf(&quot;)<br />    {<br />        swap=a;shu ru shu ju&#92？<br /><br />#include&lt;<br />    scanf(&quot,a，如果该字符为y;<br />    }<br />    else<br /><br />主要是多了两个换行符“&#92;这里要两个换行符。<br />请问这是什么原因呢;n&quot;<br /> printf(&quot;<br />    char d;),swap,&a;, &b);<br />  a=b, b,就可以了&#47;n&quot;<br />    scanf(&quot;%d%d&#92, a,b);y&#39;No swap&#92，则进行两个数的交换（swap)并输出结果;;<br />    printf(&quot, &a;  &#47;<br />    if(d ==&#39.h&quot输入两个整数和一个字符;n”<br />就可以运行了;<br /> scanf(&quot；否则
+<br />以上这些问题。否则两个变量之间用空格或者逗号隔开、b，按照意图应该是输入一个整数回车：整数+空格或回车+整数+任意字符，回车符就直接被你这次的scanf给读取了，输入的时候也需要输入空格或逗号。这样就至少知道什么操作导致什么现象、再字符再回车。解决的方法就是要不用“%d%d&#92;n”，你输入一个整数加空格或回车再整数就行了。像楼主原来的写法。同时在输入char型时注意，之前最后一次使用scanf或printf的时候。但是实际上第二个整数后的回车在被按下后就直接作为字符传给原本想赋再输入的字符的变量了，如果你使用了回车作为结束确认，输入的数据是：对于printf也可以使用<br />另外VC（之外的不清楚）中%d%d这样的也不是分不出来、d。细究有些麻烦、再整数再回车，要不输入字符前额外用一次scanf，你保持原来两个连续%d，建议楼主以后一个scanf就针对一个变量。其中后者最保险，然后Debug中Watch一下a除了三楼说的。同时注意输入单字符注意的问题，把回车读掉，所以一个scanf只对应一个变量时最不可能处岔子的方法
+2
+none
+http://zhidao.baidu.com/question/86130448.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/198964099169634725.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/241173653.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/554708550.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/140342781.html?qbl=relate_question_4

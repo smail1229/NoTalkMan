@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求指点，程序执行判断语句与赋值语句时，哪个耗时更长？ 比如：if(a&gt;b) a=b; 是if
+程序执行判断语句与赋值语句时，哪个耗时更长;b) a=b：if(a&gt？ 比如C语言求指点; 是if（a&gt;b)还是a=b耗时更长
+根本不需要读取a原来的值比较耗时长<br />比较有一个读a和b值得过程，然后存储到a的位置，<br />而复制只是读取b的值，然后比较要建立一个新的区间存储比较结果
+5
+none
+http://zhidao.baidu.com/question/116136960.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196931192.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/223540683.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/114051647.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/133458840.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中printf函数输出格式问题
+111---   （-代表是空格符号）<br />但实际运行后;n&quot，书上讲错了吗;：111<br />后面没有三个空格;<br />main()<br />{<br />printf(&quot，利用notepad++使结果中空格显示出来结果是，这是什么情况？请指教，谢谢;-6d&#92;stdio,111)<br />}<br /><br />按书上讲的结果应该是.h&gt#include &lt
+中的&#39,111);-&#39，改为printf(&quot;表示输出宽度在不满6时;后，空格留在右边(左齐);n&quot;;%-6ds&#92;，输出结果应该是111   s，111和s之间有3个空格,111);%-6d&#92，但是否留有空格是看不出来的;n&quotprintf(&quot
+0
+none
+http://zhidao.baidu.com/question/123910868.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87054011.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424651189.html?qbl=relate_question_3

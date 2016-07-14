@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言绝对值用法，函数调用
+none
+fail
+1
+#include &lt;stdio.h&gt;<br />int main(void)<br />{<br />int x,y;<br />scanf(&quot;%d&quot;,&x);<br />printf(&quot;%d&quot;,x*2+1);<br />getch();<br />return 0;<br />}<br />main函数里直接用还是要另外要建一个函数?什麽意思，main()试标准调用函<br />数。浮点类型，float（6为有效数字）,double（10为有效数字）,longdouble三种，在赋予变量为浮点数时使用。<br />绝对值：<br />整数用abs()函数<br />例如：<br />#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />int main()<br />{<br />    int a,b;<br />    scanf(&quot;%d&quot;,&a);<br />    b=abs(a);<br />    printf(&quot;%d&quot;,b);<br />    return 0;<br />}<br />输入-10，输出10。<br /><br />有小数的（即浮点型）用fabs()函数<br />例如：<br />#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />int main()<br />{<br />    double a,b;<br />    scanf(&quot;%lf&quot;,&a);<br />    b=fabs(a);<br />    printf(&quot;%lf&quot;,b);<br />    return 0;<br />}<br />输入-1.2，输出1.2
+http://zhidao.baidu.com/question/122843077.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/77332624.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/918107531032975899.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39366246.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/29267774.html?qbl=relate_question_4

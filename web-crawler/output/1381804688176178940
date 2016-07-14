@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 x&lt;&lt;=8是什么意思
+none
+&lt; 8;&lt，&ltx = x &lt
+5
+x&lt;&lt;=8的意思是将x的值左移8位，重新赋值给x，相当于x=x&lt;&lt;8;<br />&lt;&lt;是左移的意思，左移之后一般在其后补0，如00001010左移1位即为00010100.
+http://zhidao.baidu.com/question/208813413.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/174485496.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/550419642.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/228527206.html?qbl=relate_question_3

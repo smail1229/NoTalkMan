@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的“控制结构”是什么意思？
+none
+顺序结构<br />选择结构（if）<br />循环结构（while，do-while,for,goto...）
+2
+控制结构就是一种程序运行的逻辑。<br />C语言一共有三种控制结构：顺序结构，选择结构，循环结构<br />1.从执行方式上看，从第一条语句到最后一条语句完全按顺序执行，是简单的顺序结构；<br />2.若在程序执行过程当中，根据用户的输入或中间结果去执行若干不同的任务则为选择结构；<br />3.如果在程序的某处，需要根据某项条件重复地执行某项任务若干次或直到满足或不满足某条件为止，这就构成循环结构。<br /><br />大多数情况下，程序都不会是简单的顺序结构，而是顺序、选择、循环三种结构的复杂组合。<br />C语言中，有一组相关的控制语句，用以实现选择结构与循环结构：<br />1.选择控制语句：if； switch、case<br />2.循环控制语句：for、while、do...while<br />3.转移控制语句：break、continue、goto
+http://zhidao.baidu.com/question/194544347.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/543964836.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/154625329.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/159188100.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/131582744.html?qbl=relate_question_4

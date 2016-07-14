@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机C语言unsigned char code table[]  code 是什么作用？
+单片机C语言unsigned char code table[]  code 是什么作用？
+其实是相当与汇编里面的寻址MOVX(好像是)，所以在软件中添加了这一个语句起到代替汇编指令的作用，因为C语言中没办法详细描述存入的是ROM还是RAM（寄存器），我定义的数据要放在ROM（程序存储区）里面code的作用是告诉单片机
+129
+none
+http://zhidao.baidu.com/question/62347099.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/20157545.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/119236022.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/290096358.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/69642230.html?qbl=relate_question_4

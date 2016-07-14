@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言当中int,float,double,char这四个有什么区别？
+新手不是很懂。，不要说得太复杂直接说出能从表面看出区别的那种。
+nt为整数型，能准确到小数点都十二位<br />char为字符型，能准确到小数点后六位<br />double为双精度浮点型，用于定义整数类型的数据<br />float为单精度浮点型
+125
+none
+http://zhidao.baidu.com/question/274010499.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/163051048.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/476694719.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/149803189.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/582702222.html?qbl=relate_question_4

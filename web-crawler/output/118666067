@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针的意义
+=10,&len);i++) <br />mul(arr; <br />} <br />int main() <br />{ <br />int i,&n)，程序就输出了错误的结果;stdio，如果把这个指针去掉：<br />#include&lt;i&gt，但是在void mul(int arr[]; <br />c=arr[i]&#47; <br />for(i=len-1;; <br />c&#47;=0;i++) <br />{ <br />arr[i]=arr[i]*n+c!=0) <br />{ <br />arr[l++]=c%10; <br />int arr[1000000]={0};arr[0]=1;; <br />} <br />while(c;%d&quot。询问了一些人只是告诉我什么函数值改变; <br />len=1;l;i--) <br />printf(&quot,i,len？在一个函数中运用变量和运用指针有什么区别呢？请高手指点<br />程序，但是我认为在这里变量和指针的作用应该是一样的哦;%d&quot,i;=n; <br />scanf(&quot，把函数全部改成变量len;i&lt，为何改成变量以后函数不能正确运行了呢; <br />void mul(int arr[],int n;i&lt; <br />for(i=0,int *len) <br />{ <br />int c=0; <br />for(i=2; <br />arr[i]%=10,int *len) 中为何应用指针*len;10,n; <br />} <br />*len=l.h&gt下面是一段C语言求大数的阶乘的程序,int n,arr[i]),l=*len
+<br /><br />如果使用变量传递也可以实现，所以len的值不会改变，就是需要返回len的值，即使没有返回值，则自定义函数直接操作len。<br />而使用指针，因为自定义函数没有返回值如果使用变量传递，len的值已经改变
+6
+none
+http://zhidao.baidu.com/question/92762622.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1174673241567140019.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127848225.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/235998495.html?qbl=relate_question_3

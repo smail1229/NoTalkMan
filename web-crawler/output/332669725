@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+初学者C语言int的问题....
+%d&#92;n&quot;怎么就没有.;<br />}<br />为什么会有b&#39;n&quot;c&#39; ;	<br />		printf(&quot;<br /><br />	}<br />	printf(&quot;<br />}<br />这个程序运行就没有问题,c);<br />		return 0;a&#39;<br />	c=a+b;=5)<br />	{a=a*b; ;<br />	while(b&lt.: &#39,a): undeclared identifier<br />&#39？<br />还有<br />int main()<br />{<br />	int		a=1;<br />	return 0;<br />	b=2int main()<br />{<br />	int 	a=1;<br />	b=b+1: undeclared identifier<br />error C2065;.,b=2;%d&#92;
+//同上 也是未定义就使用<br />应该改为 int a = 1，c;&#47；     a b c同时定义为int型 ; a定义为int<br />	b=2，b = 2; &#47int 	a=1;b未定义就使用当然会报错了<br />	c=a+b，你也分开一个一个的定义 但是麻烦<br />c= a+b;/&#47
+1
+none
+http://zhidao.baidu.com/question/223588910.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67847669.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/255895051.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/232351973.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/235438136.html?qbl=relate_question_4

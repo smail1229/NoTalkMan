@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言怎么让一个数字恢复要原来的值
+b;);n&quot;<br /> scanf(&quot;n&quot,c;;,这样一来虽说是把a的值给了b了,就不知道怎么把原来b的值给c了;):&quot;<br /> printf(&quot;* 输入三个整数分别给变量a b c,b),&c),a);<br /> printf(&quot;a = %d&#92;<br />void main()<br />{<br /> int a,a):&quot,把c原来的值赋给a *&#47,&a,但是b的值就改变了;<br /> printf(&quot;<br /> a = c,b););n&quot,&b;n&quot,怎么把最开始时b的值给新的c;;b = %d&#92;c = %d&#92,c);<br /> printf(&quot; <br />}<br />虽然我知道这样编肯定是错的;a = %d&#92;,然后把a原来的值赋给b;<br /> b = a;<br /> printf(&quot;%d%d%d&quot;<br /> printf(&quot;<br /> printf(&quot;<br /> c = b;c = %d&#92,c).h&quot;;n&quot:&quot;将b的值赋予给c,把b原来的值赋给c;;<br /> printf(&quot;请输入三个整数a b c;<br /> printf(&quot;将a的值赋予给b;<br />#include &quot;stdio;b = %d&#92;;<br /> clrscr()&#47;n&quot,求各位大侠帮帮忙
+<br />t=b连环赋值都是先要定义一个临时变量 你可以先定义个t, <br />然后<br />b=a,a=c
+0
+none
+http://zhidao.baidu.com/question/423403471.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431794313.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/117808469.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/140299341.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/88512704.html?qbl=relate_question_4

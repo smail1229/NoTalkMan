@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编程C语言 闰年弄一个year%4==0不就行了吗
+none
+b不会得到执行：<br />a=0。<br />a||b如果a判断为非0(TRUE);这里a初始值为0;        &#47，则整个结果必然为TRUE：<br /><br />&&运算和||运算在C++中是有偷懒特性的;<br /><br />a++&&b++：<br /><br />a&&b如果a判断为0(FALSE)闰年，b不会得到执行。所以year%4==0是错误的;    &#47。<br /><br />你追问的问题。比如1900年。<br /><br />你那个例子里;这个a初始值为1，能被100整除但不能被400整除的年份不是闰年;&#47，b++并没有得到执行<br />a++||b++;&#47，则整个结果必然为0(FALSE)
+0
+none
+http://zhidao.baidu.com/question/200631002.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/295733390.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49304561.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/111587279.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/339802560.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+菜鸟问题，C语言的char e[2]={&quot;h&quot;，&quot;0&quot;｝和char e[2]={&#39;h&#39;，&#39;0&#39;｝有什么区别，还有输岀char g[1]={&#39;hr&#39;}的
+none
+所以第三个如果是字符串的话应该改成这样。<br />而且，字符串还有一个&#92;hr&#39，占内存2字节;h&quot，所以第三个char g[1]={&#39，但是字符必须就一个;｝错误;0结束符：<br />char g[3]={&quot;hr&quot，‘’ 和“”不一样;0&quot，‘’是字符;，&quot：h  r  &#92;hr&#39，g[1]是设数组一个单位;}<br />这个&#39，“”是字符串;}<br />这三个单位在内存中的存放的内容是，占一字节<br />字符串可以很长;写法是错误的，所以‘hr’改成字符串也错char e[2]={&quot
+3
+none
+http://zhidao.baidu.com/question/462580332.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/22189866.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/225865747.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/59109925.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/376418842.html?qbl=relate_question_4

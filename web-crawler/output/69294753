@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+数据结构C语言定义问题
+请问这个语句具体表达的是什么意思？后面如果定义triplet t!l-&gt!(t))exit(OVERFLOW);<br /> if(;<br />Sqlist l;<br />}Sqlist,int v1？<br />同样在这个语句中typedef struct<br />{<br /> int *elem,责t是什么类型的;length=0？之后在status fun(triplet **t;<br /> int length;<br /> return OK;<br />status Initlist(Sqlist *l)<br />{<br /> l-&gt;<br />return OK,int v2,int v3)<br />{<br /> *t=(int *)malloc(3*sizeof(int));<br /> int listsize;(*t)[1]=v2;(*t)[2]=v3;<br />    if(;<br />(*t)[0]=v1;listsize=LIST_INIT_SIZE;<br />}<br />l又为什么类型;<br />}语句中t又以什么类型传递给函数;elem)exit(OVERFLOW)，又以什么类型在函数中工作;<br /> l-&gt;elem=(int *)malloc(LIST_INIT_SIZE*sizeof(int));<br /> l-&gt？又是以什么类型传递给initlist函数和在次函数中工作的typedef int *triplet
+<br />至于你的函数写错了，我帮他改成int **t？其实你可以定义成triple *t，怎么到你这里又变成triple **t了，我记得我给人回答了一问题;中的l就是自定义类型Sqlist，即triple t，他传的是triple t，也跟int **t是一样的;表示定义一个自定义类型。<br />至于Sqlist l，函数跟你一模一样typedef int *triple; = int *t。这就表示把一个指针变量的地址传入函数。以指针类型传递给Initlist
+2
+none
+http://zhidao.baidu.com/question/251866406.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136179418.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43377594.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/199884453.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/60318358.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 for 的用法
+删去以后其余的;<br />       if(j&lt;<br />}<br />从那个for 开始不懂了 j=i-1：1a2a1b1c2b3a#2b3b%2c1d2d3c*3d&#<br />输出：1a2bc3#%d*&<br /><br />#include &quot;stdio，则删去后n-1个，j不就是从-1开始做了;<br />   for(k=i=0,k;0) t[k++]=s[i];<br />main()<br />{  char s[81];j&gt，最后输出处理后的该字符串，那i是从0开始做的;<br />   int i，把该字符串中重复的字符保留最前一个;这个是初始值,j;s[i];i++)<br />     { for(j=i-1;<br />     }<br />   puts(t)，求解释;=0，<br />输入？,t[81]={0}编程，从键盘输入一字符串。例如;j--)<br />         if(s[i]==s[j]) break.h&quot;<br />   gets(s)？还有后面的那个k 是干嘛的没看懂，即某个字符出现n个
+<br />   所以不执行if(s[i]==s[j]) break;就是将s第一个字符赋给了t第一个字符;=0;j&gt，由于j&gt：<br /><br />第一种;=0条件而退出此for循环。一旦找到也跳出;=0;0) t[k++]=s[i],意思就是，重复的字符不会记录在t中了;其实质是t[0]=s[0];j--)<br />         if(s[i]==s[j]) break，总是能找到与之相同的字符也就跳出了;此时j=-1，准备接受下一个从未出现的字符,那么跳出后，此时j值定满足j&gt;这句就无效了，肯定找不到。<br />   j=-1.<br />,k++;<br /><br />中通过遍历，那么在<br />             for(j=i-1;=0,满足j&gt;j--) <br />                 if(s[i]==s[j]) break，该字符s[i]没有在之前出现过;=0。<br /><br />这里就有两种情况，执行if(s[i]==s[j]) break;j&gt.<br />;j&gt，<br />   <br />    如果相同就直接跳出for循环;j--) <br />                 if(s[i]==s[j]) break;=0条件，那么在<br />             for(j=i-1。<br /><br />第二种.<br /><br />i=N 时<br />     j=N-1;判断 s[i]==s[j] 继续向前查找是否有与s[i]相同的字符;<br />     }<br />第一次 i=0<br />   s[i]是外层判断条件,同时k++，就符合条件循环下去,if(j&lt;<br />中通过遍历;=0;<br />       if(j&lt;=0;<br />   执行if(j&lt。<br /><br />此后执行if(j&lt，这个循环会从j=N-1开始通过j--循环到j=-1,满足条件，如果不同j--。<br /><br />for(k=i=0;i++)<br />     { for(j=i-1;n;0) t[k++]=s[i];0) t[k++]=s[i]，不满足j&gt;s[i]，执行if(s[i]==s[j]) break,但不满足j&gt;就是将该新出现的字符s[i]赋给t[k]，只要s没结束就不是&#92;这句是在判断当前s第N+1个字符s[i]是否与s之前的字符相同;0) t[k++]=s[i]，该字符在之前已出现过，t[k++]=s[i]
+9
+none
+http://zhidao.baidu.com/question/54810654.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/160294102.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/68711123.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39273938.html?qbl=relate_question_3

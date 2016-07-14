@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于二维数组(N*N)行列互换程序
+语言关于二维数组(N*N)行列互换程序 ，请写得齐全一点哦，我看不懂的哦，不要只写一个主干
+ j; N; i &lt; ++i )<br /> {<br />  for ( j = 0, iTemp, j &lt;* 初值自己写吧 *// ++j )<br />  {<br />   iTemp = a[i][j];<br />  }<br /> }<br /> <br /> return;<br />   a[i][j] = a[j][i];<br /><br /> for ( i = 1#define N 5<br />void main()<br />{<br /> int a[N][N] = {0};<br /> int i;<br />   a[j][i] = iTemp; i
+3
+none
+http://zhidao.baidu.com/question/983140266323978219.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/250455679.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/287730204.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/146581829.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/479262618.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用牛顿迭代法求方程的根：lg(x)+x-2=0。用C语言，希望有详细步骤，谢谢
+none
+0)));得到的解带入原方程验证;<br />} <br /><br />写了半小时;/<br />}<br />double get(double k)<br />{<br /> return k-f(k)/<br />double eps=10E-6;<br /> while(fabs(f(x))&gt;得到的解。很多公式都忘了。哎;%lf&#92#include&lt;&#47,f(x));eps)<br /> {<br />  x=get(x);/%lf&#92.0;n&quot;<br />#include&lt。<br />int main()<br />{<br /> double x=5;;(1+(1;n&quot;math;/<br />double f (double k)/<br />}&#47,x)。<br /> printf(&quot。现在又重新查了一遍.h&gt;原函数方程<br />{<br /> return log10(k)+k-2;;<br /> }<br /> printf(&quot;k)*(1&#47。<br /> return 0;log(10.0.0//stdio;/牛顿迭代方程函数.h&gt
+0
+none
+http://zhidao.baidu.com/question/6326922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51661601.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/141021092.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/8755417.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/67059693.html?qbl=relate_question_4

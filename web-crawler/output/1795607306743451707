@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中,[1] i++是什么意思
+none
+++表示i自增1，先做其他运算，<br />i++相反，在单独使用的时候；最终结果a=2，再做其他运算：<br />当i=2的时候，完了再+1。<br /><br />但是、i++和i=i+1是完全一样的。<br /><br />比如；结果是 a=3，<br />++i，<br />a = i++，++i和i++是由区别的。<br />++i是先+1，i=3<br />a = ++i
+5
+none
+http://zhidao.baidu.com/question/240104236.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/255080992.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1301570351788574539.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258049673.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言定义一个指针变量，*与指针变量名之间有没有空格？？
+none
+C语言中，*和变量之间是没有空格的
+3
+<p>一般来讲声明的时候最好带上空格，比如以下</p><pre t="code" l="cpp">int&nbsp;b&nbsp;=&nbsp;10&nbsp;,&nbsp;c&nbsp;=&nbsp;11;<br />int&nbsp;*&nbsp;a&nbsp;=&nbsp;&amp;b&nbsp;,&nbsp;*&nbsp;b&nbsp;=&nbsp;&amp;c&nbsp;;</pre><p>但是用的时候最好不要加了，比如：</p><pre t="code" l="cpp">*a&nbsp;=&nbsp;10;<br />*b&nbsp;=&nbsp;100;</pre><p>以上所述来自于C primary plus<br /></p>
+http://zhidao.baidu.com/question/502054471.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/743996920383148292.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130320859.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/70472742.html?qbl=relate_question_4

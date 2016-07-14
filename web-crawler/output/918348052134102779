@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言两个int量相除，怎么能输出一个两个小数点的数字？
+比如我定义 Int a int b    float c                c=a&#47;b       例如当a=2   b=3    我想让 c输出显示为66.6%订尝斥妒俪德筹泉船沪  这个怎么弄呀··  我现在是直接c= a&#47;b  可是输出显示老是0.00%
+fail
+7
+none
+http://zhidao.baidu.com/question/104640801.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/137171594.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/380989627.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/359008869.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/247216602.html?qbl=relate_question_4

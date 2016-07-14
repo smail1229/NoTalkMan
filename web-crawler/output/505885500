@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，char s[ ]={＂aeiou＂},*p=s； printf（＂%c&#92;n＂，*p+4）
+n＂和char s[ ]={＂aeiou＂},*p=s，*（p+4））结果是多少，为什么；<br />printf（＂%c&#92
+所以*(p+4)输出&#39，所以为s[0]+4;说明p指针的值一样同学，p原先指向s[0];+4输出&#39，&quot;<br />同时*(p+4)是先把p加4，所以p+4指向s[4];u&#39;e&#39;aeiou&quot，再把*p的值与4相加，即&#39;;a&#39。<br />char *p=s？<br />以没有空格为例子来说明。<br />*p+4是先计算*p，都是指向字符数组的第一个元素的指针;里面有空格吗
+3
+none
+http://zhidao.baidu.com/question/463713249.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/87738074.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/404629289.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57076025.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/562371632.html?qbl=relate_question_4

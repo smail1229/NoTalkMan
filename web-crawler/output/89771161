@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中想输出double和long double型分别用什么控制字符？
+none
+<br /><br />这个很重要哦！<br />如果是【输出printf】的输出项是double或float时这个很简单丫。位于输入项为float与上面的一致，可以用f或e作为格式描述字符！特别是scanf，则必须用%lf或%le【必须有个l】作为格式描述字符：如果是【输入scanf】的输入项为double时，二级选择题都会考哦,(其中double也可以用%lf或%le)。<br /><br />注意，别搞错了
+51
+在C语言中，对于数值类型只有通过printf类函数输出这一种方式，比如printf, sprintf, fprintf等。这类函数输出时要求有格式符号，其中long double的格式符号为%llf<br />以下是一个简单的参考代码，输出到标准输出设备。<br />#include &lt;stdio.h&gt;int main(){ long double v = 1.23; printf(&quot;%llf&#92;n&quot;, v);&#47;&#47;采用%llf格式输出long double 类型 return 0;}<br />关于long double， 需要说明的是，在原始的C标准中是没有这个类型的，C99中才添加了该类型。而在C99及后续的规范中，对于该类型规定的也并不详细，只是要求long double类型在精度上需要不少于double的精度。于是就出现了有的编译器不支持long double, 而支持的编译器在实现上也有所区别，目前常见的long double有占用8字节，10字节，12字节和16字节四种，但输出格式都是相同的%llf。 如果想知道使用的编译器是如何实现的，可以用printf(&quot;%d&quot;, sizeof(long double));输出long double占用的空间值。
+http://zhidao.baidu.com/question/1859961934343057147.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/571672009.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88570366.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/109328551.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197693590.html?qbl=relate_question_4

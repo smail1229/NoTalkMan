@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 形参的表示种类
+那能不能写成*x[] 或 *x[10]呢 ,22？请大虾指点, x[10]={15？如果能它们有什么区别吗,34,25,33,17，这些表示都能吗，现在感觉一头雾水呀我就写重要部分了<br />double  fun (double  x[10])<br />[<br /><br />]<br /><br />void main ()<br />{<br />double avg,23,35}<br /><br />avg=fun(x)<br /><br />}<br />我想问的是形参我在有些地方看到过还可以写成x[] *x 这两种,12,14
+不能写成*x[] 或 *x[10]<br />这两个都表示指向数组的指针 x[]和*x可以表示为数组 你的参数需要的就是数组  实际传得是数组的首地址！
+0
+none
+http://zhidao.baidu.com/question/88962160.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145991446.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1690017266070909108.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/245419863.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234906634.html?qbl=relate_question_4

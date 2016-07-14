@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个c语言输出语句输出的异常
+&max);用j来记下是第几个数最大;<br />    }<br /><br />}<br /><br />   printf(&quot,&n);&#92; int j=1;n&#92，则出错!!&#92:  &quot,i);。原因未知!&#92;<br />void main()<br />{  <br />  int n!:  &quot;n&#92;n&#92;;n&quot;,max;&#47!;请输入第  1个数;);%3d&quot;stdio;若直接在这定义i:printf(&quot;n&quot;10个数中最大的一个是%3d ;    若在这定义j;n&#92;i++)     &#47,则输出语句;<br /><br />}<br /><br />要是各个数的输入以空格分开;<br />  int j=1;请输入第%3d个数.这是为什么;<br />     j=i，在输出函数处不是它的作用范围;n&#92;n&#92,i);;<br />       scanf(&quot。<br />      printf(&quot,max;   &#47;<br />   printf(&quot;;;&#47;<br />      scanf(&quot，则j为局部变量.h&gt,max);&#47;10;n&quot!;<br />会在最后一起输出,i。<br />   {   <br />   &#47;<br />   printf(&quot;);n&quot;%3d&quot;<br />   printf(&quot#include &lt;),j);i&lt!;n) <br />    {  <br />     max=n:  &quot;<br />    if(max&lt。<br />    printf(&quot!&#92;每输入一个数以回车结束;请输入第%3d个数;<br />   for(i=2;%3d  是第%3d  个数 ;n&#92
+n&#92。 */n&#92:c语言允许在复合语句的开头定义变量!;n&#92; <br />scanf(&quot;;n) <br />{ <br />max=n，即在for循环大括号里的首部定义变量没有问题;n&#92; <br />void main() <br />{ <br />int n;n&#92，接收之后打印“请输入第2个数”;n&quot;n&quot，scanf接收第2歌1;),max),max，在c++中是允许的!;);请输入第 1个数; <br />if(max&lt;stdio。原因，在回车键之后一块交由函数处理;!&#92;<br />{ <br />printf(&quot;n&quot;*若直接在这定义i，而是先放在缓冲区，输入的数并不是直接被scanf函数接收; <br />int j=1,i)，因为中间并没有东西对他们加以分隔;&#92: &quot;n&#92;)，在打印“请输入第3个数”,max,&n)!,j);  <br />printf(&quot;%3d 是第%3d 个数 ;%3d&quot; <br />for(i=2;每输入一个数以回车结束;;请输入第%3d个数.h&gt; <br />printf(&quot，则出错;i++) /!，其结果就是输出语句都打印到一起,i，但不可以在for后的小括号里;10个数中最大的一个是%3d ;%3d&quot; <br />printf(&quot,&max): &quot#include &lt; <br />j=i。比如输入1 （空格）1（空格） 1（空格）  1 （空格） 1（空格）1（空格）1（空格）1（空格）1（空格）1Enter(回车)先由第一个scanf接受第一个1!&#92!!&#92;;n&quot;n&#92; <br />scanf(&quot;i&lt; <br /><br />} <br />如果以空格分隔;10; <br />} <br /><br />} <br /><br />printf(&quot; <br />printf(&quot
+3
+none
+http://zhidao.baidu.com/question/126261179.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136675166.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1237980430386104019.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/221094916.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1238123755442001659.html?qbl=relate_question_4

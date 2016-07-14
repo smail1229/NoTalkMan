@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中程序if(i%3)continue;n++;怎么执行的？比如说当i=3或者i=5？
+none
+这个语句需要用在循环语句中，continue表示跳过当前计数器的循环，进入下一次循环。<br />如for(i=1;i&lt;=100;i++)<br />{<br />    if(i%3) continue;<br />    n++;<br />}<br />如果循环计数器i的值不能被3除尽，则执行continue语句，跳过后面的n++，i自加1重新进入下一次循环。<br />如当i=3时，i%3返回false，执行n++；然后i变为4进入下一次循环；<br />当i=5时，i%3返回true，执哗处糕肺蕹镀革僧宫吉行continue，跳过后面的语句n++，i变为6，重新进入下一次循环
+2
+none
+http://zhidao.baidu.com/question/1957803097387366580.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/401060475.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/19149671.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/221378386.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/448536020.html?qbl=relate_question_4

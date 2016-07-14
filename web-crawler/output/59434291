@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 strcmp
+表达式strcmp（“box”，“boss”）的值是一个（）<br />A：正数 B：负数
+答案是1,也就是正数<br /><br />strcmp是这样比较的,两个字符串,从第一个字符开始比,如果相同,继续向下比,如果不同,看这两个字符的ASCII码,如果第一个字符串的比较大,则返回1,否则返回-1<br />你这个题目<br />两个字符串前面两个字符&quot;bo&quot;是一样的,不用看<br />比较第三个穿丹扁柑壮纺憋尸铂建字符,&#39;x&#39;的ASCII码是120,&#39;s&#39;的ASCII码是115,也就是&#39;x&#39;&gt;&#39;s&#39;,所以第一个字符串比较大,返回1
+123
+none
+http://zhidao.baidu.com/question/22190414.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/101742398.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/208264809.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97406063.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/156978303.html?qbl=relate_question_4

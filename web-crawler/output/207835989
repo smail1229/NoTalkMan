@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+~是什么意思 在C语言中，~0代表什么
+none
+是c语言中的位运算符，那么表示的数为-1,<br />0000000000000000<br />那么按位取反后位16个1（如果整形在你的机器上站16位）。<br />0在内存中的存储方式是所有位为0：取反
+4
+none
+http://zhidao.baidu.com/question/120678516.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/173294127.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/177762223.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/177582481.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/210776200.html?qbl=relate_question_4

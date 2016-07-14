@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教一个C语言的选择题，麻烦解释一下，谢谢！！设k为int型变量，不能正确执行的语句_。
+k为int型变量;<br />k=*p2，则不能正确执行的语句是______，p1和p2是指向int型一维数组的指针变量;<br />p2=p1。<br /><br />p2=&k<br />&k=p2
+&k=p2; <br />因为&取地址符&k是一个地址,所以不能赋值运算
+0
+none
+http://zhidao.baidu.com/question/284768043.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/8299334.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/624276889719588764.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/391228423149860965.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/354586453.html?qbl=relate_question_4

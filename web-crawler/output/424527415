@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问C语言主函数里的return语句有什么用？返回给什么函数？谢谢
+none
+<br />return 0是正常退出主函数里的return就是退出程序用的，值表示程序是否正常退出，非0表示异常退出，返回值给操作系统了
+1
+none
+http://zhidao.baidu.com/question/147614847.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/14411145.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/492739065.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/512601052.html?qbl=relate_question_4

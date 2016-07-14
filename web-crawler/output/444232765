@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言自己编写头文件
+引用头文件就不用教了我想在main函数中引用自己的头文件实现比较两个数的大小。我只有5分了，那在头文件中该怎么写这样的代码。我只想知道代码该怎么写（在头文件中）？举个例子
+n&quot;PAUSE&quot;);,b),b).h&gt;         return 0,a;<br />int compare(int a;%d is smaller than  %d &#92;b)      printf(&quot;  compare(a,b=13;stdio, char *argv[]){  int a=12,a。对应的c文件为具体实现头文件一般存放函数或数据的说明.h&quot;n&quot;%d is equal  %d &#92，当然：<br />#include &quot,b);} <br /> <br />主函数代码;   return 0;    if(a&lt;b)      printf(&quot;n&quot,a;  system(&quot;compare,b);%d is biger than  %d &#92,int b){    if(a&gt：<br />#include&lt;<br />int main(int argc;。如，也可以写在一起.h文件代码;;    if(a==b)      printf(&quot：<br /> <br />compare
+35
+none
+http://zhidao.baidu.com/question/511419841.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/212447127.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38154525.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/317177129.html?qbl=relate_question_3

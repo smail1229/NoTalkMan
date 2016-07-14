@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的标志符命名规则是什么？
+none
+fail
+fail
+1。以字母和下划线，且后跟字母、数字、下划线的集合。<br />2。变量名不能包含出“_”(下划线)以外的任何特殊字符，如%、#、逗号、空格等。<br />3.变量名不能包含空白字符（换行符。空格和制表符称为空白字符）
+http://zhidao.baidu.com/question/189980160.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/146648206.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/142380207.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/152762507.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/172867299.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题，下面的p为什么要定义成指向指针的指针
+none
+数组本来就是一个指针，再加上一个指针声明，当然就是两次指针了。
+0
+none
+http://zhidao.baidu.com/question/252345132.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/164400433.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/204654641.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/547840189.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/646781254439000285.html?qbl=relate_question_4

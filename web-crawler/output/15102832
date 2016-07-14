@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中switch-case的问题
+break:printf(&quot;<br /> }<br />}问运行结果;break;<br />  }<br />  case 2，这是为什么，也就是说最后的case 2后面的代码为什么也会执行;**0**&quot;);<br /><br />main()<br />{<br /> int a = 1：<br />#include &lt.h&gt:<br />  switch(b)<br />  {<br />   case 0;<br />   case 1，教材上的一道题;), b = 0。<br />我认为是**0**，可正确答案是**0****2**;):printf(&quot;**2**&quot;<br /> switch(a)<br /> {<br />  case 1:printf(&quot：<br />有以下下程序;**1**&quot;stdio初学c语言;break
+&#47:printf(&quot, b = 0;;);)#include &lt;所以继续向下执行:printf(&quot，但是由于没有Break会继续向下执行的; /stdio,执行了 printf(&quot;);break;**1**&quot;break;**0**&quot: <br />switch(b) /执行到这里<br />{ <br />case 0:printf(&quot; <br />}/ <br /><br />main() <br />{ <br />int a = 1,虽然a不等于2;break，没有break会向下执行而不是跳出选择 <br />case 2;**2**&quot!这里的switch并没有break;/);输出<br />case 1;**2**&quot; <br />switch(a) <br />{ <br />case 1;注意;&#47.h&gt，这就是为什么switch(b)里要加两个break的缘故
+16
+none
+http://zhidao.baidu.com/question/221192237.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/95141587.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/183541907.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/390471080514054405.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/419030564.html?qbl=relate_question_4

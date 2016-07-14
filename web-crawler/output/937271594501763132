@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言用指针交换两个数的值？
+stdio,pb),&b),b，是怎么实现交换的;%d%d&quot,&b);<br /> scanf(&quot;<br />}<br />main()<br />{int a,&a.h&gt;;<br />void f(int *m，但是通过交换我看只是交换了pa;<br />}<br />上面的程序是交换a,int *n)<br />{int t;*n=t，pb指针中的地址;<br /> t=*m,b);*m=*n;<br />}<br />void fun(int *pa;%d%d&quot;<br /> fun(&a,int *pb)<br />{f(pa;;<br /> printf(&quot,a,b值的程序#include &lt
+设pa原本指向内存单元a,<br />pb原本指向内存单元b，<br />pb对应的值也就变成了a原来的值,<br />pb指向内存单元a，交换之后pa指向内存单元b,<br />自然而然,<br />那么pa对应的值就变成了b原来的值
+2
+none
+http://zhidao.baidu.com/question/26923953.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/284883165.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2202629772378226908.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/511503778.html?qbl=relate_question_4

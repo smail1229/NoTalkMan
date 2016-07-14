@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求下面C语言程序运算过程和结果。谢谢！
+stdio;&#92;2&gt#include&lt;;%d&quot.h&gt;<br />}<br />main()<br />{<br />   fun(3);2);<br />void fun(int x)<br />{<br />    if(x&#47;<br />    printf(&quot;0)<br />   fun(x&#47;);<br />   printf(&quot;n&quot,x)
+fun（1）退出，x=3;n&quot;<br />void fun(int x)<br />{<br />    if(x/   显示x当前的值<br />}<br />main()<br />{<br />   fun(3).h&gt;%d&quot，用x/<br />}<br /> <br />一开始;0)     如果x&#47，显示1;      递归调用;2大于0<br />   fun(x/<br />   printf(&quot;stdio;2=0;2为参数继续调用fun<br />    printf(&quot#include&lt，x/);2&gt;2=1;&#92,显示3;,x)，接下来继续执行fun(3),然后调用fun(1),这时x/2)
+0
+none
+http://zhidao.baidu.com/question/141898239.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2115826273318883907.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182606611.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76281392.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51093464.html?qbl=relate_question_4

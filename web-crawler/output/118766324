@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的单链表在开创内存空间时为什么要用到双重指针？
+各位大侠帮帮忙啊！
+也就是双重指针，就是指针的地址。<br /><br />道理就是;&#47,所以要传指针类型的地址；<br />insert（&L），但是L是指针类型.现在的变量是指针型：要传递变量的地址才能使变量的值发生变化，那么通过函数调用双重指针就能改变指针L的值;初始化insert(List **L)<br />你问的是  初始化中 为什么要双重指针吗，那么意思是；&#47，那么**L就是指向指针L的地址，因为双重指针的意思就是指向指针的指针，所以你要改变它的值就要传L的地址进去，你想通过函数来改变L的值？<br /><br />如果是的话你的意思是这样吗<br />List *L
+20
+none
+http://zhidao.baidu.com/question/460974697.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1860604837636518347.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542666210.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/124066493.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/254130309.html?qbl=relate_question_4

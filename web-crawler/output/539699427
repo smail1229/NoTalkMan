@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计题：输入一个整数,判断是正偶数,负偶数,正奇数还是负奇数
+none
+0)<br />{<br />if(n%2) printf(&quot;),&n);<br />scanf(&quot;n&quot.h&gt;n&quot;;<br />return 0;);<br />int main()<br />{<br />int n;0)<br />{<br />if(n%2) printf(&quot;n&quot#include &lt;负偶数&#92;);正偶数&#92;0&#92;n&quot;stdio;%d&quot;<br />if(n&gt;);负奇数&#92;<br />}<br />else printf(&quot;正奇数&#92;<br />printf(&quot;n&quot;<br />}<br />else if(n&lt;请输入一个整数;);<br />else printf(&quot;<br />else printf(&quot: &quot;)
+1
+none
+http://zhidao.baidu.com/question/256632940.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2383009.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/327864203.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88861234.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/197925746.html?qbl=relate_question_4

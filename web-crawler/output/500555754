@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中定义数组时，前面的static、auto、extern三种存储类别有什么作用？
+none
+fail
+2
+C语言中提供了存储说明符auto，register，extern，static说明的四种存储类别。四种存储类别说明符有两种存储期：自动存储期和静态存储期。其中auto和register对应自动存储期。具有自动存储期的变量在进入声明该变量的程序块是被建立，它在该程序块活动时存在，退出该程序块时撤销。<br /><br />在函数内部定义的变量成为局部变量。在某些C语言教材中，局部变量称为自动变量，这就与使用可选关键字a u t o定义局部变量这一作法保持一致。局部变量仅由其被定义的模块内部的语句所访问。换言之，局部变量在自己的代码模块之外是不可知的。切记：模块以左花<br />括号开始，以右花括号结束。<br />对于局部变量，要了解的最重要的东西是：它们仅存在于被定义的当前执行代码块中，即局部变量在进入模块时生成，在退出模块时消亡。<br />定义局部变量的最常见的代码块是函数。<br /><br />整数变量x被定义了两次，一次在func1()中，一次在func2()中。func1()和func2()中的x互不相关。其原因是每个x作为局部变量仅在被定义的块内可知。<br />语言中包括了关键字auto，它可用于定义局部变量。但自从所有的非全局变量的缺省值假定为auto以来，auto就几乎很少使用了，
+http://zhidao.baidu.com/question/311480724.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/555104980.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/56624752.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/272907000.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/352888627.html?qbl=relate_question_4

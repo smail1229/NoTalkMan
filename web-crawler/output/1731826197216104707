@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 !(a%b)什么意思
+!(a%b)什么意思啊;<br /><br />这个程序运行结果是什么啊int a=30？什么叫a取余b 还要取反, ;; printf (&quot,b=8？<br />麻烦解答一下;%d&#92;n&quot？   那个!(a%b))，谢谢
+余6。如果a&#47，所以a%b=6。计算机一般作整数除法a&#47。<br />int a=30;b只能得到商，a&#47。<br />，打印结果是0，a%b不为0时为假(就当是0吧)，只有a%b是0时为真(就当是1吧)!(a%b)为假,意思是取(a&#47，a%b就是0;b商为3，它是0到b-1中的一个值;b能整除;b)的余数，就跟我们做除法一样，，一个是商。a除以b的结果有两部分，一个是余数,b=8，余数就用a%b得到!(a%b)是逻辑运算(a%b)是数学模运算
+29
+none
+http://zhidao.baidu.com/question/241454508.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241447691.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/584326770611677165.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/549647868.html?qbl=relate_question_3

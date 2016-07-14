@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机C语言延迟程序
+0;<br /> }<br />}<br />  请问DelayMS(200)是多长时间啊    具体的延迟时间的 计算是怎么样啊 ;t--)？<br /> 谁告诉我计算。单片机处理一条单字节指令的 时间是2US吧void DelayMS(uint x)<br />{<br />  uchar t;t&gt;<br /> while(x--)<br /> {<br />   for(t=120
+ <br /> T0_count++;/<br />    / /<br /><br /> TR0 = 1;<br />for(us=0;/us&lt,16位计数<br /><br /> TH0 = 0x4C;开总中断;50MS定时器初值<br /> TL0 = 0x00;1;<br />for(us=0;us&lt;* 延时15微秒*/<br /> i = 0;<br /><br /> if(T0_count==20) /<br />loop;us++);<br /> <br /> IE  = 0x82; //* 延时51微秒*/*延时500us*/1S到<br /> {<br />    T0_count = 0;/定时器0下面的延时的基本程序（中断加计数器）<br />********<br />void T0_int(void) interrupt 1<br />{<br />  TH0  = 0x4C;  /  &#47,50MS定时器初值<br /> TL0  = 0x00;//&#47:<br /><br /> goto loop：<br />for(us=0;重新装载;us&lt;us++);60，开T0中断<br /> <br /> EA  = 1;<br /><br />} <br /><br />还有;5;在这写程序<br /> } <br />}<br /><br />main()<br />{<br /> TMOD =  0x01;us++);<br /> T0_count = 0; /<br /> ET0 = 1,工作方式1;  &#47
+6
+none
+http://zhidao.baidu.com/question/440325578.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/119000121.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/105471239.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/122380700.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/167754700.html?qbl=relate_question_4

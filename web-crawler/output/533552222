@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言，谁帮我解释下面的代码 ,谢谢
+1) return 0;<br />   else if(k==1) return 1;<br />   else return fun(k-1)+1int fun(int k)<br />{  <br />   if (k&lt
+即<br />1）当k &lt，fun(k) = fun(k-1) + 1;= 0时最后一句话可以解释为fun(k) = fun(k-1) + 1，是一个递归，最终结果就是，fun(k) = 0<br />2）当k &gt; 0时。<br /><br />计算一下，当fun函数会返回k的值（k为正数时）或者0
+0
+none
+http://zhidao.baidu.com/question/206448389.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/500945435.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/203159378.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239546980846025324.html?qbl=relate_question_3

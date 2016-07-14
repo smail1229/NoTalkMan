@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中s+=a++ 是什么意思？
+none
+<br />这个是执行顺序的问题(++, 然后再自加<br />如果在前面 就是先自加再使用;<br /> <br />+= 为 加后赋值<br />++在变量后面是先使用变量;<br />a = a + 1等价于<br />s += a, -- 都是)
+6
+<p>1.s+=a++等价于 s=s+a++；<br />&nbsp; 等价于 s=s+a; a=a+1；<br />&nbsp; 意思是： s自增a值以后，a再自增1。<br /><br />2.要弄清楚表达式的具体含义，必须知道运算符运算的先后顺序，然后分步进行解释。<br />以下是运算符的优先级别表：</p><p><a href="http://d.hiphotos.baidu.com/zhidao/pic/item/9922720e0cf3d7cac0b48bbdf71fbe096a63a9bf.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://d.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=c093d51c33d12f2ece50a6667ff2f95a/9922720e0cf3d7cac0b48bbdf71fbe096a63a9bf.jpg" esrc="http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=202fce39d062853592b5da25a5df5af0/9922720e0cf3d7cac0b48bbdf71fbe096a63a9bf.jpg" /></a></p>
+http://zhidao.baidu.com/question/516712889.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/360598478.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/203658354.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/212695082.html?qbl=relate_question_3

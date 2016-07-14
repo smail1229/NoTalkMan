@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的scanf 函数的用法
+none
+   <br />  char   c[20];%s&quot!   <br />  它接收到this后遇到空格，认为对应%s的数据项已结束，是通过空格来区分数据项的。   <br />  你想输入带空格的字符串:this   is   a   c   program;   <br />  但遗憾的是用gets()函数一次只能输入一个字符串;   <br />  scanf(&quot;   <br />  输入.   <br />  如果你,c)，只有使用gets(c)!<br /><br />由于scanf函数在接收数据时scanf读到空格时结束，后面的（包含空格）不能输入;
+30
+功 能: 执行格式化输入 <br />用 法: int scanf(char *format[,argument,...]);<br />scanf()函数是通用终端格式化输入函数，它从标准输入设备(键盘) 读取输入的信息。可以读入任何固有类型的数据并自动把数值变换成适当的机内格式。<br />其调用格式为:      scanf(&quot;&lt;格式化字符串&gt;&quot;，&lt;地址表&gt;);<br />scanf()函数返回成功赋值的数据项数，出错时则返回EOF。<br />其控制串由三类字符构成：<br />1。格式化说明符； <br />2。空白符； <br />3。非空白符；<br /><br />（A）                格式化说明符<br /><br />格式字符           说明<br />%a                 读入一个浮点值(仅C99有效) <br />%A                 同上 <br />%c                 读入一个字符 <br />%d                 读入十进制整数 <br />%i                 读入十进制，八进制，十六进制整数 <br />%o                 读入八进制整数 <br />%x                 读入十六进制整数 <br />%X                 同上 <br />%c                 读入一个字符 <br />%s                 读入一个字符串 <br />%f                 读入一个浮点数 <br />%F                 同上 <br />%e                 同上 <br />%E                 同上 <br />%g                 同上 <br />%G                 同上 <br />%p                 读入一个指针 <br />%u                 读入一个无符号十进制整数 <br />%n                 至此已读入值的等价字符数 <br />%[]                扫描字符集合 <br />%%                 读%符号
+http://zhidao.baidu.com/question/74372573.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/521061665.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52073244.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136706791.html?qbl=relate_question_3

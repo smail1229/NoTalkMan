@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言IF ELSE 的FOR循环问题
+就一切正常,i);%d&quot;a++)<br />i=a+i：<br />main()<br /><br />{<br />int a,i=0，如果a小于b则执行循环;b&lt,&b),&a;b&lt。<br />关键是为什么第二个判断语句如果先判断a=b;;<br />else<br />if(a=b)<br />i=a+b;a)<br />for(,b;%d&quot;<br />if(a&lt;%d%d&quot;,b;a++)<br />i=a+i,i=0;<br />if(a&lt;=b，如果是则执行循环！，如果先判断a&gt？<br />二;<br />scanf(&quot。<br /><br />现在的问题是在判断a是否小于b，如果不是则a+b输出，b两数之间的和;%d%d&quot,&b);=a;b)<br />for(,&a;b++)<br />i=b+i;;<br />else<br />if(b&lt;<br /><br />else<br />for(;<br /><br />}<br />这个可以正常输出;a&lt;=b？<br /><br />谢谢,i);b++)<br />i=b+i。如果不是则执行另外一个if语句判断a是否大于b;=a;<br /><br />printf(&quot;;<br />getch();<br />else<br />i=a+b;<br /><br />}<br />这个不知道为什么在a大于b的时候无法正常输出;a&lt;<br />getch()：<br />main()<br /><br />{<br />int a;<br />scanf(&quot;b)<br />for(;<br />printf(&quot，就无法正常输出a大于b的a;b求两个数之间所有数的和<br />我用了两种方法<br />一
+<br />main() <br /><br />{ <br />int a：）<br /><br />第一个程序中的; <br />getch()，老大;=b,i); <br />scanf(&quot,i=0;b++) <br />i=b+i;;=a;%d&quot;b&lt; <br /><br />printf(&quot; <br /><br />else <br />for(：<br />if(a==b) <br /><br />改过以后，你粗心了; <br />else <br />if(a==b)  <br />i=a+b,&a;a++) <br />i=a+i;a&lt;b) <br />for(;%d%d&quot; <br />if(a&lt,&b);,b：<br />if(a=b) <br />改成晕
+5
+none
+http://zhidao.baidu.com/question/425404439.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/578546924.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1958517106294999700.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/214318173.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/471177656.html?qbl=relate_question_4

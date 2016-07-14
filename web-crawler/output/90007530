@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中如何将int数字转化为char
+如int i=1;<br />k=(char)i;  <br />char k;<br />在程序中为什么不能使用
+C中 char 是按整型存储的其值为起ASCLL码，<br />要把整型理解成字符型的．只要改理解格式就可以了．<br />如％c．<br />要数字的字符型要么加 ’1’．<br />要么直接用其ASCLL码值49即可．
+0
+none
+http://zhidao.baidu.com/question/119350764.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/52087272.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/35677836.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/531087894.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/575855181.html?qbl=relate_question_4

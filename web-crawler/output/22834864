@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程如何实现保留几位小数并对最后一位四舍五入呀?谢谢了
+none
+fail
+5
+很简单，假如你有一个float型变量a，其值为1.23456，而你只想保留三位小数，也就是希望得到1.235，只需要令：<br />a = (int)(1000.0 * a + 0.5) &#47; 1000.0<br />即可。如果要保留四位小数，就把1000都换成10000，依次类推。
+http://zhidao.baidu.com/question/456141429.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206582838.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/189604056.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49382173.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/489948398.html?qbl=relate_question_4

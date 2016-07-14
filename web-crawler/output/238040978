@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言之 y=(x%2)&#47;10赋值语句为何错了
+none
+x只能够是整形数据，因为取余运算符（%）只能用于int型数据。
+2
+数据类型反应数据和操作的意义，对于%运算符，只能用于整型数，如果出错，基本都是因为x的数据类型不是整型数据类型。
+http://zhidao.baidu.com/question/533144115.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223540683.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106520844.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1690806091185738468.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/317863107.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言里int main(void)的void是什么意思？
+none
+fail
+4
+void表示没有参数<br />有参数可以这样写<br /> <br />int main（int argc, char* argv[]) <br />argc是输入参数的个数<br />argv存储参数
+http://zhidao.baidu.com/question/80781706.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139175990.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/95386232.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/559184446.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/205274329.html?qbl=relate_question_4

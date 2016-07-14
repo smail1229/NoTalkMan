@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言里数组元素是什么
+none
+fail
+3
+元素组成了数组，数组的定义为 ，<br />int a[10];<br />其中 int 为类型，即整型（还有字符型 char 和float 实型等）<br />a  为数组名 [] 为下标符号，里面的数字常量为 数组的第几号成员元素。<br /> 例如  a[0]为 数组a[10]的第一号成员元素。<br />这里有点要注意的是，数组元素下标值是从0开始的，即你定义a[10],<br />则他的成员数为a[0]到a[9].千万不要把a[10]也当成了他的成员了。<br />至于元素，例如你定义一个变量 int a;<br />那么 你可以让 a 成为数组 a[10]的一个元素。如果你要用到很多变量的话，<br />总不能定义N个变量吧！ 这个时候你就可以用数组了来表示哪些个变量了！<br />但是定义数组的时候一定要定义他的下标值，即a[10]中[]内必须为一个常量。
+http://zhidao.baidu.com/question/213775289.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/209683337.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/523874168.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116701987.html?qbl=relate_question_3

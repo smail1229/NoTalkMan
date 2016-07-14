@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中指针做形参，传递指针的值，这个指针的值指什么
+stdio，我知道结果不对。<br />如果这样写这个函数？我就是这里不明白;%d&quot.h&quot;<br />creatBiTree(&((*root)-&gt;data);<br />#include&quot;<br />}<br /><br />这段代码中 void creatBiTree(struct BiTree**root)<br />如果 这creatBiTree函数的形参,root-&gt;lchild));<br />if(m == 0)<br />(*root) = NULL;<br />visit(root-&gt;malloc.h&quot;<br />scanf(&quot，这样传进去的是a这个变量的什么;<br />visit(a);<br />int m;<br />struct BiTree{<br />int data;<br />void creatBiTree(struct BiTree**root)<br />{<br />(*root) = (struct BiTree*)malloc(sizeof(struct BiTree));<br />struct BiTree* lchild，我后边的main函数中不是写了一个struct BiTree *a 么;%d&quot,*rchild;<br />}<br /><br />}<br />main() <br />{<br />struct BiTree*a#include&quot;，请问，请问;data = m;<br />visit(root-&gt;rchild)？） 这里传的这个值到底指什么？<br />如果按照现在的样子？叫root指向的东西和a指向的东西不同，写成（struct BiTree *root）;lchild),&m);。（难道a随意指向东西？把a随意指向的东西传递给root随意指向的东西，a是值传递进给 形参root 的;<br />else{<br />(*root)-&gt;<br />};<br />creatBiTree(&a);rchild));<br />}<br />}<br />void visit(struct BiTree *root)<br />{<br />if(root)<br />{<br />printf(&quot;<br />creatBiTree(&((*root)-&gt
+换句话说，这同时也是一个值，这样一来，你想要传进去的其实是一个“可变的”，它的改变是无效的，我传进去一个指针，所以这时候，那么？因为你作为形参creatBiTree传的是一个指向指针的指针，就可以实现这一功能，你传进去的是一个变量的地址。<br />为什么这样呢，传进去的东东，出了函数，并不能让“它”带出来些什么东东，只能把值传进去，或者是一个可以容纳一些变量的东东，在函数中被改变了，你传进去的是一个指向指针的地址（指针和地址是对等的）。<br /> <br />如果你把传进去的形参变成 *root 了，里面存的值是另一个指针的值
+4
+none
+http://zhidao.baidu.com/question/187447783.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/216330902.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/413137628.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1690269781209940308.html?qbl=relate_question_4

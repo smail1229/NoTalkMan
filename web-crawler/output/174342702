@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个c语言程序中static作用，怎样理解
+none
+fail
+1
+这里是static是静态局部变量,不会随着函数的结束而撤销,放在main函数里是没有实际意义的,下面一个是static的例子:<br />void f()<br />{<br />static int x=0;<br />int y=0;<br />x++;<br />y++;<br />printf(&quot;%d %d&#92;n&quot;, x, y);<br />}<br />void main()<br />{<br />f();<br />f();<br />f();<br />} <br /><br />这里运行了3次f(),但是static只会被定义一次,并不会随着f()函数的结束而消亡,但是y是局部变量,运行了3次它就被创建了3次消亡了3次,所以它的输出为:<br />1 1<br />2 1<br />3 1
+http://zhidao.baidu.com/question/93374789.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/87160252.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261702466.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239522018362559084.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/130676284.html?qbl=relate_question_4

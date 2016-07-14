@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 编写一个函数 搜索出一组数中的素数 并将它保存到另一个数组中
+<br />3：编写一个函数unsigned int search_prime（参数1，参数3）<br />1，search_prime函数执行完后保存结果到另一个数组中，不要用[ ]访问.参数3为输入数组的长度<br />4，参数2.函数中数组的元素访问使用指针访问。<br />2.传入数组数据给search_prime函数要求
+<br /><br />bool is_prime(unsigned int n)<br />{<br /> if(n&lt;i++)<br /> {<br />  printf(&quot,0;<br /> int ncnt=search_prime(test,14,4,8;%d&#92;/<br /><br />return 0;i&lt;=ncnt;i&lt;<br /> }<br /> return ncnt;     &#47,5;<br />#include&lt,res[i]);assert;这个给你参考<br /> <br />#include&lt,3;ncnt!=NULL);<br />    int res[20]={0}; assert(src;}<br />unsigned int search_prime(int* src,19.h&gt,int n)<br />{<br />/<br /> }<br /><br />return true.h&gt;memory,int* res;i++)<br /> {<br />  if(is_prime(*src))<br />  {<br />   *res++=*src,15;<br />}<br /><br />int main()<br />{<br /> int test[]={1,18;;<br />   ++ncnt;/<br />#include&lt.0);math;<br /> for(int i=0;n&quot,9.h&gt,13;),7;<br />#include&lt.h&gt;i&lt;stdio;<br />    printf(&quot,6,12;<br /> }<br /> unsigned int ncnt=(unsigned int)sqrt(n*1,11;<br /><br />memset(res;%d &quot;n&quot,20),17;<br /> for(int i=0,16;<br />#include&lt;i++)<br /> {<br />  if(n%i==0)<br />   return false.h&gt!=NULL&&res;stdlib;2)<br /> {<br />  return false;n,res;&#92;<br />  }<br />  src++;<br /> unsigned int ncnt=0,10,20};<br /> for(unsigned int i=2,sizeof(int)*n);<br /> }<br />    printf(&quot/&#47,ncnt);,2
+2
+none
+http://zhidao.baidu.com/question/97269291.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/27446691.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/26196108.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/542165752.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/26549911.html?qbl=relate_question_4

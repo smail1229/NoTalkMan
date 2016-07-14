@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+高分！求89C51单片机外部中断程序，C语言编写。
+单片机控制P0.0位输出高电平，当第二个传感器输出低电平时有两个光电传感器，都是低电平有效。求程序，当第一个传感器输出低电平时，单片机控制P0！谢谢.1位输出低电平。也就是有两个外部中断源
+h&gt;边沿触发;         /P1口初始值<br />  EA=1;在此处可以添加去抖动程序;/ //*------------------------------------------------<br />                    主程序<br />------------------------------------------------*/         ///包含头文件;全局中断开<br />  EX1=1，一般情况不需要改动，头文件包含特殊功能寄存器的定义<br />/          //<br />main()<br />{<br />  P1=0x55，IT1=0表示电平触发<br />  while(1)<br />  {<br />                 /       //外部中断0开<br />  IT1=1;*------------------------------------------------<br />                 外部中断程序<br />------------------------------------------------*//在此添加其他程序<br />  }<br />}<br />/<br />void ISR_Key(void) interrupt 2 using 1<br />{<br /> &#47，防止按键抖动造成错误<br /> P1=~P1#include&lt;reg52
+10
+none
+http://zhidao.baidu.com/question/126267329.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/231158786.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/321604220.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/55566318.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234318861.html?qbl=relate_question_4

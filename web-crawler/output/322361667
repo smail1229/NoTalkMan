@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机C语言关于函数的问题，高手进
+REG52;<br />delay()，问题是，当主函数（main）在前面;a++);<br />}<br />void main()<br />{<br />P2=0x80;REG52;<br />}<br />这样就编译不通过，为什么，为什么;5;<br />void delay()<br />{<br /> int a;5#include &lt，编译就不能通过了.H&gt;a++)：程序中有两个Void函数;a&lt;<br />}<br />这个程序是没问题的;<br />void main()<br />{<br />P2=0x80;<br />}<br />void delay()<br />{<br /> int a;<br />delay();a&lt？<br />#include &lt;<br />  for(a=0;<br />  for(a=0，Delay函数放在后面的时候.H&gt
+那是你没遵循C语言先声明后调用的原则，delay()函数必须在调用它之前先声明：void delay();这样即使你的延时函数主体在主函数下面也可以了
+0
+none
+http://zhidao.baidu.com/question/235063191.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88460565.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/303808388.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/94057107.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/131857034.html?qbl=relate_question_4

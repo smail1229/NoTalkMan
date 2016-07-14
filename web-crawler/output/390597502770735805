@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道C语言程序题，求解答过程
+则程序的输出结果是（）有以下程序;1000+(x%1000)*10);10),y。<br />A;<br />     y=convright(convright(convleft(x)))：<br />int convright(int x)<br />{<br />      return ((x%10)*1000+x&#47;<br />}<br />void main()<br />{<br />     int  x.2341<br /> <br />答案选B;<br />     printf(&quot.4321   D;<br />     scanf(&quot;<br />}<br />若运行输入1234&lt;%d&quot，我算出来的是4100;%d&quot;;,&x);.1234    B,y);回车&gt.4123   C;<br />}<br />int convleft(int x)<br />{<br />      return (x&#47
+第一次convleft<br />1234/1000+(1234%1000)*10=1+234*10=2341  可以看出向左移动看一位<br />第二次convright<br />2341%10*1000+2341/10=1*1000+234=1234    可以看出向右移动了一位<br />第三次convright<br />    当然就是把1234向右移动一位了，也就是4123了
+0
+none
+http://zhidao.baidu.com/question/131976304.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390661183489603685.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132219407.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136241494.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/146767547.html?qbl=relate_question_4

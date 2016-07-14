@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 素数的判断
+ 为什么不正确啊，不是则是0 ;<br />    if(a%i==0) return 0；<br /> }<br />}<br />以上是判断输入的数是否为素数;<br />    if(a==2) return 1;i++){<br />    if(a%i！求解!=0) return 1;<br />    for(i=2;i&lt？是算法上的问题;a，是素数输出1int fun(int a)<br />{<br />    int i=2
+不应执行return 1;a;这句不对,所有i都除不尽时； }<br />return 1,即循环结束后才能证明a是素数!=0) return 1;    for(i=2:<br />int fun(int a){    int i=2;    if(a==2) return 1;i&lt;i++){    if(a%i==0) return 0;,对当前i除不尽并不能说明a是素数.程序改为,if(a%i
+1
+none
+http://zhidao.baidu.com/question/107964130.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40505738.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/173264817.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80129422.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/515139947.html?qbl=relate_question_4

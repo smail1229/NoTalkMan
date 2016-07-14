@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+问个C语言中for语句嵌套if的问题
+C)<br />   if(D)<br />    E，Efor(A，F代替；<br />    F！=0的话，是继续运行F呢还是进行运行C呢，如果D；<br />具体的语句就以A，B，运行for以后，C，D；B
+直到B为0,那么应该执行E<br />E执行完毕后执行C<br />如此反复！=0也就是说D为真,执行F<br /><br />我想你想问的是D为0时的情况,&quot,那么执行C;我想你想问的是D为0时的情况,那么执行C,直到B为0,执行F<br /><br />我不已经说了么,执行F&quotD,直到B为0
+2
+none
+http://zhidao.baidu.com/question/101815940.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/350151655.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/549248212.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/399418236.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/421756063.html?qbl=relate_question_4

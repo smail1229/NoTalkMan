@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，求大神解决，谢谢啦，我是小白，最好能够解释下。
+}<br />B．float add(float x;}<br />D．int add(x;}<br />答案。 <br />A．float add(float x,y)<br />       float x,y;<br />       {return(x+y);}<br />C．int add(x,y,y)<br />       {return(x+y);<br />        return(x+y),y)<br />       {float x;float y)<br />       {return(x+y)下列函数定义语句中正确的是(D)
+}<br />B．float add(float x;&#47，不能用分号&quot，应该是float add(float x，用逗号“;float y)    &#47，没有数据类型说明;就说明了参数的数据类型float x;分割<br />{return(x+y),y<br />                                              &#47,y)            /,y，不是形参类型<br />{float x;&#47，虽然add后的参数类型没有说明A．float add(float x;<br />return(x+y),y)                      /&#47,y;是定义的临时变量;两个参数之间;&#47, float y)<br />{return(x+y);/;正确,”分割，但紧接着其后的float x;第二个参数,y)                /}<br />D．int add(x;}<br />C．int add(x,y，而且花括号内的float x;两个参数;/<br />                                        &#47，这是老旧类型的C函数定义<br />{return(x+y);&quot，都没有数据类型说明
+1
+none
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/545064242.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/533388192.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533017226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/326317756.html?qbl=relate_question_4

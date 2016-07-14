@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求解 Int x=2 (X&gt;5)?x:2&#47;x
+C语言求解<br />Int x=2<br />(X&gt;5)?x:2&#47;x
+相当于<br />int x=2;<br />if(x&gt;5)   x;<br /俯骸碘缴鄢剂碉烯冬楼>else     2/x;<br />显然，x=2&lt;5，所以执行2/x=1;
+2
+none
+http://zhidao.baidu.com/question/134537694.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/809251357990796892.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/117712786.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/590952063.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239475671.html?qbl=relate_question_4

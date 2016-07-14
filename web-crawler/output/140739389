@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的getch() 表示什么意思
+none
+fail
+fail
+getch()是从键盘接受一个无回显，不缓冲的输入，并返回对应按键的字符<br />这里就是等待一个输入，让屏幕暂停一下，方便看程序执行的结果
+http://zhidao.baidu.com/question/6686928.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/191736463.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/22959883.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/63975181.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561818386.html?qbl=relate_question_4

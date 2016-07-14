@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+解释一个简单的C语言程序中的一步~~
+<br />各位大侠帮忙解释一下吧;stdio.h&gt,int *q)<br />{<br />  int *t;<br />swap(int *p;<br />}<br />这样写为什么不能进行交换呢;<br />  t=p;p=q;q=t#include&lt
+这样仅仅交换了两个形参的指向，并没有交换两个形参指向的地址保存的值，而实际上是需要通过两个形参来交换它们指向的地址保存的值。
+1
+none
+http://zhidao.baidu.com/question/535005065.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/157707004.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88030982.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116772177.html?qbl=relate_question_3

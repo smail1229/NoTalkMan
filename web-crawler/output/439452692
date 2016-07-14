@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程 求N!+2*m-k的结果,其中n,m,k的值由用户通过键盘输入 求编程计算10000以内所有奇数之和。
+拜托
+第一个程序如下：<br />#include &lt;stdio.h&gt;<br />int jicheng(int x)<br />{<br />	int i=1,n=1;<br />	for(i;i&lt;=x;i++)<br />		n=n*i;<br />	return n;<br />} <br />int main(void)<br />{<br />	int n,m,k,i=0;<br />	旦耿测际爻宦诧为超力printf(&quot;请输入n,m,k:&quot;);<br />	scanf(&quot;%d%d%d&quot;,&n,&m,&k);<br />	printf(&quot;%d&quot;,(jicheng(n)+2*m-k)); <br />	return 0;<br />}<br />第二个程序如下：<br />#include &lt;stdio.h&gt;<br />int main(void)<br />{<br />	int k=0,i=1;<br />	for(i;i&lt;=1000;i++)<br />		{<br />			k=k+i;<br />			i++;<br />		} <br />	printf(&quot;1000内的奇数和为%d&#92;n&quot;,k);<br />	return 0;<br />}
+0
+none
+http://zhidao.baidu.com/question/97851909.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/439877390.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210640775.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/284898531.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/353293034.html?qbl=relate_question_4

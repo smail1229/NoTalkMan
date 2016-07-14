@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言各语句执行顺序
+fac如：<br />if(m%fac==0)<br />    dfs(n;fac,m,fac-1);    是不是如果fac满足了m%fac==0，就不在执行if(n%fac==0)下的语句了;<br /> if(n%fac==0)<br />    dfs(n&#47,fac-1),m&#47
+是2个互不相干的判断语句，各自判断自己的条件：<br /><br />if(m%fac==0)<br />    dfs(n;这这里加个else就是你说的意思了<br />    dfs(n&#47,m&#47，就不再执行if(n%fac==0)需要加个else语句的，不影响的;fac;&#47。<br /><br />如果你想fac满足了m%fac==0,m,fac-1)，如下，你先弄明白if语句的语法是<br />if(条件)<br />    {语句（块）}<br /><br />else<br />    {语句（块）}<br />其中else部分可以省略<br /><br />你写的就是省略了else部分;<br />else if(n%fac==0) /fac不是的,fac-1)
+0
+none
+http://zhidao.baidu.com/question/1668003064431239027.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/149289346.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/388605935.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/508645226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51499399.html?qbl=relate_question_4

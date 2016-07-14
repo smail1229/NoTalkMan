@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，定义指针的问题
+<br />for(i=0;<br />printf(&quot;<br />让P指向a[1]必须是p=&a[1];,3,*p,2;aaa&quot；<br />char *p[3]={c[0],};} 用**pp或者pp都不行<br />为什么上面的printf不需要用*p,3？<br /><br />问题二问题一;<br />p=a;<br />char *pp,如果用*p,c[2]};%s&quot;,p),c[1]; 输出的就是abc,无法运行<br /> <br />int i;<br />char c[][16]={&quot,2,&quot;bbb&quot;ccc},4},&quot;;;i++)<br />{pp=&p[i];<br />printf(&quot,*p,*pp),而下面的却必须要用*pp呢：<br />int a[4]={1;abc&quot；<br /> <br />int a[2][2]={1;;<br />for(i=0;i&lt：<br />char a[4]=&quot;i&lt;2,4;%s&quot;i++)<br />p[i]=a[i];<br />int i;3;  C语言为什么会让他们的p在指向a时有以上的区别,int *p[2]
+&p[i]只能赋值给指针的指针，所以可以直接赋值给指针，表示输出字符串，这是一个字符变量，一维数组a[1]代表的是变量，<br />char *pp，printf(&quot。<br />其实我觉得第二个问题的程序有误，只能用&a[1]取指，不是合法地址。而*p指的是p指针所指单元的内容。<br /><br />顺便说一下。而二维数组中a[i]表示的是数组对应行的首地址问题一是因为;<br /><br />因为p是指针数组,p)中如果使用%s;%s&quot;，所以输出函数需要字符串的首地址;因该用char **pp
+0
+none
+http://zhidao.baidu.com/question/646781254439000285.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7500967.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/145627968.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/186344428.html?qbl=relate_question_3

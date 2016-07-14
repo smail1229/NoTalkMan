@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言的指针的地址运算
+上有个例子。可以用*&a来访问a中的数据，在(&a)[0]中的[0]代表了什么？是什么意思，也可以用（&a)[0]来访问a中的数据，他的地址是&a，说是<br />定义了一个简单变量a。我想问一下
+那么(&a)[0]就是以a首地址开始.由于是*0,实际意思就是sizeof(a)这么长的每一块内存的值,这里由于a是一个变量,所以就是a自己,也就是存a值的下一块内存(大小为sizeof(a))里面的值,如果是(&a)[1]那么就是从a首地址跨过sizeof(a)*1这么长的一段长度后内存的值. &a表示a的首地址,所以值也是不确定的[]是数组下标,跨过sizeof(a)*0这么长的一段长度后的内存里面的值,所以它下一段内存值是未知的
+0
+none
+http://zhidao.baidu.com/question/202076356.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/554258461.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/47801816.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/438089404.html?qbl=relate_question_3

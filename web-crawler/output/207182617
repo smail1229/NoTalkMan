@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中一下程序怎样解读：
+m,6}};m)           <br />         {    m=a[i][j];<br /> int a[3][4]={{100#include&lt,row=0.h&gt;j&lt;            <br />          }<br />       printf(&quot;;<br />void main()<br />{<br /> int i; <br />             colum=j;               <br />for (i=0,300},{-850,-30};i++)                      <br />    for (j=0;n&quot;<br /> m=a[0][0];j++)                  <br />       if (a[i][j]&lt,colum=0,72,j,%d&#92;3;i&lt;%d,%d,200; <br />              row=i;3,row,{28;stdio,2,m,colum)
+/下面两个循环是遍历数组a<br />    for (j=0，j坐标          <br />         {    m=a[i][j],6}},2;<br />void main()<br />{<br /> int i,%d&#92; <br />             colum=j,72,300},{28;&#47，有比m小的放入m中<br />       if (a[i][j]&lt,m,200,-30};j&lt;&#47,{-850#include&lt,colum=0.h&gt;/%d,row,j;            <br />          }<br />       printf(&quot;j++)              /               /i++)                      /3;m)                &#47,m;3;        /<br /> int a[3][4]={{100;i&lt,row=0;;在遍历过程中把数组的当前元素值与m比较;&#47,%d;n&quot;<br /> m=a[0][0];也就是遍历后m会是整个数组的最小值 <br />              row=i;同时保留当前最小值的i;   /首先把数组第一个元素给m变量<br />for (i=0;stdio,colum);最后输出最小值m和它的i;&#47
+0
+none
+http://zhidao.baidu.com/question/2201699631725968988.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/190966059.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/178585039.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/161925851.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1946014609933671988.html?qbl=relate_question_4

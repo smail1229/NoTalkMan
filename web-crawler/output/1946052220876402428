@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中，int a=1,b=2,c=3; ①if(a＞c）b=a，a=c，c=b； ②if（a
+c=b；}<br />④if(a＞c){b=a，int a=1；<br />②if（a＞c）b=a;<br />①if(a＞c）b=a，c=b；a=c；c=b,b=2，c=b,c=3；<br />③if(a＞c){b=a，a=c，a=c；a=c在c语言中；}<br /><br />以上四中情况，abc各为多少
+<br />2 a = 3。每件不成立.a = 1, b = 2。同1.<br />4, b = 2，语句没执行, b = 2,b=a没执行<br />3 a = 1, c = b = 2, c = 3。条件不成立1  a = 1, c = 3, c = 3
+0
+none
+http://zhidao.baidu.com/question/530508428.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/623916015654508084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1989730859031236267.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1957609850458367820.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/647674115503663605.html?qbl=relate_question_4

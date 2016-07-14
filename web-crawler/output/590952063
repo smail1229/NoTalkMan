@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：已有声明int x=5,y;float z=2;，则下列表达式正确的是
+2<br />我觉得每个都对啊;0?y=x，为什么只有D是对的:x&gt.y=x&#47;2=z<br />D.y=x=z&#47A:y=-x<br />C：y=x%z<br />B
+就不说了；<br />C，2 = z，所以错误：从左至右开始计算我对你题目及问题分析下，不对之处还清指出：x　＞　0　，x／2　＝　2；后面的部分出错了，你都知道D是对的了。<br />B：（y　＝　－x），但是在定义的时候z是float内容？　（y　＝　x），虽然z貌似是等于2,好像是对的，所以属于小数。<br />D，所以Z不能是小数：是求余：正确格式为，不过常量不能作为左值，编译器会议float的存储方式储存，y　＝　x　／　2　再　x／2　＝　z：<br />A
+20
+none
+http://zhidao.baidu.com/question/1830964682900510860.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/166866854.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/201282854.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/473091833.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/255053689.html?qbl=relate_question_4

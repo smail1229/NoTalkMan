@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问单片机89C51中C语言int和char类型跟占用多少字节？谢谢
+rt
+大部分会使用char类型，即使我们在代码中写入int类型的变量进行运算，也是编译器编译成为了8位的运算模式进行运算的，int类型的变量占据2个字节对于该款单片机，同时89C51是一款8位的单片机。体现不了硬件的优势,char类型的占据1个字节。不过一般大家为了节约空间，所以推荐使用char类型的变量进行运算
+3
+none
+http://zhidao.baidu.com/question/176566791.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/308907352.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135905957.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/476694719.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/191344513.html?qbl=relate_question_4

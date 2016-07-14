@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中如何将两个数进行互换
+none
+int *b)<br />{<br /> int temp,b=3#include&lt;<br /> swap(a,b);<br /> *b=temp.h&gt, b=%d&quot;;<br /><br />void swap(int * a;a=%d;stdio;<br />}<br />void main()<br />{<br /> int a=2;<br /> printf(&quot,a,b);<br /> temp=*a;<br /> *a=*b
+20
+<p>将两个数进行互换的方法有两种形式：</p><p>1、借助中间变量完成，此方法直观，易理解，使用最多</p><p>2、不需要中间变量，通过变量身的运算完成交换。</p><p>参考代码：</p><pre t="code" l="cpp">方法1：<br />int&nbsp;a=2,b=3,t;<br />t=a;&nbsp;//先将a存储到临时变量t中<br />a=b;&nbsp;//将b存储到a中<br />b=t;&nbsp;//将临时变量中的原a值存储到b中<br />printf(&quot;a=%d&nbsp;b=%d\n&quot;,&nbsp;a,b&nbsp;);<br /><br />方法2：<br />int&nbsp;a=2,b=3,t;<br />a&nbsp;+=&nbsp;b&nbsp;;&nbsp;//把两数之和存到a中<br />b=&nbsp;a-b&nbsp;;&nbsp;//用两数和减去b可得原a,存储到b中<br />a=&nbsp;a-b&nbsp;;&nbsp;//因为b现在是原a值，所以，用两数和减去b(原a)可得&nbsp;原b,存储到a中<br />此方法，还可以用异或运算来实现，原理相同。</pre>
+http://zhidao.baidu.com/question/203673617.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/504679011.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/23548934.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22201319.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/552887959.html?qbl=relate_question_4

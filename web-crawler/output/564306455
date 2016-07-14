@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设有宏定义&quot;#define S(x) x*x&quot;，则表达式&quot;a=S(n+1)&quot;展开后为
+答案是2*n+1<br /><br />为什么不是n^2+2n+1
+不会进行数学运算;n+1&quot。<br /><br />S(n+1)展开就是把&quot;这个字符串替换宏里面的x，得到n+1*n+1宏定义只是在编译的时候作字符串替换
+3
+none
+http://zhidao.baidu.com/question/516465703.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/472149096.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1637610817345321020.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/504475361.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/309509523.html?qbl=relate_question_4

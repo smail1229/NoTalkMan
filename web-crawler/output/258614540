@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，y=1&#47;(1*1+1)+1&#47;(2*2+1)+1&#47;(3*3+1)+…+1&#47;(n*n+1)的编程，精度（1e-6）
+none
+要程序<br />for(i=1;i&lt;(i*(i+1));i++)<br />{<br />sum=sum+1/x+1
+0
+none
+http://zhidao.baidu.com/question/489861822471585652.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/240184736148322644.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/259369178.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/274496829.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/358273485.html?qbl=relate_question_4

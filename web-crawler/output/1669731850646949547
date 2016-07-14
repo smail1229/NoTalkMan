@@ -1,0 +1,11 @@
+电脑/网络 编程语言 
+编写程序，在一个二维数组中形成并输出以下矩阵，用c语言
+none
+i;i&lt;i&lt;n&quot;;5;=j)  <br />            a[i][j]=1main()<br />{<br />    int a[5][5];5;i++)<br />      for(j=0;<br />  printf(&quot;%4d&quot,a[i][j]);<br /><br />  for (i=0;<br />        else<br />           a[i][j]=i-j+1;5;<br />    for(i=0;5;j++)<br />     printf(&quot;j&lt;);j&lt;j++)<br />        if (i&lt;&#92;i++){<br />     for(j=0,j
+5
+none
+http://zhidao.baidu.com/question/163700060.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196635551.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/440786937.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/168091450.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2115808853575712547.html?qbl=relate_question_4

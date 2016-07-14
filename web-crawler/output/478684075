@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程问题 请编写fun函数，找出2*M数组中的最大元素
+;<br />   NONO( ) ，输入数据;<br />}<br />void NONO ()<br />{&#47, &quot;<br />  fclose(wf) ;<br />  fprintf(wf;) , fun(arr)) ,82} ，调用函数,76。 *&#47;<br />        }<br />return  a[i][j], fun(arr)) ，关闭文件;<br />}<br />main( )<br />{  int arr[2][M]={5;,j=0;void NONO ();j&lt,12;a[i][j+1])<br />           a[i][j+1]=a[i][j];n&quot;max=%d&#92;j++)<br />        {<br />          if (a[i][j]&gt;i&lt;<br />#define M 4<br />int fun (int a[][M])<br />{   <br />    int i=0;=1;w&quot;,&quot.dat&quot,3;max =%d&#92,12;n&quot;=3;out;<br />  wf = fopen(&quot,82} ,-4,-4;<br />    for(i=0,90,8;<br />   printf(&quot;<br />  int arr[][M]={5,3;<br />  FILE *wf ，输出数据;i++)<br />       for(j=0;* 本函数用于打开文件,76,45,8.h&gt;stdio#include &lt
+输出数据。 *&#47，还有你那个只是比较除了每一行的最大值;<br /> FILE *wf ，会出错，比如当j=3的时候a[i][j+1]里面j+1=4;n&quot, fun(arr)) ;* 本函数用于打开文件;<br /> NONO( ) ;n&quot，你那个会超范围的;max=%d&#92, &quot;;out，输入数据,12;<br /> int arr[][M]={5;max)<br />     max=a[i][j];<br />}<br />这样写就对了，关闭文件;<br />    }<br />    return  max;<br /> fclose(wf) ;<br />    int i=0,82} ;i++)<br />       for(j=0;<br /> wf = fopen(&quot;j++)<br />        {<br />          if (a[i][j]&gt, fun(arr)) ;;=3;<br />    for(i=0;<br />#define M 4<br />int fun (int a[][M])<br />{ <br /> int max=0;i&lt;<br /> fprintf(wf;w&quot;) ,&quot,76;<br /> printf(&quot,-4;max =%d&#92;j&lt;.dat&quot,12,82} ,76,j=0,-4,90;<br /> void NONO (),3,8,8，调用函数;=1;<br />}<br />void NONO ()<br />{&#47,45,3;<br />}<br />main( )<br />{  <br /> int arr[2][M]={5.h&gt;stdio#include &lt
+0
+none
+http://zhidao.baidu.com/question/1830956045099099980.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1175581764396431899.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2266705537418457668.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/414742484.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239960459330873724.html?qbl=relate_question_4

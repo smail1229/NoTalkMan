@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+4.编写函数fun ,该函数的功能是比较两个字符串的长度（不得调用C语言提供的求字符串长度的函
+none
+fail
+fail
+#include &lt;stdio.h&gt;<br />#include &lt;string.h&gt;<br />char *fun(char *a,char *b)<br />{<br /> int i,count1,count2;<br /> for(i=0;*(a+i);i++);<br /> count1=i;<br /> for(i=0;*(b+i);i++);<br /> count2=i;<br /> if(count1&gt;=count2)<br />  return a;<br /> else<br />  return b;<br />}<br />main()<br />{<br /> char a[20],b[20],*c;<br /> printf(&quot;Input string a:&#92;n&quot;);<br /> gets(a);<br /> printf(&quot;Input string b:&#92;n&quot;);<br /> gets(b);<br /> c=fun(a,b);<br /> printf(&quot;The bigger string is:&#92;n&quot;);<br /> puts(c);<br />}
+http://zhidao.baidu.com/question/356708881.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/536424691.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/144232074.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98571487.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/103838418.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题！！！急！（指针形参，指针返回值相关）
+;%s&#92？。;0&#39？<br />}<br />就能得到abcdef了<br />搞不清楚为什么不能直接用s1;string？不要给我解释说是因为*s1最后赋值是0所以;;<br />  s2++？<br />如果被调函数里面写成<br />char *mystrcat(char *s1,const char *s2)<br />{<br />  while(*s1？.h&gt;0&#39？;0&#39,怎么理解啊;;<br />    const char *s2_tmp = *s2，s2,mystrcat(ss1;<br />  while(*s1_tmp!=&#39;0&#39，为什么啊;&#92;<br />  s1_tmp++？，这里是S1;<br />}<br /> <br />结果得不到想要的abcdef!=&#39？;<br />char *mystrcat(char *s1？？;&#92;<br />}<br /> <br />int main()<br />{<br /> char ss1[20] = &quot;<br /> }<br /> *s1 = &#39;)<br /> {<br />  *s1 = *s2,const char *s2)<br />{<br />    char *s1_tmp = *s1。!=&#39!=&#39;<br /> return s1。？？;def&quot;)<br /> {<br />  s1++;<br />#include &lt;<br /> }<br /> *s1_tmp = &#39;0&#39？;;<br /> printf(&quot？;0&#39;)<br /> {<br />  s1_tmp++。啊;<br /> }<br /> while(*s2;<br />  s2_tmp++;<br /> }<br /> while(*s2_tmp,&quot.tmp#include &lt？;));&#47;<br /> return 0;)<br /> {<br />  *s1_tmp = *s2_tmp;<br /> return s1;&#92.;;这里面前面全是.h&gt。<br /> <br />在线等 快帮帮我;stdio;abc&quot;&#47。;&#92;&#92;n&quot;<br />  s1++;&#92
+fail
+0
+none
+http://zhidao.baidu.com/question/418077653.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390533054720907765.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/191325414.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/108953179.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92731199.html?qbl=relate_question_4

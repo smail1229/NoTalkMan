@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请帮忙分析C语言程序片段
+*q;&#92;0&#39;<br />while(*q;<br />  while(delspace(char *s)<br />{char *p!=&#39;)<br />{ while(isspace(*q)) q++?看不懂了!isspace(*p++=*q)&&*q) q++;<br />}<br />}<br />帮忙分析这个函数如何实现的删除多余空格(每个单词之间至多有一个空格)的作用?;<br />p=q=s
+复制到p，自己改起来也方便，然后q++继续循环<br />另外这种垃圾代码是那边的!isspace(*p++=*q)&&*q) q++，跳过<br />while(?<br />多写几行别人看的容易，给谁看啊，写这种代码的人都可以去死了; 非空格; 空格while(isspace(*q)) q++
+1
+none
+http://zhidao.baidu.com/question/38221045.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/623504563196586644.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/422100360.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2201699631725968988.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/513223693.html?qbl=relate_question_4

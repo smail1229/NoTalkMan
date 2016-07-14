@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言: int x,y,z; x=3;y=2;z=0; x+=y+=z printf(&quot;%d&#92;n&quot;,x&lt;y); 输出的是什么？详细思路！！！！！！
+none
+，故先算y+=z;y=2;n&quot；x=5 printf(&quot;%d&#92; x=3,y一步步解析<br />int x；再算x+=y<br /><br />故y=2;y),x&lt,z; 略过<br />x+=y+=z由于赋值计算方向是由右向左;z=0
+5
+none
+http://zhidao.baidu.com/question/81425316.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/155193845.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/59876374.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/177116908.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/512088739.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言题void main() {float x=1; int y; x++; y=x+1; printf(&quot;x=%d,y=%f,x,y&quot;); }运行结果是多少为什么？
+none
+y=%f&quot！如果实在要这样输出的必须做类型转换<br />例如 printf(&quot,y=%f&quot,x;);x=%d; <br />因该是printf(&quot,y=%f;,float(y));否则没有意义 输出都是0或者0,x,y),y&quot;x=%d;,int(x);这样吧<br />VC中不支持夸类型输出，因此y=x+1=3了<br />printf(&quotx++之后x就变成2了;x=%d
+4
+none
+http://zhidao.baidu.com/question/194610206.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234480702.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/532913519.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/257654688.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/473906234.html?qbl=relate_question_4

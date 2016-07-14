@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+想请教c语言这种if--else语句如何执行。假如: int a=0； if(a==0) ｛a=1；执行...
+想请教c语言这种if--else语句如何执行。假如:<br />int a=0； if(a==0) ｛穿功扁嘉壮黄憋萎铂联a=1；执行语句1--m；｝<br />                    else ｛执行语句1--n；｝我想问一一下，像这种情况else 语句是否会执行？
+应该不会吧，c是顺序往下执行的，这里又没有循环，而开头0赋值给了a之后，紧接着就开始判断，a的值为0成立，执行｛a=1；执行语句1--m；｝然后跳穿功扁嘉壮黄憋萎铂联过else ｛执行语句1--n；｝往下走了，所以我觉得应该是不会的
+0
+none
+http://zhidao.baidu.com/question/331096180.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/14026511.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/95673280.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90637181.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126649919.html?qbl=relate_question_4

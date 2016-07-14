@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求写一个C语言程序 求一元二次方程ax2+bx+c=0的跟。
+题目是订笭斥蝗俪豪筹通船坤C语言求一元二次方程ax2+bx+c=0的跟。  当a=0，b=0时方程无解；当a=0时，b≠0是方程只有一个实根-c&#47;b；当a≠0时，方程的跟，其中当b^2-4ac≥0时，有两个实根，当b^2-4ac&lt;0时有两个虚根
+#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br /><br />void main()<br />{<br />	float a,b,c,x,delt;<br />	cout&lt;&lt;&quot;请输入三个实数：&#92;n&quot;;<br />	cin&gt;&gt;a&gt;&gt;b&gt;&gt;c;<br />	delt=b*b-4*a*c;<br />	if(delt&gt;0)<br />		cout&lt;&lt;&quot;方程有两个不相等的实根：x1=&quot;&lt;&lt;(b+sqrt(delt))/2/a<br />		    &lt;&lt;&quot; , x2=&quot;&lt;&lt;(b-sqrt(delt))/2/a&lt;&lt;&#39;&#92;n&#39;;<br />	else if(delt==0)<br />		cout&lt;&lt;&quot;方程有两个相等的实根：x1=x2=&quot;&lt;&lt;(b/2/a)&lt;&lt;&#39;&#92;n&#39;;<br />	else<br />		cout&lt;&lt;&quot;方程有两个不相等的订笭斥蝗俪豪筹通船坤虚根（i为虚数单位）: x1=&quot;<br />		    &lt;&lt;b/2/a&lt;&lt;&#39;+&#39;&lt;&lt;sqrt(fabs(delt))/2/a&lt;&lt;&quot;i , x2=&quot;     //sqrt(float)为求平方根的函数，在头文件math.h中<br />		    &lt;&lt;b/2/a&lt;&lt;&#39;-&#39;&lt;&lt;sqrt(fabs(delt))/2/a&lt;&lt;&quot;i&#92;n&quot;;<br />}
+1
+none
+http://zhidao.baidu.com/question/502219526.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1767109783154984540.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126370534.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/27139376.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/548742882.html?qbl=relate_question_4

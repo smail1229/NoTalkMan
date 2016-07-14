@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在函数中定义数组：float fltNum[10]，该数组在内存中是如何被分配内存空间？何时被释放内存空间？c语言中
+none
+定义数组的时候就会分配，当程序结束就会释放空
+2
+none
+http://zhidao.baidu.com/question/239064231.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/484633748.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/321236721.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/407175705.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/535124003.html?qbl=relate_question_4

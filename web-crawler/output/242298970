@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程：用递归的方法求 f(n) = 1*1 + 2*2 + 3*3 +……+ n*n 输入数字n，输出结果 f(n)。
+none
+include&quot;stdio;;;%d&quot;<br />}<br />void main()<br />{<br />int n;<br />else<br />    return 0,f(n)).h&quot;<br />scanf(&quot;<br />int f(int n)<br />{<br />if (n)<br />     return n*n+f(n-1),&n);<br />printf(&quot;%d&quot
+1
+none
+http://zhidao.baidu.com/question/503020729.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53853871.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210337509.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/338324895.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/221863534.html?qbl=relate_question_4

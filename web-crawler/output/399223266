@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 { int x=1,y=1; if(0)if(1)x=2;else y=3; printf(&quot;x=%d,y=%d&#92;n&quot;,x,y); }求答案解释
+none
+一个if语句无论何时都不成立.<br />结果是x=1，直接执行else即y=3，所以不会执行第二个if语句
+1
+none
+http://zhidao.baidu.com/question/398697004.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/534414580.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/420633466.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/513771794.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/81425316.html?qbl=relate_question_4

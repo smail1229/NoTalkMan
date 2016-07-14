@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+谭浩强c语言 求 100 至 200 间的全部素数 中的if(n%n==0)printf(“&#92;n”);
+浩强c语言书中例6,m);n”);} <br />      if(n%n==0)printf(“&#92，这个程序运行结果好像不大对啊; <br />for(i=2;i&lt;=k;<br />main()<br />{<br />int m.h&gt;  是做什么用的,i;m=m+2) <br />{<br />k=sqrt(m);<br />if(i&gt;<br />}<br />printf(“&#92;n”);<br />}<br />其中的 if(n%n==0)printf(“&#92.12<br />“ 求 100 至 200 间的全部素数”的程序<br />#include&lt;<br />for(m=101,n=0,k;m&lt;n”);=k+1) <br />{printf(“%d”;=200;<br />   n=n+1;i++)<br />if(m%i==0)break;math
+  每输出10个数后进行换行。<br />if(n%n==0)printf(“&#92，可以理解为if(n%10==0)printf(“&#92算法是正确的，就是将每个满足条件的数（素数）单独显示;n”);  如果是这样的话;n”);  是用来换行的;n”)；<br /> if(n%n==0)printf(“&#92，每次都进行换行输出
+4
+none
+http://zhidao.baidu.com/question/982252654235862899.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/115036865.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/248150164.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1957923137385297820.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/243547179.html?qbl=relate_question_4

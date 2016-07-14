@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：求10个数最大最小平均值，这个程序老是运行不对，求高手给看看！~
+#include&lt;stdio.h&gt;<br />int main()<br />float a[10],max,min,ave,sum=0;<br />int i;<br />printf(&quot;Please input 10 date:&#92;n&quot;);<br />for(i=0;i&lt;10;i++)<br />scanf(&quot;%f&quot;,&a[10]);<br />max=a[0];<br />min=a珐工粹继诔荒达维惮哩[0];<br />for(i=0;i&lt;10;i++)<br />{<br />sum=sum+a[i];<br />if(a[i]&gt;max)<br />max=a[i];<br />if(a[i]&lt;min)<br />min=a[i];<br />}<br />ave=sum&#47;10.0;<br />printf(&quot;max=%f min=%f ave=%f&#92;n&quot;,max,min,ave);<br />return 0<br />}
+#include&lt;stdio.h&gt;<br /> int main()<br /> {<br />     float a[10],max,min,ave,sum=0;<br />     int i;<br />     printf(&quot;Please input 10 Data:&#92;n&quot;);                    // 1.---Data not Date<br />     for(i=0;i&lt;10;i++)<br />         scanf(&quot;%f&quot;,&a[i]);                                    珐工粹继诔荒达维惮哩    // 2.---&a[i]  not &a[10]<br />     max=a[0];<br />     min=a[0];<br />     for(i=0;i&lt;10;i++)<br />     {<br />         sum=sum+a[i];<br />         if(a[i]&gt;max)<br />         max=a[i];<br />         if(a[i]&lt;min)<br />         min=a[i];<br />     }<br />     ave=(float)sum/10.0;                                     // 3.---need (float)<br />     printf(&quot;max=%f min=%f ave=%f&#92;n&quot;,max,min,ave);<br />     return 0;<br /> }
+0
+none
+http://zhidao.baidu.com/question/149692600.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/150008830.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/209590788.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/213218976.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/94741318.html?qbl=relate_question_4

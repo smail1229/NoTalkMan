@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里面的二进制文件的结束标志是什么？
+none
+=fp:modeRead);<br /><br />while(EOF.Read(void *？<br /><br />文件本身没有结束标志<br /><br />读文件的时候判断到eof就说明结束了<br /><br />C++中<br />CFile fp(m_Filename.,CFile.<br />}<br /><br />fp.Close()C语言里面的二进制文件的结束标志是什么,int]))<br />{<br />:.
+0
+<p>1、可以使用feof函数来判断二进制文件是否结束。</p><p>EOF是文本文件结束的标志。在文本文件中，数据是以字符的ASCⅡ代码值的形式存放，普通字符的ASCⅡ代码的范围是32到127（十进制），EOF的16进制代码为0xFF（十进制为-1），因此可以用EOF作为文件结束标志。当把数据以二进制形式存放到文件中时，就会有-1值的出现，因此不能采用EOF作为二进制文件的结束标志。为解决这一个问题，ASCI C提供一个feof函数，用来判断文件是否结束。feof函数既可用以判断二进制文件又可用以判断文本文件。<br />2、例程：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />int&nbsp;main(void)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;FILE&nbsp;*stream;<br />&nbsp;&nbsp;&nbsp;&nbsp;/*openafileforreading*/<br />&nbsp;&nbsp;&nbsp;&nbsp;stream&nbsp;=&nbsp;fopen(&quot;DUMMY.FIL&quot;,&nbsp;&quot;r&quot;);<br />&nbsp;&nbsp;&nbsp;&nbsp;/*readacharacterfromthefile*/<br />&nbsp;&nbsp;&nbsp;&nbsp;fgetc(stream);<br />&nbsp;&nbsp;&nbsp;&nbsp;/*checkforEOF*/<br />&nbsp;&nbsp;&nbsp;&nbsp;if(feof(stream))&nbsp;//使用feof函数检查是否到达文件末尾<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;Wehavereachedendoffile\n&quot;);<br />&nbsp;&nbsp;&nbsp;&nbsp;/*closethefile*/<br />&nbsp;&nbsp;&nbsp;&nbsp;fclose(stream);<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre>
+http://zhidao.baidu.com/question/229666777.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/176951213746837324.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/96411247.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89430775.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239960377930533564.html?qbl=relate_question_4

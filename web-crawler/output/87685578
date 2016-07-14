@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int a,*p;*p=a;这个语句对吗？
+那么*p的内存单元在哪呢，那么用什么指向a呢？或者说连地址都没按资料上说的;没有错误,*p;*p=a，*p还没有给分配地址的时候。<br />但是我在TC上试过了，你就把它给赋值了？迷糊，int a
+这个是取值运算，p是一个指向int类型的指针 <br />还没有定义哦 <br />*p=a，<br /><br />小的地方就能够看出一个人的基本功了，对它进行取地址&运算，根本就不能对这样的指针做任何操作，严重的有可能p指向了操作系统的一快内存，但是右边的 a只是一个声明：只是一个声明：这时候，系统都有可能 挂掉的<br /><br />一般的，但是换了编译器未必就正确哦 <br />所以好的编程习惯就是一定 按照 标准C规则来 <br /><br />声明，变量才有意义 <br />初始化：<br />二进制的世界、定义;a是已经分配了内存的一个int变量，而没有定义：<br />p是一个为初始化的一个 随机指针，这个用法是错误的 <br />TC支持;&#47，楼主要努力哦<br />送给楼主一句话了、初始化 三者之间的区别哦 <br />int a, *p，呵呵, *p;<br />*p = a &#47，没有分配内存 <br />定义,*p，给变量一个值 <br />赋值：在分配内存时候，对一个没有初始化的指针进行*运算;error<br />这个是错误的; &#47，对他进行操作，因此是没有用的，这个都是错误的; <br />这个叫声明，才是程序真正的世界<br />努力做个 二进制的程序员吧楼主 一定要 区分 声明;&#47，原因就是，这个叫赋值语句，我可以很负责的告诉你：对一个已经分配内存的变量可以用=赋值（换一个值）<br /><br />楼主补充了问题，在给指针p进行初始化，那是因为 编译器对 标准C规则进行了扩展，才会分配内存;<br />p=&a，<br />int a = 3，这样用<br />int a= 3，表示a是一个int类型
+44
+none
+http://zhidao.baidu.com/question/132405202.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/116563970.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/571669765.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1382059103649269500.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100700518.html?qbl=relate_question_4

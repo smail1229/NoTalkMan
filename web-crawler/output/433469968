@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言循环for(i=1,j=6;++i!=j--;) s=i+j;将执行几次 标准答案2次求解释
+none
+=6    执行后i=2 j=5<br />                            第二次  3！=5    执行后i=3 j=4<br />                            第三次  执行前++i=4 所以 4++i执行前加1 <br />j--执行后减一<br />这样就不难明白，但是还记得一点点，所以是两次<br />怎么样！=4错误，不执行，第一次  2，不赖吧，虽然很多年前学的
+2
+none
+http://zhidao.baidu.com/question/433471104.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1175527908388710779.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/397494975.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/184176434.html?qbl=relate_question_4

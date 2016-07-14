@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中if(scanf(&quot;%d %d&#47;n&quot;, &p, &q)) == 2是什么意思?
+none
+判断是否成功读入了2个数据。<br />这个scanf()的返回值有关，scanf()返回值为该函数成功读入的数据个数。<br />望采纳
+7
+none
+http://zhidao.baidu.com/question/182079455.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/162140403.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245374558.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/551313030.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/541248146.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 
+C语言程序设计：编写程序，输入一个正整数，统计该整数的位数并计算其各个数位上的数字之和。
+none
+就有一位<br />   k++;n&quot;n&quot;<br />  }<br />  printf(&quot, &a);每除10.h&gt, b;/ / 10!= 0)<br />  {<br />   a = a / i++)<br />  {<br />   b= t % 10, sum);;; /n&quot;输出整数的位数<br /><br />  for(i = 0;n&quot, i;<br />  sum = a;%d&#92;;%d&quot;%d&#92;<br />  printf(&quot;<br />   t = t / 10 == 0)<br /> {<br />  k = 1;%d&#92; /;<br /><br /> scanf(&quot, t;<br />  }<br />  printf(&quot;<br /> int k = 0;<br />   sum += b;stdio#include &lt;&#47, sum = 0, k+1);;%d&#92; k+1;/输出各位数的和<br /> }<br /><br /> return 0;<br /> }<br /> else<br /> {<br />  while(a &#47, sum);<br /> if(a /<br />  printf(&quot, k);/<br /><br />int main()<br />{<br /> int a; / 10 ; 10; i &lt;输入整数a<br /><br /> t = a
+53
+none
+http://zhidao.baidu.com/question/121046290.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/44531447.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/145752756.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92927893.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/74613651.html?qbl=relate_question_4

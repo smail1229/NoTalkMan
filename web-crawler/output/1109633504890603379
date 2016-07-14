@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言return 后是什么语句？》
+假如我在函数体里面定义了一个变量a，最后我写 return （a）；可以吗
+函数返回以后，但是不要返回局部变量的引用或者指针可以，局部变量被销毁
+0
+none
+http://zhidao.baidu.com/question/148901475.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/83782230.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/478719739.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/467360220.html?qbl=relate_question_3

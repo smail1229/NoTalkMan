@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 typedef struct 一问
+<br />  BYTE type;<br />xc应该是一个结构,结构怎么会={0};             <br />  BYTE signal_type;<br />然后某处使用时<br />XCArg xc={0};<br />}XCArg;<br />  BYTE protection 某结构定义如下<br />typedef struct ttne_XCArg<br />{<br />  BOOL is_bidir
+<br />表示给结构变量xc赋初值，意味着xc的所有成员被赋值为0，花括号中只包含一个成员初值XCArg xc={0}
+1
+none
+http://zhidao.baidu.com/question/390008891.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/152337988.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/67979465.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163258145.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/586220618.html?qbl=relate_question_4

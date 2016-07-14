@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言二级考试题目求解释
+char ch[2]; a) ch[1]=0.h&gt#include&lt,A) i);<br />union pw<br />{int i;<br />main()<br />{<br />A) ch[0]=13;;stdio;%d&#92;<br />printf(&quot;}a;n&quot
+所以union只保留最后一次的赋值题目是不正确。<br />不过我想应该是考union共有内存的知识。<br />union各元素共享同一块内存，内存大小等于各元素中所占空间最大的一个，看不懂
+0
+none
+http://zhidao.baidu.com/question/463712444.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139072759.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/139073104.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1923160297037794907.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241291963.html?qbl=relate_question_4

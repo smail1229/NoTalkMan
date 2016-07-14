@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+c语言分段函数的计算（习题5.5） x (x&lt;1) y= 2x-1 (1&lt;=x&lt;10) 3x-11 (x&gt;=10)
+x),x;X=&quot;Y=%d&#92;%d&quot;=10) <br />	   printf(&quot;<br />	if (x&lt;<br />	printf(&quot;=x&&x&lt,x;10) <br />       printf(&quot; <br />    return 0;<br />	scanf(&quot; <br />    if (x&gt;;  <br />int main (void)<br />{<br />	int x;# include&lt;n&quot;stdio;n&quot,2*x-1);.h&gt;Y=%d&#92;;1)<br />	   printf(&quot;Y=%d&#92,x,&x);n&quot;<br />	if (1&lt;),3*x-11)
+既然你主函数是void，表示无返回值，后面就不应该有return 0<br />可以将void改成int，或者将return 0去掉
+1
+none
+http://zhidao.baidu.com/question/509164661.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/251814645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/430479162.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/283687959.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/284421240.html?qbl=relate_question_4

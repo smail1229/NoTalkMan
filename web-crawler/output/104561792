@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，n++、++n还等于n？
+编译器tc3，内容如下<br /><br />main()<br />{<br />  int a=1;<br />  printf(&quot;%d%d%d&quot;,a++,++a,a--);<br /旦骸测缴爻剂诧烯超楼>  return 0;<br />}<br /><br />结果是111？
+printf语句，执行顺序是从右向左执行<br />先执行a--   ；这时屏幕上输出1，然后a自减变0<br />再执行++a   ；先将a自加，然后输出a为1<br />最后执行a++ ；先输出a的值为1，然后a再自增变为2<br /><br />你可以在程序最后添加一条语句printf(&quot;%d&quot;,a);看结果应该为2<br /><br />！！注意：这是TC下的执行旦骸测缴爻剂诧烯超楼结果，与VC下结果不同，应该是编译器的差异<br /><br />VC下的结果为221 <br />——————————————————————<br />补充回答：<br />如果你是考试答题的话，以我答案里TC的解释为准。<br />如果是单位工作的话...我想不会有这种题的..一般编程都会避免二异的语句出现，考试考点主要是考你从右往左的顺序执行，所以参照我上边说的TC执行过程去判断
+4
+none
+http://zhidao.baidu.com/question/87490252.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/81340424.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/36630150.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/807417095790784772.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241933407.html?qbl=relate_question_4

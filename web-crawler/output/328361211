@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问C语言中，s[i]=s[i]-&#39;0&#39;； 这条语句是做什么的，有什么意义么？
+j=strlen(s)-1;i++)<br />              s[i]=s[i]-&#39;<br />       for(i=l;=j;i&lt;0&#39
+  / 其对应的ascii码是 字符&#39;<br />a = &#39就是将数字字符转换成整型数字;ascii相减的结果;&#47：<br />字符&#39;的ascii码+1<br />则<br />int a;0&#39;1&#39;  = 1;-&#39;0&#39;1&#39。<br />例如
+2
+none
+http://zhidao.baidu.com/question/1691075955113116188.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/580243919.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/426390645112000972.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/514942993.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/148254906.html?qbl=relate_question_4

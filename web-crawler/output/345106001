@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求解释C语言程序
+&#47;<br />          }<br />          char buff[10]={0},buff);input again;<br />                 break;%s&quot;这里一整个都不明白<br />          {<br />                 printf(&quot;););&#47;)==0)&#47..;<br />          }<br />          else<br />          {<br />                 printf(&quot:&#92; &#47.;<br />     while(1)&#47;字符型的可以用数组这种形式来做的吗;不知道为什么在()里面加1<br />     {<br />          if(icount&gt;loading;stdio;&#47;&#47#include&lt;8448&quot;&#47.h&gt;n&quot;&#47;<br />          scanf(&quot！<br />          printf(&quot,&quot？求解释!&#92！字符型的不是用%c吗;string;2)<br />          {<br />               break;<br />                 icount++;请输入密码.&#92;n&quot;)？<br />          if(strcmp(buff.h&gt;n&quot;&#47;%s是表示什么啊;<br />void main()<br />{<br />     int icount=0;<br />#include &lt.;
+8448&quot。<br /><br />%s对应的是字符串，==0表示两个字符串相等，也就是字符数组。也就是说结束循环使用里面的break进行结束，1表示真。<br /><br />strcmp是比较两个字符串是否相等的;/ 这里定义的是一个字符数组，不是字符;这里是作为字符串处理的;不知道为什么在()里面加1<br />1表示这个循环条件永远成立。<br /><br />char buff[10]={0}，&quotwhile(1)&#47
+1
+none
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424106270.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130197440.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/190770848.html?qbl=relate_question_4

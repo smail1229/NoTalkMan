@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+二级C语言题，希望大家能帮帮忙，该考二级了，谢谢！！！！
+接下来的s=s+f(a);<br />Return n,s;s=s+f(a)，解析一下详细过程;stdio！,s);<br />}<br />输出结果是？实参是a.h&gt：<br />#include&lt，谢谢;<br />n+=a++;n&quot;<br />}<br />Int f(int n)<br />{static int a=1;;是不是还要再调用一次函数？请大家帮帮忙;<br />Int f(int n);<br />S=f(a)？<br />这个程序的流程是什么，那么在函数调用时n的值是不是就是a的值3啊！？<br />两个中的a是一样的吗;<br />Printf(&quot;%d&#92;<br />Main()<br />{int a=3有以下程序，形参是n
+s=4+(3+2)=9<br />Printf(&quot;函数定义<br />Main()/n&quot;&#47,n+=a++的时候加上的是1;等价于n=n+(a++),先加a,那么返回就是3+2=5;///&#47.<br /><br />#include&lt;注意关键字static,s.;&#47.h&gt;结果s=(3+1)=4<br />s=s+f(a);头文件<br />Int f(int n);&#47.,所以现在是2;stdio;/<br />}<br />Int f(int n)<br />{static int a=1..手误吧;&#47,s);&#47S没定义;//,所以结果返回4<br />第二次调用.<br /><br />多看看书就行了;定义变量<br />s=f(a);&#47,导致下次调用函数f时a不会初始化为1<br />n+=a++;&#47,然后a自加1<br />Return n.,这个题主要是那个关键字的问题,所以a还是以前的那个a;/%d&#92.,第一次调用时自加了一次;主函数<br />{int a=3,因为static关键字;<br />}<br /><br />main函数里a和f里的a是不一样的<br />第一次调用f函数a被初始化为1
+1
+none
+http://zhidao.baidu.com/question/183848576.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/353095244.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1429313244898908899.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183546079.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/454394054246570645.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言题如何解答?希望能有个注释让我理解下 谢谢了!
+通过运算获得体制数、判断一个人的胖瘦。<br />一个人的体制数用以下算式计算<br />体制数 t=w&#47。<br /><br />判断的标准是;(h*h)<br />w 代表人的体重<br />h 代表人的身高<br />程序由用户输入体重（以公斤为单位），身高（以米为单位）。<br />通过体制数来判断是瘦人，假如体制数在25-27 之间 则程序输出胖人，正常体重，胖人还是肥胖人 ：<br />体制数小于18 瘦人<br />体制数在18-25 之间正常体重<br />体制数在25-27 之间为胖人<br />体制数大于27 为肥胖人 <br /><br />如果体制数小于18，则程序输出瘦人。<br /><br />编写这个程序三
+<br />        getch()/);<br />        return;=27))<br />    {<br />        printf(&quot;<br />        getch();r&#92;<br />    }<br />    if(t&gt;输入你的身高(米) &quot;r&#92;<br />    }<br />    if((t&gt;= 25) && (t&lt;<br />    }<br />    if((t &gt;%f&quot;);(h*h);<br />        getch();<br /><br />#include&quot;);<br />    t = w/偏胖&#92;)，通过运算获得体制数。 <br />通过体制数来判断是瘦人;。 <br /><br />*&#47，则程序输出瘦人;偏瘦&#92;n&quot;<br />    scanf(&quot;%f&quot;*<br />一个人的体制数用以下算式计算 <br />体制数 t=w/;<br />    scanf(&quot;r&#92，身高（以米为单位）;r&#92, &h)，胖人还是肥胖人 ;<br />        return.h&quot，正常体重;肥胖&#92，假如体制数在25-27 之间 则程序输出胖人;(h*h) <br />w 代表人的体重 <br />h 代表人的身高 <br />程序由用户输入体重（以公斤为单位）; <br />int main()<br />{<br />    float w;<br />    printf(&quot。 <br /><br />判断的标准是;stdio;<br />    printf(&quot;n&quot;=25))<br />    {<br />        printf(&quot;<br />        return;);n&quot： <br />体制数小于18 瘦人 <br />体制数在18-25 之间正常体重 <br />体制数在25-27 之间为胖人 <br />体制数大于27 为肥胖人 <br /><br />如果体制数小于18;n&quot, h, t;18)<br />    {<br />        printf(&quot;);输入你的体重(公斤) &quot, &w);<br /><br />}<br /><br />编译后纯DOS显示不出中文;27)<br />        printf(&quot;<br /><br />    if(t&lt;<br /><br />    getch();正常体重&#92;=18) && (t&lt;<br />    return 
+0
+none
+http://zhidao.baidu.com/question/356894149.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/58564452.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106641253.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/318393171.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/117175454.html?qbl=relate_question_4

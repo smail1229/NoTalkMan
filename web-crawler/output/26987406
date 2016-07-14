@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言超小白问题
+..;%d%d&quot.,&b)...<br />{int a;.,b..,&a;<br />...;<br />scanf(&quot.....略<br /><br />这个代码意思是读取两个变量存入X Y中~~<br />为什么D前面要加%  a b 前面要加&呀
+比如输入数组时，当然也有例外，输入数组首元素时，所以不用加地址符，a），已定义a[20]是数组，因此变量前必须得加地址符&，方法如下scanf（”%d“，数组名本身就代表地址scanf的作用是按照变量在内存的地址将变量的值输进去
+0
+none
+http://zhidao.baidu.com/question/162184288.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/140985972.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/744423871158689692.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76099900.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198961091634632245.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+java程序的编写、编译、和运行与C语言程序有何不同？
+none
+可跨平坦运行，所有代码都会翻译成统一的，然后才能运行、与系统无关的bytecode，而c是面向过程的，<br />      Java是解释型语言，代码要先通过编译器转换成与系统相关的中间代码java是面向对象的，java运行需借助于java虚拟机；而C是编译式语言，然后放到JVM上运行
+2
+none
+http://zhidao.baidu.com/question/120582446.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/105189271.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/254988301.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/386272458.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92767378.html?qbl=relate_question_4

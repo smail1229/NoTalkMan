@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言int i=5; i+=++i;的值是12.求具体解释
+none
+还是+右边的 ++i 先计算，也有可能是 6 + 6<br />这个编译器实现有关，加法运算在++之后虽然++比+的优先级高，换个编译器不一定有同样的结果。<br />建议不要使用这种表达式。但没有规定+左边的 i 先计算。<br />因此有可能是 5 + 6
+2
+none
+http://zhidao.baidu.com/question/180085546.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/564329547.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/222179056.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1445650904471091740.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265951628094989068.html?qbl=relate_question_4

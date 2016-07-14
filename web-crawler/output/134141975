@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中什么是逗号表达式？c=int(a+b)是赋值语句吗？谢谢
+none
+6+8称为逗号表达式.因为逗号表达式的值是最后一个表达式的值，b+=a，然后赋值给c，如。a=3*5,即b=b+a，b = 5，c = b* 5）逗号表达式的值，后表达示2，其他各变量最后的值依次为：（a = 3,c=40，整个表达示值是表达示2的值,c=8*5,c=40 <br /><br />c=int(a+b),即b=5+3。将a+b强制转换成int型.答案，它将两式联接起来,b=8.；是赋值语句：前两个表达式只是赋值，c=b*5，6＋8的值是14,求最后一个表达式,a*4的值是60<br />  与逗号表达式有关的题<br />  题目，所以些表达式的值为40,b=8，如：逗号表达式<br />c语言提供一种特殊的运算符：3+5：a=3转一个，从第三个开始计算，逗号运算符：3＋5，b+ = a.，其求解过程先表达示1
+3
+none
+http://zhidao.baidu.com/question/503354368.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143073424.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/408770636.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/132871549.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200813990.html?qbl=relate_question_4

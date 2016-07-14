@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中怎么判断数组元素的个数，如数组： int array[]={45,56,76,234,1,34,23,2,3};
+none
+sizeof(array)/sizeof(int) <br /><br />更通用的是 sizeof(array)/sizeof(array[0])
+2
+none
+http://zhidao.baidu.com/question/552389138468770172.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97366699.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/508388348.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/186006726.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532586499.html?qbl=relate_question_4

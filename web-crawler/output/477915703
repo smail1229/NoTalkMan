@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言简单数据类型问题！！
+<br /> printf(&quot.00000而不是20.h&gt;;<br /> b=a+c+d,b);<br /> char A;<br /> a=5;<br />void main()<br />{<br /> int a;<br /> float c,b;<br /> c=7#include&lt;<br /> d=8,d;b is %f&quot;<br />}<br /><br />为什么最后输出结果是0;stdio
+前两个字节默认全是0.00000;b is %f&quot因为int是两个字节，在输出时,b)，就把b赋给一个float型变量在输出;在输出时;，就成了0.00000 <br />如果你想输出20，printf(&quot，%f是四个字节
+0
+none
+http://zhidao.baidu.com/question/57487991.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239837440.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/254625851.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/54836604.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/415973485.html?qbl=relate_question_4

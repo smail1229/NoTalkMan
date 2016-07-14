@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言二维数组是什么意思
+一维数组我知道<br />二维数组看了教程但是教程说得有点模糊<br />谁能通俗的讲解下二维数组是什么意思 怎么定义 怎么赋值 初始化 等等<br />或者给个好滴 教程 谢谢
+下标1*下标2=总数<br />赋值下标都是从0开始 结束 下标N-1<br />赋值例1;<br />int a[2][2];i++)<br />{<br />for(j=0;i&lt;<br />可以存储值的个数;j&lt;<br />a[1][1]=1;j++){<br />a[i][j]=i;a[i];<br />}<br />}<br />赋值例2;<br />a[1][0]=1：<br />for(i=0;<br />a[0][1]=1;<br /><br />还有什么不明白就在提问;strlen(a)二维数组<br />int[下标1][下标2]。：<br /><br />a[0][0]=1
+4
+none
+http://zhidao.baidu.com/question/149931174.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169563463.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/530621102.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/38622502.html?qbl=relate_question_3

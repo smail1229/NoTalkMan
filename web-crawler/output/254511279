@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中malloc是什么意思啊，为什么要用它？书上突然出来的，一头雾水。。。
+none
+有一个叫做free的函数配合使用可以释放这个空间的内存，但VC版本不同的话默认类型不一样“malloc的全称是memory allocation，一般用的时候在前面加上强制转换，并返回一个指向存储空间的首地址的无类型的指针，简单点讲就是开辟一个储存空间。而且这个函数也是有作用域的，中文叫动态内存分配。用它的好处嘛就是可以节省空间啊,”<br />这个函数的返回值是个指针
+49
+none
+http://zhidao.baidu.com/question/92941573.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/128772374.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/214481637.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90535458.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/374209226.html?qbl=relate_question_4

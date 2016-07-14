@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有关C语言里面字符串CHAR的问题
+0，我想要的结果是str【0;可是系统读到0 后面的数就不跟着写上去了，3】<br />怎么能搬到办到例如，加到数组char STR的后面，2”<br />char STR3[10]=“0，3”<br />         我想把里面每一个数据都读出来，strcat(str,STR1)，0，1，2：<br />char STR1[10]=“0，1”<br />char STR2[10]=“0
+<br />    char STR2[10]=&quot,10),1;<br />    char STR2[10]=&quot,3&quot;string,&quot,&quot;0,STR);<br />    char STR1[10]=&quot.h&quot,STR3);<br />    printf(&quot;<br />    char STR3[10]=&quot;n&quot;<br />int main(int argc,STR2;<br />    sprintf(STR: %s&#92;<br />    printf(&quot, char* argv[])<br />{<br />    char STR[10];<br />    char STR1[10]=&quot,2&quot,2,0;<br />   return 0;0;,STR1);%s;;,STR2),1&quot,%s;<br />    memset(STR: %s&#92;;;;0,0,STR3);,STR1;;<br /><br />    memset(STR：<br />  char STR[10];<br />    strcat(STR;;<br />    strcat(STR;<br />    char STR3[10]=&quot;0,&quot,%s&quot;<br />    strcat(STR,10),3&quot;STR;n&quot;<br />} <br /><br />或者;stdafx;0;0,STR)怎么不行;<br />#include &quot;STR？<br />#include &quot.h&quot
+1
+none
+http://zhidao.baidu.com/question/29249119.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/492120347.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/470697094.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/468743427.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/212705057.html?qbl=relate_question_4

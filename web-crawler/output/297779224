@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中：unsigned int a=-2;printf(&quot;%u&quot;,a);输出结果为多少？
+none
+应该是4294967295-2+1=4294967294<br />因为unsigned int a=-2;这句会强制把负数，转换成正数
+7
+在16位int平台下，输出是65534；在32位int平台下，输出是4294967294。以32位int平台为例，题中的unsigned int a=-2;语句在unsigned的修饰下，赋给变量a的是-2补码的无符号值，即4294967294。但后面的printf(&quot;%u&quot;,a);的输出并不与a是否为有符号数没有关系，输出是否为有符号数由&quot;%u&quot;中的控制符%u决定，这里%u表示将变量a按无符号数输出，所以输出是4294967294。因此，如果将unsigned int a=-2;改为int a=-2;，printf(&quot;%u&quot;,a);同样输出4294967294。即使是unsigned int a=4294967294;这样定义a，用printf(&quot;%d&quot;,a);输出就是-2；因为输出是由控制符%d决定的。
+http://zhidao.baidu.com/question/357981366.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/413139712.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/558163350.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/72608838.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/321201627.html?qbl=relate_question_4

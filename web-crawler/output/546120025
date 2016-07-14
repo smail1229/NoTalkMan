@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 菜单选择的程序怎么做 （用switch 语句）
+菜单功能如下1、判断一个数是否为水仙花数 <br />2、求三个数的最大值<br />3、求一个数的阶乘
+<br />printf(&quot，也同时锻炼了自己!=0;最大的数为;=10,&n);请输入三个判断的数字，纯属手打;i++)<br />{<br />a[i]=m%10;<br />}<br /><br />int menu() <br />{ <br />int  cn;<br />scanf(&quot;<br />}<br /><br />void main() <br />{ <br />for(;<br />}<br /><br />void do3()<br />{<br />int i;<br />scanf(&quot; <br />case 2;m)<br />max=m;i&lt;<br />else<br />printf(&quot,&n;<br />printf(&quot;,m=1;: <br />do2();请输入要求的数字，那么完全符合: <br />do3();n&quot,n); <br />case 3;<br />if(max&lt;<br />if(max&lt;););=n:&quot;<br />for(i=1;%d %d %d&quot;<br />}<br /><br />void do2()<br />{<br />int max:&quot;，如果不是非要文件的形式;<br />printf(&quot,k;<br />m/i++)<br />m*=i，你需要的是文件的形式的话只要自己稍微改改就可以了;,m);<br />printf(&quot;;<br />scanf(&quot;:&quot;n&quot;<br />} <br />} <br />}<br />我给的这个还不是文件的形式.h&gt;a[i];break;);;<br />m=n#include&lt,n;<br />printf(&quot,n);<br />}<br />for(i=0; break;<br />int a[10]={0};请输入要判断的数;i++)<br />{<br />m+=a[i]*a[i]*a[i];<br />}<br />if(n==m)<br />printf(&quot;),&m:%d&#92: <br />do1();)<br />{ <br />switch(menu())<br />{ <br />case 1;%d&quot,&n);;%d&quot,m;n&quot,n;<br />for(i=0;<br />if(m==0)<br />break,max); ;<br />return cn;%d是水仙花数&#92,n,&cn);<br />scanf(&quot;;%d不是水仙花数&#92;请输入指令;<br />printf(&quot;n&quot;%d的阶乘是%d&#92,&k);%d&quot;<br />max=n:&quot;k)<br />max=k; break;stdio;<br /><br />void do1()<br />{<br />int n,i,m
+4
+none
+http://zhidao.baidu.com/question/431077783.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/417642542.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/347473441.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155452307.html?qbl=relate_question_4

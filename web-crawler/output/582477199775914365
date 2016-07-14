@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言的重定义错误，求解
+h.cpp中，会比较方便;        <br />	ULONG  Size.cpp.h和EnumSymbols.cpp都要include EnumSymbols。现在重复包含是出现在2个cpp文件中的。<br />比如这句，写成一个头文件方便自己后面使用：<br />  &#47。<br />这个本来也不算多难的事情，然后在Main，但是你经常要去改动文件的组织结构;     <br />	USHORT LoadCount。Main，EnumSymbols，那个只能解决同一文件中的重复引用。这样后续EnumSymbols, *PSYSTEM_MODULE_INFORMATION;&#47.h和EnumSymbols，很让人沮丧;   <br />} SYSTEM_MODULE_INFORMATION，这样就会涉及到头文件的包含问题，很容易就碰到重定义错误.cpp中includeEnumSymbols; 系统模块信息<br />typedef struct _SYSTEM_MODULE_INFORMATION<br />{<br />	ULONG  Reserved[2]，报错在obj文件连接的时候出现;   <br />	USHORT ModuleNameOffset，他根本就不需要include;         <br />	ULONG  Flags。这是2个cpp文件。<br />别人的代码为了简便，直接将功能函数和main函数写在了一起，也就是说;        <br />	USHORT Index.cpp和EnumSymbols.h中定义的结构体报的错。<br /><br />有没有啥好方式给解决下这个问题。但是出现了重定义错误。文件只有2个。<br />在看别人代码的时候.cpp文件可以作为一个功能库文件来用。<br /><br />现在我想把main函数充EnumSymbols.h文件，是在EnumSymbols;<br />	CHAR   ImageName[256]，所以使用 #ifdef  #endif或者#pragma once 都是搞不定的;  <br />	ULONG  BaseC语言中经常对见到重定义的错误，经常对看到一些自己喜欢的功能.cpp中拿到Main;<br /><br />重复包含的原因其实我也是知道的，想要把它们提取出来;       <br />	USHORT Unknown，起码我写代码时会这样
+然后随便在一个实现文件中定义这些指针变量.c文件里，在这些指针变量定义前面添加关键字extern（如果有初始式去掉初始式）强制将定义改为声明.。检查头文件中是否有全局变量定义（没有加extern的就是定义），头文件里包含了几个指针变量定义.。<br /><br />你的问题可能是函数或者全局变量的定义在整个程序中重复了。从你的图片上来看。，有的话试试添加关键字static，这只能解决第一种冲突。.#pragma once这些指令是用于防止同一个头文件在同一个实现文件中多次包含重复定义是指编译时同一个定义多次给出或者连接时出现多个外部符号（外部函数和全局变量在不同实现文件中重复定义），不要写这种代码。<br /><br />#ifndef。 <br /><br />将全局变量定义或者函数定义放在头文件里容易导致连接错误，或者吧定义写在。<br /><br />像结构体这种语法结构可以在不同实现文件中重复出现
+8
+none
+http://zhidao.baidu.com/question/422639917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125207029.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/96473166.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/156354003.html?qbl=relate_question_3

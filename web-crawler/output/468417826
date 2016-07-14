@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 新手 很简单的程序，不知道哪里出错了。
+n&quot;10)<br />{<br />case 1;E&#92;n&quot;break:  printf(&quot:  printf(&quot:  printf(&quot;你的成绩评分为;<br />case 10;n&quot;);<br />case 8;A&#92;n&quot.h&gt;n&quot;<br />case 6:  printf(&quot;););n&quot;;输入错误请重新输入&#92:&#92;<br />switch(chengji&#47: printf(&quot;break;E&#92;<br />printf(&quot;n&quot;<br />case 2;E&#92;);B&#92: printf(&quot;break;):  printf(&quot;<br />case 3:  printf(&quot;););<br />default;stdio;break;);E&#92;break;<br />printf(&quot;n&quot;break;break;break;n&quot;清输入你的成绩&#92;break;n&quot;E&#92;n&quot;n&quot;<br />case 9;break;A&#92;);<br />case 4;);):  printf(&quot;<br />scanf(&quot;<br />void main()<br />{<br />int chengji;C&#92;<br />case 5;<br />case 7;%d&quot;D&#92:  printf(&quot;n&quot:  printf(&quot;),&chengji)#include&lt;)
+  printf(&quot？;):  printf(&quot;后从新返回到scanf(&quot;A&#92;;break.h&gt;<br />default;输入错误请重新输入&#92;);<br />case 8;n&quot;<br />    goto loop;<br />case 6;C&#92;<br />printf(&quot:&#92;;n&quot: scanf(&quot;你的成绩评分为;清输入你的成绩&#92;<br />case 10;这条语句后面加个 goto loop;n&quot;n&quot;<br />case 5;n&quot,&chengji););n&quot;<br />loop;),&chengji);): printf(&quot;E&#92;  请写错了;输入错误请重新输入&#92;n&quot:<br />然后在<br /> printf(&quot;);n&quot;<br />void main()<br />{<br />int chengji;n&quot:  printf(&quot;D&#92;10)<br />{<br />case 1:  printf(&quot;)；<br />（二;break:  printf(&quot;)？<br />若是这样你可以这样写;E&#92;<br />printf(&quot;););A&#92;;;%d&quot;<br />case 4;):  printf(&quot:  printf(&quot;);<br />switch(chengji/n&quot(一)printf(&quot;<br />case 7;)，你是不是想要 <br />printf(&quot：<br />#include&lt;break;B&#92,&chengji):  printf(&quot;%d&quot;break;<br />case 9;<br />case 2;);清输入你的成绩&#92;break;E&#92;break;n&quot;n&quot;%d&quot: printf(&quot;break;<br />}<br /> <br />}<br />就是在<br />scanf(&quot;<br />case 3;n&quot;);break;<br /> break;);<br />前面加个loop;n&quot;E&#92;n&quot;E&#92;break:  printf(&quot;break;输入错误请重新输入&#92;n&quot;stdio
+0
+none
+http://zhidao.baidu.com/question/368480673.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2115668670063854307.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/218942992.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/534276468.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/435723954.html?qbl=relate_question_4

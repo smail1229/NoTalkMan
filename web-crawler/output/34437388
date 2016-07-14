@@ -1,0 +1,11 @@
+教育/科学 学习帮助 
+vhdl语言里的cnt1:=(others=&gt;&#39;1&#39;)是什么意思
+none
+NT1可能是一个多位宽的数据,将其所有位都赋为1<br /><br />定义了一个多位宽数据：<br /><br />cnt1 &lt;<br />cnt1(1) &lt;<br />cnt1(0) &lt;= &#39;<br /><br />用OTHERS写法的好处是，“0000”要改成“00000”;= &#39;0&#39;0000&quot;= &#39;= (others =&gt; &#39;= &#39;= &quot;;0&#39;<br />cnt1(2) &lt，这样如果修改位宽为5位后，<br /><br />而开始的写法则不用改，不需要介意位宽;0&#39;);<br /><br />表示的意思是<br />cnt1(3) &lt;0&#39;;;<br /><br />也可以写成<br />cnt1 &lt;0&#39，如果使用下面的方法;;： <br />singal cnt1: std_logic_vector(3 downto 0)<br /> 下面对他赋值
+101
+none
+http://zhidao.baidu.com/question/163822069.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1301634123735480059.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/70922756.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90004484.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/257855915.html?qbl=relate_question_4

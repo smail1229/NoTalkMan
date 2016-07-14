@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，表达式 (7&lt;&lt;1&gt;&gt;2^2 ) 的值是_______。 希望能有详细过程~！
+none
+&gt：<br />&lt，高位置0;1&gt;&lt,<br />先左移一位;&gt;1)&gt表达式涉及位操作运算，结果是00001110：按位异或<br />以上运算符均为自左向右结合<br />分析表达式 (7&lt;2^2 )如下;：<br /> (7&lt：左位移运算<br />&gt，结果是00000011;2)^2 )<br />7的二进制表示为00000111;;&gt，不同取1）结果为<br />00000001<br />即十进制的1：右位移运算<br />^;&lt;1&gt;&gt;&lt;&lt，<br />先右移两位，低位置0，<br />00000011 与<br />00000010<br />的按位异或（相同取0.<br />故以上表达式结果为1<br />可以实际编程实现一下;2^2 )即 ((7&lt，<br />2的二进制表示为00000010
+14
+none
+http://zhidao.baidu.com/question/254731756.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/557710739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/211335793.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/184519384.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/208630483.html?qbl=relate_question_4

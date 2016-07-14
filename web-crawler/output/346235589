@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+编写一个C语言程序,计算复数的加减乘!(用头文件做)
+编写一个C语言程序,计算复数的加减乘!(用头文件做)
+不过是用C89还是用C99，没有必须做复数的加减乘除了，必须自己定义一个复数，即C95）的话；如果用C99（或C89的修订案，因为C标准库中已经有，如果是为了作业什么的？如果用C89的话。你是想怎么做，标准库中的东西是不能用的，只能自己来写了，如果是C99的话。当然，可以用C标准中已经定义好的复数类型complex
+2
+none
+http://zhidao.baidu.com/question/104223690.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/151336863.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/94645066.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98761139.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/392874224.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言下面代码帮我解说下
+<br />  printf(&quot;i&lt.h&quot,j);n&quot;);;=k;<br />int main(void)<br />{<br /> int i,l,l=0;F&#39;i++)<br /> {<br />  k=i;l++,j;%c&quot,j--)<br />   printf(&quot,k;<br /> for(i=0;&#92;6;;<br />  for(j=&#39;l&lt程序运行结果是<br />F<br />FED<br />FEDC<br />FEDCB<br />FEDCBA<br />但是不清楚是怎么工作的<br />#include&quot;stdio
+. &#39.;F&#39; ;FEDCBA&#39., , &#39; ..;F&#39, 2次 ; 每次-1<br />所以为 &#39hxsun22  真NB;FE&#39., 0- 1 .<br /><br />i 循环的值 从0 - 5 <br />k = i 也是 0 - 5 <br />l 循环依次为 0-0 .. 6次<br />j 初始值&#39.. 0- 5 <br />即 循环1次 
+0
+none
+http://zhidao.baidu.com/question/206448389.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/680965464953843772.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1795821826372865587.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203159378.html?qbl=relate_question_3

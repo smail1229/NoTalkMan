@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言的continue的作用！？
+stdio;<br />void main()<br />{<br /> int k=1,s)#include&lt;<br /> do{<br />  if((k%2);;<br /> }while(k&gt;s=%D&quot.h&gt;<br />  s+=k;<br /> printf(&quot;k++!=0)continue;<br />}<br /><br />在这个简单的程序中是不是直接跳出了do··while循环体没有进行任何的循环内部执行？,s=0;10)
+打印s，由于k=1所以，这样就成了死循环，循环终止对;10)这里了，都不会执行，只执行了if语句，你这个程序;10)，从continue这句直接跳转到while(k&gt，continue在C中是让继续执行循环的作用，如果你把while语句改写，写成while(k&lt，在这里，就是说，所以执行了continue语句，由于k%2的值为1，不论是循环体内部还是外部的语句
+22
+none
+fail

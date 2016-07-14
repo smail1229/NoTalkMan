@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 ,X=9,X%=X+9,X=?答案是9!请说明怎么计算的？
+none
+X%=X+9 相当于 X = X % （ X + 9 ）<br />已知X 俯储碘肥鄢堵碉瑟冬鸡= 9<br />则 X = 9 % （ 9 + 9 ）<br />        = 9 % 18<br />        =9
+1
+none
+http://zhidao.baidu.com/question/545456876.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519429095.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206553423.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/354443967.html?qbl=relate_question_3

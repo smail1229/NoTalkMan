@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言 宏定义 输出问题
+n”）＃define N 100<br />希望输出的结果<br />Input 100 numbers.&#165.<br />请问应该如何修改？能否只用一个printf语句实现.<br />用printf（“Input N numbers;<br />会输出<br />Input N numbers
+rintf(&quot,N);Input %d numbers&quot;
+1
+none
+fail

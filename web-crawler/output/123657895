@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+编一个C语言程序求一道题。
+一四边形OACB，∠A=∠B=90°，∠AOB=135°，OA=a，OB=b，求出∠AOC俯户碘鞠鄢角碉携冬毛和∠BOC及OC长。
+这个用不着程序。<br />延长AO,CB交于D<br />角C=180-135=4俯户碘鞠鄢角碉携冬毛5度，所以角D=45度<br />所以OD=sqrt(2)b<br />AD=AC=a+sqrt(2)b<br />∠AOC=arctan（1+sqrt(2)b/a）<br />∠BOC=135度-arctan（1+sqrt(2)b/a）<br />OC=sqrt(a^2+(a+sqrt(2)b)^2) <br /><br />那就用这个公式，<br />∠AOC=arctan（1+sqrt(2)*b/a）<br />∠BOC=135*3.14/180-arctan（1+sqrt(2)*b/a）<br />OC=sqrt(a^2+(a+sqrt(2)*b)^2)
+0
+none
+http://zhidao.baidu.com/question/622920990577015244.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/215384737.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1859644403209862987.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/262789113842920205.html?qbl=relate_question_3

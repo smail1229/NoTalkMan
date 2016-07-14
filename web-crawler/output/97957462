@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中for(i=1;i&lt;=n;i++)a[i]=1;是什么意思
+none
+你应该是截取的一段程序的部分吧  <br />  这程序前面你看看是不是还有<br />int a[n];<br /> 这是定义了一个一维数组   但是这样定义是不对的 数组的元素个数应当是确定的才对   n应该是改为一个确定的数才对<br /> 然后这句话是对数组的元素进行赋值啦<br /> for循环语句  <br />  从a[1]到a[n]都赋值1 <br />  但是需要注意数组第一个元素是a[0]   a[0] 没有重新赋值就默认为0了
+9
+none
+http://zhidao.baidu.com/question/175231276.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/131208363.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/255080992.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1301570351788574539.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/416763825.html?qbl=relate_question_4

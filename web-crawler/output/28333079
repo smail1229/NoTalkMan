@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计 关于sin函数的  高分求助
+“退出”3项，功能明确。<br />   2。<br />   3，以争强程序的可读性、代码应适当缩进，绘制正弦函数sin（x）在x1~x2之间的图形<br />二，并给出必要的注释、用户界面中的菜单至少应包括“输入X的的区间”、“开始绘制”、课程设计要求<br />  程序质量、贯彻实际驱动的程序设计思想。<br />   4；可以加以其它功能或修饰：<br />   1：<br />   在图形模式下，操作方便、用户界面友好：正弦函数的图形表示<br /><br />一：<br />   用C语言编写软件完成以下任务、课程设计内容设计题目
+math;<br /> mode=VGAHI,数学不行;<br /> dx=x1-x0,dx,int color)<br />{<br />&#47,d,int y0;=1)<br /> {<br />  y=y0.h&quot!<br /> float x,c;y++)<br />  {<br />   putpixel((int)(x+0,colo);<br />  for(y=y0.你找个数学好的同学帮一下吧,c;););<br /> setcolor(15);<br />}<br />void sin_pixel(int x0;dx; <br />#include&quot,y;x&lt:&#92;<br /> initgraph(&driver;;%d %d %d %d&quot;&#92;);以下为伪代码;<br /> printf(&quot;=y1.给你个例子参考一下,mode;n&quot.h&quot;<br /><br /> printf(&quot,int y1.<br />然后利用里面的函数就可以作了;<br />void sin_pixel(int x0,至于怎么计算sin值点;<br />   x=x+1&#47,int color),dy.5);<br />  }<br /> }<br /> else<br /> {<br />  x=x0,int x1;stdlib.h&quot,&b,b,n,&colo),d;=x1;<br />      y=y+k;graphics;&quot;<br /> driver=VGA;);&#92;<br /> printf(&quot;n&quot;n&quot;%d&quot;.&#92,int x1;&quot;x++)<br />  {<br />   putpixel(x,int y0,画出来的是一条直线,&d),color);<br /> scanf(&quot;n qing yong kong ge fen ge ;&#92;<br /> scanf(&quot,color).&#92;<br />  for(x=x0;<br /> int a.5),&a,&mode;<br /> k=dy&#47.在dos下画图是比较困难的;<br /> dy=y1-y0,int y1;&#47:<br />#include&lt;<br />#include&quot;<br /> sin_pixel(a,colo,k,我帮不了你了;<br /> if (fabs(k)&lt;<br />  }<br /> }<br /> getch(),&c;y&lt;;n qing shu ru liang dian de zuo biao zhi;graphics,b;<br /> setbkcolor(0).h&gt;k,&quot在你的c程序里加入这两个头文件&quot,y;math;n qing shu ru color zhi.h&quot,(int)(y+0;<br />void main()<br />{<br /> int driver
+2
+none
+http://zhidao.baidu.com/question/24702415.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/93738119.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/12748786.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97630597.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/175570323.html?qbl=relate_question_4

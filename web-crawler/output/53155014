@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if(!r-&gt;num)和if(!n)怎么样理解
+none
+fail
+0
+首先,(!r-&gt;num)相当于(!(r-&gt;num)),为什么呢,因为-&gt;运算符的优先级高于逻辑非!的优先级<br /><br />而(!(r-&gt;num))更相当于关系运算表达式(!(r-&gt;num))==1如果还不好理解,你把(!(r-&gt;num))看成是一个整体,这个整体就是表达式<br />对于if语句,它是这样的<br />if(表达式)  语句1<br />else    语句2<br />它的意思是判断该表达式的值是否为真.也就是说,判断该表达式的值是否为1.如果为1,则执行语句1,如果为2 ,则执行语句2<br />r是个指针,num是某个对象的成员<br />通过指针r访问对象的成员num<br />如果名字为num的内存空间存储的值为非0值,那么采用逻辑非运算<br />即(!(r-&gt;num))则它的值为0.也就是说整个表达式的值0,那么它然后进行关系运算,即(!(r-&gt;num))==1,则判断结果是假的,即整个表达式的值为假<br />所以,执行语句2<br />而如果名为num的内存单元存储的值为0值,那么然后它进行逻辑非运算<br />即(!(r-&gt;num)),则表达式的值为1,那么然后它进行关系运算,即<br />(!(r-&gt;num))==1.用表达式的值与1进行比较,显然,判断结果为真,则执行<br />语句1.<br /><br />这就是对它的解释了,为了使楼主更好的理解,我用等价于(!(r-&gt;num))==1这样来解释.但当你熟练了以后,就不必要这样了
+http://zhidao.baidu.com/question/327087149132294205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/439882957.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/285922385.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/512514820.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/288112340.html?qbl=relate_question_4

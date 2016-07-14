@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个c语言程序的运行结果是什么？char是什么意思？
+none
+char 是字符串的意思，你可以简单理解为英文，但是其实这样不是很正确，但大体可以是。上面的代码主要意思：<br />有两个数：ch1和ch2<br /><br />ch1名字叫做a    ch2名字叫做B（注意大小写，b和B不一样）<br />这里是穿埂扁忌壮涣憋惟铂隶ascll码：你可以看看：<a href="http://www.cnblogs.com/leolai/archive/2012/07/09/2583734.html" target="_blank">http://www.cnblogs.com/leolai/archive/2012/07/09/2583734.html</a><br />第一个printf：然后输出比a小32的字符串（运算通过编码大小运算的）和输出比B大32的数字，运算同上，以后不说明。然后换行（就是：&#92;n）<br />第二个printf：输出比a小32的数字，比B大32的数字，换行<br />第三行printf：输出a的数字和B的数字，换行。<br />结束。
+3
+none
+http://zhidao.baidu.com/question/1383050634343475660.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1495193309540690339.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/537508128.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117507296.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/493695289.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言输出 浮点型数据输出
+none
+<br />    scanf(&quot#include &lt;%d&quot, &quot;%s&#92;stdio, f);printf(&quot, s);;<br />    return 0;<br />    /<br /><br />    double f = 2, ch),&s);;n&quot;<br />    sprintf(ch;<br />int main(void)<br />{<br />    int s;<br />    char ch[10] = {0};n&quot;/<br />    printf(ch;%%;.h&gt.%df&#92
+4
+<p>在c语言中可以通过精度限定符来控制浮点数输出的位数，精度限定符有一个点号后跟一个整数组成。其准确含义依赖于它所修饰的数据类型。示例如下：</p><p>#include&nbsp;&lt;stdio.h&gt;<br />int&nbsp;main()<br />{<br />printf(&quot;%.2lf\n&quot;,&nbsp;1.2345678);<br />return&nbsp;0;<br />}</p><p><a href="http://f.hiphotos.baidu.com/zhidao/pic/item/d52a2834349b033b0e8e30db12ce36d3d539bda9.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://f.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=d96f6ddff71f3a295a9dddc8a9159009/d52a2834349b033b0e8e30db12ce36d3d539bda9.jpg" esrc="http://f.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=b5c56014bb315c6043c063ebb881e725/d52a2834349b033b0e8e30db12ce36d3d539bda9.jpg" /></a></p>
+http://zhidao.baidu.com/question/91534154.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/486944336.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/61928367.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533425521.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/64596176.html?qbl=relate_question_4

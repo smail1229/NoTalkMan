@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+怎么用C语言编程任何一个大于6的偶数都可以写成两个质数的和
+none
+fail
+0
+很简单的,下面的MAX我定义为10000以内,如果你觉的大,可以任意改动(别小于6了呵呵)<br /><br />#define MAX 10000<br />#include &quot;stdio.h&quot; <br />#include &quot;math.h&quot;<br /><br />int f(int m);<br />void main()<br />{int i,m,k=0;<br />for(m=6;m&lt;=MAX ;m=m+2)<br />    for(i=3;i&lt;=m&#47;2;i=i+2)<br />       if(f(i)&&(f(m-i))   &#47;*判断构成和的2个数是否都是素数*&#47;<br />         {printf(&quot;%d=%d+%d &quot;,m,i,m-i);<br />           k++;<br />          if(k%5==0) printf(&quot;&#92;n&quot;);<br />         }<br />}<br /><br />&#47;*判断素数*&#47;<br />int f(int m)<br />{int i,c;<br /> c=sqrt(m);<br />  for(i=2;i&lt;=c;i++)<br />     if(m%i==0)break;<br />  if(i==c+1) return 1; &#47;*找不到能除的数,是素数返回1*&#47;<br />  else return 0;<br />}
+http://zhidao.baidu.com/question/52201898.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/493139054.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1240145418947143659.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/207637459.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/250819933.html?qbl=relate_question_4

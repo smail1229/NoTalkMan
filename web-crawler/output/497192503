@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中return的作用？
+有时加上  return 0，又可以不加的搞不明白return有什么用啊，究竟return有什么用呢；   可以
+银行要告诉你是不是转成功了：<br />1，当外界调用该函数需要知道函数执行情况的时候，只需要把食物丢到池塘就可以了，就需要用返回值来告诉调用者。<br />给你举两个相对生动点的例子. 养鱼场喂鱼的时候，而当调用者不需要知道执行情况，只需要去执行该函数的时候，那就不需要返回值. 当你去给别人转账的时候。<br />2，这种模式就需要返回值，不需要管那只鱼吃了那只鱼没吃，这种情况就可以不用设计返回值一般return语句用于函数返回值
+71
+none
+http://zhidao.baidu.com/question/245525471.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/752389483926452004.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/421834611.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/403158008.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/180784576.html?qbl=relate_question_4

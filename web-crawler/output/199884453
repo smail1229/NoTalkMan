@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+&quot;-&gt;&quot;在C语言和数据结构里分别是什么意思啊？谢谢了
+none
+%d  |  %d&#92,*p.a=1;<br />    printf(&quot;b);;<br />}<br /><br />这是普通的结构体变量的用法（t）.a 等价于 p-&gt;.b);a;%d  |  %d&#92,t;n&quot,t.b=2;<br />void main()<br />{<br />    struct ab t;<br />}<br /><br />增加了指针p<br />这时要用p引用成员的时候加上-&gt;  就可以指向数据结构一个成员 <br />先看个例子  <br />#include&lt;stdio;<br />    printf(&quot;stdio;n&quot.h&gt，只要t,t;%d  |  %d&#92.b). 就可以引用成员了<br />要是定义了结构体的指针;<br /> int b;.a;<br />    printf(&quot;<br /> t,t;<br /> p=&t;<br /><br />struct ab<br />{<br /> int a;<br /><br />struct ab<br />{<br /> int a.h&gt;<br /> t;n&quot;就行了<br />也就是  t;<br />},p-&gt.a=1;<br /> t.b=2，p-&gt;<br />};<br /> t;<br />void main()<br />{<br />    struct ab t，看下面例子<br />#include&lt在C语言里和数据结构里是一个意思<br />当一个指针如p指向一个结构体的时候,p-&gt.b 等价于 p-&gt.a;a<br />t;<br /> int b
+4
+none
+http://zhidao.baidu.com/question/69294753.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1702420834807040780.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43377594.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/623816578160400684.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/251866406.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针变量
+*p=&a，想问下 p 和a 这两个字符在内存中是怎么样存放的;<br />p存放的变量a的地址int a
+设a 是一个抽屉，不知道你能看明白不？<br /><br />a 就是10 ，里面只能放编号，它俩是同一个东西，a和这只白狗此时就是一回事，当然放在同一个地方，p=&a，这个a 就是指这只白狗，里面只能放一个整数，这个序号保存在p  里，这个号是系统编的，它俩指的是同一个东西，比如一只白狗叫a。而p 是另一个抽屉，（就是所谓的int ，这个不重要），当这个抽屉存在的时候，同一个东西在某一时刻还能在俩地方吗，就是把a的编号放到p 这个抽屉里，这里的10 就是a ，不能更改。 <br /><br />a 和 10在这里就是一码事，这个地方的序号比如1000，现在如果你知道了p 里放的编号。这就对应上了，你就可以按照这个编号找到这个对应的抽屉，它就已经有一个编号了（就是地址）
+6
+none
+http://zhidao.baidu.com/question/118957964.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2266012267203166468.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/540505723.html?qbl=relate_question_3

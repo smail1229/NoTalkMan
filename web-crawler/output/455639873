@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言有没有主函数和子函数都能调用的变量？
+，没调用一次某个函数就能让这个变量加一我想用一个变量当做计数器，最后在主函数中使用这个计数器的数值。
+h&gt;<br />int i。<br />如<br />#include&lt。<br />在程序最开头（main函数之外）定义一个变量用全局变量;stdio
+0
+none
+http://zhidao.baidu.com/question/168438634.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/504673978.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/197730374.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/476648821.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/399484461.html?qbl=relate_question_4

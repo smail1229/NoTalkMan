@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，用泰勒级数求e的近似值。直到最后一项小于1e-6为止。
+我看不懂代码，我一直以为阶乘就是就是从1开始乘到n的积，然后代码是这样滴<br /><br />#include &quot;stdio.h&quot;<br />void main（）<br />{<br />    俯攻碘纪鄢慌碉苇冬俩float e=1.0,t=1.0；<br />    int n=1;<br />   while(i&#47;t&gt;1e-6)<br />{<br /> t=t*n;<br />e=e+1&#47;t;<br />n++;<br />}<br />printf(&quot;e=%8.6f&#92;n&quot;,e);<br />}直到执行顺序没有搞明白每一步是干什么的
+#include &quot;stdio.h&quot;<br />void main（）<br />{<br />    float e=1.0,t=1.0；<br />    int n=1;<br />   while(1/t&gt;(1e-6))  //(1/n!)&lt;(1e-6)是结束，你书写有错，i应是1<br />{<br /> t=t*n;               //得到 n!<br />e=e+1/t;          //累加(1/n!)，即计算此行前 e = 1+(1/1!)+(1/2!)+....+(1/(n-1)!)再加上(1&#俯攻碘纪鄢慌碉苇冬俩47;n!)<br />n++;                //n : 2 3 4 ... <br />}<br />printf(&quot;e=%8.6f&#92;n&quot;,e);<br />}
+4
+none
+http://zhidao.baidu.com/question/76659583.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/282504767.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57286052.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/244594333.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/359530623.html?qbl=relate_question_4

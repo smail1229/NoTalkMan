@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+*p=*a在C语言中分别代表什么含义？
+位置不同就表示不同的含义？<br /><br />在指针中还有没位置不同表示的含义就不同的地方啊？<br /><br />在C语言中除了指针还有没有别的什么知识点*p代表指针P<br />*a表示把指针a里的内容赋值给指针p<br /><br />是这样的吧
+<br />b=3，呵呵, b*p此处代表它指向的那个变量，而右边需要具体的数值，*a指它指向的那个变量的值例如<br />int  *p;<br />*p=*a，*a;c=33。上面的语句执行后结果为b=33，一般赋值号的左边找到指定的变量就可以;  等价与b=c;p=&b;这懂吧;a=&c,c
+6
+none
+http://zhidao.baidu.com/question/220073694.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/489642174.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/233306494.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/21935384.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/259054476.html?qbl=relate_question_4

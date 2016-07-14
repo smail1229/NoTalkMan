@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程里最后的return 0 有什么含义？
+none
+return 通常用于函数中，作为一个函数返回值！<br />-----------<br />情形1）main函数中的return<br />main中的return值返回的是主函数的执行情况<br />0：表示无错误退出<br />1：表示异常退出<br />情形2）常规函数的return<br />int func(int a, int b)<br />{<br /缉龚光夹叱蝗癸伟含连>  return a+b;<br />}<br />该函数的返回值就用于计算a+b的值。<br />比如：int c = func(a, b);<br />-------------------<br />此外，返回值还可以是BOOL型、Char型或其他类型。
+24
+　　return 0是正常退出，return 非零是异常退出，这是返回给控制台的，不在编的程序的控制范围内，是给操作系统识别的，对你的程序无影响。如果是C中，定义void main()可以不用返回值。<br />　　编程就是让计算机为解决某个问题而使用某种程序设计语言编写程序代码，并最终得到相应结果的过程。<br />　　为了使计算机能够理解人的意图，人类就必须要将需解决的问题的思路、方法、和手段通过计算机能够理解的形式告诉计算机，使得计算机能够根据人的指令一步一步去工作，完成某种特定的任务。这种人和计算机之间交流的过程就是编程。
+http://zhidao.baidu.com/question/413442208.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118226095.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/223565538.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89440470.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/148724561.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮我解释一下这段c语言程序
+请输入新成绩：&#92：&#92.score=a;25,num[20];) ;*定义结构体*&#47,&a);<br />	int score;n&quot，谢谢;i&lt;%d&quot;<br />	scanf(&quot;n&quot;<br />		stud[i];<br />	int i;t%d&#92,num).txt&quot;<br />		printf(&quotstruct student      &#47;t%s&#92;file29:&#92,stud[i];,&quot;<br />}stud[SIZE].name.score).num;;<br />		fclose(fp);<br />{<br />	char num[20];;&#92;<br />	printf(&quot;%s&quot; <br />{<br />	int a;),stud[i];w&quot;i++)<br />		if(strcmp(stud[i];<br />	char name[20];<br />	fp=fopen(&quot;%s&#92,stud[i],num)==0)break;<br />	for(i=0.num;     <br />void change()     &#47;<br />	FILE*fp;);i++)<br />			fprintf(fp;<br />		for(i=0;d;<br />	char name[100];*修改函数*&#47;<br />		scanf(&quot;25,&quot;i&lt;请选择要修改的学号;;n&quot;<br />}<br />解释一下修改函数每句话的意思，详细点
+file29;d;*修改函数*/ &#47.num.score);&#47.txt&quot;25;25;num保存学号;/%s&quot：&#92,&quot，创建新的<br />	printf(&quot;n&quot;/i&lt; <br />{<br />	int a;);保存输入成绩的临时变量<br />	int i;n&quot;;/for循环的临时变量<br />	char name[100];这两句是写入25个学生的信息<br />		fprintf(fp,stud[i];) ,stud[i];i++) //);  /把成绩放入该学号<br />	for(i=0; /,&a);/如果找到这个学号.name;/%d&quot;请选择要修改的学号;;最多只有25个学生;提示修改这个学生的成绩<br />	scanf(&quot，以学号查找<br />		if(strcmp(stud[i];/&#92,stud[i];;/接收学号<br />	for(i=0;/请输入新成绩;/  &#47，name没有用<br />	FILE*fp;提示输入学号<br />	scanf(&quot:&#92;%s&#92;t%d&#92.txt;/t%s&#92;i&lt;w&quot,num)==0)break;接收成绩<br />	stud[i]void change()     //文件指针<br />	fp=fopen(&quot;&#47,num[20].score=a; /&#47，如果有这个文件就删除;n&quot;<br />	fclose(fp); &#47,num),&quot;&#47：&#92，跳出<br />	printf(&quot;/&#47.num;以写(w)的方式在D盘创建文件file29; //i++)/关闭文件指针
+0
+none
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/808013784984727812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/65235460.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1796173026819555347.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/166443532.html?qbl=relate_question_4

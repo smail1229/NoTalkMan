@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的函数名后有一对圆括号，括号内有函数参数，但参数可有可无．
+语言的函数名后有一对圆括号，但参数可有可无．如main()函数无参数？很急，谢谢，而average()函数有参数．请问这是怎么回事啊，在线等答案，括号内有函数参数
+原型请自己在网上找）。这要根据你的函数是否需要参数接口而定。而average函数是一个求平均数的函数，如果你告诉系统你要对那些数求平均数，那么要怎么让系统知道你想求的数呢，你说系统有这么神奇知道想求哪些数的平均数吗，所以就没有提供参数接口（其实main是有带有参数接口的，像main()这个入口函数它就不需要用户传递任何参数给它，用来存放命令行的参数，函数名的后面一定要带括号，试问一下，那就要靠参数传递来实现。但括号里面不一定带有参数？明显是不可能的这是C的语法规定的
+11
+none
+http://zhidao.baidu.com/question/589018868.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/230264358.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/507602188.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253965899.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/184599783.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+第八题什么意思，c语言！
+none
+因为那行scanf 把变量C的值改变成A  又因为printf输出C的值的时候要以字符的形式输出，所以不是97而是A，望采纳！
+0
+none
+http://zhidao.baidu.com/question/134868099.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/261543537.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/871959759619818132.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/688087235897636724.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2202142594044940228.html?qbl=relate_question_4

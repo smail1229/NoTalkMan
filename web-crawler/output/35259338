@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，typedef的用法
+none
+fail
+0
+定义类型，例如：<br /><br />typedef long time_t;<br /><br />之后在程序中声明变量时，<br /><br />time_t a;<br /><br />就相当于 <br /><br />long a;<br /><br />再如<br /><br />有<br />typedef enum{yes,no} yes_no;<br />之后<br /><br />yes_no a;<br /><br />相当于<br /><br />enum{yes,no} a;
+http://zhidao.baidu.com/question/86611194.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/108918084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1957136962859407540.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/152337988.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/194748325.html?qbl=relate_question_4

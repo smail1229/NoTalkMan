@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中float与double在程序中输出的分别是多少位？
+none
+也就是说不同的编译器我不太清楚你想问什么<br /><br />不管什么编译器，即64位<br /><br />具体在输出中.3f&quot，其输出有效位和小数位有所不同，一般情况小数点以后默认6位, 1;%;输出小数点后3位<br /><br />具体有效数字位和小数部分的控制范围有编译器自身决定，你可以通过自己调式试探知道，但你可以通过输出函数printf控制;，都有<br />float占4个字节.234)，如楼上所说的6~7、15~16是指的TC一类编译器，即32位<br />double占8个字节，如printf(&quot
+9
+none
+http://zhidao.baidu.com/question/163638542.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/395934984.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/31193140.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/367408259665250124.html?qbl=relate_question_4

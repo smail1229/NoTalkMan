@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于计算三角形面积的
+int b;%,b;;2;<br />       if(a+b&gt;<br />       }<br />       else<br />        printf(&quot;,b,&a;<br />           printf(&quot,int c)<br />{<br />    double s;<br />   double S;<br />    s=(a+b+c)&#47;stdlib.h&gt,int b;<br />}<br />我输入3 4 5时的答案为什么会跟4 5 6的答案一样;%d%d%d&quot.h&gt.h&gt，为什么答案都是6,S);<br />   }<br />   return 0;a)<br />       {<br />           S=sum(a;),c)，第二组输4 5 6;<br />int sum(int a.4lf&quot,n,i;%d&quot;<br />#include &lt.0000#include &lt;math;<br />   scanf(&quot;n,&c);;<br />    return S;stdio;<br />}<br />int sum(int a,&b;-1&quot,c;i++)<br />   {<br />       scanf(&quot,int c);b&&b+c&gt;<br />#include &lt，第一组输3 4 5.0,S;i&lt;c&&a+c&gt，就是说我把n输入为2,&n);<br />int main()<br />{<br />   int a;<br />   for(i=0;<br />    S=sqrt(s*(s-a)*(s-b)*(s-c))
+int c);<br />}<br />double sum(int a;<br />           printf(&quot，<br />int main()<br />{<br />   int a.4lf&quot;函数类型要改为double,&c),S);%d%d%d&quot;a)<br />       {<br />           S=sum(a;,c),int b,i;/stdio.h&gt;函数类型要改为double,S;i++)<br />   {<br />       scanf(&quot.h&gt;/<br />    S=sqrt(s*(s-a)*(s-b)*(s-c));;);b&&b+c&gt;-1&quot,b.0;/%,c,n;<br />   scanf(&quot;<br />#include &lt;<br />    return S#include &lt;%d&quot，结果肯定会有错的;c&&a+c&gt，结果肯定会有错的;<br />       }<br />       else<br />        printf(&quot,&b,&a,int b，否则返回值是整形,int c) &#47，否则返回值是整形;math;<br />   for(i=0;<br />   double S,&n);<br />    s=(a+b+c)/2;;<br />       if(a+b&gt;i&lt;<br />   }<br />   return 0;n，<br />{<br />    double s;<br />double sum(int a,b
+1
+none
+http://zhidao.baidu.com/question/530077101.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90203555.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/56539128.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/52885990.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241741522772179404.html?qbl=relate_question_4

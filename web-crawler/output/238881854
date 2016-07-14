@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言double2&#47;5等于多少
+none
+<br />然后把整形的0赋给double型变量.4.0;<br />或者<br />double a = ((double)2) /5的话,2&#47,实际上是0;5.<br /><br />如果需要得到0,可以这样.<br />因为2和5都是整形.0&#47,变成double型的0:<br />double a = 2,做除法是按照整形的除法规则,做隐式转换;5=0如果你写成double a = 2/ 5
+6
+none
+http://zhidao.baidu.com/question/2051762139511082547.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/559839523881663084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/516315546.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/573317620.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/525290482.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：从键盘输入n个整数并放到数组x中，编写一个函数，它将数组x中的元素颠倒后仍然存放在原数组中。
+none
+fail
+0
+<p>这个可以用指针来完成，具体的代码如下：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br /><br />void&nbsp;reversal(&nbsp;int&nbsp;*p,&nbsp;int&nbsp;n)<br />{<br />/*&nbsp;<br />用来将一个长度为n的数组中的元素颠倒<br />*/<br />	int&nbsp;i,j,tmp;<br />	i&nbsp;=&nbsp;0;<br />	j&nbsp;=&nbsp;n&nbsp;-&nbsp;1;<br />	while(i&nbsp;&lt;&nbsp;j)<br />	{<br />		tmp&nbsp;=&nbsp;p[j];<br />		p[j--]&nbsp;=&nbsp;p[i];<br />		p[i++]&nbsp;=&nbsp;tmp;<br />	}<br />}<br /><br />int&nbsp;main(void)<br />{<br />	int&nbsp;x[1000];<br />	int&nbsp;n;<br />	int&nbsp;i;<br />	printf(&quot;请输入n(n&nbsp;&lt;&nbsp;1000):&quot;);<br />	scanf(&quot;%d&quot;,&amp;n);<br />	printf(&quot;请输入%d个整数：&quot;,n);<br />	for(i&nbsp;=&nbsp;0;&nbsp;i&nbsp;&lt;&nbsp;n;&nbsp;i++)<br />		scanf(&quot;%d&quot;,&amp;x[i]);<br />	reversal(x,n);<br />	printf(&quot;颠倒后的数组为：&quot;);<br />	for(i&nbsp;=&nbsp;0;&nbsp;i&nbsp;&lt;&nbsp;n;&nbsp;i++)<br />		printf(&quot;%d&nbsp;&quot;,x[i]);<br />	putchar(&#39;\n&#39;);<br />}</pre><p>reversal即用来执行将数组颠倒的功能。<br /></p>
+http://zhidao.baidu.com/question/262205592.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148452352.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/204359454.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/288181934.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/125539888.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题while（）循环问题
+)<br />  {<br />  printf(&quot：&quot:&quot:%4d&#92;;请输入FibonacciNumbers序号;能够进行正常的循环;||m==&#39;Y&#39;);  <br /> &#47,&n);<br /><br />#include &lt;;getchar();string;n&quot;stdio;<br />     y=Fib(n)，如果将这句去掉则不执行循环&#47.h&gt;y&#39;;<br />     printf(&quot，这是为什么;<br />     scanf(&quot;<br />  char m=&#39;<br /> m=getchar();=1)<br />  return n.h&gt,y);<br />  else<br />  return Fib(n-1)+Fib(n-2);N）;<br /> <br />  while(m==&#39;&#47; <br /> printf(&quot;y&#39,n：如果次程序加上注释的这句getchar(),y;计算FibonacciNumbers<br />#include &lt;第%d个FibonacciNumbers为;%d&quot;);<br />}<br />void main()<br />{ int n;<br />  }  <br />  <br />} <br />问题？请高手解答;&#47;是否继续（Y&#47;<br /><br />Fib(int n)<br />{<br />  if(n&lt
+如果没有你注释的getchar()，scanf把这个数读入到n里了因为你用scanf读入了一个数，把回车留在输入缓冲区了，所以不加就不对;下次用m=getchar();读入的就是上次留在缓冲区的回车符，这样m就不等于Y或者y了，你输入了一个数和一个回车
+2
+none
+http://zhidao.baidu.com/question/258848941.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/114456275.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/77069946.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/511146183.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/559682015.html?qbl=relate_question_4

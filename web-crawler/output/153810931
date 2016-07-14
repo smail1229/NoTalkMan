@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个问题，C语言，一个关于头文件重复定义的问题！！！？？
+ 编译它们不是各自用一个内存吗，   因为里面只有声明和宏，那么我多个文件引用这个头文件？<br /><br />   2 如果那样 #ifndef --#endif间一般只能包哪些语句 ，代码如下.h不能定义全局变量：   <br />  #ifndef   _GLOBLE_H   <br />  #define   _GLOBLE_H   <br />  int   a;   <br />  int   b。   <br />  大家能看懂表述吗;   <br />  int   c我在程序中建立一个globle，为什么还会出现这样的问题，我查资料说，  请求帮助.c以文件引用他，并没定义变量啊，怎么解决，可是我已经加入了#ifndef这样的语句(按理说它不会被重复定义)，头文件要是没有#ifndef --#endif为什么会出现重复包含错误呢，编译的时候说变量重复定义.h文件;   <br />  #endif   <br />  1 有多个，声明是可以在多文件中定义的。是声明和宏两种吗
+h<br /><br />那么对a编译的时候.c两个文件 都包含了globle.是链接出错吧<br /><br />不知道你有没有手工编写过makefile<br /><br />这么说吧  C语言的编译过程分为编译和链接<br /><br />编译之前有一个预处理<br /><br />编译的最小单位是单个文件<br /><br />也就说预处理的最小单位也是单个文件<br /><br />假设工程中有 a.c  b, globle只包含一次 生成的 a;cpp文件中只包含一次<br /><br />这样在object中就会有多个相同命名的变量被包含进去<br /><br />链接的时候就会出错<br /><br />出错不会出现在编译过程中的<br /><br />2.o 中包含了 a_s32 b_s32(即你定义的变量)<br /><br />对b编译的时候同样会包含globle.h 而且只包含一次<br /><br />所谓只包含一次 是在单个c&#471
+5
+none
+http://zhidao.baidu.com/question/131426210.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/4918867.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/447409521.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/584190169.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/180222543.html?qbl=relate_question_4

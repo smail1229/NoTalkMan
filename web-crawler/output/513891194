@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+为表示“a和b都不等于0”，应使用的C语言表达式是（ ）。
+为表示“a和b都不等于0”，应使用的C语言表达式是（ ）。 <br /> A）（a!=0）珐础粹飞诔读达嫂惮讥 || （b!=0）<br /> B）a || b<br /> C）!（a=0）&&（b!=0）<br /> D）a && b<br /> <br />顺便求解释，谢谢大神们
+C，!(a=0)就是将a=0的结果取非，当a不等于0事，a=0的结果应该是0，在前面加个珐础粹飞诔读达嫂惮讥!表示非0.<br />b!=0就不用解析了吧？<br />不懂可以追问
+7
+none
+http://zhidao.baidu.com/question/409653066.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/56367563.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/30772560.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/409099006.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/498466312.html?qbl=relate_question_4

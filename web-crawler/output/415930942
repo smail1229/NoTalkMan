@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言输入一行字符串,如何统计其中的字母和数字的个数
+none
+=48)&&(c[i]&lt; &#47。希望你帮到你;;<br />void main()<br />{<br />    int num_data = 0;<br />    elseif( ((c[i]&gt，绝对可行;=122)) )  &#47,num_char); 若是一个数字<br />        num_data ++;100;/<br />  for(i=0;=90)) || ((c[i]&gt; 若是一个字母<br />       num_char ++，还验证了一遍; / 输入字符串保存<br />   scanf(&quot;r&#92;/ 打印出字符串中数字的个数<br />  printf(&quot; 循环变量<br />  char c[100]; 打印数字符串中字母的个数<br />}<br /><br />一字一字敲的;&#47,num_data);n&quot; 用于记录输入字符串中的数字个数<br />  int num_char = 0;r&#92;//  /The data number = %d&#92;  /<br />  }  <br />  printf(&quot; 用于记录输入字符串中的字母个数<br />  int i;                     //=57))           /n&quot;i&lt;/The char number = %d&#92;;/         &#47,c);=97)&&(c[i]&lt;%s&quot;=65)&&(c[i]&lt;;i++)<br />  {<br />    if((c[i]&gt.h&gt;stdio#include&lt
+92
+用下面的循环加判断就可以统计其中的字母和数字的个数：<br />int i,zm=0,sz=0;<br />char s[200];<br />gets(s);<br />for(i=0;s[i];i++)<br />{<br /> if(s[i]&gt;=&#39;A&#39;&&s[i]&lt;=&#39;Z&#39;||s[i]&gt;=&#39;a&#39;&&s[i]=&#39;z&#39;)zm++;<br />  else if(s[i]&gt;=&#39;0&#39;&&s[i]=&#39;9&#39;)sz++;<br />}<br />printf(&quot;共有字母%d  数字%d&#92;n&quot;,zm,sz);
+http://zhidao.baidu.com/question/18085894.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/28462019.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153837977.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143532940.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/240038548.html?qbl=relate_question_4

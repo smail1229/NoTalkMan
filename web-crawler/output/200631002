@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程中计算闰年的一个算法：year%4==0&&year%100!=0||year%400==0跟year%4==0||year%400==0&&year%10
+none
+你后面这个语句没写完吧，或者可以整除400<br />  等等!=0||year%400==0  可以整除4并且不能整除100 或者可以整除400<br />拆分year%4==0||year%400==0&&year%10   可以整除4这很简单嘛<br /> 拆分year%4==0&&year%100
+3
+none
+http://zhidao.baidu.com/question/295733390.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/503175905.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/334688803.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/584298858.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/401081040.html?qbl=relate_question_4

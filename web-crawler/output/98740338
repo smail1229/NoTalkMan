@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中测试字符串长度的函数
+none
+&&c&lt，如果不是输入了0对应的ascii码值48;=&#39;=&#39;&&c&lt;&lt;&lt;A&#39;z&#39，所以a条件总是成立;Z&#39;A&#39。而你的条件c&&(&#39;&&&#39;=&#39;A&#39;z&#39;=&#39;&&&#39;=&#39，那也永远是真;||c&gt;))后半部分（&#39;&lt;Z&#39，因为a和A永远都比z和Z小呀;=&#39;=&#39，a的值才执行++操作;a&#39。前半部分的c是你输入的值;))返回值永远都是真你的if中的条件写的有问题;&lt，a总是++;z&#39;=&#39，应改为<br />if(c&gt;Z&#39;)<br />这样说明只有你输入的是字母时;a&#39;a&#39
+14
+<p>C语言中测试字符串长度的函数是strlen()</p><p>函数原型：&nbsp;</p><pre t="code" l="cpp">unsigned&nbsp;int&nbsp;strlen&nbsp;(char&nbsp;*s);</pre><p>头文件：<br /></p><pre t="code" l="cpp">#include&nbsp;&lt;string.h&gt;</pre><p>参数说明：s为指定的字符串；</p><p>功能说明：strlen()用来计算指定的字符串s 的长度，不包括结束字符&#39;\0&#39;；</p><p>返回值：返回字符串s 的字符数;</p><p>注意：strlen() 函数计算的是字符串的实际长度，遇到第一个&#39;\0&#39;结束。</p><p>示例：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />#include&lt;string.h&gt;<br />int&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;char&nbsp;str[]&nbsp;=&nbsp;&quot;abcxyz&quot;;<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;strlen(str)=%d\n&quot;,&nbsp;strlen(str1));<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}<br />//输出结果:strlen(str)=6</pre>
+http://zhidao.baidu.com/question/5817432.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223175025.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/13127241.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/14253950.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/298937368.html?qbl=relate_question_4

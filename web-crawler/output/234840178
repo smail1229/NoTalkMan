@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中while(&quot;printf(&quot;*&quot;)&quot;)是什么意思?
+none
+fail
+0
+有语法错误把<br />多了个引号，应该是<br />while(printf(&quot;*&quot;))<br /><br />printf函数的返回值是所打印的字符数，这里打印*，所以while条件总为真，如果函数只有这么一个语句，那么就是不停的打印*。如果while循环里面有别的语句，可能就是反复循环执行里面的语句，并且每执行一次就打印一个*。<br />比如：<br />int i=0;<br />while(printf(&quot;*&quot;))<br />{<br />    print(&quot;%d&quot;,i);<br />   i++;<br />   if (i&gt;4)<br />      break;    <br />}<br /><br />这样打印出来的就是*1*2*3*4*5
+http://zhidao.baidu.com/question/219549840.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/211201199.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/469759037.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/437591592.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言编程中10的n次方怎么表示
+none
+pow(10,n)
+8
+在C语言中并没有直接的乘方计算符号，不过有库函数pow可以达到该目的。<br /><br />pow函数形式为<br />double pow(double a, double n);<br />要调用该函数需要<br /><br />#include &lt;math.h&gt;<br />功能为计算a的n次方值并返回。<br />于是10的n次方可以写作<br />pow(10, n);
+http://zhidao.baidu.com/question/17941413.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/384984193.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/216383963.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/309987080.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/553969498.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 设 int a[]={1,2,3,4,5}, *p=a 则数组元素的正确表示是（）
+5},3,4.&(a+1)    CC语言中 设 int a[]={1,2, *p=a 则数组元素的正确表示是（）  A.a[2]     B.a[5]   D
+a[2]   是数组a中第三个元素<br />&(a+1) 是数组a中第二个元素的地址<br />a[5]   没有这个元素 下标越界<br />&p     是指针p的地址<br /><br />选A
+1
+none
+http://zhidao.baidu.com/question/711540673503094725.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/272818491.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1110085495792772939.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/519478998290315965.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/428885126.html?qbl=relate_question_4

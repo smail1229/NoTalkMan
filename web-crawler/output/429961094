@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中x为整型变量，表达式!(!x)与x!=0的值完全相同吗？
+none
+两者完全相同：<br />当x不为0时， (!x )为假 而!(!x)则为直    同时， x!=0 为真   <br珐场粹渡诔盗达醛惮互 />而当x为0时， !x为真而 !(!x)为假， 同时， x!=0 为假<br />故两者完全相同。
+0
+none
+http://zhidao.baidu.com/question/1301919295207372899.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/81500492.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/209362655.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1701740035522079460.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/305530831.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言float单精度类型的问题
+%f&#92;<br />void main()<br />{<br /> float g.0里运行没有检查到错误和警告;<br /> printf(&quot;;<br />}<br />这段代码在C++6;stdio,g)，我在学习C语言.585f.585<br />是不是编译器的问题.h&gt#include&lt;n&quot;<br /> g=25，改用什么编译器比较好，但输出的结果不是25
+<br /><br />linux版本推荐使用 ubuntu 7以上到版本.3的结果是25。<br /><br />------------------<br />不加 0。;<br />int main (void)<br />{<br />  float g,g).<br /><br />学习C语言 最好使用linux 下的VIM来学习;0;<br />}<br /><br />另外使用gcc 的编译文件的时候 建议开启Wall 报错警告。<br /><br />建议<br />#include &lt。。我家里用的是 9;n&quot。个人不太喜欢复制粘贴 呵呵。;<br />  g = 25.585。<br /><br />VIM 可以通过 新德立 软件来安装。.h&gt！;<br /><br />  return 0。.584999 和加不加f没关系。;<br />}<br /><br />运行的结果就是 25;stdio,这个需要你取一个小数点位数就精确了.10for amd 64 #include &lt。（个人例外）<br />gcc -Wall 1;stdio;*OR int main (void)*/<br />int main (int argc,GUI比较人性化 适合新手来操作。。.，。<br /><br />关于使用方法更多可以参考论坛.3%f&#92,char *argv[])  &#47。一般警告为空才算合格。VC和turo c 等其他软件在考试中比较常用;<br />{<br />  return 0。<br /><br />关于你到编码风格 希望看以下有关的书籍;;<br />  printf(&quot.h&gt。对于学习来说存在许多BUG。<br /><br />不太建议使用非标准C编写形式。<br /><br />GCC是系统自带的.c -o 1<br /><br />---------------<br />以上纯属个人经验之谈 希望对你会有帮助。。。。<br /><br />编译器当然非gcc 莫属了.585
+9
+none
+http://zhidao.baidu.com/question/569501010.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/185268804.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/249882919.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/109731224.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/93691025.html?qbl=relate_question_4

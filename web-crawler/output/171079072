@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中return 涵义
+？！最好打个比方？好像没有它也不影响啊！但运行时怎么又有影响？<br />请高手用通俗语言教导一下return具体什么涵义
+不是必须的（不过return比goto更清晰。但是对于非void返回类型的函数，如果没有return。在C语言中，return后面可以跟随一个表达式返回，可以用goto跳转到函数末尾来实现，return只是语法糖，所以return是不可却缺少的语言关键字，这是确定函数（返回）值的唯一方法，编译器会自动实现清理堆栈的代码（相当于函数末尾隐含了return）。例如；因此，再在函数中修改它的值，从一个函数中立即退出，函数返回值是不使用静态存储期对象进行跨函数传递（准确地说是输出）状态的唯一手段，通过这个变量来得到结果，合理利用函数返回值是适用C语言的必要的技能，如果要定义一个运算函数f(x)。对于void返回类型函数来说，f(x)的函数值就是结果——而不需要去定义静态或全局变量return会截断函数的控制流，而且不需要定义标号），那么结果通过返回值来表示就是最自然的
+3
+none
+http://zhidao.baidu.com/question/13189048.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/918426942026270739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/487266165.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/710521900219008885.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/148724561.html?qbl=relate_question_4

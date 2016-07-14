@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的static
+能不能讲得通俗点，可是我的嵌入式有那么多块？还有内部函数？static只在一个文件中有效，到底是指在哪里用呢C语言中的static是如何用的啊
+一个被声明为静态的变量可以被模块内所有函数访问。那就是。3，一个被声明为静态的函数只可被这一模块内的其它函数调用、在模块内，一个被声明为静态的变量在这一函数被调用过程中维持其值不变，但不能被模块外其它函数访问。它是一个本地的全局变量、 在模块内（但在函数体外）。2、在函数体:1static作用
+4
+none
+http://zhidao.baidu.com/question/237961868.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154363181.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245356234.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/55201659.html?qbl=relate_question_3

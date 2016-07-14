@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+麻烦帮我看看这个C语言程序吧！解释一下。（有些地方详细点）谢谢
+i;stdio;   <br /> } } }<br /> void main()<br /> {FILE *fp;x[k]) k=j;    <br />  fp=fopen(&quot;这句<br />   if(k;    <br /> x[i]=x[k],&quot;w&quot;i&lt,t;j++)  <br />  if(x[j]&gt;10;这句<br />  int *p; <br />printf(&quot;这句        <br /> fprintf(fp,a[10]; <br />for(i=0,*p);p++) <br /> {  printf(&quot;    &#47,k,&quot;这句                <br />     p=a.h&gt;  &#47; 这句<br />{ int i;i++)<br /> {  k=i;p9_1,p++);     &#47;i&lt; <br />for(i=0;n-1;%d&quot;;这句<br /> for(;%d &quot;;  }      <br />   system(&quot;    &#47;  for(j=i+1;  <br />    fclose(fp),10);<br /> p=a;<br /> sort(p;%d &quot;<br /> void sort(int *x;j&lt;).out&quot#include&lt;;);;i++) <br /> scanf(&quot;n;a+10,int n)  &#47:&quot;);p&lt!=i)    &#47;    <br /> x[k]=t;Input 10 numbers;pause&quot;这句<br />  {     t=x[i],j,*p);       &#47
+int n)  /  /;<br /> sort(p;;如果数组后一个元素大于下标为k的元素;       /  <br />    fclose(fp); <br />printf(&quot;<br /> p=a。<br />#include&lt.out&quot;w&quot,&quot;a+10，并对数组进行从大到小排序;Input 10 numbers，那么进行数组元素交换<br />  {     t=x[i];以写方式打开p9_1,j,&quot,t,*p);对数值进行排序<br /> for(,a[10];     /如果数组下标改变了;j++)  <br />  if(x[j]&gt;);;/j&lt;   <br /> } } }<br /> void main()<br /> {FILE *fp;/;/x[k]) k=j，将数组下标赋值给k;  for(j=i+1;&#47.h&gt.out文件;%d &quot;i&lt;%d&quot，然后在屏幕输出排序之后的元素;数组排序函数<br />{ int i;    &#47,k;<br /> void sort(int *x;i++) <br /> scanf(&quot!=i)    /n; <br />for(i=0;%d &quot，同时将数组元素写入文件中,*p);i++)<br /> {  k=i; <br />for(i=0;  }      <br />   system(&quot;&#47:&quot;p9_1，k始终保持最大的数组元素下标<br />   if(k;10,i;/    <br /> x[i]=x[k];声明一个文件指针变量<br />  int *p;    <br />  fp=fopen(&quot;p++) <br /> {  printf(&quot,p++);n-1;p&lt总体实现功能是输入一个数组;    <br /> x[k]=t，文件指针为fp<br />     p=a;););i&lt;pause&quot,10);输出数组元素<br /> fprintf(fp;    //stdio
+0
+none
+http://zhidao.baidu.com/question/94439511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/26281836.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/186729890.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239644388239038364.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/7773213.html?qbl=relate_question_4

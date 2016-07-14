@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言主函数后面的的括号里的参数是什么意思？
+none
+int argc , 参数的个数<br />char *argv[] 参数的值
+8
+<ol><li><p>很多书上的main函数都会带有参数：main (int argc,char *argv[]) ，第一个参数是一个整型变量，第二个参数是一个指向字符串的指针数组</p></li><li><p>这些参数由操作系统来调用，并给它们赋值。</p><p>现在的操作系统都是图形化的，参数的调用基本都隐藏起来，不过可以借助DOS来理解：</p><p>在DOS操作系统中输入这样的命令：C:&gt;可执行文件名 参数参数……;&nbsp;</p><p>操作系统调用C语言的程序也是这样调用的。第一个参数argc代表命令中参数的个数，文件名也算上。argv就是存储这些参数的。</p></li></ol>
+http://zhidao.baidu.com/question/153923984.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184599783.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/32008568.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/192935043.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/504673978.html?qbl=relate_question_4

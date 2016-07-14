@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题1、 编制程序：对键盘输入的字符串进行逆序，逆序后的字符串仍然保留在原来字符数组中，最后输出
+（不得调用任何字符串处理函数，逆序后的字符串仍然保留在原来字符数组中、 编制程序，最后输出：对键盘输入的字符串进行逆序1
+最多19个字符<br /> int n;Before;}<br />printf(&quot, str), 20);<br />        scanf(&quot;i++)<br /> {<br />  tmp=str[i],c;;After ;2;;stdio;<br /> return 0, 0;%d&quot;memory;<br /> fflush(stdin);/0&#39;2;<br /> half=n/str[i];<br />int main(int argc;p/<br />gets(str)!=&#39;<br />j=j-1;<br /> for(i=0;/,p.h&gt;<br />#include &lt;stdio;a[i]=a[j-1];<br />  str[i]=str[n-i];<br /> }<br /> <br /> printf(&quot;<br />} <br /><br />或<br /><br />#include&lt, str);=half: %s&#92;C语言的;i++)<br />{c=a[i];<br /> char tmp;i&lt,half.h&gt;&#92;<br />        memset(str;<br />  str[n-i]=tmp;<br />for(i=-;n&quot: %s&#92;/i++)<br />j++，VC2005通过<br />#include &lt;%s&quot;<br />int i;;<br />for(i=0;<br /> printf(&quot;<br /> n=strlen(str)-1,j=0.h&gt;<br />main()<br />{<br />char str[80], str);<br /> getch();i&lt;n&quot;,i, char *argv[])<br />{<br /> char str [20]&#47,a[i])
+5
+none
+http://zhidao.baidu.com/question/345914740.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/545778849.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/123216501.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/348292336.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1175521562967542339.html?qbl=relate_question_4

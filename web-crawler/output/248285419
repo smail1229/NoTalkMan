@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言,函数中如何返回二维数组,用return和不用return两种方法?
+none
+return 就直接返回可以了<br />不用return 就将二维数组的指针或者引用作为参数
+7
+数组在作为函数返回值或者函数参数时，实际上只作为指针来返回或者传递的。因此返回值用指针数据类型。比如下面的代码：int g_a[4] = {1,2,3,4};<br />int * retn_arrary() &#47;&#47;返回值用指针类型即要。<br />{<br />return g_a; <br />}
+http://zhidao.baidu.com/question/147614847.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/982964612995123859.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116057687.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/344925464.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/33529034.html?qbl=relate_question_4

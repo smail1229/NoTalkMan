@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，（p为一个指针），语句if(!p)是什么意思？能给一个简单例子吗？
+none
+NULL：p的值为0；<br />如果p的值不是0！p的判定为假<br />现在一个指针，，<br />如果p的值为0！p判定为真，，即，！p的判定为假<br />如果指针没有内容，，即！p判定为真，指针有内容：p的值不是0！p意思就是 非p
+10
+none
+http://zhidao.baidu.com/question/85007415.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/227854078.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/501043047.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/394234130.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/431455040056285124.html?qbl=relate_question_4

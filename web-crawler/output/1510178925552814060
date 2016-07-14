@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int（）的括号里还带有指针是什么意思
+. *&#47，还有双指针;<br /> &#47, and returns the size of the array (in ints)。为什么是const char。。。, no memory is allocated and numberparse returns 0。;<br />请问int后面的括号里的是什么意思. * In all other cases。;* If preprocessed corresponds exactly to a preprocessed number * it allocates just enough memory to hold the original number as an array of ints * undoes the preprocessing, int **original)int numberparse(const char *preprocessed, stores it in the newly allocated memory pointed to * by *original。。
+const char* 表示常量字符串，比如“hello world”，双指针表示指针的指针就是调用函数是传入的参数
+0
+none
+http://zhidao.baidu.com/question/82625264.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/251452677.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/33230910.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/415428516.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/145747403.html?qbl=relate_question_4

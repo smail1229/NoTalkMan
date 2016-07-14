@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言输出星号图案
+none
+<br />}<br /><br />用不上数组吧;stdio;i++)<br /> {<br />  for(k=0;*&quot;<br />  }<br />  printf(&quot;<br />void main()<br />{<br /> int i;5;n&quot;j++)<br />  {<br />   printf(&quot;5,j;j&lt;);<br />  }<br />  for(j=0,k;&#92;n&quot;);i-k&gt.h&quot;i&lt;0;&#92;k++)<br />  {<br />   printf(&quot;<br /> }<br /> printf(&quot;n&#92;  &quot;);)？#include &quot;<br /> for(i=0
+1
+<p>输出星号，主要是锻炼我们使用循环语句的能力。根据图形的规律，研究出循环方法和控制条件，进而编写代码，输出结果，参考代码和运行结果如下：</p><p><a href="http://c.hiphotos.baidu.com/zhidao/pic/item/adaf2edda3cc7cd92f43d07a3f01213fb80e9123.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://c.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=874c4459d7c8a786be7f42085739e505/adaf2edda3cc7cd92f43d07a3f01213fb80e9123.jpg" esrc="http://c.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=dd6db69acf3d70cf4cafa209cdecfd36/adaf2edda3cc7cd92f43d07a3f01213fb80e9123.jpg" /></a></p><p><br /></p><p>本代码，可以输出任意高度的图形</p><p>do {} while();循环是用来控制测试笔数的，当输入数值小于等于0时，结束测试</p>
+http://zhidao.baidu.com/question/148942036.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143992271.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/411717291.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/336515743.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/687569292836235644.html?qbl=relate_question_4

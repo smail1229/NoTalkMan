@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：这道题应该怎么做呢？我大概结构明白可是还是有些问题...跪谢~~~~
+%d&quot，10;0&#39,b[i]);i++)    <br /> (b[i+1]=a[i]，12，2,8，18,4;;<br /> printf(&quot,2};<br /> int i=0,&index);10;<br /> int b[20];)<br /> {if(index&gt，4;<br /> while(a;*p)<br /> for(i=0;;<br /> int index，要求按原来的排序规律插入 <br /><br />#include&lt,10;).h&gt,6;&#92;<br />main()<br />{int a[20]={20，16;%d&quot;i&lt,18;i++)<br /> printf(&quot;stdio;<br /> p=a，8;10;<br /> int *p,14，14!=&#39;)<br /> }<br /><br />for(i=0，6;i&lt;<br /> scanf(&quot,16，现要求将键盘输入的一个数插入到该数组中;请输入一个数&quot,12若已有按降序排列的数20
+a[j]) {p=j;&#92,4,a[11]={20。后移应从后向前进行(从a[9]开始到a[i]为止); <br />break，应首先确定排序是从大到小还是从小到大进行的,16;i&lt，结果是把n赋于a[10];j++) <br />if(q&lt;%d &quot;=i; <br />scanf(&quot;a[i]) <br />{for(s=9;ninput number; <br />printf(&quot，当找到第一个比插入数小的元素i时。此时i=10,12;i&lt。 后移结束跳出外循环。再用一个for语句把n和数组元素逐个比较;q=a[i];10;i++) <br />printf(&quot;%d&quot【例】把一个整数按大小顺序插入已排好序的数组中;q=a[j]。插入点为i,18;),p;i++) <br />{ p=i;。如果被插入数比所有的元素值都小则插入最后位置,a[i]),14; <br />for(i=0。最后一个循环输出插入数后的数组各元素值,6;n&quot,j;),n;&#92，则并未进行过后移工作。 <br /><br />#include&lt;a[i]时; <br />} <br />printf(&quot; <br />a[p]=s。然后输入要插入的整数n;stdio,2}，如果发现有n&gt.h&gt。然后从数组最后一个元素开始到该元素为止; <br />} <br />printf(&quot。最后把插入数赋予元素i即可;n&quot; <br />for(i=0;10;,s;s--) a[s+1]=a[s],10:&#92。 如所有的元素均大于被插入数，逐个后移一个单元;10，则可把欲插入的数与数组中各数逐个比较; <br />for(j=i+1。 <br />为了把一个数按大小插入已排好序的数组中，该元素之前即为插入位置，把n赋予a[i]即可;%d &quot;} <br />if(p，则由一个内循环把i以下各元素值顺次后移一个单元;j&lt,&n),q; <br />}<br /><br />本程序首先对数组a中的10个数从大到小排序并输出排序结果;; <br />a[i]=a[p]; <br />void main() <br />{ <br />int i;s&gt;=10,8;} <br />a[i]=n;i++) <br />if(n&gt!=i) <br />{ <br />s=a[i];i&lt; <br />for(i=0,a[i])。设排序是从大到小进序的
+3
+none
+http://zhidao.baidu.com/question/174734161.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/424269021074911652.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/432472845.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/50768033.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/42444097.html?qbl=relate_question_4

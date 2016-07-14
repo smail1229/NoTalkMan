@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中自定义函数与系统函数的区别
+C语言中自定义函数与系统函数的区别，作为问答题怎么回答呀。越详细越好~
+所以在实现的过程中不用可以放宽条件，可移植的，它作为一个外部函数可以被所以包含它头文件的文件中使用系统函数是包含在系统头文件中的函数。<br />4 自定义函数的函数在main函数之前必须被声明。<br />2 自定义函数可以只为自己的使用考虑;  #include &lt。<br />自定义函数 包含在自己创建的文件中。<br /><br />1 位置上，自定义在本工程的文件夹下 。<br />3 实现的静态自定义函数只能在实现它的文件中使用;&gt;&quot，在使用时包含该文件;的区别：系统在系统默认的位置。比如#include &quot。（static除外）。库文件中的函数多数是与系统无关的
+3
+none
+http://zhidao.baidu.com/question/119194476.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/534512047.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182720540.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/153025554.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/103610917.html?qbl=relate_question_4

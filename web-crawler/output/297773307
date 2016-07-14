@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中switch语句中如果漏掉break，哪它的执行过程会怎样？？举例说明、
+none
+<br />	 case 2;<br />   return 0: a=a+2;按照实际要求应该是输出2的:a=a+1#include&lt;%d&quot,a);<br />	 default;,&a);<br />}<br />例如这个;<br />	 switch(a)<br />	 {<br />	 case 1;<br />int main()<br />{<br />     int a;<br />	 }<br />	 printf(&quot;%d&#92;n&quot，但是没写break后;,然后又进入default，你输入1，a从case 1里没跳出switch，使得a=2进入case 2,a=3,a=5,最后就输出5了(如果写了break;stdio:a=a+1;<br />     scanf(&quot.h&gt
+6
+none
+http://zhidao.baidu.com/question/303294806.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/236701076.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240803025.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/359934069.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/550449048.html?qbl=relate_question_4

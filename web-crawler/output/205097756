@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言语句：“char ch=&#39;&#92;72&#39;”表示什么？
+none
+事实上这是一个冒号;的表达形式;而不是ch=&#39;072’，还可以用ch=‘&#92;72&#39。<br />若要将十进制ASCII值为72的字符赋值给ch，所有其中任何一个数字都不会超过7;&#92，当然这种表示法由于是八进制的;;72&#39;表示定义字符型变量ch并赋初值为ASCII值为八进制数72;&#92，应是ch=72，也就是十进制ASCII值为58的字符;！<br />char ch=&#39楼上的解答有误
+21
+char ch = &#39;&#92;72&#39;;<br />其含义为定义一个字符型变量ch，其初始化值为常量字符&#39;&#92;72&#39;。<br />&#39;&#92;72&#39;是一个转义字符，当&#92;后面跟数字时，是字符的8进制表示，类似于常量中的0开头表示法。<br />即&#39;&#92;72&#39;是ascii码值为072的字符，其十进制为58,16进制为0x3A。<br />查询ascii码表可以知道，该值对应的字符为英文半角的冒号:。<br />于是这句就等同于<br />char ch = &#39;:&#39;;
+http://zhidao.baidu.com/question/249413959.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/220677149.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/358682809.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22189866.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532129921.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+perl语言，将一个关联数组加入到数组中
+正确的方式应该是怎样perl语言，我想把它加入到数组第一个, %list)，它会把关联数组的键值对均作为一个成员加入;其中%list为关联数组，这样进不正确，将一个关联数组加入到数组中，unshift(@queue
+这要用到引用，建议你看下Perl引用的章节 push @queue, &#92;%list <br />同意2楼的做法
+1
+none
+http://zhidao.baidu.com/question/168128423.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/486677277.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92696627.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/112742570.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/97421481.html?qbl=relate_question_4

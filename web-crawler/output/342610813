@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 统计数组每个元素个数
+然后统计该数组中每个元素出现的次数，作为一个数组，并输出，请教这个程序该如何写用C语言产生100个随机数
+这样效果明显;i++)<br />	{<br />		a[i]=rand()%21;100;/   /100，则打印其值和出现次数<br />			printf(&quot我没有随机种子函数。所产生的随机数的范围你可以改变;产生0~20的随机数<br />		b[i]=1,j=1;/i&lt;未统计<br />		printf(&quot,c[100]={0};/<br />	for(i=0;;若相等<br />				{<br />					c[i]++，1未统计;n&quot:%5d 出现 %3d次&#92;j&lt，0已统计<br />	/<br />#include&lt;100;/次数加1<br />			for(j=i+1;);c数组放对应a数组中随机数出现的次数<br />	for(i=0;i&lt;/ /j++)///&#47,j;%5d&quot;/  /%3d;i&lt,a[i]);i++)<br />	{<br />		if(b[i])  &#47。<br />#include&lt,a[i],i;stdlib;   //;若a[i]未被统计<br />		{<br />			c[i]++;一行打印10个数<br />			printf(&quot;&#47.h&gt;n&quot;<br />	/<br />main()<br />{<br />	int a[100];100.h&gt;<br />	}<br />	printf(&quot;n&quot;a数组放随机数<br />	/stdio;&#92;);b数组放是否被统计的标志;/i++)<br />	{<br />		if(c[i])  &#47,c[i]);&#47,b[100];&#92;改为已统计<br />				}<br />		}<br />	}<br />	for(i=0;从下一个开始向后查找<br />				if(a[j]==a[i]) //则次数增1<br />					b[j]=0;/若某随机数出现了,j++;/打印a数组的值<br />		if((i+1)%10==0)     &#47
+11
+none
+http://zhidao.baidu.com/question/132916507.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/560476235.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/187071815.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/55248207.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100573871.html?qbl=relate_question_4

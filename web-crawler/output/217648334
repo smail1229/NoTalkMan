@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中下面程序的解说？ int x=4,y=25,z=2; z=(--y&#47;++x)*z--; printf(&quot;%d&quot;,z);
+就是不清楚--y和z--是什么意思
+是自增自减运算符，不知这样你明白不，如果是y--.才参加运算，++就是自加一，表示y的值减少一，也依上面的方法算。同样，即24，表示y的值先运算了再减一，如果是--y
+3
+none
+http://zhidao.baidu.com/question/104377866.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/534414580.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/399223266.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/81425316.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/425223527419522612.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：有语句int x=5; 则执行语句x+=x*=10;后，a的值是？计算顺序是怎样的？怎么计算？
+none
+结果x=100<br />从右向左算，先x=x*10=50,后x=x+x=100
+3
+none
+http://zhidao.baidu.com/question/529804996.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/279023988.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149924953.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/433620760.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/384941986.html?qbl=relate_question_4

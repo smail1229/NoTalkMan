@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 二维数组 设计一程序，输入一个五行五列的矩阵，计算并显示输出该矩阵四周那一圈元素的合计值
+n&quot;size;size;#include &lt,sum=0;; i++)    {        for(j=0;    }    return 0.h&gt; j++)            printf(&quot; i&lt;    for(i=0;#define size 5<br />int main(){    int a[size][size];        printf(&quot; i++)            for(j=0; i&lt;size;&#92;        for(i=0;%d&quot; i++)        for(j=0;);size; i&lt.h&gt;    int i;size,sum);stdlib;    for(i=0; j&lt;; j++)            scanf(&quot; j++)                if(i==0||j==0||j==size-1||i==size-1)                    sum+=a[i][j];,a[i][j]);size;n&quot; i&lt;sum=%5d&#92; j&lt;stdio;        printf(&quot;%5d&quot,j,&a[i][j])#include &lt
+fail
+2
+none
+http://zhidao.baidu.com/question/95322154.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/344398377.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/199454034.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/346438229.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/413366003.html?qbl=relate_question_4

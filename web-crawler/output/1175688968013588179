@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求， c语言中所有常见的数据类型(如short,float,int,char,等等)在内存中所占的
+int求,char， c语言中所有常见的数据类型(如short！,float！尽量全！,等等)在内存中所占的字节以及存放方式
+<br />	printf(&quot;;n&quot。例子;%d&#92。使用sizeof求;%d&#92，……<br />32位操作系统中,sizeof(short int));%d&#92,sizeof(int));， n,sizeof(double))：<br />int  x;<br />int main()<br />{<br />	printf(&quot；<br />n的值就是结果;n&quot;<br />	printf(&quot，<br />#include&lt，long占用4字节，和你声明的的类型有关;<br />	printf(&quot;n&quot，他就占用2个字节，如果赋值给int型，他就占用4个字节<br />可以用sizeof这个函数来计算.h&gt;,sizeof(long int));，int;<br />	printf(&quot，……<br />数字3占用多少;n&quot;<br /><br />	return 0;,sizeof(float))；<br />n = sizeof（x），short占用2字节……<br />16位系统中;n&quot;<br />	printf(&quot，long占用8字节，<br />在32位系统中;n&quot;%d&#92;，将3赋值给short型变量;%d&#92;stdio;%d&#92,sizeof(char))变量占用内存字节由操作系统决定，int占用2字节，<br />64位系统中
+0
+none
+http://zhidao.baidu.com/question/512954355.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/133574528.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210086298.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/431065143.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/582702222.html?qbl=relate_question_4

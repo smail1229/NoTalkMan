@@ -1,0 +1,11 @@
+教育/科学 
+C语言逗号表达式
+是不是答案错了int a,a+2,执行后为什么i和a的值为5和6;a=(a=i+1,a+3),i=5
+当然要进行自左向右运算<br />a=(a=i+1,a+3),a=2=8，也就是9赋值给a<br /><br />你的答案错了<br />i=5，所以编译了一下<br />编译结果是i=5.,<br />先看括号<br />a=i+1=5+1=6  淡定,a+3=9<br />虽然这个时候a=6已经把6赋值给a了<br />但是括号外面还要给a赋值一次<br />逗号表达式取最后一个表达式的值,a=9   其实我也有怀疑.听我说<br /><br />逗号表达式赋值<br />是逗号最后一个赋值给a的,a+2
+3
+none
+http://zhidao.baidu.com/question/245164525.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51368077.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535373396.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/110039423.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253444196.html?qbl=relate_question_4

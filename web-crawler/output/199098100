@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+请问这个c语言程序哪里错了？题目：求华氏温度100对应的摄氏温度。计算公式：c =（5&#47;9）*（f-32)
+&c)，请高人指点;<br /> printf(&quot;<br />void main()<br />{<br /> int f.h&gt;;%f&quot;<br />}<br />请问哪里错了;%f&quot.0&#47,c);<br /> float c;;9)*(f-32);<br /> f=100;<br /> c=(5;<br /> scanf(&quot;stdio#include&lt
+include&lt;。你下面不是用F来表示C了么;9)*(f-32);/%f&quot;<br />void main()<br />{<br /> int f;    &#47.h&gt,&c)。<br /> c=(5;%f&quot;<br /> printf(&quot，用不上的.0/stdio;<br /> float c。把这句去掉就可以了;这个地方的意思是让用户输入C的值;;<br /> scanf(&quot;<br /> f=100,c)
+3
+none
+fail

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言里int x＝11；表达式（x++*1&#47;3)的值是？
+在c语言里int x＝11；表达式（x++*1&#47;3)的值是？
+<br /><br />这个式子写成我们常用的四则运算应该是：<br />(x+1)*1&#47，所以x首先自加；<br /><br />++运算符的优先级较高应该是4
+3
+none
+http://zhidao.baidu.com/question/273568122.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/514787216.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1831028876420843620.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/507564483.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/226567806.html?qbl=relate_question_4

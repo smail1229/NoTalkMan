@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言关于static
+b=b+1;;c=c+1;i++)<br />   printf(&quot.h&gt;stdio;<br />       static c=3;i&lt,f1(a));<br />}<br />int f1(int a)<br />{  auto int b=0;<br />int a=1;<br />void main()<br />{  int f1(int),i;<br />       return(a+b+c);3;<br />   for(i=0;<br />a=a+1;%d &quot#include &lt
+<br />printf(&quot.h&gt，a,f1(a)),c的值,a，也就是说c的数据类型static是该f1函数的外部变量;<br />a=a+1,b;<br />}<br />int f1(int a)<br />{  auto int b=0;a=a+1=%d&#92;b=b+1，a与b的值每次都重置;n&quot;);。&quot;tb=b+1=%d&#92;stdio;<br />int a=1;;%d&#92;本次执行时;i++)<br />   printf(&quot;<br />   printf(&quot，函数f1中;tc=c+1=%d&#92;<br />printf(&quot;),c)，f1函数“除第1次”运行时只是调用该变量,i;<br />void main()<br />{  int f1(int),b;根据以上结果可知;<br />       static c=3;c=c+1;i&lt;<br />   for(i=0;3;<br />       return(a+b+c)，而c的值就是上一次执行的结果不变;n&quot：&quot，而不是重新定义它#include &lt
+6
+none
+http://zhidao.baidu.com/question/49649756.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/563659837.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/40241453.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/154363181.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/22569193.html?qbl=relate_question_4

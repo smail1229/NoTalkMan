@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中a=+10是什么意思
+none
+这个要看你有的c语言标准了<br />貌似有些标准是表示a=a+10<br />有些标准认为这个是错误的<br /><br />现在大多数编译器应该是不允许这样的算式的，原因如下<br />假如出现一个类似的表达式<br />a=-10<br />那这个到底是表示a=a-10还是表示将-10赋值给变量a呢，因而存在二义性<br />正确的写法应该是<br />a-=10
+2
+none
+http://zhidao.baidu.com/question/555749588.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/326842914068753165.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/550097063.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/260181800.html?qbl=relate_question_3

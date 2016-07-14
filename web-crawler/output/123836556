@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的strcmp函数有什么作用，它的格式是怎样的?
+none
+fail
+0
+一.strcmp函数   <br /><br />strcmp函数是比较两个字符串的大小,返回比较的结果。一般形式是：  <br /><br />                 i=strcmp(字符串，字符串);<br /><br />其中，字符串1、字符串2均可为字符串常量或变量；i   是用于存放比较结果的整型变量。比较结果是这样规定的：  <br /><br />①字符串1小于字符串2,strcmp函数返回一个负值;<br /><br />②字符串1等于字符串2,strcmp函数返回零;<br /><br />③字符串1大于字符串2,strcmp函数返回一个正值;<br /><br />二,strcpy函数  <br /><br />strcpy函数用于实现两个字符串的拷贝。一般形式是：  <br /><br />strcpy（字符中1,字符串2)
+http://zhidao.baidu.com/question/198354476.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/65712812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/441683175.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1702047332467518020.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/116277261.html?qbl=relate_question_4

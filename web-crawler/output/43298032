@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言输入一个自然数n,求n!,同时统计结果中有多少个0
+none
+.用除法;&#92; <br />itoa(n-(n/ <br />*des = n &#47.,统计结果中0的个数..把数字转化成字符串, des);%s %s&quot, n % 10 + &#39; <br />} <br />else{ <br />*des = &#39, char* des) <br />{ <br />if(n &gt; <br />printf(&quot; <br />}<br /><br />2; 0).<br />除以10没有余数;0&#39, b.0, Digit(n)-1).然后把个位变成0.然后把十位再变成0., c);10;stdio.;0&#39n, b),说明个位是0; <br />itora(12345.h&gt; 0) <br />{ <br />int x = (int)pow(10.<br />1,没有余数.;,看余数, char* des) <br />{ <br />*des++ = n &gt; <br />n &#47, des+1); 0 || n &lt: &#39; <br />#include &lt,没有余数.*n;= 10,说明百位是0; 0 .<br /><br />#include &lt; ; <br />}while(n &gt;;;0&#39; <br />} <br /><br />} <br /><br />void itora(int n, c),说明十位是0; <br />} <br /><br />void itoa(int n.h&gt.; <br />do{ <br />++d; <br />} <br /><br />int main() <br />{ <br />char b[10];&#92.; <br /><br />int Digit(int n) <br />{ <br />int d = 0; <br />itoa(12345.<br />自己写程序吧;, c[10],除以100; <br /><br />return d;math;x)*x!应该会求吧? itora(n/ x + &#39,除以1000;0&#39.就是1*2*3*4*5*
+1
+none
+http://zhidao.baidu.com/question/79876610.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/43431731.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43507081.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/155442398.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/14349620.html?qbl=relate_question_4

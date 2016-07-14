@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 long int a=123456.123; printf(&quot;4.2ld&quot;,a)输出啥
+none
+现在的教材和考试题都在这些无意义的事情上耗费精力，使用ld显示是正确的，但4;%4。<br />显示的时候双引号里面估计你写错了？真正编程的时候千万不要这样，既然a是一个长整形，而不应该用浮点数;.2中的小数位数就没有意义了，应该写&quot。<br />给一个长整形变量赋值的时候就应该使用一个真正的长整形为什么要这么做.2ld&quot
+0
+none
+http://zhidao.baidu.com/question/513106502.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/433193946.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/324075295.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1817615084143238948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/331306087.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针，int *p和int* p，其中p是不是相同的变量？为啥*号的位置不同呢？
+none
+int [] 为修饰的类型,此处为int型的指针<br />struct student d :<br />int a;这两个是一样的;<br />ARR b,不管前面有多少东西;&#47,望采纳;/<br />typedef int * POINT;&#47,int *为修饰的类型;a为变量;c为变量名,改变量为int型<br />int b[],只有最后面的是变量名<br />如,此处为student结构体<br />总而言之;/<br />POINT c;<br />typedef struct student STRUCT;&#47,<br />typedef int INT;<br /> <br />然后这样定义<br />INT a,都是类型,此处为int行的数组<br />int *c;//  /<br />typedef int [] ARR,struct student 为修饰的类型,可以用typedef表达以上所有的;<br />STRUCT d;<br />这种定义方式和上面的完全一样,int [] b楼主对变量的概念还不是很了解<br />定义一个变量的时候,希望对楼主有所帮助;d为变量名,b为变量名
+4
+none
+http://zhidao.baidu.com/question/367662199747385124.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/410271216.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/328901759.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/575196681.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142141953.html?qbl=relate_question_4

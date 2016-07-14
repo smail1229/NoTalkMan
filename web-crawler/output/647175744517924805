@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设定义:int a;float b;执行scanf(&quot;%2d%f&quot;,&a,&b);语句时，
+语句时;%2d%f&quot.0&lt;回车&gt;，a和b的值是87和6.000000    为什么,&a,&b);float b，若从键盘输入876  543C语言 设定义;执行scanf(&quot:int a;
+中间没有空格.0被无视，所以输入到6就结束了，所以a的值为87<br />你的%2d%f是连在一起的%2d决定了a只能接受两位数字，打印b的值即为6，后面的543，输入的数据也应该是连续的。<br /><br />6和5中间有一个空格。<br />否则会将空格作为输入的结束符看待，那么按照默认约定。<br />则将6赋值给b
+52
+none
+http://zhidao.baidu.com/question/197593580.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/244795000.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/221580368.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/140598599.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126837870.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 return 函数（急！急！）
+.<br />C在执行时不予理睬！谢谢.<br />B能正确向主调函数返回整形数0;这里<br />怎么没（）.return 函数的形式应该是 return( )，函数体中有<br />return 0：在一个返回值类型为char 类型的函数定义中.<br />A是错误的，郁闷..<br />D在执行时会中断程序运行.<br /><br />我就很疑惑，该语句（ ）;语句。希望哪位仁兄解释一下
+的函数头应该是这样的<br />int XXX()<br />{<br />   .;<br />}<br />这样的return 0就是返回一个参数值为0<br />你的理解是完全错误的..<br />  return 0
+0
+none
+http://zhidao.baidu.com/question/1046321202330286419.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/131803271.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126774104.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/439774435.html?qbl=relate_question_3

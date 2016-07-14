@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+k*=10 C语言什么意思
+none
+表达式的值是原来K的10倍; c=5+(k*=10)。如。<br />（3）当k*=10后面有分号（：k=2;则c=5+20=25<br />（2）同时，该表达式还具有把表达式的值给变量K的功能；）时，就变成了所谓的赋合赋值了，即:k=k*10（1）K*=10是一个表达式
+1
+none
+http://zhidao.baidu.com/question/2116082848944447827.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223779673.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/231544511.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/252802415.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1447121491341362980.html?qbl=relate_question_4

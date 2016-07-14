@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+printf(&quot;%d&quot;,0XA8);输出多少？printf(&quot;%s&quot;,&#39;&#92;&#92;&#39;);为什么是错的？求大神详解！！这是c语言题目
+none
+就用printf(&quotprintf(&quot;;&#39;%d&quot;&quot，但有点多余,&#39，再输出;是一个转义字符，只会输出随机数<br />printf(&quot;&#92. 格式化输出会输出对应的变量的内容，如果你一定要用格式化输出;&#92;%s&quot;,0XA8) 是输出地址为0XA8对应的二进制到int型所占内存大小（一般为2字节）的一块内存区域中所存储的值;&#92;&#92，就先把&#39;&#39。所以如果未初始化这段地址单元;);&#92;赋给字符串;&#92;) 如果你只要输出一段字符串。你可以查一下转义字符的意思就知道了。<br /><br />至于为什么只输出一个&#92，是因为C里面&#92;
+2
+none
+http://zhidao.baidu.com/question/1383323652192163580.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/514626384.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/516233880.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1766307171541248300.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1046183847300700779.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，删除数组中的重复元素
+设计算法，在数组r憨攻封纪莩慌凤苇脯俩[n]中删除重复的元素，要求移动元素的次数较少并使剩余元素间的相对次序保持不变。<br /> <br />要快！！！
+#include &lt;stdio.h&gt;<br />#define N 1000<br />#define FLAG 0x80000000    /*特殊标记，用最小的负数表示*/<br />void main( )<br />{<br />    int r[N], length, i, j;<br />    scanf(&quot;%d&quot;, &length);<br />    for(i = 0; i &lt; length; i++)<br />        scanf(&quot;%d&quot;, &r[i]);<br />    for(i = 0; i &lt; length - 1; i++)<br />    {<br />        if(r[i] != FLAG)<br />        {<br />       憨攻封纪莩慌凤苇脯俩     for(j = i + 1; j &lt; length; j++)<br />                if(r[j] == r[i]) r[j] = FLAG;   /*遇到重复值，则先用特殊标记覆盖它*/<br />        }<br />    }<br />    for(i = 0; r[i] != FLAG; i++); /*找到第一个特殊标记*/<br />    for(j = i + 1; j &lt; length;)   /*删除数列中的特殊标记*/<br />    {<br />        if(r[j] != FLAG)  r[i++] = r[j++];<br />        else j++;<br />    }<br />    length = i;  /*修改删除重复值后的数列的长度*/<br />    for(i = 0; i &lt; length; i++)<br />        printf(&quot;%-4d&quot;, r[i]);<br />}
+4
+none
+http://zhidao.baidu.com/question/86638037.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262041564.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41903018.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/467174649.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/265236707.html?qbl=relate_question_4

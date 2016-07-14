@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的疑问
+&#39;&#92;483&#39; 为什么不是合法的字符常量
+#39，xxx代表8进制整数，其含义是某字符的ASCII码。<br />而&#92;xxx&#39; 里483不是合法ASCII码范围;&#92;类型的字符常量中;483&#39
+4
+none
+http://zhidao.baidu.com/question/369505292378937284.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1539635486792388627.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1509868138579507900.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/936025311935025452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1766189872579204980.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+教育/科学 
+C语言(float)5&#47;2结果是多少
+none
+2 = 2(float) 5&#47；而若是5/2 = 2（取整数）.5
+6
+肯定是2.500000了！因为在C&#47;C++中&#47;运算符担任两种算法的任务：当&#47;两边都是整数时是取整除，即只取商的整数部分；这里5和2在C&#47;C++中又被默认为int型，所以5&#47;2就只等于2了。而&#47;的两边只要有一边是浮点型时，它就是浮点除了，即要取一定精度的小数部分；这里把默认的整型5用(float)强制为浮点5，那么&#47;就被提升为浮点除了，所以(float)5&#47;2就等于2.500000了……
+http://zhidao.baidu.com/question/75164655.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118946971.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/167028643.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1303565061011077019.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/255053689.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言初步运算怎么算如题？
+n=5<br />求下列式子结果<br />a*=3+2为什么等于10？<br />a+=a-=a*=a？<br />a%=n%=2int a=12
+合并在一起; a=a-a;a=a+a; a=a%n.a%=n%=2<br />等价于   n=n%2，在 C语言的490问（貌似是这个名字）里面都有的；都是很有名的C题？a+=a-=a*=a  等价于  a=a*a； a*=3+2就是 a=a*(3+2) 你确定你的题没错呵呵
+0
+none
+http://zhidao.baidu.com/question/2053794738028147347.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148715757.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/230857579.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/168023036.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161272882.html?qbl=relate_question_4

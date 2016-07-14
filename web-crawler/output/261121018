@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中与数组有关的问题：数组中元素的个数是有用户输入的书的个数决定的 那我们该怎么定义数组
+none
+<br />free( p ).用C语言的动态内存分配就行了;<br />p = malloc( N*sizeof(int) )，假如是int型的数组.，用户输入个数为N。则可以这样写;<br />p[1] = 2：<br />int *p;<br />p[0] = 1;<br />;<br />用完之后记得用free函数释放内存
+3
+<p>1、可以使用动态数组。根据用户输入数量，在运行当中分配相应的内存。</p><p>动态数组，是相对于静态数组而言。静态数组的长度是预先定义好的，在整个程序中，一旦给定大小后就无法改变。而动态数组则不然，它可以随程序需要而重新指定大小。动态数组的内存空间是从堆（heap）上分配（即动态分配）的。是通过执行代码而为其分配存储空间。当程序执行到这些语句时，才为其分配。程序员自己负责释放内存。</p><p><br /></p><p>2、例程：</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />#include&nbsp;&lt;stdlib.h&gt;<br />int&nbsp;main()<br />{<br />int&nbsp;n1,i;<br />int&nbsp;*array;<br />puts(&quot;输入一维长度：&quot;);<br />scanf(&quot;%d&quot;,&amp;n1);<br />array=(int*)malloc(n1*sizeof(int));//根据输入的数量n，动态分配数组空间<br />for(i=0;i&lt;n1;i++)<br />{<br />array[i]=i+1;<br />printf(&quot;%d\t&quot;,array[i]);<br />}<br />free(array);//释放第一维指针<br />return&nbsp;0;<br />}</pre>
+http://zhidao.baidu.com/question/175441409.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/71826023.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/213690386.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/564502834.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求c语言大神指点switch语句的用法
+);<br />  break;<br /> scanf(&quot;3&#39;<br /> scanf(&quot;;n&quot;n&quot,&d);<br /> case &#39,n3);<br />  printf(&quot;<br />int main()<br />{ <br /> int y想编一个根据出生年月日计算已经活了多少天的程序<br />可是不知道switch语句哪里错了<br />我是初学<br />拜请赐教<br />#include&lt;!&#92;;n&quot;at last the day of your date!&#92:<br />  n1=(31-d+334)+(y-1)*365;%d&quot;<br /> case&#39;<br />  printf(&quot,n4:<br />  n5=(31-d+214)+(y-1)*365,&m):&#92;1&#39;n&quot;,n9;:&#92,m,n6,d;;%d&quot;your life has gone %d days;<br /> scanf(&quot,n11;n&quot;hellow sweety please tell me which year did you born;<br /> case &#39;<br />  printf(&quot;your life has gone %d days:&#92;<br />    switch (m);<br /> printf(&quot,n5);n&quot;;<br />  printf(&quot;5&#39;%d&quot,n1,n10;<br /> printf(&quot,n12;and next the month ;!&#92,n1),n2.h&gt:<br />  n3=(31-d+275)+(y-1)*365;<br />  break;);),n5,n8,n3;your life has gone %d days;;<br />  break,&y),n7;stdio
+n&quot:<br />  n3=(31-d+275)+(y-1)*365;n&quot;<br />  break!&#92:<br />  n5=(31-d+214)+(y-1)*365;<br /> case 3;<br />  break;your life has gone %d days;可以加上这个<br />break;;;/&#47!&#92;&#47switch (m){&#47,n3),n5);<br />  printf(&quot;<br />  break!&#92;your life has gone %d days;<br />  printf(&quot;<br /> case 5:/<br />  printf(&quot;;<br />defoult:/不要单引号 int类型<br />  n1=(31-d+334)+(y-1)*365,n1);n&quot;your life has gone %d days;大括号<br /> case 1
+0
+none
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/81214969.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/562155352.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1860002311250034507.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/538760293.html?qbl=relate_question_4

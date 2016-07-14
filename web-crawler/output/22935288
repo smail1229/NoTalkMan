@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+C语言里，怎样把x和y的值交换而不使用中间变量？
+none
+fail
+0
+位操作法  <br />x=x^y;   <br />y=x^y;   <br />x=x^y;   <br />或者使用加减法   <br />x=x+y;   <br />y=x-y;   <br />x=x-y;
+fail

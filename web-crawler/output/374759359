@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言静态变量的一道题
+none
+ <br />这条语句,s=5（上面计算出来了），k=3，函数返回s+k=5+4=9:2作为实参传递给函数f()；<br />f(s);<br />则s=5,希望有帮助,加油,然后k本身是2,即此时m=2,k++后则K=3,所以程序执行期间K不会被摧毁;函数return k+m,然后k++之后;<br /><br />hehe;<br />(应为K为静态数据;)<br />s作为实参,一直保持K的原值,即k=3，k=4s=f(2)
+2
+none
+http://zhidao.baidu.com/question/94537326.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136448562.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/553147417.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/872419907079605812.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/191543821.html?qbl=relate_question_4

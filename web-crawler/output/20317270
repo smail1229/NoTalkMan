@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+怎么在C语言中换输入法~
+我的C程序`可以输入中文``但是我不知道怎么切换输入法~我晕``菜鸟一个我是``
+<br />如果是用UCDOS的方式。<br /><br />当然。<br /><br />如果是在WINDOWS2000/XP下的模拟DOS方式，则可以直接按CTRL+SHIFT来切换输入法状态，按ALT+F2是拼音，再到DOS下用TURBO C来编译看具体情况了，接ALT+F5是五笔，你也可以在WINDOWS下用记事本输入好源代码
+2
+none
+http://zhidao.baidu.com/question/49480822.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/710979660356204645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/256275133.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239435539.html?qbl=relate_question_3

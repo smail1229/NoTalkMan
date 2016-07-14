@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题 char c1＝‘A’，c2＝‘&#92;375’ 表达式c1%c2的结果是… 为什么结果是2
+C语言题 <b穿孩扁绞壮悸憋溪铂娄r />char c1＝‘A’，c2＝‘&#92;375’<br />表达式c1%c2的结果是…<br />为什么结果是2…
+&#39;&#92;375&#39;是八进制数253，但由于这是一个字符，所以只有穿孩扁绞壮悸憋溪铂娄一个字节，所以最高位是1，故为负数 -3<br />‘A&#39;的ASCII值是65<br />65 % -3 = 也就是 65 %3 结果是2.
+5
+none
+http://zhidao.baidu.com/question/349385638.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/410640581.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/235258795.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/167027588.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/10323528.html?qbl=relate_question_4

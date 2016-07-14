@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言的一个题目,如图,急求解释,谢谢
+none
+因为100不满足。<br /><br />而i最多是两位数。<br /><br />所以  A 39 81  明显不对，输出的数一定是7的倍数，减1后是 27 69 是3的倍数 再减1是 26 68 是2的倍数，-1后是3的倍数  再减1后是2的倍数，所以只有D了，而个位数1-9也不满足条件，因为39不是7的倍数<br />B 42 84 是7的倍数 42-1=41 显然不是3的倍数<br />C 26 68 显然不是7的倍数<br />D 28 70 是7的倍数++x的意思先 x+1赋值给x然后再用于计算。  <br />++x%2  就相当于 x=x+1   x%2  同理理解下面的 %3  和%7<br /><br />最后一个if可以看出来
+1
+none
+http://zhidao.baidu.com/question/687474729121225204.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/743976122924449692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/367986996863412564.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1302062464737269899.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488175590329864052.html?qbl=relate_question_4

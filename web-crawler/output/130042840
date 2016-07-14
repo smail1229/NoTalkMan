@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+求C语言的 句子解释！！
+or(i=0!=0;fread(&pil[i]，作用和功能,1,sizeof(struct pilot),fp)！<br />&pil[i] 的意义<br />fp      的意思<br />sizeof(struct pilot)  的含义<br />谢谢 求好心人帮帮忙！;i++)<br />求整句话的示意！
+既然用了fread这个函数。中间的（即循环终止的条件）含义为，它是用来测量括号里的那个结构体类型变量所占的字节数的。至于sizeof(  )，那么fp就一定是定义过了的一个文件的指针变量，＆pli[i]就是取它的地址pli[i]肯定是你定义过的一个结构体类型数组（且其类型一定为struct ploit型的）：从fp指向的文件里读出1个长度为struct pliot所占字节的数据
+0
+none
+http://zhidao.baidu.com/question/170309135.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239602643.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/277355381.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/204120188.html?qbl=relate_question_3

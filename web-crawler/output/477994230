@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 while(scanf(&quot;%d&quot;,&a)!=1) printf(&quot;XXXX&#47;n&quot;); 输入一个&#39;q&#39;,输出为什么会无限循环输出.
+none
+q不是整数，下次读取又是q，q还在缓存中，如此无限循环了。如果类型正确会依次读取每个数读取整数
+6
+none
+http://zhidao.baidu.com/question/515972098.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/242818064.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/232796019.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/459683920.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/402789138.html?qbl=relate_question_4

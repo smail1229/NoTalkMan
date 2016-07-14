@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如何用C语言编程把四个数由大到小输出(用IF语句)?
+none
+fail
+0
+C语言排序是蛮多的<br />冒泡排序<br />void bubble_sort(int *a,int len)<br />{<br />     int j,k;<br />     int temp;<br />     int change=&quot;1&quot;;<br />     for (j=0;(j&lt;len-1)&&change;j++)<br />    {<br />         change=&quot;0&quot;;<br />         for (k=j+1;k&lt;len;k++)<br />            {<br />             if (a[k-1]&gt;a[k])<br />            {<br />                change=&quot;1&quot;;<br />                temp=&quot;a&quot;[k-1];<br />                a[k-1]=a[k];<br />                a[k]=temp;<br />             }<br />         }<br />     }<br />}
+http://zhidao.baidu.com/question/90730381.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/48762485.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/404633346.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/425602270776881172.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/164359107.html?qbl=relate_question_4

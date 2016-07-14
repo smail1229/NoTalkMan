@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 char a[10]=&quot;test&quot;; return a 返回的a的值是什么？
+none
+是数组名,c[1]表示&#39;e&#39，puts(c)，那么在将a返回后，return a;    且c为char*类型;；等于输出字符串&quot;等价于将a的地址返回。如果该函数叫char* fun();;的话并且调用语句为c = fun();test&quot，也是数组a[10]的首地址
+1
+none
+http://zhidao.baidu.com/question/256387528.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/475411800.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/504797514.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/360833977.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/367579659753539484.html?qbl=relate_question_4

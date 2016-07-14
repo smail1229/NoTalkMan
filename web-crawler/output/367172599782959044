@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+a ^= (a ^= b, b ^= a, b)什么意思c语言
+none
+撇开语法错误。单从这个运算表达式来说。是连续的赋值运算。赋值语句是自由向左运算的。a^=b^=a^=b;((a^b)^b)^a异或位运算，如a=3,b=2a 11b 10a^b珐鸡粹课诔酒达旬惮莫 01((a^b)^b)^a 结果为 01^10   11 ^ 11 = 00貌似有点规律，应该是最终结果都变成零。
+0
+none
+http://zhidao.baidu.com/question/241454508.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/199115805.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1731826197216104707.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/549647868.html?qbl=relate_question_3

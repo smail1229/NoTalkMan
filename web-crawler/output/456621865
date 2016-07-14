@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编写一个fun(int bb[], int *n, int y)
+删除后数组b所剩元素的个数仍存入n所指向的单元, int *n，函数的功能是删除数组b所有的值为y的元素, int y)，其中n所指向的是存储单元中存放了数组b的个数。最后编一个主函数用C语言编写一个fun(int bb[]
+<br />         fun(a;<br />                  }<br />         }<br />         *n=m;stdio;i&lt;<br />                           }<br />                           m--;<br />void fun(int bb[];j++)<br />                           {<br />                                    bb[j]=bb[j+1], int *n;<br />}<br />main()<br />{<br />         int a[5]={0,&n, int y)<br />{<br />         int m=*n;i++)<br />         {<br />                  if(bb[i]==y)<br />                  {<br />                           for(int j=i;m;<br />         for(int i=0,3;j&lt;m-1;<br />         int y=0,4},1,2;<br />         int n=5,0)#include &lt.h&gt
+1
+none
+http://zhidao.baidu.com/question/99759269.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/518853270865598445.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/265560797.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/124189970.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/287738670.html?qbl=relate_question_4

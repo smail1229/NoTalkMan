@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中。int a=1,b=0,c=1; 执行语句 !b||++a&&++c 后，a,b,c
+，a？,b=0,c的值分别是……,0？请详细解说下。答案还是1，为啥不是2,1，0,c=1int a=1;执行语句 ，2啊!b||++a&&++c 后？a和c前面不都是++吗，怎么不是先加1再赋值,b
+因为：true||任意表达式=true!b))||((++a)&&(++c))<br />然后先算!b首先根据运算符优先级和结合性。<br />注意。((，运算符优先级不代表计算优先级，为true，此时(，于是不需要算||后的内容了!b)=1
+5
+none
+http://zhidao.baidu.com/question/164554179.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/522151675.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132092505.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/439562490.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/431358271.html?qbl=relate_question_4

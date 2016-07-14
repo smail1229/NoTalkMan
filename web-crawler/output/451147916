@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+自己编写的c语言头文件如何使用
+%d&#92;newst;<br />#endif <br /> <br />②newst;<br />#include &quot;<br />} <br />接下来就不知道怎么做了.c<br />#include &quot;pause&quot;<br /> return 0，求求高人帮帮我.c<br />#include &lt;;#include &lt.h&quot，怎么才能自己的头文件;<br />void XXPrint(int x)<br />{ <br />printf(&quot;<br />int main(void)<br />{<br /> XXPrint(4)，编译a;stdio, x);stdlib;newst; <br />我使用的是dev C++;<br />} <br /> <br />③a.h&gt.h<br />#ifndef NEWST_H_<br />#define NEWST_H_<br />void XXPrint(int x)：[Linker error] undefined reference to `XXPrint&#39.h&gt;stdlib;<br />#include &lt.c会提示.h<br />&quot;).h&gt;<br /> system(&quot;n&quot，都放在同一个目录中<br />①newst有三个文件
+得把多个放在一个工程中啊，同时用到别的c文件里的函数时要用extern声明。
+2
+none
+http://zhidao.baidu.com/question/511419841.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/98283475.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80068773.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/212447127.html?qbl=relate_question_3

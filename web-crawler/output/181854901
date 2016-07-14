@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中a=a+(a-(a*a))怎么算啊？急。谢谢
+none
+在赋值先算右边，比如a=2，2+（2-（2*2))=0
+1
+none
+http://zhidao.baidu.com/question/233918737.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/26462681.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/744271341475827572.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183341030.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/550853324.html?qbl=relate_question_4

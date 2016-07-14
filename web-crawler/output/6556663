@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中，整型变量int为什么占4个字节？float占4个字节？double占8个字节？（能详细说明一下吗）
+none
+fail
+5
+int占多少个字节是由编译器决定的，ANSI标准定义int是占2个字节．<br />TC是按ANSI标准的，它的int是占2个字节的．<br />你可以在TC里试．printf(&quot;%d&quot;,sizeof(int));结果是2；<br />但是在VC里，一个int是占4个字节的，在VC里面，<br />printf(&quot;%d&quot;,sizeof(int));<br />cout&lt;&lt;sizeof(int);结果都是4．<br />不同的编译器，规定也不一样．<br />float,double也是一样的，在不同的编译器里，占的字节是不一样的．
+http://zhidao.baidu.com/question/476694719.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/274010499.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80001113.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/6555394.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/249464446.html?qbl=relate_question_4

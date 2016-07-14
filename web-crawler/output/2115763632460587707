@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言s[i]-&#39;a&#39;是什么意思
+RT
+太抽象了，s[i]里面应该存储的是字符吧，如果大写字供酣垛叫艹既讹习番卢母，s[i]-‘a’,应该是转换成小写，如果是其他的字符应该是将去‘a’的ASCII码。
+5
+none
+http://zhidao.baidu.com/question/118055429.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/238966403.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91305688.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/162790659.html?qbl=relate_question_3

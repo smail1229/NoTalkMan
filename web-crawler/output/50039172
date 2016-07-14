@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+为什么数组变量定义放在main函数里面不行？？？(VC6++下用c语言编的)
+j++)<br />{<br />  sum1=sum2=sum3=0;n+1;<br /> scanf(&quot;i&lt;%d&quot.x;.y-c[i+1].y.y;n&quot？尝试过在把第一个程序的数组改小一点改成c[10002];.y-c[i+1];<br /> double sum1.y;<br />  c[0];<br />void main()<br />{<br /><br /> int n,&n).x*c[i+1];n&quot,&(c[i]，这又是为什么;%;<br />}<br />}<br />为什么啊;%lf %lf&quot;<br /><br /> scanf(&quot;<br /> for (i=1.y),j;<br />  printf(&quot;<br /> for (j=0;i++)<br />  scanf(&quot;<br /> for (j=0.y=sum2&#47.x);.x,sum3,c[0]struct zb<br /> {<br />  double x;<br />  sum2+=(c[i];<br />  double y;<br />  printf(&quot.x*c[i];j++)<br />{<br />  sum1=sum2=sum3=0.x)*(c[i],t;n+1;<br /> for (i=1,sum2.y+c[i+1];i&lt.y-c[i+1];i++)<br />  scanf(&quot.x*c[i]？,i;;<br /> c[n+1].y=sum2&#47;t,&t).y)).x)*(c[i],&n);<br /> c[n+1];<br />  sum3+=c[i]？.x;<br />  sum2+=(c[i];<br /> }<br />  c[0];n+1.x*c[i+1];i++)<br /> {<br />  sum1+=(c[i]？;j&lt;%d&quot.x*c[i+1].y-c[i+1],&(c[i].x*c[i+1].x*c[i];<br />  double y;<br />  sum3+=c[i];<br /> },&t);t.x=sum1&#47;i&lt.2lf&#92.x;i&lt.y-c[i+1].y)*(c[i];<br /> scanf(&quot,i,sum3.y).2lf %.2lf %;<br /> double sum1,&(c[i];n+1;(3*sum3);i++)<br /> {<br />  sum1+=(c[i];.x+c[i+1].y-c[i+1];(3*sum3).x*c[i+1].x+c[i+1];<br /> c[n+1],c[0];(3*sum3);(3*sum3),j,c[0];<br /> struct zb c[1000002].x=c[1].x=c[1].2lf&#92;<br /> for (i=1,&(c[i].x*c[i].y).y;<br />  c[0];j&lt;<br /><br /> struct zb c[1000002];.y);<br /> for (i=1,就又可以了.x);%,sum2.x*c[i].y+c[i+1];%d&quot;<br /> scanf(&quot;<br />}<br />}程序编译通过了但执行时出错<br />而改成把数组变量定义成全局变量就没问题<br /> struct zb<br /> {<br />  double x.x*c[i];%lf %lf&quot.y=c[1].y).y=c[1],t.x*c[i+1];<br /> c[n+1];.y)),c[0];%d&quot.x=sum1&#47;.y).y)*(c[i];<br /> };<br /> }<br />  c[0]？;<br />void main()<br />{<br /><br /> int n
+局变量和局部变量不在同一片存储区,但是可以容纳10002,移为全局数组,所以运行OK,所以编译是OK的,存储在全局存储区.<br /><br />因为没有语法问题,有足够的内存保存.,所以放在main中运行时出错,所以你后面改成10002就行了),栈的连续空闲内存不足以容纳c[100002](太大
+7
+none
+http://zhidao.baidu.com/question/297553701.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/809096534001160812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/560822905.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/300092265.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/268730522.html?qbl=relate_question_4

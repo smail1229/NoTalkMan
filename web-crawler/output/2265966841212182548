@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求解 void fun(char *s,char t[ ]) {int i,j=0; for
+ } s和t在主函数中都定义为100个存储单元; for(i=0C语言求解 void fun(char *s!=0) t[j++]=s[i]，为什么上面的不对;100;i&lt,j=0,char t[ ]) {int i;i++) if(i%2，一定要求得字符串的长度吗
+&quot;，并且写了一个调用它的案例;i&lt;nt = %s&#92;0123456&quot没有错呀,char t[ ])<br /> {<br />	int i;stdio;<br />	printf(&quot; <br />	}<br /> }<br /><br />int main()<br />{<br />	char s[100] = &quot, t)，我帮你的程序整理;**注意,下面的i也是从0开始计算*/<br />	char t[100] = &quot,j=0; <br />	for(i=0;，你先看看吧.!=0) <br />			t[j++]=s[i];**此函数的意思是;<br /> void fun(char *s;s = %s&#92;100;i++) <br />	{<br />		if(i%2.,s[2],s[1]，s[0].h&gt，有疑问再问, t);<br />&#47, s;n&quot：将s的下标为奇数的成员复制到t中**/;<br /><br />	fun(s.s[100]，下标是从0开始计算;<br /><br />&#47：<br /><br />#include&lt;<br />	return 0
+8
+none
+http://zhidao.baidu.com/question/316134411.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356790110.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/396565802.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1366381018956318539.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/124870749.html?qbl=relate_question_4

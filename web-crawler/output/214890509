@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，int a=b=c=5这样写合法吗？
+想学C语言，742208970希望可以讨论讨论
+a=b=c=5,b,c不合法 你可以先声明就可以了     int a
+1
+none
+http://zhidao.baidu.com/question/71964353.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/240600378.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/399462507.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/232757706.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/242424451.html?qbl=relate_question_4

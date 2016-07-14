@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序输出问题
+&d)#include &lt;;<br />    scanf(&quot.h&gt,c;%d%d%d%d&quot:&#92,av;<br />int main()<br />{ <br /> int a,b,d,c;<br />    printf(&quot,d;n&quot;<br />    printf(&quot;n&quot;Input a,b.000000   why<br />4和4;<br />    av=(a+b+c+d)&#47;),&a,&b,&c;4;<br />}<br />输入a=b=c=d=15 输出0.0;av=%f&#92;,av);<br />    return 0;stdio
+：<br />000015<br />用int读是15。<br />二进制不好奖；<br />所以int 和float不能乱用，用十进制举个例子<br />120003<br />如果按照int来读。；<br />如果按照float来读。.12*10^3(10的3次方)=120；<br />你的那个av在内存中存的是；<br />懂了么，表示为120003.00*10^15还是等于0恩。。。；<br />用float读是0。。。。，表示为0，怎么老是你
+0
+none
+http://zhidao.baidu.com/question/390997281357256245.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/557778960.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/145632325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/145198522.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/119031240.html?qbl=relate_question_4

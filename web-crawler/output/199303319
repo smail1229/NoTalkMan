@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言double类型的数据存到float类型的内存中可能丢失数据
+stdio,r; , l;);<br /><br />       printf(&quot;<br /><br />}<br /><br />有warning<br />warning C4244;<br /><br /> printf(&quot;<br /><br />}<br /><br />float S(float r)<br /><br />{<br /><br />       return pi*r*r.h&gt;n&quot;<br /><br />       scanf(&quot: &#39;;return&#39, s);%f&quot;;<br /><br />       l=L(r);float&#39;<br /><br />float S(float);<br /><br />       s=S(r);请输入圆的半径;n#include &lt,s,面积=%f&#92;<br /><br />#define pi 3.14<br /><br />float L(float);;周长=%f&#92。那如果存到double类型的内存中就不会丢失数据：&quot;<br /><br />float L(float r)<br /><br />{<br /><br />       return pi*r*2: conversion from &#39, possible loss of data<br /><br />我只知道是因为double类型的数据存到float类型的内存中可能丢失数据;double&#39;<br /><br />}<br /><br />void main()<br /><br />{<br /><br />       float l，但是要怎么改; to &#39,&r)
+你用的是什么编译器啊？我用TC运行了没错啊
+0
+none
+http://zhidao.baidu.com/question/125054490.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/73294595.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/128474713.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/31193140.html?qbl=relate_question_4

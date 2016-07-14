@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中逻辑非
+C语言中逻辑非。是不是对的就是错的，错的就是对的
+C语言认为所有非零数都是真，即为1；而为零的数就为假，即为0。<br哗窢糕喝蕹估革台宫郡 />!x|(x&0x0),可以这样用位级运算吧
+0
+none
+http://zhidao.baidu.com/question/5393309.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/114991259.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/12876775.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/48391027.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/147615336.html?qbl=relate_question_4

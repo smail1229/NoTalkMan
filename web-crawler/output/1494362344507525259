@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言void函数中用return函数
+ int y,例如,在函数中用return代表什么;<br />	if(visted[x][y]) return ;<br />	if(y &lt, int &area)<br />{<br />	if(x &lt,如果定义了void函数; N) return ; N) return ; 1 || y &gtC语言函数中:<br />void dfs(int x; 1 || x &gt
+ 1 || x &gtreturn这个语句是结束这个函数; <br />    if(visted[x][y]) return ，那第一个return不执行，以此类推，继续判断第二个条件是否成立; N) return ; 1 || y &gt;   <br />}<br />如果执行了第一个if  后面return就执行，假如第一个条件不成立; N) return ，同时，就相当于这个函数已经结束了，下面的if都不会去执行; <br />    if(y &lt，<br />void dfs(int x, int &area)<br />{<br />    if(x &lt，后面都是相同的机制<br /> <br />纯手工, int y
+1
+none
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145119991.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/497544932.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/300717881.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/15514044.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 说明和定义
+c语言中，变量的定义和说明有什么区别？ 请举例子
+   <br />  },   val[MAXVAL]。但与变量不同的是;   <br />      BOOL   sex.。   <br />  如,都是在本工程的其他文件中定义的;类的声明   <br />    <br />  void   fn(person&   ps)   &#47，而定义则是给出类型具体的长相。   <br />  在其他的文件中：   <br />  class   person，这两个变量的存在性及类型;&#47。   <br />    <br />  类型的声明也是说名类型的存在、以及变量的名称;&#47，但指出;的定义;   <br />  这两个语句的意思就是   sp，类的定义不分配空间;&#47.   <br />  }   <br />  &#47：在程序中存在此变量的，你应该能看到   诸如int sp，所以之前如果没有定义该类;   <br />      .，那就需要声明   <br />  {   <br />  ..。   <br />  目的是告诉本文件以下的代码部分;或者  double   val[MAXVAL];使用到类   person类。   <br />  extern   int   sp;&#47你说的是定义与声名吧<br /> <br />  声明是不分配内存空间的、及变量的位置;   <br />  extern   double   val[MAXVAL];下面是类的定义   <br />  class   person   {     <br />      char   name[10]
+2
+none
+http://zhidao.baidu.com/question/207119712.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/197324560.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/188096687.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123594155.html?qbl=relate_question_3

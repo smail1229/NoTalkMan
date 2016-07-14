@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急求大神编辑一c语言程序阿````
+矩阵乘法（数值求解算法）<br />编写一个函数实现矩阵A（2行3列）与矩阵B相乘（3行2列），乘积放在C数组中。
+&lt; 3; 2;for(int i = 0; 3;i &lt#include&lt;i++) for(int j = 0;&lt;&lt;i &lt;&lt:&quot;cout &lt;using namespace std; 2;&lt;&lt;&lt; endl; &lt; B[i][j];for(int i = 0; 3;int  C[2][2] = {0};j++)    cin &gt;&gt; 2;j++)    cin &gt;&gt;i++) for(int j = 0; &quot; 2;i &lt;for(int i = 0; C[i][j] &lt;iostream&gt;i++) for(int j = 0;}return 0;i &lt;输入矩阵B（3行2列)元素的各个值;int  B[3][2] = {0}; &lt;;&lt;结果为;  &quot; endl;cout &lt; A[i][j]; 2;k++)     C[ i ][ j ]  +=  A[j][k] * B[k][j]; 2; endl;i &lt;i &lt; &lt;i &lt;cout &lt; &quot; &quot: &quot;i &lt;&lt;j++)   for(int k = 0; endl;j++)   cout &lt; &quot;for(int i = 0;输入矩阵A（2行3列)元素的各个值; cout &lt:&quot;k &lt;i++){ for(int j = 0;int main(){int  A[2][3] = {0}
+0
+none
+http://zhidao.baidu.com/question/1732109208915489347.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1573802557859133700.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534024429.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/552008099.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/538955664.html?qbl=relate_question_4

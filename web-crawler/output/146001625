@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言递归调用的值怎么贮存的
+++i)<br />  printf(&quot用函数的递归调用在值为输出的时候值在电脑中是按什么形式存储的;<br /> if(w;<br />}<br />void print(int w)<br />{<br /> int i;=w;stdio;&#92;%d &quot;;<br />  for(i=1;<br /> }<br />}像这个程序在输出之前 w的值是怎么存储啊.h&gt,w);<br />void print(int w)？<br />#include&lt;<br />void main()<br />{<br /> print(3)!=0)<br /> {<br />  print(w-1);<br />  printf(&quot;);n&quot;i&lt
+和调用一个函数一样啊， 在调用函数之前在栈上为形参分配空间。， 所以w值存在栈上。
+1
+none
+http://zhidao.baidu.com/question/43647476.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1924192511012793947.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/120865614.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/218978477.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/221928320.html?qbl=relate_question_4

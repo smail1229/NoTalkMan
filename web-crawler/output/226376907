@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言P=&data对data中的a域引用是  struct sk {int a;float b;}data,*p; 答案（*p).a求解释
+none
+声明了一 个是struct sk结构体变量data，一个是结构体指针*p<br />p=&data说明指针p指向了data变量.a等同于<br />data,另一种写法p-&gt，此时*p和data用时是同一个内存空间;}data.a;float bstruct sk {int a;a，所以(*p),*p
+24
+none
+http://zhidao.baidu.com/question/226370363.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/430773540.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/561743898.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/514941580.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/480523838.html?qbl=relate_question_4

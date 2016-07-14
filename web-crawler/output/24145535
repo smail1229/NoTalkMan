@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中经常遇到while(1),请问括号里的1是什么意思啊？
+got connection form-%s&quot;server,(struct sockaddr *)&their_addr;<br />        new_fd = accept(sockfd;<br />        perror(&quot,inet_ntoa(their_addr,并且建立一个新的Socket描述符*&#47;<br /><br />        &#47;<br />        exit(1);listen&quot;<br />    {<br />        sin_size = sizeof(struct sockaddr_in), BACKLOG) == -1 )<br />    {   &#47,&sin_size);<br />    }<br /><br />    while(1)      &#47;;*错误检测*&#47;)这里有一个例子;<br />            continue;<br />        }<br /><br />        printf(&quot？还是listen函数的值;<br />        if ( -1 == new_fd )<br />        {<br />            perror(&quot：<br /> if ( listen(sockfd。它是指exit(1)返回值么;);*接受连接请求;accept&quot.sin_addr));<br />这里while(1)的1，似乎不是真假的意思;*main accept() loop*&#47
+while(1)，1表示真，所以while(1)表示永远循环下去，一般在while(1)的循环体内都有break 或者return 跳出循环
+9
+none
+http://zhidao.baidu.com/question/108455806.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53108624.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/212423070.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/200529125.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/582835243298556325.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+计算阶乘 C语言高手请进！
+<br />输出格式。<br />运行时限求N的阶乘<br />变量条件！的结果，N，且N≤1000。<br />输入格式：仅一个数，N：1秒&#47：N为正整数：仅一个数;测试数据
+ i &gt; <br />} <br />} <br />for(i = digit; ++i) <br />{ <br />carry = 0; <br />} <br />while(carry) <br />{ <br />a[++digit-1] = carry % 10;= 10;n&quot; <br />for(int j = 1; <br />return 0; <br />} <br />printf(&quot; <br />int i; <br />int main() <br />{ <br />int n = 1; <br />n++; ++j) <br />{ <br />temp = a[j-1] * i + carry; j &lt;; <br />a[j-1] = temp % 10; <br />carry / <br />for(i = 2;; <br />int temp;%d&quot; <br />int a[20000]; <br />int digit = 1;),&n),我只定义了20000位;=1;%d&quot.h&gt;= n; <br />a[0] = 1; 10; <br />carry = temp /&#92; --i) <br />{ <br />printf(&quot; <br />int carry; <br />scanf(&quot,a[i-1])!应该都够了<br /><br />#include &lt; i &lt1楼写到太麻烦了 <br />为了保证位数够,求10000;= digit;stdio
+11
+none
+http://zhidao.baidu.com/question/240636982.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/75990984.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/151143567.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1829604548347873740.html?qbl=relate_question_3

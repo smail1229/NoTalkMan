@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数组：a[0]到a[5]之间元素个数为什么是5个？
+none
+<br /><br />不知道你能理解么？希望帮助到你因为元素个数从数组的下标a[0]开始算咯<br /><br />例如你定义一个一维数组a[5]={1：a[5]是一个有5个元素的一位数组，就会溢出,3,4，因为你只定义了一个5个元素的一位数组,5}<br /><br />解释！<br /><br />分别为a[0]=1   a[1]=2   a[2]=3   a[3]=4   a[4]=5  这时如果多出一个a[5]的话，并没有第六个元素,2
+15
+none
+http://zhidao.baidu.com/question/342610813.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/523874168.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/536669562.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/55248207.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100573871.html?qbl=relate_question_4

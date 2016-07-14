@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+第二和第三题如何用C语言程序设置出来。谢谢！
+none
+3为整数 <br />由题意得方程.公鸡4只 母鸡18只 小鸡78只 <br />3;3=100 1 <br />X+Y+Z=100 2 <br /><br />由 方程“2”*9 -“1”*3 得设公鸡为X只 母鸡为Y只 小鸡为Z只（X、Y： <br />1; 同理得x小于33 <br /><br />由4得 z 小于等于84 同理 得y小于等于25 <br /><br />5得 x小于14 y小于等于25 <br /><br />综上得 <br />x小于14 <br />y小于等于25 <br />z 大于等于75小于等于84且被3整除 <br />综合 X+Y+Z=100 得 <br /><br />当 z=75由&quot、z 均小于100 ) 3 <br /><br />由方程“2”*15-“1”*3 得 <br /><br />3y+7z=600 4 <br />由方程“1”*3- “2”得 <br />14x+8y=200 5 <br /><br />由3得 4z=300+3x 显然 z必须大于等于75且小于等于9、Z为整数且Z&#47、y;得 x=0 y=25 同上 <br />当z=78 x=4 y=18 <br />当z=81 x=8 y=11 <br />当z=84 x=12 y=4 <br /><br />即得4种答案;3&quot.公鸡8只 母鸡11只 小鸡81只 <br />4.公鸡0只 母鸡25只 小鸡75只 <br />2： <br /><br />5X+3Y+Z&#47： <br /><br />4z-3x=300 (z/3为整数 且由“2”只 x
+0
+none
+http://zhidao.baidu.com/question/198940754.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/710512274742257685.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/936001673929592812.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/433735423.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/433733289.html?qbl=relate_question_4

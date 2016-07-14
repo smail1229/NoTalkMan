@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个c语言程序错在哪里，求大神帮忙注释一下。
+<br />	daoshou = zs*gz*ts<br />	printf(&quot：&quot;stdio, daoshou;；一个月干了多少天就又多少钱,daoshou)，一共干了多少天,zs;，到手多少钱*&#47&#47;<br />	scanf(&quot;<br />int zs;<br />int main(void)<br />{<br />	printf(&quot, gz,gz; <br />#include &lt;%d*%d*%d=%d&quot.h&gt;);*一天干了多少个钟就又多少钱,ts;<br />	return 0,&gz;%d%d%d&quot,&zs;输入你干了多少个钟和每个钟的工资再输入你干了多少天, ts,&ts)
+daoshou = zs*gz*ts<br /><br />这里最后少了个分号
+1
+none
+http://zhidao.baidu.com/question/198801909668235765.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1893910994296555140.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1109313502459443339.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/687904821687138164.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/530843888.html?qbl=relate_question_4

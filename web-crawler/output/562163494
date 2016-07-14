@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中#define ABC(x) x*x问题
+#define ABC(x) x*x    珐罚粹核诔姑达太惮咖<br />#include&quot;stdio.h&quot;    <br />main()    <br />{<br />int a=3,b;     <br />b=ABC(a+1);      <br />printf(&quot;b=%d&quot;, b);<br />}<br />上述程序运行输出的结果是___ 。     <br />A、b=4                        <br />B、b=a+1    <br />C、b=16                       <br />D、b=7<br /> <br />求详细解答过程~~~~
+#define ABC(x) x*x    <br /><br />在你使用ABC(x)的时候，计算机自动的，进行原样的替换<br />b=ABC(珐罚粹核诔姑达太惮咖a+1);   就被替换为b=a+1^a+1  <br /><br />注意是原样替换，所以不是(a+1)^(a+1)<br />所以答案是D
+8
+none
+http://zhidao.baidu.com/question/185241069.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/230354167.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/12589119.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/389106995.html?qbl=relate_question_4

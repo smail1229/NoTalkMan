@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言scanf函数用法
+教程我看不懂，请大侠教穿害扁轿壮计憋袭铂陋一下。<br />就是从键盘里读取一串数字（含小数）（前面已经用了“float a,b,c;”，把从键盘读取的小数赋值到变量a。
+scanf(&quot;%f%f%f&quot;,&a,&b,&c);<br /><br />这样即可将输入的三个数字依次赋值给a,b,c三个变量穿害扁轿壮计憋袭铂陋，在输入数字时，用空格或者回车分隔。
+18
+none
+http://zhidao.baidu.com/question/50556357.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/751951725189003324.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/429645639.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/487961812606411372.html?qbl=relate_question_3

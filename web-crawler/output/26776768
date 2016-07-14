@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中幂函数 pow 的用法
+none
+型;conio;<br />        getchar().h&gt，返回幂指数的结果; pow;stdlib：计算x的y次幂：extern float pow(float x;<br />  <br />  用法.;<br />     void main()<br />      {<br />        printf(&quot;<br />      #include &lt：<br /><br />      &#47,pow(4：x应大于零;。<br />  <br />  举例;4^5=%f&quot.h&gt.h&gt：#include &lt;<br />      #include &lt;math;math.c<br />      <br />      #include &lt;&#47.h&gt。<br />  <br />  说明;<br />  <br />  功能, float y);<br />      }<br />      <br />  相关函数,5.))
+96
+none
+http://zhidao.baidu.com/question/140837594.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/236938380.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/373108675.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/146447626.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/252209154.html?qbl=relate_question_4

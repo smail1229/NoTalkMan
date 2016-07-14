@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+把正整数的位反过来。看不懂这段c语言代码，谁能解释下 do .while那段
+&#92;n&quot,number;;stdio;<br />int main(void)<br />{<br />   int number=0;<br />   scanf(&quot:&quot;nThe number %d reversed is %d rebmun eht&#92;<br />   printf(&quot;<br />   	  temp=temp&#47;10;;);%d&quot;<br />   }while(temp).h&gt,rebmun);<br />   temp=number;&#92;<br />   int rebmun=0#include&lt;<br />   return 0,&number);<br />   do<br />   	{<br />   	  rebmun=10*rebmun+temp%10;nEnter a positive integer;<br />   printf(&quot;<br />   int temp=0
+<br />temp=12&#47：<br />rebmun=3*10+12%10=30+2=32，是商，循环中rebmun temp都是整型;10=0：<br />假设number=123，所以相除的结果还是整型;10=12;<br />temp=1&#47：<br />rebmun=10*0+123%10=0+3=3;<br />第一次循环;<br />temp=123&#47：<br />rebmun=32*10+1%10=320+1=321。<br /><br />还是举例子吧;10=1<br />第三次循环%表示取余;表示除法；<br />temp=number=3;<br />第二次循环；<br />&#47
+3
+none
+http://zhidao.baidu.com/question/367400769347774684.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/577644794.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/422913764.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/555977385.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/443738764.html?qbl=relate_question_4

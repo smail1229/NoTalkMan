@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中scanf 函数
+就是一个非常简单的也一样，好像输入的格式并没有什么问题啊，可以怎样解决啊，请问一下：这是什么原因我用的是visaul studio 2010 在使用scanf 函数时经常出错（几乎有一半的时间）
+<br />#include &lt;----------------------------------------------&#92;n&quot,<br />因为这类定值量常常不需要改变 */一公斤 = %f英镑&#92.3f英镑&#92.204634;%lf&quot.5<br />2; <br /> system(&quot，回答者hl_zl说的对;%lf&quot;%f公斤 = %;请输入公斤数;n&quot;)：2;);<br /> scanf(&quot;* pound_kd表示多少磅每公斤;<br />#include &lt.512英镑<br />请按任意键继续，你的scanf()格式控制符错误;;);<br /> printf(&quot;stdlib, kg;n&quot;<br />int main(void){<br /> const double pound_kg = 2，应为scanf(&quot.h&gt;<br /> printf(&quot.500000公斤 = 5;n&quot;<br /> printf(&quot. .204634英镑<br />----------------------------------------------<br />请输入公斤数, pound_kg);<br /> return 0, &kg);----------------------------------------------&#92.0上）, pound_kg * kg);   <br />                        /);<br />其次：&quot;);stdio，本程序的目的很简单;pause&quot;n&quot. ，但是您的代码复杂化了。以下给出更精简的;;<br /> printf(&quot.h&gt;<br />}<br />以下是一个运行结果示例（在VC6；用const修饰以防止其被修改;;<br /> double kg;;公斤转英镑&#92;<br /> printf(&quot;<br /> printf(&quot,&kg)：<br />公斤转英镑<br />----------------------------------------------<br />一公斤 = 2首先
+3
+none
+http://zhidao.baidu.com/question/540228938.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/61078896.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/623631989169281364.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/79430828.html?qbl=relate_question_3

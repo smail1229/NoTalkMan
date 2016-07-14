@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，整型常量的问题！!!
+因此如果编译器用2个字节实现int值。”这具体是什么意思，那么1000000和33000默认就是long型的书上说的“如果整数值超过int型的范围，最好解释通俗点的，那么就是long型的，因为2个字节容不下它们
+大概是多少就可以其实只需知道int有这么个范围。其他的可以忽略的。<br /><br />编译器自动将超过这个范围的数据转为长整型
+1
+none
+http://zhidao.baidu.com/question/530196018.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/60319255.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15227409.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/3920996.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/17059798.html?qbl=relate_question_4

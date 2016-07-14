@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+编写一个C语言程序,其功能是A
+打印出1到1000之内的能被7或11整除,但不能同时被7或11整除的所有整数
+=1000; <br />int main() <br />{ <br />int n关键是条件判断<br />if((n%7==0 || n%11==0) && ; <br />} <br />getch();conio;stdio,n);%d &quot;; <br />for(n=1!(n%7==0 && n%11==0)) <br /> printf(&quot;n&lt;n++) <br />{ <br />if((n%7==0 || n%11==0) && .h&gt;<br />#include &lt.h&gt!(n%7==0 && n%11==0))<br /><br />#include &lt; <br />return 0
+0
+none
+http://zhidao.baidu.com/question/409465108.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/181528437.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/40933981.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40933629.html?qbl=relate_question_3

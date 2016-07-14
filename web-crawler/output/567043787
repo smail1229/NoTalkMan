@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中为什么!(x+1)等价x==-1
+none
+<br />不等于 0  是 TRUE（真），<br />只有这时  !(x+1)等价x==-1<br /> <br />其它场合,    !(x+1)   -- 非 0  得 真!(x+1)  得 FALSE。<br /> <br />当 x 不等于 -1 时!(x+1) {   } else {  };<br />这两句里  的  ；<br />if (x == -1) {  }  else {  }, x+1 不等于 0.（假）<br /> <br />因此：<br />if ( ，就要 具体场合，具体分析只有当 x 等于 -1 时  ( x+1)  等于 0
+3
+none
+http://zhidao.baidu.com/question/144114146.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118605906.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518168904.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/584735154.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/209653159.html?qbl=relate_question_4

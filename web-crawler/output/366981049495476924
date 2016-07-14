@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中（*t++=*s++）！=0怎样分析？
+none
+把*s的值赋给*t然后判断是否为零，最后把s和t都向前移动一位
+2
+none
+http://zhidao.baidu.com/question/27277419.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1573199050675845060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/228531691.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/559682397.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/552419047.html?qbl=relate_question_4

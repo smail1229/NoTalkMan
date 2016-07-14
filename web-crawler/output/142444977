@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言数组赋值问题
+为啥结构体可以给结构体直接赋值，数组确不能直接给数组赋值，不都是地址传值么
+所以C语言编译器没有定这条规则，从编译器设计来说。<br /><br />同样大小的数组 给 同样大小的数组赋值。也许太容易了。<br /><br />用循环语句很容易实现数组给数组赋值，但C语言的“游戏规则”里没有定这条规则，没有困难，没道理可言这是C语言语法规则
+2
+none
+http://zhidao.baidu.com/question/155467822.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/35327829.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/131366308.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/51717829.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/169085350.html?qbl=relate_question_4

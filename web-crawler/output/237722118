@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里 int a=2; double b=3+2.1; a= a+++b; printf(&quot;a=%d,b=%d&#92;n&quot;, a,b); 结果是什么？为什么？
+none
+<br />a+++b详单与执行a+b，用符号（正或负）、指数和尾数来表示。<br />所以5；a++ a＝a+++b等于a＝a+b，也就是说是把一个浮点数表示为尾数乘以2的指数次方再加上符号；a++ <br /><br />b=1717986918是因为C&#47,b=1717986918 <br /><br />a=8是因为根据c的运算符优先级原则。这种结构是一种科学表示法，底数被确定为2a=8;C++编译器都是按照IEEE（国际电子电器工程师协会）制定的IEEE   浮点数表示法来进行运算的
+2
+none
+http://zhidao.baidu.com/question/254535881.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/73795894.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/367247334.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239447081712237044.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/349071273.html?qbl=relate_question_4

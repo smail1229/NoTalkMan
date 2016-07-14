@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里，a+=i++是什么意思
+none
+i++,<br />即a=a+i就是a=a+(i++)，i自增（加一）;<br />将a+i赋给a之后
+4
+none
+http://zhidao.baidu.com/question/586732722.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/134831175607097725.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2115763632460587707.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258997822.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/391478664607565805.html?qbl=relate_question_4

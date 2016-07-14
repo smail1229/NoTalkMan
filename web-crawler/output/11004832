@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言怎么定义max函数？
+none
+&#92，而且应该很容易的，你可以把代码写成;<br />getch();<br />scanf(&quot,z)，比如:b;<br />printf(&quot;n&quot,b) (a&gt：<br />int max(int a:(b)<br />main()<br />{<br />int x; 在你的代码后面加上;;); 或者用更简单的;b)<br />        return a，用这样的方法;maxnum=%d&quot;<br />}<br /><br />其实也可以用宏替换来完成;b);<br />    else<br />        return b;<br />printf(&quot：<br />&#47,y);<br />z=MAX(x;input two numbers?a,y, int b)<br />{<br />    if (a&gt，以取得更高的效率, int b)<br />{<br />    return a&gt,&y)这样的例子网上应该是可以找到的;;%d%d&quot?(a)，max,z：<br />#define MAX(a;b：<br />int max(int a;/<br />}<br />/&#47,&x
+19
+max函数用于求最大值，可以定义如下函数。<br />int max(int a, int b)<br />{<br />    if(a&gt;b) return a;<br /><br />    return b;<br /><br />}<br />不过该函数只能用于整型而不能用于其它类型。如果有其它类型，比如浮点型，则需要再重新修改。<br />其实这样代码量比较少的操作，可以定义为宏函数，即带参宏定义的形式。<br />#define max(a,b) ((a)&gt;(b)?(a):(b))<br />这样既可以不受参数类型限制，又可以提高执行效率。
+http://zhidao.baidu.com/question/169476385.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/110773577.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/414973373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/334087089.html?qbl=relate_question_3

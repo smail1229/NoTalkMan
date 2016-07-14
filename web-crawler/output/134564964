@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中, 指针变量(指向数组)怎样使其移回第一位
+none
+<br />int a[10]; <br />p=a;<br />int *p ，看示例有的;=0 && i&lt;即可实现。<br />这样指针p就一直指向数组的首地址;<br />要p指向的第i（i&gt;10)位可以使用p = a+i
+1
+两种方式：<br />1 在移动的时候，记录移动的偏移量，存在变量n中。这样对于移动后的指针p，计算<br />p-=n;<br />就是将其移动到第一位。<br /><br />2 更常用的方式为，在有此类需要时，运算前保存原始的位置，即定义同类变量p1，指向第一位，比如计算前做p1 = p; <br />这样在需要移回时，只需要p = p1即可。<br />如果p移动时与原始数组在同一个作用域内，那么也可以直接重新复制p为原始数组名。
+http://zhidao.baidu.com/question/539383319.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/112975503.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49483808.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/430745063.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/502756333.html?qbl=relate_question_4

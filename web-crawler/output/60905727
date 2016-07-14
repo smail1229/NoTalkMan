@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言二维数组定义
+不知道C中能否实现，这在VB中通过redim是可以实现的，望高手指教请问在C语言中可以重新定义数组的维数吗，比如定义了a[3][3]，可以对其进行重新定义吗,由于下面的计算量增大要重新定义成a[10][3]
+C语言中不可以，C++中可以通过new运算符动态开辟数组。
+1
+none
+http://zhidao.baidu.com/question/38622502.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/149931174.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/413784180.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/380232718.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 若有说明和定义： union dt { int a; char b; double c; } data;，下面叙述中错误的是：
+为什么： union dt { int a.c); printf(&quot;n&quot.a=5;%f&#92.0<br /><br />D是错误的;  double c;; 输出结果为5:data; } data;  char b：<br />A) data的每个成员起始地址都相同	B) 变量data所占的内存字节数与成员c所占字节数相等<br />C) data可以作为函数的实参	D) 程序段,data;？应该输出什么若有说明和定义，下面叙述中错误的是
+..5在内存中的存储为 00000000
+8
+none
+http://zhidao.baidu.com/question/317934139.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1668016343813480787.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/227373637.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/477746806.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/186286922.html?qbl=relate_question_4

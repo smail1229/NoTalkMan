@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+c语言，宏定义，与函数的差别 我觉得宏定义和函数没什么差别啊， 是否可以用宏定义代替函数
+.,c)<br />{<br />       ；<br />int a(b例如.<br />}<br /><br />#define a(b
+而这些替换后产生的代码存在于程序的不同位置，无论调用多少次，但函数会产生独立代码不同，产生的代码是替换后程序产生的代码。<br />宏定义是简单的文本替换。<br /><br />宏定义不检查参数类型。<br />虽然功能近似，简单说就是程序里每次使用宏替换后的地方都要产生类似的代码，每次调用执行的是同一个位置的代码
+10
+none
+http://zhidao.baidu.com/question/484833496.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126672773.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/65285396.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/616161829814177412.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/127042344.html?qbl=relate_question_4

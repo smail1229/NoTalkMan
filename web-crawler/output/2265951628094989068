@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程题，求解释 int i=0 main() {int i=5; reset(i&#47;2); printf(&quot;i=%d&#92;n&quot;,i);
+i=%d&#92;;&#47;i=%d&#92;<br /> printf(&quotint i=0<br />main()<br />{int i=5;;&#47;&#47;<br />return (i);;   <br />}<br />workover(int i)<br />{i=(i%i)*((i*i)&#47;   &#47,i);=2:0;;i=%d&#92;i=%d&#92?5;i=%d&#92;n&quot;   &#47,i);   printf(&quot,i);<br /> reset(i=i&#47,i);<br />}<br />reset (int i)<br />{i=i&lt;这三行求解释<br /> reset(i&#47;;<br />return (i);<br /> reset(i&#47; printf(&quot;n&quot;2);n&quot;(2*i)+4);<br /> workover(i),i);n&quot;2);n&quot;  printf(&quot;   printf(&quot;   &#47;2)
+2)之后  i还是5           第2个reset(i=i/2);2了 所以i变成2了 所以输出2   第三个reset(i/ 同理i值没变化 所以i=2;  在main函数里 i=i/2)这个程序 reset（i）虽然 函数里i的数值变化 但这是数值传参 所以主函数里的i值不变第一个reset(i&#47
+5
+none
+http://zhidao.baidu.com/question/160284583.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/193059088.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/234480702.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253441748.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/178252739.html?qbl=relate_question_4

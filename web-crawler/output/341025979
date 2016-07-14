@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的 sizeof(x)&#47;sizeof(int); 其中sizeof是什么作用？
+none
+fail
+2
+&#47;&#47;求整型数组x的元素个数。<br />#include&lt;stdio.h&gt;<br />void main()<br />{ <br />	int x[10];<br />	printf(&quot;%d&#92;n&quot;,sizeof(x)&#47;sizeof(int));            &#47;&#47;输出x数组的元素个数，此程序输出10。<br />}
+http://zhidao.baidu.com/question/112172077.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/8023678.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127758550.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/72102763.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/316030557.html?qbl=relate_question_4

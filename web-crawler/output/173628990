@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的“∷”符号是什么？
+高手请教
+1.&quot;::&quot;是作用域限定符或者称作用域运算符.如命名空间的作用域<br />2.&quot;::&quot;是用它来声明函数是属于哪个类的.<br />例：<br />#include &lt;iostream&gt;<br />class Time<br />{<br />public:<br /> void setTime();<br /> void showTime();<br />private:<br /> int hour;<br /> int minute;<br /> int sec;<br />};<br />void Time::setTime()/*类外声明部分*/{<br /> std::cin&gt;&gt;hour; //std命名空间的作用域畅绩扳啃殖救帮寻爆默<br /> std::cin&gt;&gt;minute; //std命名空间的作用域<br /> std::cin&gt;&gt;sec;  //std命名空间的作用域<br />}<br />void Time::showTime() /*类外声明*/{<br /> std::cout&lt;&lt;hour&lt;&lt;&quot;:&quot;&lt;&lt;minute&lt;&lt;&quot;:&quot;&lt;&lt;sec&lt;&lt;std::endl; //std命名空间的作用域<br />}<br />int main()<br />{<br /> Time time_1;<br /> time_1.setTime();<br /> time_1.showTime();<br /> system(&quot;pause&quot;);<br /> return 0;<br />}
+0
+none
+http://zhidao.baidu.com/question/220926545.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1539936129372991987.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/217152750.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/256048007.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/256482269.html?qbl=relate_question_4

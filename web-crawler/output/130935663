@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道简单的c语言习题，高手帮我看看！
+第六个F;，数组是“ABCDEF”;<br />}<br />  得出的结果是 BDF，我不太明白为什么，到循环结束时;<br />while(s1[i++]， 就输出第二个B， 第四个D，所以输出的时候就从第二个开始输出，得出以下思路，这里又有一个i++;%c&quot;<br /> int i=0，i的值分别是2！=0.h&gt，所以i的值为2!=&#39。<br />   请问我的思路正确吗，4， s1【i++】。  结果BDF;)<br />printf(&quot，这时候i的值是1了程序如下！<br /> 谢谢;stdio，想了一下;ABCDEF&quot;0&#39，6;？<br /> 如不正确<br />  请给出正确答案;<br />void main()<br />{<br /> char s1[20]=&quot：<br />  i=0，在输出s1【i++】的时候;&#92,s1[i++])：<br />#include&lt
+s1[i++]). i++先使用再加1<br />    第一次;，printf(&quot;%c&quot1. 数组从0开始，例a[0]=&#39;i++先使用为printf(&quot,s1[1]);;输出B 而后i变为2<br />2;A&#39;%c&quot
+0
+none
+http://zhidao.baidu.com/question/180534278.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/195152648.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/170054087.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/165428485.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/192821600.html?qbl=relate_question_4

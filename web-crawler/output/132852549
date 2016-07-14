@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言逻辑运算 int x,y,z;  x=y=z=0;++x||++y||++z;为什么结果等于 x=1 y=0 z=0?
+none
+||运算符只要第一项为真之后的几项都不会计算，所以++y，++z都没有执行
+2
+none
+http://zhidao.baidu.com/question/350027848.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2201589605185282628.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/337205134.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/333389977.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234039432.html?qbl=relate_question_4

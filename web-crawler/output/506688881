@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 可以这样定义吗？ char *p[0]; char *p[1]; char *p[2]; char *p[3];
+none
+以，这样定义的是指针的数组，char类型的可以理解为存储字符串的数组，也就是定义了一个存储指针的数组
+1
+none
+http://zhidao.baidu.com/question/506689399.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/6731078.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/286998787.html?qbl=relate_question_4

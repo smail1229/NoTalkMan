@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的预处理语句有规定先后顺序吗
+h&gt：#include&lt;stdio.h&gt比如;<br />#include&lt;<br />#include&lt.h&gt;<br />这些同时出现的时候有规定哪条放前哪条放后的吗;stdlib;time
+b，那个出现在前面，认真考虑问题：<br />[file a，按这个思路，但你把 #include &quot.c&quot.c].c]<br />float myF1当然有影响<br /><br />先出现的先处理<br /><br />对于 #include 来说;a.c&quot;b.c&quot，就是把要引用的文件原样照抄进来;<br />float seeMyF1 () { return myF1;<br /><br />int main () { return seeMyF1 (); }<br /><br />没有问题; 放到前面看看，编译就要报错了.c]！<br /><br />其实 #include 的作用很简单，所引用的文件就出现在前面<br /><br />比如说:<br />#include &quot; }<br /><br />[file c;<br /><br />[file b;<br />#include &quot，就容易理解多了<br /><br />比如说两个头文件里面都定义了一个全局变量
+2
+none
+http://zhidao.baidu.com/question/205898811.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1668003064431239027.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/808209803267612492.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/193525923.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/136996752.html?qbl=relate_question_4

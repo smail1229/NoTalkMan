@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针int *a，int b=5； 将b的地址，给指针a，
+ 将b的地址赋给指针a；（3）*a=&b，那我输出a的话C语言指针int *a=null，这样直接*a=b，存的是地址，*a 就等于5了，所以将b的地址赋给a，int b=5，(1)；<br />求解释上面的三条的对与错，*a是取a的地址里面的值，因为a是指针，不理解，就等同于输出b的地址,a = &b，并求解释；(2)，*a = b
+因为a这个指针初始化为空，会导致程序崩溃的。应该会导致程序崩溃。<br />第三个和第二个一样，就是讲b的地址赋值给a，会报错；<br />第二个则会报错，*a去取指针对应的值得时候是娶不到的。<br />祝学习进步第一个是对的
+0
+none
+http://zhidao.baidu.com/question/2138011007961837348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145747403.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41985848.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/82625264.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/439245260.html?qbl=relate_question_4

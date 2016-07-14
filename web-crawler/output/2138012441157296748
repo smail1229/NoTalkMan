@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中关于二维数组指针：
+*(*(p+i)+j)),8,%d&quot,10;？指针为什么要定义为（* p）[4]#include&lt;<br />   int * p,9,4;;stdio,6.h&gt,i,3;<br />   p=a;<br />   scanf(&quot;<br />}<br />为什么此程序错误,2,&i;<br />   return,&j);<br />   printf(&quot;%d&quot;%d,5,11,j,7,12};<br />void main()<br />{<br />   int a[3][4]={1
+<br /><br />*(*(p+i)+j)<br /><br />这种写法系统理解为先取*(p + i) ---------取p+i该位置的值二维数组其实在内存中等同于一维数组;，去内存地址为4的值，那么*(*(p+i)+j)就是*(4)。<br />a[3][4]内存分配时等同于a[3*4]<br />上面的代码应该改写成printf(&quot，假设 i = 2，假设j = 1,<br />然后再去用3+j，那么该值就是3;%d&quot,*((p+i * 4)+j))，仅仅是在编译阶段就帮你转换掉了，明显4这个地址是非法的，系统报错
+2
+none
+http://zhidao.baidu.com/question/139386238.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/23067725.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206932038.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/112360629.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 
+C语言程序由几类函数构成，每类函数有何特点
+急用，在线等
+<br /> 用户定义函数，也不必在程序中作类型说明。 <br />库函数、strcat等函数均属此类：由用户按需要写的函数、gets。在前面各章的例题中反复用到printf、putchar，和用户定义函数两种、getchar、scanf。对于用户自定义函数，用户无须定义：由C系统提供：库函数从定义上，然后才能使用，而且在主调函数模块中还必须对该被调函数进行类型说明、puts，不仅要在程序中定义函数本身，只需在程序前包含有该函数原型的头文件即可在程序中直接调用
+0
+none
+http://zhidao.baidu.com/question/350775862.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258213060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/42310061.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57002552.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/681177636296323452.html?qbl=relate_question_4

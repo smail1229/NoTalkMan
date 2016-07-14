@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程,用牛顿抚迭代法求方程2X*X*X-4X*X+3X-6=0在1.5附近的根
+none
+xn+1=xn-f(xn)&#47#include &lt,2)+3*x0-6)/<br />printf(&quot.5;<br /> return 0<br />}<br />牛顿迭代法是先给定方程f(x)=0的一个较好的近似根x;<br />  x=x0-(2*pow(x0;<br />  do<br />{<br />  x0=x;<br />#include &lt.h&gt,2)-8*x0+3); <br />} while (fabs(x-x0)&gt;1e-5);math,3)-4*pow(x0,x),然后用迭代公示.h&gt;stdio;;<br /> int  main()<br />{<br />  double x0;x=%f&quot;f&#39,x=1;(6*pow(x0
+15
+none
+http://zhidao.baidu.com/question/73178644.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51661601.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/269855558.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/210904573.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/260350943.html?qbl=relate_question_4

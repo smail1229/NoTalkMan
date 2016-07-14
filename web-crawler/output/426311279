@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求教！！！C语言中两个整数交换并输出，实际用数字怎么做？
+<br />	printf(&quot？,Y=456这样交换再输出怎么打？;n&quot;y=t;Enter x & y ;x=y#include&lt,x;<br />	printf(&quot,y,&x;n&quot;n&quot;x=%d y=%d&#92;这个语句中如果我想换成X=123。;<br />main()<br />{int x;,t,y)？<br />不应该是scanf（123空格456）么;%d%d&quot;x=%d y=%d&#92,&y);)。？求教;<br />	scanf(&quot:&#92;,x。,&x！？！求指点。<br />还有scanf(&quot;%d%d&quot;。但是运行出来总是ENTER X&Y！;<br />	t=x;！？？;<br />	printf(&quot？;<br />}<br />按照这样我打了一段,&y)。我想问问是不是正确的运行出来就这样：这样子,y).h&gt;stdio
+<br />如果要改，别着急。<br />慢慢学吧，直接写 <br />x=123，方便的方法是看视频; y=456;<br />注意结尾是分号scanf是从标准输入（键盘）读数，运行之后自己输入
+0
+none
+http://zhidao.baidu.com/question/460450835.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/117560196.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/122989914.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/552887959.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/235412144.html?qbl=relate_question_4

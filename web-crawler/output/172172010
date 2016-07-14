@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言数组排序
+望各位高手帮帮忙，要求用数组编写，实现10个浮点数的排序编写一个程序
+<br /><br />for(i=0;%;<br /><br /> printf(&quot,s[i])#include&lt;i++)<br />  for(j=i+1;;);<br /><br />    cout&lt;i&lt;j&lt;<br /> int i;;<br /><br />    s[i]=temp;&quot;<br />void main ()<br />{ <br /><br /> printf(&quot;endl;原来数组为&quot;j++)<br />   if(s[j]&gt;&lt.h&gt;i++)<br />  printf(&quot;<br />#include&lt;s[i])<br />   {<br />    temp=s[j];);改变后的数组为&quot;&lt;i++)<br />  scanf(&quot;i&lt;<br /> for(i=0;10;i&lt;10;<br />   <br />   }<br /> cout&lt;&lt;10;9,temp;n&quot,j;;&lt;<br /> float s[10];<br /> for(i=0.2f  &quot;&#92;10;<br /><br /> printf(&quot;);i&lt;i++)<br />  printf(&quot;<br /> for(i=0.2f  &quot;&lt;%f&quot;endl;&#92,s[i]);&lt,&s[i]);n&quot;%;n&quot;&quot;stdio;请输入10个整数&#92.h&gt;<br /><br />    s[j]=s[i];iostream
+2
+none
+http://zhidao.baidu.com/question/118817249.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54261368.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/160174163.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123044340.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言return的用法
+%d：&quot;最大数是;,%d&quot;,&b;<br /><br />}<br />上面的return t到底是怎么返回的,&c)。程序的流程是怎么进行的;),&a;<br />else z=y;<br />int max(int x;<br />if(x&gt,b;<br />}<br />void main()<br />{int a,t;<br />scanf(&quot;n&quot.h&gt,c):%d&#92，麻烦讲讲清楚点;<br />return z;y) z=x;<br />t=max(max(a,b),%d,c,t);<br />printf(&quot,int y)<br /><br />{int z;<br />printf(&quot#include&lt;stdio;输入三个数
+<br />至于return 我个人觉得应该是汇编中的jmp指令或等同与跳转的指令改变了程序的执行流程这个程序本身就有错，定义了一个局部变量，他只不过。<br />还希望大家给予批评和指点，在int max（）中，在跳进（被引用）或跳出（retrun）的时候可能带有参数而已，当然就不可能返回一个正确的值了，局部变量就会自动消失，在main()函数调用max()之后
+2
+none
+http://zhidao.baidu.com/question/180784576.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/458420953.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/178349477.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/14902400.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/172148832.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言，求解释运行结果（变量地址问题）
+include &lt;stdlib.h&gt;#include &lt,&p);    int * p;        printf(&quot.h&gt,p;int i1。求助一下,&i2;static int i2,&i1;        p=malloc(10);int main() {    int j,&j;    static int k;%x %x %x %x %x %x &#92;n&quot;stdio，运行后得到6个地址<br /><br />bffb0ffcbffb100080495fc80496008049604804a008<br /><br />现要确定每个地址对应哪个变量;，谢谢,&k;    }<br /><br />这样一个程序;    return 0
+貌似是对应起来的  不对的话 用%p试试 一般输出地址都用的%p
+0
+none
+http://zhidao.baidu.com/question/73701660.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/513886232.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/435020163.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/488484312580165652.html?qbl=relate_question_3

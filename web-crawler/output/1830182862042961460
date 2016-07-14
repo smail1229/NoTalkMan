@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言试卷，B选项怎么错误的，求解释！
+none
+而name是一个字符数组，不能直接将一个字符串赋值给name[0].name是一个指针，指向的地址是name[0]stu1
+0
+none
+http://zhidao.baidu.com/question/106115746.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/496589399514016524.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1174046668489696939.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/392849492.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356387675.html?qbl=relate_question_4

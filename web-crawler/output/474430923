@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，while语句中如果有是 int y=10; while(--y);那么while中的判断条件是什么？
+的疑问是？高手请解答下;y=y，那么到底是y=y-1做条件，还是y=y做条件呢;.这样就有了两个赋值表达式：--y可以写成是y=y-1
+=0<br />是先减再判断的<br /><br /> while(y--)while(--y)，是先判断y;<br />这个是先做y=y-1<br />然后判断表达式是<br />y;<br />这个-- 在后面
+12
+none
+http://zhidao.baidu.com/question/198187695517948045.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/121417969.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15202844.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/133290138.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/277485926.html?qbl=relate_question_4

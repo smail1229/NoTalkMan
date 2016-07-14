@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+一个关于C语言类型定义的问题.
+typedef void (* sys_timeout_handler)(void *arg);<br /><br />这句究竟是什么意思，请帮忙！
+ys_timeout_handler是一个函数指针的别名.....;<br /><br />调用是这样的语法;<br /><br />你可以这样使用它:  void Create(void* arg){:<br /><br />定义一个...}<br /><br />sys_timeout_handler = Create..:<br /><br />(*sys_timeout_handler)(void* 你的实际参数)
+0
+none
+http://zhidao.baidu.com/question/316846232.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/422639917.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/710403705125731005.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/261543537.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/31886441.html?qbl=relate_question_4

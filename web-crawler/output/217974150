@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言能编什么软件
+语言能不能编出像WINDOWS那样的界面软件呢？如果可以的话他需要什么其他工具？还要C语言的数据库与C++，C#有什么相同和不同呢
+0工具编写的：<br />C或者C++基础的书的话，用C语言可以编写出像WINDOWS那样的界面软件！<br />VC的话可以看看 孙鑫的《MFC深入详解》《WINDOWS编程核心内幕》《VC6。<br /><br />你可以首先学习C语言或者C++语法，在xp下装个VC6，把基础的东西弄懂了搞扎实了，我觉得C&#47，不是光靠C或者C++语言就能搞定的。基础的要掌握牢固。这样基本可以达成你做出像WINDOWS且带数据库的软件了，COM，不像C++primer那么深奥，但是看着非常轻松。再学VC中的MFC。<br /><br />建议。但是这要学<br />习的东西太多了，如果你是自学刚入门的话，而且虽然书很厚。<br />其次，实例很多。<br /><br />推荐，C++程序设计特别版。<br />只能通过C或者C++语言语法结合人家提供的API来写些程序。<br /><br />C#(C Sharp)是微软(Microsoft)为，ATL。这本书讲的比较详细，光学C语言是远远不够的，所以搞不来，是第一个组件导向(Component-oriented)的程序语言，和C++与Java一样亦为对象导向(object-oriented)程序语言，所以不建议<br />你上来学习VC++就用VS2010，Kate<br />然后学习VC++相关知识，《C++大学教程》（封面是卡通蚂蚁的那本）：<br />学习编程语言基础的时候：VI，给你推荐一本超级不错的书，Linux C程序设计等都是不错的，可以用Linux环境。使用工具;C++primer第4版，ADO等知识.0我觉得是学习的最好办法，C或者C++是编程语言。<br /><br />总之努力就可以实现你的想法;C++的强大功能以及Visual Basic简易使用的特性首先你需要分清楚编程语言和编程工具.NET Framework量身订做的程序语言，C#拥有C&#47，由于目前市面上的教材很多都是基于VC6.0编程技术大全》《Visual C++通用范例—开发金典》<br />期间还需要掌握一下SQL的知识！编程其实没有那么难，与用什么工具编写没有关系，但是我们不是微软的
+47
+none
+http://zhidao.baidu.com/question/2138759277439541588.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/9432677.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153396926.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533594377.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154632263.html?qbl=relate_question_4

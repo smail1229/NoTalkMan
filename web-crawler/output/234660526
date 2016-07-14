@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言return语句的使用
+<br /><br />int fun(int *x, b) ;n&quot, a;<br />}<br /><br />main()<br />{<br />  int a = 3;<br />}<br />请问里边的“return（t）”是什么意思呢;stdio, b) ;<br /><br />  printf(&quot; *x = y , a;n&quot;<br />&#47;;<br />&#47;<br />  b = fun(&a;**************found**************&#47;？求高手解释.h&gt！;<br />  t = *x ;<br />  return(t) , b) , b = 8 ;<br />  printf(&quot！;%d  %d&#92;%d  %d&#92;**************found**************&#47,int y)<br />{<br />  int t #include &lt
+就是把t值返回给函数。
+3
+none
+http://zhidao.baidu.com/question/88940430.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234659917.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/148901475.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/83782230.html?qbl=relate_question_3

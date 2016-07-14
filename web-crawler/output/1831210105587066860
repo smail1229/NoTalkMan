@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言循环语句求解释
+none
+，直接输出1<br />如果一开始输入的是小于9的任意数的话   那么执行循环体，在循环体中由于每次a都以10倍的增长  在增长到第11次时  将会溢出（int 是有数值范围的）  溢出后 a就等于一个负数，是这样的   如果你一开始输入的是b大于a的数  那么  不执行循环体，此时在进行循环体的条件比较时
+0
+none
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210680064.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91588685.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/518713614940616805.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/555048666.html?qbl=relate_question_4

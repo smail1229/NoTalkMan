@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中不能转换参数1从&quot;char&quot;到&quot;const char *&#39;怎么办
+none
+不过一般这个&quot;const char * &quotchar 是字符变量<br />const char * 是常量指针<br />比如 char var1=&#39;用于字符串;;<br />在参数位置改为 &var1 (取地址)就可以了,用字符串指针去调用函数好点;a&#39
+0
+none
+http://zhidao.baidu.com/question/415689513.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/146950647.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/164145529.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/439392455.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/389615008.html?qbl=relate_question_4

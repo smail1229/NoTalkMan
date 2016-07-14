@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+[C语言] for(i=0;i&lt;10;i++p++) p
+[C畅浮扳簧殖毫帮桐爆昆语言]<br />        for(i=0;i&lt;10;i++p++)<br />             promtf(&quot;%3d&quot;,*p);<br />for的格式可以这样写吗？
+i++后加个，
+1
+none
+http://zhidao.baidu.com/question/490214760.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143198081.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1895341414816020700.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2009543853276233948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/937148693978182052.html?qbl=relate_question_4

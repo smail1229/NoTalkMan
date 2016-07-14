@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 选择结构习题
+<br />s*=s，顺便问一句 第五行的=号  是表示赋值吗、 主函数的书写方式是main()还是main( )括号中间需要加空格吗;n&quot;<br />}<br />若执行以上程序时从键盘上输入3和4;b)s=b;<br />scanf(&quot程序<br />#include &lt;stdio？<br /><br />这道习题怎么做额,&a;<br />s=a;<br />printf(&quot;.h&gt;;%d&#92;<br />if(a&lt，呵呵 ;<br />main( )<br />{int a，则输出的结果是多少,s;%d%d&quot,&b),s)，希望大家帮我解一下？,b
+s*=s;/，故a=3;%d%d&quot,4分别赋值给a;/                     /<br />main( )<br />{int a，即此时s的值为3<br />if(a&lt;b)s=b，即将3输出结果是;                                         &#47：16，故将b的值即4赋给s;将a的值赋给s;&#47,&a,b=4<br />s=a,&b);打印输出结果,s),b的值分别为3和4;             /因为3&lt;n&quot;stdio;&#47,b;                              &#47,b,s<br />scanf(&quot.h&gt，故此时s的值为4<br />s*=s。<br />分析如下;%d&#92,b;定义了3个整型变量a;输入a;：<br />#include &lt;                                  &#47,即s=s*s=4*4=16<br />printf(&quot;4；主函数的书写方式是main();&#47，即a&lt;b;                                       /&#47，16<br />}<br /><br />第五行的=号是表示赋值，括号中间不需要打空格,s
+0
+none
+http://zhidao.baidu.com/question/174734161.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/541339200.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/360174869997309652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/114914143.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/333582198.html?qbl=relate_question_4

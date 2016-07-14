@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int a=[][3]={1,2,3,4,5,6,7};则a数组第一维的大小是?
+none
+int a[][3]={1,2,3,4,5,6,7};<br />等价于：<br />int a=[][3]缉鼎光刮叱钙癸水含惊={{1,2,3},{4,5,6},{7,0,0}};<br />因此数组第一维的大小是3。
+7
+none
+http://zhidao.baidu.com/question/2074654204270767668.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/417744607.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1238179052781476179.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1603761422391656347.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/348752421.html?qbl=relate_question_4

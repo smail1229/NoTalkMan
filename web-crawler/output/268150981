@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言fabs的一个疑问
+改成printf(&quot，最后输出时这样一个语句,sqrt(a*a-b*b));<br />期中a，b为直角边的直角三角形的另一直角边长的;D，b都是double:%,sqrt(fabs(a*a-b*b)));.3lf&#92：printf(&quot.3lf&#92;在oj上做题;，是求以a为斜边:%;D，即去掉fabs后就过了，很迷茫，但是一直wa;n&quot;n&quot
+只能理解为fabs降低了精度?
+0
+none
+http://zhidao.baidu.com/question/563715176.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/681705154389512332.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92878695.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/374243420.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/236515398.html?qbl=relate_question_4

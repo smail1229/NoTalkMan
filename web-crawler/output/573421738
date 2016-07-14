@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机C语言取整取余显示问题。
+1;<br />如果Xall&gt，但是失败了;10000以上就不行了;10+0x30); <br />    LCD_Write_Char(5！诚心请教。我尝试了多位的取整取余，遇到一个如题的问题，显示正常。 LCD_Write_Char(3; <br />  LCD_Write_Char(4,Xall%100&#47,Xall&#47,Xall%10+0x30);100+0x30)。<br />请高手赐教,1,1我是新手：  <br />Xall 小于999时
+1;  <br />LCD_Write_Char(6,Xall/100+0x30);  <br />LCD_Write_Char(4;  <br />LCD_Write_Char(5,1,Xall&#47LCD_Write_Char(3,Xall%10+0x30),Xall/10+0x30),Xall&#47,1;<br />LCD_Write_Char(7;10000+0x30),1;1000+0x30),1
+0
+none
+http://zhidao.baidu.com/question/90260521.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/391631.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/437663661.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1540192649983151907.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/503720722.html?qbl=relate_question_4

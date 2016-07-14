@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中char *p=a; 和 char *p; p=a; 这两条指令一样的含义吗
+char *p=a;<br /><br />和<br />char *p;<br />p=a;<br />这两条指令一样的含义吗
+一样的、一个是在定义中赋值、一个是先定义在赋值。
+1
+none
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/506688881.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/525525058.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/39441697.html?qbl=relate_question_4

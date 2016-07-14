@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程利用数组的知识求一组数据的最小值
+可不可以实现输入任意多个数字都可以显示出它的最小值啊？也就是说a【】括号中不为一个具体的数。因为当括号中为一个具体的数字比如说为10的时候，必须输够10个数字才可以比较输出最小值~
+我觉得你提出的这个问题其实没有多大的实际意义，但是最终还是需要确定数组a里面的n值，可以考虑用链表，变长数组最主要是用来做数值计算的用C11的变长数组
+1
+none
+http://zhidao.baidu.com/question/409193854.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7087881.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/324333110.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/455830926.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/616186787820839052.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中如何不四舍五入保留小数
+none
+((int)(2.556 * 100))/100.0
+9
+none
+http://zhidao.baidu.com/question/557154461.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/22834864.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534264497.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1704082656870901620.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/206582838.html?qbl=relate_question_4

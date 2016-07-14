@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问在c语言里，char* p 与 char *p 有什么区别啊？
+望高手们详细讲解下 啊。。。谢谢了
+与星星（*）的位置无关，这两句是一样的！
+2
+none
+http://zhidao.baidu.com/question/207877610.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/460149457.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1957909484885945100.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39378023.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/220995485.html?qbl=relate_question_4

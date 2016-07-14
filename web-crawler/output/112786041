@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if(i%5==0)printf(&quot;&#92;n&quot;);是什么意思
+none
+那么就表示每输出5个数组元素换1行再继续输出<br />怎么样楼主，&#92；<br />也就是说，就执行后面的语句，我的解释够精辟吧；<br />如果i表示数组的下标if表示它括号里的条件满足时，printf是打出这个换行；<br />其中;n代表了换行，当i对5的余数刚好为0时输出一个换行
+114
+<pre t="code" l="cpp">if(i%5==0)&nbsp;&nbsp;//&nbsp;判断i是否是5的倍数，如果是，则执行printf语句输出回车换行；如果不是，则什么也不做<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;\n&quot;);&nbsp;//&nbsp;输出回车，即换行</pre><p>其中运算符%在C语言中是取余的意思，如 x%y 就是说如果x除以y能除尽（余数为0），那么x%y的结果就为0，否则结果为1。<br /></p><p><br /></p><p>取余运算的一个最基本的应用就是判断一个数是奇数还是偶数（对2求余），还有就是用在循环队列和链表中。</p>
+http://zhidao.baidu.com/question/504060425.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/232796019.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/982359795359180939.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97050646.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/202957166.html?qbl=relate_question_4

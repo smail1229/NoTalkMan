@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程，if-else语句的使用
+&quot;);stdio;顾客的购物总金额数小于五百元人民币;该顾客可享受10%%的优惠;该顾客可享受5%%的优惠，该顾客不享受优惠;<br />	}<br />	else<br />		printf(&quot，优惠后应付金额数p=%f;该顾客可享受20%%的优惠;);<br />		printf(&quot。&#92;n&quot，p=&quot;<br />	if(p&lt;2000)<br />	{	<br />		p=p*(1-0;<br />	}<br />    else if(2000&lt.h&gt;=p&lt;=p&lt.05);)。&#92;<br />		printf(&quot;n&quot;)，优惠后应付金额数p=%f;<br />	}<br />	else if(p&gt。&#92，优惠后应付金额数p=%f。&#92;n&quot，请检查之后再输入;<br />void main()<br />{<br />	float p，求大神指导指导<br />#include &lt;=p&lt;1000)<br />	{	<br />		p=p*(1-0，优惠后应付金额数p=%f;);，程序编译没有错误;);%f&quot;输入有误。&#92;=5000)<br />	{<br />		p=p*(1-0.1);<br />		printf(&quot;<br />		printf(&quot;<br />	scanf(&quot，但是运行之后输出的优惠后的金额却是0;请输入顾客的购物总金额p的值;5000)<br />	{<br />		p=p*(1-0;n&quot.2);<br />	}<br />	else if(1000&lt;该顾客可享受15%%的优惠;<br />	}<br />	else if(500&lt,&p).15);<br />	printf(&quot如下是我编的程序;500)<br />	{	<br />		printf(&quot;n&quot;)
+语言是里不识别2000&lt;5000;=p&lt，改成p&gt;=2000&&p&lt
+0
+none
+http://zhidao.baidu.com/question/937746750389645732.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/102357276.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/181220657.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/292189520.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/14026511.html?qbl=relate_question_4

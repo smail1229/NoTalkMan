@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中素数的求法
+);*n是控制每行输出10个数*&#47;<br /> }<br />我这样写,j;<br />for(j=2;<br /> }<br /> if(n%10==0)<br /> printf(&quot,n=0，用到数组;n&quot;%3d&quot,i;i&lt;j++)<br />if(a[i]%j==0) break;&#92;<br />m=(int)sqrt(a[i]);<br /> n=n+1;&#92！<br />#include&lt;！作业来的：Floating point error;=99;<br />if(j&gt;=m;<br />for(i=2！高手赐教.h&gt;<br /> }<br /> printf(&quot;i++)<br />{<br />a[i]=i,m;j&lt;stdio，可是放在程序中让它运行却没有结果:Domain;<br />void main()<br />{<br />int a[98];m)<br />{<br />printf(&quot;n&quot,a[i])！<br />显示结果是<br />;    &#47;)！<br />编译没有提示错误我求的是100内的素数
+<br /> int k, char* argv[])<br />{<br />   <br /> int m.h&quot;stdio;<br />  for(i = 2这是我的程序  看看吧<br /><br />#include &quot;n&quot;<br />#include &lt;<br />   }<br /><br />}<br /><br />return 0;<br /> int a[50];<br /><br />int main(int argc;素数是;<br />     i++;<br /> <br />printf(&quot;<br /> int i;= k;math;<br />    for(m=0;m&lt.h&gt;<br /> int j=0;,m);=100;i++)<br />  <br />   if(m % i == 0)    <br />   break;m = m+2)<br /> { <br /> k=sqrt(m)：&#92;<br />     printf(&quot;);%4d&quot;<br />#include &lt;<br />   if(i&gt;k)        <br />   {<br />     a[i]=m.h&gt;i &lt;stdafx
+13
+none
+http://zhidao.baidu.com/question/127554316.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/16653289.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/95899255.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/425993642883039212.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/502593557.html?qbl=relate_question_4

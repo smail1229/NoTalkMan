@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言while括号里加字母什么意思？
+就是说到最后可以实现每个字母出现几次的作用的链表。这段代码应该是在读取的过程中如果发现读取的字母和以前的一样。这个例子里面的单词是一个声明的链表数据结构;<br />                   }<br /><br />程序是链表读取一个文件里的一段英文;word_count+=1。<br /><br />现在还是有点搞不明白括号里加单词的意思，就让字母数加一if(tmp)<br />                    {<br />                        tmp-&gt
+意思是这个指针如果不为空的话执行if语句
+0
+none
+http://zhidao.baidu.com/question/361632249.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/285571142.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/24145535.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/108455806.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/53108624.html?qbl=relate_question_4

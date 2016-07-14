@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+输入三角形的三边，怎样用C语言编写求三角形面积的程序？
+none
+ <br />else if((a==b)||(a==c)||(b==c)) <br />printf(&quot;这是普通三角形&#92;0) <br />{ <br />if((a+b&gt.h&gt;2; <br />if(a&gt;n&quot;c)&&(a+c&gt;a)) <br />{ <br />printf(&quot;n&quot; <br />#include&lt;n&quot;0&&c&gt，已经编译运行确认;请输入三角行的三边;n输入错误; <br />printf(&quot;%f %f %f&quot.0;n&quot; <br />#include&lt;)：&quot; <br /><br />if(((a*a+b*b)==c*c)||((a*a+c*c)==b*b)||((c*c+b*b)==a*a)) <br />printf(&quot; <br />float area;math; <br />else if((a==b)&&(a==c)&&(b==c)) <br />printf(&quot,b;;b)&&(b+c&gt,area););n这三边不能组成三角形&#92;这是直接三角形&#92,c;0&&b&gt;&#92;);n&quot,s; <br />else printf(&quot;););)： <br />#include&lt;&#92;三角形的面积为,&c): %f&#92; <br /><br />int main() <br />{ <br />float a; <br /><br />printf(&quot,&a; <br />} <br />else <br />printf(&quot; <br />scanf(&quot.h&gt; <br />} <br />else <br />printf(&quot; <br /><br />s=(a+b+c)/n这三边能组成三角形&#92;);n&quot;n&quot;),&b;这是等边三角形&#92;&#92; <br />area=sqrt(s*(s-a)*(s-b)*(s-c)); <br /><br />getch(); <br />return 1;;conio给！&quot;这是等腰三角形&#92;stdio.h&gt
+26
+none
+http://zhidao.baidu.com/question/235155027.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/123965812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/90203555.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/236912667.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/35564351.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言生成的exe文件还能不能反编译成源程序??
+none
+fail
+7
+不能.因为同一功能可由不同的语句来实现.不可能由结果推出实现过程.这与一个的人水平没有必要关系.如:a=a+1与a+=1等价,你说是哪一句呢?<br />可以反编译成汇编语言程序,专门搞破解用,比如看看注册码的生成函数,然后自己写注册码,或者说看看注册的过程,用软件引起中断,然后绕过注册程序而成功破解.<br />当然,现在的软件多数加了壳,需要专门的脱壳工具脱壳后才能反汇编.
+http://zhidao.baidu.com/question/3616084.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169545039.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/30267876.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/118140370.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/194158510.html?qbl=relate_question_4

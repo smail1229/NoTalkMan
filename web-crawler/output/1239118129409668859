@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言大神进 怎样使一个自定义的函数 在返回数值返回来一个数，要怎样填写return语句
+c语言大神进<br /><br />怎样使一个自定义的函数<br />在返回数值返回来一个数，要怎样填写return语句？<br />如自定义了一个函数int a(3,2)<br />怎样用return语句返回值为22
+int a（3,2）<br />｛<br />    return 22；<br />｝
+0
+none
+http://zhidao.baidu.com/question/147614847.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/424527415.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/373378021.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/273299027.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/492739065.html?qbl=relate_question_4

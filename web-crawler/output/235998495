@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中指针的作用是什么？
+none
+指向地址啊。<br />比如a俯法碘盒鄢谷碉贪冬楷是指针<br />*a  就是指a地址所存的数字。<br />调用其中数字。
+21
+　　简单地说指针就是指向变量和对象的地址。<br />　　指针的用途非常广泛，比如如果你想通过函数改变一个变量的值，就得用指针而不能用值传递。还有在很多时候变量，特别是对象的数据量实在太大，程序员就会用指针来做形参，只需要传递一个地址就行，大大提高了效率。<br />　　以上还只是指针的初步应用，随着你在C语言学习上的逐步深入，你会发现更多的用途的。
+http://zhidao.baidu.com/question/165691493.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118666067.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/479703855.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/138437576.html?qbl=relate_question_3

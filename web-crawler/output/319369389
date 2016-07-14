@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，字符串指针数组不仅可以直接赋值，还能直接用作字符串数组？如char *name[5];这里指针变量nam...
+按理不是表示地址吗？如char *name[5]，且更好用，且能用name[i]直接表示各各字符串，还能直接用作字符串数组，能存5个字符串;这里指针变量name[5]可以直接用作字符数组，字符串指针数组不仅可以直接赋值c语言中
+比如定义字符串char s[5]，name[i]表示各字符串首地址，事实上s是指该字符串的首地址name[i]指各字符串首地址;可以用s表示该字符串，这两者道理是一样的，而用该地址来代表该字符串 
+1
+none
+http://zhidao.baidu.com/question/126232205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/207240089.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534251296.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/532049459.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/229265122.html?qbl=relate_question_4

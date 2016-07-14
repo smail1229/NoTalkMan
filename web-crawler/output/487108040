@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中连续等号“==”是什么意思
+none
+，这样写IF不成立<br />上面说的不知道对你有帮助不。<br />if (a == 0)这个是判断a是不是等于0<br /><br />if (a =0)这个就是把a赋值为0。。。，再判断。列a == b就是判断a与b是不是相等<br />一般常用于条件语句“==”是个关系运算符
+6
+你好。这个是关系运算符，判断它两边的变量是否相等。相等的话表达式的值为1，否则为0；<br />比如<br />int a = 1, b = 0;<br />a == b的值就是0.<br />b = 1;<br />a ==b的值是1.
+http://zhidao.baidu.com/question/83930341.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/418826446.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/423481560749391492.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/576430579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/587143189.html?qbl=relate_question_4

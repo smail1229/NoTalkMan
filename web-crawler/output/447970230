@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+c语言中2的16次方怎么计算，有没有x的y次方的函数。新手求教
+none
+pow(x,y)返回x的y次方<br />注：需要包含头文件math.c
+2
+none
+http://zhidao.baidu.com/question/52979717.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/273753329.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/360621217.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/412939925.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/141545814.html?qbl=relate_question_4

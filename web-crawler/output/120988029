@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+按要求写一个C语言程序,要求从文件读入信息,保存进数组,再进行比较
+比如说有这几个数(1,    <br />    int     ArgCCur ),   <br />    fstream &F ),       <br />    char    *pHeader ),然后将它们保存进相应大小的数组里面,在程序中调用好几个不同功能的函数(这些函数需要自己设计),4;   <br />这个程序是要从文本文件中读取数字;5,-2:<br />有这几个功能函数,2,      <br />    int     ErrCode,然后再自己建一个头文件,此时不需要输出数组中的每个数除以0,希望高手帮忙&#47,此时还要输出数组只每个数除以该数组内最大数的值,4&#47;5),此时只要输出最大值为0就可以了<br /><br />这个项目应该怎么弄,      <br />    int     Size,  <br />    int     Mode,-1,与main放在一起:<br />1)数组读取的功能函数,-3;   <br /><br />3)数组元素的显示,<br />    int     Mode,把这些自建的函数再包括进去,但是如果是这样的几个数(-4,因为0不能为除数:<br />void WorkCS(<br />    int     ArgC,5&#47,比如此时为(1&#47,下面我具体描述下,其中要包含下列代码断,5)最大数就是五,     <br />    char    *pFileInp )<br /><br />2)打开文件功能的函数:<br />void ReadVector(<br />    int     *&pVec,0)<br />这里最大数是0,是处理加工数组的<br />void ModifyVec(<br />    int     Size;5;5,     <br />    int     &Size,2&#47;  <br />上面的四个功能函数要求单独另外的建立,3,3&#47; <br /><br />4)主要行变量数量的检查,要包含下列代码断:<br />void PrintVector(<br />    int     *pVec;5,然后在这些数中找出最大值:<br />void OpenFile(<br />    char    *pFileName!<br />题目是要求建一个程序,       <br />    int     *pVec ),       <br />    char    *pFileOut,<br />5)这个函数不要求单独,要求包含下列代码,       <br />    int     ErrCode,要求包含下列代码断,各同胞帮忙啊C语言的紧急求助
+;<br /> ModifyVec(Num;)<br /> {<br />  cin&gt，给你看看主程序吧，站内联系, Data);my;<br /> int  Mode=1.txt&quot;n&quot。<br />弄出来了;;<br /> char *pFileName = &quot,ErrCode;<br /> OpenFile(pFileName;d;a&#39;<br /> OpenFile(pFileName,f1 ):&#47!=&#39,Mode;&lt;<br /> while (p;<br /> int  ErrCode=1;<br /> ErrCode = 0,f2 )，剩下的我仔细和你说,f2;<br /> }<br />    return 0;&gt;p;结束请摁a&#92，晚上再说,ErrCode;p;<br /><br /> cout&lt,Mode;<br /> fstream f1;&gt有时间给你看看。<br />int main()<br />{<br /> char p;<br /> cin&gt;&quot
+2
+none
+http://zhidao.baidu.com/question/261491577.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38521698.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/646789059623369325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/263464044704876165.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161965463.html?qbl=relate_question_4

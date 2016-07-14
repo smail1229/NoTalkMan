@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+C语言中strlen(s)是什么意思?S是一个数组！
+none
+= &#39。<br />size_t strlen(const char *s)<br />{<br />  const char *sc; *sc ;<br />  for(sc = s,你就明白其中的s是什么意思了;++sc)<br />   strlen是C语言标准库提供的一个函数;0&#39,给你提供strlen的一个版本;&#92;<br />  return (sc-s);
+7
+<p>strlen(s)表示求字符串s的长度。</p><p>strlen函数原型：int strlen(char *s）;</p><p>头文件：string.h</p><p>格式：strlen （字符数组名）</p><p>功能：计算给定字符串的（unsigned int型）长度，不包括&#39;\0&#39;在内</p><p>说明：返回s的长度，不包括结束符NULL。</p><p>参考代码：</p><pre t="code" l="cpp">#include&lt;string.h&gt;<br />#include&lt;stdio.h&gt;<br />int&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;char&nbsp;s[100]=&quot;GoldenGlobalView&quot;;<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%s&nbsp;has&nbsp;%d&nbsp;chars&quot;,s,strlen(s));<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}<br />/*<br />运行结果：<br />GoldenGlobalView&nbsp;has&nbsp;16&nbsp;chars<br />*/</pre>
+fail

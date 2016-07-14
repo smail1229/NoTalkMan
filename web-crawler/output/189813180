@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求精简IF判断的C语言代码
+优化job()函数;<br />static void init();<br />void job()<br />{<br />    if (0 == flag)<br />    {<br />        init()，即只需成功地进行一次，不希望总是无意义地进行if判断。初始化过程若成功则以后不需要再进行。由于回调频繁。若为真则调用exec()函数job()是一个被频繁调用的回调函数，它根据全局变量flag来判断是否已经执行过。<br />int flag = 0。<br />要求：<br />保持现有各形式不变的基础上，否则调用init()来实施初始化;<br />    }<br />    else<br />    {<br />        exec();<br />static void exec()
+fail
+0
+none
+http://zhidao.baidu.com/question/424848595889099492.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1924183349748646347.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/331913700.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1046868431715420219.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1958160738974034260.html?qbl=relate_question_4

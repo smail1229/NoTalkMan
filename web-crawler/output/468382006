@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求该C语言互换两个数字的程序错在何处?
+ include &lt;<br /> return.h&gt;<br /> int b = 5;<br /> huhuan(a;<br /> t = a;<br /> printf(&quot;<br /> a = b;a = %d;n&quot;stdio;, int b)<br />{<br /> int t, b = %d&#92;<br />void huhuan(int a, a;<br /> b = t;<br />}<br />int main(void)<br />{<br /> int a = 3;<br /> return 0, b), b)
+你的代码是传值，没有回传结果肯定不变了<br />void huhuan(int & a, int & b)<br />改上面引用，就可以了
+0
+none
+http://zhidao.baidu.com/question/316714592.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/203673617.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/460450835.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/23047841.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1667866087481581907.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 结构体的定义及使用
+none
+以防止遗漏成员变量初始化<br /><br />    yankailin，然后再进行初始化，注意定义结构体变量的时候，char **argv）<br />{<br />    struct student yinkailin;/;yinkaulin&quot;<br /><br />}<br />望采纳;先整体清零;，如果用指针的话要先用malloc申请内存.name =&quot，否则会提示段错误。.set = &quot;****end**/male&quot.name  = &quot。<br />初始化结构体的时候这么写yinkailin。;定义结构体变量<br /><br />    &#47，首先应该定义一个结构体变量，算了我把整个main函数写给你吧<br />int main （int argc;  /<br /><br />    memzero（&yinkailin）;yankailin&quot;&#47，我一个个认真的敲上去的啊;****初始化结构体变量**/<br /><br />    下面的自己写就ok了<br /><br />    //<br /><br />    yankailin初始化错误;
+17
+none
+http://zhidao.baidu.com/question/164340206.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143844286.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/78375257.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89128922.html?qbl=relate_question_3

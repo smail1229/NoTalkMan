@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，求大神解决，谢谢啦，我是小白，最好能够解释下原因
+已知两个升序序列，将他们合并成一个升序序列并且输出，
+/ a[j]) {<br />          c[k] = a[i];/ m;i ++) {<br />     c[k++] = a[i];<br />&#47,c[SIZE_N*2]; m,b 为有序数组;<br />     }<br />     else {<br />          c[k] = b[j];j &lt。<br />for(i = j = k = 0，c为最终结果。;k ++) {<br />     if (a[i] &gt，<br />int i;i &lt,j;<br />     }<br />}<br />for (i; /采用最简单的归并排序;<br />}<br />for(j;i &lt,b[SIZE_N];<br />          i ++; n && j &lt; n;j ++) {<br />     c[k++] = b[j]int a[SIZE_N];<br />          j ++,k;a
+0
+none
+http://zhidao.baidu.com/question/545064242.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533388192.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533017226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533943050.html?qbl=relate_question_4

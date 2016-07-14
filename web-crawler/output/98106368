@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编写函数int find（）在指针p所指的数组中查找整型数x，如果x在数组中，则该函数返回1。n为数组的大
+),5;x不在数组中&#92;);<br /> m=find(p;%d&quot;<br /> scanf(&quot;<br /> p=a;i++;<br /> n=10：&#92,x);<br /> printf(&quot,i,a[10]={1;<br />  }<br /> }<br /> return(m);,2.h&gt;<br /> if(m==1)<br />     printf(&quot,int n,6,4,int x)<br />{<br /> int i;<br /> else<br />   printf(&quot;<br /> for(i=0,m,9;输入x;<br /> int *p;<br />void main()<br />{<br /> int find(int *p;i&lt# include&lt;<br />   break,int n,x,8,n;n&quot;<br />}<br />int find(int *p,p++)<br />  <br /> {<br />  if(x==*p)<br />  {<br />   m=1;=m,&x),int x),3;n&quot;n&quot,m=0;),7,0};x在数组中&#92,n;stdio
+int n，i&lt; <br /><br />} <br /><br />希望可以帮上楼主的忙！ <br /># include&lt. <br />也可以把i的初始值改为1; <br />scanf(&quot; <br />p=a;x在数组中&#92int find(int *p,n;=n会造成 数组下标越界,int x) <br />{ <br />int m=0;n; <br />} <br />printf(&quot,int n;x不在数组中&#92,2;循环终止条件！也希望楼主的问题可以早日得到解决; <br />&#47.！ <br /><br />改如下,4！ <br /><br />在调用之前先传参！就错在这了。 <br />for(int i=0;i&lt,x););i++,9;%d&quot,7。;; <br />int find(int *p;n！ <br /><br />否则i=0;把调用并传参给find函数后再把返回值赋给m; <br />break,i,int x);find函数的调用.，把&lt，你这是函数声明吗,m！ <br /><br />还有先调用后使用调用函数的返回值， <br /><br />在主函数里调用就可以啦;); <br />m=find(a;n&quot;请问一下,3;); <br /><br />&#47.;n&quot！在main函数外声明好啦;=n,int x),x;这样也可以啦; <br />} <br />} <br />return(m);i&lt.; <br />n=10;输入x;// <br />else <br />printf(&quot;/ <br />void main() <br />{ <br /><br />int *p,p++) <br /><br />{ <br />if(x==*p) <br />{ <br />m=1？如果是; <br />if(m==1) <br />printf(&quot，<br /><br />声明函 数应该在main函数外,a[10]={1,8.h&gt！ <br />int find(int *p;n&quot,10; <br />/=m改为&lt;stdio,5。。,&x)：&#92,6,0}..,int n
+8
+none
+http://zhidao.baidu.com/question/161806623.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7300329.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/549741332.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/521870191.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/33934930.html?qbl=relate_question_4

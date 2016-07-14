@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中^ 的用法介绍
+none
+<br />*编码&#47：利用异或运算可以快速发现两个数据是否完全相同，<br />            即两次异或数值还原。<br />*纠错二进制数间的按位异或运算，运算结果中不同位上数值是1：如果相应位上的两个数字不同则结果为1;加密，这是利用异或运算的特性，解密时只要有这个密钥：经常用一组固定的数值(比如128位或64位)作为密钥，再次与<br />            密文做异或运算则可方便地得到原文，与被加密的<br />            数据进行异或运算后得到密文，如不同是哪一位上<br />       不同，相同0。<br />用途举例
+3
+none
+http://zhidao.baidu.com/question/354046890.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154591535.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/25935666.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/10435366.html?qbl=relate_question_3

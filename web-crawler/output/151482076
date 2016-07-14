@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求教  关于指针的一个简单的例子
+%d&quot;);10;n&quot;i&lt;&#92.h&gt;<br />}<br />最后一句话中的“*(a+i)”是什么意思,&a[i]);;stdio，代表什么意思;<br /> for(i=0;<br /> int i;<br />void main()<br />{<br /> int a[10]#include &lt;;%d&quot;a+1&quot;10;i&lt;外面为什么是小括号;<br /> }<br /> printf(&quot;i++)<br /> {<br />  scanf(&quot;<br /> for(i=0？;i++)<br />  printf(&quot？&quot,*(a+i))
+号中的代表指向（a+i)这个地址的值，*(a+i)表示指向a[0]，,如果出现了*a。<br />一般一个数组a[i]？<br />这个不难理解？还有小括号。数组时C语言中很难学的一部分.<br /><br />很高兴为你解答，而且指向的类型也千变万化，自然很容易记住了，以此类推，则表示的是指向数组a的首地址值<br />所以i=0时.，i=1时表示a[1]。<br />这种约定俗称的东西建议理解下来，而这个引用的模式也是非常丰富的。<br />那为什么是a+i呢
+3
+none
+http://zhidao.baidu.com/question/151583075.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/151587215.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89918397.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/94666277.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/228548425.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：char*a，*b； *b*=a是什么意思？ 如图所示
+none
+    <br /><br /> 47      &#47:    <br /><br /> 59      ;    <br /><br /> 61      =    <br /><br /> 62      &gt,    <br /><br /> 45      -    <br /><br /> 46      ;    <br /><br /> 35      #    <br /><br /> 36      $    <br /><br /> 37      %    <br /><br /> 38      &    <br /><br /> 39      `    <br /><br /> 40      (    <br /><br /> 41      )    <br /><br /> 42      *    <br /><br /> 43      +    <br /><br /> 44      ;    <br /><br /> 63      ;    <br /><br /> 48      0    <br /><br /> 49      1    <br /><br /> 50      2    <br /><br /> 51      3    <br /><br /> 52      4    <br /><br /> 53      5    <br /><br /> 54      6    <br /><br /> 55      7    <br /><br /> 56      8    <br /><br /> 57      9    <br /><br /> 58      ;    <br /><br /> 60      &lt*b*=a    等效于 *b = (*b) * a <br />a的值是a的ascii<br /> 十进制      字符    <br /><br /> 0      nul    <br /><br /> 1      soh    <br /><br /> 2      stx    <br /><br /> 3      etx    <br /><br /> 4      eot    <br /><br /> 5      enq    <br /><br /> 6      ack    <br /><br /> 7      bel    <br /><br /> 8      bs    <br /><br /> 9      ht    <br /><br /> 10      nl    <br /><br /> 11      vt    <br /><br /> 12      ff    <br /><br /> 13      cr    <br /><br /> 14      so    <br /><br /> 15      si    <br /><br /> 16      dle    <br /><br /> 17      dc1    <br /><br /> 18      dc2    <br /><br /> 19      dc3    <br /><br /> 20      dc4    <br /><br /> 21      nak    <br /><br /> 22      syn    <br /><br /> 23      etb    <br /><br /> 24      can    <br /><br /> 25      em    <br /><br /> 26      sub    <br /><br /> 27      esc    <br /><br /> 28      fs    <br /><br /> 29      gs    <br /><br /> 30      re    <br /><br /> 31      us    <br /><br /> 32      sp    <br /><br /> 33      !    <br /><br /> 34      &quot
+1
+none
+http://zhidao.baidu.com/question/143206147.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/125435428.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/537045095.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/502639703.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_4

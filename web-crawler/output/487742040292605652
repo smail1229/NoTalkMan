@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言,x&gt;y?x&gt;z?x:y:y&gt;z?y:z;这句啥意思?
+y?x?x&gt;z;z:y:y&gtrt<br />x&gt?y:z
+z) 返回的是y或者z:y&gt;y?y?x:（y&gt:y）:y;z时返回y;z，否则返回z?y;z，否则返回y:z;<br /><br />分三步，x&gt?x&gt?（x&gt;z:z);z时返回x：x&gt?x?y;<br /><br />（x&gt?x;z;z；<br />（y&gt;y，y&gt；<br />最后在综合以上结果;y？（）x&gt:y）返回的是x或者y：<br />x&gt;z
+6
+none
+http://zhidao.baidu.com/question/161307288.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/177518892.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/34699283.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/43684712.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/97050775.html?qbl=relate_question_4

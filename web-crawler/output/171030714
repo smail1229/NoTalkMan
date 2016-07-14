@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的i++与++i的使用区别？举例说明
+希望能详细点~谢谢~
+如果i的初始值是0、输出i++则为0<br />++i是使用前加1，如果i的初始值是0i++是使用后再加1
+29
+none
+http://zhidao.baidu.com/question/78117718.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/141656812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2600807.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/16537798.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/183425426.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言题目：编写交换两个整型变量值的函数用main函数调用它
+none
+<br />  *a=*b,int* b)<br />{  int temp=0;<br />   temp=*a;<br />   *b=tempvoid swap(int *a
+2
+none
+http://zhidao.baidu.com/question/393969229.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/248418435.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/680058565481317052.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/108846306.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/48024955.html?qbl=relate_question_4

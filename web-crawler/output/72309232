@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言用格里高利公式求pi问题
+而不是pi的值;math;stdio;<br /> }<br /> pi=pi*4; item=1;;pi=%8.141576;<br />  s=-s;<br /><br /> pi=0;<br /> while(fabs(item)&gt.6f&quot,为什么我的执行结果是3#include &lt,i;<br />#include&lt.h&gt;<br /> printf(&quot; <br />{  <br />这是书上用格里高利公式求pi的值的一个例子,item;<br />  item=s&#47,pi);i.h&gt;<br /> float pi;=eps){<br />  pi=pi+item;   i=1;<br />  i=i+2，我用的vc;<br />#define eps 1e-5<br />void main()<br />{<br /> int s=1
+//&#47,b,用数组记录下各位各组计算产生的进位;&#47,d;%;////&#47,g;/a);///////&#47。 <br /><br />让你见识一下世界上最强的π的计算程序？;/d=0,e+d// <br />long a=10000;/ <br />#include &lt;//////////&#47,d//;///// <br />} <br />&#47,g=c*2;/ <br />for(，用数组记录下各各组位计算产生的余数~~ <br /><br />公式推导和精度的确定需要用到泰勒公式和泰勒公式余项的计算,c=2800;//) f[b++]=a//=g--,f[2801];d*=b);///////////////b-c;//&#47？ <br />肯定不能求出来啊~~ <br />关键是精度~~double大到（或小到）一定的时候就不能精确了~~ <br /><br />一般算无理数需要用数组模拟基础运算~~分位或分组计算出答案~~ <br /><br />比如π;/&#47,e=d%a) <br />for(b=c;/&#47.h&gt;////////&#47double能算几位;//d+=f[b]*a,e.4d&quot;////stdio;5;//c-=14;///&#47，再对下一位进行计算~~ <br />e;//////&#47，需要将公式转换成连除的形式;&#47,--b; <br />void main() <br />{ <br />for(！ <br /><br />&#47,printf(&quot,f[b]=d%--g;///&#47，需要将公式转换成连乘的形式;///&#47
+6
+none
+http://zhidao.baidu.com/question/148549941.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91300738.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/568364011.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/196625166.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/424347928.html?qbl=relate_question_4

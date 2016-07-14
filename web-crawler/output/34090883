@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言函数返回值什么意思
+none
+fail
+8
+所谓函数返回值是一个函数在运算结束以后向调用它的母函数或者系统反馈一个值,这个值可以是各种变量类型.<br />举个简单的例子:<br />int add(int a,int b)<br />{<br />  return (a+b);<br />}<br /><br />int main()<br />{<br />  int res;<br />  res=add(3,4);<br />  printf(&quot;%d&quot;,res);<br />  return 0;<br />}<br />在主函数main中调用子函数add,并传递参数3和4过去，add经过运算后得到值7，通过return语句将得到的值返回给调用它的main函数供其使用，而在main中，返回值被用于给res赋值。<br />函数返回值就可以理解为解决一个问题以后得到的结论，把这个结论交给别人，就像写在书上成为一个定理，来让别人使用。
+http://zhidao.baidu.com/question/211490601.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/409888433.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/158343638.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/108639915.html?qbl=relate_question_3

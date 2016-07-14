@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+计算机c语言中i++代表什么意思
+none
+i的值加1
+16
+是自增运算，而且是先加1后再执行。<br /><br />例如：<br />int i,k;<br />for(i=0,k=0; i&lt;5; i++)<br />{<br />    k += i++;<br />}<br />第一次进入时i的初始值是0，k的初始值也是0。这时的i++并没有在本次语句中起到加一的作用，而是要在本次操作结束后再起作用，也就是在第一次循 环完全结束后。进入循环体本人看，k += i++;这时由于这里的是i++（需要先操作后加1），所以，k的值理所当然是0了，而在本句结束后i的值就进行了加1操作，在本次循环结束时又进行了一 次加1操作，所以本次循环结束后k＝0，i＝2；<br /><br />第二次进入时i的初始值是2，k的初始值是0。同理分析，在k += i++;后k的值为2了，而i的值也由于两次i++变为了4。所以，本次循环结束后k＝2，i＝4；<br />第三次进入时i的初始值是4，k的初始值是2。同理分析，在k += i++;后k的值由于经过原来的值与i当前的值相加后变成了6，而i的值同样是在最后加了两个1。所以在本次循环结束后k＝6，i＝6；<br />第四次准备进入循环时，发现i的值已经比5大了。因此，程序终止。最后k的值为6，i的值也为6。
+http://zhidao.baidu.com/question/130754638.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/173050167.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/808987599552028532.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136295095619630645.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/149134645.html?qbl=relate_question_4

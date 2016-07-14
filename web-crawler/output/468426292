@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请C语言达人给解释一下： struct s { int a:2; int c:1; char b:3; };占多大内存
+这个旦郸测肝爻菲诧十超姜呢<br />struct s <br />{<br /> int a:2;<br /> char b:3;<br /> int c:1;<br />};
+结构体位域的，a占两位 b 三位 c一位 ，可能是占一个字节的内存吧 <br /> <br />vc6.0 应该是占12个字节；<br />如果是<br />struct s <br />{<br /> int a:2;<br /> int b:3;<br /> int c:1;<br />};<b旦郸测肝爻菲诧十超姜r />的话只占4个字节
+1
+none
+http://zhidao.baidu.com/question/275507981.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54654910.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/407411554.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1668322026539532427.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/425176488076419292.html?qbl=relate_question_4

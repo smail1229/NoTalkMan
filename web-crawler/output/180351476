@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+a[n-1-i]与a[n-i-1]有什么不同 c语言
+a[n-1-i]与a[n-i-1]有什么不同 c语言
+<br />两个访问的是相同的元素，只是写法上面的差异罢了没有什么不同 ，如果里面的n-1-i值是合理范围的话。。
+0
+none
+http://zhidao.baidu.com/question/1637984063744132820.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262391537417202365.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1667752873917534187.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2051876440680459827.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1946131489180807508.html?qbl=relate_question_4

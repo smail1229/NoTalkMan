@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+如何编写一个c语言程序求数组每行最大值,再将最大放在一维数组
+none
+j&lt;stdio.h&gt;5,i;%d&quot;j&lt, i+1;n&quot;j++){<br />   scanf(&quot,b[5];i++){<br />  for(j=0,b[i]);<br /> printf(&quot;b[i])<br />    b[i]=a[i][j];<br />  }<br /> }<br /> for(i=0：&#92,&a[i][j]);;j++){<br />   if(a[i][j]&gt;<br />int main(void){<br /> int a[5][5];i++){<br />  for(j=0;：%d&#92;n&quot;);<br /> for(i=0,j#include &lt;输入5×5个数,b[i]=a[i][0];i&lt;<br /> } <br /> return 1;i&lt;5;5;第%d行最大的数是;5;<br />  }<br />  printf(&quot
+0
+none
+fail

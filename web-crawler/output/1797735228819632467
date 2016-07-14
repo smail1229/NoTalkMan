@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，大神求解答，int k=5；while（k--）；这样的语句可以做到while循环吗？若可以求示范..
+none
+可以得，当k减少到0就退出循环了，可以机器上试一下，你在while循环中输出k看输出几次
+0
+none
+http://zhidao.baidu.com/question/1690021413332902188.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1669465456584142787.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38661793.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/176803735424334364.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/263371845545949205.html?qbl=relate_question_4

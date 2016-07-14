@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言定义二维数组的问题
+以下能正确定义二维数组的是（）(正确答案:B)<br />A） int a[ ][3]; <br />B)    int a[ ]={2*3} <br />C)    int a[ ][3]={ }; <br />D)    in俯胆碘感鄢啡碉拾冬浆t a[2][3]={{1},{2},{3,4}};<br />为什么上边这道题的答案是B,不是C?还有,“int a[ ][3]={2*3};”和“int a[ ][3]={6}&quot;等价吗？
+以下能正确定义二维数组的是 -- 以下能正确定义 数组的是 (去掉二维两字）。<br /><br />A） int a[ ][3];  -- 语法错，没带初始化，不允许用 [空白]，不允许 数组大小不定。<br /><br />B) int a[ ]={2*3} -- 正确定义了数组,是一维数组，数组元素只有1 个，初始化数值为 2*3 ,就是 6。<br /><br />C) in俯胆碘感鄢啡碉拾冬浆t a[ ][3]={ }; -- 语法错，花括号里没填初始化数值。<br /><br />D) int a[2][3]={{1},{2},{3,4}}; -- 语法错，数组声明为2行3列，却初始化为3行2列。  如果是 int a[3][2]={{1},{2},{3,4}}; 语法就正确了。<br /><br />所以答案是 B
+4
+none
+http://zhidao.baidu.com/question/38622502.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/490615195.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149931174.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/530621102.html?qbl=relate_question_3

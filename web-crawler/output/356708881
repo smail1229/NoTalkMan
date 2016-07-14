@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序改错：下列给定程序中，函数fun()的功能是逐个比较a，b两个字符串对应位置中的字符，
+none
+fail
+2
+#include  &lt;stdio.h&gt;<br />#include  &lt;string.h&gt;<br />void fun(char *p,char *q,char *c)<br />{ int k=0;<br />  while(*p||*q)<br />&#47;**********************found***********************&#47;<br />       { if (*p&gt;=*q)  &#47;&#47;只需要改这里的就是了<br />            c[k]=*q;<br />         else c[k]=*p;<br />         if(*p)  p++;<br />         if(*q)  q++ ;<br />&#47;**********************found***********************&#47;<br />         k++;&#47;&#47;这里是有分号的<br />       }<br />}<br /><br />main()<br />{ char a[10]=&quot;fshADfg&quot;,b[10]=&quot;sdAEdi&quot;,c[80]={&#39;&#92;0&#39;};<br />  fun(a,b,c);<br />  printf(&quot;The string a:&quot;); puts(a);<br />  printf(&quot;The string b:&quot;); puts(b);<br />  printf(&quot;The result :&quot;); puts(c);<br />}
+http://zhidao.baidu.com/question/154309313.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/279918874.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/144232074.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/128217494.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/199111897864485405.html?qbl=relate_question_4

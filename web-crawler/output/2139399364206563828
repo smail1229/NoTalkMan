@@ -1,0 +1,11 @@
+电脑/网络 
+关于C语言字符数组初始化的问题？如 char str[256]={&#39;&#92;0&#39;};，除str[0]
+&#92，剩下的元素str[i]的值应该是多少;0&#39？如<br />char   str[256]={&#39;;关于C语言字符数组初始化的问题，除str[0]=&#39;;&#92;&#92;0&#39;}，还是其他的什么（比如说任意值）;0&#39？是 &#39
+你这样赋值
+0
+none
+http://zhidao.baidu.com/question/525742997.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/523697986.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554077339.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/237402484.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1447199998609417980.html?qbl=relate_question_4

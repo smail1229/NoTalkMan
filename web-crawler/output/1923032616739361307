@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序错在啊那？？？
+ p[i];stdio;<br />	for (i=0, int len)<br />{<br />	int i;age= &quot, int len)<br />{<br />	int i；<br />	sort(p;<br />int main(void)<br />{<br />	int len; ++j)<br />			if(q[j];n&quot;;name = %s&#92;, len);), i+1);<br />		float score.score &gt;<br />		scanf(&quot;<br />void output(struct student *;.age );len;<br />		scanf(&quot;n&quot;<br />	<br />		printf(&quot;<br /><br />		printf(&quot, len).age).h&gt;<br />	struct student t;), int); ++i)<br />	{  <br />                  for (j=0;<br />void sort(struct student * ;len = &quot;<br />	p = (struct student *)malloc(len * sizeof(struct student)); i&lt;malloc：&#92;score = %f&#92;请输入第%d个学生信信息;%d&quot; j&lt;);<br />	 printf(&quot;<br />			}<br />	}<br /><br />}<br />void output(struct student * p; q[j+1];<br />	output(p;;<br />		int age, int ), &len), len);name= &quot, i+1), q[i]; i&lt;.name), p[i];<br /><br />	return 0# include &lt;请输入学生个数;;%s&quot：&#92, int );.score); ++i)<br />	{<br />		printf(&quot.h&gt;score= &quot;动态构造一维数组<br />	printf(&quot.name);<br />				q[j]= q[j+1]：&#92, int len)<br />{<br />	int i, &q[i];<br />		printf(&quot;n&quot;age= %d&#92;<br />	scanf(&quot; i&lt;%d&quot;<br />	printf(&quot;<br />	<br />	 printf(&quot;<br />void input(struct student * ;<br />				q[j+1] = t;<br />	struct student<br />	{<br />		char name[100];<br />          printf(&quot;<br />}<br />void input(struct student * q;第%d个学生信息是;n&quot, p[i].score)<br />			{<br />				t = q[j];;<br /><br />	for (i=0;<br />		scanf(&quot;<br />	struct student * p;n&quot, &q[i];%f&quot, j;<br />   <br />	input(p;;); ++i)<br />	{<br />	 printf(&quot;len-1-i;<br />	};len-1;<br />	&#47;<br />	}<br />}<br />void sort(struct student * q;&#47;len;<br />	for (i=0;);n&quot;<br /># include &lt.score)
+fail
+3
+none
+http://zhidao.baidu.com/question/533541354.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1766132163895982060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/532717531.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1301981996468623859.html?qbl=relate_question_3

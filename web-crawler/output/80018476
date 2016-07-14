@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言库函数
+自己怎么编写c语言库函数，请教导我具体方法，我有很多函数想作为库函数
+myfile; i&lt。比如;); i++) <br />{ <br />printf(&quot;&#47.h <br /><br />举个例子; <br />for(i=0;);n&quot; <br />printf(&quot！;/myfile;打印*矩形 <br />{ <br />int i，成了自定义的库函数 <br /><br />【2;&#92.;n&quot; <br />} <br />} <br /><br />&#47，直接引用就可以.！;&#92;);n&quot; <br />printf(&quot;); *** &#92： <br /><br />#include &quot.h)放在 d <br />盘; <br />for(i=0.h文件放在d盘 <br />可以新建一个记事本文件（后缀;n&quot.h）如果你能找到你的编译器的库文件放在哪里，你很难找到库函数的文件在哪;n&quot;stdio:&#92.】在主函数中;&#92.】把myfile：&#92;盘;*********** &#92; <br />printf(&quot.txt）。 <br /><br />因此; <br />printf(&quot;n，相当于库函数 <br /><br />#include &lt; i++) <br />{ <br />printf(&quot; ********* &#92;打印*三角形 <br />{ <br />int i;n&quot;* *&#92.;);n&quot;还可以有更多的函数，你只能把自己写的函数电脑的某个盘里.h文件中定义了 <br />} <br /><br />这就成了引用库函数了！.，引入该文件;d;);n&quot.h&quot，如d;&#47，在该文件中添加如下内容;&#92;* *&#92.h&gt;&#92; ******* &#92;n; / myfile，引用的时候直接引用就行;n&quot，该文件包含两个函数（即自定义的库函数） <br />void main() <br />{ <br />Display_San(2).放在一个文件中;)，自己写个文件(myfile; <br />printf(&quot;n&quot;)，把文件名改为（myfile:&#92，即路径为 d;):&#92;* *&#92:&#92！; <br />printf(&quot;//n&quot，那么只要把你的自己编写的函数放在编译器的库函数的文件中; /);n&quot; i&lt; * &#92： <br /><br />【1;);/ <br />printf(&quot; /在d： <br /><br />/ <br />printf(&quot.h 自定义一个的输出 * 图行的文件; <br />} <br />} <br /><br />void Display_Si(int n) / <br />printf(&quot！; <br />void Display_San(int n) &#47.h文件中定义了 <br />Display_Si(3);/);* * * * * *&#92; ***** &#92;* * * * * *&#92;引入自定义的文件;* *&#92; <br />printf(&quot。 <br /><br />但是很多编译器的库函数是不开放的;myfile.;在d.;myfile
+23
+none
+http://zhidao.baidu.com/question/96590404.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/172690092.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/408684924.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/219639208.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/106730723.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+从键盘输入一个四位的正整数X，c语言编程计算X的每一个数字相加之和，怎么写以及思路
+none
+#include &quot;stdio.h&quot;//包含头文件<br />main()<br />{<br />int x,a,b,c,d;//声明四个变量用于存储四位数及其各位的数<br />printf(&quot;请输入一个四位整数&#92;n&quot;);//输出提示语句<br />scanf(&quot;%d&quot;,&x);//从屏幕上获取这个四位数<br />a=x%10;//获取个位<br />b=(x%100)/10;//获取十位<br />c=(x%1000)/100;/俯定碘剐鄢溉碉税冬粳/获取百位<br />d=x/1000;//获取千位<br />printf(&quot;%d各位相加结果为%d&#92;n&quot;,x,a+b+c+d);//输出这个四位数及其各位的和<br />}<br />vc上运行通过。希望你能满意
+17
+none
+http://zhidao.baidu.com/question/567401117.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210640775.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/212763873.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97349454.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/243774199.html?qbl=relate_question_4

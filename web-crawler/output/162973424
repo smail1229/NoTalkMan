@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程求：编程计算1!+2!+3!+……+n!的值(n&lt;25,n的值由键盘输入)
+求助呀！！！
+= n;<br /> else<br />  return n * factorial(n-1);%d! = &quot, 1;<br /> else<br />  printf(&quot.;;<br /> for (i = 1;!+;<br /> scanf(&quot;%d;<br /> printf(&quot, 2;n&quot, result).! = &quot;;;<br /> if (n == 0)<br />  printf(&quot!+2:<br />20<br />1, i = 0：<br />Please input a number! = &quot;<br />}<br /><br />例子!+%d;<br />}<br />int main(void)<br />{<br /> int n = 0;<br /> return 0;<br /> else if (n == 1)<br />  printf(&quot！<br /><br />我帮你写个这题很简单的吧;<br /> printf(&quot;%d., n);%d&quot! = &quot;<br /> }<br /> PrintResult(n, sum);<br />}<br />void PrintResult(int n.h&gt, 2);!+%d：<br /><br />#include &lt, 0); i++)<br /> {<br />  sum += factorial(i); i &lt, 1;%d: &#92, &n););n&quot.;<br /> long sum = 0, 1);;<br /> else if (n == 2)<br />  printf(&quot;%lu&#92.+%d!+, long result)<br />{<br /> int i = 0;<br />long factorial(long n)<br />{<br /> if (n == 0 || n == 1)<br />  return 1;stdio;Please input a number.+20
+0
+none
+http://zhidao.baidu.com/question/144977259.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/284898531.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41383800.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/514251995.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211314039.html?qbl=relate_question_4

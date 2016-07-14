@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言  已有一个已排好序的数组，今输入一个数，要求按原来排序的规律将它插入数组中。
+none
+int* array;<br /> }<br /> do<br /> {<br />  array[i+1]=array[i],i;i;<br />  array[count]=val，array为已排序的数组（假设为升序）。<br />{<br /> int count;/<br />  }while(i&gtinsert(int val;array[count]) break;<br />  i--;val为要插入的数;&#47，len为数组元素个数;count&lt,int* len)<br />/<br />  (*len)++;<br /> i=*len;count++)<br /> {<br />  if(val&lt;=count); /<br /> for(count=0
+2
+none
+http://zhidao.baidu.com/question/299020347.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38521698.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/493881340.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/94836495.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1691866834029232308.html?qbl=relate_question_4

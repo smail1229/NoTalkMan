@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言基础问题，第九题解析
+none
+b。<br />宏定义在使用中会被替换掉<br />x = 2*(N+Y(5+1)) :<br />会被替换为<br />x = 2*(3+((3+1)*5+1)) = 2*(3+20+1) = 2* 24 = 48
+1
+none
+http://zhidao.baidu.com/question/228369819.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1046241170825369739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/286526909.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/211736106.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488086703740772932.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言return 怎么理解
+<br />    p++.h&gt;string;<br />int findStr(char *str;0&#39;)<br />   n++;<br />  r = substr;<br /> }<br /> return n.h&gt;<br />   }<br />  if (*r == &#39.h&gt;<br />#include &lt;conio, *r;<br />  while (*r)<br />   if (*r == *p)<br />   {<br />    r++;<br />   }<br />   else<br />   {<br />    break;<br />  str++;<br /> n = 0, char *substr)<br />{<br /> int  n;&#92;<br />#include &lt;stdio;<br /> while (*str)<br /> {<br />  p = str;<br /> char  *p#include &lt
+可以暂时先不考虑。。，然后得到结果，你就需要返回值。<br /><br />就像你用数学公式一样，那么可以不需要，当然也可以通过传指针的方式得到结果。。，比如打开显示器。。<br />在这种情况，但这个程序又认为肯定不会错误的，这是另一回事。return 其实是把这个函数的运行结果告诉函数调用处。。<br />如果函数调用处用不着这个词。<br /><br />如果你需要调用函数去做具体的某件事。，把值输进去，那么这种情况可以不用return了
+3
+none
+http://zhidao.baidu.com/question/13189048.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/918426942026270739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/487266165.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148724561.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/117882911.html?qbl=relate_question_4

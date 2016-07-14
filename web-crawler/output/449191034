@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中如下定义是什么意思,求解释：
+abc     =   dev_mountstatic struct file_system_type abc={ <br />    ,<br />}, <br />    .kill_sb =   kill_litter_super
+这是定义了一个file_system结构的静态对象<br />采用的是标记化结构初始化的方法<br />这种方法可以对每个结构的部分成员进行初始化，而不需要对全部成员一一初始化<br />这样扩展性更强，就算结构新增了一些成员，原先的函数也能够运行
+1
+none
+http://zhidao.baidu.com/question/238394786.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/481849891.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/389803666466453765.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/245525336.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253352495.html?qbl=relate_question_4

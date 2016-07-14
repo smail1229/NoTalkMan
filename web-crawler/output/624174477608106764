@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数return问题
+c,float y)<br />{<br />if(y==0){printf(&quot#include &lt;n&quot,b;stdio;y);<br />char sign,b);<br />float div(float x;return;<br />c=div(a;}<br />else return (x&#47;;%f&#92,&a;%f%c%f&quot;;<br />printf(&quot;除数不能为零&#92;<br />}<br />void main()<br />{<br />float a;n&quot.h&gt;<br />scanf(&quot,c),&sign,&b);<br />}<br />为什么有的软件又能运行呢;)
+没有说任何情况下都要 return 0啊。<br />所以在程序正常运行结束退出时用 return 0..，期待它应该是 100 的时候正常退出.<br />如果你的程序是非正常退出。<br />例如你的程序到最后求一个数值 a ；&#47.; 到最后    if (a == 100) {        return 0;    } else {        return -1;/ 前面一些其他运行/&#47，就可以这样，当然可以 return 其他数值;/    }}<br />是否可以解决您的问题; ：<br /><br />int main() {    int amain 中退出前的 return 一般默认 0 为程序正常退出.&#47
+0
+none
+http://zhidao.baidu.com/question/169512984.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/131803271.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1046321202330286419.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/525322268.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/439774435.html?qbl=relate_question_4

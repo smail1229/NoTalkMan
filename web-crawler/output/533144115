@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言,这个赋值语句对的还是错的 x=x+y+1
+none
+对的，意思是把右边算出的值赋给左边，此时x的值已经改变
+0
+none
+http://zhidao.baidu.com/question/238040978.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/561161149.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554460551.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239042676.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/58547632.html?qbl=relate_question_4

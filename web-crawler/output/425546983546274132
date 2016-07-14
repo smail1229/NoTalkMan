@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言。若已定义x和y为double类型，则表达式“x＝1，y＝x+3&#47;2”的值是
+）2.0      B）2      C）1             D）2，解释一下.5<br />答案是A
+复制给double型的y所以是2，所以认为3&#47.然后加上double型的x;2的结果也是int的，舍弃后面的尾数，仅留下整数位的1因为3和2都是int型的
+8
+none
+http://zhidao.baidu.com/question/51015080.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/688649720267413924.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1302236185446840179.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/216725626.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/330813509.html?qbl=relate_question_4

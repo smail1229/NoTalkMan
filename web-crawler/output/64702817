@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的双精度浮点型是什么意思？
+none
+fail
+1
+C语言中,双精度(double)型占8 个字节（64位）内存空间，其数值范围为1.7E-308～1.7E+308，可提供16位有效数字。 <br />浮点型说白了就是科学记数法<br /><br />双精度，即 double 。 <br /><br />C 标准要求 float 类型至少要能精确表示到小数点后6位，并且整数部分的表示范围至少要达到 10-37 -- 10+37 。float 一般是 32 位的。 <br /><br />C 标准规定double 类型的整数部分的最小表示范围和 float 一样，都是 10-37 到 10+37，但是它要求 double 类型的小数部分至少要能精确到小数点后 10 位。double 通常是 64 位的。 <br /><br />C 还提供了 long double 类型，目的是提供一种比 double 更加精确的类型。然而，C 标准仅仅规定 long double 至少要和 double 一样精确。
+http://zhidao.baidu.com/question/19685124.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/518714985.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/420649276.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91534154.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/569110784.html?qbl=relate_question_4

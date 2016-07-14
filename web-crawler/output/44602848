@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 关于定义类型far 的作用
+求解关于c语言 定义类型far 的作用?比如:void far settextstyle()?
+早期的dos编程模式中使用的内存分段模式,现在windows程序都使用平坦内存模式,就不存在近跳转和远跳转了,函数名字代表的是函数的入口地址,所以这个地址寻址在编译的时间可以决定是代码段内near跳转还是段间far跳转这个应该是近跳转和远跳转的区分
+6
+none
+http://zhidao.baidu.com/question/129882164.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/109436376.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424526768950607732.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/807908672635338572.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/547401996.html?qbl=relate_question_4

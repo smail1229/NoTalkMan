@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+问个c语言的问题，如果n=9,那么if(n++&lt;10)是什么意思？是直接取n比较，还是先加1呢？
+none
+取最右边表达式的结果 9&lt;10)<br />{<br />} <br />逗号表达式;10)  同时n自加,9&lt后缀++是先取值再自加<br />如果n=9 ;10) 就是if(9&lt， 那么if(n++&lt,所以会执行if块语句 <br />可以把这个语句看成 <br /><br />if(n++,
+2
+none
+http://zhidao.baidu.com/question/228631969.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/217519527.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/252795535.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258790648.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/935891922076742212.html?qbl=relate_question_4

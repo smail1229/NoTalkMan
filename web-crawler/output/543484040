@@ -1,0 +1,11 @@
+电脑/网络 
+c语言简单程序，新手，不懂，求解释
+能被400整除的年份是闰年;:闰年的条件是.h&quot从键盘输入一个正整数作为年份;<br />       else flag=0;<br />}<br />if else 语句没看明白;YES&quot，编程判断该年是不是瑞年;<br /> scanf(&quot。若是输出“YES&quot;<br /> if(year%4==0)<br />    if(year%100==0)<br />       if(year%400==0)flag=1，否则输出”NO&quot，分别有3个if  else ;。<br />#include &quot；2,flag;NO&quot？if(year%400==0)flag=1;stdio，他们是怎么对应的;<br /> else printf(&quot;;<br /> else flag=0。<br /> 分析：1;<br />main()<br />{<br /> int year，但不能被100整除的年份是闰年;%d&quot;);<br /> if(flag) prinft(&quot,&year););<br />   else flag=1.能被4整除
+意楼上说的加{}来分层次，看你发的这段代码的缩进关系，但不能整除400的条件<br />下一行的flag=1必须满足整除4。<br />那么。如果flag=1回车下来。<br /> if(year%400==0)flag=1，也能看出if与else的对应关系，if或else后面的语句就能看出关系来了。<br />下一行的flag=0必须满足整除4和整除100，其实没有加{}，应该缩进在if (year%400==0)下面;　这个flag=1是必须满足三个if的条件，不过，但不能整除100的条件<br />最后的flag=0只要不能被4整除就走这条
+1
+none
+http://zhidao.baidu.com/question/111013171.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/193547244.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/386808167.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/236676751.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142050713.html?qbl=relate_question_4

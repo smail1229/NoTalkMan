@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的!(--x)是啥意思??
+积分没了，一定补上
+<br />然后取反<br /><br />！就是取反<br /><br />意思就是说<br /><br />如果（x-1）非0，则，也就是！（x-1） = 0<br />如果（x-1）为0，则！（x-1）就是让X先自减1
+5
+none
+http://zhidao.baidu.com/question/177552883575547684.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/228527206.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2138317171256886028.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/231025668.html?qbl=relate_question_3

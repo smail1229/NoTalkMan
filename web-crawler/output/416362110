@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 char 数组疑问
+不能进行判断？<br />谢谢各位了.;<br />if(b[1]==0xaa)<br />{？<br /><br />我现在想用一个数组或字符串存放三个数  0xaa  0xbb  0xff,0xaa，该怎么做；<br />但是如果定义<br />char b[2],0xff}时会出现超出范围的错误.，数组或者字符串必须用char类型..}<br />编译器却没有说超出范围为什么定义 char a[2]={0xaa
+<br />int a[n]，你最后想的；a中有n个元素int a[2],a[1]……a[n-1]<br /><br />解释看懂了。哪里能放3个元素！ <br /><br />char 1个字节，分别是a[0]。可以表示0-255<br />我的电脑测试是没有问题的；a只能放2个元素啊，我想应该知道怎么弄了，应该是无符号整数
+0
+none
+http://zhidao.baidu.com/question/58792099.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/436933289.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1755139790127956428.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1603686914468016827.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/15327896.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言-getch() 和 getchar() 有什么区别
+none
+ <br />getch与getchar基本功能相同.getchar函数的返回值是用户输入的第一个字符的ASCII码,出错返回-1.也就是说,getch返回值是用户输入的ASCII码,且将用户输入的字符回显到屏幕,getch就立刻返回.如用户在按回车之前输入了不止一个字符,后续的getchar调用不会等待用户按键,只要用户按一个键,在关键位置显示有关的结果以待查看.程序就等着用户按键,差别是getch直接从键盘获取键值,在调试时,直到缓冲区中的字符读完为后.当程序调用getchar时,而直接读取缓冲区中的字符,等待后续getchar调用读取,其他字符会保留在键盘缓存区中,然后用getch函数暂停程序运行.输入的字符不会回显在屏幕上.用户输入的字符被存放在键盘缓冲区中getchar有一个int型的返回值,当按任意键后程序继续运行.<br /><br />简单的说.直到用户按回车为止(回车字符也放在缓冲区中),如出错返回-1.getch函数常用于程序调试中,才等待用户按键,不等待用户按回车
+0
+none
+http://zhidao.baidu.com/question/49839021.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/6769645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/16299763.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/112314833.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/106183760.html?qbl=relate_question_4

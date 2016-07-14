@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计基础，懂的来。
+有以下函数： fun(char *a, char *b) { while((*a!=&#39;&#92;0&#39;)&&(*b!=&#39;&#92;0&#39;)&&(*a==*b)) { a++;b++;} return(*a-*b); } 该函数的功能是______。<br />A．计算a和b所指字符串的长度之差<br />B．将b所指字符串连接到a所指字符串中<br />C．将b所指字符串连接到a所指字符串后面<br />D．比较a和b所指字符串的大小<br />*a==*b这个是什么意思？是指俯发碘菏鄢孤碉酞冬喀长度吗？{ a++;b++;} 又是什么意思？求详解阿。
+选D，<br />自己先想一下，不清楚的话再追问吧<br /><br />这个函数是比较两个字符串的大小。<br />while((*a!=&#39;&#92;0&#39;)&&(*b!=&#39;&#92;0&#39;)&&(*a==*b)) { a++;b++;}<br /><br />这是说，俯发碘菏鄢孤碉酞冬喀从第一个字符开始比较，*a==*b表示当前这两个字符相等，就往下比较下一个字符<br />知道有不相等的，或是字符串完了
+0
+none
+http://zhidao.baidu.com/question/488645845.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/616451716699491892.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/130131715.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130272430.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/575813547.html?qbl=relate_question_4

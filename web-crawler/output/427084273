@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+简单的C语言程序，为什么输出始终是0啊？
+=n,c、零和正数的个数。<br /><br />Input<br />输入数据有多组，表示需要统计的数值的个数;0)<br />              {a=a+1;;<br />              if(s&lt，每组占一行，则表示输入结束.5<br />0 <br /><br />Sample Output<br />1 2 3<br />0 0 5<br />我的程序;<br />      b=0,b和c;;i&lt,&n);<br />          for(i=1，每行的第一个数是整数n（n&lt;stdio;100）;<br />     while(scanf(&quot,&s)。<br /><br />Sample Input<br />6 0 1 2 3 -1 0<br />5 1 2 3 4 0，然后是n个实数;<br />main()<br />{<br />int n,b,aProblem Description<br />统计给定的n个数中,c)，负数;<br />      c=0;;}<br />              if(s=0)<br />              {b=b+1!=0)<br />     {<br />      a=0、零和正数的个数；如果n=0;<br />double s,b:<br />#include&lt;}<br />         } <br />      printf(&quot;0)<br />              {c=c+1;i++)<br />         {<br />          scanf(&quot，该行不做处理;}<br />              if(s&gt，输出一行a,i;%d&quot，分别表示给定的数据中负数;%d&quot,a.h&gt;%d %d %d&quot。<br /><br />Output<br />对于每组输入数据
+<br />      b=0;i&lt;}<br />              if(s=0)        /这里把整数送到double数中了,b;<br />          for(i=1;%lf&quot;<br />main()<br />{<br />int n,&n);&#47,&s);=n,c);,b。<br />#include&lt;0)<br />              {c=c+1,a; <br />              if(s&lt，改为scanf(&quot;%d&quot;这里没判断n的值; &#47,&n);,c;%d %d %d&quot;%d&quot;/%d&quot;i++)<br />         {<br />          scanf(&quot;<br />double s,a;;0)<br />              {a=a+1!=0)<br />     {<br />      a=0!=0 && n;<br />     while(scanf(&quot;这里改为if(s==0)<br />              {b=b+1;/见程序中的注释,i;stdio;}<br />              if(s&gt,&s)，改为while(scanf(&quot;}<br />         } <br />      printf(&quot;<br />      c=0;.h&gt!=0) &#47
+3
+none
+http://zhidao.baidu.com/question/425756041666752532.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/243843379.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/235292334.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/149946076.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/79145014.html?qbl=relate_question_4

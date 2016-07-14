@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：键盘输入10个数存入数组中，将这10个数逆序输出
+none
+<br />  flushall(),array[10];i&lt;i--)<br />  printf(&quot;stdio;=0这是你要求的程序;逆序输出为;%d&#92,array[i])，我已经通过vc调试运行通过了<br />#include&lt.h&gt,&array[i]);输入第%d个数;i&gt：&#92;i++)<br /> {<br />  printf(&quot;;);n&quot;t&quot;<br /> }<br /> printf(&quot;<br /> printf(&quot;<br />  scanf(&quot;n&quot,i+1)：&quot;&#92;%d&quot;);;;<br /> for(i=9;10;<br /> for(i=0;<br />void main()<br />{<br /> int i=0
+16
+<p>通过循环即可实现该功能</p><p>1 顺序循环，输入10个数值；</p><p>2 逆序循环，输出10个数。</p><p>代码</p><pre t="code" l="cpp">int&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;i,&nbsp;a[10];<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i&nbsp;=&nbsp;0;&nbsp;i&nbsp;&lt;&nbsp;10;&nbsp;i&nbsp;++)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scanf(&quot;%d&quot;,a+i);<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i&nbsp;=&nbsp;9;&nbsp;i&nbsp;&gt;=&nbsp;0;&nbsp;i&nbsp;--)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%d&nbsp;&quot;,a[i]);<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre>
+http://zhidao.baidu.com/question/509791266.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41663053.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206956386.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/545778849.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/508245142.html?qbl=relate_question_4

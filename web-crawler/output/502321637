@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言。写万年历。总天数s=(year-1)*365+(year-1)&#47;4-(year-1)&#47;100+(year-1)&#47;400+1。为什么要加1？
+none
+从1号到5号是几天，显然不对？计算得话，这么说应该能明白了吧：5-1=4（天），所以要加上本身的那天，也就是5-1+1=5（天）简单的说
+2
+none
+http://zhidao.baidu.com/question/204721789.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/332259201.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/70158830.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1430746204348733219.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2138206002161308348.html?qbl=relate_question_4

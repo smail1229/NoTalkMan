@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，指针变量可以这样用吗？？
+<br />这样后；<br />int *p；<br />p=a，   *（*（p+1）+1）         ）<br />为什么不行，a为 &a[0] ，然后  <br />printf（    “%d”int a [3][4]
+而a为二维数组首地址p为指向整型数的指针,此时，则声明p为指向数组的指针--int (*p)[4],若要使p=a成立，即a==&a[0][0]==a[0]
+2
+none
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/104401587.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/540505723.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/177440885.html?qbl=relate_question_3

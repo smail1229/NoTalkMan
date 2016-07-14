@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中整形数组的首地址的地址？
+比订筏斥禾俪鼓筹态船卡如 int a[3] = {2,3,4};<br />为什么 printf(&quot;%d,,%d&#92;n&quot;,a,&a); 输出的是同一个值？难道首地址和首地址的地址相同吗？
+其实你这个疑问是概念上的混淆，或者说对指针了解上上的欠缺<br /><br />首先讲int a[3] = {2,3,4};<br />这里的a是这个数组的首地址，比如定义如：int *p = a;这时如果你进行如下操作：<br />p++;<br />printf(&quot;%d&#92;n&quot;,*p);<br />结果会是输出2,也就是说p+1相当于数组索引加1，但是像你所问的为什么&a和a是相同的 ，首先要知道他们分别代表什么意思，a：像上面所说的是数组的首地址，做自加运算会根据数组类型来计算偏移量，那么&a是什么东西呢，实际上它也是一个指针，是指向一个具有3个元素的数组的指针，如何理解，看以下定义：<br /><br />如果你定义int *q = &a;这时编译器肯定报错，绘制出数据类型不一致，那么你这样样定义就没有问题：int (*q)[3] = &a;这时如果你再对q进行++操作，那么加的就不同了，如相面的p++操作后p的值会加4，而这里q++操作后的值会加12，也就是跳过3个数组元素，然而，确实这两个指针的初始值是一样的，只是类型不一样订筏斥禾俪鼓筹态船卡而已，这对二维数组的访问时很方便的，这个你可以参照2维数组得到进一步理解，讲的有点乱，不知道你能不能理解
+16
+none
+http://zhidao.baidu.com/question/159060026.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/459889052.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/349842353.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239082148.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/424940861.html?qbl=relate_question_4

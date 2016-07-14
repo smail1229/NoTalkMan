@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言练习题的疑问！
+为什么会有个 float  ？代表什么。<br />谢谢，所以看不懂？<br />我刚开始学C语言源程序如图所示.5)&#47;2是什么意思，我想问的是，程序中的<br />(x=(float)(y)+0
+(float)(Y)  强制定义Y为浮点型  <br />这种定义只当条语句有效<br />下次出现Y的话还是按之前的定义类型
+1
+none
+http://zhidao.baidu.com/question/239617453.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/79735784.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/182811177.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/107799877.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/180506056.html?qbl=relate_question_4

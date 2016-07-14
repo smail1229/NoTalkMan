@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程：用递归和非递归法输出斐波那契数列
+none
+fail
+28
+<p>递归法：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />void&nbsp;main()<br />{<br />int&nbsp;Fibonacci(int&nbsp;n);<br />int&nbsp;n,i,c=0;<br /><br />printf(&quot;请输入n的值:&quot;);<br />scanf(&quot;%d&quot;,&amp;n);<br />for(i=1;&nbsp;i&lt;=n;&nbsp;i++)<br />{<br />c&nbsp;=&nbsp;Fibonacci(i);<br />printf(&quot;%12ld&quot;,c);<br />if(i%4==0)&nbsp;//用于换行&nbsp;4个一行；<br />printf(&quot;\n&quot;);<br />}<br />}<br /><br />int&nbsp;Fibonacci(int&nbsp;n)//函数部分；<br />{<br />long&nbsp;int&nbsp;f;<br /><br />if(n==1&nbsp;||&nbsp;n==2)<br />{<br />f=1;<br />}<br />else<br />if(n&gt;=3)<br />f&nbsp;=&nbsp;Fibonacci(n-1)&nbsp;+&nbsp;Fibonacci(n-2);<br />return&nbsp;f;<br />}</pre><p>非递归法：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />void&nbsp;main()<br />{<br />int&nbsp;i,n;<br />int&nbsp;f[]=&nbsp;{1,1};<br />printf(&quot;请输入n的值:&quot;);<br />scanf(&quot;%d&quot;,&amp;n);<br />for(i=2;&nbsp;i&lt;=n;&nbsp;i++)<br />f[i]&nbsp;=&nbsp;f[i-2]&nbsp;+&nbsp;f[i-1];<br />for(i=0;&nbsp;i&lt;=n;&nbsp;i++)<br />{<br />if(i%5==0)&nbsp;printf(&quot;\n&quot;);<br />printf(&quot;%12d&quot;,f[i]);<br /><br />}<br />printf(&quot;\n&quot;);<br />}</pre><p>递归可以使程序看起来比较简洁，但缺点是效率比较低，并且可能导致栈溢出，因此需要灵活使用递归。</p>
+http://zhidao.baidu.com/question/745019335729917492.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/28816968.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/419489662.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2073910649598230948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/361089691.html?qbl=relate_question_4

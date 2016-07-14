@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个简单的c语言程序错在哪里？
+请输入正确的代码&quot.h&gt;<br /> }<br />    printf(&quot;<br /> printf(&quot;i&lt;<br /><br />for(i=0;<br /> scanf(&quot;&#92;stdio;;)、进入程序&#92;欢迎进入&quot;)。显示error C2043;<br /> for(i=0;<br /> if(x;);=8;<br /> if(x=2)<br />       break!=1&&x;i&lt;                  欢迎进入DNA序列信息数据库及序列分析程序&#92;                  1;i++)<br /> {<br />  printf(&quot，输入1就进去;=4;);%d&quot;);n&quot!=2)<br />       printf(&quot;n&quot;);n&quot;                  2,&x);i++)<br /> {<br />  printf(&quot，输入2就退出;n&quot、退出程序&#92;<br /> printf(&quot我写一个界面？<br />#include&lt;<br />void main()<br />{<br /> int i;<br /> if(x=1)<br />       printf(&quot;&#92,x;);n&quot: illegal break  为什么
+&#47if(x=1) // /这种;同理; <br />if(x=2) &#47，改成x==2<br />break;欢迎进入&quot;退出程序用exit(0);/)，不是break;判断相等要用x==1<br />printf(&quot
+0
+none
+http://zhidao.baidu.com/question/623610699093223284.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239733823596243484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554276305.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/240009176265775564.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/191299902.html?qbl=relate_question_4

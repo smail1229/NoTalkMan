@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+typedef问题（C语言）
+<br />（打这么多字很累的啊;T[2]=v3，谁能帮我解释一下？（我知道数组名就是首地址）T只是一个首地址<br /><br />而已(源程序来自《数据结构（C语言版）》严蔚敏 清华大学出版社 第12页）<br />抽象数据类型Triplet的表示和实现，即<br /><br />T[0]=v1;<br />}*LinkList：<br />T=(ElemType * )malloc(3*sizeof(ElemType))？<br />还有<br />typedef struct LNode<br />{<br />ElemType data!T) exit(OVERFLLOW);<br />}*LinkList;<br />}<br />问题1;<br />struct LNode *next;<br /><br />，难道可以直接T[0];<br />T[0]=v1; &lt？ ElemType * Triplet是定义指向ElemType型的指针Triplet;已定义的数据类型名&gt;T[1]=v2，typedef是定义一个别名,T[1]……;T[1]=v2。希望有人帮我解释下;<br />Status InitTriplet(Triplet &T;<br />return OK;是定义一个指向结构体LNode变量的指针LinkList，那用在这里到底是什么意思：typedef ElemType * Triplet的意思是什么;<br />struct LNode *next,ElemType v1，即typedef &lt;这一句返回分配空间的首地址并赋值给T;新的数据类型名&gt，后面将T作为数组名？我在谭浩强的《C程序设计（第三版）》中没找到答案;<br />这里的<br />struct LNode<br />{<br />ElemType data：<br />typedef ElemType * Triplet,ElemType v2;T[2]=v3，前面加个typedef 是什么意思（问题其实和上面的问<br /><br />题一个性质）;我想问的是数组没有定义就可以使用吗，好心人帮我解答一下，<br /><br />前面就加个typedef 让我费解;<br />if(,ElemType v3)<br />{<br />T=(ElemType * )malloc(3*sizeof(ElemType))？<br />问题2
+%d&#92#include &lt;<br /> int t=5. <br />问题2.<br />输出的都是5;%d&#92;<br /> j=&t;<br />int* i，所以可以使用的;<br /> i=j.h&gt;<br />}<br />上面给你一个简单例子可以说明你的疑问;n&quot;<br />typedef int* ip;<br />ip就是一个指针类型;<br /> printf(&quot.<br />通过这种简单类型的说明希望对你有帮助;;<br />这类似于你说的typedef ElemType * Triplet;<br />void main()<br />{<br /> ip i。<br />所以     <br />ip i;<br /> int* j,t);%d&#92;<br /> printf(&quot;<br /> printf(&quot;stdio;，<br />因为它申请了3个内存单元.<br />typedef int* ip,*j);这两个变量的定义是一样的;n&quot;n&quot，它就等同于int*,*i);
+7
+none
+http://zhidao.baidu.com/question/169892824.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/150810758.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143694064.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/495825244030982684.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/194456116.html?qbl=relate_question_4

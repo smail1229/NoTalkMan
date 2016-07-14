@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若x为int类型，请以最简单的形式写出与逻辑表达式“!x”等价的C语言关系表达式（ ）。
+none
+ ！X为真;   即只有当x == 0时才为真（对应等式成立）, &gt。！X 就为假，反过来若 X = 假; = 。!= , = =<br />你用的是三目运算符（条件运算符, &lt！即为非的意思; 。<br />而在C 语言中表达式0为假，所以对应的关系表达式为<br />x == 0： &gt; ，那么，关系表达式只有六种，其余均为假（对应等式不成立）<br />楼下的, &lt，则,就是如果X = 真，不是条件表达式）; = ，不是0的全为真
+40
+none
+http://zhidao.baidu.com/question/298777479.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/30772560.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/482618766.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95419953.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/918107338064087379.html?qbl=relate_question_4

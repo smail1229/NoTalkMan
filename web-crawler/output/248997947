@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言return
+在调用的函数中 什么情况下要写return1 什么时候不用写 我运行了两个程序 其中一个提示信息警告说被调用的函数要有返回值 另一个没有提示 而这两个函数都是通过指针改变数组元素 为什么一个说要有返回值 一个没说呢
+ function 前面有返回性质如：<br />int fucntion(){}<br />这样的话。<br />如果你不想返回，这个方程就必须返回一个 int 变量<br />同样如果是double* 等等，方程的是否和返回什么由前面的变量性质决定
+2
+none
+http://zhidao.baidu.com/question/120783460.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/558882075.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/193810477.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/52010360.html?qbl=relate_question_4

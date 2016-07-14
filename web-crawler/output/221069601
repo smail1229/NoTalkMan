@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数组复杂的递归问题
+初始的中点Y值<br />  for(i=0C语言中;<br />     somp=(int)comp;=2!=1)：<br /> for(i=0;<br />      A[count+1]=mY-1+j;&#47;&#47;&#47;=2;&#47;<br />      count++;i&lt;somp&lt，最后如何反复利用递归的方式得到该数组;&#47;i++)<br /> {<br />  mX=A[i];i++)<br />   for(j=0;这是算子<br />     if(15&lt;&#47!=1&&j;<br />     comp=sqrt(comp&#47;初始的中点X值<br />  mY=A[i+1];&#47;&#47;j++)&#47;&#47？（其实就是一种抠图的方法）部分函数程序如下;j&lt;3);=count;&#47;排除自身点<br />    {<br />     comp=(image_r[(mY-1+j)*Col+(mX-1+i)]-m_bR)*(image_r[mY*Col+mX]-m_bR)+(image_g[mY*Col+mX]-m_bG)*(image_g[mY*Col+mX]-m_bG)+(image_b[mY*Col+mX]-m_bB)*(image_b[mY*Col+mX]-m_bB);30)&#47;判断条件<br />     {<br />      A[count]=mX-1+i;i&lt，再以那个点的坐标为中点用函数求出了周围八个点中需要点的坐标继续放入该数组;mY-1+j与mX-1+i即为九个点的坐标<br />   {<br />    if(i，再把数组中的多个点作为新的中点调入函数中求周围八个点中满足条件的点放入数组，在一个数组中放入一个点的坐标
+min+1;<br /> else <br /> { temp=s[min];;ninout;);<br />}<br /><br />void main()<br />{ char str[100]:%s&#92,str):&quot;<br /> int count=0,n;<br /> rev(str;<br />int rev(char *s.h&gt;<br /> scanf(&quot;;&#92;string;n&quot.h&gt;&#92,s);<br /> printf(&quot;n最终结果;;<br /> if(min&gt,0;=max) return 1;<br />#include&lt;<br />  printf(&quot; s[min]=s[max],&n;n&quot,int max)<br />{ char temp;<br /> printf(&quot;<br />  rev(s;<br /> }<br /> return 0,int min,max-1),strlen(str)-1); s[max]=temp;stdio#include&lt,str);%d %s&quot;%s&#92
+0
+none
+http://zhidao.baidu.com/question/173934288.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/203978880.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/244662154.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127698549.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/543483780.html?qbl=relate_question_4

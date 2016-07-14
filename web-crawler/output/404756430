@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的编程题目，求改错。
+none
+谢谢 <br />int fact(int n)<br />{<br />  if(n&lt;=1)<br />  {<br />     return 1，也可以使用循环;<br /> }<br /><br />} <br />已补足完毕，如果对你有用，请采纳sum=0后面没有加分号，明天再给你写，递减相乘;<br />  }<br /> else<br /> {<br />  return n*fact(n-1)，我这还有一分钟就停电了，第二个问题使用递归实现较多
+1
+none
+http://zhidao.baidu.com/question/616385323598589772.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/504035580.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/144225514.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/539384641.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/8039311.html?qbl=relate_question_4

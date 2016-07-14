@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的“%6.2f ”， 是什么意思？？？
+none
+    5.123415用这个表示的话6表示数据表示至少6位;,前面有3个空格<br />如果a=234525;<br />}<br /><br />结果就是3425.12<br />如果不足六位就会在前面补空格<br />超过六位的话正常显示<br /><br />代码例子.2表示小数点后保留两位<br /><br />比如2342.1234<br />那结果就是.1234.12<br /><br />如果a=5;<br />   printf(&quot,后面的,a);%6.12;     <br />   return 0，结果就是2342.123<br />则结果过就是234525.2f&quot：<br />int main()<br />{<br />   float a=3425
+88
+none
+http://zhidao.baidu.com/question/8455565.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258133678.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239850213.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/209989828.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/242948195.html?qbl=relate_question_4

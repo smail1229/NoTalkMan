@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+Linux能直接编译C语言吗?
+none
+或从网上)。（从系统碟.<br /><br />Linux 的许多软件 是 免费 自由下载使用的。 你要装入 gcc 之类 的 编译器。（许多软件yi由科研等基金支付了）Linux能直接编译C
+1
+Linux下编译C语言一般使用gcc。<br /><br />可以打开一个终端，键入gcc --version。 如果可以看到gcc的版本号，则说明可以编译。否则需要手动安装。<br />要编译C语言程序，一般的命令为：<br />gcc &lt;C_FILES&gt; -o &lt;TARGETFILE&gt; &lt;OPTIONS&gt; -I&lt;INCLUE_PATH&gt;<br />C_FILES： 需要编译的源文件列表，如果有多个，用空格分隔。<br />TARGETFILE：要生成的目标文件。<br />OPTIONS：编译选项列表，具体可以通过man gcc查看。<br />INCLUE_PATH：自定义头文件路径，如果有多个，每个路径前面都要加-I。之间用空格分隔。<br /><br />最简单的使用可以只输入源文件列表，其它为空。<br />比如要编译test.c， 那么可以：<br />gcc test.c<br />如果编译成功，gcc会生成可执行文件名，一般为a.out.<br />或者用<br />gcc test.c -o test<br />会生成可执行文件test。
+http://zhidao.baidu.com/question/34709631.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/368046687.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/29460841.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/34709483.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/314655673.html?qbl=relate_question_4

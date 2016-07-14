@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中*p=s[i++]和s[i++]=*p的区别是？分别表示什么意思呢？
+none
+i++是在使用i之后，使i的值加1.<br />假设p=&a，*p=s[i++]的意思就是把s[i]的值赋给a，然后使i加1；s[i++]=*p的意思就是把a的值穿顶扁雇壮概憋谁铂京赋给s[i]，然后使i加1。
+1
+none
+http://zhidao.baidu.com/question/238966403.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/416485407.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/61842944.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/936314327465992852.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/475624385.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中a=b++和a=++b有区别吗
+none
+有区别<br /><br />a = b++  （后加）<br />其实是相当于<br />a = b<br />b = b + 1<br /><br />a = ++b （先加）<br />则是相当于<br />b = b + 1<br />a = b
+4
+none
+http://zhidao.baidu.com/question/114882101.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/237387147.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/503611772.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143080443.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/220392297.html?qbl=relate_question_4

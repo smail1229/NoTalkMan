@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问这个c语言程序，求解释
+=k;<br />#include &lt;<br />}<br /> int isprime(int m)<br />{<br />  int i;<br />  for(i=2;=k  &#47!=0<br />C．isprime(m)==0D!=0B;=70;答案A<br /><br />选择题第五题我懂;stdio;i&lt,isprime(int m),i);<br />}<br />【供选择的答案】<br />（5）A．isprime(m);&#47,k;i&lt,8题,7;<br />      （6）   ;答案B<br />（6）A．if(m;<br />  k=(int)sqrt((double)m);答案B<br />（7）A．return 0B．return 1<br />C．return i&lt;&#47.h&gt;=kD．return    &#47;math.isprime(i).H&gt;;&#47;B．if(m==1)return 0，但是不懂6;<br />C．;D．if(m==1)return 1;i++)<br />    if(m%i==0)    （7）   .isprime(i)==0&#47;答案A<br />（8）A．return 1B．return 0<br />C．returnD．return i&lt;<br />        （8）   ;<br />main()<br />{ int i;i++)<br />     if(    （5）    )<br />        printf(&quot;&#47;&#47;<br />  for(i=50!=1)return 1;%d &quot#include &lt
+因为1非素数本题意思基本是返回值为一表明其为素数：如果m可以除得下除了1和本身的数之外的数i的话，说明他只能除下1和本身了：如果前面都没有除下（除下就返回0了。是个素数；<br />6，返回0<br />8，所以返回0<br />7，他肯定是合数（非素数），不会到这一步来），返回0表非素数
+1
+none
+http://zhidao.baidu.com/question/586153906.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/360471042591874852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/983827246616668379.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1925393603889758467.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/175969747424815244.html?qbl=relate_question_4

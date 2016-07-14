@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序问题，解释一下不会的语句
+sizeof(ren);<br />                          &#47??;;<br />   int i;<br />   FILE *fp;i&lt,fp);t open file!&#92;删除成功??解<br />       for(i=0?点<br />  {   if((fp=fopen(&quot,1,1?,name)==0) k=i??;<br />   char name[10]?;                                                             &#47;cls&quot;))==NULL){printf(&quot.name?;;;)??!;);;?;&#47,len?!&#92，若该人员存在;ren!;<br />         if(feof(fp)) break??!&#92;<br />}<br />   fclose(fp)?;)?,&quot?,fp);)?;                                        &#47:输入人员姓名?;<br />   printf(&quot;n&quot？;<br />   if((fp=fopen(&quot;删除失败??;<br />   }<br />   <br />  else printf(&quot??;&#92?;;n&quot;can&#39;删除??;&#47;?: &quot;&#47;=0)                                                                          &#47;n&quot?;以下是删除后重新写文件<br />  len=i,name)？??？;i++)                                                            &#47;n&quot?;scanf(&quot?,k=-1;printf(&quot&#47?.dat&quot??;<br />   i=0;)?;&#47??,&quot;<br />   system(&quot;&#47;;%s&quot;exit(0)?;)??这<br />           fwrite(&ry[i];}<br />   while(;&#47?重<br />  if(k&gt;?;t open file!feof(fp))<br />{    fread(&ry[i];?;len;&#47,一个数字对应一个名字吗i  ry[i];}  &#47?里<br /> <br />       fclose(fp)?;wb+&quot?释<br /> {   if(i==k) continue;&#47?;<br />         if(strcmp(ry[i]？这里得i和k是干什么的;&#47.dat&quot;))==NULL){printf(&quot!??;exit(0)?!&#92?;n输入要删除的人员姓名;&#47;ren？?.name<br />         i++??,sizeof(ren)?;can&#39;                                                                            &#47?，并显示删除后余下的人员的信息<br /> <br />void dele()<br />{  ren  ry[N]?;<br />  getch();rb+&quot!，则删除
+fail
+2
+none
+http://zhidao.baidu.com/question/178687454.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262033853.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/524423615.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/240019203940420204.html?qbl=relate_question_4

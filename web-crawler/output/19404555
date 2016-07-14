@@ -1,0 +1,11 @@
+教育/科学 学习帮助 
+C语言中：int i=0;执行语句while(i++&lt;4)后;i的值是什么啊？为什么？
+none
+运算终了后再将i加1：判断i&lt。<br />所以循环中过程如下：成立<br />i=i+1;4：成立<br />i=i+1,于是i=4<br /><br />继续循环,于是i=3<br /><br />继续循环：<br />i=0<br /><br />判断i&lt：判断i&lt：成立<br />i=i+1;4：成立<br />i=i+1,于是i=1<br /><br />继续循环i=5<br />原因：不成立<br />i=i+1;4：判断i&lt;4;4：判断i&lt,于是i=2<br /><br />继续循环：i++是先进行其他运算,于是i=5<br />跳出循环
+7
+none
+http://zhidao.baidu.com/question/370802681.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356444647.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/370641161.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/435068773.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/391062042.html?qbl=relate_question_4

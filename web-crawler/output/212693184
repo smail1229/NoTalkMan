@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的宏是否会分配会分配存储空间？？？O(∩_∩)O谢谢
+none
+;预处理&quot.也去不出地址呃,不会,编译器看到的是int a = 10;<br />可以这么说,在编译之前.<br /><br />宏是&quot;,其实在编译的时候,意思就是说,宏已经不存在了..<br />比如 #define COUNT (10)<br /><br />int a = COUNT
+1
+none
+http://zhidao.baidu.com/question/95218081.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206728580.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149763751.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127558596.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/419520830.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+大学C语言考试题求解 操作题: 编写函数fun完成对一个整型数组所有元素按照升序排序。在主函数
+ 编写函数fun完成对一个整型数组所有元素按照升序排序。  本人只学过C语言，其他编程没学过大学C语言考试题求解   操作题。在主函数中定义整型数组并为数组元素赋值。调用fun函数，最后输出排序后的数组元素
+int k)<br />{<br />int i,b[i]);k-j-1;<br />                b[i+1]=b[i];<br />                b[i]=temp,j;b[i+1])<br />            {<br />                temp=b[i+1]; i++)<br />            if (b[i]&gt;<br />    for(j=0;k; j&lt;%d &quot;k-1我不知道你的fun函数有没有传参数 你看情况自己改下<br />void fun(int a[];;<br />            }<br />    }<br />for(i=0; i++)<br />    {<br />        printf(&quot; i&lt; i&lt; j++)<br />    {<br />        for (i=0
+3
+none
+http://zhidao.baidu.com/question/555873559.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/208263206.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/156711275.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/210233509.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80521969.html?qbl=relate_question_4

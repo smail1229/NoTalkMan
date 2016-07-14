@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中：scanf语句中的变量前加个&是什么意思？如：scanf(&quot;%d&quot;，&p)；什么情况下需加&啊？
+none
+&是取地址符号 就是得到变量在内存中的地址 那样才能对其操作<br />当然,只有在需要用到变量地址的时候才用&<br />现在你用到的地方是在scanf语句中<br />以后你会更加熟悉他的 咯咯
+5
+none
+http://zhidao.baidu.com/question/86130448.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/560848997259946684.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/454683568.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136277115.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241173653.html?qbl=relate_question_4

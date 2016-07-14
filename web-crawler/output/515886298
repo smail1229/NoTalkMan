@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 if(i&#47;2%2) 什么意思啊
+rt
+【分析】<br />本题是考察操作符优先级和if语句的。<br />由于/操作符与%操作符优先级相同，所以i/2%2就从左到右计算，i先除以2然后再对2取余数，如果结果不为0，满足if条件，将执行哗郸糕肝蕹菲革十宫姜if语句块内的语句。<br /><br />望采纳哦~ 有问题再问哦~ o(∩_∩)o
+5
+none
+http://zhidao.baidu.com/question/1541145378033307187.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/107599430.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1691075955113116188.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/210523188.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/156314742.html?qbl=relate_question_4

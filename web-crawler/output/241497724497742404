@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求教，C语言非递归函数求斐波那契数列
+编制非递归函数输出斐波那契数列前n项的值，注意是前n项
+h&gt#include&lt;%d&#92;stdio;<br />	for(int i=0;<br />	scanf(&quot;<br />	int x=1,&n);i++)<br />	{<br />		if(i == 0){<br />			printf(&quot;n;;<br />	}<br /><br />return 0;<br />	int y=0,x);%d&quot;n&quot;<br />		}<br />		s = x + y;;<br />	int k = 0;%d&#92,s);<br />		y = k;<br />int main(){<br />	<br />	int n;<br />		k = x;;<br />		printf(&quot;<br />			continue;n&quot;i&lt;<br />	int s =0;<br />		x = x+y
+1
+none
+http://zhidao.baidu.com/question/28816968.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/543715532.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/689621501151648364.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/506569957.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/419489662.html?qbl=relate_question_4

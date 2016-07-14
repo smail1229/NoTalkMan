@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 if语句中能嵌套函数吗
+定义一个函数;  ，主函数中：<br />void main()<br />{<br />    if(a==20)<br /><br />    {<br />        ccd()：void ccd()
+则需要在int main()的前面写下一行代码。但是需要注意：<br />void ccd()，作为声明；但是如果在后面。<br />如果ccd()的代码在main()前面;<br />分号不能省略，则可以直接使用可以
+1
+none
+http://zhidao.baidu.com/question/101815940.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/182940758.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/198623556.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/14148481.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142313681.html?qbl=relate_question_4

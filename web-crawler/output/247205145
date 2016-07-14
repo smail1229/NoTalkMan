@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急急！C语言编程计算a%1 + aa%2 + aaa%3 + ... + aa...a%n(最后一项是n个a对n求余)
+none
+tint fun(int a;<br /> t*=a;<br />  for(i=1;i++)<br /> {<br />  r+=t%i,r=0,int n)<br />{<br />   int i;=n;i&lt;<br />t=a;<br />}<br />return r
+0
+none
+http://zhidao.baidu.com/question/41383800.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/408381107.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/495146635.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92902747.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/331758891.html?qbl=relate_question_4

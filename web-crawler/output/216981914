@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问c语言中switch语句究竟是怎么用啊？
+none
+fail
+1
+switch (表达式或属性){ <br /><br />case 值1 : 语句1 <br /><br />break; <br /><br />case 值2 : 语句2 <br /><br />break; <br /><br />... <br /><br />default : 值n <br /><br />break; <br /><br />} <br /><br />从表达式或属性值等于某个case语句后的值开始，它下方的所有语句都会一直运行，直到遇到一个break为止。随后，switch语句将结束，程序从switch结束大括号之后的第一个语句继续执行，并忽略其他case。 <br />假如任何一个case语句的值都不等于表达式或属性的值，就运行可选标签default之下的语句。 <br />假如表达式或属性的值和任何一个case标签都不匹配，同时没有发现一个default标签，程序会跳过整个switch语句，从它的结束大括号之后的第一个语句继续执行。
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/81214969.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101519686.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/111404910.html?qbl=relate_question_4

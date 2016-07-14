@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 int y,x=3;y=(++x)+(++x); 则y=？
+none
+执行后一个++x时，前一个也会执行一次。<br />先第一个 ++x执行，完了以哗攻糕纪蕹慌革苇宫俩后x = 4，然后第二个++x执行，x变成了5，此时第一个x也变成了5。
+2
+none
+http://zhidao.baidu.com/question/134537694.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/117712786.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/157972119.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/124238702.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/446207651.html?qbl=relate_question_4

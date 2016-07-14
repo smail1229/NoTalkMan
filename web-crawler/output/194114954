@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程，求两个数m和n的最大公约数！（将步骤说明下谢谢）
+none
+n&quot;用到可辗转相除法<br />#include &lt,n!=0)/<br /> }<br /> printf(&quot;/循环求最大公约数<br /> { <br />  temp=n;&#47,&n);<br />  m=temp.h&gt;<br />  n=m%n; / /stdio/中间变量<br /> scanf(&quot,n);%d%d&quot;/; /读取两个变量的值<br /> while(m%n;//;&#47,&m;/%d&#92;打印出最大公约数<br /> return 0;<br />int main()<br />{<br /> int m;定义俩个变量<br /> int temp
+46
+none
+http://zhidao.baidu.com/question/97662184.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/147285636.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/209576703.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/240646897.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/531567533.html?qbl=relate_question_4

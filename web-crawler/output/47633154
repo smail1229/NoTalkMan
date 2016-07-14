@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题 当i=5时`那么`j=++i 问`i,j等于多少 ++是怎么回事，他们是怎么运算的`
+int a=7.7 则x+a%3*(int)(x+y)%2&#47还有一个是;4的值是多少``那个(int)是怎么回事, y=4.5,float x=2
+<br /><br />x+a%3*(int)(x+y)%2/4<br />(int)是将(x+y)强制转换为整数;  i+=1;&lt;  &lt;&gt;===&gt; j=ii=5;<br />j=++i
+1
+none
+http://zhidao.baidu.com/question/539861290.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/415293561.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/131209817.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/30338413.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1829919728176978580.html?qbl=relate_question_4

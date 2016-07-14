@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言定义宏 #define call(x,y) x##y表示什么？
+none
+<br /><br />参考资料, the parameter is replaced<br />by the actual argument#define call(x, and the result is rescanned.<br />For example,y) 就相当于xy+xy=20+20=40,y) x##y<br /><br />##把x和y连接起来, back) front ## back<br />so paste(name. If a parameter in the replacement text is adjacent to a ##，相当于新变量xy<br /><br />xy+call(x, 1) creates the token name1, the ## and surrounding white space are removed, the macro paste concatenates its two arguments:<br />#define paste(front：<br />The preprocessor operator ## provides a way to concatenate actual arguments during macro<br />expansion
+11
+c语言中，##表示把两个宏参数贴合在一起，即，<br />#define call(x,y) x##y ，执行call(x,y)结果为xy，例如，<br />int x=2,y=5;<br />int xy=90;<br />printf(&quot;%d&#92;n&quot;,call(x,y));&#47;&#47;结果为90<br /><br />##被称为连接符，用来将两个宏参数连接为一个宏参数。<br />而单个#的功能是将其后面的宏参数进行字符串化操作，简单地说就是在对它所引用的宏变量通过替换后在其左右各加上一个双引号，使其成为字符串。
+http://zhidao.baidu.com/question/14450648.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/170644448.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/342895730.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/162090312.html?qbl=relate_question_4

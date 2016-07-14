@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序 用指针实现字符串比较函数strcmp
+none
+fail
+1
+其实你这里主要问题是不能接收到两个输入的字符串。<br />你这里的接受规则是输入两个字符串并用 ， 号分隔，比如：abc,abc<br />但是这里就有一个问题了！计算机怎么知道你输入的，号是你输入的第一个字符串的一个字符呢？还是你两个字符串的分隔？<br />所以当你输入abc,abc的时候计算识别你的第一个字符串是abc,abc<br />第二个字符串为&#92;n<br />所以你这里得到的始终是1<br />至于解决的办法：<br />让计算机识别你的分隔符号<br />那方法就很多了，比如 scanf(&quot;%s%s&quot;,a,b);输入的时候用空白符(空格，tab，回车键）相间隔
+http://zhidao.baidu.com/question/29896828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/65712812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116395053.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/7918136.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/204648597.html?qbl=relate_question_4

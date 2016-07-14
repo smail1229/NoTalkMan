@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，若有 int[5],*p=a;则p+2表示第____个元素的地址。
+急用!!
+<br /><br />int *p=a  那么p中存放的为数组a的首地址；<br /><br />所以p+2表示第__3__个元素的地址题目有点小问题哦：int a[5] ;<br /><br />那么p+2的值为元素 a[2]的地址 ；<br /><br />a[2]是数组 a的第3个元素 ，相当于p=&a[0] 
+6
+none
+http://zhidao.baidu.com/question/686918860586645284.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/189964694.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1445650904471091740.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/556133853.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/38111464.html?qbl=relate_question_4

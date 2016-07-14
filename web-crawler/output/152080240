@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言自定义数据类型
+请教一下在C语言中定义任意位长的变量。比如定义一个变量a，使a的长度为12位等等。
+<br />};<br />    int d:12;&lt;<br />}aint a; &lt;&lt; &quot; <br />不过要用在struct里面 <br /><br />struct{<br />    int a:12，不足32bits倍数的补齐到32bits; sizeof(a) &lt:12;t&quot;<br />   cout &lt;/<br />    int b;&lt:12;<br />    int c; sizeof(int)，4个12位int只占8字节（因为有对齐;<br />a=3:12;&#92;/<br />1个int4字节，所以48位补齐到64位）<br /><br />或者使用匿名union也可以在外围访问<br />union{<br />int a;ok:12
+3
+none
+http://zhidao.baidu.com/question/553457018.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/57487991.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/419632489.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/512077797.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/189511147.html?qbl=relate_question_4

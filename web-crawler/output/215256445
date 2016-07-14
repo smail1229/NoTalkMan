@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言a&lt;b?a:c&lt;d?a:d表示什么意思
+ac语言a&lt;d;b?a:c&lt
+输出得到的值<br />如果还不明白，随时留言~;b 如果为真a 反之b<br />第二步：首先判断a&lt;d  如果为真则为a 反之为d<br />第三步：根据第一步判断得出的结果为a或者b与d相比较<br />        a或者b&lt分3步<br />第一步
+4
+none
+http://zhidao.baidu.com/question/215215332.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/535688705.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/262038772.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130754638.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/13528290.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，常量中的整型与实型
+和数学里面整数与实数一样是包含关系吗？
+不是一样的概念啊：<br />     数学里面的实数包括有理数和无理数。其中无理数就是无限不循环小数，有理数就包括整数和分数。数学里的整数与实数只是简单的数值类型的一种包含与被包含的关系。<br />     而在C语言中就不止这些了：他不仅仅是数值类型的区别，更主要的是这两种在计算机中的存储结构不同，占得字节数不同，一般系统整型数据占2字节，实型占4字节，即：同样数值大小的整型与实型数据在进行运算赋值有时不强制转换的话会出现错误的，执行运行的结果不是你想要的结果，如数据的溢出现象。<br />浮点型数据就是我们数学里俯恭碘枷鄢磺碉委冬莲说的含有小数点的实数
+5
+none
+http://zhidao.baidu.com/question/7293872.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/162257813.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/431228961.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/15227409.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153358349.html?qbl=relate_question_4

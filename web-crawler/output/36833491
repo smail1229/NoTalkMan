@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+编写C语言程序 打印图形
+编写程序，打印以下图形：<br />   *<br />  ***<br /> *****<br />*******<br />请穿罚扁核壮姑憋太铂咖主要详细说一下解题思路，谢谢
+要加空格 在加个循环就是了<br />#include &lt;stdio.h&gt; <br />void main()<br />{<br />         int i,j,k;<br /> for(i=1;i&lt;=4;i++)<br /> {<br />  for(k=i;k&lt;=3;k++)<br />   printf(&quot; &quot;);<br />  <br />  for(j=0;j&lt;2*i-1穿罚扁核壮姑憋太铂咖;j++)<br />   printf(&quot;*&quot;);<br />  <br />  printf(&quot;&#92;n&quot;);<br /> }<br />}
+2
+none
+http://zhidao.baidu.com/question/210691319.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7882867.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/513908772.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/285820680.html?qbl=relate_question_3

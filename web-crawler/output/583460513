@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，float有效位为7位的问题。
+456还是123？？比如，是123.45”,a)请问.456，7---总的长度;%7，包括小数点吗.2f的输出.2f&quot？是 “ 空格123？比如加入a=123，包含小数点吗，它的有效位为7位？.45” 还是“空格空格123;？<br />2）对于printf中%7,有printf(&quot.4560，<br />1）对于float;那么输出的a是啥
+  0， 7---总的长度（应当叫 场宽） .2f .1234067, 1234067。<br />%7：   1， 不包含 小数点。<br />例如.234067，不考虑指数。<br />也就是用科学记数法时，含正负号.001234067  -- 其中 1234067 是有效数字.00，也不包含 领头的0，含小数点float 有效数字位数是7位，不叫有效位, 0
+1
+none
+http://zhidao.baidu.com/question/191377214.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/484458279.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/476316091.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/84459498.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/546244062.html?qbl=relate_question_4

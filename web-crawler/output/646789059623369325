@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序 从数据文件中读入数据到数组
+data.txt中读入数据到整型数组a，输出到屏幕;<br />}<br />能不能帮忙给个注释;;;<br />       if((fp=fopen(&quot从数据文件中读入数据到数组。<br />(1)     编写函数int read(int arr[])从数据文件data;<br />       FILE*fp,int n)遍历整型数组，返回读入数据个数n!feof(fp))<br />       {  <br />              fscanf(fp;);r&quot。<br />(2)     编写函数int getsecond(int arr[]. 输出第二大及第二大所在的下标<br />   修改getsecond函数返回最大值所在的下标<br /><br />我没学过那个read函数  应该怎么写啊  那个txt文件放哪才能读出来啊<br />这是别人写的  <br />int read(int arr[])<br />{<br />       inti=0!&quot，求最大值<br />(3)     在main函数中调用read和getsecond函数完成<br />2。,&quot;%d&quot,n.txt&quot,&quot;<br />       returnn;<br />       fclose(fp);))==NULL)<br />       {printf(&quot;cantfind the file;<br />       }<br />       n=i;}<br />       while(,&arr[i++])，计算最第二大值
+当不为文件结尾时<br />       {  <br />              fscanf(fp;cantfind the file;}/&#47!&quot;如果文件名不存在<br />       {printf(&quot,&arr[i++]);//&#47,&quot;&#47,&quot;关闭文件<br />       return n;定义文件指针<br />       if((fp=fopen(&quot;data;<br />       FILE *fp;r&quotint read(int arr[])<br />{<br />       int i=0;则输出没有找到文件<br />       while(;n为数组中数据个数<br />       fclose(fp););%d&quot;;/逐个将文件中的数据放入数组中<br />       }<br />       n=i;&#47!feof(fp))//;&#47.txt&quot;))==NULL)&#47,n
+2
+none
+http://zhidao.baidu.com/question/122711326.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/120988029.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38521698.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1987953046673542947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/531041947.html?qbl=relate_question_4

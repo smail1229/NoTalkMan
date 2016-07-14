@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，判断某整数中是否存在重复数字。怎么写呢?
+none
+<br />j=n;<br />j=j/;stdio.h&quot;<br />int main()<br />{<br />int i;;输入整数;10;i++)tag[i]=false;整数%d没有重复的数字&quot;,j,n,&n);<br />bool tag[10];<br />return 0;%d&quot;<br />printf(&quot:&quot;10;),n);<br />scanf(&quot;<br />for(i=0;整数%d有重复的数字&quot;i&lt;<br />while(j){<br />if(tag[j%10])break;<br />tag[j%10]=true;<br />}<br />if(j)printf(&quot;<br />else printf(&quot,n)把整数的每位上的数计算出来  通过%10然后再判断<br /><br />#include &quot
+0
+none
+http://zhidao.baidu.com/question/76517889.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/276581538.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/337515449.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/54618520.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/185550312.html?qbl=relate_question_4

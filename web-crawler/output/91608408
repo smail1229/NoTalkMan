@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，定义动态数组
+题，想先随意输入一串数，然后根据输入好的数的大小再定义数组大小？目前我只会用malloc函数。请问能用方法实现吗，先定义N再定义A[N]
+然后当这个空间不够的时候，然后把数组拷贝到新地址。<br />可以参考常用一个库设计方法这样不断地malloc太浪费时间了，再动态分配之前空间的两倍出来，就是先分配一定空间的内存给数组
+21
+none
+http://zhidao.baidu.com/question/176377248.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1700925.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/982419082584197539.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/37479976.html?qbl=relate_question_3

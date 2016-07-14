@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中#define N 3是什么意思
+none
+&quot，并用二进制写入数据；stud是文件名。<br />#define N 3 是宏定义;);是文件操作前面两行是头文件。这句的意思是打开名为stud的文件;stud&quot；wb是打开或建立一个二进制文件，用来打开文件，这句的意思是把N的值定义为3，define是定义的意思。fp是指针变量；fopen（）是函数;;wb&quot。<br />fp=fopen(&quot。<br />在程序中后面出现的所有N的值都为3、只允许写数据
+61
+#define N 3   这是C语言中的一个宏定义，使N=3<br />C语言中的宏定义很重要，使用宏定义可以防止出错，提高可移植性，可读性，方便性等。<br />C语言中宏定义是在程序编译时，通过直接替换的，将程序中所有的N都替换为3。
+http://zhidao.baidu.com/question/406500040.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/43374938.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152456921.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_4

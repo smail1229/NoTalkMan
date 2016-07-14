@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 i-- i++ 还有++i --i 表达的是什么意思？
+none
+这个错误)，i++当成右值看待(i++=3，再使i的值加1,这个正确），++i当成左值看待(++i=3。j++同理++表示先使i的值加，再引用i的值i++表示先引用i的值
+6
+none
+http://zhidao.baidu.com/question/130754638.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/173050167.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/230224942.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/258997822.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253422919.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言数组的范围问题： 比如定义数组为 char i[4]; 那么它的范围到底是从0开始还是从1开始？
+<br />因为我下面要用for来给他们赋值<br />for(j=4,4个单元<br />for(j=5,j&gt,i[1],j--){i[j]=0;}----范围是0到3,i[2]即,i[2]：i[0]：i[1],i[3],i[4] ,j--){i[j]=0;0,j&gt;1;}----范围是1到4,4个单元<br />请问到底是哪个,i[3] 还是
+}   <br />同样; 则数组元素是;0c语言下标是从0开始，应该改成：你的for(j=4，定义数组为 char i[4]，for(j=5,j--){i[j]=0;=0！！,i[1],j&gt,i[2],j&gt;}   范围是1到4,j--){i[j]=0,i[3] <br />另外：i[0],j--){i[j]=0：for(j=3,j&gt，而是5到2;1！因为j=1;}的范围也不是1到4，循环就中止了！,4个单元
+0
+none
+http://zhidao.baidu.com/question/80226729.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/413582194.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518296824.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424010068579971412.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/523996725.html?qbl=relate_question_4

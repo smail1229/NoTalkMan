@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言如何用strlen函数测定一个数组的长度 求程序
+none
+fail
+2
+数组必须是char数组,内容必须不能包含0或&#39;&#92;0&#39;，内容后面紧跟着&#39;&#92;0&#39;，这样就可以用strlen来讲数组的长度了。<br />int len;<br />char string[100];<br />string[0]=&#39;H&#39;;string[1]=&#39;e&#39;;string[2]=&#39;l&#39;;string[3]=&#39;l&#39;;string[4]=&#39;o&#39;;string[5]=&#39;&#92;0&#39;;<br />&#47;&#47;虽然数组有100个单元，但实际上只用了5个来保存内容和1个表示结尾。这样就能求出5：<br />len = strlen(string); <br />后面strcmp那道我不懂。
+http://zhidao.baidu.com/question/172649261.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/530212553.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1238324917177374659.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/467741925.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/14253950.html?qbl=relate_question_4

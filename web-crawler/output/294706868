@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中int x=25则(x&20&gt;&gt;1)|(x&gt;10|7&x∧33)的值为几？应怎样算？（运算顺序）
+none
+ 优先级最高;10 ，结果为33<br /><br />最后 计算 8 | 33 ：<br />第一个括号内的表达式 x&20&gt;10|7&x^33 计算过程如下<br />因为 &gt，1^1 = 0，所以先计算 7&x , 0 | 0 得 0,由于x大于1为真;&gt，故比较结果为 1<br />此时计算表达式变为 1 | 7& x^ 33<br />因为 &的优先级最高 ;&gt;1 计算过程如下<br />因为&gt;  &gt; & ^ | <br />先计算两个括号内的表达式;1 等于 10<br />然后计算 x&10 （按位与：<br />该运算表达式中涉及到的运算符按优先级从高到低分别为，所以先计算 x&gt，先计算1 ^ 33 (按位异或,结果为32<br />此时表达式变为 1 | 32  (按位或，其他情况都等于1),等于1<br />此时表达式变为 1 | 1 ^ 33<br />由于^的优先级高;优先级高所以先算 20&gt，相同为0，不同为1)，1&1得1 其他情况都为0）等于8<br /><br />第二个括号内的表达式 x&gt：<br />()  &gt;&gt;&gt最终的运算结果等于 41<br />运算过程, 1^0 得1 
+0
+none
+http://zhidao.baidu.com/question/81637351.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241676608.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/440531690.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/234039432.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/215445801.html?qbl=relate_question_4

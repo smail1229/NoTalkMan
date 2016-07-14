@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，printf（max(p))这行明明和书上一样的，为什么会出错
+none
+print是自己写的函数，不是printf;这句<br />是printprintf(max(p))！<br /><br />多写了f。printf是内置函数！
+0
+none
+http://zhidao.baidu.com/question/349860377.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488971864.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/226123102.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/405843129.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/103887789.html?qbl=relate_question_4

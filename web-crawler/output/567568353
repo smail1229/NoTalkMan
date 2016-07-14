@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言如何将64位整数转字符串
+none
+fail
+4
+64位整数是指现实中64位的十进制的整数还是什么？如果是这样的，就是把现实中64位十进制的整数（因为在计算机中用二进制存储）转换为64个ASCII码显示在屏幕上。0的ASCII码是30，1的ASCII码是31，以此类推。先把整数（除一次之后就是所得的商）多次除以10取余（整数%10），把所得的余数+30赋值给char类型的变量，然后从尾至头连成字符串（或每得到一次余数就加到已定义的字符串中），就可以输出了（代码懒得写了）
+http://zhidao.baidu.com/question/1691151058219328028.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/115435334.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/588529008.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/154560284.html?qbl=relate_question_3

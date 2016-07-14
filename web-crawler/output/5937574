@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言试题 执行语句printf(&quot;2:%d,&quot;,printf(&quot;1:%d,&quot;,scanf(&quot;%d&quot;,&x)))；以后的输出结果是____。
+:1, B) 1:1 D) 1,1:1,1:4，谢谢:1,2:1,2！:4, C) 2,<br />请写出详细过程4:1A) 2
+只有一个x<br /><br />print函数， <br />占四位楼上的执行顺序对的，不过不是scanf占一位.<br />返回该函数输出的字符数：Each of these functions returns the number of characters printed, or a negative value if an error occurs，本题为四个是  1：return the number of fields successfully converted and assigned，<br />而是相当于把两个函数的返回值作为了变量.<br />The return value is EOF for an error or if the end-of-file character or <br />the end-of-string character is encountered in the first attempt to read a character. <br />A return value of 0 indicates that no fields were assigned.<br />返回成功赋值的变量的个数，<br />scanf函数:1，本题中为1; <br />the return value does not include fields that were read but not assigned
+1
+none
+http://zhidao.baidu.com/question/138134336.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/59410750.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/16082827.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/322696226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/343283480.html?qbl=relate_question_4

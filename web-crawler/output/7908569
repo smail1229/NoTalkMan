@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程:用自定义函数实现字符串处理函数strcat、 strcpy、strcmp、strlen和
+none
+i,j;0&#39,j=0;&#92;s2[j];&&s2[i]==&#39;i++)<br />{<br />  if(s1[i]&gt,char s2[])<br />{int i;&#92;<br />return len;;<br /> s1[i]=&#39;s1[i];;;<br />}<br />void strcpy(char a[];0&#39;s2[i])<br />    return -1;<br />else if(s1[i]==&#39;&#92;s[i];)<br /> return -1!=&#39;i++)!=&#39;<br /> while((a[i++]=b[j++]);&#92;&#92;<br />for(i=0,char b[])<br />{ <br /> int i=0;0&#39!=&#39;}<br />int strcmp(char s1[];;<br />  else if(s1[i]&lt!=&#39;&#92;&#92;<br /> for(i=0;<br /> for(j=0;&&s2[i];<br />}<br />int strlen(char s[])<br />{<br /> int len=0 ;&#92;)<br /> return 0!=&#39;0&#39;<br />else <br /> return 1;i++)<br />  len++;0&#39;0&#39,char s2[])<br />{int i;&#92;0&#39;<br /> for(i=0;j++)<br />   s1[i++]=s2[j];0&#39;}<br />if(s1[i]==&#39;);s2[i])<br />    return 1;0&#39;s1[i];0&#39!=&#39;&#92void strcat(char s1[];
+10
+char *mystrcat(char *dst, char *src)<br />{<br /> char *p = dst;<br /> while(*p)++p;<br /> while(*p++ = *src++);<br /> return dst;<br />}<br />char *mystrcpy(char *dst, char *src)<br />{<br /> while(*dst++ = *src++);<br /> return dst;<br />}<br />int mystrcmp(char *dst, char *src)<br />{<br /> while(*dst && *dst == *src)<br /> {<br />  ++dst;<br />  ++src;<br /> }<br /> return *dst - *src;<br />}<br />int mystrlen(char *dst)<br />{<br /> char *p = dst;<br /> while(*p)++p;<br /> return p - dst;<br />}<br />int main()<br />{<br /> char s[32], t[32] = &quot;HELLO,CHINA&quot;;<br /> mystrcpy(s, &quot;HELLO,&quot;);<br /> puts(s);<br /> mystrcat(s, &quot;USA&quot;);<br /> puts(s);<br /> <br /> printf(&quot;%d %d&#92;n&quot;, mystrlen(s), mystrcmp(s, t));<br />}
+http://zhidao.baidu.com/question/29896828.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/72623763.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/154719582.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/7454100.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/7918136.html?qbl=relate_question_4

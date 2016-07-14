@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求值 fun(int x ,int y) {return(x+y);} void main()
+} void main() { int a=1; sum=fun((a++;n&quot,sum),b=2#include&lt; printf(&quot;%d&#92,int y) {return(x+y);stdio.h&gt,c++);,a+b),c=3,b++,sum;fun(int x 
+但是a变成了2；<br />++i是表达式的值加1后在使用；b++的值是2你要主要i++和++i的区别；所以a+b=2+3=5，即先使用后加1，之后i要加1,a+b),c++)中，i++是表达式先使用i的值，但是以后再也没有用到c，但是b变成了3，即先加1后使用,b++；c++的值是3，a++的值是1，c变成了4，所以sum=5+3=8。<br />fun((a++
+7
+none
+http://zhidao.baidu.com/question/179956809.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241216368.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/274173972.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/359072454.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/330071352.html?qbl=relate_question_4

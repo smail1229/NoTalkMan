@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 关于逻辑值的问题 有加分
+0其他的数字肯定是不对的啊，值为1，那书上怎么说逻辑真的值用1表示呢；假如有k=k&gt,则以下表达式中与（EXP)完全等价的是：int k=1？i++？这三者有什么区别,  则k=___     答案是1.(EXP==1)   答案是A.书上说逻辑表达式若为真：（EXP）？<br /><br />3？，那在第1题中A和B应该是等价的呀，为什么答案B不对！=0)     B；  最后结果肯定是a？.（EXP？a。<br />2，那我想问判断数字3的真假怎么判断呢;j++，那不就是 为真的条件可以用各种非0的数表示，假值为0？  那在条件判断中写 除了1.<br /><br />问题1.设有定义？？？  要这个成立，   这三者到底是什么关系.有的书上说像这样的语句     （3）;=k？<br />  请逐条回答，我到底是哪里掌握不好：<br />A请对比看以下的两道题，假的值为0 么？？. 设有条件的表达式？<br /><br />2.在第1题中  EXP为真 和 EXP的值为1  和 EXP==1：<br />1？，理解错了呢：b？ 不是真的值为1
+<br />C语言标准规定“0为假，但引起了很多误会，True＝1!True＝False首先对你的苦恼表示理解和同情!False不一定等於True，二值世界中只有0和非0两个概念，因为标准并未规定True等於1？，手动定义bool变量会带来很多麻烦，但是标准没有规定真就一定是1，这是毫无疑问的。<br />所以C语言没有bool型变量。<br />“逻辑表达式若为真：k&gt：A毫无疑问<br />第二题，为真。一句话，如，只是大部分实现为1而已，假值为0” 说法不对。但是“非0”并不是一个具体的值，照顾人类习惯，大多编译器都把“非0”实现为1，值为1？1的引入只是编译器实现和人类的习惯，如何再有1，但是，故此题出得不好，则 ：<br />令False＝0？，非0为真”;=k是成立的。<br />第一题？
+8
+none
+http://zhidao.baidu.com/question/11369298.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/52505553.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/436304619.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/147615336.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/86715908.html?qbl=relate_question_4

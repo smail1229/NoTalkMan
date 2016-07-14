@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+3. 已知变量f和i的类型说明如下： float f=12.34; int i; 则以下符合C语言语法的表达式是 。 A) i=(int)f%5
+ int i.	已知变量f和i的类型说明如下.34：<br />float  f=123;<br />则以下符合C语言语法的表达式是        
+   %应该表示求余运算符分子分母必须都用整形。。！。！给个好评啊！。（int）表示将double 型强制转换成int 型进行计算
+6
+none
+http://zhidao.baidu.com/question/516640430.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/270031315.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/410631988.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/441846346.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/224753471.html?qbl=relate_question_4

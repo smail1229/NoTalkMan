@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+c语言main函数 1. main() { } 和 2. main(void) { return
+ main()<br />{<br />}<br />和<br />2c语言main函数<br /><br />1.  int main(void)<br />{<br /><br />return 0. main(void)<br />{<br />return 0;<br />}<br />和<br />3;<br />}请问三种到底怎用？有区别没
+严格上说这样写不好。c语言函数默认返回值都是int型，但是编译可以通过、这个是正确的<br />3。<br />2、这样写最好<br /><br />gcc -Wall可以提供更严格的语法检查1、main(){ }缺省返回int型
+0
+none
+http://zhidao.baidu.com/question/131158128.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/480611154.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/191510389.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/5280564.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/167337528.html?qbl=relate_question_4

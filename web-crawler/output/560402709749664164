@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+初级C语言程序题分析
+<br />case 2;<br /> <br />case 1: printf(“*”);<br />for(i=1;=5; break;n”);<br />default以下程序的运行结果是<br />main()<br /><br />{<br />int i: printf(“#”);i++)<br />switch(i%5)<br />{<br />case 0;i&lt: printf(“&#92; break: printf(“&”)
+进入default，并且顺序执行case 2，i%5=0，进入default;n当i=1时，输出&#92，输出&<br />当i=3时，输出&<br />当i=5时，并且顺序执行case 2，i%5=4，输出&<br />当i=4时，进入case 2，i%5=2，输出&#92，进入case 1，i%5=3，进入case 0，输出#<br />当i=2时;n，i%5=1
+0
+none
+http://zhidao.baidu.com/question/61585982.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239451663.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1494041294748621019.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/205716019.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/75557265.html?qbl=relate_question_4

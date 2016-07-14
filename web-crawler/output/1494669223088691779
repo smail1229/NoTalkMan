@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言运算的一道简单题，我已经晕了
+none
+，++y不会再计算, 不为0，故表达式++x || ++y已经可以确定为真了，表达式后面的运算不会再进行了,因为++x等于4。如++x || ++y.如果一个逻辑表达式的值能够确定了，故y=3
+0
+none
+http://zhidao.baidu.com/question/130790501.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1702189142472428100.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195236254.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/157900835.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/123561662.html?qbl=relate_question_4

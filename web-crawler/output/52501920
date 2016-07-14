@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言选择结构讲解?
+我觉得这个结构不是很好理解,你能帮助我理解下吗?
+<br />default，则执行 case 1中的相关代码<br />如果没有一个匹配的..，然后匹配下面的case<br /><br />case 1.<br />case 2:<br />.:<br />：<br />..<br /><br />如果a=1..，会执行default的相关代码选择结构<br /><br />switch()方法用来进行判断<br />比如<br />swtich(a)<br />就是对a的状态进行判断
+1
+none
+http://zhidao.baidu.com/question/237510266.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/511272887.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/222825860.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/546833302.html?qbl=relate_question_3

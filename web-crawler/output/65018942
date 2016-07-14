@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言的if语句 不知道哪里出错了 麻烦懂的人近来帮忙看一下
+stdio.0 - discount));&#92.15.&quot;<br /><br />void main()<br />{<br />    double unit_price = 5.h&gt;<br /><br />    printf(&quot,quantity;;&#92;<br /><br />       printf(&quot;<br />       getch(),quantity,unit_price * quantity *(1,quantity.0; 30 & quantity &lt;nEnter the number that you want to buy;<br /><br />       printf(&quot.2lf;<br />    long quantity = 0L; 30)<br />       discount = 0#include &lt;;<br /><br />    if(quantity &gt？麻烦懂的人看一下哪里出错了;nThe price for %ld is $%;<br />    double discount = 0,&quantity);<br /><br />       printf(&quot.0 - discount));<br /><br />    if(quantity &gt;&#92; 50)<br />       discount = 0;;%ld&quot.0.&quot; 0 & quantity &lt.0 - discount));nThe price for %ld is $%;<br /><br />}<br /><br />我不明白为什么 不管输入哪种条件都会得到3个输出呢:&quot;);&#92.2lf,unit_price * quantity *(1;<br />    scanf(&quot; 50)<br />       discount = 0.2lf.1;nThe price for %ld is $%.&quot;<br /><br />    if(quantity &gt;,unit_price * quantity *(1.0
+ <br />这一句告诉你,quantity：if条件为真时执行discount=0;&#92：<br />if(quantity &gt,quantityif(quantity &gt; 30 & quantity &lt;nThe price for %ld is $%，不出显示这一句的;.2lf; <br /><br />printf(&quot;nThe price for %ld is $%,unit_price * quantity *(1,unit_price * quantity *(1;; 30 & quantity &lt.1;这句.1; 50) <br />discount = 0，要用一个大括号作为复合语句使用.0 - discount))。所以printf(&quot;这一句要在if 条件中的话; <br />}这样条件不为真时;&#92.2lf.&quot.0 - discount)); 50) <br />{<br />discount = 0.&quot.1
+0
+none
+http://zhidao.baidu.com/question/21163593.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/535845691.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534208854.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148372820.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/330155448.html?qbl=relate_question_4

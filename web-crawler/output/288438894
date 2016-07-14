@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言逻辑运算符顺序
+none
+a=b=c=1<br />++a<br />++b<br />++c<br />++b&&+珐花粹拘诔饺达邪惮矛+c<br />++a||(++b&&++c)
+11
+逻辑运算符有三种，分别为&&（与运算）||（或运算）!（非运算），三者的优先级顺序为!&gt;&&&gt;||。<br />PS. <br />1、与运算符(&&)和或运算符(||)均为双目运算符。具有左结合性。非运算符(!)为单目运算符，具有右结合性。<br />2、“&&”和“||”优先级低于关系运算符，“!”优先级高于算术运算符。
+http://zhidao.baidu.com/question/50958589.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/87989890.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/25332846.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/42337275.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/751581141943301684.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，unsigned char是什么类型？
+none
+fail
+3
+unsigned char是无符号字节型，char类型变量的大小通常为1个字节（1字节=8个位），且属于整型。整型的每一种都有无符号（unsigned）和有符号（signed）两种类型（float和double总是带符号的），在默认情况下声明的整型变量都是有符号的类型（char有点特别），如果需声明无符号类型的话就需要在类型前加上unsigned。无符号版本和有符号版本的区别就是无符号类型能保存2倍于有符号类型的数据，比如16位系统中一个int能存储的数据的范围为-32768~32767，而unsigned能存储的数据范围则是0~65535。<br /><br />同样，在32位系统中一个char类型一般为8个bit，所以能存储的数据范围为-128~127，而unsigned char则是0~255，字符型所存储的数据是用来表示字符的，例如ASCⅡ或Unicode。<br /><br />关于char的符号（选自thinking in C++ 2nd vol1）：<br />signed is the default and is only necessary with char; char may or may not default to signed. By specifying signed char, you force the sign bit to be used.<br /><br />译：有符号类型是默认（指的是对于其他整型来说）的类型并且仅对于char来说才是必须的。char有可能是signed也有可能是unsigned（我想这可能取决于编译器或具体实现）。但通过显式地指定一个char为signed，你就迫使其成为有符号的字符型（水平太烂译的不好请见谅）。
+http://zhidao.baidu.com/question/57309267.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/744072843079729452.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/494044403.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/483110248.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/588551170.html?qbl=relate_question_4

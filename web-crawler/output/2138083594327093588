@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 - 堆分配中，怎么知道某片被占用了？在某片空间被释放后，怎么知道这片空间没有被占用。
+支持随机删除和随机插入，因此想了解堆的原理，但是单片机不支持动态分配，自己分配一个大数组中来实现堆的机制因为是单片机，要存庞大的数据链表（上万节点）
+你就直接占用一块内存，然后自己写算法和结构来管理这块内存，这一块里面存储的基本东西就是上一个节点地址，把这块内存分成很多小块，一小块就是一个节点，下一个节点地址和节点数据不能动态分配的话
+0
+none
+http://zhidao.baidu.com/question/444513643.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/95585520.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/498087768.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123934769.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/710851748603623005.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里的EOF（结束程序）怎么用？
+none
+起到标示作用而已<br />如，也就是EOF.h&gt;当这个函数读到文件结尾的时候，会返回-1。<br />很多函数都这样 <br />getchar()当遇到ctrl+C字符的时候;中<br />#define EOF -1<br /><br />它只不过是个常量;stdlib在头文件&lt，fgetc(fp)
+3
+<p>　在C语言中，或更精确地说成C标准函数库中表示文件结束符（end of file）。在while循环中以EOF作为文件结束标志，这种以EOF作为文件结束标志的文件，必须是文本文件。在文本文件中，数据都是以字符的ASCII代码值的形式存放。</p><p><br /></p><p>　　一般EOF的值为-1，ASCII代码值的范围是0~255，不可能出现-1，因此可以用EOF作为文件结束标志。</p><p><br /></p><p>　　EOF在windows对应的按键是CTRL+Z键，在linux系统上对应的按键是CTRL+D。比如下面的代码：</p><p>　　#include&nbsp;&lt;stdio.h&gt;<br />　　int&nbsp;main()<br />　　{<br />　　int&nbsp;c;<br />　　while&nbsp;((c&nbsp;=&nbsp;getchar())&nbsp;!=&nbsp;EOF)<br />　　putchar(c);<br />　　return&nbsp;0;<br />　　}</p><p>&nbsp; &nbsp; &nbsp; &nbsp;运行程序按CTRL+Z键，即会显示“^Z&quot;，再次按回车键即可退出程序。</p><p>&nbsp; &nbsp; &nbsp; &nbsp;<a href="http://d.hiphotos.baidu.com/zhidao/pic/item/0823dd54564e9258721249c29b82d158ccbf4efc.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://d.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=96e11cd17c899e5178db32127297f50b/0823dd54564e9258721249c29b82d158ccbf4efc.jpg" esrc="http://d.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=ac3fb8bbde33c895a62b907fe4235fc6/0823dd54564e9258721249c29b82d158ccbf4efc.jpg" /></a></p>
+http://zhidao.baidu.com/question/347029535.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/293245134.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/345855132.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/507973581.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/210459379.html?qbl=relate_question_4

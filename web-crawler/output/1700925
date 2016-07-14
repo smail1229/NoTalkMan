@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中动态数组的定义怎么做啊！
+我想先从外面输入一个数，然后来确定这个数组的大小！<br />---------------------------------致敬！
+<br />int array[n], &n);<br /><br />vector&lt;%d&quotc99中有动态数组;vector&gt;<br />c89不能这么用<br /><br />c++可以用vector<br />#include &lt;int&gt;，例如<br />int n;<br />scanf(&quot:vector:;<br /><br />using std; array
+4
+none
+http://zhidao.baidu.com/question/176377248.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/37479976.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91955449.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/201934220.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 这些代码看不懂！
+none
+截出的是In；反之符号若是-，若是小于，就是输出的字符串占几个字符。<br />需要注意的是，字符串右对齐，若前面符号为+(即省略)，符号为+(即省略)，这里符号+只是方便记忆，即空出的位置在右侧，输出的字符串右对齐。如果字符串长度超过设定的域宽则原样输出，写代码时是不加的;   In&quot，然后域宽是5，就空出一定的位置满足总长度等于A。<br />这里的B代表截取的长度，输出的字符串左对齐;。需要说明的是.2s就是说从第一个截到第二个，即左边空出位置，输出的就是&quot，从字符串的第一个字符开始截取，比如第三个%5字符串格式化输出中 考虑%±A.Bs<br />这里A表示输出的域宽
+0
+none
+http://zhidao.baidu.com/question/114445811.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/58012963.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210146615.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/535382594.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1509922972299295180.html?qbl=relate_question_4

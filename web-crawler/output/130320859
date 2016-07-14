@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言中指针变量的定义的问题，在线等！！！
+<br />          } <br />}<br />这是一个用指针法处理二维数组的方法;a[M],*p+i);<br />        printf(&quot.h&gt;),p++)<br />          { for(i=0;;n&quot;i++)<br />           printf(&quot;&#92;N,*(*p+i))，这里我想问问这个函数的意思;i&lt#include&lt！;<br />#define 4<br />#define 5<br />void main()<br />{<br />       int a[M][N];p++)<br />           for(i=0;i&lt;<br />       for(p=a;p&lt，实现输入;a[M]！;N？为什么不能用*p[N];p&lt。在线等;,i++)<br />           scanf(&quot;<br />       int (*p)[N]，请详解;%d&quot？int （*p）[N]的意思;<br />       for(p=a、输出二维数组;%d&quot,i;stdio
+它指向包含N个整型变量的一维数组,i，它有N个指向整型数据的指针元素构成<br /><br />一个是变量   里面的值都是常量值 <br />一个是数组   里面的值都是地址<br /><br />同样 上面的你还可以 这样做 int a[M][N]，即p是行指针<br />而 *p[N] 它是定义指针数组pint （*p）[N] 表示的是p是指针变量；<br />                         for(p=a[0];<br />                           int *p;a[M];p&lt
+2
+none
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91116414.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/158280226.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/680218184547909852.html?qbl=relate_question_3

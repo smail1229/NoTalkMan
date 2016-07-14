@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+以下c语言程序为什么不会输出Q？
+ <br />while(c;Q&#39;<br />void main()<br /> <br />    char c;nPlease input a string;<br />   printf(&quot;&#92:&quot.h&quot!=&#39;)<br />          { <br />                   putchar(c);<br />                   c=getchar()#include &quot;);stdio
+运行大括号内的语句<br />          { <br />                   putchar(c)，大括号内的打印语句没有执行;////&#47，自然也不会有Q被打印出来了;再输入一个字符<br />           }<br />所以当输入一个Q时，c等于Q，while语句的条件判断变成了假;当c不等于Q时while(c;)&#47，循环就结束;Q&#39;打印c的值<br />                   c=getchar()!=&#39
+0
+none
+http://zhidao.baidu.com/question/200324035.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234749933.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/480231453.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/507438301.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/140471767.html?qbl=relate_question_4

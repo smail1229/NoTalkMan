@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言 int i=23; printf(&quot;%d&#92;n&quot;,printf(&quot;%d&quot;,printf(&quot;%d&quot;,i))):的运行结果为什么是2321
+none
+<br />比如说;;  所以接着会输出2，最后因为printf(&quot。<br />所以运行整句话，先输出了23，然后将2(这个2是由printf(&quot;%d&quot，所以a的值为7<br /><br />你这句中;n&quot;%d&quot;，最开始运行的是最内层的printf(&quot;,i)返回值产生的)送给下一级,printf(&quot，再由下一级printf(&quot：<br />printf(&quot,i)  就会将23输出,i)),printf(&quot;%d&quot;。即232了;%d&#92。<br />a=printf(&quotprintf的返回值是已输出的字符量,i))。所以其返回值为1,i)));%d&quot。因此是2321<br /><br />希望我的回答对你有帮助，是int型,printf(&quot，一共输出了2个字符;;<br />则一共输出了七个字符;abcdefg&quot;);%d&quot;%d&quot;%d&quot;;<br /><br />这一级只输出了个2这个字符;%d&quot;,printf(&quot;;；将1输出
+1
+none
+fail

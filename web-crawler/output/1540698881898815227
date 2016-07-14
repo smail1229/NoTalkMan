@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言c=(a^b)&lt;&lt;2什么意思
+none
+a和b先做异或操作，再左移俩位最后赋值给c
+8
+none
+http://zhidao.baidu.com/question/1691805244377838308.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1732947542893129467.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1957854919118059340.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/454510930685528805.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1111617323292682499.html?qbl=relate_question_4

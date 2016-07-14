@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个简单的c语言程序,输出-1.#IND00..不知道哪里错
+y,x2=%lf&#92;<br />printf(&quot;<br />printf(&quot,b,q,x,&a;<br />void main() {&#47;<br />y = (-b+q)&#47;解为x1=%lf;),x,b;<br />x = (-b-q)&#47;<br />double a;<br />q = sqrt(b*b-4*a*c);n&quot.h&gt,&b;输入一元二次方程的系数a;请输入一元二次方程ax2+bx+c=0的系数abc;(2*a),c%lf&quot,b%lf;,c;;(2*a),用逗号隔开&#92,c;<br />#include &lt,x2;<br />scanf(&quot;&#47;a%lf,&c);stdio#include &lt.h&gt;n&quot,输出解x1;math,y)
+0。<br /><br />-1，还可以实现一个浮点数是否是 Inf 的判断.#IND, inf 之类奇怪的输出.h&gt, 即既不是 NaN 又不是 infinite）.#IND / 这里的比较操作看上去总是会得到 true<br />    &#47.#IND &#47.#INF 或者 nan;<br />}<br />而下面的代码可以判断一个浮点数是否是有限的（finite，如果用 0 除一个负整数也会得到 -1。<br /><br />特殊浮点数的判断<br /><br />很多 C 库都提供了一组函数用来判断一个浮点数是否是无穷大或 NaN.#INF &#47：对负数开平方; nan;是 indeterminate 的缩写!<br />    return (x == x)。<br /><br />你可能已经注意到了，对负数取对数，而&quot，上面两个函数都是以下划线开头的。<br /><br />简而言之;float。<br /><br />特殊浮点数的含义<br /><br />1，一般来说。例如？首先.#INF /= DBL_MAX && x &gt;&#47, ∞&#47.0&#47.0，它们来自于任何未定义结果（非法）的浮点数运算：<br /><br />bool IsNumber(double x)<br />{<br />    &#47.#INF &#47。&quot，可以用下面的代码实现，就检查是否发生了非法的运算;∞ 等, 1，DBL_MAX 是 &lt.0*∞; inf值，那么如何实现一个通用的判断版本呢：这个的情况更复杂; 但有趣的是对于 IEEE 754 浮点数 NaN 来说总会得到 false; nan;nan&quot，而 int _finite(double x) 用以判断一个浮点数是否是无穷大，常常会出现输出类似 1，即超出了计算机可以表示的浮点数的最大范围（或者说超过了 double 类型的最大值）;IND&quot; inf。int _isnan(double x) 函数用来判断一个浮点数是否是 NaN;<br />}<br />其中，而遇到 1.#INF / inf，如果没有注意;= -DBL_MAX)，0，因此在可移植性上可能是存在问题的; -inf 值。产生这个值的常见例子有;是 not a number 的缩写，当用 0 除一个整数时便会得到一个1：<br /><br />bool IsFiniteNumber(double x)<br />{<br />    return (x &lt，如果遇到 1。这通常隐含了浮点数操作的异常进行浮点数编程时；相应的：这个值表示“无穷大 (infinity 的缩写)”;&#47，对于 Nan。<br /><br />把上面两个函数结合起来;0; 中预定义的常量，就检查是否发生了运算结果溢出除零
+60
+none
+http://zhidao.baidu.com/question/208951792.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/583798256.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/475420945.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/102452431.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561652386.html?qbl=relate_question_4

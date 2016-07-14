@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言f=123.456 printf(&quot;%e,%10e,%10.2e,%.2e,%-10.2e&quot;,f,f,f,f,f);中   结果第二个为什么跟第一个相同
+直想问个问题  %m？默认就默认就算了 ~~宽度不是10吗~~<br />输出结果怎么变成13列了    即 1？.ne中M不是宽度吗  N代表精度 对不对<br />那么为什么%10e要使N默认为6啊
+在你没有一个运用m.ne的情况 下   如果只有一个整数 这个整数小于13则按默认输出  这点要记住
+3
+none
+http://zhidao.baidu.com/question/261425844.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/257074389.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/452637784.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1510232254246041780.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/339552133.html?qbl=relate_question_4

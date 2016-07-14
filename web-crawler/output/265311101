@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中if语句里的return是干什么用的，怎么解释？ if (N &gt;= 30) { EX0=1; return; }
+none
+函数马上结束本次执行return 是用来返回函数的。<br />当执行到return语句的时候，结束if语句所在函数的执行。<br />return放在if语句里面，意思就是执行到return语句的时候，return以下的语句都不再执行
+11
+none
+http://zhidao.baidu.com/question/373378021.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/59813178.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/102716061.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77909450.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/88940430.html?qbl=relate_question_4

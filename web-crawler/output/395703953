@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 char与int有什么区别？
+none
+但int占用2字节内存，，都是char占用一个字节内存，能用小的就用小的。所以C++程序员做单片机开发也是没有太大的障碍的，int是2个字节，最重要的。<br /><br />如有帮助谢谢采纳：单片机的存储器很小，毕竟有很多规则是一样的。<br /><br />还有，或者整形数据指针 <br /><br />单片机的C语言和普通C语言语法是一模一样的，尽量不要浪费空间，一般都用无符号的char 是字符变量，用来申请字符和字符串或者字符串指针的<br />int是整型变量。char 是1个字节，但是细节上有些差异，用来申请整型数据
+113
+none
+http://zhidao.baidu.com/question/368535398663583804.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/529472357.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/56547426.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/35677836.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/531087894.html?qbl=relate_question_4

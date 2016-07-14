@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，define命令是什么意思
+none
+14了，这样在程序里看到PI就可以替换成3.14.14就是将PI的值定义成3。如#define PI 3，将一个变量强制定义为你想要的值是定义的意思
+6
+　　define是C语言中的预处理命令，它用于宏定义，可以提高源代码的可读性，为编程提供方便。<br />　　预处理命令以“#”号开头，如包含命令#include，宏定义命令#define等。一般都放在源文件的前面，它们称为预处理部分。<br />　　所谓预处理是指在进行编译之前所作的工作。预处理是C语言的一个重要功能，它由预处理程序负责完成。当对一个源文件进行编译时，系统将自动引用预处理程序对源程序中的预处理部分作处理，处理完毕自动进入对源程序的编译。<br />　　在C或C++语言源程序中允许用一个标识符来表示一个字符串，称为“宏”。被定义为“宏”的标识符称为“宏名”。在编译预处理时，对程序中所有出现的“宏名”，都用宏定义中的字符串去代换，这称为“宏代换”或“宏展开”。宏定义是由源程序中的宏定义命令完成的。宏代换是由预处理程序自动完成的。
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/72497551.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/156376697.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/111701014.html?qbl=relate_question_4

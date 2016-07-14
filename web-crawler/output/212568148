@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 for(i=0;n;n=n&#47;10,i++) 这个循环的该怎么理解？
+none
+和while(n)<br />n=n/10<br />是一样的，这段代码应该是判断n是几位数的功能，i是n的位数
+5
+none
+http://zhidao.baidu.com/question/348236894.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/152711258.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/49120756.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/204343337.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1366095439810774899.html?qbl=relate_question_4

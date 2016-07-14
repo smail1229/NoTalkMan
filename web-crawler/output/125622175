@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中getch();return 0;的作用是什么？
+i。<br /><br />#include &lt,r);<br />void main()<br />{<br /> int r。请编写一个判别m是否为完数的函数;<br />               }<br />          }<br />          if(r == i) &#47,j，并将其相加 *&#47;* 判断i的因子之和是否等于i比如说我下面一题。 *&#47;i; i++) &#47;<br />          }<br />     }<br />     getch();<br /> {<br />         <br />          for(j=1;* 穷举法，这个数就称为“完数”.h&gt;n&quot;<br />               r = 0;j++) &#47;i&lt;;啥意思啊这里，并编写主函数;1000;<br />          {<br />               printf(&quot;  &#47，通过调用此函数统计自然数1~100完数的个数;j&lt;&#47;* 求i的所有因子;stdio，从1循环到1000 *&#47;<br /><br /> for(i=1;<br />     return 0;<br />          {<br />               if(i%j == 0)<br />               {<br />                    r = r + j，如果等于则为完数;%d&#92：一个数如果恰好等于它的所有因子之和
+而void时候就不必了，否则最后结果不显示就跳过了，异常非零）;让屏幕暂停。估计是写熟了，相当于“按任意键继续”getch()。<br />因为开始的时候main（）是int型的，习惯返回为0（正常0。估计是用的win-tc，win-tc得用这个函数
+10
+none
+http://zhidao.baidu.com/question/6686928.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/23201117.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/24529592.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/417089076.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_4

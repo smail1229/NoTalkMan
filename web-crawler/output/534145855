@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中有没有char ss（）［］这样定义的? 麻烦告诉下，谢谢
+none
+你想定义一个函数数组吧?其实是函数指针的数组.<br />char (*s[8])();
+0
+none
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518533357295213325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39441697.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/530773636.html?qbl=relate_question_4

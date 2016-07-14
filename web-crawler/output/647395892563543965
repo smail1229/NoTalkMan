@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中float和double到底是什么意思，有什么区别，求解
+none
+double双精度实型变量。（也就是说：赋给这两个变量的值将以双精度实型格式<br />存储在内存中）float单精度实型。
+2
+none
+http://zhidao.baidu.com/question/94482665.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/84672949.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163638542.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/85158117.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+作为一个学习c语言的新手，这种题目有意思嘛 int a=5 b=++a*--a 结果又说30 有说25的 越学还越糊涂了
+none
+<br />先进行++a,前置--的优先级都比*的优先级高这种题目在实际编项目的时候毫无用处;<br />b= ++a * --a,此时a = 5.前置++;再进行--a;这样b = 5 * 5 =25.因为我们都会加上括号让人容易理解。那么此题<br />int a = 5.<br />但是在各类考试中确实很常见,此时a= 6,首先你要明白运算符的优先级和结合顺序.<br />对于这个题,都拿这类题目来恶心人
+1
+none
+http://zhidao.baidu.com/question/222214337.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/332669725.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/432525715.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/680476133158265612.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/458145595.html?qbl=relate_question_4

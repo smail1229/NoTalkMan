@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中typedef是什么意思？干什么用的？
+none
+明新的类型名来代替原有的类型名<br />比如，typedef int   INTERGER;   或   typedef float  REAL;<br />相当于用INTERGER来代表int类型
+151
+none
+http://zhidao.baidu.com/question/5804406.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/152337988.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/519420845.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76334822.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100314456.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，常量，变量，浮点，单精度，双精度是什么意思？举例
+谢谢
+如12：int a.00025） e左边必须为≥1且＜10的数。<br />如，4、0：十进制小数形式和指数形式：123e3（ 代表123乘以10的三次方）e可以是大写或小写.7e－308  ~  1：占用比特数32。<br />它们的区别在于占用储存空间不同.6.0.4e－38  ~  3，数值范围（－1：<br />单（float）  ;；即定义了一个变量a，有效数位15-16，其值不能改变的量称为常量.0、2;a&#39。有两种形式；规范化的指数形式为：小数形式：占用比特数64、0， &#39.4e＋38）<br />双（double）：0、－1.5等等;d&#39.689e＋003 （=5689），数值范围（－3，其后必须为整数、－3为整型常量，有效数位6-7。如。<br /><br />浮点型数据又分为单精度型(float)和双精度型(double)两种.23为实型常量，这些值是可以改变的、123.5e－004（=0，它的值即为其存储的数据：5、&#39；<br />  指数形式，程序运行期间.5E－7 等等、3、－0.12e5；如 0;为字符常量.123。<br /><br />变量代表内存中具有特定属性的一个存储单元，即通常所说的实数。<br /><br />浮点型数据是C语言里数据的一种在程序运行过程中.7e＋308）<br /><br />自己打的
+153
+none
+http://zhidao.baidu.com/question/64702817.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/13763587.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91534154.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/19685124.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/332938295.html?qbl=relate_question_4

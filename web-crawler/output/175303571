@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序急用编写程序.计算m,n之间所有奇数的和
+none
+<br />   }<br />   <br />   sum = 0;<br />      m = i, &m，也就是将小的数放到n中，也就是使i中存放n后的第一个奇数<br />   {<br />       i++，是的话; 使n &lt;<br />   }else            &#47, sum); 否则;<br />   <br />   printf(&quot;stdio;<br />      n = m;<br />   scanf(&quot; m, m, n, n; m;/;<br />   <br />   return 0, &n); 判断n是否为奇数;/n)  //;<br />   }<br />   <br />   printf(&quot; i += 2)<br />   {<br />       sum += i;n&quot.h&gt，大的在m中<br />   {<br />      i = m;<br />   int sum#include&lt;<br />   <br />   if(m &lt;%d%d&quot:&#92;);%d和%d之间的所有奇数和为%d&quot;<br />   int i;<br />   <br />   if(i % 2 == 1)   &#47，自增2<br />   {<br />       i+=2; i &lt，自增1;Please input m and n;<br /><br />int main(int argc;<br />   }<br />   <br />   i = n, char * argv[])<br />{<br />   int m;<br />   <br />   for(
+3
+none
+http://zhidao.baidu.com/question/439452692.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1829653689291274820.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/262220333.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/418657132.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/559301423.html?qbl=relate_question_4

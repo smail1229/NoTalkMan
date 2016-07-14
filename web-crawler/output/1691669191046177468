@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 if 判断语句
+none
+                 / 一句<br />      }<br />     else<br />      {<br />             y+=3;&#47，相对于包含它们的 if(x==0） 来说<br />     {<br />            y+=2，只有一句就可以不加<br />我把省略的｛｝给你加上;/这只有一句<br />}<br />else if(x==0)<br />{<br />     if(x)                                /                  /这个 if和下面的 else 合起来算一句，你就能看清楚了<br />if(;/                        &#47!x)<br />{<br />         y++;&#47这考的是省略｛｝的if的作用域<br />if中的语句多于一句要加｛｝ 
+1
+none
+http://zhidao.baidu.com/question/1639411068399483340.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/111954577.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2010060156157390788.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/350217383.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/72893056.html?qbl=relate_question_4

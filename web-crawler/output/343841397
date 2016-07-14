@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我是C语言初学者，谁能详细的说一下switch语句的大概意思和算法
+none
+学习语言的通用法则，知道结构。 switch就是英语的意思，开关的意思。就是一个一个执行。<br />switch(表达式)<br />{ <br />      case 常量表达式1:<br />         语句1;<br />      break;<br 憨丁封股莩噶凤拴脯茎/>      <br />      case 常量表达式2:<br />         语句2;<br />      break; <br /><br />……<br />      case 常量表达式n:<br />         语句n;<br />      break; <br /><br />      default:<br />         语句n+1;<br />      break;<br />}<br />注意要用break隔开。
+1
+none
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/543691697.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/158744131.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 #define N 3 int [N][N]={1} 是不是说明a[0][0]=a[1][1]=a[2][2]=1啊？
+none
+是3*3的矩阵a[N][N]=a[3][3]，其中a[0][0]=1，其他元素自动赋值为0
+0
+none
+http://zhidao.baidu.com/question/220915020.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/315057636.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/415168583.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/197982727.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/461953564.html?qbl=relate_question_4

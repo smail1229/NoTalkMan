@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言二维数组编程
+none
+fail
+0
+#include &quot;stdio.h&quot;<br />int main()<br />{ double  a[10][6],num,t;<br />  &#47;&#47;第0列 编号  第1,2,3列 三门成绩  第4列 总分  第5列  平均分<br />  int i,j,k;<br />  &#47;&#47;输入学生的编号及每个学生的三门成绩<br />  for(i=0;i&lt;5;i++)<br />    for(j=0;j&lt;4;j++)<br />	scanf(&quot;%lf&quot;,&a[i][j]);<br /><br /> &#47;&#47;计算每个学生的总分和平均分<br />  for(i=0;i&lt;5;i++)<br />{<br />	<br />    a[i][4]=0;<br />  for(j=1;j&lt;=3;j++)<br />     a[i][4]=a[i][4]+a[i][j];<br />   a[i][5]=a[i][4]&#47;3.0; <br />}<br />&#47;&#47;输出原始记录 <br />for(i=0;i&lt;5;i++)<br />{  printf(&quot;%.0lf  &quot;,a[i][0]);<br />  for(j=1;j&lt;6;j++)<br />   printf(&quot;%lf  &quot;,a[i][j]);<br />   printf(&quot;&#92;n&quot;);<br />}	<br /> printf(&quot;&#92;n&quot;); <br />&#47;&#47;按总分排序<br /><br />   for(k=0;k&lt;4;k++)<br />     for(j=k+1;j&lt;5;j++) <br />       if(a[j][4]&gt;a[k][4])<br />       for(i=0;i&lt;6;i++)<br />         { t=a[k][i] ;a[k][i]= a[j][i];a[j][i]=t;}<br />  <br /> &#47;&#47;输出排序后记录 <br />for(i=0;i&lt;5;i++)<br />{  printf(&quot;%.0lf  &quot;,a[i][0]);<br />  for(j=1;j&lt;6;j++)<br />   printf(&quot;%lf  &quot;,a[i][j]);<br />   printf(&quot;&#92;n&quot;);<br />} <br />  <br />  scanf(&quot;%lf&quot;,&num); &#47;&#47;输入要查找的学号<br />  <br />  for(i=0;i&lt;5;i++)<br />    if(num==a[i][0])printf(&quot;名次 %d  总分 %lf&#92;n&quot;,i+1,a[i][4]);<br /><br />}
+http://zhidao.baidu.com/question/152592730.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/559958561.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/79055365.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97588932.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/577746577.html?qbl=relate_question_4

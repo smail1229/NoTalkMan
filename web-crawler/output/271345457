@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的一道交换的 ｛t=x%y;x=y;y=t} return x; 为什么x的值等于t了
+none
+这个不是交换，<br /><br />是求最大公约数的辗转相除法。
+1
+none
+http://zhidao.baidu.com/question/214419258.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214417382.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1733104661315718907.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/522946063.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1945603018868666068.html?qbl=relate_question_4

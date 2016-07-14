@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+设计应用程序，求二次方程ax^2+bx+c=0的解(a,b,c由键盘输入)。 c语言啊。
+计应用程序。      c语言啊,b。求过程,c由键盘输入)，求二次方程ax^2+bx+c=0的解(a
+<br />        }<br />        else if((b*b-4*a*c)==0)<br />        {<br />            x=p,x1;<br />        }<br />    }<br />    return 0;stdio,p;<br />        r=c/<br />        }<br />        else<br />            printf(&quot,x);0)<br />        {<br />            x1=p+q;<br />            x2=p-q!&#92;);<br />    scanf(&quot,x1;<br />int main ()<br />{<br />    int a;请输入方程的系数啊a,x2),x2.h&gt;x=%f&#92;%d%d%d&quot;(2*a),x2);Input error,x1;n&quot;<br />#include&lt;<br />            return 1;nx2=%f&#92;<br />    printf(&quot,&a;<br />            x2=p-q;;n&quot,&b,r;<br />        q=sqrt(b*b-4*a*c)/n&quot;;x1=%fi&#92;x1=%f&#92;;b;<br />    float x;nx2=%fi&#92;math;<br />    }<br />    else<br />    {<br />        p=(0-b)/(float)b);n&quot.h&gt;n&quot;0)<br />        {<br />            x1=p+q;<br />            printf(&quot;<br />            printf(&quot,b;<br />        if((b*b-4*a*c)&gt;<br />    if(a==0)<br />    {<br />        if(b==0)<br />        {<br />            printf(&quot,c&#92;<br />        }<br />        else if((b*b-4*a*c)&lt,q;(2*a);x1=x2=%f&#92;n&quot,c;<br />            printf(&quot;,b,(float)c/;),&c)#include&lt
+0
+none
+http://zhidao.baidu.com/question/135425528900635165.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/140527404.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/487950563.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/246294687.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98989167.html?qbl=relate_question_4

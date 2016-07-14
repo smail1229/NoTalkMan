@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言习题7
+*p, %s”： <br />char *s[]={ “ one ” , “ three ” },s[0]), *(p+1), “ two ” ; printf(“%c;<br />p=s[1]已有定义语句; 的结果为___________
+为w<br />s[0]是one，即p指向了t的地址，直接输出one，*（p+1）就是t的下一个地址中的值，<br />所以结果为ww,one<br />p=s[1]代表p指向了two的首地址
+0
+none
+http://zhidao.baidu.com/question/423989298354963052.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519156474237814485.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/543708621.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/569278153.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/552523667904581332.html?qbl=relate_question_4

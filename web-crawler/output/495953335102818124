@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程1970年1月1日0时0分0秒,输入N秒,要求打印X年X月X日X时X分X秒.
+题目如上  编程器是  Microsoft visual c++6.0
+一直可以输入<br />{<br /><br />scanf(&quot，得到该年的第几天<br /><br />int month,second;<br />v = v+60*60*8;<br />printf(&quot,28.h&gt;判断平年闰年<br />{<br />m[2] = 29,31;i&lt; <br />minute = v%3600/&#47,hour;得到1970年到现在的秒数<br /><br />unsigned long v;/如果得到小于或等于该月的天数;<br />}<br />int m[13] = {0:%d;定义月份天数表<br /><br />if((year%400==0)||(year%4==0&&year%100;,30; /;<br />#include &lt,&v);<br />second = v%60;n&quot;365+1970;1461!=0)) &#47,month;= m[i+1] && da != 0) &#47:%d&#92,minute;/ &#47,second);得到距离1970年1月1日到输入秒数的天数<br />int n = (d+671)/我们位于东八区<br />int d = v/365*365-n;i++)<br />{<br /><br />if(da &gt; m[i]) <br />{<br />da = da - m[i]; /60; /求中间过了多少个2月29日<br />int year = (d-n)/减去该年前的前天,31;<br />day = da;,31;time;/3600;/<br />}<br /><br />if(da &lt;%d-%d-%d&#92; <br /><br />printf(&quot,year，则可以确定为哪一天<br />{<br />month = i+1;<br />hour = v%(3600*24)&#47,30;12,minute;确定之后跳出循环<br />}<br />}<br />printf(&quot,day); /,31},day,31;<br />day = m[i+1];得到年份<br />if((d-n)%365 == 0)<br />{<br />year = year -1;/<br />time_last = time(NULL);%ld&quot;n&quot;<br />int da = d - (d-n)/让天数减去每月的天数<br />}<br /><br />if(da == 0) <br />{<br />month = i+1;<br />while(1) /<br />void main()<br />{<br />time_t time_last;/ &#47,time_last),30;<br />break;%d;/<br />for(i=0; &#47,31;%ld&#92;<br />}<br />else<br />{<br />m[2] = 28;&#47,31;/方便测试; /<br />}<br /><br />int i;<br />int hour;n&quot;/(60*60*24)+1; //stdio#include &lt.h&gt,30
+1
+none
+http://zhidao.baidu.com/question/299409502.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/253763852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239767120787318404.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/213078079.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/646534074315290805.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题： printf(&quot;%d %d %d %d&#92;n&quot;,i,j,m=++i,n=j++);
+h&gt，不理解;<br /> printf(&quot;,m=0,m=++i;<br />int main(void)<br />{<br /> int i=8;%d  %d   %d  %d&#92;<br /> return 0,j=10,n=j++),i,n=0,j;n&quot;<br />}<br /><br />运行结果是9 10 9 10<br />为什么是这个答案#include&lt;stdio
+m=++i，后面的逗号表达式为i,j，我的编译器上j就会变成11,n=j++.你的就是先打印了再j加了。也许你会问j加了为什么不是11;i初始化为8，j初始化为10printf函数在打印的时候先会计算出后面所有的表达式后再输出到标准输出上，你可以再后面加一句打印一下j的值，就这样了，这取决你的编译器（i++，m为9)，j也是10），所以i为9，所以n是10，n=j++（j先赋值后再加，m=++i(i先加变为9赋值给m.好了，和++i）在什么时候。也许就是11
+23
+none
+http://zhidao.baidu.com/question/424023826.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/58387737.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/134025543.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/587547929.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/105144698.html?qbl=relate_question_4

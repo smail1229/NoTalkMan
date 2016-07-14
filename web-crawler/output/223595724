@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言新手问题
+5;%d&quot,a),i&lt,a);;i++)<br />printf(&quot，代指未知量，d是输出的类型，%是什么;;;%5d&quot？下面的这个<br /><br />for(i=0一般我碰到的都是printf(&quot;中间的5是什么意思
+输出的是“###32”（#表示空格，意思是“以整形输出”<br /><br />那个5%d 是一个整体，即“   32”），比如32。<br />举个例子，表示输出的数字一共5个字节
+3
+none
+http://zhidao.baidu.com/question/2115988646676451747.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1603981945234792147.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/259799748.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/582943587892353205.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1110662481833482379.html?qbl=relate_question_4

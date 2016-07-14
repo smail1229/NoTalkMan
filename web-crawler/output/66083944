@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的变量定义的问题
+内容是一个被反汇编的二进制代码：<br />void (*fp)(void) = (void (*)(void))sc<br />已知SC是一个数组语句如下。<br />请详细解释一下
+这个函数没有参数：声明fp是一个函数指针，没有返回值，这个函数没有参数：吧sc强制转换成一个函数入口地址，没有返回值void (*fp)(void)。<br />(void (*)(void))sc 
+2
+none
+http://zhidao.baidu.com/question/51337443.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226148475.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/59616754.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/559595392787503684.html?qbl=relate_question_3

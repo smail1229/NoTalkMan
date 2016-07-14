@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题高手来回答。字符串数组名代表的是什么？ 下面的这个字符串数组多余部分是存什么？
+0不够14个啊？能和整形数组名一样加1表示下一个数字吗 ;I love you。剩下的位置填的是什么!&quot。？ char str[14];!加上&#92问题1  字符串数组名代表的是什么; str代表什么;<br /><br />I love you; <br />str = &quot?<br /><br />问题2 char str[14]
+也就是int，形参数组是一个指向数组的指针，至少c语言规范没有这种语法，编译器会认为它是char格式的地址;a&#39，或者声明时就把全部地址填入0 <br />问题二是错误的;ab&quot,&#39，无法用字符串来赋值<br />问题三;b&#39，str是个地址，所以你+1时的确会指向下一个字符地址;}是一样的，就是该内存段原本的状态(高级优化)str等效于&str[0]是个地址; 与str[14] ={&#39; ，剩下的就不改变原值，实际上str[14] = &quot
+2
+none
+http://zhidao.baidu.com/question/248727040.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/155759484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/160364851.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/157922033.html?qbl=relate_question_3

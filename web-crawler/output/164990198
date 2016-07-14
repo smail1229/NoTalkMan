@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+求  从1加到10的 数组形式 C语言程序.
+哪位大哥知道，帮忙发一下   小弟感激不尽..<br /><br />谢谢，谢谢<br />谢谢<br />谢谢<br />谢谢<哗礌糕啡蕹独革扫宫激br />谢谢<br />谢谢<br />谢谢<br />谢谢<br />谢谢
+#include &lt;stdio.h&gt;<br />不是和理解你题目的意思。我就做了一个求1到10的和的程序<br />void main()<br />{<br /> int a[10]={1,2,3,4,5,6,7,8,9,10};<br /> int i,sum=0哗礌糕啡蕹独革扫宫激;<br /> for(i=0;i&lt;10;i++)<br />  sum+=a[i];<br /> printf(&quot;从1加到10的和是:%d&#92;n&quot;,sum);<br />}<br /><br />从1加到10的和是:55<br />Press any key to continue
+3
+none
+http://zhidao.baidu.com/question/272340734.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/256197906.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261491577.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/557924621.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/520575104164112765.html?qbl=relate_question_4

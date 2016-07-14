@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言pow函数怎么用
+none
+fail
+6
+#include&lt;math.h&gt;<br />#include&lt;stdio.h&gt;<br />int main()<br />{<br />float a,p,b,I;<br />int n;<br />b=pow(1+p,n);<br />I=a*b-a;<br />printf(&quot;%f&#92;n&quot;,I);<br />return 0;<br />} <br /><br />pow函数是这样用的，a=pow(b,c);<br />表示a等于b的c次方
+http://zhidao.baidu.com/question/236938380.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97663831.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100041511.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/250616477.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/252209154.html?qbl=relate_question_4

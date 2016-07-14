@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中无符号长整型数的输入输出格式是什么
+none
+fail
+0
+输入输出标准格式是 %lu<br /><br />数值范围不大时，输入输出也可用 %d %x %u %ld %lx 格式。<br /><br />unsigned long ulA = 0x70000000; &#47;&#47; 数值范围不大<br />unsigned long ulB = 0x80000000; &#47;&#47; 数值范围大<br />unsigned long ulC = 3;<br />printf(&quot;%lu 0x%x %ld&#92;n&quot;,ulA,ulA,ulA);<br />printf(&quot;%lu 0x%x %ld&#92;n&quot;,ulB,ulB,ulB);<br />printf(&quot;%lu 0x%x %ld&#92;n&quot;,ulC,ulC,ulC);<br /><br />试试：<br />unsigned long ulD;<br />scanf(&quot;%u&quot;,&ulD);<br />scanf(&quot;%d&quot;,&ulD);<br />scanf(&quot;%ld&quot;,&ulD);<br />scanf(&quot;%x&quot;,&ulD);<br />就明白了。
+http://zhidao.baidu.com/question/106623163.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/329824316.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/617731035070513092.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/24346382.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/160798475.html?qbl=relate_question_4

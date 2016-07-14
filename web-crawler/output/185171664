@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+#include &lt;stdlib.c&gt; #include &lt;stdio.h&gt; main() { printf(&quot;我的第一个C语言程序!&#92;n&quot;): }
+none
+我的第一个C语言程序!&#92，printf后面结束应该用;stdlib;n&quot:;)。只需要申明一个头文件即可.h&gt.c&gt;是不需要的。<br />其次主函数定义要使用void main()只用main()是不对的<br />最后;而不是; <br />void main() { printf(&quot#include &lt。希望对你有帮助;stdio; }<br /><br />首先#include &lt
+4
+none
+http://zhidao.baidu.com/question/503910306.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/452314844.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38003541.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/271904459.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/414519370.html?qbl=relate_question_4

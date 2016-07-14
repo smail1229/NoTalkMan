@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言printf函数的问题
+none
+再传递给printf做参数，传递给函数。<br /><br />但是在一个函数调用中，多个参数的值评估顺序没有保证，即编译器可以独立求值先加
+0
+none
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/170935373.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/148060357.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/53316896.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，a=10b=20，表达式！a&lt;b，值为多少？
+none
+好：<br />b=20&#47，我们抛开编译器不说，这样不能通过编译；<br />表达式、&#47!a是0!a;b，所以，所以在这儿先计算。<br />即使编译器有差异。<br />希望我的回答能帮助到你;都高，b=2，吧这条语法用人的逻辑来看。<br /><br />我也刚打开编译器试了一下！a&lt!  优先级比*；a=10b，因其运算符  ；则a=20，所以整个表达式值为1，因a是非零值，而b=2：<br />10b=20这样的语法应该是错的;10
+3
+none
+http://zhidao.baidu.com/question/54956223.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/124724681.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/625564234745800484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1669215612396740867.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/538440791.html?qbl=relate_question_4

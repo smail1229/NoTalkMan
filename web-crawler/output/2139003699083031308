@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 *p++先算*p还是p++？
+none
+根据运算符穿订扁寡壮干憋吮铂经优先级可知<br />*p++等效于*(p++)<br />所以整个表达式的值为*p,且p指针后移
+0
+none
+http://zhidao.baidu.com/question/519415912.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/512777477.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/398707993.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127147797.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134611686205446165.html?qbl=relate_question_4

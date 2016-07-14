@@ -1,0 +1,11 @@
+电脑/网络 编程语言 VB 
+求一元二次方程ax^2+bx+c=0的根.用VB语言怎么编？知道的都来帮帮忙，急。。。谢谢啦！
+none
+ 0 Then<br />        MsgBox &quot; & R1 & &quot.Text)<br />    C = Val(Text3; & R1 & &quot; & R2 & &quot。&quot.Text)<br />    If B ^ 2 - 4 * A * C &lt;<br />    ElseIf B ^ 2 - 4 * A * C = 0 Then<br />        R1 = -B &#47。&quot;;该方程无解。&quot;和&quot;该方程仅有一个根为&quot; 2 / (2 * A)<br />        R2 = (-B - Sqr(B ^ 2 - 4 * A * C)) / A<br />        MsgBox &quot, C As Single<br />    Dim R1 As Single;<br />    Else<br />        R1 = (-B + Sqr(B ^ 2 - 4 * A * C)) /该方程有两个根分别为&quot; (2 * A)<br />        MsgBox &quotPrivate Sub Command1_Click()<br />    Dim A As Single.Text)<br />    B = Val(Text2, R2 As Single<br />    <br />    A = Val(Text1, B As Single;
+4
+none
+http://zhidao.baidu.com/question/92644417.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/230708990.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/399776602.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76586219.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/81167739.html?qbl=relate_question_4

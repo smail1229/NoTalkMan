@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，求大神解决，谢谢啦，我是小白，最好能够解释下原因
+b[20];&#47,p2=b,*p2,*p1。最后依次输出数组a;<br />p2=p1;输入一个字符串存入数组a、c中的字符串。<br />#include&lt,*p3，对字符串中的每个字符用加3的方法加密并存入数组b.h&gt;<br />}<br />}<br />此题目该如何改呢;<br />void main()<br />{<br />char a[20]，再对b中的字符串解密存入数组c;<br />gets(a);<br />p1=a&#47,c[50];<br />while(*p1)<br />{<br />*(p1++)+=3;<br />}<br />while(*p2)<br />puts(*p2++);stdio、b;<br />while(*p3)<br />{<br />puts(*p3-3),p3=c
+ &#47,c[50];<br />int main()<br />{<br />   char a[20];/ /stdio;<br />   puts(a),*p3;&#92;<br />   p1=a;<br />       p2++;//对字符串中的每个字符用加3的方法加密并存入数组b<br />       p1++; &#47,p2=b;串结束符<br />   p2=b ;<br />   while(*p1)<br />   {<br />       *p2 = (*p1)+3.h&gt;<br />   gets(a);,b[20];<br />       p2++,*p1,*p2;0&#39;;/puts是输出一个串<br />   puts(b);p2重新指向b的开始位置<br />   while(*p2)<br />   {<br />       *p3 = (*p2)-3;<br />   }<br />*p3=&#39; &#47,p3=c;/ /<br />   puts(c);<br />   return 0已修改;对b中的字符串解密存入数组c<br />       p3++，看注释<br />#include&lt;<br />   }<br />*p2=&#39;0&#39;&#92
+2
+none
+http://zhidao.baidu.com/question/545064242.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533388192.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533017226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533943050.html?qbl=relate_question_4

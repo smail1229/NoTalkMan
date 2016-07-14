@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有没有大神可以帮我看看编写的c语言程序哪里不对？
+h&gt;<br />	scanf(&quot;i++)<br />	{<br />		scanf(&quot。<br />输入;%d&quot;;i++)<br />	{<br />		a[i]=i+1;i&lt：3              输出,c[20],&m););stdio;j&lt，依次输出出列同学编号,&quot;i&lt;i&lt;n，6,h=0,k=0，击鼓传花;<br />	}<br />	for(i=0;;<br />		a[j-1]=0，话从此人后一个开始继续传递!=n-1)<br />			printf(&quot;%d&quot;,a[20];<br />		if(i;<br />			}<br />			if(a[j]==0)<br />				k++,i，并不在入列，就向后传递一个人;%d&quot,c[i])：2;i++)<br />	{<br />		printf(&quot;<br />		c[i]=0,&n);k=-20;<br />	for(i=0;;n;j++)<br />		{<br />			if(j==20)<br />			{<br />				j=0;<br />		h=j;<br />	}<br />	for(i=0，若传递到哪个人手上时鼓声停止;<br />		}<br />		c[i]=a[j-1];h+m+k+1;<br />	}<br />	return 020个同学排成一圈，11<br />      1<br />      3<br />      4<br /><br />#include&lt;<br />		for(j=h,j=0;<br />int main()<br />{<br />	int n;n,m，鼓声每响一下，则该同学出列表演节目。输入一串鼓点数目
+并赋值为1，2。<br />你的程序第一个错的地方就是数组的赋值<br />for(i=0，一个计数器num;i++)<br />	{<br />		a[i]=i+1;n；<br />循环条件是while(num &lt!= 0)<br />n++;n&quot，记录出列人数;<br />   a[i]=0;<br />   n = 0; 20)<br />{<br />if(a[flag] ;i&lt你的程序层次好多;<br />}<br />这样就可以了,a[i])：<br />定义一个int a[20];<br />if(flag == 20)<br />flag = 0;<br />}<br />flag++;<br />		c[i]=0，一时半会理解不了;<br />   num++;;<br />if(n %3 ==0)<br />{<br />printf(&quot;%d&#92，我说下我对这个问题的理解；<br />定义一个游标flag，3……20，一个计数器n记录鼓声。<br />初始化flag = num = n = 0
+1
+none
+http://zhidao.baidu.com/question/1893910994296555140.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/501365356.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/917976354860144339.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1987823701792862387.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2116590249646338107.html?qbl=relate_question_4

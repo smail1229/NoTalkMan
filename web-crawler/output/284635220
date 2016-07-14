@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+AT89S52单片机C语言程序中的 |= 和 &=~ 什么意思？0x01 等等 这些地址能否给予讲解？我新手
+&#47#include &lt;&#47;string;<br /><br />#define Me  P2|=0x01  &#47;&#47;Mn向北移动<br /><br />#define Qe  P2&=~0x01 &#47;Qs停止向南移动<br />#define Qw  P2&=~0x10 &#47;Me向东移动<br />#define Ms  P2|=0x04  &#47;&#47;Mw向西移动<br />#define Mn  P2|=0x40  &#47;&#47;Ms向南移动<br />#define Mw  P2|=0x10  &#47;Qn停止向北移动<br /><br />#define Qa  P2=0x00 &#47;&#47;<br />#include &lt;&#47;&#47;Qw停止向西移动<br />#define Qn  P2&=~0x40 &#47;&#47.h&gt;Qe停止向东移动<br />#define Qs  P2&=~0x04 &#47.h&gt;reg52
+0位）置高电平<br />通过硬件电路你会发现<br />P2.0位）置低电平<br />通过硬件电路你会发现<br />P2.0置高电平应该就可以实现Me向东移动<br /><br />其他的也是同样<br /><br />P2&=~0x01 写完整了就是P2 = P2&(~0x01) = P2&0xfe <br />也就是将P2的最低位（P2通过语句回答你吧<br />P2|=0x01 写完整了就是P2= P2|0x01  也就是将P2的最低位（P2
+33
+none
+http://zhidao.baidu.com/question/211959842.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/360575073.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/416322564.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/144030602.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/236272087.html?qbl=relate_question_4

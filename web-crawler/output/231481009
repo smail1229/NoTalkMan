@@ -1,0 +1,11 @@
+电脑/网络 软件开发 数据结构及算法 
+java语言用while循环语句 从1加到100
+none
+fail
+1
+public static void main(String[] args) {<br />  int count = 0;<br />  int i = 1;<br />  while(i&lt;=100){<br />   count = count + i;<br />   i++;<br />  }<br />  System.out.println(count);<br /> }<br />运行结果：<br />5050
+http://zhidao.baidu.com/question/367150397.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/198717130.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1831405912484342140.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/217414406.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/196249637.html?qbl=relate_question_4

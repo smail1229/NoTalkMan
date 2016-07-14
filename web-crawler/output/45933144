@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 负数在内存中为什么要以补码形式存储？
+none
+这个与整型的存储很相似。因此这两类之间的转换也比较方便。 <br /><br />整型： <br />一个正数的补码和其原码的形式相同，分别存放，枚举类型，用2的幂次来表示指数部分： <br />在内存中字符的存储实际上是把字符相对应的ASCII代码放到存储单元中的： <br />在内存中占4个字节，基本类型其中还包括-整型！ <br /><br />字符型，实型数据分为小数部分和指数部分！ <br /><br />数据在内存中是以二进制形式存放的。而负数的补码方式是将其绝对值的二进制形式“按位求反再加1” <br /><br />实型c的char数据属于基本类型！计算机用二进制表示小数部分，实型。而这些ASCII代码值在计算机中也是以二进制形式存放的。数值是以补码表示的，是按照指数形式存储的
+44
+none
+http://zhidao.baidu.com/question/710637426984536165.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/6192886.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116398527.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/519847730534098565.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/135168644.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，设x,y,z,t均为int型变量,则执行以下语句后,t的值为( ) x=y=z=1; t=++x||++y&&++z;求过程。
+none
+++z 后   z=2    表达为 x||y&&z   再运算y&&z因为&&比||运算级别高 运算后为逻辑真即 1   表达为 x||1   运算得到逻辑真 即为1<br />                          /  /首先执行这一句; //&#47,再把y的值给x   x,z的值都等1<br />t=++x||++y&&++z;在这一条语句中;&#47,赋值号=的运算级别最低;&#47:把1赋值给z;/先算++X后x=2 表达为 x||++y&&++z<br />                            &#47,再把z的值给y;++y 后 y=2      表达为 x||y&&++z<br />                           &#47,y;&#47,因此先算++x||++y&&++z <br />                             &#47x=y=z=1
+13
+none
+http://zhidao.baidu.com/question/275631505.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196267918.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/568861657.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/34101828.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/918474933958891579.html?qbl=relate_question_4

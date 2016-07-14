@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我要用C语言把字符串变成数组char a=&quot;string&quot;; char b[6]; 把他变成b={&quot;s&quot;,&quot;t&quot;,&quot;r&quot;,&quot;i&quot;,&quot;n&quot;,&quot;g&quot;};
+none
+strcpy(b,a);
+1
+none
+http://zhidao.baidu.com/question/337652131.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/268117315.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2138765175295214308.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/549148396.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/75785414.html?qbl=relate_question_4

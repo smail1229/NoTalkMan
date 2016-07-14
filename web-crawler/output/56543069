@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 若有说明：int i，j=2，*p=&i;,则能完成i=j赋值功能语句是
+a i=*p<br />b *p=*&j<br />c i=&j<br />d i=**p
+B <br /><br />p为i的地址，等同操作
+9
+none
+http://zhidao.baidu.com/question/1510621446986803540.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/315475610.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/48143676.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424527247.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/176686700.html?qbl=relate_question_4

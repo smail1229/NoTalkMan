@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，求大神解决，我是小白，最好解释下原因，谢谢拉。
+以下五条语句中有_______是合法的。<br />if (a=b)x++;   if (a=&lt;b) x++;   if (a-b) x++;   if (a&lt;=b&lt;=c) x++;  if(1) x++;<br />A）1       旦川测沸爻度诧砂超棘      B）2           C）3              D）4<br />答案：D
+if (a=b)x++; //合法，旦川测沸爻度诧砂超棘但是逻辑错误<br />  if (a=&lt;b) x++; //不合法应该是 a&lt;=b<br />  if (a-b) x++;//合法，当a-b不等于0时为真<br />   if (a&lt;=b&lt;=c) x++;//合法，但是逻辑有误<br />  if(1) x++;    //合法，死循环
+3
+none
+http://zhidao.baidu.com/question/548060706.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533385139.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533017226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533943050.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编程实现请输入10个整数，请输出最大值及所在位置（位置从1数起）。
+none
+fail
+fail
+<p>#include&nbsp;&quot;stdio.h&quot;</p><p>int&nbsp;main()</p><p>{</p><p>&nbsp; &nbsp; int&nbsp;a[10]={0};</p><p>&nbsp; &nbsp; int&nbsp;i,max,max_index;</p><p>&nbsp; &nbsp; printf(&quot;请输入10个整数:&quot;);</p><p>&nbsp; &nbsp; for(i=0;i&lt;10;i++)</p><p>&nbsp; &nbsp; &nbsp; scanf(&quot;%d&quot;,&amp;a[i]);</p><p>&nbsp; &nbsp; max=a[0];</p><p>&nbsp; &nbsp; max_index=0;</p><p>&nbsp; &nbsp; for(i=1;i&lt;10;i++)</p><p>&nbsp; &nbsp; &nbsp; if(a[i]&gt;max)</p><p>&nbsp; &nbsp; &nbsp; {</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; max=a[i];</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; max_index=i;</p><p>&nbsp; &nbsp; &nbsp; }</p><p>&nbsp; &nbsp; printf(&quot;这10个数中的最大值是%d,位置为%d\n&quot;,max,max_index+1);</p><p>&nbsp;</p><p>&nbsp;</p><p>}</p><p><a href="http://g.hiphotos.baidu.com/zhidao/pic/item/4afbfbedab64034fd6c6b155aec379310a551d5d.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://g.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=f7d87b0e54fbb2fb347e50147f7a0c9c/4afbfbedab64034fd6c6b155aec379310a551d5d.jpg" esrc="http://g.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=c314092921a446237e9fad66ad125e38/4afbfbedab64034fd6c6b155aec379310a551d5d.jpg" /></a></p>
+http://zhidao.baidu.com/question/313291873.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/173888935.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/552127910.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/484670870.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/917962236897781419.html?qbl=relate_question_4

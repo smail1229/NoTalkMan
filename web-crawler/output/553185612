@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 将用户输入的字符串中的所有数字提取出来
+0&#39;9&#39;<br />void main()<br />{<br /> char str[80]？<br />}<br />;n&quot？     #include &lt？    ,digit[80]？<br />   printf(&quot;)<br /> {<br />  if(*ps&gt;<br /> char *ps;stdio;<br /> gets(str);&&*ps&lt;.h&gt;<br /> int i=0;&#92;<br />  }<br />;=&#39？<br />   i++;0&#39;<br />}<br />请问三个问号行应该怎么填;<br /> ps=str;=&#39;%s&#92;)<br />  {<br />  ;<br /> while(*ps,digit)!=&#39？      。
+fail
+27
+none
+http://zhidao.baidu.com/question/154000414.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/21208229.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132009753.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/77534070.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/362244120236101292.html?qbl=relate_question_4

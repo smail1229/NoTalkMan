@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里面 a=b; b=c; c=d; 是什么意思？顺序什么样？
+C语哗筏糕禾蕹鼓革态宫卡言里面<br />a=b;<br />b=c;<br />c=d;<br />是什么意思？顺序什么样？
+a=b;    //把b的值赋给a<br />b=c;    //把c的值赋给b<br />c=d;    //把d的值赋给c<br />赋值顺序：自右向左<br />执行顺序：从上到下<br /> <br />下面的结果是：2   3   4   4<br />自己好好消化消化<br />#include &lt;stdio.h&gt;<br />void main()<br />{<br />int a=哗筏糕禾蕹鼓革态宫卡1,b=2,c=3,d=4;<br />a=b;<br />b=c;<br />c=d;<br />printf(&quot;%d  %d   %d   %d&quot;,a,b,c,d);<br />}
+6
+none
+http://zhidao.baidu.com/question/239119836.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/75656798.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/5169380.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1947471019747954428.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/232090623.html?qbl=relate_question_4

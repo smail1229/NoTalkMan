@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程用if嵌套语句判断瑞年?
+!!!!!!!帮帮我啊
+<br />瑞年的话要去翻黄历了 - -<br />闰年的话c语言教程（谭浩强那本）就有例子啊<br /><br />四年一闰，百年不闰，四百年再闰。这是闰年的标准<br />判断是否能被400整除，能的是闰年<br />不能的那部分判断是否能被4整除且不能被100整除瑞年？<br />闰年
+9
+none
+http://zhidao.baidu.com/question/1754225252673569308.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/142313681.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/164359107.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/440059155.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/101815940.html?qbl=relate_question_4

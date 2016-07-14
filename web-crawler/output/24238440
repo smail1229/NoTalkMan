@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中float变量类型的定义是什么
+none
+fail
+9
+float 单精度浮点型 6位有效数字<br />一般float用32位表示，double用64位表示<br />对于实际的程序来说，float类型精度通常是不够的，float只能保证6位有效数字，而double至少可以保证10为有效数字，能满足大多数计算的需要。<br />事实上，有些机器上，double比float的计算要快得多。
+http://zhidao.baidu.com/question/234480345.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/132449625.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/181685750.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1511477399323126460.html?qbl=relate_question_3

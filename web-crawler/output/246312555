@@ -1,0 +1,11 @@
+电脑/网络 软件开发 数据结构及算法 
+编个C语言程序，用二分法求方程x^3-x^4+4x^2-1=0 在区间[0,1]内的根（精确到0.01)
+none
+h&gt;<br />while(fabs(x1-x2)&lt.01)<br />{x3=(x1+x2)/<br />#include&lt;<br />if(function(x1)*function(x2)&lt;<br />}<br />double function(double x)<br />{<br />return(x*x*x-x*x*x*x+4*x*x-1);n&quot;<br /> double function(double);math,x3.h&gt;2;<br />int main()<br />{<br />double x1=0;<br />return 0#include&lt;<br />}<br />printf(&quot;<br />else<br />     x1=x3;The root of this equation is %f&#92;=0;=0)<br />      x2=x3;stdio,x2=1,x3);
+3
+none
+http://zhidao.baidu.com/question/191473156.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/191248019.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/511741449.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/330982427.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/193952592.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的return 0是啥意思
+none
+fail
+0
+&quot;return 0&quot;出现可能有两种能，一是在主函数〔main()函数〕中出现，二是在自定义函数中出现，在主函数中出现是代表的是无系统返回值，即执行到这时直接跳出程序了。在自定义函数中出现时代表的是无函数返回值，只执行了代码，做了一些代码让做的事，但不返回数值给主调函数。
+http://zhidao.baidu.com/question/918426942026270739.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223565538.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/3615512.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/513197216.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356882968.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+一个简单的C语言程序不知道哪儿错了？？
+<br />  printf(&quot;<br />void main()<br />{<br />  char *point1,point2);stdio#include&lt;&#92;i am a student&quot!=&#39,*point2;<br />}<br /> my_strcpy(char *t;<br />   t++,char *s)<br />{<br />  while((*t=*s);<br />  point2=&quot;;%s&#92;;)<br />  {s++;<br />  my_strcpy( point1;0&#39,point1);n&quot.h&gt
+n&quot,char *src)<br />{<br />    <br />    while((*dest=*src);<br />        dest++。像s，变量命名最好是有意义的;%s&#92;&#92，一看就明白, char **argv)<br />{<br />    char *point1;<br />    printf(&quotpoint1没有分配存储空间;<br />    my_strcpy( point1，这样看代码不容易看懂，多了或者时间久了就要花很多时间来重新看;)<br />    {<br />        src++, *point2!=&#39;0&#39;<br />}<br />int main(int argc;i am a student&quot，不能直接使用;;stdio.h&gt;<br />    point2=&quot。<br /><br />#include &lt;malloc;;<br />#include &lt。或者可以使用数组;<br />void my_strcpy(char *dest;0&#39,point1);&#92;<br />    free(point1);<br />    }<br />*dest = &#39，t。<br />另外一个小建议。分配一下空间就行了;;<br />    point1 = (char*)malloc(20*sizeof(char))。代码少的时候还好;<br />    return 0,point2).h&gt
+0
+none
+http://zhidao.baidu.com/question/235292334.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/250170014.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/623610699093223284.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/52392495.html?qbl=relate_question_3

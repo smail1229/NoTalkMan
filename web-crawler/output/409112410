@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中指针*和&的作用是什么，定义指针用哪个呢
+*是不是代表取值，&代表取地址？
+  这样就好了。 定义指针的话;<br />a = &c是的;  表示指针a指向c这个变量，可以这么理解;  char *b。    *a那就表示c的值0。   int c=0，就用  int *a
+1
+none
+http://zhidao.baidu.com/question/186344428.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/252345132.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/646781254439000285.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/235998495.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/121518329.html?qbl=relate_question_4

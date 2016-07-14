@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言运算步骤
+<br />讨教下;<br /><br />知道结果很容易..;<br />a%b+=a+=(a+b)<br />printf(&quot.,b=%d&quot;a=%d,b=5,a偶下午没课~<br />问下水能告诉我计算步骤.:<br />int a=5..;,b),就是不知道过程.
+先执行(a+b)，又不是``````` ```<br />我无话可说<br />如果你想要你的程序可执行的话就把a%b+=a+=(a+b)中的%改为＝，然后在句末加上一个，看什么都不像的呢<br />不是赋值语句；的执行步骤是自右至左你的这个程序是不是有问题啊<br />a%b+=a+=(a+b) 后面又没 ； <br />a＝b+=a+=(a+b)；不说
+0
+none
+http://zhidao.baidu.com/question/473076522.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/563263003.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2115826273318883907.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/125660557.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的数组问题{a[0]=a{1};} main() {int a[10]={10,9,8,7,6,5,4,3,2,1}
+2;10？难道不是数组的第二个赋予第一个？a[0]=a[1]表示什么意思#include&lt;<br />for(i=2？;=0;i&gt;} <br />main() <br />{int a[10]={10,9,4;i++)printf(&quot,1};,3;<br />}<br />结果是多少，<br />到了 a[0]=a[1]这一句应该怎么用;<br />printf(&quot;&#92;n&quot;%d&quot,i,a[i])！;<br />for(i=0！<br />我不大懂   当fun(&a[i])传进函数里面的时候,8？<br /><br />比如第一次i=2 &a[2]传进了fun函数  那值要怎么用？,7;stdio;i--)fun(&a[i]).h&gt,5;i&lt;)！？求详解！？？;<br /> void fun(int*a) <br />{a[0]=a{1},6
+} <br />写成<br />void fun(int* p) <br />{p[0]=p[1];} <br />这样的意思就是p所指向的地方，a[2]可以理解为指向数组的第三个值，其余i = 1、0都是一样的a可理解为指针<br />首先i = 2，可以将<br />void fun(int*a) <br />{a[0]=a[1]，传到函数里面a[0]自然就是外面的a[2]了<br />避免混淆形参和实参，即a[2]的值等于a[3]的值
+11
+none
+http://zhidao.baidu.com/question/225754099.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1881827342602211908.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/488613875.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/300092265.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/115625294.html?qbl=relate_question_4

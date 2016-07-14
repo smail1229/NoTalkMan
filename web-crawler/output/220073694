@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 ++p-&gt;x代表什么意思
+none
+x自加1.x是p指向的结构体的成员。<br />#include&lt;stdio.h&gt;<br /><br />struct abc{<br /> int x;<br /> int y;<br />};<br />int main()<br />{<br /><br /> struct abc p[2];<br /> p-&gt;x=4;<br /> p-&gt;y=20;<br /> in珐梗粹妓诔幻达潍惮璃t mm= ++p-&gt;x;<br /> printf(&quot;%d&quot;,mm);<br /> scanf(&quot;%d&quot;,&mm);<br /> return 0;<br />}<br />以上是测试代码。
+3
+none
+http://zhidao.baidu.com/question/527747332.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/525525058.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2011391436399342308.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143266489.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/183678654.html?qbl=relate_question_4

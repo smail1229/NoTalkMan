@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 自定义函数
+<br /> b=opp(a)main()<br />{<br /> int a=1;<br /> {<br />  int r?;<br /> printf(b),b?;<br /> }<br /><br />}<br /><br />请问 这个自定义函数有什么问题啊;<br />  return (r);<br />  r=x+1;<br /> <br /> int opp(x)
+h&gt;<br />  return (r)、自定义函数不能在函数名后加分号（除非在函数说明时）<br />2;，则在主函数中一定要说明int opp(int x)！你肯定是个初学者,b，所以不要急慢慢来，下面的程序可以运行;%d&quot、自定义函数如要放在主函数之后，一定要给出输出格式！<br />#include&lt.<br />我所做的修改主要有3点，你的程序中是int型的所以用“%d”<br />最后建议你找一本C语言的书好好看看;<br /> printf(&quot：<br />1;<br />否则一定要放在主函数之前定义<br />3;<br /> b=opp(a);<br /> }<br /> <br />main()<br />{<br /> int a=1、printf()是格式化的输出函数;<br />  r=x+1;stdio;<br />int opp(x)<br /> {<br />  int r，把基础的东西一定要搞懂我做了一些修改,b)
+21
+none
+http://zhidao.baidu.com/question/171904270.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/534512047.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/90271471.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/103610917.html?qbl=relate_question_3

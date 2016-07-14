@@ -1,0 +1,11 @@
+电脑/网络 编程语言 汇编语言 
+汇编语言实验：分支程序设计 定义3个单元 若X&gt;Y则Z=1；若X=Y则Z=2；若X&lt;Y则Z=3
+none
+ datas<br />mov ds:<br />mov ax:<br />mov [z], 2<br />jmp done<br />nxt2, cs:code<br /><br />datas segment<br />x dw 1<br />y dw 2<br />z dw , ax<br /><br />mov ax, 3<br /><br />done, 1<br />jmp done<br />nxt1, [y]<br />jle nxt1<br />mov [z]?<br />datas ends<br /><br />code segment<br />start:<br />jne nxt2<br />mov [z]:<br />mov ax, [x]<br /><br />cmp axassume ds:datas
+2
+none
+http://zhidao.baidu.com/question/194877497.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/350261166.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/97962437.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/15035772.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/37865897.html?qbl=relate_question_4

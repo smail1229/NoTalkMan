@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我是一个C语言小白，请问y=x&gt;&gt;3和y=|x怎么解释啊
+y=x&gt;&gt;3和y=|x是什么意思啊，希望能详细点
+=x&gt;/;&gt;,y),y);按位或<br />printf(&quot;&gt;/&#47,y<br />y=x&gt;;/<br />y=x|2;%d&quot;/%d&quot;按位右移<br />printf(&quot;按位与<br />printf(&quot;<br />}<br />先把10化成二进制是1010 右移3位后是0001 因为1010的后三位被覆盖了 0001转换为二进制是1 <br />其实按位右移 移一位相当于除以二 故移动三位答案是10/<br />y=x&5,y);/%d&quot;3和y=|x是什么意思啊，希望能详细点<br />int x=10;3
+0
+none
+http://zhidao.baidu.com/question/542770085.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533388192.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/545064242.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533017226.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/254726222.html?qbl=relate_question_4

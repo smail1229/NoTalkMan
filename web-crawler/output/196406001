@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里面 %d是什么意思 &#92;n又是什么意思
+C语言里面 %d是什么意思  &#92;n又是什么意思
+<br />如果x = 2010，比如<br />printf(&quot，&#92%d表示把一个变量以十进制数字的方式填写进去;n表示换一行, today is %d&#92, x)!&#92;nGood Bye，那么打印的结果是<br />hello;n&quot;, today is 2010<br />Good Bye;hello
+24
+none
+http://zhidao.baidu.com/question/226158284.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/229213906.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/31567239.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/238484008.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/65376601.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序中，定义几个字符数组，在内存中是怎么存储的？
+;<br />为什么最后的输出是Z;SWORD&quot;<br />       printf(&quot;;;%s&#92,data)，刚好是test数组之外的一个字符;<br /><br />       printf(&quot;<br /><br />        strcat(test;ABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;%s&#92;<br />        char data[20] = &quot,list);;<br />       printf(&quot;n&quot;n&quot,list);%s&#92,test);<br />        char list[60] = &quot;n&quot;;;ABCDE&quotchar test[30] = &quot
+;%s&#92，strcat后越界了,data);ABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;n&quot;：<br />char test[100] = &quot;;<br /><br />        strcat(test,test),list)要求test至少要有5+26+1才能正常容纳合并后的字串<br />下面这样就没问题了;;<br />        char list[60] = &quot;;n&quot，最后结果不定<br />strcat(test;;<br /><br />       printf(&quot;%s&#92;ABCDE&quot;<br />       printf(&quot;%s&#92;SWORD&quot,list);<br />       printf(&quot;<br />        char data[20] = &quot;n&quot,list)你的test数组太小了
+0
+none
+http://zhidao.baidu.com/question/410042897.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/572940058.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/255882608.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/93551799.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1765856736692848940.html?qbl=relate_question_4

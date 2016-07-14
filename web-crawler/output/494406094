@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，scanf和printf函数的问题，关于双精度double，格式控制
+none
+fail
+0
+如果是（输出printf）的输出项是double或float时，可以用%f或%e作为格式描述字符,(其中double也可以用%lf或%le)。double的意思是可以有16位有效数字，而在固定格式输出的时候，都默认的是6位，输出语句printf用double的时候f前面加l是没有效果的，你要输出长度，可以写，%0.8f，这样就是输出8个有效数字了，要输出几位就改0.后面的参数。<br />注意：如果是（输入scanf）的输入项为double时，则必须用%lf或%le（必须有个l）作为格式描述字符。位于输入项为float与上面的一致。
+http://zhidao.baidu.com/question/263385978461395325.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/562255964.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/359405956.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/196561078.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/422534953.html?qbl=relate_question_4

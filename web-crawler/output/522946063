@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，return 1和return -1有什么区别
+none
+fail
+3
+大多数情况下main的返回值我们是用不着的，只是通常返回0表示程序正常结束，非0表示程序异常结束。<br />操作系统是支持其它进程来获取别的进程的退出代码的，这个时候这个返回值就有意义了。<br />比如，你在写一个自动安装程序，要依次安装多个应用程序，那么你怎么知道其中某个程序的安装是否正常结束了呢，因为如果某个出错了再继续也许是毫无意义的，你就可以通过别的进程的退出码来判断了。
+http://zhidao.baidu.com/question/40060995.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/568979850.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554682327.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/120783460.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言的逗号表达式。。。
+<br /><br />main()<br />{<br />    int a;<br />    printf(&quot;%d&#92;conio;<br />    printf(&quot;stdio;<br /><br />main()<br />{<br />    int a.h&quot,a);<br />#include &quot;conio;<br /><br />    getch();;<br /><br />}<br /><br />上面这几行代码执行完结果等于8;<br /><br />}<br /><br />这个代码书上说结果等于16;n&quot。<br /><br />疑惑了#include &quot.h&quot,a+8;n&quot;stdio;;<br /><br />    getch(),a).h&quot,6+8;<br />    a=3+5;<br />    a=3+5.h&quot，可是我却算还是得8！<br /><br />#include &quot;<br />#include &quot，可是书上写结果应该等于14，知道的帮帮忙;%d&#92
+6+8,6+8);<br />和<br />(a=3+5),a+8;<br />,运算顺序应该是<br />(a=3+5);<br />和<br />a=(3+5,a+8)书上搞错了,逗号的优先级最低,书上错误地把式子划分成<br />a=(3+5,所以这两个程序中的表达式
+2
+none
+http://zhidao.baidu.com/question/245164525.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51368077.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535373396.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253444196.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/66901168.html?qbl=relate_question_4

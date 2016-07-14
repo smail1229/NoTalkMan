@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言宏定义常数修饰函数是什么意思
+例如：#define _INNER_HELPER<br />void _INNER_HELPER a(){ .. }<br />这样是什么意思
+如果这样写的话<br />#define _INNER_HELPER<br /><br />#ifdef _INNER_HELPER<br />void _INNER_HELPER a() {}<br />#endif<br /><br />应该就是条件编译，在定义过_INNER_HELPER的地方可以用这个函数。
+3
+none
+http://zhidao.baidu.com/question/335581317.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/871917236606022412.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/616161829814177412.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/59396415.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/428870926.html?qbl=relate_question_4

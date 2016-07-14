@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中有哪些函数可以取整？
+none
+常用(int)x对x取整，而int(x)是c++中的用法，或者直接赋给int型变量，但如果是负数会产生误差
+2
+C语言有以下几种取整方法： <br />    1、直接赋值给整数变量。如： <br />    int i = 2.5; 或 i = (int) 2.5; <br />    这种方法采用的是舍去小数部分 <br />    2、C&#47;C++中的整数除法运算符“&#47;”本身就有取整功能(int &#47; int)，但是整数除法对负数的取整结果和使用的C编译器有关。 <br /><br />    3、使用floor函数。floor(x)返回的是小于或等于x的最大整数。如： <br />    floor(2.5) = 2 <br />    floor(-2.5) = -3 <br />    4、使用ceil函数。ceil(x)返回的是大于x的最小整数。如： <br />    ceil(2.5) = 3 <br />    ceil(-2.5) = -2 <br />    floor()是向负无穷大舍入，floor(-2.5) = -3；ceil()是向正无穷大舍入，ceil(-2.5) = -2。<br />这两个函数在VC++中也能使用，但使用时需要包含math.h文件。要在程序的开始添加如下代码： <br /><br />    #include &lt;math.h&gt;
+http://zhidao.baidu.com/question/391631.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145887416.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/419839912.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/338406008.html?qbl=relate_question_3

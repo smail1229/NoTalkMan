@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言主函数里可不可以有return
+none
+<br />void main()ANSI C标准中：<br />int main()<br />{<br />  return 0;，在C中表示可以接受任何参数，语义为。其它的写法都不是C语言标准中定义的（当然，省略return的话会自动当作最后存在return 0，非零表示出现了某种错误。<br />典型的最简程序，形参变量名可以改变）。<br />int返回值传递给操作系统，在C++中表示不接受任何参数）;<br />前者的void显式地表示不接受任何参数：括号中不含任何内容，许多人习惯于传播这种非标准写法;<br />int main(int argc，定义的主函数只有两种原形，可以简化为int main()。可能是因为某些不良教材的缘故，通过命令行传入程序。只是目前的一些编译器为了兼容标准制订前的旧代码才没有出现编译错误;<br />}<br />（C++中;是错误的写法。<br />以上两种等价写法在ISO C++标准中有定义：<br />int main(void)。<br />另外有些编译器有多于两个形参变量的扩展, char* argv[])<br />{<br />  return 0，例如附加参数char* envp[]表示环境变量，等价于int main(int argc;<br />}<br />或<br />int main(int argc；<br />后者的形参列表是命令行参数个数和命令行参数, char* argv[])：零表示正常, char** argv);（但在C语言中语义有所区别;语句，任何版本的标准中都不曾定义
+9
+none
+http://zhidao.baidu.com/question/169512984.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/14411145.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/33529034.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/210412898.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/102471008.html?qbl=relate_question_4

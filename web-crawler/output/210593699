@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求详细解释这个C语言程序 谢谢啦
+# include&lt;stdio.h&gt;<br />void 缉梗光妓叱幻癸潍含璃main() <br />{  int a, b, k=4, m=6, *p1=&k,  *p2=&m; <br />  a=(*p1*=*p2); <br />  b=(*p1)&#47;(*p2)+8; <br />  printf(&quot;a=%d ,b=%d &#92;n&quot;,a,b); <br />}
+# include&lt;stdio.h&gt;<br />void main() <br /缉梗光妓叱幻癸潍含璃>{  int a, b, k=4, m=6, *p1=&k,  *p2=&m; //p1指向k，p2指向m<br />  a=(*p1*=*p2); //相当于k=k*m;a=k;  执行后k=24,a=24<br />  b=(*p1)/(*p2)+8; //相当于b=k/m+8;执行后b=12<br />  printf(&quot;a=%d ,b=%d &#92;n&quot;,a,b); <br />}
+0
+none
+http://zhidao.baidu.com/question/1367048563717498539.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/517622302.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195428229.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/79254907.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211084955.html?qbl=relate_question_4

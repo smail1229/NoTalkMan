@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言高手请进：貌似简单却令我想不通的#define 语句
+<br />int x;<br />x = F(5)*G(5)题目如下：<br />#define F(x) x+1<br />#define G(x) x-1<br />一下片段运行后为什么是x=9呢
+<br />x=F(5)*G(5);<br /><br />这么写就是预期的效果x=F(5)*G(5)展开以后是<br />x=5+1*5-1，也不能保证所有场合都顺利进行<br /><br />所以在c++中，只是单纯代码替换<br /><br />#define F(x) ((x)+(1))<br />deefine G(x) ((x)-(1))<br />int x，但即使加了括号,结果就是9咯<br /><br />宏的局限性就在于此
+1
+none
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/349026721.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/32954762.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/452315590.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153568995.html?qbl=relate_question_4

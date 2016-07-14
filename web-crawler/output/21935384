@@ -1,0 +1,10 @@
+教育/科学 学习帮助 
+请问“？”在C语言里代表什么意思？
+代表什么意思还有&quot; ~ &quot？<br />最近遇到这个题
+”是三目运算符“;<br />意思就是b等于a的“反”，如：<br /><br />十进制 -- 二进制<br />10  ------ 1010<br />11  ------ 1011<br />12  ------ 1100<br />13  ------ 1101<br />14  ------ 1110<br />15  ------ 1111<br />。。，则b = 3;<br />意思就是如果a大于3;如果a 小于等于3。:”中一个; 3 ：~5 = 10)<br />：b = ~a，1变为0<br />如。<br />反就是逐位取反的意思。。<br />例如? 3 。<br /><br />取反就是将二进制位中的0变为1：~11 = 4)<br />~1100 = 0011 (即，则b = 0：~12 = 3)<br />~0101 = 1010 (即“: 0;<br /><br />~是取反的意思<br />例如：<br />~1011 = 0100 (即?，在计算机中都是二进制树：b = a &gt。
+14
+none
+http://zhidao.baidu.com/question/177762223.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/590478296.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76464947.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/580380028.html?qbl=relate_question_3

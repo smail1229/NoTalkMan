@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言什么时候会用到short int,unsigned int还有long int呢
+none
+所以可以存放的正数比int大一倍<br />long int 是32位变量，而unsigned int，没有int有一位用来存放符号
+3
+none
+http://zhidao.baidu.com/question/53146811.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/119517541.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/278153534.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/428905599.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1574150195322009380.html?qbl=relate_question_4

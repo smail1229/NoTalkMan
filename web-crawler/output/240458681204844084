@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序，为什么每一行输出最后一位会出现个0呢？
+i++)<br /> {<br />  for(j=1;=9;);j++)<br />  { <br />   printf(&quot#include &lt;%2d&#92;<br />void main()<br />{<br /> int i;j&lt;<br />  }<br />  printf(&quot;stdio.h&gt;<br /> int j;=9;<br /> for(i=1;%3d&quot;i&lt;,i*j);n&quot
+/%d是输出一个整数;&#92printf(&quot;);   /n&quot;<br /><br />修改为<br /><br />printf(&quot;);n&quot;/%2d&#92
+0
+none
+http://zhidao.baidu.com/question/243843379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/530174931.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/226399842.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/149946076.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/425756041666752532.html?qbl=relate_question_4

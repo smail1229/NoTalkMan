@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 main() { char a=&#39;1&#39;,b=&#39;2&#39;; printf(&quot;%c&quot;,b++);printf(&quot;%d&#92;n&quot;,b-a)} 结果是什么？说明一下。
+none
+fail
+1
+答案是：22<br />分析：<br /><br />char a=&#39;1&#39;b=&#39;2&#39;;      &#47;&#47;赋值，注意a b的类型为char<br />printf(&quot;%c&quot;,b++);     &#47;&#47;以字符型打印打印b后b才自加，所以是现打 <br />                      &#47;&#47;印出“2”后<br />                      &#47;&#47;b的ASCII码值是50，自加后是51<br />printf(&quot;%d&#92;n&quot;,b-a)    &#47;&#47;这句是b的ASCII码值减去a的ASCII码值后<br />                      &#47;&#47;以整型输出，即51-49=2，所以输出“2”
+http://zhidao.baidu.com/question/241783265.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/347134997.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/711414580020414325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/562371632.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/318457575.html?qbl=relate_question_4

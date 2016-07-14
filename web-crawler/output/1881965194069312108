@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序执行过程
+none
+fail
+0
+<ol><li><p>C语言是过程性语言，正常情况下所有的命令都是顺序执行的。除非遇到控制语句。</p></li><li><p>C语言的常见控制语句：</p><p>if语句<br />if-else语句<br />switch语句<br />while语句<br />do-while语句<br />for语句<br />goto语句<br />break语句<br />continue语句</p><p>每种控制语句都会影响程序执行的流程，所以要理解C语言程序执行过程就必须牢牢掌握C语言的控制语句。</p></li></ol>
+http://zhidao.baidu.com/question/236767470.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192963978.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/573846048.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/547234380.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/260858812.html?qbl=relate_question_4

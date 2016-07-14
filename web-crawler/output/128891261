@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 判断素数
+再判断。不能用foR，判断是否素数，直到程序结束，只能用while，判断完之后程序不能结束，判断输入的数是否是素数输入数字。也就是说输入数字，要对下个要输入的数字作好判断的预备，这个循环不能停下来，再输入
+<br />int main()<br />{<br /> int num;);n&quot;<br />  i = 2,&num);<br />  }<br />  if(i&lt;<br />  while(i&lt;是素数&#92;n&quot;<br />   i++;<br /> }<br /> return 0;stdio;不是素数&#92,i;输入一个数来判断是否是素数;;)#include&lt：&#92;<br />  scanf(&quot;num)<br />   printf(&quot;num)<br />  {<br />   if(num%i == 0)<br />    break;%d&quot;).h&gt;n&quot;<br /> while(1)<br /> {<br />  printf(&quot;<br />  else<br />   printf(&quot
+2
+none
+http://zhidao.baidu.com/question/189405513.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/40505738.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80129422.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/515139947.html?qbl=relate_question_3

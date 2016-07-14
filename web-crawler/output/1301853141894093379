@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+看一下这个c语言程序，我是初学者求大神啊
+在那个while循环的大括号里，pi=pi+term;n=n+2;sign=-sigh;term=sigh&#47;n；这四个语句我把他们的顺序调换了，运行结果就不一样了，<br />#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />int main()<br />{<br />	int sign=1;<br />	double n=1.0,term=1.0,pi=0.0;<br />	while(fabs(term)&gt;=1e-8)<br />	{<br />		pi=pi+term;<br />		sign=-sign;<br />		n=n+2;<br />		term=sign&#47;n;<br />	}<br />	pi=pi*4;<br />	printf(&quot;pi=%10.8f&#92;n&quot;,pi);<br />	return 0;<br />}<br />这样的时候运行出来就是正确答案 但是我自己写的是（只写while里面的）<br />	while(fabs(term)&gt;=1e-8)<br />	{哗厂糕断蕹登革券宫猾<br />		sign=-sign;<br />		n=n+2;<br />		term=sign&#47;n;<br />		pi=pi+term;<br />这样运行结果就错误了。我就是想问一下，这个程序运行会与语句的顺序有关系么，那这个顺序应该怎么定呢？
+pi=pi+term;sign=-sign;n=n+2;term=sign/哗厂糕断蕹登革券宫猾n;<br />最后一个式子用到了前3个式子的量（pi,sign,n），而前三个式子都是对这3个量进行改变的<br />本来是改了之后算term，你那是改之前或改了一部分后算term，当然不一样<br />这一段中前3个互换都没事，第4个必须在最后
+1
+none
+http://zhidao.baidu.com/question/568459948.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/244449132.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/360201015371456852.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130139595.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/248154981.html?qbl=relate_question_4

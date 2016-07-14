@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中如何如果定义一个int a = 1，那么类型是在内存中记录的？
+并对应一个内存地址(&a)，内存地址&a指向的是int的变量的呢;<br /><br />那么，系统还做了什么，能够识别，或者是c编译器做了什么int a =1<br />此时系统会分配一个内存块(1)
+型是编译器去记录和匹配的，是编译器去处理的，是语言层次的机制，所有的类型信息都不存在了。<br />编译成机器代码后，而是翻译成了对应的机器代码，类型的作用是保证数据的操作一致性，编译成机器代码后，是一种抽象的约束。比如说int类型的加法运算；float类型的加法就变成浮点数加法指令，就变成整数加法指令
+0
+none
+http://zhidao.baidu.com/question/183047169.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/347966136.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/129871839.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80185530.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/10864558.html?qbl=relate_question_4

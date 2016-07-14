@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言小问题（&quot;%lf&quot;与&quot;%f&quot;的区别，尤其是在scanf()与printf()语句中）
+scanf穿迹扁克壮久憋勋铂魔()语句：&quot;%lf&quot;用于double类型，&quot;%f&quot;用于float类型<br />printf(语句：&quot;%f&quot;既可用于double类型，又可用于float类型，意思是输出实数（包括单、双精度），并意指“保留6位小数” ；&quot;%lf&quot;只能用于double 型，意思是输出双精度。<br />                  <br />上面说的对吗？还有其他区别吗？？？
+应该就这些
+4
+none
+http://zhidao.baidu.com/question/587812155.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/59410750.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/16082827.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/343283480.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/5937574.html?qbl=relate_question_4

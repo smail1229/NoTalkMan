@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：若有定义 int *p, 则表达式 p++ 的值就是 p 所指向的变量的地址值加1？
+请判断正误并说明理由
+这是错的，p没有进行初始化
+1
+none
+http://zhidao.baidu.com/question/319371094.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/441846346.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518705508598257365.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/270031315.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/400316883.html?qbl=relate_question_4

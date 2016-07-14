@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中float(*fun)(float)什么意思？
+none
+<br />比如<br />float fltFuc(float f)<br />{<br />    printf(&quot;;&#47，参数也是浮点型;把函数fltFuc的地址赋值给函数指针fun<br />fun(1定义一个函数指针;<br />}<br />float (*fun)(float).23);%f&quot;/这句就等价于调用fltFuc(1;&#47,f);/<br />fun = fltFuc，这个函数的返回值为浮点型
+0
+none
+http://zhidao.baidu.com/question/107864247.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1668799312171471347.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/146744585.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/202868223.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/75164655.html?qbl=relate_question_4

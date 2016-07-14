@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言  char s[7];s=&quot;Olympic&quot;;  与  char s[7];s={&quot;Olympic&quot;};   错在哪？
+none
+&quot在C语言中给字符串赋值要用相应的函数<br />比如strcpy;);<br />另外,strncpy<br />strcpy(s，像楼上说的;Olympic&quot，要注意的分配的长度
+1
+none
+http://zhidao.baidu.com/question/1605075514432462827.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/179159705.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/464160718.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/536542817.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言定义一个2行3列的二维整形数组，从键盘对其进行赋值，分别求每一行的和及每一列的和，并输出
+none
+&#92;<br />  sum=0;3.h&gt;<br /> }<br /> printf(&quot;);3;i&lt;n&quot;<br /> for(i=0：&#92;<br />  }<br />  printf(&quot;2;<br />void main()<br />{<br /> int a[2][3];j&lt：&#92;i&lt;n&quot;i++)<br /> {<br />  for(j=0;n&quot;每行的和分别为;;i++)<br /> {<br />  for(j=0;%d&#92;每列的和分别为,i;i&lt;3,j,&a[i][j]);请输入数组元素;;%d&#92;i++)<br />  for(j=0;j++)<br />  {<br />   scanf(&quot;stdio;<br /> printf(&quot;<br />  }<br />  printf(&quot,sum),sum);n&quot;j++)<br />  {<br />   sum += a[i][j];<br /> for(i=0;);%d&quot;j&lt;j&lt;2;<br />  }<br /> printf(&quot;)#include&lt;<br /> for(i=0;;n&quot;j++)<br />  {<br />   sum += a[j][i];<br />  sum=0;2,sum=0
+1
+none
+http://zhidao.baidu.com/question/91860136.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/129680155.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/252142606.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/261506646.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/255484754.html?qbl=relate_question_4

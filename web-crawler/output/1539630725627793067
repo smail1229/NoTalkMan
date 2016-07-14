@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中关于for语句和if语句的作用范围的问题
+不知道for语句中在循环体下的语句到底有哪些，特别是语句复杂的时候<br />if语句也是这样的情况，<br />语句的结束有没有以什么为结束标志？
+for(;;){}   循环体是大括号结束  即到 } 结束   if(){}也是这样   单句语句结束是 ;
+0
+none
+http://zhidao.baidu.com/question/2073629011996929988.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148254906.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/425404439.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/534774678.html?qbl=relate_question_3

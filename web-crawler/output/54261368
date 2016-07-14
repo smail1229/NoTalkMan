@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中怎么对数组随机排序？
+none
+j;&#47,int i)<br />{<br />  int j;SIZE,k;/j&lt;<br />  time_t t;j++)<br />   printf(&quot;j&lt;<br />  for(j=0;<br />  srand((unsigned)time(&t));<br />      <br />  }<br />  for(j=0;stdlib;随机数的产生与系统时间有关<br />  for(i=0,i=0.h&gt.h&gt;stdio.h&gt;<br />    if(k==1) i--;  <br />}<br /><br />int find(int b[];SIZE,j+1;The uniform randrom number %d is %d&#92;<br />  getch();&#47,ary[j]);<br />#include&lt;i;<br />    k=find(ary;<br />#include&lt;<br />}<br />如果随机数需要排序#include&lt;i++) /<br />#define SIZE 1000<br />main()<br />{<br />  int ary[SIZE];i&lt;j++)<br />  {<br />    if(b[i]==b[j])<br />    {<br />      return 1;输出生成数结果 <br />  {<br />    ary[i]=rand()%1000+1;,i);n&quot;<br />    }     <br />  }<br />  return 0;time
+8
+可以用一个辅助数组进行随机排序，方法如下：<br /><br />1 获取要排序的数组长度L。<br />2 定义整型的辅助数组，长度为L。<br />3 生成L个随机整型数字，存与辅助数组中，这样要排序数组和辅助数组就是一一对应的了。<br />4 对辅助数组排序，排序过程中，当改变辅助数组中数字的位置时，同步改变要随机排序的原数组中对应的元素位置。比如为排序交换辅助数组的第三个和第五个元素，那么就要同时交换原数组中的第三个和第五个元素。<br />5 当辅助数组排序完成后，原数组中的值就是随机顺序了。<br />6 删除辅助数组。
+http://zhidao.baidu.com/question/344641792.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54262481.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80785028.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127784778.html?qbl=relate_question_3

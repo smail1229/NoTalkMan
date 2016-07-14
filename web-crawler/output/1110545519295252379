@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序问题
+#include &lt;stdio.h&gt;<br />int main(void)<br />{<br />	cha订肠斥段俪灯筹犬船华r a[9]=&quot;abc def&quot;;<br />	char b[9]=&quot;ABC DEF&quot;;<br /><br />	printf(&quot;%p&#92;n%p&#92;n%p&#92;n&quot;,&a,&b,&a-&b);<br />	return 0;<br />}<br />如上程序，运行后打印为<br />0012FF74<br />0012FF68<br />00000001<br />请问为什么最后一个是00000001
+pri订肠斥段俪灯筹犬船华ntf(&quot;%p&#92;n%p&#92;n%p&#92;n&quot;,&a,&b,&a-&b);<br /><br />这里不应该用&符号，因为数组名a,b本身就是地址，如果用上&a则表示存放数组地址a的那个内存单元了，由于程序数据存储的局部性原理，&a和&b是相邻的，所以&a-&b就是1了<br />你把&都去掉试试看
+0
+none
+http://zhidao.baidu.com/question/2138708686047059668.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/360776640724283292.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/258269868.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2202081957221101228.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1924080142210449467.html?qbl=relate_question_4

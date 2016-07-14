@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序 输入一行字符,统计其中英文字母&#65380;空格&#65380;数字和其他字符的个数。
+=&#39;9&#39,digit.;&#92;))<br />            letter++;<br />int main(void)<br />{<br />    int letter;)||(ch&gt;A&#39!=&#39;=&#39;Z&#39;<br />    ch=getchar();)<br />            blank++,other=%d&quot？<br />在线等答案; &#39;&&ch&lt;<br />    }<br />    printf(&quot;=&#39,blank=%d;n&#39;<br />}<br />里面对第一个字符不统计是怎么回事.;<br />   <br />    while((ch=getchar());letter=%d,blank,other);z&#39;<br />    letter=blank=digit=other=0;a&#39,blank.求高手啊;=&#39;)<br />            digit++;=&#39,other;)<br />    {<br />        if(ch&gt;<br />        else if((ch&gt,letter;&&ch&lt;<br />        else<br />            other++;stdio..,digit=%d;0&#39;<br />        else if(ch==&#39;<br />    return 0.h&gt,digit;=&#39;;&&ch&lt;<br />    <br />    char ch#include&lt
+去掉while()上面的ch=getchar()，因为该语句读取的字符未经统计。
+1
+none
+fail

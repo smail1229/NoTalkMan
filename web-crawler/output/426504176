@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序素数问题
+i&lt;<br />void wuyu(int a);<br />	for(i=1.h&quot,a);<br />scanf(&quot;stdio;%d&quot;<br />int i;<br />  else<br />	  printf(&quot;<br />int main()<br />{int n=0;i++)<br />	{if (a%i==0)<br />	  n++;<br /> wuyu(a);,a),a);请输入一个数字;<br />printf(&quot;;<br />int a;n&quot：&quot;%d是素数&#92;%d不是素数&#92;<br />return 0;a;n&quot;;<br />	 }    <br />  if(n==2)<br />	  printf(&quot;<br />}<br />void wuyu(int a)<br />{int n;)什么0x00402148指令引用的0xcccccc不能written<br /><br />这个程序#include&quot
+);<br />printf(&quot,a);请输入一个数字.h&gt;<br />	    <br />  if(n==2)<br />	  printf(&quot,&a);%d不是素数&#92，自己改吧;<br />	for(i=1;<br />scanf(&quot;<br />int main()<br />{<br />	int n=0;。另外算法不好，但没给你改;<br />}<br />void wuyu(int a)<br />{<br />	int n=0;;stdio;%d是素数&#92;;=a;i++)<br />	if(a%i==0)<br />	  n++;%d&quot,a)。<br />#include  &lt;<br />int i，时间复杂度高：错误原因;<br /> wuyu(a);n&quot：&quot;i&lt;<br />void wuyu(int a)：①n没有赋初值②输入时未加&符号;<br />  else<br />	  printf(&quot;<br />int a;<br />return 0;n&quot修改后的代码
+1
+none
+http://zhidao.baidu.com/question/248150164.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76216230.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153560507.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/581756772.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532148325.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+求一个C语言语句
+请问这个如何实现？<br /><br />意思就是 加让一句或者几句代码。等定时时间到了。我希望能在设置完时间以后就把窗口最小化我做了一个小的定时器，能够让窗口自动弹出的？  或者假如能像QQ一样当有信息时在下面闪烁更加好，窗口能自动弹出
+有几十句窗口最小化到托盘可不是一句或几句就能搞定的哈。<br />你在网上搜索：VC 托盘
+0
+none
+http://zhidao.baidu.com/question/1110229226255677379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/368356126898776204.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/616856123978248332.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/243336860.html?qbl=relate_question_3

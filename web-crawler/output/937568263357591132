@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中字符串数组char op[5]={&#39;#&#39;,&#39;+&#39;,&#39;-&#39;,&#39;*&#39;,&#39;&#47;&#39;,};中的‘#’的作用是？
+none
+6;,4间取得符号是op[4](最后一个元素)。有&#39;&#39，2;#&#39;*&#39，没什么作用<br />原因是，op[4]没有元素;;/时，op[4]取到的是&#39；没有它的时候看来一下,op[3]取到的是&#39,8前面都是取op[3]，所以空着了
+0
+none
+http://zhidao.baidu.com/question/1894638543434906060.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2203034153347391308.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/434929718.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/331430449.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/337652290.html?qbl=relate_question_4

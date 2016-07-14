@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+a*x*x+b*x+c=0  的C语言  的篇写
+none
+#include&lt;stdio.h&gt; <br />#include&lt;math.h&gt; <br />void main() <br />{ <br />float a,b,c; <br /憨氦封教莩寄凤犀脯篓>double m; <br />double x1,x2; <br />printf(&quot;please insert a,b,c:&quot;); <br />scanf(&quot;%f,%f,%f&quot;,&a,&b,&c); <br />m=b*b-4*a*c; <br />if (m&lt;0) <br />printf(&quot;the number is wrong,please insert again:&quot;); <br />else <br />x1=(-b+sqrt(m))/2*a; <br />x2=(-b-sqrt(m))/2*a; <br />printf(&quot;the answer is : %f,%f&quot;,x1,x2); <br />printf(&quot;&#92;n&quot;); <br />}<br /><br />这个是实数范围内的 二次方程解法.<br />复数范围内的只要是条件m&lt;0 的地方改成 有i的 式子就可以了..
+1
+none
+http://zhidao.baidu.com/question/248205675.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/528522883.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/197385010.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1174799149669754459.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/209653159.html?qbl=relate_question_4

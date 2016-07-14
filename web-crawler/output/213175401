@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言scanf()输入函数
+放到变量ascanf()输入函数，但不能用&quot,b中;这句话是什么意思呀<br />另外scanf(&quot;,&b)让用户输入2个整数，可用空格或回车间隔;%d%d&quot。 这句话中说到的2个整数 那意思就是 用int 吧 可是 我做习题时 用 float 输入 也可以 得出结果 这和“让用户输入2个整数”不相悖么;,&a：<br />输入多个变量时，&quot
+%d %d&quot，如果没有间隔;%d，知道了吗;，scanf里的输入格式是怎么间隔的，这个就必须用空格间隔<br />scanf(&quot，这个就必须用逗号间隔<br />综上所述,&a，两个%d之间是逗号,&b),&a,&b);，则默认为用空格和回车间隔，两个%d之间有空格,&b),&a，这种就是要用空格和回车间隔<br />scanf(&quot;;%d%d&quot：<br />scanf(&quot到底能不能用逗号间隔取决于你的输入格式，你就要怎么间隔,%d&quot
+7
+none
+http://zhidao.baidu.com/question/145325291.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/37228857.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/191882160.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/200794382.html?qbl=relate_question_3

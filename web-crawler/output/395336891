@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+matlab语言中这句话 [temp MaxY]=max(Blue_y); 怎么解释？
+none
+这是求Blue_y的最大值，temp是最大值所在的位置，MaxY是最大值。
+3
+none
+http://zhidao.baidu.com/question/275895390.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/213477733.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/392503975538591525.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/558791067810207964.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2267595640796704588.html?qbl=relate_question_4

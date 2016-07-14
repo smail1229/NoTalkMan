@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，for(i=5;i--;)和for(i=5;--i;)的区别，再解释一下这个循环的意思和运行顺序
+none
+两个主要是判断的条件不同，第二个是先i的值减一。第一是先判断，再判断，再i的值减一。如果i=10，则第一个执行循环体10次，第二个执行循环体9次
+0
+none
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/433469968.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1882227856776265468.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/184176434.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/261270878.html?qbl=relate_question_4

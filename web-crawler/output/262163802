@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int a=2;
+i&lt;<br />    }<br />    return t+a++;<br />  int f(int n)<br />  {<br />    static int a=3;<br />    if(n%2)<br />    {<br />      static int a=4;<br />    }<br />    else<br />    {<br />      static int a=5;<br />    int t=0;,s);i++)<br />    s+=f(i);<br />    printf(&quot;<br />      t+=a++;<br />      t+=a++;<br />    for(i=0;%d&#92;<br />  }<br />  main()<br />  {<br />    int s=a,i;<br />    getch();3;n&quotint a=2
+<br /> }<br /> printf(&quot;/<br />    for(i=0;<br /> return t+a++;<br />      t+=a++;<br />int f(int n)<br />{<br />    static int a=3;n&quot;n&quot;printf(&quot;/&#47,a;&#47:&#92;i++)<br /> {<br />  printf(&quot,i,i);n&quot;stdio;;/%d&#92，因为static int 只在函数中有用,s);a = %d&#92;i&lt; &#47,s);这个就是局部变量的生命期<br />#include &lt,t);%d&#92；<br />    }<br />    else<br />    {<br />      static int a=5;3;<br />    int t=0;<br />  s+=f(i);/;/a = %d t = %d&#92;<br />    if(n%2)<br />    {<br />      static int a=4.h&gt;这里的a只在else中有效<br />    }<br /> printf(&quot;n&quot;;<br />      t+=a++;<br />int a=2;/<br /> printf(&quot; &#47；<br />}<br />main()<br />{<br />    int s=a;这里的a++是不会影响到if和else中的a;，局部变量的生命期就在局部地方存在;i = %d ;n&quot,a);<br />}<br />你对照一下那些输出再看一下程序你就会发现; 这里的a是全局变量的a；<br />    getchar();a只在if中有效
+1
+none
+http://zhidao.baidu.com/question/170409864.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/179085518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/200295804.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163968390.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1446005656128563540.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一道C语言程序题的答案与解题过程
+<br />printf(“%d&#92,c+a));}<br />A)6                  B)8               C)  10                    D)12<br />15。，D<br />而我算出来的结果分别是12与19。急需帮助，b=2;n”，MA (1+a+b)),z)  x*y+z<br />main()<br />{ int a=1我是C语言新手、以下程序的输出结果是（）<br />#define M(x。.以下程序的输出结果是(  )<br />#define MA(x)  x*(x-1)<br />main（）<br />{int a=1,b=2；<br /> printf (“%d&#92.。,M( a+b,y,c=3;n”。,b+c;<br />A)19      B)17    C)15   D) 12<br />标准答案是B。这是为什么啊。谢谢<br />14
+带入后：1+a+b*（1+a+b-1）=8<br />15题。<br />你首先应该明白宏定义的意义答案的确是B，D，应该是原式代入，所以：<br />14题：带入后
+2
+none
+http://zhidao.baidu.com/question/131976304.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390661183489603685.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132219407.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/330734165.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/330708498.html?qbl=relate_question_4

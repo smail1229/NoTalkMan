@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C 语言如何将一个char ** 转换成 const char **
+上面编译会报cannot convert from &#39;<br /> <br />如题char ** str1 = new char* [128]; <br /> const char ** str;<br /> str = str1;char ** &#39;const char ** &#39; to &#39
+<br />&#47str = str1;改为：<br />str = (const char **)str1;&#47
+0
+none
+http://zhidao.baidu.com/question/145878875.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118657501.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/624841329367497284.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/205589606.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/106945715.html?qbl=relate_question_4

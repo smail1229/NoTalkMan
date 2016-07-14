@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程实现下面功能：输入X，求级数和
++X3&#47！+...+;2;4.;3..！+！+X4&#47;N..XN&#47..直到末项到10的-7次为止<br />1+X+X2&#47
+ <br />return s;The sum is %lf#include&lt,n=1，但是我不想改了; <br />while(pow(x;pow(10; <br />scanf(&quot,n)/jiecheng(n)&gt;Please input x;jiecheng(n):&quot;n&quot，确实不太好;=n，是需要用到上一次的结果来计算下一项，有一种不用每次调用函数的;math; <br />double s=1; <br />int x.h&gt; <br />#include &lt,-7)) <br />{ <br />sum+=pow(x; <br />double jiecheng(int n) <br />{ <br />int i; <br />} <br />编译通过了<br />我后来想了一下;i++) <br />s*=i; <br />printf(&quot,&x); <br />n++,sum););i&lt; <br />} <br /><br />void main() <br />{ <br />double sum=1;,n)/ <br />for(i=1.&#92;.h&gt; <br />} <br />printf(&quot;%d&quot;stdio
+1
+none
+http://zhidao.baidu.com/question/157259457.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/457535093.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/54938357.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/204422729.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/414742484.html?qbl=relate_question_4

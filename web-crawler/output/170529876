@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序执行问题
+<br />    f(y;;}<br />main()<br />{<br />    int x=2,y);<br />    printf(&quot#include&lt;stdio,&x),x;<br />}<br /><br />请解释一下此程序的执行过程;<br />void f(int y,int *x)<br />{y=y+*x.h&gt;%d    %d&#92,y=4,*x=*x+y;n&quot
+调用f函数,y的作用域就没有了，所以你在f函数里面改变y的值只在f函数有意义，出了f函数之后.<br />注意一个问题，只需要看main函数即可;&#47,y=4,4,&x);/&#47，可以用整数的地址作为参数，那么 y=4+2=6<br />*x=*x+y，执行f里面的操作y=y+*x ; x=8<br />最后输出 8;定义变量<br /> f(y;&#47，如果要改变y的值（即让y等于6).这就是值作为参数和地址作为参数的区别：y是一个局部变量。<br />int x=2看程序的执行顺序。所以最后输出的y依然是4
+2
+none
+http://zhidao.baidu.com/question/583388154.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260858812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/623630066493773804.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/133849989.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/489866050.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 一元二次方程的根的问题
+但是随便再输入数字，这个求一元二次方程的根的问题有啥错呀;%f%f%f&#92,c&#92！:&#92;2;;;方程有两个复跟,y2,b;<br />    x2=(-b+sqrt(d))&#47;<br />    scanf(&quot;(2*a);<br />  printf(&quot:&#92;<br /> d=b*b-4*a*c;nx1=x2=%f&#92;n&quot,x2=%f&#92，回车不能出结果;nx1=%f;n&quot;<br />  }<br />}<br /><br />求高手;<br />    printf(&quot;n&quot;<br />    printf(&quot！<br />输入3个数后;<br />  else <br />  {<br />   y1=-b&#47？高手帮忙呀,-b&#47;<br />void main()<br />{<br /> double x1,y2);n%f+%fi&#92;n&quot;0)<br /> {<br />    x1=(-b+sqrt(d))&#47;stdio#include&lt,c;;(2*a)),&c)！;方程有实根;n&quot;n%f+%fi&#92;方程有两个相同的实根,y1;<br />      y2=sqrt(-d)？,y2！,&b;<br />#include&lt,x2,d,&a;<br /> if(d&gt;请输入一元二次方程的系数a:&#92;<br />    float a,y1,x1;<br /> }<br /> else<br />  if(d==0)<br />   printf(&quot.h&gt;2。这是为啥 呀,y1,x2)！;math;.h&gt,b;)，再按回车却能出结果
+;n’在 scanf(&quot,&b;n&quot,&a;%f%f%f&#92;语句里多了个‘&#92,&c)
+2
+none
+http://zhidao.baidu.com/question/511179079.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/407465706.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76410719.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/407465060.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2139057444532666228.html?qbl=relate_question_4

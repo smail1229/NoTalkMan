@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，这个宏哪里定义错误了？？
+#include&lt;stdio.h&gt;<br />#define CREATE_FUN(TYPE)&#92;<br />TYPE* create()&#92;<br />{&#92;<br /> TYPE* p;&#92;<br /> return p;&#92;<br />}&#92;<br /> <br />v哗发糕菏蕹孤革酞宫喀oid main() <br />{ <br /> CREATE_FUN(int);<br />}
+宏定义没有错误。<br />但是这个宏是定义一个函数，必须在main函数外使用，并且哗发糕菏蕹孤革酞宫喀使用这个宏宏的末尾不能加分号。
+0
+none
+http://zhidao.baidu.com/question/503777776.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/14450648.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/447409521.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/443198467.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356267550.html?qbl=relate_question_4

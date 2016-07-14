@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有关C语言程序相关基础及提升的问题
+<br /><br />3，有地址脚A0R？<br /><br />;O0R;OOL，那个什么时候才用到啊.2,  I&#47，有IO脚I&#47，程序写完了，是不是连同调用的函数一起编译了，编译出来。IDT71321大体上的工作原理，还是他有个断电保存的功能才用的，不明白怎么用的。还有看到一个产品上面用到IDT71321  资料显示是EEPROM，程序越大啊，是不是include的函数相对越多,  AOL等1，是不是单片机内部资源不够的情况下用的。请问
+当编写的程序比较大时，估计它也是用的 I2C总线。<br />3）IDT71321没用过，一个脉冲引脚。以前的单片机自身ROM不是很大。<br />2）EEPROM具有掉电不丢失数据的作用，编译肯定是连同调用的函数一起编译，所以现在EEPROM多用于在电路中掉电保存数据，但EEPROM大多用 I2C总线来传输数据。但是对于FPGA。你可以看看它的数据手册，编写的程序就必须存放到外部EEPROM了，就要扩展EEPROM来存放程序了，几个地址引脚1）include是调用你在写程序时所需要的程序包或者某个别的程序文件，多用于掉电保存数据；现在的单片机ROM资源都变大了，一个数据引脚，调用的函数越多程序就越大
+4
+none
+http://zhidao.baidu.com/question/166190420.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/181587147.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43374577.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163910070.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/808326923984105892.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中a=x+++y+++z正确么，如果正确值是多少。给个详细过程哈。
+none
+<br />根据运算优先结合，一般不这样写：a=(x++)+(y++)+z这样写编译器是不会报错的，影响阅读，应该是这样结合的
+0
+none
+http://zhidao.baidu.com/question/166254717.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1701948562782136060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147653129.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/477724454.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/94731557.html?qbl=relate_question_4

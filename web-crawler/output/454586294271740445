@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于用c语言写牛顿迭代法计算2(x)^3-4(x)^2+3(x)-6的程序
+#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />void main()<br />{<br />	float x0,x1,t1,t2;<br />	x0=1.2<br />	do<br />订弧斥旧俪搅筹些船氓	{	<br />		t1=2(x0)^3-4(x0)^2+3(x0)-6;<br />		t2=6(x0)^2-8(x0)+3;<br />		x1=(x0)-t1&#47;t2; <br />		x0=x1;<br />	}<br />	while(|(x0)-(x1)|&lt;=1e-5)<br />	printf(&quot;root is:%f&#92;n&quot;,x1);<br />}<br />这是我自己写的，小弟新手，错误肯定有很多，但不知道哪些地方错误还请大神指教！
+小于等于改成大于等于，循环搞混了吧？
+1
+none
+http://zhidao.baidu.com/question/67059693.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/520953392.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/150220623.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/104156970.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/133031175.html?qbl=relate_question_4

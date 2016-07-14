@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序解释
+<br />    system(&quot;<br />    printf(&quot：123 321<br />为什么输出 3<br /><br />详细解释一下if(a%b)是什么意思以及两个return的作用<br />呃,&a,b;,work(aint a;<br />    return b;),&b);n&quot;%d&#92;%d%d&quot，主程序最后的system(&quot;pause&quot,int b)<br />{<br />    if(a%b)<br />    return work (b;;);<br />}<br /><br />输入,b)),a%b);<br />}<br />int main()<br />{<br />    scanf(&quot;<br />int work(int a;pause&quot;原来是return 0
+此时为什么、321后、3，都被认为是true，只有0才是false，你输入123，在if中？对了。那就将321，一步步来你就明白了、4甚至是一百万，只要括号中的值不为0首先你要明白if（a%b）是什么意思，两个参数传入work中，如1;&#47，得a%b=123&#47、123传入递归中，回到问题中，怎么样。<br />好了，呵呵，为真
+5
+none
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424106270.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130197440.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/808013784984727812.html?qbl=relate_question_4

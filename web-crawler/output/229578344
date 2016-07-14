@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言 求对每个选项的详细解释 多谢！！！
+必须在之前包含头文件stdio下列叙述中正确的是（ ）、八进制或十六进制的形式输出<br />D）调节getchar()函数读入字符时，整数可以以十二进制.h<br />C）在C 语言中，必须要有输出项<br />B）使用putchar()函数时。<br />A）调用printf()函数时
+num = %d&quot,%0打印但是不能以十二进制输出<br />D不选。<br />B选不选自己判断。<br />C不选整数能以八进制十六进制输出也就是%x!&#92，getchar从终端读入的是字符而非ASCII码<br />说实话这题出的很烂，可以这么写printf(&quot;hello world，公司面试绝对不会考的A不选;和printf(&quot，烂透了，键盘输入的字符都被终端获得,a);<br />如果a就是他说的输出项;)，但不包含stdio.h时编译会wanning 但是程序能正常运行，这个应该是应试教育下的考试题;;n&quot，如果我理解没错的话，那么这个选项是错的<br />putchar()函数一般要包含这个stdio文件
+0
+none
+http://zhidao.baidu.com/question/647005167318125085.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/544753441.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1689567949031129548.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/526505433.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/535036719.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中.float都说是是显示7位有效数字
+<br />}<br /> <br />怎么这个程序的结果是2222;<br />  printf(&quot;%f&quot;?;<br />main()<br />{<br /> float a.h&gt.2#include &lt,a);<br />  a=2222.199951?;stdio
+<br />你的数字会变是因为。0, 十进制是有限小数的数，转到二进制可能是无限小数，超过7位的就没有意义了，你看看是多少。你这个结果四舍五入到7位7位有效数字的意思是.2就是
+0
+none
+http://zhidao.baidu.com/question/476316091.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/84459498.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/74723530.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/583460513.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/238962921.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言带参数的宏定义：定义宏名时可以不写出参数？？？
+<br />#define N x&gt:&quot;？为什么不用写出呢?x;<br />printf(&quot;}<br />程序如上可以<br />但如果定义时不带参数也可以;<br />scanf(&quot用带参数的宏求出两个数中的大数;y,&x,max),x;<br />max=N(x:y<br />main()<br />{int max：<br />#define N(x;<br />max=N;}<br />难道C语言带参数的宏定义？,y;%d%d&quot？,&y);%d%d&quot,x？,y) x&gt;;),y,max)？;y,&y);input;,&x：定义宏名时可以不写出参数;%d&quot:y<br />main()<br />{int max;<br />printf(&quot？;):&quot;%d&quot;<br />scanf(&quot?x,y);<br />printf(&quot;<br />printf(&quot;;input
+我想你搞混了 宏有带参数的定义也有不带参数的 不带参数的直接替代 有参数的是把参数也代替 就你这个题目来说 不管按那种方式都可以实现 因为你的宏就是实现一次<br />但是有的是必须用参数的，比如你这个题目改一下 我再比较x和z的大小 可以用N(x,z)但是你第二题显然无能为力了
+6
+none
+http://zhidao.baidu.com/question/395351591.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/384163822.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1817720578283635068.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/77130051.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的A＋＋和＋＋A到底有什么区别？
+如(A)a += (a++); (B) a += (++a) ;A的数值是多少;(C) (a++) += a;(D) (++a) += (a++)
+//turboc.richardbao.net/?file=showartical?file=opandexpr/incrementanddecrement.aspx://turboc.aspx" target="_blank">http.aspx.richardbao.net/?file=showartical?file=opandexpr/incrementanddecrement.aspx</a><br /><br />++A 是先给 A 加 1，然后返回加 1 之后的 A 的值<br />A++ 是先返回 A 原来的值，然后再给 A 加 1<a href="http
+7
+none
+http://zhidao.baidu.com/question/426814854.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53036026.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/36439165.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/339897488.html?qbl=relate_question_3

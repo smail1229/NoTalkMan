@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+简单的交换两个数的C语言代码，不知道哪里出错了
+;<br /> for(int i=0,int j)<br />{<br /> int temp;n&quot;n;<br /> j=temp;j&lt;<br /> temp=i,a[2]),n);<br /> i=j;%d&quot;<br />}<br />void main()<br />{<br />  int n;<br />    for(int j=0;n;<br /> interchange(a[0];int a[N];;j++)<br />  printf(&quot;<br /> printf(&quot;%d&#92;);请输入数组的个数：&quot;<br /> printf(&quot;i++)<br />  scanf(&quot;i&lt;<br /> scanf(&quot;%d&quot：&quot,&n);输入%d个数字;,a[j]),&a[i]);void interchange(int i
+j++)<br />  printf(&quot：&quot;，必须使用指针。<br />void interchange(int *i;<br />scanf(&quot,int *j)<br />{<br />int temp;%d&quot;<br />for(int i=0;<br />temp=*i;<br />printf(&quot;<br />*i=*j,&a[2]);n;i++)<br />  scanf(&quot,n);<br />    for(int j=0;<br />*j=temp;<br />}<br />void main()<br />{<br />  int n;int a[N]要想通过函数来交换两个变量的值;n&quot,&n);n;<br />printf(&quot;);;%d&quot;;输入%d个数字;j&lt;;i&lt,&a[i]);<br />interchange(&a[0];%d&#92,a[j]);请输入数组的个数：&quot
+0
+none
+http://zhidao.baidu.com/question/316714592.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/468382006.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/203673617.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/70574037.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/23047841.html?qbl=relate_question_4

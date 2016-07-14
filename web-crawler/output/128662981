@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言函数的编程
+平均值和排序然后在主函数中调用输出结果,给分哦,帮帮我，并将这10个整数从小到大排序输出。哪位高手知道从键盘输入10个整数,Avenum和ordernum来求最大数，输出其中的最大数和最小数.。要求分别编写函数iMaxnum,谢了
+&quot;i&lt;平均值为;;n&lt;),b[k]),m;!=9)<br />  printf(&quot;<br /><br />}<br />void Maxnum(int b[]){<br /> int temp1=0;n&quot;<br /><br />printf(&quot,temp2=b[0];=9;)：&#92,temp.h&gt;n&quot;;temp1)<br />    temp1=b[m];<br /><br />if(b[m]&lt;10;<br />  }<br />printf(&quot;);=10：%d&#92;temp2)<br />    temp2=b[m];k&lt;=9;<br /><br />void Maxnum(int []);%d&quot;<br /> }<br /><br />float Avenum( int b[]){<br />int n;;n&quot;%d &quot;<br />int i;<br /><br />void main(){<br />int a[10];<br />void Ordernum(int []);<br />for (n=0;<br />system(&quot;n++){<br /> sum+=b[n];j++)<br />   if (b[j]&gt;=8;k++)<br /> printf(&quot，我还是继续回答;<br /><br /> }<br /><br />Maxnum(a);<br /> }<br /><br />void Ordernum(int b[]){<br /> int i,sum=0;<br />printf(&quot,temp1;i++){<br /> scanf(&quot;排序;<br />float Avenum(int []);j&lt;<br /><br />for (k=0;<br />   b[j+1]=temp;<br /><br /> }<br />return (float)sum/<br />printf(&quot;n&quot;=9;n最小值;);<br /><br /> }<br /><br />好像你提过这个问题,Avenum(a));<br />Ordernum(a);m&lt;i++)<br />  for (j=0;n;输入十个数字;<br />for (i=0;<br /> <br />  }<br /><br /> printf(&quot;)：%：%d&#92;pause&quot：&#92;<br /> for (i=1.3f&#92,k;<br /> if (i;&#92;b[j+1]){<br />   temp=b[j],temp2),&a[i]);stdio;=9;<br />   b[j]=b[j+1];<br /> for (m=0;;i&lt;stdlib.h&gt,j#include &lt;最大值;<br />#include &lt?&quot;m++){<br />  if (b[m]&gt
+5
+none
+http://zhidao.baidu.com/question/250119117.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/157837828.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106844113.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/507358563.html?qbl=relate_question_3

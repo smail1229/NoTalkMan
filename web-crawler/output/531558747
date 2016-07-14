@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求sin（x）近似值的问题！
+近似值是利用泰勒公式的;=u)，这样写一运行不管什么值都是溢出（-1，当误差小于u时;}<br />for(i=1，请问该怎么改;<br />return 0.0，感觉是不是do while函数用错了？应怎么改,s),t？新手还望大家指教;<br />int main()<br />{<br />double x！<br />#include&lt;<br />scanf(&quot;=2*k-1;<br />int i;<br />do{for(i=1;&lf &lf&quot;stdio,&x.h&gt;<br />#include&lt;math;<br />double a=1;;<br />double c=1.h&gt,u;;%lf&quot,k=1;<br />printf(&quot.0,b=1;i&lt.#INDOO）.0,s=0,&u);<br />}while(t&gt;=k+1;<br />t = fabs(s-sin(x));i++){<br />a = -a;i&lt;<br />k++;i++){<br />b = b*i;<br />c = c*x;}<br />s = s+a*c&#47;b.0，具体是想实现输入弧度x，输出近似值,误差u后以下我写的
+   &#47,k=1.h&gt.h&gt;<br />        else<br />            a = -1;<br />#include&lt;&#47.0;math;先正;%lf %lf&quot;<br />int main()<br />{<br />    double x,u,&u),t;=u);记录上次的计算结果<br />        k++;<br />    int i;  /<br />    double a=1;<br />        t=fabs(s-s0);<br />        }<br />        s = s+a*c/<br />    double c=1.0,b=1.0, s0=0.0，后负<br />            a = 1,s=0,b=1.0 ;<br />    scanf(&quot#include&lt;<br />    return 0;&#47,s).0 ;<br />        c=1;b c的值应该每次都是从1开始<br />        for(i=1;stdio;这里应该计算的是两次计算的差，因为你的程序是为了计算sin(x)的近似值<br />        s0=s ;/<br />    printf(&quot;;i++)<br />        {<br />            b = b*i;i&lt;b; /;<br />    do{<br />        if ( k%2 )        /<br />            c = c*x，而不应该调用sin(x);%lf&quot;=2*k-1,&x;<br />    } while(t&gt;&#47
+1
+none
+http://zhidao.baidu.com/question/494623467.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/531702993.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/25912710.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2202468453731032628.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/90458409.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里if语句可以嵌套for循环么
+none
+%d&quot;;10;;i++){<br />    printf(&quot;%d&quot，肯定是你记错了 <br />比如int n=5,i),n)当然可以;<br />if(n==5){<br />  for(i=0;<br />  }<br />}else{<br />  printf(&quot;i&lt,i=0
+13
+C语言里if语句里是可以嵌套for循环的（if语句里可以放C语言里的任意的执行语句）。<br />举例说：<br />char yn;<br />int i;<br />printf(&quot;需要打印1到10之间的所有奇数吗(Y&#47;N)？&#92;n&quot;);<br />scanf(&quot;%c&quot;,&yn);<br />if(yn==&#39;Y&#39;||yn==&#39;y&#39;)<br />{<br />  for(i=1;i&lt;10;i+=2)<br />    printf(&quot;%d &quot;,i);<br /> printf(&quot;&#92;n&quot;);<br />}<br />else<br />  printf(&quot;那就不打印了&#92;n&quot;);
+http://zhidao.baidu.com/question/549248212.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/194948649.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/41470114.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/152408839.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/214318173.html?qbl=relate_question_4

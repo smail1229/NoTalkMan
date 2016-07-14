@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 int *a=&5 这个定义错在哪里？常量的指针又是如何定义的呢？
+none
+常数没有地址，这是C最基本的规则，所以&5出错了。
+3
+none
+http://zhidao.baidu.com/question/415428516.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/257530221.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/446137623.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/142141953.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1510178925552814060.html?qbl=relate_question_4

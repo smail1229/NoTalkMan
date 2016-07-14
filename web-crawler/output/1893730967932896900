@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程“输入x，计算并输出x的值以及函数y的值，其中：当x&lt;0,y=1;当0&lt;=x&lt;1,y=
+y=1用C语言编程“输入x;当x&gt;0：当x&lt，计算并输出x的值以及函数y的值;当0&lt;=1,y=2;=x&lt;1，其中
+&quot;1)<br />		printf(&quot.h&quot#include &quot;y=3&#92;<br />	else<br />		printf(&quot;=0&&x&lt;<br />	if (x&lt;n&quot;n&quot;);<br />void main()<br />{<br />	float x;y=1&#92;<br />	printf(&quot;%f&quot;<br />	else if(x&gt;););0)<br />		printf(&quot;请输入x的值;),&x);y=2&#92;<br />	scanf(&quot;stdio;n&quot;
+1
+none
+http://zhidao.baidu.com/question/689033596705593164.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1604667498832007747.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/411193793.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/281691709.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1894017766266194260.html?qbl=relate_question_4

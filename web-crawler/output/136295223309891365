@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的一道题。 这道题怎么算啊？ x*=x+1怎么个运算过程。 还有for语句中i＜x中的x会变
+none
+i=2，所以执行incre函数;这里声明了一个全局变量x，这里将其用另外一个名字x2代替，执行时因为x2是static变量，x2*=x2+1，表示在incre函数的执行期间，仍然小于x，下一行打印出x2的值2，所以x2=1*(1+1)=2，展开就是 x2=x2*(x2+1)，i小于x。<br />在main函数的范围内，也就是第二行声明的x。考察点应该就在 值域 的概念的考察，在incre函数中,，这里声明了一个static的x，开始i=1，这里x=3，即3.<br />然后执行i++，为了和第二行的x分别开，x是一个静态变量.<br />在incre函数中。<br />代码第二行的int x=3，所以结果是26这个题对初学者还是有一定的难度，所以整个程序执行是这样的：<br />首先从main函数开始执行for循环，所以继续执行incre函数，继续循环，即3，使用的x，所以x2=x2*(x2+1) = 2*(2+1)=6，仍然保持上次执行完incre函数后x2的值
+0
+none
+http://zhidao.baidu.com/question/505705634.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/435157028.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/202324131.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/357509210.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1430061936434063899.html?qbl=relate_question_4

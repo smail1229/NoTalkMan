@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编写：输入一行字符以@作结束标志,分别统计其中英文字母、空格、数字和其他字符的个数。
+<br />  scanf(&quot;@&#39;z&#39;&&ch&lt,&ch);<br />  else if(ch&gt，n为数字个数,z=0;，z为其他字符个数<br />  char ch;A&#39;%c&quot;<br />main()<br />{<br />  int w=0;&#47;=&#39, 数字个数是%d;<br />  else if(ch=&#39;0&#39;&&ch&lt#include&lt;<br />  while(ch,z);<br />  }<br />  printf(&quot,w;;字母个数是%d;=&#39;)<br />   k++;=&#39，k为空格个数;<br />  else<br />   z++;stdio,k; <br />}<br />这个哪里出错了;9&#39; &#47; &#39;)<br />   w++,k=0;=&#39, 其他字符个数是%d&quot,n!=&#39,n=0.h&gt;)<br />   n++;)<br />  { <br />     if(ch&gt;w为字母个数, 空格个数是%d
+z=0;z&#39; )<br />        w++;stdlib;=&#39; )    &#47, 空格个数是%d; <br /><br />  system(&quot,&ch);/&#47，k为空格个数;; && ch&lt;=&#39, 其他字符个数是%d&quot;w为字母个数.h&gt,k=0;A&#39;=&#39，n为数字个数;<br />   <br />      scanf(&quot;字母个数是%d;;9&#39,z), 数字个数是%d;%c&quot;@&#39;)<br />  { <br />     if ( ch&gt; &#47,&ch),k.h&gt; )<br />        n++;这里你少写个‘=’号!=&#39; &#39;PAUSE&quot;&&ch&lt，z为其他字符个数<br />  char ch;加这一句是让程序正常运行;;%c&quot,w;<br />     else if ( ch&gt;/0&#39;<br /><br />void main()<br />{<br />  int w=0;)，能连续输入字符<br />  }<br />  printf(&quot;<br />     else<br />        z++;<br />     else if ( ch==&#39,n=0#include &lt;<br />  scanf(&quot;      /stdio;<br />  while(ch;=&#39，以后要细心啊<br />        k++;<br />#include &lt,n
+9
+none
+http://zhidao.baidu.com/question/28462019.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/193786572.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/205162119.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/18085894.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/143532940.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 VB 
+请问谁能帮我解释一下下面两段vb语言的含义,小弟是菜鸟所以希望能详细些,谢谢了
+AddItem entry                 <br />End Sub<br />(2)<br />Private Sub Command2_Click（）<br />      Dim i As Integer<br />      For i = List1.ListCount - 1 To 0 Step -1<br />         If List1.Selected（i）Then List1(1)<br />Private Sub Command1_Click（）<br />       Dim entry<br />       entry = InputBox<br />       List1
+Next为for循环语句的一部分;将变量entry的值添加到列表框list1<br />End Sub语   &#39.Selected(i)&gt,单击时响应(private是指这个该过程为模块级过程,变量entry则在些接收用户输入的值<br />List1,entry就是什么值,一般是实现查找功能的<br />If List1.listCount-1)循环到第一项(0);过程结束<br />======================================================<br />回答补充;从列表框中最后一项(list1.AddItem entry  &#39;定义一个整型(integer)变量i<br />For i = List1.Selected（i）Then List1;单击事件过程结束<br /><br />Private Sub Command2_Click（）&#39,所以用户输入什么值,Next i,因为step -1;此处为查找条件和执行相应操作;则(then)移走该项(List1,变体变量是你第一次赋什么类型的值.ListCount - 1 To 0 Step -1  &#39,那么它就是什么类型的变量<br />entry = InputBox &#39.RemoveItem i   &#39,基本没什么影响,即是下一个i,即如果(if)满足条件&lt,所以下一个i为2<br />End Sub语  &#39,若i为3;List1,另有public定义过程为全局级过程<br />Dim entry   &#39,它们中间为循环体:(1)中的entry的值是由用户在input输入框中输入的;InputBox是一个输入框,每次按步长(Step)为-1向前移,command(按钮)控件的单击事件;第二个按钮单击事件过程<br />Dim i As Integer &#39Private Sub Command1_Click（） &#39;单击事件过程开始.RemoveItem i)<br />Next i   &#39;定义变体变量entry
+1
+none
+http://zhidao.baidu.com/question/71736433.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/160935493.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/74522093.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/15700754.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/412184862.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+7．求一个3×3矩阵的对角线元素之和。(用C语言编写程序）
+none
+fail
+3
+int a[3][3],i,j; <br />int sum=0; <br />for(i=0;i&lt;3;i++) <br />for(j=0;j&lt;3;j++) <br />if(i=j) <br />sum=sum+a[i][j]; <br />&#47;&#47;sum为对角线元素的和<br />——————————————————————————————————————————————————————————————————————<br />#include &lt;stdio.h&gt; <br />#include &lt;string&gt; <br />void main() <br />{ <br />int a[3][3]; <br />int i,j;&#47;&#47;i为行j为列 <br />int sum=0; <br />int sum1=0; <br /><br />&#47;&#47;输入 <br />for( i=0; i&lt;=2; i++) <br />{ <br />for( j=0; j&lt;=2; j++) <br />{ <br />printf (&quot; 请输入第%d行第%d列的数:&quot;, i+1, j+1); <br />scanf (&quot;%d&quot;,&a[i][j]); <br />} <br />printf(&quot;&#92;n&quot;); <br />} <br />&#47;&#47;求和 <br />for( i=0; i&lt;=2; i++) <br />{ <br />for( j=0; j&lt;=2; j++) <br />{ <br />if(i==j) <br />sum = sum+a[i][j]; <br />if(i+j==2) <br />sum1= sum1+a[i][j]; <br />} <br />} <br /><br />&#47;&#47;输出和 <br />printf (&quot;左至右对角线之和%d&#92;n&quot;,sum); <br /><br />printf(&quot;右至左对角线之和%d&#92;n&quot;,sum1);&#47;&#47;对角线之和； <br /><br />&#47;&#47;输出矩阵 <br />printf(&quot;&#92;n&quot;); <br />printf(&quot;矩形如下：&#92;n&quot;); <br />for( i=0; i&lt;=2; i++) <br />{ <br />for( j=0; j&lt;=2; j++) <br />{ <br />printf(&quot;%d &quot;,a[i][j]); <br />} <br /><br />printf(&quot;&#92;n&quot;); <br />} <br />}
+http://zhidao.baidu.com/question/336251511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76809649.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38228077.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203872988.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/125496234.html?qbl=relate_question_4

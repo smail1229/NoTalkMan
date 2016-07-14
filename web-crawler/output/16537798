@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中++i与i++的区别
+如题,在C代码中i++和++i到底有何区别<br />是不是在for()循环中两者没区别啊,哗骇糕较蕹记革席宫芦为什么书上所有的代码都用++i啊
+一直以来，++ --语法浪费了太多人的时间。说句实在话，哗骇糕较蕹记革席宫芦++ -- 在C语言中其实是一个很细节的语法，除了表达简练外，真的没有什么其它的好处了。 <br />由于中国的C语言教程长期以来被谭浩强主宰，而谭又错误的把++ --作为一个C语言重点来教，并增加了一些难点，把本来很简单的语法，搞得复杂无比！ <br /><br />简单的来说，++i 和 i++,在单独使用时，就是 i=i+1。 <br />而 a = ++i，相当于 i=i+1; a = i; <br />而 a = i++，相当于 a = i; i=i+1; <br /><br />如果实在搞不明白++ --怎么回事，那也不是什么天塌下来的事。 <br />因为a=++i完全可以写成 i++; a=i。 <br />a=i++完全可以写成 a=i; i++。 <br />而且，这也是一种好的程序风格：++ -- 语句如非特殊需要，请单独一行使用。
+246
+none
+http://zhidao.baidu.com/question/78117718.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/141656812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240549491.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/216314102.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/183425426.html?qbl=relate_question_4

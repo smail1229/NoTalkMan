@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言程序那里错了？求一元二次方程
+x2);<br />   x1=q+p,q,&b;<br />   scanf(&quot.h&quot,x1,x1;tx2=%f&#92;%fx*x+%fx+%f=0&#92!&quot,p,a;;<br />   printf(&quot;0)<br />   printf(&quot;math;<br />#include &quot;x1=%f&#92,c;,c;<br />   printf(&quot;n&quot#include &quot;;<br />   q=(-b)&#47,d,b;enter;<br />   d=sqrt(b*b-4*a*c);(2*a);(2*a);%f%f%f&quot;x2=q-p,b:&quot,&a;<br />void main()<br />{float a,c);stdio,a.h&quot;);),x2,b;<br />   p=d&#47;<br />   else(d&lt;<br />   if (d&gt,&c);n&quot;worng;=0)<br />   printf(&quot
+*这里没有条件语句*&#47下面判断有问题..，d都已经开根号了怎么还判断是否大于零呢，应该在开根号之前判断<br />另外语法问题else后面的(d&lt;<br />  ;0)去掉<br />应该这样<br />if(条件)<br />  ..<br />else  &#47.
+1
+none
+http://zhidao.baidu.com/question/225336170.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/477293437.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/131275115.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241567245.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1365994826169702499.html?qbl=relate_question_4

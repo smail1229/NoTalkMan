@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C或C++语言结束时会有“return 0；”这个结尾，为什么一定要return0呢？return1或2不行吗？
+none
+<br />             if(描述条件)<br />               {<br />                 return 1,则程序结束..;*如果描述条件为真，将0值返回给操作系统;    &#47，0表示 程序正常结束;*如程序运行到此处结束为正常,float y)<br />{<br />   return (x+y)&#47，非0值表示非正常结束.;2。<br />如，返回0值给操作系统*&#47：   int main(void)<br />          {<br />            .;<br />            } <br /><br />return 还有在函数体中的应用 ，此时结束为非正常结束* &#47.；     /<br />               }<br />          return 0,可以返回一个表达式 如<br />float average(float x.0freturn 0表示main()的结束
+20
+none
+http://zhidao.baidu.com/question/118226095.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/457438735.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/59152240.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/144626493.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/122113880.html?qbl=relate_question_4

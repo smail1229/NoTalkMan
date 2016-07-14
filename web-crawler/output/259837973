@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+怎么使C语言程序在后台运行并接收键盘输入？
+none
+wParam和lParam为具体的消息内容，该函数必须在模块定义文件中利用EXPORTS命令进行说明，用SetWindowsHookEx()将其挂接在函数链首，调用那个钩子DLL<br />第三。<br />第二。<br />第一，你要会写DLL：<br />int FAR PASCAL KeyboardProc( int nCode，用CallNextHookEx()把消息传给下一个函数,WORD wParam；<br />nCode决定挂接函数是否对当前消息进行处理,DWORD lParam) {}<br />KeyboardProc--挂接函数名，检查，你要会写程序，键盘过滤函数 WH_KEYBOARD。<br />键盘挂钩函数，你要让程序在背景运行有点麻烦
+6
+none
+http://zhidao.baidu.com/question/106581167.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/253718406.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/44369261.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/248537743.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87700478.html?qbl=relate_question_4

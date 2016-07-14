@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言变量定义char、int、long有什么区别？
+none
+当然可以用强制类型转换来改变。<br />一般int char都是2字节，一般是为了数据显示整齐,有效位为6-7.<br />long doule是长双精度其范围是10e-4931到10e4931。如int a在定义域内a都是整形。<br />如 对于int a ，只有4位。<br />如我输出1234。<br />float就是单精度其范围是10e-38到10e38.<br />%7表示输出这个数据的长度为7。你可以用sizeof()来测任意一个变量的长度,sizeof(a)=2.（e是指数意思）<br />double就是双精度其范围是10e-308到10e308一个变量再定义是类型就固定了，有效位15-16.有效位18-19;表示int性和a都是2字节数据。<br />当数据超出预定位宽时好像是按实际位输出；sizeof（int)=2，那我就要在自动不3各空格。<br />希望我的回答对你有帮助<br />另外，这个有点记不清了,虚机团上产品团购
+1
+<ul><li><p>char、int、long是C语言中的三个基本数据类型，这三个的共同点都是存储的整数，用补码存储数据。</p></li><li><p>主要区别是三个变量在不同机器上占的存储空间不同，进而导致表示的数据范围和用法不同：</p></li><ul><li><p>char 在所有机器上都是占一个字节，有符号数范围是-128到127，一般用来表示字符。字符在存储中就是存储的ascii值。</p></li><li><p>int 在16位机上占2字节，现在基本没有了。 在32|64位机上占四字节，有符号数范围是-2^31到2^31-1。</p></li><li><p>long 在32位编译系统下占4字节，与int相同。在64位系统下占8字节，可表示的数据范围是-2^63到2^63-1</p></li></ul></ul>
+http://zhidao.baidu.com/question/211582449.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89148360.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88109182.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203565400.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203579274.html?qbl=relate_question_4

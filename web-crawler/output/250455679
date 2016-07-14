@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这道二维数组行列互换的C语言题错在哪里？
+<br />int main()<br />{   <br /> void change(int str[][3])，先输出原始数组;)，然后输出转换后的数组;j&lt,str[i][j]),j;i++)<br />    for(j=0;<br />    print(str);原始数组是;=2:&#92;<br />    return 0;):&#92;%5d&quot;<br />    for(i=0;j&lt;<br />    change(str);str[i][j]=str[j][i];<br />}<br /><br />void print(int str[3][3])<br />{  int i;&#92;<br /> void print(int str[][3]);<br />  printf(&quot，可是我得出的结果还是原来的数组.h&gt;i&lt,&str[i][j]);<br />   for(i=0;<br /> printf(&quot;str[j][i]=t;=2;=2题目要求输入一个3*3的二维数组;n&quot;<br /> int i,j;转换后的数组是;j++)<br />    {t=str[i][j];);<br />   for(i=0;i&lt;%d&quot？请看下面的解法有什么错的地方<br /># include&lt;i++)<br />   {for(j=0;;i++)<br />   for(j=0;j&lt;n&quot;请输入原始数组;=2;n&quot;stdio;j++)<br />    printf(&quot;=2;j++)<br />   scanf(&quot;n&quot;;);<br />    printf(&quot,t;<br />int str[3][3];}<br />   <br />}<br /><br />void change(int str[3][3])<br />{  int i:&#92,j;=2;<br />    print(str);i&lt;<br /> printf(&quot，为什么
+i)是对称的  所以你的方法  又换回去了<br /><br />也就是说   对换是上下三角的对换  所以改如下<br /><br />void change(int str[3][3])<br />{  int i;i++)<br />       for(j=0;str[j][i]=t;=i;j++)  /&#47,j注意; <br />   for(i=0,j)和(j;这样j&lt;=2,t;=i就是让下三角与上三角对换   否则你原来的又换回去了<br />        {t=str[i][j];i&lt;j&lt;str[i][j]=str[j][i]，是下标(i
+3
+none
+http://zhidao.baidu.com/question/287730204.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/28917844.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/146581829.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/353518603.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2116969622996472347.html?qbl=relate_question_4

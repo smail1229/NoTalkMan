@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言%d%f
+m);<br />   m=(++i)+(++i)+(++i),m,i？<br />麻烦高手帮忙看看：i=6;。<br />C语言中的i++和++i与C#中的i++和++i一样吗;<br />}<br />上面是4个例子,m=%d&#92,i;<br />   m=(++i)+(++i)+(++i)，前2个我能懂;<br />}<br /><br />   程序的结果main()<br />{ <br />   int i=3：i=6：i=6;<br />   printf(&quot,i;n&quot;;<br />   m=(i++)+(i++)+(i++);<br />   printf(&quot;<br />   printf(&quot;n&quot;<br />}<br />   程序的结果.000000;i=%d;i=%f,m),m=15,m=%f&#92;,i.000000<br />main()<br />{<br />   int i=3,m=%d&#92,m=18<br /><br />main()<br />{<br />   float i=3;i=%d;,m;<br />}<br />   程序的结果,m),m;i=%d,m=9<br />main()<br />{<br />   float i=3,m=%d&#92,m;<br />   m=(++i)+(++i)+(++i);<br />   printf(&quot,m);n&quot;n&quot，后2个却不知道为什么
+而且许多有设计得非常优秀的错误题目给初学者学习，是瞎胡闹;int mian()。要防止的就是尽量不要在函数调用中在参数中使用自增操作符。<br />你碰上的这4道题;int main{}。可错误的东西也该有意义才对，究竟谁会没事在赋值表达式里会连续使用这样的自增操作符？<br />上面给的题目误人子弟！<br />建议立刻把这些题给忘了，要记住的就是优先级唉。可这些错题都是有理有据的：in main(){}！，谁出的题啊，就算是考试丢分也得扔，譬如我给你每天出100道这样的题.你觉得对这样的错误改正有意义吗;int main。哪个程序员会这样写程序的，说得不客气点，没什么知识点可以深入挖掘的.对于操作符！？<br />教科书上有时候会故意列出一些错误的题或设置了陷阱的题目，除非丧失了逻辑思维能力。我就是想不通，自左向右还是自右向左！错误的题目是让我们能从反面教材里吸取知识
+48
+none
+http://zhidao.baidu.com/question/184800463.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/45179465.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/188946083.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98798732.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/115711954.html?qbl=relate_question_4

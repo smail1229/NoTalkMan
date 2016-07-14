@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言一道简单例题
+1 <br />12 <br />123 <br />1234 <br />12345 <br />123456 <br />1234567<br />123456789 <br />12345678 <br />1234567 <br />123456 <br />12345 <br />1234 <br />123<br />12<br />1<br />编写程序用pri俯甫碘晃鄢浩碉彤冬廓ntf  打印出来
+void main()<br />{<br />int i,j;<br />for(i=1;i&lt;=9;++i)<br />{<br />{ for(j=1;j&lt;=i;++j)<br />  printf(&quot;%d&quot;,j);<br />}<br />printf(&quot;&#92;n&quot;);<br />}<br />f俯甫碘晃鄢浩碉彤冬廓or(i=8;i&gt;=1;--i;)<br />{<br />{<br />for(j=8;j&gt;=1;--j)<br />printf(&quot;%d&quot;,j);<br />}<br />printf(&quot;&#92;n&quot;);<br />}<br />}<br /><br />你去试试。好久没碰C了，有可能有的地方语法不对
+3
+none
+http://zhidao.baidu.com/question/64440632.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/170054087.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89918397.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116590437.html?qbl=relate_question_3

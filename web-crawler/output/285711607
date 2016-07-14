@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的这个赋值语句是什么意思？
+;<br />	*p++ = &#39;<br /><br />	*p++ = &#39;char *	p = str;x&#39;0&#39
+指针赋值为;<br /><br />main()<br />{<br />	char str[]=&quot：0xc<br />指针所在位置;    将所指的字符下标为1位置赋值为字符x   指针++向后移 指向下标2<br />	printf(&quot;n&quot,str);;<br />	<br />	*p++ = &#39;：abc<br />指针赋值为：%c&#92.h&quot.h&quot;;指针所在位置：c<br />Press any key to continue         /;string;;/0&#39;原字符串为原字符串为;;    将所指的字符下标为0位置赋值为字符0   指针++ 指向下标为1<br />	*p++ = &#39;n&quot;<br />	char *	p = str：%s&#92;这个看了就明白了<br /><br />#include &quot;<br />#include &quot,str);abc&quot：%s&#92;x&#39;<br />	<br />	printf(&quot;n&quot;stdio;<br />	printf(&quot,*p)
+5
+none
+http://zhidao.baidu.com/question/114051647.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/106520844.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116136960.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91637470.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/209014131.html?qbl=relate_question_4

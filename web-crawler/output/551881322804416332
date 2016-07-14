@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，宏定义的define和typedef的区别是什么？？
+none
+fail
+0
+1) #define是预处理指令，在编译预处理时进行简单的替换，不作正确性检查，不关含义是否正确照样带入，只有在编译已被展开的源程序时才会发现可能的错误并报错。例如：<br />#define PI 3.1415926<br />程序中的：area=PI*r*r 会替换为3.1415926*r*r<br />如果你把#define语句中的数字9 写成字母g 预处理也照样带入。<br /><br />2）typedef是在编译时处理的。它在自己的作用域内给一个已经存在的类型一个别名，但是You cannot use the typedef specifier inside a function definition。<br /><br />3）typedef int * int_ptr;<br />与<br />#define int_ptr int * <br />作用都是用int_ptr代表 int * ,但是二者不同，正如前面所说 ，#define在预处理 时进行简单的替换，而typedef不是简单替换 ，而是采用如同定义变量的方法那样来声明一种类型。也就是说;<br /><br />&#47;&#47;refer to (xzgyb(老达摩))<br />#define int_ptr int *<br />int_ptr a, b; &#47;&#47;相当于int * a, b; 只是简单的宏替换<br /><br />typedef int* int_ptr;<br />int_ptr a, b; &#47;&#47;a, b 都为指向int的指针,typedef为int* 引入了一个新的助记符<br /><br />这也说明了为什么下面观点成立<br />&#47;&#47;QunKangLi(维护成本与程序员的创造力的平方成正比)<br />typedef int * pint ;<br />#define PINT int *<br /><br />那么：<br />const pint p ;&#47;&#47;p不可更改，但p指向的内容可更改<br />const PINT p ;&#47;&#47;p可更改，但是p指向的内容不可更改。<br /><br />pint是一种指针类型 const pint p 就是把指针给锁住了 p不可更改<br />而const PINT p 是const int * p 锁的是指针p所指的对象。<br /><br />3）也许您已经注意到#define 不是语句 不要在行末加分号，否则 会连分号一块置换。
+http://zhidao.baidu.com/question/135949313.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/353184468.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/336943281.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/24787842.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/41858555.html?qbl=relate_question_4

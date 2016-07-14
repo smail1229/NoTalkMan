@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程求一个整数各个数的和的问题
+<br /> }<br /> printf(&quot;<br />  n=n&#47;;;<br /> scanf(&quot,&n),sum=0:&quot，然后sum=0+145%10.5;10,sum),应该是45， 那么经过n=n&#47;<br />假如说输入的数是145;);<br />  n=n&#47;<br /> printf(&quot;n&quot;<br /> while(n：<br />sum+=n%10;请输入任意一个整数，就是这个;10;%d&quot;<br /><br />关键的地方不是很明白!=0)<br /> {<br />  sum+=n%10。不明白是怎么把各个数求和的main()<br />{<br /> int n;10之后就是14;其各个位数之和为%d&#92
+这句语句的意思是n除以10的余数;10，也就是个位<br />n=n&#47，所以n的值就是14，但是因为n的变量类型是整形sum+=n%10;这句的意思就是去除最后一位;这句的意思就是取当前n的最后一位.5了，这句语句的意思是将n的值除以10赋值给n，所以结果会自动进行数据类型转换，原来的话应该n的值就是14
+1
+none
+http://zhidao.baidu.com/question/171962636.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/508750270.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38040043.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/484848734.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/92994369.html?qbl=relate_question_4

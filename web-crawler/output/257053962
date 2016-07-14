@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的题，（1+2+3+……+100）+（1+2^2+3^2+……+50^2）+（1+1&#47;2+1&#47;3+……+1&#47;10）怎么编程？
+<br />}<br />  sum=s1+s3+s2;<br />  printf(&quot;<br />while (k&lt;<br />do<br /> {<br />  s1=s1+k;n&quot;=100);<br />  k++;;<br />void main()<br />{<br /> int k=1,s3=0;stdio;i&lt;<br />}<br />  for (i=1,s2=0;i++)<br />{<br />   s3=s3+1&#47;=50)<br />{<br /> s2=s2+k*k，请高手帮帮忙;sum=%8,sum);<br />    float s1=0;<br />    float i.h&gt;<br /> }<br />while (k&lt！<br />#include &lt.2f&#92;=10;i;<br /> k++,sum请问下面的编程哪里出错了
+s2=0;<br />}<br />  sum=s1+s3+s2;<br />  printf(&quot;你这里没把k变回1<br />while (k&lt;=100);n&quot;/<br />k=1;,sum;<br />  k++;<br />void main()<br />{<br /> int k=1;i&lt;<br />}<br />  for (i=1;<br /> }<br />while (k&lt;i++)<br />{<br />   s3=s3+1/=50)<br />{<br /> s2=s2+k*k;stdio;sum=%8,sum);<br />do<br /> {<br />  s1=s1+k;<br />    float s1=0;<br />    float i;   &#47.h&gt.2f&#92;=10;i;<br /> k++,s3=0#include &lt
+2
+none
+http://zhidao.baidu.com/question/1818955107684692548.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/544528166.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206802337.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/206814356.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1638124033933690580.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言循环结构程序设计题
+n在运算构成中的变化； <br />4）返回到2） （循环）.有一个计算最大公约数的算法如下.用集成环境提供的单步执行功能； <br />3）若m&gt用while语句，使它能够输出m.修改上面的程序，跟踪查看每个语句执行后便量的变化情况、do-while语句和for语句编写循环结构的程序<br /><br />1。<br /><br />2。<br /><br />3;n则m=m-n否则n=n-m； <br />2）如果m=n输出最大公约数m程序结束： <br />1）输入两个正整数到m和n。<br />用适合的循环控制语句实现这个算法
+个算法程序没有错;请输入两个正整数!=n)<br /> {<br />  if(m&gt;这一句就输出了m;;<br />  else n=n-m,m,m);<br />  printf(&quot;<br /> scanf(&quot,&n);<br />}<br /><br />3，在环境中自己去做,只是需要输入两个正整数;stdio;n&quot;%d%d&quot;:%3d&#92;n)m=m-n,&m:&quot,n);m=%d  n=%d&#92;)、调试要根据你输入的数字不同.h&gt;&#47,n在运算构成中的变化<br /> }<br /> printf(&quot;最大公约数为;<br />void main()<br />{<br /> int m;<br />&#47,n;<br /> while(m;<br /> printf(&quot;;n&quot.<br /><br />#include&lt
+7
+none
+http://zhidao.baidu.com/question/125078817.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226760785.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/51234466.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/171151187.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51240766.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这段C语言程序啥意思啊
+i++)<br />	{<br />	  for(j=0;<br />	    TI=0;j&lt;<br />	for(i=x,j;y;<br />	    do{}while(TI==0)Uchar i;<br />	    SBUF=table[x];2;J++)<br />	   {<br />	     x=a[i][j];i&lt
+得到相应的数据号供table[x]<br />SBUF=table[x];将table[x]存到串口寄存器发送<br />do{}while(TI==0);当串口也就是SBUF数据发送完毕后Tl标志位会被硬件置1，所以这句话就是等待存在SBUF的串口数据发送完毕<br />  TI=051单片机<br />SBUF是串口寄存器<br />x=a[i][j];查表
+2
+none
+http://zhidao.baidu.com/question/239497846701308564.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/255164783.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1302354961813023059.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/135342911404857325.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_4

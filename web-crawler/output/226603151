@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教各位大神，C语言中的dcl指的是什么，char ( *( *x[3]) () ) [5] 声明的是什么啊？
+none
+，该函数没有参数。<br />这种复杂申明有必要吗dcl是declare（申明）？<br />char ( *( *x[3]) () ) [5]<br />表示x是有3个成员的指针数组，返回值为指向有5个成员的字符数组的指针，其指针指向一个函数
+3
+none
+http://zhidao.baidu.com/question/238287087.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/402050551.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1239596689812982259.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/347302583.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 char **p
+ &quot;&lt;&lt;<br /><br />    free(str)!<br /><br />void GetMemory2(char **p, 100);<br />}<br />void Test2(void)<br /><br />{<br /><br />    char *str = NULL,这个不明白;<br /><br />    GetMemory2(&str;   <br /><br />    cout&lt; endl; str &lt, int num)<br />{<br />*p = (char *)malloc(sizeof(char) * num);  <br /><br />    strcpy(str;);hello&quot请说明下char **p
+看看效果就知道和本程序的意图并不相符，你可以尝试单指针，使用双指针将分配的新的地址空间返回char型的双指针你可以理解为指向字符串的指针
+0
+none
+http://zhidao.baidu.com/question/564269442.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/809128852302099052.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/175596464900471404.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/5288606.html?qbl=relate_question_3

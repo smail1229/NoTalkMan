@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 void函数在main函数中使用的问题
+但是到了main()中为什么调用该函数时如果写成void function(void)是没有用的：在程序的开头申明了函数：void function(void)本人写的一段单片机程序
+声明void function(void)  括号中的void  是告诉编译器此函数没有参数，不知道你听明白了没声明和调用是两回事，另外调用时不写返回值的类型，因为在声明时已经写过了，这可能是编译器的规则，就相当前面说明了无参数，你这样去写，程序当然出出错了，后面又给它一个参数，而调用时函数名后面的括号里放时的是参数
+11
+none
+http://zhidao.baidu.com/question/5280564.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/456370883.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1495616025323449059.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/191510389.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/316360707.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 continue的作用
+none
+fail
+0
+跳过本次循环 继续下次循环<br />例如<br />int i,cnt=0;<br />for(i=0;i&lt;10;i++)<br />{  if(n==3)continue;<br />   cnt++;<br />}<br /><br />最后cnt的值是8;<br />因为当运行到第4次的时候，i=3;符合if的条件，执行continue语句；continue后面的语句将不会执行，进入以下次循环
+http://zhidao.baidu.com/question/117476305.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/371274805.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91411785.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/365837551.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/103141103.html?qbl=relate_question_4

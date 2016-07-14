@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的问题？ int (*p)[3];&#47;&#47;这条语句声明了什么？知道的麻烦详细解释下。
+none
+p+9为a[9]，用来操作用来操纵二维数组：<br />如 int a[10][3];<br />     int (*p)[3]=a;<br />其中二维数组a本质上为 长度为3的数组的数组;<br />     则p为a[0],p+1为a[1],p+2为a[2]这个是数组指针
+1
+none
+http://zhidao.baidu.com/question/1382059103649269500.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1365957518028831099.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/72219864.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/623366795186797044.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/390366933.html?qbl=relate_question_4

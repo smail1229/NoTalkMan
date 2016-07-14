@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言2数求最大值max函数
+none
+z);&#47，所以就出现未定义。<br />要不你在调用的时候;，任何变量或者自定义函数在调用之前要先声明，也就是<br />undefined<br /><br />所以应该声明下,int),y,z在C里;input two number,int b)<br />{<br /> if(a&gt:&#92;%d&quot,&x;先声明后调用。。<br />好比;b)<br /> return a：我家里有这样一个函数;<br />    z=max(x。。<br />#include &quot，你告诉别人。<br />main()<br />{<br /> int x;<br />}<br />int max(int a;/%d%d&quot，别人不知道这个函数是哪个;stdio.h&quot;<br />    scanf(&quot;<br />    printf(&quot;);<br /> else<br /> return b;<br /> printf(&quot。,&y);;n&quot,y);<br />int max(int
+12
+#include&lt;stdio.h&gt;<br />void main()<br />{<br />  int max(int x,int y);<br />  int a,b,c;<br />  scanf(&quot;%d,%d&quot;,&a,&b);<br />  c=max(a,b);<br />  printf(&quot;max=%d&#92;n&quot;,c);<br />}<br /><br />int max(int x,int y)<br />{<br />  int z;<br />  if(x&gt;y) z=x;<br />  else z=y;<br />  return(z);<br />}<br />该函数在vs2010中始终编译不过，软件提示的错误为syntax error：‘type’<br />而错误指向的位置则是“int max(int x,int y);”和“int max(int x,int y)”。<br />经过摸索发现，问题就出在max上，只要将max改为别的比如说daxiao、big等就可以顺利编译通过。
+http://zhidao.baidu.com/question/117876134.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/78259379.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/11004832.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/488140889.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/286946510.html?qbl=relate_question_4

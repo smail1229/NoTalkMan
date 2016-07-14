@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+一个C语言求解二元一次方程根，求助！
+n&quot,&#92;方程只有一个解.h&gt,x),x2;方程无解;请输入三个系数，例如输入a=2,x;);.” 方程只有一个<br />解x=;(2*a)，但是运行时就出问题了,x%f;0)<br />    printf(&quot！<br /> <br />#include &lt;(2*a).,c,b,x2).h&gt,&b,一看就知道这明显是错误的.，希望各位大侠高手赐教了;);stdio;n&quot,x2=,&a;<br />    printf(&quot,x1以下是我在VC6;<br />     x2=(-b-sqrt(q))&#47,b=2！&#92，x1=：&#92.0中写的代码. &quot，运行结果就是“方程有两个解;<br />     q=b*b-4*a*c;<br />  <br />   if (q&gt;n&quot;<br />   float a,x1;方程有两个解;，但是我实在不知编写哪里有问题了.，小弟初次自学，可能是if 与else的匹配问题;0)<br />     x1=(-b+sqrt(q))&#47;<br />   scanf(&quot,q;<br /><br />if (q&lt;%f%f%f&quot;math.,;n&quot;<br />#include &lt,&c),x1=%f.;，编译通过，谢谢;(2*a);<br />    printf(&quot;<br />  main()<br />  <br />  {<br />  <br />   printf(&quot,c=4时;<br /><br />if (q=0)<br />    x=-b&#47;,x2=%f &#92，
+。还有写if(  ){ ！&#92,x;<br />    float a;请输入三个系数.,x2);,x2 = %f &#92,c.h&gt代码奉上,&b;n&quot;.;),x).,x1,q.} else if(  ){  ,x2;stdio;n&quot,&a,b：&#92;<br />int main()<br /><br />{<br /><br />    printf(&quot;<br />#include &lt;(2*a).;方程无解，应该为q==0;<br />        printf(&quot,q=0话就是赋值了...; 0)<br />    {<br />        x1=(-b+sqrt(q))/(2*a)，否则一直问真，除非你赋的值为0,x = %f,&c);n&quot;<br />    }<br />    else<br />        printf(&quot;<br />    }<br />    else if (q == 0)<br />    {<br />        x=-b/<br />        printf(&quot;n&quot，注意点就好了,&#92;math;<br />    scanf(&quot;%f%f%f&quot;<br /><br />    if (q &gt.;;方程只有一个解;(2*a).  } else {    }这些语句的加括号啊~~~~~~~··<br /><br />#include &lt;<br />    q=b*b-4*a*c,x1 = %f.h&gt;方程有两个解,x1;<br />        x2=(-b-sqrt(q))&#47：<br />楼主好像错在if(q = 0) 这句上;<br />    return 0;)
+8
+none
+http://zhidao.baidu.com/question/137410118.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196079834.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2116069936663707547.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2203664200877949348.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/314740547.html?qbl=relate_question_4

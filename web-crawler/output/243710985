@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序题要求： 尽量用数组、指针、函数
+将求大值、add，第一次调用时找出a和b中大者。输入a和b两个数、min，在调用它的时候设一个函数process。<br />分析、求和值分别设计为函数max、求小值，第三次调用时求a与b之和，第二次调用时 找出a和b中小者，每次实现不同的功能。process使用指针调用这些函数
+<br /> getchar(),y));),int), (*Max)(x;<br /><br /> printf(&quot;n&quot,y)), int y)<br />{<br /> return x &gt, &x;, int y)<br />{<br /> return x &gt, (*Add)(x:%d&#92;max;n&quot; y , (*Min)(x;min#include &lt; y ;n&quot;, &y);<br /> printf(&quot;add;<br /> printf(&quot, int y)<br />{<br /> return x + y;<br /> scanf(&quot: x? x :%d&#92;%d %d&quot: y;<br />}<br /><br />int (*process)(int.h&gt,y))? y ;:%d&#92：&quot;<br /> printf(&quot;<br />}<br /><br />int Add(int x;<br /><br />int Max(int x, y;请输入2个整数;<br /><br />void main()<br />{<br /> int x;<br />}<br /><br />int Min(int x;stdio;<br /> getchar();
+2
+none
+http://zhidao.baidu.com/question/243707738.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/243711433.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1701880089935492660.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/391261693.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/583341303084099485.html?qbl=relate_question_4

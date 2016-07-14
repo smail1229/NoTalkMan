@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+【C语言】 char类型的输出问题
+none
+<br />scanf_s(&quot, &keyval,1)对字符和字符串，改成这样;;%c&quot，scanf_s需要增加一个表示缓冲区长度的参数
+0
+none
+http://zhidao.baidu.com/question/58792099.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/419805501.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76149163.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/197834908.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/391609130.html?qbl=relate_question_4

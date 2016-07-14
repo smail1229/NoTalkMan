@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言新手请教 下面的程序一步一步解释下
+b=%d&#92,b);stdio;<br />}<br />void main()<br />{  <br />	int a=3;<br />	 t=x,b=4.h&gt;; y=t;<br />	 printf(&quot,y=%d&#92;n&quot,a,int y)<br />		            <br />{<br />     int t;;,x; x=y;<br /><br />void change(int x;n&quot,b);<br />	 printf(&quot,b=%&#92;x=%d,a,y=%d&#92;a=%d;<br />	printf(&quot,b);n&quot,y),y);;<br />	change(a;n&quot#include&lt;x=%d;a=%d;<br />	printf(&quot,x
+change函数<br /><br />打印ab<br />调换ab<br />打印ab<br /><br />主函数<br />打印ab<br />调用change<br />打印ab<br /><br />注意 在调用change后ab的数值不会改变 这是因为作用域的关系
+0
+none
+http://zhidao.baidu.com/question/432174899.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/367124690.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/366909997.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/374671474.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/372493790.html?qbl=relate_question_4

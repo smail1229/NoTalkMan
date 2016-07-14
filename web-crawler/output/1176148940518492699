@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中数组的几个概念问题。
+字符数组的每个元素只能存放一个字符.如果数组的元素类型是字符型，则此数组就是字符数组判断正确性 1字符串只能存放在字符型数组中 2
+1 字符串不一定只能存放在字符型数组中，整数数组也能存放，不过访问起来不如字符型的数组<br />2 应该是正确的
+0
+none
+http://zhidao.baidu.com/question/26623345.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/68202518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147418121.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/109998097.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126492996.html?qbl=relate_question_4

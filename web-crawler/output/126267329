@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一个51单片机简单的中断C语言程序
+希望有文字说明更加好，网上很多例子是汇编的比如8只流水灯循环点亮，然后中断触发后全部闪烁几下。或者类似的程序都可以，我初学者，看不懂。我需要一个C语言的有中断的简单程序来参考下，谢谢了啊~，响应中断完后继续恢复循环点亮
+/reg52;//程序在此等待中断的到来<br />}<br />void T0_time() interrupt 1<br />{<br />TH0=(65536-45872)// 毫秒延时<br />{<br />  unsigned int j,0x77，基本也算有点小成了吧.h&gt;256;<br /><br />   duan=1;装载初值为11;&#47。呵<br />&#47,0x6d;<br />   }<br /><br />void main()<br />{<br />TMOD=0x01;&#47,0x5e;/数码管模块<br />void delayms(unsigned int i) &#47，我学了2个多月,uchar y)<br />{<br />   duan=1，我这里还有不少资料;定时器0 工作方式1<br />TH0=(65536-45872)/如果到了20次;         &#47,0x39。如果还有需要;               /         /重装初值<br />TL0=(65536-45872)%256;/<br />   P0=0xfe;<br />  for(，其目的是为了通过中断来精确计算真实的时间;开定时器0中断<br />TR0=1;打开总中断<br />ET0=1,0x7f; <br />}<br />        /<br />EA=1;<br />   wei=1;/                  /            //送位显示码<br />   wei=0.0592M晶振定时50ms 数为 45872<br />TL0=(65536-45872)%256,0x71};/&#47,0x06;<br />   P0=0xfd,0x7d;<br />}<br /><br />void fuzhi(uchar x,j);        &#47。用数码管显示的;/8的共阴码<br />   duan=0;/<br />uchar num;         /i&gt;<br />uchar i,0x07;    /                     &#47，说明1秒时间到<br />{<br />num=0,0x6f这个是我自己做的 99s的计数器;<br />uchar code table[]={0x3f;      <br />   delayms(5);i--)<br />    for(j=100;0;  /自行设计 99s;&#47,0x4f;/<br />#define uchar unsigned char<br />#define uint  unsigned int<br />sbit wei=P1^2;0; /    /  <br />i++;                   /j--);<br />}<br />if(j==10)j=0 ;<br />   P0=table[x];送位显示码<br />   wei=0,0x7c;8的共阴码<br />   duan=0，这里使用了中断; i超过9 就置为0<br /> j++,0x5b;  <br /><br />while(1)<br />{<br />fuzhi(i,0x66;num重新置数为0<br /><br />}<br />if(i==10)<br />{i=0;<br />   delayms(5),0x79;/<br />sbit duan=P1^1;j&gt;<br />   P0=table[y]; <br />   wei=1;&#47，用数码管显示;num每加1次判断一次是否到20次          <br />if(num==20)            /<br />num++，给我邮箱;256; &#47,j！<br />#include&lt
+38
+none
+http://zhidao.baidu.com/question/454765534047729245.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356561140.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/220555326.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/108304379.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/220555552.html?qbl=relate_question_4

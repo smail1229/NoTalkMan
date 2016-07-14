@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中返回数组元素个数
+例代码？：<br />int length(int a[]){<br />return (sizeof(a)&#47;sizeof(a[0]));<br />}<br />返回的数组元素个数为什么是1啊
+<br />那么没有问题，这个在32位系统上是4;<br />int len = sizeof(a)&#47，sizeof(a[0])在32位系统上的的大小也是4，所以如果你在程序里面这样来做, 4，所以就是1了：<br />int a[] = {1, 2;sizeof(a[0])，而a[0]是一个整数，所以这个时候实际上是把a当作一个int 指针处理的, 3，那么sizeof(a)实际上是指针的大小, 5}，编译时刻无法得知你要传送什么样的参数进去，可以正确的得出数组的长度，因为这个时候在编译时刻可以很容易的知道a有5个元素。<br />但是你把int a[]作为参数传递到函数里面sizeof(a)的值是在编译时刻确定的
+14
+none
+http://zhidao.baidu.com/question/523874168.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/55248207.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/560476235.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/342610813.html?qbl=relate_question_3

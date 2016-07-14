@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，就是我定义的y为int型，然后我这么写 (float)y=1000&#47;14; 那么，我得到的
+就是我定义的y为int型;14c语言，然后我这么写<br />(float)y=1000&#47;<br />那么
+ 这样得到的是精确的值.强制类型转换只能写在表达式右边吧.，这样写会报错;14.<br />如果写成y=(float)1000&#47
+1
+none
+http://zhidao.baidu.com/question/135200132060187245.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1494173541281352179.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424060091989983292.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/712189963225975085.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1690633108703326668.html?qbl=relate_question_4

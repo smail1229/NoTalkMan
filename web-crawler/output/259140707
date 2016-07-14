@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中的EOF是啥么意思啊？跟NULL有区别吗？
+这是的EOF是啥意思，是一个逻辑值还是个别的东西如在有些题目中会这样说：输入数字以EOF来结束输入
+这是在读取文件的时候才会出现的一个结束输入的符号，但是可以用键盘模拟，UNIX和Linux用户应按Ctrl+D来模拟，在windows系统中EOF表示的文件结尾条件(end of file)的意思。<br />      NULL其实就是0的字面表示法，可用于赋值给数组，字符串，按下Ctrl+Z和回车键来模拟EOF条件
+23
+none
+http://zhidao.baidu.com/question/29591592.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/467424715.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57505484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/332646143.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/390576.html?qbl=relate_question_4

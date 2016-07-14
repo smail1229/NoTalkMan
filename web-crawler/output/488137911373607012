@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求解释两个C语言程序
+#include&lt;stdio.h&gt;<br />int main(){<br />  int i=1,sum=0,m=1;<br />  int a[51];<br />  int b[10000]={0};<br />   b[m]=1;<br />  while(1)<br />  {<br />     if(b[m]==1)<br />	{<br />	b[2*m+1]=1;<br />	b[3*m+1]=1;<br />	a[i]=m;<br />	i++;<br />	sum+=m;<br />	if(i&gt;50)<br />		break;<br />	} <br />         m++;<br />  }<br />   printf(&quot;The a[50] is %d&#92;n&quot;,a[50]);<br /><br />}<br /><br />#include&lt;stdio.h&gt;<br />int main(){<br />  int i,j,t,sum,a[50];<br />  sum=0;<br />  a[0]=1;<br />  t=0;<br />  for(i=1;t&lt;=49;i++)<br />	 for(j=0;j&lt;=t;j++)<br />		 if(i==2*a[j]+1||i==3*a[j]+1)<br />		 {<br />		 t++;<br />		 a[t]=i;<br />		 printf(&quot;%d:%d&quot;,t,a[t]);<br />           break;<穿粻扁救壮嚼憋楔铂盲br />		 }<br /><br />        for(t=0;t&lt;=49;t++)  <br />			sum+=a[t];<br />		printf(&quot;The 50th number is %d&#92;n&quot;,a[49]);<br /><br />printf(&quot;The  summer is %d&#92;n&quot;,sum);<br /><br />}<br />求解释两个程序为什么结果一样？后者的for循环又是什么意思？
+for(i=1;t&lt;=49;i++)穿粻扁救壮嚼憋楔铂盲<br />	 for(j=0;j&lt;=t;j++)<br />双重循环
+1
+none
+http://zhidao.baidu.com/question/149451274.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/98826510.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154740115.html?qbl=relate_question_4

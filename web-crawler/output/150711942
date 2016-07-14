@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中执行语句for(i=1;i++&lt;4;);后，变量i的值为什么是5？新手初来乍到，刚学C语言，还望大家多多帮助
+none
+不知道请不清楚;4首先你要明白i++和++i的区别；4&lt;4为假。 所以执行循环体（空语句）。当i=3时i++也是3。所以i会等于5。但是之后也会自加i，后者是先加再用。3&lt，为4。前者是用了再自加：i++&lt;4，比较完之后i就自加。其次你要知道这个for语句一个带空语句的循环，只是不会执行了循环体，再执行表达式二即
+22
+none
+http://zhidao.baidu.com/question/202324131.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/550656855.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245222185.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/141271076.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155554003.html?qbl=relate_question_4

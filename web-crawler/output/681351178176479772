@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程：使用for循环输出如下图形
+none
+图像好像有问题啊？
+1
+记着输入*最多的个数n即可，还可以实现客户重新输入<br />#include&lt;iostream&gt;<br />using namespace std;<br />int main()<br />{<br />int i,k,j,n;<br />char a;<br />do<br />{<br />cout&lt;&lt;&quot;请输入你所要图形*最多为n：&quot;;<br />cin&gt;&gt;n;<br />for(i=1;i&lt;=n;i++)<br />{<br />for(k=1;k&lt;=n-i;k++)<br />cout&lt;&lt;&quot; &quot;;<br />{<br />for(j=1;j&lt;=i;j++)<br />cout&lt;&lt;&quot; *&quot;;<br />cout&lt;&lt;endl;<br />}<br />}<br />for(i=1;i&lt;=n;i++)<br />{<br />for(k=1;k&lt;=i;k++)<br />cout&lt;&lt;&quot; &quot;;<br />{<br />for(j=n-i;j&gt;=1;j--)<br />cout&lt;&lt;&quot; *&quot;;<br />   	cout&lt;&lt;endl;<br />}<br />}<br />cout&lt;&lt;&quot;你是否需要继续？（y&#47;n）:&#92;n&quot;;<br />cin&gt;&gt;a;<br />}while(a==&#39;y&#39;||a==&#39;Y&#39;);<br />return 0;<br />}
+http://zhidao.baidu.com/question/253480545.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/436116489.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/810387433666854532.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1755340816927715548.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/345379475.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 int a=9,b=5;  那么表达式b=（a=4）&#47;（b=a）的值为什么是1？
+none
+int a=9,b=5  这句是给a,b赋初值 <br /><br />b=(a=4)/(b=a)  在这句中a=4是给a重新赋值了，此时a=4,所以b=a＝4供骇垛较艹记讹席番芦<br />b=(a=4)/(b=a)=(a=4)/(b=4)=4/4=1
+4
+none
+http://zhidao.baidu.com/question/298777479.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184521615.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/564158905.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/234117460.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/184521869.html?qbl=relate_question_4

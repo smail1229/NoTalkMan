@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中*(p+2)和*p+2有什么不同
+none
+p是一个指针变量，p本身表示一个存储地址，而*p表示取这个地址订顶斥雇俪概筹谁船京单元中的内容。<br />所以，就可以这样理解：<br />*(p+2) 表示先将地址后移两位，再取地址内容。<br />*p+2 表示先取当前地址内容，然后对内容加2。<br />一个是对地址的操作，一个是对内容的操作，完全不同。
+36
+none
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/477568545.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/113522531.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/226084447.html?qbl=relate_question_4

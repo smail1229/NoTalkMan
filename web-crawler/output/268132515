@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+typedef void fun(void) 求指点。上面的c语言不懂。请高手给指点一下。
+none
+n&quot，并且返回值为void的函数的类型，例如想上面的那样定义的话;/ <br />void Fun1( void )<br />{<br />	printf ( &quot，要是理解有错？是不是这个呢<br />typedef void (*fun)(void)，fun指向一个参数为void; <br />	p=Fun1;<br />typedef void (*fun)( void ) ;stdio;<br />}<br />int main(  )<br />{<br />	fun p;/这两种p的表示方法是等价的 <br />	return 0.h&gt;<br />首先请看void (*fun)(void)<br />这里定义了一个函数指针fun，而fun这种类型的约束条件就是;<br />typedef 的作用是定义一种类型; );Fun2 Run&#92，返回值为void的函数;Fun1 Run&#92;&#47。<br />接着再看typedef void (*fun)(void)。<br /><br />#include	&lt; //<br />	p=Fun2; )，要指向一个参数为void，就定义了fun这种类型; <br />	( *p)(  ); /n&quot。<br />	p(  )。<br />不知道是不是我理解错了，劳烦楼主把完整代码贴出来看看;两者类型匹配;<br />}<br />void Fun2( void )<br />{<br />	printf ( &quot楼主确定题目没问题
+48
+none
+http://zhidao.baidu.com/question/241583146.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1987289064767889867.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/198870795.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/198973240655141525.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/400891872.html?qbl=relate_question_4

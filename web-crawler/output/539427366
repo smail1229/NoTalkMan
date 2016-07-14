@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言中a++与输出语句的问题
+<br />printf(&quot,c=3.h&gt;stdio,a++;<br />}<br /><br />如这样一个程序;<br />main(){<br />int a=1;%d;%d,c=3，输出结果为11,%d&quot1、<br />#include &lt,a++);<br />main(){<br />int a=1,a=a+1);;stdio,b=2。程序怎样判断。<br /><br />2,a=a+1;<br />printf(&quot,b=2。a的值最后为3<br />问题是当a++与逗号表达式与输出语句同时存在时;、<br />如果a++等价于a=a+1<br /><br />当程序为<br />#include &lt,%d&quot;<br />}<br /><br />输出结果为3 2 .h&gt
+  <br />优化 选择  &#47。<br /> <br />printf(&quot，3<br />优化 选择  &#47。<br />程序员自己要注意;%da++ 在当前语句中 等价于 a。<br />例如 MS VC++ 编译器;O2   结果 3;,%d&quot;Od   结果 3，3<br />优化 选择  &#47，模棱两可的语句，最好别用,a=a+1),a=a+1;O1   结果 3，2<br />解释下原由 -- 没硬道理, 出了当前语句 再 增 1;  的结果 与编译器时的优化 处理 有关
+2
+none
+http://zhidao.baidu.com/question/329232800.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/136675166.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126261179.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/32140047.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/431594591382513924.html?qbl=relate_question_4

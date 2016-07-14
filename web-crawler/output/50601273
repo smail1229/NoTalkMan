@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题：#if #endif #else是什么意思呀～～
+<br />}<br />#else<br />void p(int a)<br />{<br />    printf(&quot;%d&quot，现在有一段程序。<br /><br />#include &lt;;stdio,a);%x&quot,a).h&gt;<br />#define r 16<br />#if r==16<br />void p(int a)<br />{<br />    printf(&quot;。<br /><br />现在这个程序怎么走的如题;<br />}<br />#endif<br />void main()<br />{<br />    p(32)，我明白。可是简单的讲讲这个加了#的是什么意思吧
+#if的结束<br /><br />void main() <br />{ <br />p(32);告诉编译器;;stdio; <br />} <br />#endif &#47，是预编译指令<br /><br />也就是说，编译下面这段，就对他们进行了处理<br /><br />#include &lt，#if的另外一个部分<br />void p(int a) <br />{ <br />printf(&quot; <br />} <br />#else &#47,a);告诉编译器;告诉编译器;/&#47，要参与编译的文件<br />#define r 16 /%d&quot，r==16的时候;&#47，这些语句; /告诉编译器;&#47，否则编译else部分的内容<br />void p(int a) <br />{ <br />printf(&quot;%x&quot，在编译之前.h&gt;告诉编译器#开头的语句;，r就是16<br />#if r==16 /&#47,a)
+330
+none
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90716472.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/120598535.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/482318726.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/95937771.html?qbl=relate_question_4

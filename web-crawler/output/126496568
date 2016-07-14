@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言程序求解ax*x+b*x+c=0是怎样的？
+none
+fail
+0
+#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br /><br />int main(void)<br />{<br />float a, b, c;<br />printf(&quot;input a, b, c:&quot;);<br />scanf(&quot;%f,%f,%f&quot;, &a, &b, &c);<br /><br />float x1, x2;<br />if(!(a&gt;-0.000001 && a &lt; 0.000001))<br />{<br />x1 = (-b + sqrt(b*b - 4 * a * c)) &#47; 2 * a;<br />x2 = (-b - sqrt(b*b - 4 * a * c)) &#47; 2 * a;<br />}<br />else<br />{<br />x1 = x2 = (-b)&#47;2 * a;<br />}<br /><br />printf(&quot;x1 = %f, x2 = %f&quot;, x1, x2);<br /><br />return 0;<br />}
+http://zhidao.baidu.com/question/182624640.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260689572.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/252322227.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253601857.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/248466810.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，int **p;的含义是？简明回答，最好有解释，谢谢
+谢谢;的含义是c语言中？简明回答，int **p！<br /><br />我觉得有能理解其中的意思，最好有解释，他将指针变量定义整形了2次，但是表达不出来
+nt **p 就是 int * (*p)<br /><br />显然，编译器也得给它安排4字节的内存来存储它的值，int **p就是指向这块内存的指针，*p是一个指针
+0
+none
+http://zhidao.baidu.com/question/141349787.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/558273302.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192046261.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/210948331.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/315037159.html?qbl=relate_question_4

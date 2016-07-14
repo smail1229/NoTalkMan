@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，实型数据和浮点型数据的关系
+在C中，实型和浮点型数据有什么关系啊？怎么表示呢？
+一般占8个字节，一般占4字节（32位）、提供7位有效数字。类型关键字为double。 （2）双精度型。类型关键字为floatC语言的实型变量，分为两种、提供15~16位有效数字： （1）单精度型
+4
+none
+http://zhidao.baidu.com/question/379523993.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/64596176.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/451390371.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91534154.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/61928367.html?qbl=relate_question_4

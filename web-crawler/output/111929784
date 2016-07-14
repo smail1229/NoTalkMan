@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言题：TC中的return 0；是什么意思啊
+none
+<br />因为一般你的main()是这样的。这时就不再需要 return 0了<br /><br />当你返回这个值的时候电脑就会认为程序结束。相当于自定义函数里需要一个返回值一样。<br />当然有些环境是用void main()一般是在主函数里给电脑返回一个值
+12
+none
+http://zhidao.baidu.com/question/223565538.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/513197216.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/148724561.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/135248604.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/413442208.html?qbl=relate_question_4

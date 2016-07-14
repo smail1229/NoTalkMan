@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中。。什么是符号函数。
+让我定义一个符号函数。<br />例如。。请问什么意思我遇到一个问题;0)<br />y=0   (x=0)<br />y=-1  (x&lt：<br />y=1   (x&gt
+0时;当x&lt，函数返回1<br />        return 1;<br />    else if(x &gt; 0)  ///当x&gt;<br />    else  /0时;&#47int f(int x)<br />{<br />    if(x == 0)  /当x==0时，函数返回0<br />        return 0，函数返回－1<br />        return -1
+2
+none
+http://zhidao.baidu.com/question/160740277.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/142380207.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/170308893.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/98061642.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言级数求和
+<br /><br />【输入形式】<br /><br />从键盘输入x的值(实数)1。<br /><br />【输出形式】<br /><br />输出精度为10-6的级数和，x的值从键盘输入。<br /><br />s(x)=x-x3&#47。<br /><br />【样例输入1】 0!+……+(-1)n-1·x2n-1&#47!-x7&#47;5.500000<br /><br />【样例输入2】 -1<br /><br />【样例输出2】 -0.283185<br /><br />【样例输出3】 0，求和精度为10-6!+x5&#47.841471<br /><br />【样例输入3】 6;7;3.523599<br /><br />【样例输出1】 0;(2n-1). 【问题描述】<br /><br />计算下列级数和的近似值
+<br />double jiecheng(double a){/i&lt;/<br />if(p%2==0)<br />return r*-1;%lf&quot;/n&quot;(a+1);&#47.6lf&#92;/;;<br /> printf(&quot;&#47,希望有帮助,r);<br />double r;1000;<br />double r=1。<br />double i=0#include&quot.<br />double x;/<br /> scanf(&quot;<br />}<br />double pf(double a){<br />static p=0;<br />return r;i++)<br />      r=i*r;<br />r=x*a//介乘;(jiecheng(a));<br /> double r=0;stdio;&#47,&x);&#47.h&quot;<br />    for(i=1;/<br />else<br />return r;<br />for(i=1;<br />p++;i&lt;%;<br />}<br />void main()<br />{<br />    int i=1;i+=2)<br />          r=r+pf(i);不知道是否正确
+1
+none
+http://zhidao.baidu.com/question/548653275.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/254108089.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/174260578.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/540472078.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/429179537.html?qbl=relate_question_4

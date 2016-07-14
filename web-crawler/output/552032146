@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中*p++和(*p)++有什么区别?
+none
+题目中是*q，为3，所以此时的*q就是x的值，相当于让p指向了x所在地址的下一个位置，再使p加1<br /> &#47：是先取出*p的值：*p++，而对于x则是没有任何影响<br />                        (*p)++;*p则是p指向的位置对应的值:是使*p的值加1;&#47，给p加1;&#47.<br />/p是个指针，当输出*q之后，再给*q即x自加1我看书中解释
+30
+C编译器认为*和++是同优先级操作符，且都是从右至左结合的，所以*p++中的++只作用在p上，和*(p++)意思一样；在(*p)++中，由于()的优先级比*和++都高，所以++作用在()内的表达式*p上。比如有:<br />int x,y,a[]={1,2,3,4,5},*p=a,*q=a;<br />x=*p++;&#47;&#47;执行这一句后x=a[0]=1，p=a+1<br />y=(*q)++;&#47;&#47;执行这一句后，y=a[0]+1=2，q仍然=a
+http://zhidao.baidu.com/question/536942769.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/90429271.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/226084447.html?qbl=relate_question_4

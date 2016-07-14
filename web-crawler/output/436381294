@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中break语句的问题
+break语句只能跳出一层嵌套，这个嵌套指的是什么？只能跳出while  do    for      switch   这样的循环还是说对于花括号包含的内部也算一层嵌套：比如：<br /><br />for（..；..；.珐怠粹干诔妨达施惮渐...）<br />        if（....）{<br />           .......<br />           break;<br />            }<br />花括号对break语句有影响吗？
+花括号对于C语言来说只是语句块，与break无关。<br />    对于while、do、for来说，多重嵌套循环体它跳出离它最近循环体，<br />单循环是遇到beak就跳出循环体。<br />    for(;;)break;//单循环<br />-----------------------------<br />循环嵌套是指循环体内包括循环体：<br />    for(i=0;i&lt;5;i++)//嵌珐怠粹干诔妨达施惮渐套循环<br />        for(;;)//break;跳出这个内循环，外循环继续。<br />            break;<br />-------------------------------<br />    对switch来讲，它是从某个分支跳出。
+0
+none
+http://zhidao.baidu.com/question/1109835626987080339.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/113790437.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135980025.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/65779687.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/559427430.html?qbl=relate_question_4

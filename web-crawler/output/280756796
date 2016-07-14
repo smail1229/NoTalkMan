@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+输入两个正整数m，n，编写求阶乘的函数，计算m!&#47;(n!*(m-n)!)。 C语言函数解答，谢谢。
+none
+#include &lt;stdio.h&gt;<br /><br />long factorial(int m,int n){<br />	long sum=1,sum1=1;<br />	int i;<br />	if(m-n&gt;n){<br />		for(i=m;i&gt;m-n;i--)sum*=i;<br />		for(i=2;i&lt;=n;i++)sum1*=i;<br />		return sum/sum1;}<br />	else {<br />		for(i=m;i&gt;n;i--)sum*=i;<br />		for(i=2;i&lt;=m-n;i++)sum1*=i;<br />		return sum/sum1;<br />	}<br />}<br /><br />void main()<br />{<br />	int m,n;<br />	long sum;<br />	do{<br />		printf(&quot;Enter m n:&quot;);<br />		scanf(&quot;%d%d&quot;,&m,&n);<br />	}while(m&lt;n);<br />	sum=factorial(m,n);<br />	printf(&quot;%ld&#92;n供害垛轿艹计讹袭番陋&quot;,sum);<br />}
+7
+none
+http://zhidao.baidu.com/question/144977259.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/274020587.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/16973687.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/6437242.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/73345802.html?qbl=relate_question_4

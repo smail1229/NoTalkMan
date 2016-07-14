@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言这里面的for(;i&lt;=p;i++,j--)要怎么理解，特别是为什么加上j--
+ *p=arr;<br />	inv(p;The array has been inverted;<br />}<br />void inv(int *x;i++;%d&quot;<br />	i=x;<br />	printf(&quot.h&gt;arr+10;n&quot;), *i;):&#92,int n)<br />{<br />	int *p;);stdio; *j=temp,m;n&quot;;n&quot;i&lt;&#92;<br />void main()<br />{<br />	void inv(int *x;i++,temp,int n);j=x+n-1,p);<br />	for(;<br />	p=arr;%d&quot;&#92;<br />	printf(&quot;);<br />	int i;<br />	printf(&quot,arr[10];p&lt;10;p=x+m;The original array;p++)<br />		printf(&quot;<br />	printf(&quot, *j;i&lt,p++)<br />		scanf(&quot:&#92;<br />	for(i=0;n&quot;,10);=p;<br />	for(p=arr#include&lt, *p);}<br />	return,j--)<br />	{temp= *i; *i= *j
+为指针就要同时往前移动，j代表尾部函数功能是数组数据的头尾交换。i代表头。头指针往后移动，就是j--，第一个与最后一个交换
+0
+none
+http://zhidao.baidu.com/question/49120756.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/229374157.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/115105221.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/517681823.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/348236894.html?qbl=relate_question_4

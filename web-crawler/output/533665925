@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，有程序，#include&lt;stdio.h&gt; main() { int y=9; for( :y&gt;0;y- - ) if(y%3= =0) printf(&quot;%d&quot;,--y);
+解答的详细步骤，谢谢
+ y循环递减,--y);/&#47:y&gt;如果y余3等于0（3的整数倍）<br /><br /> printf(&quot;%d&quot;; /定义变量，并且y等于y-1的值（for循环中还要减1)<br />结果是;/y- - ) //0;输出y减一; &#47int y=9，初始化为9<br /><br /> for( ，直到9变成0<br /><br /> if(y%3= =0) &#47
+6
+none
+http://zhidao.baidu.com/question/1603763578195202387.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/355349172.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161975619.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253441748.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533813927.html?qbl=relate_question_4

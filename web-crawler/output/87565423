@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言输出语句
+456，小数部分后面补三个0,f).456000<br />怎么确定的整数部分前面补两个空格;%12f&#92;的输出结果为什么是jj123，值为123;;n&quot，j为空格<br /><br />输出语句printf(&quotf为float型.45600000或者jjj123？<br />为什么不可以是123
+域宽float型默认6位小数<br />按%f输出，你数数从第一个j到最后一个0是不是一共12个，不足补空格，默认小数点后有6位<br />12
+2
+none
+http://zhidao.baidu.com/question/136675166.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/31482597.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/221094916.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/539427366.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的NULL总是被定义为0吗?NULL总是等于0吗?
+none
+你可以(并且只能)通过调试程序来查看空指针的值;if(p＝＝0)那么NULL确实总是等于0。在有些计算机中：if(/;* ．．． *&#47。比较的结果为相等”；}else{p＝&#47，尽管这是NULL最常见的存储方式。如果你想知道NULL是否被存为一个整型值0，那么答案是“不”，或者通过程序直接将空指针的值打印出来(如果你将一个空指针强制转换成整类型，例如。NULL并不必须被存为一个整型值0，这也就是空指针定义的本质所在，NULL会被存成另外一些形式;* ．．． */* something else */){p＝NULL；}&#47? 对这个问题的回答与“等于”所指的意思有关。相同”，那么你所看到的很可能就是一个非零值)。如果你是指“与。如果你是指“其存储方式和整型值NULL总是等于0吗
+1
+none
+http://zhidao.baidu.com/question/259140707.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/467424715.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/29591592.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87613149.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/285272846.html?qbl=relate_question_4

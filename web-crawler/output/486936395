@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言新手编程求绝对值
+题目描述 求整型数据和浮点型数据的绝对值。 <br />输入 输入两个俯鼎碘刮鄢钙碉水冬惊数，第一个是整数，第二个是浮点数。<br /> 输出 输出为两行，第一行为整数的绝对值，第二行为浮点数的绝对值，注意浮点数的绝对值不输出无意义的0。 <br />样例输入 -1 1 <br />样例输出 1 1
+#include&lt;stdio.h&gt;<br />int main()<br />{<br />int n;<br />while(scanf(&quot;%d&quot;,&n)!俯鼎碘刮鄢钙碉水冬惊=EOF)<br />{<br />if(n&lt;0)<br />n=-n;<br />printf(&#39;%d&#92;n&quot;,n);<br />}<br />} <br /><br />当然也可以借助math头文件中的fabs 函数
+3
+none
+http://zhidao.baidu.com/question/353365276.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/167474892.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/99616244.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1575241404992092780.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1755250259929961068.html?qbl=relate_question_4

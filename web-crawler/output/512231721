@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 函数指针 的调用问题？函数指针 怎么用？最好有例子。。
+none
+考虑下p的基类型？<br />首先要保证p是一个指针类型<br />写下(*p);<br /><br />同理<br />想要实现 pf = &fun;<br />要定义指向该函数的指针<br />对比指向 int a,int b) ;<br />p的定义是怎么来的; <br />括号可以省略;<br />(*pf) 将pf定义为一个指针;<br />基类型中有圆括号和中括号要后移<br />int (*pf)(int a; p = &a; 的指针<br />int *p,int b)，<br />将fun的类型作为pf的基类型<br />fun相当于一个 int (int a;括号不能省略<br />pf = &fun; pf(3，就成了 int *p;&#47，<br />然后,int b)类型的量<br />int (int a;<br />调用时<br />(*pf)(3,4)，<br />p的基类型就是变量a的类型int<br />将int 放在(*p)前面就行了<br />int (*p);&#47,int b) (*pf): int fun(int a有函数
+13
+none
+http://zhidao.baidu.com/question/127519540.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1381455356770847100.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/495733448.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/111851567.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/42611436.html?qbl=relate_question_4

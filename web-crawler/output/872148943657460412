@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 c=b++-a&lt;c?c:b-a&gt;0?1:0 这个是什么意思？ 求大神解释一下！
+none
+<br />    }<br />    else<br />    {<br />        c = 0。可以理解为:<br />if(b++-a &lt;<br />}<br />else<br />{<br />    if(b - a &gt，b自增1<br />{<br />    c = c; c)    // 这句过后; 0)<br />    {<br />        c = 1就是将右边的表达式求值，然后赋值给c
+1
+none
+http://zhidao.baidu.com/question/1829903156009072700.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/513670687.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/616296811266056412.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101577287.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533911219.html?qbl=relate_question_4

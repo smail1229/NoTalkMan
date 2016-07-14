@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 定义int i=8 为什么表达式y=float(i)是正确的
+求说明
+<br />把8转变成float类型这是C语言里的强制转换，这是允许的,但很有可能造成数据丢失. 当然反过来转换也是允许的,明确要求编译器把数值从一种数据类型转换为另一种数据类型,也叫做显示转换.2转成int类型,就变成了8，那么0.0,这就是强制转换,就会变成8.2就丢失了,比如float类型的8
+1
+none
+http://zhidao.baidu.com/question/516640430.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/410631988.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/590952063.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/473091833.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/278203163.html?qbl=relate_question_4

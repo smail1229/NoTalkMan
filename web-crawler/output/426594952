@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言有没有类式printf的函数，只不过不用输出，只需要格式化到一个数组（字符串）中。
+c语言有没有类式printf的函数，只不过不用输出，只需要格式化到一个数组（字符串）中。
+int sprintf( char *buffer, const char *format, [ argument] … ) ;
+0
+none
+fail

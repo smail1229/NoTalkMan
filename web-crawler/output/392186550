@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言。算一个数的立方。scanf后，遇到问题要关闭。用的是dev-c++5
+<br />}<br /><br />long cube(long x)<br />{<br />     long x_cubed.h&gt;%d&quot;<br />      answer=cube(input);<br /><br />main()<br />{<br />      printf(&quot;<br /><br />long cube(long x);;<br /><br />long input：&quot,input,answer;<br />     <br />     x_cubed=x*x*x;);输入一个整数;stdio;,input);<br />      printf(&quot;<br />      return 0;%d 的立方是 %1d&quot,answer);<br />      <br />      getchar();<br />     return x_cubed#include&lt;<br />      scanf(&quot
+);<br />      printf(&quot;<br />}<br /><br />long cube(long x)<br />{<br />     long x_cubed.h&gt;<br />      scanf(&quot,&input);<br /><br />int main()/<br /><br />long cube(long x);;<br /><br />long input;加上int因为你后面有返回值<br />{<br />      printf(&quot,input,answer;<br />     <br />     x_cubed=x*x*x;输入一个整数;/stdio;%d&quot;;<br />      answer=cube(input);<br />      return 0;%d 的立方是 %1d&quot,answer);<br />      <br />      getchar();<br />     return x_cubed#include&lt：&quot
+0
+none
+http://zhidao.baidu.com/question/245374558.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/183459348.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/373604220.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89487955.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/575028894.html?qbl=relate_question_4

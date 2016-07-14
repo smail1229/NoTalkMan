@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计 条件编译 while(1) { ch=getchar(); if(ch==EOF) break; 代表什么意思！！
+ && ch&lt;z&#39;Z&#39#include &quot.h&quot;A&#39;<br />#define LETTER 1<br />#define EOF -1<br />main()<br />{<br /> unsigned char ch;<br /> while(1)<br /> {<br />  ch=getchar();<br />  if(ch==EOF)<br />  break;=&#39;<br />  #if LETTER<br />   if(ch&gt;=&#39;)<br />   ch+=32;)<br />   ch-=32;a&#39;=&#39;<br />  #else<br />   if(ch&gt;<br />  #endif<br />  putchar(ch); && ch&lt;=&#39;stdio
+define EOF -1<br />while(1) { ch=getchar(); <br />的意思是; if(ch==EOF) break：<br />运行死循环，每个循环让ch取字符，当ch==-1时跳出循环
+6
+none
+http://zhidao.baidu.com/question/196306596.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/147017175.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/136312427362862925.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/424369053.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/326536225360902165.html?qbl=relate_question_4

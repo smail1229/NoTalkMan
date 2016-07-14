@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 表达式(3+5)!=0的值为什么是1
+none
+表达式的值会被转化为1或者0，也就是true=1或者false=0<br />所以(3+5)!=0等同于8!=0为true=1
+0
+none
+http://zhidao.baidu.com/question/2073585229184770748.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214737618.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/211335793.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/208630483.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198812025106622005.html?qbl=relate_question_4

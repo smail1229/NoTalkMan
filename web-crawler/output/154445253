@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言输入一个整数怎么分别输出它的每位上的数字
+none
+<br />void main()<br />{<br /> int a[10];;<br />  n&#47!=0)<br /> {<br />  a[i++]=n%10,a[i]),n;<br /> printf(&quot;;<br /> while(n;<br /> }<br /> for(i--;%d&quot;%d  &quot,i=0;i--)<br /> printf(&quot.h&quot：&quot;=0;);i&gt;=10;<br /> scanf(&quot,&n);请输入一个数;stdio#include &quot
+5
+<p>可以通过除法运算符( / )和求余运算符( % )结合循环来实现分别输出一个整数的每位数字。</p><p><br /></p><p>具体实现方法可以参考如下程序及注释说明：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />void&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;data;<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;temp;<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;请输入一个整数：&quot;);&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;scanf(&quot;%d&quot;,&nbsp;&amp;data);&nbsp;&nbsp;//&nbsp;接收用户输入的整数，并赋值给变量data<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%d从最低位到最高位分别为：&quot;,&nbsp;data);<br />&nbsp;&nbsp;&nbsp;&nbsp;while(data&gt;0)&nbsp;&nbsp;//&nbsp;当data=0或小于0时，退出循环，此时所以位数都已取出<br />&nbsp;&nbsp;&nbsp;&nbsp;{<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;temp&nbsp;=&nbsp;data&nbsp;%&nbsp;10;&nbsp;&nbsp;&nbsp;//&nbsp;取出data的最低位<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%d&nbsp;&quot;,&nbsp;temp);&nbsp;//&nbsp;输出最低位<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data&nbsp;/=&nbsp;10;&nbsp;&nbsp;//&nbsp;将去掉data的最低位，次低位变为最低位<br />&nbsp;&nbsp;&nbsp;&nbsp;}<br />}</pre>
+http://zhidao.baidu.com/question/50772798.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154445980.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/492276712.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/412179063.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/196623293.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中，把两个函数放在两个程序文件中,怎样作为两个文件进行编译,连接和运行
+none
+m;<br />}<br />2.cpp即可不知道你用的是什么编译器.cpp&quot.cpp中内容;2;<br />int max(int x，所以不能直接编译2,n：<br />#include&lt;<br /> b=30,n);<br />}<br />int main()<br />{<br /> int a,int y)<br />{<br /> return x&lt，可以尝试下我的做法：<br />int min(int x;,所以2:y.cpp和2。注意;n&quot.cpp中内容，编译并运行1:y：1.cpp。其实由于最终1?x,b);*采用包含命令调用2,b;y;<br /> return 0;<br />#include&quot;stdio,int y)<br />{<br /> return x&gt.cpp中的函数*&#47.exe，2.cpp<br />1;<br /> printf(&quot.cpp和2;<br />}<br />把这两个源代码放到一个文件夹下：<br />创建两个源代码文件.cpp要连接到一起形成一个可执行文件1;<br /> m=max(a;<br /> a=10;%3d%3d&#92,m.h&gt,b).cpp中没有main函数;y;&#47，如果用的是VC的话?x.cpp中也不能有main函数;<br /> n=min(a
+21
+none
+http://zhidao.baidu.com/question/13655071.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/422681365.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38461914.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/534827999.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/254988301.html?qbl=relate_question_4

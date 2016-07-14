@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程题中的++Y与y++的区别？
+none
+++y是先把y自身加上1，然后再运算含它的式子;y++是先运算式子，再把y自身加上1
+7
+<p>++y:先给y加上1，再进行其它运算。</p><p>y++:先让y进行其它运算，再给y加上1</p><p>比如下面的代码：</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />int&nbsp;main()<br />{<br />int&nbsp;av&nbsp;=&nbsp;0,&nbsp;bv&nbsp;=&nbsp;0;<br />int&nbsp;r1&nbsp;=&nbsp;++av;<br />int&nbsp;r2&nbsp;=&nbsp;bv++;<br />printf(&quot;%d\t%d\n&quot;,&nbsp;r1,&nbsp;r2);<br />return&nbsp;0;<br />}</pre><p><a href="http://h.hiphotos.baidu.com/zhidao/pic/item/0bd162d9f2d3572cceaeea778f13632763d0c3c9.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://h.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=4c62f3e5cf8065387bbfac15a7ed8d7c/0bd162d9f2d3572cceaeea778f13632763d0c3c9.jpg" esrc="http://h.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=4e52d446a444ad342eea8f83e59220c2/0bd162d9f2d3572cceaeea778f13632763d0c3c9.jpg" /></a></p><p>r1=1，是因为++av，先要增加1，再给r1赋值，所以结果是1。</p><p>r2=0，是因为bv++，先让bv赋值给r2，再给bv加1，所结果是0。</p>
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/360198334589592092.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/303385071396153564.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242547075.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/258501231.html?qbl=relate_question_4

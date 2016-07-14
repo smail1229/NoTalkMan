@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+用C语言二维数组输出如下图形！
+1  2  3  4<br />1  2  3  4<br />1  2  3  4<br />1  2  3  4
+(j+1) ); i++)<br />    {<br />        for(j = 0;根本不用二维数组<br />        }<br />        printf(&quot; j &lt，出题的人脑子有问题<br />void main()<br />{<br />    int a[4][4];%d &quot;<br />    int i,j; i &lt;;这里可以直接 printf(&quot;<br />    <br />    for(i = 0,a[i][j]);/;%d &quot; 4;); 4;j++)<br />        {<br />            a[i][j] = j + 1这个图形根本就可以不用二维数组;n&quot;<br />            printf(&quot;     /&#92
+1
+none
+http://zhidao.baidu.com/question/127472156.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/271406410.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/360252507496824412.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/109099121.html?qbl=relate_question_3

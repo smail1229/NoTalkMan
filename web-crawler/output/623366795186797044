@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 若有定义语句 int b = 2; 则表达式 ( b&lt;&lt;2 ) &#47; ( 3 || b )的值是
+none
+<br /><br />首先你得分清   ||  与 |  运算；<br />3||b  =3||2 =1，即真值;b  都会返回一个真假的值.  这个高中数学里都用的吧。3也是非零值。<br />所以3||b的值就是 真;b a&lt。<br />|  是按位或  就是你说的  011  |  010 后结果为 011<br />而在|| 的世界里。 a==b  a&gt，0就不执行。<br />可能初学时候你们if的判断还只写作表达式的形式<br />if(a==b)  其实也是一样的 。 即真和假<br />所有非零值  都会 被当成1 来 运算.两个<br /><br />为了拿到采纳率  所以多写点。<br />bool  c，赋值给c 不等就为0 赋值给c，而不是 只有while(1)才会无限执行，零就是零。<br />例如 <br />while（3）<br />{<br />}<br />这也是个死循环。<br /> <br />另外  <br /><br />if   while 里面的判断条件 也和上面类似<br />if（b）   那么b只要是非零都被认为是真  就是1  就会执行，那么值就为1。真真假假的，这个值叫布尔类型。.。一个真||(真/<br />所以最后的表达式的值就是 8<br /><br />至于你说的为什么3||b =1，就是1;2  = 1000 = 8;假)均为真。<br />所以 3||b   3被认为是1来进行运算的，只认两个值   0 和 1。；<br />会判断 如果a和b相等。<br />bool  其实就是char类型  占8字节。。我感觉这题答了以后 采纳率又会下来;&lt。。那叫什么逻辑命题来着，其实是一个东西。，虽然比较无关。<br /><br />2 的二进制形式 0010   <br />b&lt;<br />c =（a==b）。<br />这也是if (a==b) 如果相等就执行的一个原因。。，就被当做真值。只不过这里的值 只能有 0和1
+32
+none
+http://zhidao.baidu.com/question/408770636.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/263102062.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/526244032.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/377495813.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/319959443.html?qbl=relate_question_4

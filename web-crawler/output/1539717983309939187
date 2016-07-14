@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言。求大神解从键盘上任意输入n个数（以0结束），统计正负数的个数；并分别计算正数和负数的平均值。
+求好心的大神帮助啊。。。
+ count1:%f&#92:%d 正数平均值;<br />        <br />        if ( 0 == a[i] )  break; ave1 += a[j];正数;<br />    <br />    float ave1;<br />#define N 100<br /><br />int main()<br />{<br />    int a[N];%d&quot:%d 负数平均值;#include &lt;<br />        }<br />        else<br />        {<br />            count2++;;n&quot;<br />    <br />    return 0; ;<br />        }<br />    }<br />    <br />    printf(&quot;n负数;<br />    }<br />    for ( j = 0, j; ave2 += a[j];count2;<br />    <br />    for ( i = 0;count1 ), &a[i]); i, i; j &lt:%f&#92;<br />    <br />    count1= count2 = ave1 = ave2 = 0,  count2, count2, ave1&#47.h&gt;stdio, count1; j++ )<br />    {<br />        if ( a[j] &lt; i++ )<br />    {<br />        scanf(&quot, ave2/ 0 )<br />        {<br />            count1++, ave2
+6
+none
+http://zhidao.baidu.com/question/547872405.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/43734723.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/201627855.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76191283.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198810389.html?qbl=relate_question_4

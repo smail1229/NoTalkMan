@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中表达式 存在隐式类型转换 int 类型转换成 unsigned int 类型怎么帮
+例如 int类型的数据是 负数 转换成 unsigned的类型怎么办
+这个转换形式在C语言中是这样：(你所要转换的数据类型)变量 例：<br />int a=3;<br />unsigned b;<br />b=(unsigne珐浮粹簧诔毫达桐惮昆d)a;<br />当然这个变量的数据类型没变，只是临时性转换。<br /><br />就上例来说，若a=-3的话；这里牵扯二进制的原码、反码、补码，它在内存中的转换是：值以二进制的反码在内存中的储存，正数的原码、反码、补码都一样，而负数则不同，-3的原码是1000 0000 0000 0011；反码是1111 1111 1111 1100；补码是1111 1111 1111 1101；输出时也按补码，你算算补码就是结果呗！即b=65533（这是在TC2.0上的） <br /><br />原码是该数直接转换来的 反码是最高位不变其它位相反 补码是反码加1<br /><br />就这了 希望你下次问问题能给点分 不然很少人会去徒劳的！！
+21
+none
+http://zhidao.baidu.com/question/77937160.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210614321.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/414742571.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/494044403.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1110187186507295059.html?qbl=relate_question_4

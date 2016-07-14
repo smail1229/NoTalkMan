@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言动态数组长度
+none
+输入个数无限制，要求输入格式为数字在同一行，数字之间用空白分隔，数字输入完成后用回车结束输入：<br /><br />//---------------------------------------------------------------------------<br 哗盯糕故蕹嘎革霜宫睛/><br />#include &lt;stdio.h&gt;<br />#include &lt;stdlib.h&gt;<br />int main(void)<br />{<br /> int n,i,*arr=NULL;<br /> for (i=1; ; i++) {/*输入若干个整数，并存入arr动态数组*/<br />  scanf(&quot;%d&quot;,&n);<br />  arr=(int *)(arr?realloc(arr,sizeof(int)*i):malloc(sizeof(int)));<br />  arr[i-1]=n;<br />  if (getchar()==&#39;&#92;n&#39;) break;<br /> }<br /><br /> for (n=0; n&lt;i; n++) {/*输出arr数组的元素*/<br />  printf(&quot;%d&#92;t&quot;,arr[n]);<br /> }<br /> free(arr);/*释放空间*/<br /> return 0;<br />}<br />//---------------------------------------------------------------------------
+8
+1、C语言中，定义数组后可以用sizeof命令获得数组的长度（即可容纳元素个数）。但是通过传递数组名参数到子函数中，以获得数组长度是不可行的，因为在子函数当中，数组名会退化为一个指针。<br />2、例如：<br />int data[4],length;<br />length=sizeof(data)&#47;sizeof(data[0]);  &#47;&#47;数组占内存总空间除以单个元素占内存空间大小，即等于元素个数<br />printf(&quot;length of data[4]=%d&quot;, length ); &#47;&#47;输出length of data[4]=4
+http://zhidao.baidu.com/question/481190361.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/176377248.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152878756.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/238794912.html?qbl=relate_question_3

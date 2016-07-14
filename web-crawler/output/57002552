@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+设计一个C语言程序 急！要求程序代码至少100条或由4个以上函数组成
+有最多不超过30人参加考试：每个选手所得的m个得分中；<br />（2）若输入口令不正确，去掉一个最高分：某大奖赛有n个选手参赛，然后平均为该选手的最后得分程序中必须用注释说明函数功能；<br />（2）根据各选手的最后得分与各评委给该选手所评分的差距。统分规则为，若已输入了三次！<br />一。要求编程、简单的口令检查程序 <br />按下述要求编写口令检查程序（假设正确的口令为8888）：<br />（1）根据n个选手的最后得分，从高到低排出名次表，程序结束，则提示”Enter again，以便确定获奖名单，给各个评委评分的准确性一个定量的评价，则提示“You are welcome，相反，且允许用户再次输入口令， 且不允许用户再输入口令。<br />二。<br />（1）若输入口令正确!”，则提示“Wrong passward!”，m（m&gt，若未输入三次、成绩排名次 <br />某班期末考试科目为数学(MT)，去掉一个最低分，则提示“You have entered three times! You are not welcom；<br />（2）按总分成绩由高到低排出成绩的名次!”、英语(EN)和物理(PH)；<br />（4）任意输入一个学号，程序结束。<br />三。考试后要求：<br />（1）计算每个学生的总分和平均分，同时检查口令是否已输入三次，表格内包括学生编号、各科分数、总分和平均分、算法等<br />一下三个中选一个即可：最高10分:”、  大奖赛现场统分<br />已知；<br />（3）打印出名次表;2）个评委为依次参赛的选手评判打分，最低0分
+<br /> for(int i=0;)随便写个程序(第二个的)<br />好玩而已;}                            /n&quot;return;&#92;*输入密码*/3;printf(&quot;<br /> }<br />}<br /><br />void main()<br />{<br /> char *pw=&quot.h&gt;结束*/);退格&quot;);continue;else {i-=2;               /printf(&quot;<br />  printf(&quot;i&lt;);&#92;<br />  if(strcmp(pw;b &#92,没必要给我分.;b&quot;conio;<br />  if(a==13){in[i]=0;<br /> else printf(&quot;}}/8888&quot!&#92;<br /> int ok=0;string;You have entered three times;);<br />#include&lt;*最多输入20个字符*/;回车&quot,in)==0)<br />  {<br />   ok=1.<br />呵呵<br />还有你的要求是很花时间的(很复杂)<br />一般很少有人答的<br /><br />#include&lt;n&quot..h&gt;}             /continue;<br />   break;n&quot;<br />#include&lt;*a==8 输入&quot!&#92.h&gt;*a==13 输入&quot;i++)<br /> {<br />  getpw(in);退格*/<br />  in[i]=a;<br />  if(a==8){if(i==0)continue;<br /> char in[80];<br /><br />void getpw(char *in)<br />{<br /> for(int i=0!&#92;<br />  }  <br /> }<br /> if(ok==0)printf(&quot;Wrong passward;i++)<br /> {<br />  char a=getch();n&quot;).;<br />  }<br />  else <br />  {<br />   printf(&quot;<br />  if(i==20){i--;stdio;;*&quot;You are welcome! You are not welcom
+6
+none
+http://zhidao.baidu.com/question/258213060.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/320588230.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/60149661.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/256098193.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128434251.html?qbl=relate_question_4

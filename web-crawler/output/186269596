@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，求3个数，得到的结果是 ，max=25567
+#供俯垛谎艹荷讹捅番拉include &lt;stdio.h&gt;<br />main() {int a,b,c,max; <br />printf(&quot;input three numbers:&#92;n&quot;); <br />scanf(&quot;%d,%d,%d&quot;,&a,&b,&c); <br />max=a;<br /> if(max&lt;b)max=b; <br /> if(max&lt;c)max=c; <br />printf(&quot;max=%d&quot;,max); <br />}
+你好！！！！<br />是不是输出的结果不是预想的那样。<br />原因可能是输入数据的时候中间有逗号即：<br />input three numbers:<br />6,1,10<br />max=10Press any key t供俯垛谎艹荷讹捅番拉o continue
+0
+none
+http://zhidao.baidu.com/question/543271380.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226123102.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/448088272.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/82012395.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/57220724.html?qbl=relate_question_4

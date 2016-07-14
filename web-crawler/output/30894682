@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的for的花括号!
+for(i=0;=3;max)<br />     {max=a[i][j];<br />      colum=j;j++)<br />  if(a[i][j]&gt;i&lt;j&lt;i++)<br /> for(j=0;<br />     }<br />我要问的是什么时候for语句中才加花括号?;<br />      row=i? 什么时候不加;=2
+不然只会把第一句当作执行部分而已，但是我认为最好养成加的习惯，第二个for的执行部分是if语句。<br /><br />虽然单语句加不加都无所谓。<br /><br />执行部分是多语句的话就要加，呵呵~~~~<br /><br />这里for的执行部分都是单语句我怎么好象回答过一次了呢。第一个for执行部分是下一个for，这样就比较容易辨认，所以它们都没加
+8
+none
+http://zhidao.baidu.com/question/576579789.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/47115241.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/62740932.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123884350.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/303894818934770004.html?qbl=relate_question_4

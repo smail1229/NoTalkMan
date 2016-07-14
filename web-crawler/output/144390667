@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程求鞍点（数组中在行上既是最大的，在其列上也是最小值的元素）
+j&lt：&quot，运行不出来;<br />andian(a);i++)<br />{a=i;N;;<br />printf(&quot;b[i][j])max=b[i][j];j++)<br />if(max&lt;N，请高手指教<br /><br />#include&quot,i,j;i&lt.h&quot：&quot;N,i=0;<br /><br />}<br />void andian(int b[N][N])<br />{int i;没有鞍点&quot;N;stdio;<br />f++;<br />i=a;N,max;b[i][j])min=b[i][j];);i&lt;<br /><br />for(max=b[a][0];<br />#define N 3<br />void andian(int b[N][N]);<br />void main()<br />{int a[N][N];i++)<br />if(min&gt;%d&quot;<br />for(i=0;N,min;j++)<br />{for(min=b[0][0],a;<br />}<br />}<br />}<br />if(f==0)printf(&quot,j;<br />for(j=0;);;<br />for(i=0;请输入数组值;j&lt;i&lt,f=0;鞍点为%d;j++)<br />scanf(&quot;<br />if(b[i][j]==max&&b[i][j]==min)<br />{printf(&quot;i++)<br />for(j=0我自己写的程序;j&lt,j=0，不知道哪有错,b[i][j]),a[i][j])
+<br /> for (i = 0;<br />   i = a;); j &lt; N; j++)<br />   if (max &lt; i++)<br />    if (min &gt, min;<br />    f++; j &lt;<br /><br />  for (max = b[a][0];<br />   }<br />  }<br /> }<br /> if (f == 0)<br />  printf(&quot; j &lt;); N,i = 0; N; j++)<br />   scanf(&quot;请输入数组值; i &lt, j.h&quot, i; b[i][j])<br />    max = b[i][j];没有鞍点&quot;;<br />}<br />void andian(int b[N][N])<br />{<br /> int i;<br /> andian(a);<br />void main()<br />{<br /> int a[N][N]; i++)<br /> {<br />  a = i;; i++)<br />  for (j = 0, b[i][j]);<br /> for (i = 0;鞍点为%d, &a[i][j]), max; N, f = 0;<br />#define N 3<br />void andian(int b[N][N]); N;<br />   if (b[i][j] == max && b[i][j] == min)<br />   {<br />    printf(&quot：&quot：&quot; i &lt, j; b[i][j])<br />     min = b[i][j]; N;<br /> printf(&quot;<br />  for (j = 0, a; i &lt; j++)<br />  {<br />   for (min = b[0][j];%d&quot,j = 0#include&quot;stdio
+3
+none
+http://zhidao.baidu.com/question/192116366.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/324333110.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152556334.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/254156909.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/455830926.html?qbl=relate_question_4

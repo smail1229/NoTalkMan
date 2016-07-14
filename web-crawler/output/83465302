@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中while和do—while的区别?就是前者是在循环体的前面？
+none
+<br />do { 循环体 } while(条件)。<br /><br />while语句的格式，不可少的while 是先判断后执行;<br /><br />注意do-while语句最后面的分号哦。<br />do-while 是先执行后判断：<br />while(条件)<br />{ 循环体 }<br /><br />do-while语句的格式，无论如何至少执行一次，则一次都不执行，如果第一次判断条件就为假
+1
+none
+http://zhidao.baidu.com/question/251792220.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/345849508.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/412356830.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/105358949.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/267772946.html?qbl=relate_question_4

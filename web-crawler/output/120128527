@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中,color[n] = (char *)malloc(sizeof(char)*(strlen(str)+1))是什么意思
+none
+ str);/同上;, str)，但是注意*color[20]定义的是指针数组, str[10];则表示输入结束, str);&#47，最后打出输入的字符串;%s  &quot;输入<br />    while(str[0] , n = 0;<br />       }<br /><br />    for(i = 0;&#47。<br /><br />    scanf(&quot;&#92;&#47.，每个字符串长度小于10如果输入&quot;/&#47!= &#39;创建一个长度为strlen(str)+1的一个数组（或者说是栈）数组第一个元素的地址给了color[n]具体元素可以用color[n][0].;); / i++)<br />        printf(&quot;20个字符串, *temp;,color[n][1];<br />} <br /><br />这个程序实现的功能是输入n&lt;) <br />       {<br />        color[n] = (char *)malloc(sizeof(char)*(strlen(str)+1));/不说了;#&#39; n;<br /> return 0;<br />        scanf(&quot;%s&quot;打出color[n]数组共n个<br />    printf(&quot，定义<br />    char *color[20];n&quot.来表示<br />        strcpy(color[n];&#47, color[i]);/,j;%s&quot;#&quot;把字符串str[20]里的元素复制到刚才创建的数组里<br />     n++;/&#47，也就是说color[n]里面装的是指针void main()<br />{<br />    int i; i &lt
+18
+<p>&nbsp;&nbsp;&nbsp;&nbsp;malloc函数用于向操作系统申请内存，声明在stdlib.h中，原型如下：<br /></p><pre t="code" l="cpp">void&nbsp;*malloc(unsigned&nbsp;int&nbsp;num_bytes);</pre><p>&nbsp;&nbsp;&nbsp;&nbsp;malloc申请num_bytes指定大小的内存，成功则返回指向这块内存的指针，失败则返回NULL。<br /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;这条语句含义就是申请内存，并将指针转换为char *类型赋值给color[n]，申请的大小为sizeof(char) * (strlen(str) + 1)。<br /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;sizeof(char)就是一个char类型占用的空间大小，strlen(str)为字符串str的长度，因为字符串最后还有个&#39;\0&#39;表示字符串结尾，所以这一块就表示str字符串占用的内存空间的总大小。</p>
+http://zhidao.baidu.com/question/374209205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/55009620.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/162325429.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183761855.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/519878317411109085.html?qbl=relate_question_4

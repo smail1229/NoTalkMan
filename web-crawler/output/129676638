@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+怎么写c语言的.h头文件
+none
+fail
+0
+写H头文件的，有一些编译预处理指令，是编译器用的。比如：#if  #???开头的都是。我不记得了。<br /><br />大致这样：<br />&#47;*   ______inc.lib文件放源码函数编译成LIB文件放到LIB文件夹——*&#47;<br />mathf(int x,int y)<br />{<br />函数体；<br />}<br /><br />&#47;*  _inc.h文件放原型，记事本另存后改后缀成.h放到include文件夹——*&#47;<br /><br />mathf(int x,int y);<br /><br />&#47;*------编译成xx.exe----------*&#47;<br />#include&lt;inc.h&gt;<br />mian()<br />{<br />mathf(int x,int y);  &#47;*调用它OK*&#47;<br />}
+http://zhidao.baidu.com/question/84507749.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/80068773.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/422958581.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/176084210.html?qbl=relate_question_3

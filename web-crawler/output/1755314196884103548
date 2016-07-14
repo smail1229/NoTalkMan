@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，3&&6 是什么意思？急！
+none
+<br />&&是逻辑运算符，在C语言里面，所以结果是真，只有0转换为逻辑是假，其它整数都是真是逻辑真，会把两边值转换为逻辑值
+1
+none
+http://zhidao.baidu.com/question/751840091654948964.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1111115542627830219.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/197668437.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/208838006.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/577033974.html?qbl=relate_question_4

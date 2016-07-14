@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，用scanf时里面可以用换行符&#92;n吗，比如scanf（“%d %d&#92;n”，&x,&y）这样
+n”C语言，&x;n吗，比如scanf（“%d  %d&#92，用scanf时里面可以用换行符&#92
+scanf输入语句，就算写了换行符&#92;n也没用。不能换行
+4
+none
+http://zhidao.baidu.com/question/145325291.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/232796019.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/330854959.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/461390082.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/179564416.html?qbl=relate_question_4

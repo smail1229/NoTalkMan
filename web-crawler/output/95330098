@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程题，定义函数int f（int m，int n）求m的n次方。要求用函数递归调用的方法。
+大哥啊  哗碃糕度蕹道革权宫护明天要 教了 在线等答案   <br />最好每个 步骤配说明  我们要 自己讲解<br />回答后再加分
+float f(int m,int n) <br />{ <br />float count; //count用来记录每一步的结果,以至最终结果.<br /哗碃糕度蕹道革权宫护>if(n&gt;1) count=f(m,n-1)*m; //一步一步的把m乘上去;每乘一步都n-1.直到n值为1时为止<br />if(n==1) count=m; //如果初始时n值为1,直接输出m值<br />return count; <br />}
+8
+none
+http://zhidao.baidu.com/question/52979717.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/77497148.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1893864241589667500.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/16075531.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/52949626.html?qbl=relate_question_4

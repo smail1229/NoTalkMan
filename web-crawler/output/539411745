@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 简单的练习题
+;;&#92;begin++) continue!= &#39; p++)<br />*p = *(p + begin);<br />for(begin=0;&#92;<br />*(p+end) = &#39;;&#92; 什么意思; isspace( *(p+begin) ) ，其中不包含空格;<br />for(;<br />for(end=begin;;end++) continue,i = 0;0&#39？*(p+end) = &#39，制表符和换行符; *(p + begin) ;这句加上了不是不会继续输出了吗;<br />}<br />读取输入行里的第一个单词到数组，为什么去掉了还会输出;0&#39!isspace( *(p+end) ) ;0&#39;<br />*p = &#39;0&#39;&#92;，单词是一串字符;0&#39;&#92，并丢掉该行中的其他的字符,end。<br />最后一行*p = &#39; void word(char *p)<br />{<br />int begin
+的时候,p一旦移位;0&#39,举例说明;&#92;<br />1,否则src就是&quot;        flyhorse&quot,执行到*(p+end)=&#39;<br />(p指针的重定位操作就在p++;0&#39;<br />2:<br />源字符串src为&quot;;        flyhorse loves 小梅&quot,执行了最后的*p=&#39,src就是&quot;flyhorse        &quot;flyhorse&quot;了;&#92;;了,src就是&quot重新移动了字符串结束的位置而已
+0
+none
+http://zhidao.baidu.com/question/62256362.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/137315230.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/144695981.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/195152648.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/58096735.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 参数传递(x,y传的是地址啊，为什么a，b的值没有交换啊！)
+<br />printf(&quot.h&quot,int*b)<br />{int *k;stdio,b=2;<br />fun(x,y),a;<br />void fun(int*a,*x=&a;b=k<br />}<br />main()<br />{inta=1;;<br />k=a;a=b,b),*y=&b;%d%d&quot#include&quot
+b=2;%d%d&quot;<br />   *x=&a;<br />   *y=&b;<br />   k=*a,y);*a=*b;<br />void fun(int* a,a;*b=k应该这样写,int* b)<br />{<br />   int k：<br />#include&lt;stdio;.h&gt;<br />   printf(&quot,b);<br />}<br />main()<br />{<br />   int a=1;<br />   fun(x
+2
+none
+http://zhidao.baidu.com/question/155730040.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/26035623.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/22935288.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/313053404.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1754448990478306908.html?qbl=relate_question_4

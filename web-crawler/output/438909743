@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于格式转换的小问题
+能给我详细分析一下吗;<br />}<br />答案是;<br />printf(&quot？谢谢：-1<br />我想知道这个是怎么做出来的,x);%d&#92;;n&quot？<br />void main()<br />{<br />char x=0xddff下面程序执行后的输出结果是
+因此当你将x作为整形量输出时，这是整数-1的补码，写成二进制数即是11111111 （高位字节dd被截断），所以在执行赋值语句 x=0xddff，只将低字节 0xff 赋值给x；时，长度为一个字节因为x是char类型的变量
+1
+none
+http://zhidao.baidu.com/question/193132158.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1667670537388229027.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/189511147.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/871805952220885612.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/201007237.html?qbl=relate_question_4

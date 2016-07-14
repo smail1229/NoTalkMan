@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言strlen函数问题
+none
+fail
+28
+strlen实际上是，从参数表示的地址往后找，找到第一个&#39;&#92;0&#39;，即串尾。然后计算&#39;&#92;0&#39;至首地址的“距离”，即隔了几个字符，从而得出长度。<br />char x[]={0xBC,0xDD,0xCA};中，实际上是定义了一个char型的数组，而由于x[0]，即0xBC开始往后找，一直到0xCA，都没&#39;&#92;0&#39;，所以会继续往后。。。当然，实际上往后找到的是其他值。。。<br />改char x[]={0xBC,0xDD,0xCA,0x00};后，应该就是3了。。。
+http://zhidao.baidu.com/question/137609299.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/133111883.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161867896.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/72474080.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/77241832.html?qbl=relate_question_4

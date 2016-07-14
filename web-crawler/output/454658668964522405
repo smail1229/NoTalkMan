@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+PIC单片机中断函数写法(C语言)
+请问用C语言在 MPLABx IDE中编写中断函数时的那些名称在哪里找，比如void __attribute__ ((interrupt, no_auto_psv)) _U2RXInterrupt(void)中的_U2RXInterrupt是在哪里找到的？
+fail
+2
+none
+http://zhidao.baidu.com/question/84216001.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/569758536.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/94057107.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/201243101.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/382921498.html?qbl=relate_question_4

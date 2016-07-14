@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言初始化中，char test[10] = {&#39;0&#39;}和char test[10] = {0}的不同之处？
+求解，char test[10] = {&#39我觉得test为char类型;0&#39;}的定义应该是正确的，可为什么char test[10] = {0}也是对的！谢谢
+ASCII码为0;0&#39;0&#39：test[0]=&#39两种方式的区别仅在于字符数组的第一个元素值不同，ASCII码为0;。第一种方式;&#92;；第一种方式，ASCII码为48;&#92。<br />两种方式的其他元素值都为&#39：test[0]=&#39;0&#39;
+3
+none
+http://zhidao.baidu.com/question/60890930.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/464159800.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/269308817.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2053376559919791667.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/256387528.html?qbl=relate_question_4

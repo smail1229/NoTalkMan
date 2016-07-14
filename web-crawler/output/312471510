@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言数据类型转换
+none
+fail
+3
+C语言类型转换分级别，一般多是：<br />默认状态：低级向高级转换，级别高低（小到大）：int，float,double,(注意char只可以和int之间转换）；<br />若要高级向低级转换:就要用到强制类型转换符！如int（7.7)=7;
+http://zhidao.baidu.com/question/189511147.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91369490.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/34062597.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/463523962.html?qbl=relate_question_3

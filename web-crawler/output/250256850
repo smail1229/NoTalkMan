@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言选择结构新手问题在线等
+<br />如果是那么x的值就是0喽<br />怎么会输出++++++++的呢;);<br />x=y+z是把0的值赋给x吧,z=0;);<br />if(x=y+z)<br />printf(&quot;<br />else<br />printf(&quot;+++++++++&quot;------------&quotint x=3,y=0
+所以执行，成立则执行语句if(表达式)<br />语句<br /><br />if语句当中，永远成立，小括号里的语句是判断表达式是否成立。<br />x=y+z是把0的值赋给x<br />是赋值表达式，返回真值
+1
+none
+http://zhidao.baidu.com/question/238607767.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519016599.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237510277.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/126646458.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/174734161.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+c语言 编写一个判断是否为水仙花数的函数，并通过调用该函数打印输出所有水仙花数。
+none
+++j) {<br />s[j]=n/;j=%ld，a=%ld &#92,q;%ld&quot;<br />}else {<br />printf(&quot,a=%ld&#92;stdio,j;10 ;<br />a=a*10;<br />printf(&quot;<br />}<br />for (j=1;<br />scanf(&quot;<br />printf(&quot.h&gt;<br />}printf(&quot;%ld 为水仙花数&quot;=i ,p;;<br />}<br />return 0;,a);<br />#include&lt,j;水仙花数&quot;c&gt;实现代码;<br />for (j=1;p=%ld？  百度百科上有的<br />C 语言的&quot,i;<br />n=n-s[j]*(a&#47,s[30];n&quot,q).h&gt;<br />q=n;=10 ,i),a;j&lt;10);10);<br />p=0,i=%ld&#92;++i) {<br />c=n/%ld 该数不是水仙花数&quot,q);i=%ld,a);<br />}<br />if (p==q) {<br />printf(&quot：　　#include &lt;<br />int main (void) {<br />long n,&n);<br />a=10;;a;math,i;,p;a&gt;<br />long c;<br />a=a/n&quot;;n&quot,i)你是要这个吗;10;j++) {<br />p+=pow(s[j];<br />for (i=1;(a&#47
+4
+<p>水仙花数即三位的自幂数。所谓自幂数，就是指一个 n 位数 ( n≥3 )，其每位上的数字的 n 次幂之和等于本身。</p><p>所以水仙花数，首先是三位数，形式为abc，同时a,b,c的立方和值与原本数相同。</p><p>类似的还有</p><p>四位自幂数：四叶玫瑰数</p><p>五位自幂数：五角星数</p><p>六位自幂数：六合数</p><p>等等。</p><p><br /></p><p>对于水仙花数的判断，需要按照以下步骤：</p><p>1 提取该数的个位，十位，百位值。</p><p>2 计算三个数的立方和。</p><p>3 与原值比较，如相等则是。</p><p><br /></p><p>要输出所有水仙花数，需要：</p><p>1 对所有三位数，即100到999遍历；</p><p>2 对每个数判断是否为水仙花数，如是则退出。</p><p>当循环结束，所有的水仙花数就输出成功了。</p><p>代码如下：</p><pre t="code" l="cpp">int&nbsp;isNarcissistic(int&nbsp;n)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;a&nbsp;=&nbsp;n/100;<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;b&nbsp;=&nbsp;n/10%10;<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;c&nbsp;=&nbsp;n%10;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;a*a*a&nbsp;+&nbsp;b*b*b&nbsp;+&nbsp;c*c*c&nbsp;==&nbsp;n;<br />}<br /><br />int&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;i;<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i&nbsp;=&nbsp;100;&nbsp;i&lt;&nbsp;1000;&nbsp;i&nbsp;++)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if(isNarcissistic(i))&nbsp;printf(&quot;%d&nbsp;&quot;,i);<br />}</pre><p><br /></p><p>输出结果如下：</p><pre t="code" l="bash">153&nbsp;370&nbsp;371&nbsp;407</pre>
+http://zhidao.baidu.com/question/356804568.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206104511.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/285384022.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1830675091019867940.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/548524427.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请高手们帮忙看看这个c语言程序。为什么输出的值都很奇怪？
+aver).2f&#92,j;n%5;<br />main()<br />{<br /> double a[10];%d&quot;10;%5,&a[i]).2d&#92:&quot;;n&quot;i&lt;<br />printf(&quot;<br />    sum=sum+a[i];10;);<br /> int j;j;<br />}<br />aver=sum&#47,sum=0;0)<br />{<br /> j++#include&lt,i=0;;i++)<br />scanf(&quot;i&lt;<br />printf(&quot;<br />for(i=0;请输入10个数;<br />for(i=0.h&gt;<br />return 0;<br />}<br />我希望它计算10个值中正数的平均值和记录正数的个数<br />只要在这个基础上改进就好了,aver;i++)    <br />if(a[i]&gt;stdio
+i&lt;n%5,&a[i]);,i=0,aver;%5d&#92;<br />printf(&quot;i++)<br />scanf(&quot;j;<br />int j=;<br />for(i=0;<br />}<br />aver=sum//); /stdio;j要有初值0<br />printf(&quot;0)<br />{<br />j++;i++)<br />if(a[i]&gt;请输入10个数;10;double对应%lf float对应%f  整数不需要加5;a数组是double类型.2吧<br />return 0:&quot; /%lf&quot;n&quot;i&lt;;10;<br />main()<br />{<br />double a[10].h&gt，看注释<br />#include&lt.2lf&#92;&#47,j,aver);&#47,sum=0，参数格式应该是%lf<br />for(i=0;<br />sum=sum+a[i]改好了;&#47
+0
+none
+http://zhidao.baidu.com/question/1754185673845834028.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/465100349.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/243843379.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/646414958244010245.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/218351484.html?qbl=relate_question_4

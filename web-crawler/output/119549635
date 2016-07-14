@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中float型数据怎么 取整数部分算法 或取小数部分
+none
+    <br />float y=n-(float)x;   <br />int x=(int)n.223float n=12
+23
+一种简单的办法是直接强制转换到int型就是整数部分。<br />减去这个int型就是小数部分了。
+http://zhidao.baidu.com/question/326549998229776485.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/243909925.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1573659271336990740.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1818299832316592188.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488252215.html?qbl=relate_question_4

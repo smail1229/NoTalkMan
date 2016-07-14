@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题在自定义函数里调用main函数后如何让程序流停止,void exit(int retval)该如何使用 请高手指点
+C语言问题在自定义函数里调用main函数后如何让程序流停止,void exit(int retval)该如何使用 请高手指点
+直接exit(0);就行了 retval是程序退出的返回值 0表示程序是正常结束的
+3
+none
+http://zhidao.baidu.com/question/32116531.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139175990.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1701944665623767700.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/316360707.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/480611154.html?qbl=relate_question_4

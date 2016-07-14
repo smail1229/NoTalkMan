@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+执行C语言程序段“struct s{ long a;char b;};printf(&quot;%d&quot;,sizeof(struct s));” 输出的结果是什么?说明
+none
+fail
+4
+sizeof(type)用于返回指定类型所占内存空间。<br />比如说，一般的机器上都是：<br />sizeof(char)返回1，即char类型占1字节，<br />sizeof(long)返回4，即long类型占8字节，<br />对于自定义的数据类型struct s{ long a;char b;};，返回的就是该结构体内所有基本数据类型所占字节数的总和，所以sizeof(struct s)应该返回sizeof(long)+sizeof(char)=4+1=5字节。考虑到现在机器对于数据存储一般都要求按边界对齐（这样可以减少读取次数），如果按字对齐的话，那sizeof(struct s)也有可能返回6。LZ你写个测试程序自己测试吧。
+http://zhidao.baidu.com/question/318878834.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/452057484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/485957482.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/318974459.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/487880937.html?qbl=relate_question_4

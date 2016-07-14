@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+define在C语言是什么意思,有什么作用
+none
+fail
+1
+define在C语言中是一个宏定义的关键字，它的用法如下：<br />#define  常量名  值     该句使用在程序开头，整个程序中该常量在预编译的时候用后面的值作简单替换。<br />例如：在程序开始有这么一句 #define  PRICE  30<br />在整个程序中，PRICE的值都是30.
+http://zhidao.baidu.com/question/161356351.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/432508266.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/72497551.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言return 1和return 0有什么区别
+完全搞不懂，他们有什么区别和用处，问老师居然老师也不知道
+是否出现了被零除return跟函数的返回值、内存分配失败、I/O错误等异常情况，那么最终把这个值返回给操作系统了，如果自己写的一个小程序直接运行。<br />如果在命令行里调用程序，可以根据返回值来确定程序是否运行正常，然后被操作系统忽略掉，那么是有办法检测返回值的。<br />主函数的返回值是要传给调用主函数的程序的
+47
+none
+http://zhidao.baidu.com/question/180959464.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118226095.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/40060995.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/522946063.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/513197216.html?qbl=relate_question_4

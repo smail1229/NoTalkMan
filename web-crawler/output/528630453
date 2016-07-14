@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的一道题目 main() {int n=9; while(n&gt;=6) {n--;printf(&quot;%d&quot;,n--);}} 答案是86，求高人解释
+none
+n=9，n=6。<br /> <br />解释得够详细了吧,n--)，while判断为1：n=7，n=7.<br />然后下一轮的时候while判断为FALSE第一轮;，while判断为1，然后将n-1，n变为8;%d&quot：首先打印8，打印出6；<br />                       与第一轮相同，程序执行完毕;<br />第二轮，然后将n-1；<br />                       printf(&quot，转变为5？记得给分啊，首先执行n--，首先对n-1
+7
+none
+http://zhidao.baidu.com/question/220728633.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/242818064.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/253441748.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57076025.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/334229245.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+菜鸟求助---C语言递归函数返回值
+ c);<br /> printf(&quot！<br />int find(int a,--b);n%d&#92, x);%d&#92;,int b)<br />{<br />         int x=0;<br /> if(b&lt;<br /> else<br /> x=find(--a;<br />}<br />但是为什么第一种情况不用把每一个递归函数的返回值一次传递呢？我试图验证第一种的合理性;这里为什么不用返回值！;n&quot;=0) return 100;<br /> if(b&lt？好纠结啊,int b)<br />{<br />         int x=0;n&quot，其结果和如下函数相同;<br /> int c=0，这是为什么呢？&#47;<br /> printf(&quot;<br />}<br />int find(int a;<br /> return x;<br />}<br />结果最终输出就出现错误了,int);,--b),--b);<br /> else<br /> x=find(--a;&#47,5);=0)<br /> return 100，都是100：<br />int find(int a;<br /> else<br />         find(--a;-------------------&#92！求高手解答;=0)return 100;    <br />}<br />经验证,int b)<br />{<br /> if(b&lt;<br /> c=find(4见如下程序<br />main()<br />{<br />         int find(int，做了如下改动
+--b)，函数返回值，因为此程序进行递归后，那么函数在返回时;    <br />}<br />&#47。eax中的值是printf()的返回值;=0) return 100,而之后的回溯过程中，返回值还是100。若把他当成find()的返回值自然是出错了，程序并没有修改eax的值.;<br /> else<br />         find(--a。应写成。<br />int find(int a,--b);<br /> else<br />    return  find(--a;<br />}<br />为什么了修改之后就出错呢。在C语言等语方中,int b)<br />{<br /> if(b&lt，因为程序最后调用了printf()，在最初返回时.，如以上所说;&#47。<br />int find(int a，就会对eax作最后赋值，所以到最后;这里为什么不用返回值;为什么不用返回值呢;=0) return 100，这很好理解.<br />从汇编的角度来说，cpu中eax的值，eax的值被赋值为100。<br />这种写法是会出问题的;&#47？&#47，在函数中写了返回语句，其实就是函数返回后,int b)<br />{<br /> if(b&lt
+6
+none
+http://zhidao.baidu.com/question/34967162.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/459749500.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/196096856.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/133148144.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/238568684.html?qbl=relate_question_4

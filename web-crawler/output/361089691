@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，利用递归调用，编程输出斐波那契数列 ，这个怎么编啊，求指教啊
+none
+#include&lt;stdio.h&gt; <br />long fun(int i)//递归函数<br />{<br />     if(i==1||i==2)//递归终止条件<br />         return 1;<br />     else//递归通式<br />          return(fun(i-1)+f穿供扁佳壮簧憋伪铂镰un(i-2));<br />}<br />int main() <br />{ <br />     int n;<br />     printf(&quot;请输入项数:&quot;);<br />     scanf(&quot;%d&quot;,&n);<br />     printf(&quot;&#92;n斐波那契数列前%d项为:&#92;n&quot;,n);<br />     for(int i=1;i&lt;=n;i++)<br />     {<br />          printf(&quot;%ld&#92;t&quot;,fun(i));//调用函数<br />          if(i%5==0)//每输出5项换行<br />	printf(&quot;&#92;n&quot;);<br />     }<br />     return 0; <br />}
+7
+none
+http://zhidao.baidu.com/question/507873188.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/98434328.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2073910649598230948.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/745019335729917492.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241497724497742404.html?qbl=relate_question_4

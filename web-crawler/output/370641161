@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中：int i=0;执行语句while(i++&lt;4)后;i的值是5而不是4，为什么？
+h&gt,i);<br />    return 0;<br /><br />    while(i++&lt;<br />#include &lt;4)<br />    {<br />        }<br />printf(&quot;stdlib;n&quot;;<br /><br />int main()<br />{   int i=0;%d&#92.h&gt;stdio#include &lt
+自增总是在判断之后做了，继续做了最后一个i自增，再i自增，所以当i值为4条件不现满足时,无论条件是否成立先取i值判断，于是i 在循环体之外时是5了
+10
+none
+http://zhidao.baidu.com/question/370802681.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/474430923.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/391062042.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/435068773.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1797735228819632467.html?qbl=relate_question_4

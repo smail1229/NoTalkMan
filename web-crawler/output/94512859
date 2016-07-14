@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中x+y==z与z==x+y的区别
+none
+<br />2，z=3.x+y==z<br />（1+2）==3<br /> 3 ==3<br />值为真（1）；<br />所以运算步骤<br />1，y=2+优先级比==高<br />所以都是先算x+y<br />表达式的值相同<br />设x=1
+1
+none
+http://zhidao.baidu.com/question/34699283.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/43684712.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/872172246226522172.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/61253307.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/562722032.html?qbl=relate_question_4

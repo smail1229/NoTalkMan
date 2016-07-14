@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 一个简单的数据类型问题
+假如说程序输入了一个字符型数据类型的数字，那么怎么将其数据类型转换为整数型？
+减48就可以，因为你输入的数据是ansic码形式，而数字的ansic码对应的0-9为48-57的数值。
+1
+none
+http://zhidao.baidu.com/question/57487991.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/52693310.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239837440.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/54836604.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/477915703.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中函数int *compare()中的*号是什么意思有什么作用？
+none
+fail
+0
+int 表示整型<br />*表示compare()函数的返回值是一个指向整型数据的指针<br />也就是存放一个整数的地址
+http://zhidao.baidu.com/question/2115657915423899707.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192569555.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91632200.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/211659374.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/464187945.html?qbl=relate_question_4

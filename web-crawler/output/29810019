@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言里 a[b[c]]++; 是什么意思
+none
+那么这个也是一个int类型的值;<br />   int b[];<br />a[b[c]]++;<br />int a[]假设 int c =0，那么它是是个int类型的值.你明白了吗; 程序这样处理 ，然后这个数字+1。<br /> a[]数组的第b[i]个元素的值是a[b[i]],假如c是int整数 b[]数组的第i个元素的值是 b[i] 
+0
+none
+http://zhidao.baidu.com/question/1957854919118059340.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241454508.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210463507.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1731826197216104707.html?qbl=relate_question_3

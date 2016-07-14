@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，temp=*a,*a=*b,*b=temp; 和temp=*a；*a=*b；*b=temp;的区别
+none
+不然编译是会报错，作用没有分别，第一个必须写在一行，但写法不一样是一个用逗号隔开一个用分号隔开
+1
+none
+http://zhidao.baidu.com/question/241443677.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/342912262.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/134403468326385885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/450553784.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/19234797.html?qbl=relate_question_4

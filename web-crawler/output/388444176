@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目：若变量已正确定义并赋值，为什么“a=a+7=c+b”不符合C语言语法的表达式？
+none
+不能有常量。<br />等号左边只能是变量a+7=c+b是错的。例如：7=b
+8
+none
+http://zhidao.baidu.com/question/103878080.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/313533697.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1304266731886971619.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/396008875.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/57842692.html?qbl=relate_question_4

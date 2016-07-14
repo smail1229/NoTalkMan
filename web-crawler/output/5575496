@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中return 0;和return(0); 有什么区别？
+none
+在C语言中，return函数有两种原型<br />1、return 1;<br />2、return (1)<br />这两种原型是等价的。<供伐垛和艹古讹汰番咯br /><br />关于return的几句话是：<br /><br />1、有些函数确实可以不需要return，自然结束即可，如上面的OutputSomething();<br /><br />2、有些人习惯为return的返回值加一对(),如： return (a); 这样写和 return a;完全一样。当然，在某些特殊的情况下，一对()是必要的。<br /><br />3、一个函数是void类型时，return不能接返回，这时return仅起结束函数的作用。<br /><br />4、记得return 接的是一个表达式，可以是一个立即数，一个变量，一个计算式，前面我们就看到 return a+b;的例子。 return 甚至也可以接一个函数。
+56
+none
+http://zhidao.baidu.com/question/4392776.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/554682327.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/180959464.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40060995.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356882968.html?qbl=relate_question_4

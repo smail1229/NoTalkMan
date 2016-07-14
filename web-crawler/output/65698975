@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：以下程序中函数sort的功能是对a数组中的数据进行由大到小的排序
+none
+fail
+1
+sort(&aa[3],5);<br />表示从aa[3]这个元素往后5个元素进行排序，也就是4,5,6,7,8这几个数进行排序，其余元素不变。<br /><br />其实，从函数的定义也能看出来，void sort(int a[],int n)，其中int a[]是表示开始排序的首地址，int n表示参与排序元素的个数，如果这样调用sort（aa，10）那就是对整个数组进行排序，因为aa（数组名）表示数组的首地址，当然&aa[3]也是同理的了。。
+http://zhidao.baidu.com/question/154091496.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/79838682.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/226793778.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90338556.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/275743588.html?qbl=relate_question_4

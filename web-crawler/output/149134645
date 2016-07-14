@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int i 的i代表了什么
+C语言 int i 的i代表了什么 为什么是int i 而不是 int a  int b<br />高手请教 新手不要乱回答 i绝对不是int 的缩写 也不是习惯 一定有他的起因
+有实际意义的变量名在编写程序的过程中是非常重要的<br />所以，应该有很多习惯与英语有关，<br />英语中iteration这个词代表“迭代，从有C的时候就开始用，计算机中的循环语句翻译成英文多是iteration（或者是loop）从来没有过circle我也不太清除<br />但是，变量的命名确实不是随意的，但是此循环不同于iteration，英语中circle也是循环的意思，但是，重复”<br />i应该是这个词的缩写，循环 <br /><br />虽然不全是单词缩写，因为int i大多是用于迭代，应该是iteration的缩写，C是贝尔实验室的某两个人发明的，循环，这个i的使用应该延续了三四十年了，虽然没有确凿的证据表明i是iteration的缩写（不太可能找到确凿证据，没多少人关心i代表什么）<br />但是从i多用于迭代来看
+12
+none
+http://zhidao.baidu.com/question/3072667.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5684442.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/410609705.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/170298218.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/193057839.html?qbl=relate_question_4

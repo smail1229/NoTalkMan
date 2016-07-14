@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言int sum(int a,int b)里面的两个int是什么意思
+none
+整型，就是说里面两个都是整型变量
+6
+int sum(int a, int b)是函数首部。<br />第一个int是函数的类型（即返回值的类型）；<br />第二个和第三个int是形参变量a和形参变量b的数据类型（即变量a和变量b的类型为int型）。
+http://zhidao.baidu.com/question/490183959.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/205594647.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/318829231.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/64854057.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/148376806.html?qbl=relate_question_4

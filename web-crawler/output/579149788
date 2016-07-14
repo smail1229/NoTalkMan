@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言宏定义问题在线等求高手解答！
+b)           s=j[B],q# define         Q(B;H=s;printf(q;*s=e;<br />求高手，这句话是什么意思, b;*s=0, b), b;e=*s
+也就是说对于机器来说这并不是函数你可以把它理解为一个函数；普通的函数在编译时不做任何替换，与函数不同的是宏函数在编译过程中在“调用”处会被直接展开为“函数”的定义，所以函数调用友额外的开销，由于要借助栈上的操作，只有运行到调用处是才会进行相关的调用动作
+0
+none
+http://zhidao.baidu.com/question/96744677.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/106269807.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/533748536.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/133232993.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134923608.html?qbl=relate_question_4

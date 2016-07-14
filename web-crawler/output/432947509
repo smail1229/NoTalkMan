@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请c语言高手看下这个代码错误，题目：输入实数x和正整数n，计算x的n次方，不允许调用pow（）函数求幂
+%d)=%f&#92;%f%d&quot;n&quot;<br /> return 0;stdio;<br /> <br /> printf(&quot;<br /> <br /> printf(&quot;enter x;),pow);<br /> scanf(&quot;i++);=n,n,&n);<br /> <br /> for(i=1;<br /> pow=pow*x,x;,n:&#92;n&quot;<br /> float x;pow(%f;<br />int main(void)<br />{<br /> int i;i&lt#include &lt.0,n,pow=1.h&gt,&x;
+for循环后面多了个分号&#39;;&#39;
+1
+none
+http://zhidao.baidu.com/question/91579017.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/119374011.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/121410595.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1446623980163839660.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/553727558695575092.html?qbl=relate_question_4

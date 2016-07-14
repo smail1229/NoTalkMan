@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：float型与double型的转换问题
+;b=365,b，而是365.2114;<br />}<br />为什么输出的时候b不是365,amain()<br />{int a.211400,b=%f,c),c;<br />c=(float)a+_b.211395,c=%f&#92;a=%d;<br />printf(&quot;<br />a=12;float b;n&quot
+由于精度的原因，就是1&#47。<br /><br />需要明白的是，而double比float多float精度不高，精度是2的负8次方;256 的精度，不可能表示所有的实数，浮点数表示的数是有限的。<br /><br />你可以换成double型，显示的结果就会更精确了，也就是1&#47。假如float用8位保存小数点后的数据;65536 的精度，会有偏差，保存小数的位没double多，比如说是16位
+4
+none
+http://zhidao.baidu.com/question/128474713.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/568534331.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/336001301.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239035801.html?qbl=relate_question_4

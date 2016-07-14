@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 a=x+++y 怎么算
+none
+x++，a=x+++y <br />就等同于<br /> a=（x++）+y<br />也就是说。之后再让X的值自加1。<br /> a=x+++y<br />和<br /> a=x+y这么说吧，然后赋给A，用X的值加上Y的值，在系统眼里；<br />是等价的
+9
+none
+http://zhidao.baidu.com/question/78948431.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/146839124.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/455102038.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/126162698.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/534733803.html?qbl=relate_question_4

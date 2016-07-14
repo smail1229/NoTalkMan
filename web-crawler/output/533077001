@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+1.28 C语言，int x[3][2]={0},i;
+i++)scanf(&quot;3;i&ltfor(i=0;;%d&quot
+实上3个值分别赋值给了x[0][0]，你可以理解为、x[2]组成：二维数组x[3][2]由3个一维数组组成、x[2][0]，即x[0]，则表示该数组的首元素地址、x[1][0]、x[1]，其中数组x[1]就包含x[1][0]和x[1][1]，每个一维数组包含2个数组元素，若单独的出现了x[1]
+15
+none
+http://zhidao.baidu.com/question/247217818.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5994448.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1881827342602211908.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/520835862591720125.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1830187218298583740.html?qbl=relate_question_4

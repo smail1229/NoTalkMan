@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编写一个分支选择结构的C语言程序，实现以下功能：
+2月为冬季）switch语句<br />5，或者能被400整除），实现以下功能，12？（闰年2月份有29天；<br />3。从第三个开始就出错？。<br />求一个完整版的、计算该学生出生在哪个季节；switch语句<br />6、输入一个学生的姓名和出生年份、7，月份、计算他&#47、计算该学生出生的年份是否为闰年，其他月份规则相同）求高手解答、5月为春季、将以上信息输出、1，6、4，否则为28天。<br /><br />编写一个分支选择结构的C语言程序；if……else语句<br />4、11月为秋季;她的年龄（周岁）、计算该学生出生的那个月份有多少天：<br />1、10，9？（规定3；<br />2、8月为夏季？（闰年的条件是能够被4整除但是不能被100整除。第一个问题和第二个问题已解决
+=0)&&year%4==0)return 1;):&quot;<br />    scanf(&quot;%d&quot;该同志出生于瑞年&quot;n&quot:printf(&quot?31;%d&quot;<br /> default;n&quot;%s&quot;3){<br /> case 1;<br />struct student{<br />    char name[20],stu-&gt;<br />    printf(&quot;<br /> else printf(&quot;该同志出生于非瑞年&quot.year))printf(&quot;);<br />    switch(stu;该同志出生于春季&#92;<br /> case 3.mouth==2)<br /> if(IsRuiNian(stu,&(stu-&gt;year));name);break;该同志出生的月份有%d天&quot;Please input year;<br />    printf(&quot.mouth%2;););n&quot;),stu;):&quot:printf(&quot;n&quot;Please input name:&quot;;该同志出生于秋季&#92;break;);;<br />}<br />int IsRuiNian(int year){<br />    if(year%400==0||((year%100);<br />    scanf(&quot;.h&gt;%s&#92;;);8)printf(&quot:printf(&quot.mouth/mouth)):31);<br />    else return 0;该同志出生于冬季&#92;<br /> case 0;<br /> else printf(&quot;<br />    scanf(&quot;该同志出生于夏季&#92;<br />    input(&stu);该同志出生的月份有%d天&quot;<br />    printf(&quot;)#include&lt,stu;该同志出生的月份有29天&quot;<br />    int year?30;n&quot;<br /> case 2.year);输入的月份不合要求&#92;;<br />void input(struct student *stu){<br />    printf(&quot,IsRuiNian(stu;<br />}<br />void main(){<br />    struct student stu;stdio;break:<br /> case 4;<br />    else <br /> if(stu:printf(&quot;).mouth%2:&quot;<br />    }<br />    if(stu;Please input mouth;<br />};n&quot;该同志出生的月份有29天&quot;break;)?&quot:printf(&quot;;<br />    int mouth;:30),&(stu-&gt.mouth&lt
+4
+none
+http://zhidao.baidu.com/question/38231701.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/476629399.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143894158.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/71403327.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/40437899.html?qbl=relate_question_4

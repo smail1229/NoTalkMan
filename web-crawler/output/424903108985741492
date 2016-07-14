@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言：定义自加函数f(int x),然后在主函数里调用f(int x)了，为何printf输出的x值却不是自加后的值呢
+,x).<br />然后在main里调用。奇怪啊;%d&quot;     <br />} <br />main()<br />{  <br />	<br />    int x=5;            <br />    printf(&quot;           <br />    f(x)，我把f(int x)的函数内容改成 x=x*2，运行结果都一样是5;<br />}<br />运行结果是5;f(int x)         <br />{<br />    x++。里面不是调用了函数f(int x) 来完成自加了吗<br />不止是自加
+x);%d&quot估计你是初学C吧  这里涉及到值传递和引用传递<br /><br />你这里用的是值传递函数  x=5 以值的方式传递进函数 那无论怎么样在函数里操作 X=5在主函数里都是不会改变的<br /><br />想要其改变 需要传递进引用 如 int &x<br /><br />void f(int &x){<br />    x++;<br />}<br />再试试看看;           <br />    f(x);            <br />    printf(&quot;;<br />}<br />main(){<br />    int x=5
+0
+none
+http://zhidao.baidu.com/question/450175285.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/31168669.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/687435306628736684.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/541302262.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/230896453.html?qbl=relate_question_4

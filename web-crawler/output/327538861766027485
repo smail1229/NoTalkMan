@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言整型常量转化问题
+0Xa5（十进制 165） 0x5a（十进制 90）请问这个带字母的怎么转化成十进制啊。
+十六进制a表示10<br />0xa5=a*16^1+5*16^0=10*16+5=165<br />0x5a=5*16^1+a*16^0=80+10=90
+1
+none
+http://zhidao.baidu.com/question/429153084.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/530196018.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/60319255.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/15227409.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/153358349.html?qbl=relate_question_4

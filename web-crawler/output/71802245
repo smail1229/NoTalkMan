@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+在C语言学习中什么叫宏定义？
+none
+fail
+3
+宏定义是高级语言编译器提供的常用语法，其目的是利用某一标识符标识某个文本字符串。在编写程序时，如果程序中反复地使用某个数据或某段程序片段，就可以考虑将这个数据或程序片段定义为宏，然后每个出现该数据或程序片段的地方用宏名替代，这样做的好处是程序简洁，可读性好，而且当需要修改这些相同的程序片段时，只要修改宏定义中的字符串即可，不需要修改多处。
+http://zhidao.baidu.com/question/65095819.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/59396415.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/33236288.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/14952102.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/428502352.html?qbl=relate_question_4

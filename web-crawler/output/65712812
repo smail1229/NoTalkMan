@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中比较字符串的strcmp函数是怎么比较大小的？
+none
+s2，a为97，返回-1;s2； <br />如果s1=s2,A为65 所以a&gt,逐一比较字符的ascii码； <br />如果s1&lt;分出大小后面不再比较，返回0； <br />如果s1&gt，返回1;A,s2） 对两个字符串进行比较strcmp（s1
+39
+none
+http://zhidao.baidu.com/question/29386924.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2265634947065356188.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/122330093.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148798284.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/116395053.html?qbl=relate_question_4

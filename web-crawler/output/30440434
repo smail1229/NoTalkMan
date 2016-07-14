@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的宏分配内存空间吗？
+如果没有那么n又存放在那里：<br />#define n 97<br /><br />这里的n有没有分配内存空间？<br /><br />例如c语言中的宏分配内存空间吗
+<br />b=n.，只是在编译程序时用97替换所有见到的n.<br />a=n.;<br />c=a+n，除此以外没有别的功能。<br />#define n 97<br />;<br />c=a+97;<br /><br />等价于<br />a=97;<br />b=97宏定义
+1
+none
+http://zhidao.baidu.com/question/212693184.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127558596.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/95218081.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/206728580.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200492120.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+有两个长为10的整型数组a, b, 编程设计两数组相应元素大于，等于和小于的次数。（C语言 编程题
+ 编程设计两数组相应元素大于, b有两个长为10的整型数组a，等于和小于的次数
+<br />int main()<br />{<br />	int a[10];输入数组a的十个元素：&#92;n&quot;<br />	}<br /><br />	for(i=0：%d&#92：&#92;<br />	for(i=0;i++)<br />	{<br />		if(a[i]==b[i])<br />			c++;<br />	}<br /><br />	printf(&quot;<br /><br />	return 0;<br />	for(i=0;n小于总数为;i&lt,c;n&quot;%d&quot;<br />	int i;<br />	}<br /><br />	printf(&quot;i++)<br />	{	<br />		scanf(&quot;;i&lt;10;10;<br />		else<br />			e++;i&lt,d：%d&#92;n等于总数为;%d&quot;&#92;10;n&quot,&a[i]);stdio,b[10];;<br /><br />	c=0,e;b[i])<br />			d++;n大于总数为;<br />	e=0,&b[i]),e;)#include&lt,d);<br />	d=0;<br />		else if(a[i]&lt;<br /><br />	printf(&quot,c.h&gt：%d&#92;i++)<br />	{	<br />		scanf(&quot;输入数组b的十个元素;;)
+3
+none
+http://zhidao.baidu.com/question/77171569.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/263639179.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/553946312.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/362209861.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/144576797.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言整型常量的一些问题
+还是先打0再打x，请问0x是不是可以一起打的，十六进制整数，为什么我在Turbo C中打0x会是错误的，有0x开头在整型常量中
+<br />先打0或者先打x都无所谓;<br />int b = 0xabcd:<br />int a = 0x1234，只要0x在一起就不会错，当然0x后面一定要紧跟一个16进制的数搂主怎么一起打0x
+2
+none
+http://zhidao.baidu.com/question/530196018.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153358349.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15227409.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/3920996.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/17059798.html?qbl=relate_question_4

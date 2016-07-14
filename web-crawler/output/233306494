@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 *P都有什么含义
+none
+在c语言中<br />* 是指针运算符。<br />*p表示指针变量p所指向的变量的值。即p中存储的内存地址 所存储的变量的值。<br /><br />另外 容易混淆的地方是；<br />定义一个指针珐乏粹何诔蛊达坍惮开变量p时，如 int *p; 表示定义了一个指向整型变量的指针变量p。<br /><br />望采纳。
+5
+none
+http://zhidao.baidu.com/question/125445694.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76464947.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/338312284.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117382310.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/410751098.html?qbl=relate_question_4

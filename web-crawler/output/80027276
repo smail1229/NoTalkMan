@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如何用C语言编程此题：函数fun(int a[],int *n,int y)的功能是：删除数组a中值为y的元素，*n为个数。
+none
+<br />        }<br />        a[j] = 0;<br /><br />for(int i=0;i++){<br />    if(a[i] == y){<br />        for(j=i;j++){<br />            a[j] = a[j+1];(*n)-1;i&lt;j&lt;*nint j=*n
+0
+none
+http://zhidao.baidu.com/question/87245486.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/468190561.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80521969.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/419412243.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561778646.html?qbl=relate_question_4

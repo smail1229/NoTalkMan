@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 计算表达式y +=y-=m*=y后y的值是? intm=5,y=2;怎样计算?
+none
+y=-16, y=2<br />y-=m /<br />m*=y  /&#47：<br />因为初始m=5;&#47, m=10<br /><br />所以;y=-8+(-8)=-16;&#47,y=2, m=10<br />y+=y &#47计算优先级从右到左边;y=2-10=-8;m=5*2=10
+25
+none
+http://zhidao.baidu.com/question/1046390008279767539.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53050619.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1432006895871702859.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239792351602796804.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154948331.html?qbl=relate_question_4

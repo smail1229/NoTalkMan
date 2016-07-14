@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中关于scanf的问题：scanf(&quot;%d,%d&#92;n&quot;,&a,&b);运行时为什么会要求输入两次？
+%dC语言中关于scanf的问题;b)<br />{  p=p1，从大到小输出这两个数。代码如下,&b);<br />if(a&lt,%d&#92;<br />return 0：<br />3;在运行时会要求输入两次，（我知道&#92,*p;;n&quot; int a？<br />题目,*p1; scanf(&quot：要求输入两个整数，6           &#47,*p2);,&a;%d;n有问题;p1=p2,&a; }<br />printf(&quot,*p2;n&quot：scanf(&quot;<br />}<br />运行结果;;%d,%d&#92;p2=p：<br /> #include<br /><br />int main()<br />{<br />int *p1，但是会出现这种结果我不明白）要求输入两次的原因是什么;这里就是运行时的第二次输入了<br />6;<br />p1=&a,%d&#92,b; p2=&b;n&quot;&#47，6<br />3,&b)
+n&quot,&b);%d%d&#92,&a;%d %d&quot,&a,&b);由于两个%d之间有空格所以输入时可以在两个输入字符间输入多个空格<br />同理scanf(&quot;scanf(&quot;
+0
+none
+http://zhidao.baidu.com/question/145325291.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/330854959.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152873893.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1174087345779804059.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253852770.html?qbl=relate_question_4

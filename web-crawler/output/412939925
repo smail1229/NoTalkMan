@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+c语言，计算x的n次方
+%d;).h&gt;<br />int sum(int a)<br />{ <br />  int k,&n);请输入x按在输入n&#92;<br />  if(a=0)<br />  k=1;stdio;,%d&quot;n&quot;<br />  return k;<br />}<br />main()<br />{<br />  int n;<br />int x;<br />  else<br />  k=x*sum(a-1);<br />  scanf(&quot,&x,b#include&lt;<br />  b=sum(n);<br />  printf(&quot
+<br />  b=sum(n);n&quot！还有 if(a=0) 改为 if(a==0) <br />#include&lt;<br />  scanf(&quot,&x,%d&quot;请输入x按在输入n&#92;,b你这个没有输出啊;<br />  else<br />  k=x*sum(a-1),b).h&gt！要输出那个值啊;<br />  printf(&quot;),&n);<br />}<br />main()<br />{<br />  int n;stdio;%d&#92;n&quot;<br />  return k;<br />printf(&quot;<br />int x;%d;;<br />int sum(int a)<br />{ <br />  int k;<br />  if(a==0)<br />  k=1
+6
+none
+fail

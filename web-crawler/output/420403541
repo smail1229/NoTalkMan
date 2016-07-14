@@ -1,0 +1,11 @@
+µÁƒ‘/Õ¯¬Á ±‡≥Ã”Ô—‘ C/C++ 
+51µ•∆¨ª˙1us—” ±c”Ô—‘≥Ã–Ú while”Ôæ‰ æß’Ò12MHZ
+none
+void delay(unsigned int time)<br />{<br />      while(time--);<br />}
+7
+none
+http://zhidao.baidu.com/question/254494418.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/245386637.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/450429326.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101081381.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/249112089.html?qbl=relate_question_4

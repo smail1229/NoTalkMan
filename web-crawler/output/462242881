@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中return(0)和return(1)的作用是什么啊？以下是我的程序，程序的功能不用分析，就分析下return的作用
+*启动总线*&#47;<br />   if(ack==0)return(0);<br />   return(1);<br />   Stop_I2c();<br />   SendByte(c);               &#47;<br />   if(ack==0)return(0);                &#47;             &#47;*结束总线*&#47,uchar c)<br />{<br />   Start_I2c()uchar ISendByte(uchar sla;<br />   SendByte(sla);               &#47;*发送器件地址*&#47;*发送数据*&#47
+这个程序中return 0是中途退出，表示执行失败<br />return 1表示程序顺利执行到最后一步了，因此是执行成功
+3
+none
+http://zhidao.baidu.com/question/180784576.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/128799090.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424029755798003892.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/245525471.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/151404556.html?qbl=relate_question_4

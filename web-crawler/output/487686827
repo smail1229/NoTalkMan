@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道C语言题目 有3个整数a,b,c,由键盘输入，输出其中最大的数，请编写程序。
+请输入三个任意整数;=a) max=c;<br />else  max=c;<br />int main (void)<br />{ float a;max=%,t, &c);<br />  scanf(&quot;;%f;;<br />  printf(&quot,b;stdio;<br />if(c&gt！。,max);<br />  printf(&quot;<br />else  max=b, &b;)：&#92,&a;<br />else  max=a.2max&quot;<br />  if(a&gt.h&gt。3Q 啊;<br />  if(b&gt，但是老师要求IF嵌套语句表示出来   # include&lt;<br />return  0;<br />}<br /> <br />求大神指点  新手勿入;n&quot,%f %f&quot我编的是这样的。;=b) max=a！;=c) max=b,c
+ a){<br />  a = b;：%d&#92;<br /> printf(&quot; c)<br />   a = c; c)<br />   a = c#include &lt;, b;);n&quot, &c);<br /> }<br /> else{<br />  if(a &lt;n&quot.h&gt, &a, &b, c;<br />int main (){ <br /> int a;<br /> scanf(&quot;最大的整数是;<br /> if(b &gt;请输入三个任意整数;stdio;<br /> }<br /> printf(&quot：&#92;%d%d%d&quot;<br /> return 0;<br />  if(a &lt, a)
+52
+none
+http://zhidao.baidu.com/question/92994369.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/99513246.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/162760400.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/403339351.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98968311.html?qbl=relate_question_4

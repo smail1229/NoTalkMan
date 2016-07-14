@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言若int i=10;则执行语句while(i--&gt;5):后,变量i的正确值为多少 正确值是多少,或者题目错了吗?
+none
+i--&gt;5是先判断i是不是大于再i自减1<br />当i=6的时候是对的<br />i=5的时候<br />不成立<br />i再自减退出<br />i=4<br />退出的时候i=4;
+0
+none
+http://zhidao.baidu.com/question/19404555.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/474430923.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/370802681.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163358542.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/280037063.html?qbl=relate_question_4

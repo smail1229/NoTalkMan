@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言a＝a^b；         b＝a^b；         a＝a^b 是啥意思啊？？
+none
+换a,b的值；所以 b＝(a^b)^b=a^(b^b)=a^1=a，首先a＝a^b
+39
+互换a,b的值<br />位运算是C语言的一大特色，利用异或运算可以实现交换两个数，原理是一个整数与另外一个数进行两次异或运算仍然是其本身，基本原理用式子表达如下：<br />(1) A ^ A = 0;<br />(2) A = A ^B;<br />(3) B = A ^B;(相当于B = A ^ B ^ B ,即 B = A)<br />(4) A= A ^ B;(相当于A = A ^B ^A ,即A = B)<br />利用位运算不仅提高了代码的执行速度，而且此处还减少了对辅助变量的需求，因此提高了程序的效率。
+http://zhidao.baidu.com/question/305759162.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262038772.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/551894793924985292.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1731826197216104707.html?qbl=relate_question_3

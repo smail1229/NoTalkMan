@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 while（printf(&quot;*&quot;)）是什么意思？
+none
+printf() -- 如果打印成功 返回 正数（打印出的字符数），打印失败 返回 负数。<br />printf(&quot;*&quot;) --  如果打印成功，返回 1，while（printf(&quot;*&quot;)）将继续打印。<br />printf(&quot;*&quot;) --  如果打印失败，返缉础光飞叱读癸嫂含讥回 负数，不继续执行循环了。
+8
+<p>while(printf(&quot;*&quot;)) &nbsp;表示打印*成功，则继续执行while循环体中的内容，否则跳出while循环。</p><p><br /></p><p>理解while(printf(&quot;*&quot;))，关键是要知道printf函数的返回值是什么。</p><p>printf函数的返回值是打印字符的个数，如：</p><pre t="code" l="cpp">int&nbsp;a&nbsp;=&nbsp;printf(&quot;%d&quot;,&nbsp;123);&nbsp;&nbsp;<br />printf(&quot;%d&quot;,&nbsp;a);&nbsp;&nbsp;//&nbsp;输出3，因为打印123是三个字符</pre><p>根据printf函数的返回值，不难理解while(printf(&quot;*&quot;)) ，如果打印成功，即返回1（while条件为真），否则返回0（while条件为假）</p>
+http://zhidao.baidu.com/question/234840178.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/219549840.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/469759037.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253441748.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中标识符是什么
+none
+不能将标识符命名为float,case,int、文件名,break，就是你起的一个名字、函数名,this、下划线（_）或数字组成,sum,while、数组名,等等。c&#47,char，变量sum,auto。比如、对象名等的、具有特殊用途的保留标识符（即关键字）同名; <br />（2）后跟字母（不分大小写）。（就好像你父母有了你以后给你起的名字）~~ c&#47,for,sum代表三个不同的变量, unsigned； <br />（4）不能与c编译系统已经预定义的;c++有效标识符的构成规则如下 <br />（1）第一个字符必须是字母（不分大小写）或下划线（_）; <br />（3）标识符中的大小写字母有区别,short、类名,try所谓标识符。如、符号常量名，是你用来标识变量名;c++中
+182
+　　在C语言中，标识符是对变量名、函数名、标号和其他各种用户定义的对象命名。标识符的第一个字符必须是字母或下划线，随后的字符可以是字母、数字或下划线。<br />　　标识符的长度可以是一个或多个字符，最长不允许超过32个字符。例如：<br />　　sore、number12、student_name等均为正确的标识符；<br />　　8times、price&#47;tea、low!valume等均为不正确的标识符。<br />　　C语言中字母是区分大小写的，因此score、Score、SCORE分别代表三个不同的标识符，必须注意的是，标识符不能和C语言的关键字相同，也不能和用户自定义的函数或C语言库函数同名。
+http://zhidao.baidu.com/question/106650321.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/131853735.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/34211733.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/475898166.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/113983798.html?qbl=relate_question_4

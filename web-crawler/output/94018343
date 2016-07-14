@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编程问题希望高手帮忙一下，用C语言编
+小写字母，中文字母：中文字符是两个字节，中文字符，数字，每行有80个字符。（提示，空格及其他字符的个数有一篇文章，且数值均大于128的字符）。要求分别统计出其中英文大写字母，共有3行文字
+判断其属于中文字母还是中文字符（这个取值我不懂.大于128<br />如果大于28，则判断连续两个char的int值。<br />然后判断值的取值范围<br />1.65-90<br />大写字母<br />3.32<br />空格<br />6.97-122<br />小写字母<br />4.48-57<br />数字<br />5按照char型读进来，自己网上查）<br />2
+0
+none
+http://zhidao.baidu.com/question/281626556.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/508014832.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/54707766.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101944563.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/261168213.html?qbl=relate_question_4

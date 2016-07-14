@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中关于strcmp的疑问
+%c&quot;n1;<br />}<br />if(f==1) break;printf(&quot，要求输入两行字符串;.h&gt;,strcmp(str;<br />int i;<br />n1=strlen(str);i&lt，要求输出在第二个字符串中第一个字符串出现的位数;n%d&#92,n1;<br />gets(str)。下面是我的代码;string;。<br />#include&lt;i++)<br />printf(&quot,str[120],s;n&quot;stdio;<br />#include&lt;n;<br />}<br />for(i=0.h&gt;%d&#92;i&lt;n1,i-n1+1),i++)<br />str1[j]=sen[i];<br />int main()<br />{<br />char sen[4500];<br />gets(sen);n&quot;<br />printf(&quot,str1[120];%d&#92,n;<br />}<br />else i=i-n1+2;<br />f=1;j++,f=0,str1[i]),j,i);<br />n=strlen(sen);<br />   for(i=0;&#92;i++)<br />{<br />if(sen[i]==str[0])<br />{<br />for(j=0;j&lt有一道题目;<br />if(strcmp(str;<br />return 0,str1)却等于-1呢;;n&quot!<br />”时，为什么我代码中的str是“abcde”str1也是“abcde”但是strcmp(str,str1));<br />}<br /><br />可是当带入这个例子“  <br />abcde<br />this is a Example of abcde,str1)==0)<br />{<br />printf(&quot
+可能是少了一个字符串结束符&#39;&#92;<br />str是有&#39;&#92;0&#39;的，是字符串数组<br />str1没有;0&#39
+0
+none
+http://zhidao.baidu.com/question/90366348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/85692176.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/353713091.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1702047332467518020.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1732209343115051267.html?qbl=relate_question_4

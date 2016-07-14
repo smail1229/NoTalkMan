@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编写程序计算无理数e的值并输出，公式:e=1+1&#47;1!+1&#47;2!+1&#47;3!+......+1&#47;n! 当1&#47;n!&lt;0.000001时e=2.7182
+none
+<br />float temp=1;%f&quot;<br />float sum=0;stdio;=1e-6)<br />{<br />sum+=temp,sum).h&gt;<br />main()<br />{<br />int i=1;<br />i++;<br />while(temp&gt;;<br />temp/=i;<br />}<br />printf(&quot#include&lt
+2
+none
+http://zhidao.baidu.com/question/255515925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/39710532.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/562183053.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/623777966602798924.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80160963.html?qbl=relate_question_4

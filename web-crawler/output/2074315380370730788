@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程。在第三个for循环那出现问题了，求大神指点。。第三个求的是1到10的倒数和
+none
+改成这样就好了：t2=t2+1.0/k; // 1/k算出来是0
+0
+none
+http://zhidao.baidu.com/question/166646255.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1445869667156080980.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/67491471.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/554753681.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/96313064.html?qbl=relate_question_4

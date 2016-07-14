@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言写的求阶乘函数，结果出错了
+; i &lt;问题出在这里 <br />        result *= n-1; j++)<br />        printf(&quot;<br />                 n--.h&quot;<br />    return 0, fac_2(j));<br />    for (j = 0;<br />                 }<br />}<br /><br />int main()<br />{<br />    int j!= 1){<br />                 result *= n-1;<br />    for(i = 0;<br /><br />int fac_1(int n)<br />{<br />    int result = n;<br />    else while(n ;<br />        n--;<br />    if (n == 0) result = 0;stdio;<br />}<br /><br />int fac_2(int n)<br />{<br />    int result = n;<br />        }<br />    return result; n, fac_1(j); i++){  &#47;= 10#include &quot;<br />    int i;n&quot;&#47;pause&quot; j &lt,  %d &#92;<br />    system(&quot;);%d
+; i &lt;问题出在这里 <br />        result *= (n-i); j++)<br />        printf(&quot;<br />     }<br />	return result.h&quot;<br />    return 0, fac_2(j));<br />    for (j = 0;<br />}<br /><br />int main()<br />{<br />    int j;<br />         n--;<br />    for(i = 1;<br /><br />int fac_1(int n)<br />{<br />    int result = n!= 1)<br />	{<br />         result *= (n-1);<br />     }<br />    return result;	<br />	while(n ;stdio;<br />    if (n == 0) result = 0;<br />}<br /><br />int fac_2(int n)<br />{<br />    int result = n;n, fac_1(j); i++)<br />	{  /= 10#include &quot;<br />    int i;n&quot;/pause&quot; j &lt,  %d &#92;<br />    system(&quot;);%d
+0
+none
+http://zhidao.baidu.com/question/355477380.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/10355063.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/396031515.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1431526059336571139.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/303400356128425844.html?qbl=relate_question_4

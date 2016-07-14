@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计二维数组转置
+none
+fail
+0
+首先字义二维数组A[M][N],<br /><br />函数(Revolve)如下:<br /><br />int M=100,N=100;<br /><br />main()<br />{<br /> <br /> int i,j,Temp;<br /> &#47;*定义并初始化二维数组*&#47;<br /> int A[M][N]={{.......},{......},....{......}};<br /> &#47;*转置*&#47; <br /> for(i=0;i&lt;M;++i)<br />    for(j=0;j&lt;N,++j)<br />        if(i!=j)<br />           {<br />             Temp=Array[i][j];<br />             Array[i][j]=Array[j][i];<br />             Array[j][i]=Temp;<br />           }<br />}
+http://zhidao.baidu.com/question/79054782.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/42867215.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/505976138.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/54045815.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/407510821.html?qbl=relate_question_4

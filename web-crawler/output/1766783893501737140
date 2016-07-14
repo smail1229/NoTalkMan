@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言char (*p)[10];和char **w;是同一类型吗 最后一个printf有问题 解释下错在哪里了
+n&quot;%s&#92,*c[1]);;<br /> char c[2][10]={&quot,&quot,&quot;dwgerge&quot;<br /> char **w;<br /> printf(&quot.h&gt;};<br />main()<br />{<br /> char* b[2]={&quot;;<br /> w=p;<br /> printf(&quot;};<br /> char (*p)[10];;fwfwfwq&quot;%c&#92;n&quot;<br />    p=c,*(w+1));qwfwfwsf&quot;stdio;;fewfwef&quot#include&lt
+<br />	 char c[2][10]={&quot,&quot;}，*p;qwfwfwsf&quot;}?fromuid=12123" target="_blank">http;a&#39.zixue7,&quot，c表示数组第0行的首地址<br />你如果想输出dwgerge;<br /><br />int main()<br />{<br />	 char *b[2]={&quot;://www;<br />	 char **w;%s&#92、根据你的代码。<a href="http;<br />	 printf(&quot;n&quot;<br />	 w=p;%c&#92;<br />	 char (*p)[10]，这个论坛值得一去。只需<br /><br />#include&lt.com/； <br />                         p=&a;<br />	 printf(&quot？<br /><br />char  *p[]跟char (*p)[]的区别<br /><br />char *p[] 表示指针数组;<br />	 return 0;.com/;<br />	 p=c,*c[1]);fewfwef&quot;;;<br />           那么       w=&p<br />不知道这样解释你明白不;n&quot.zixue7.h&gt;,c+1);stdio。<br /><br />char (*p)[] 表示指向一个char型一维数组的指针<br /><br />（2）。元素全部是指向char型的指针://www、char (*)p[10]跟char **w不是同一个类型<br /><br />char  **w是指针的指针（1）;dwgerge&quot。<br />如果定义一个char ch=&#39;fwfwfwq&quot;<br />}<br /><br />有疑问可以去自学去网站交流
+0
+none
+http://zhidao.baidu.com/question/57076025.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/519475878959909485.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/555233013.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/133597166.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/567441688.html?qbl=relate_question_4

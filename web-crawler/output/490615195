@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言用malloc定义二维数组问题
+#include &quot;stdio.h&quot;<br />#include &quot;stdlib.h&quot;<br />main()<br />{<br />int **p,i;<br />p=(int **)malloc(sizeof(int)*5);<br />for(i=俯触碘吠鄢杜碉森冬缉0;i&lt;5;i++)<br />{<br />p[i]=(int *)malloc(sizeof(int)*5);<br />}<br />}<br />为什么这样就定义了一个p[5][5]二维数组,还有p[i]=(int *)mallco(sizeof(int)*5);<br />为什么**p可以指向返回值为整形指针？<br />大家帮帮忙啊，讲解明白了，再加50分，出老本了！
+首先要理解<br />int* ptr = (int*)malloc(5 * sizeof(int));  // 动态分配5个整型的内存空间，跟int a[5]相似，但前者是堆上分配的，后者是栈上分配的<br /> <br />p=(int **)malloc(sizeof(int*)*5);  // 意思就是定义一个有5个int类型的指针的动态数组，然后在里面存放指针<br /> <br />p[俯触碘吠鄢杜碉森冬缉i] 其实就是一个指针<br /> <br />p[i]=(int *)malloc(sizeof(int)*5);  // 给该指针分配内存<br /><br />不知道这样是否能让你明白，不明白可追问
+33
+none
+http://zhidao.baidu.com/question/175434367373789684.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38622502.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/254511279.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92941573.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/149931174.html?qbl=relate_question_4

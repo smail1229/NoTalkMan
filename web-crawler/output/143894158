@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请教c语言程序下面一段if分支结构代码的含义?
+n);<br /> }<br /> printf(&quot;<br />  n=n+1; &#39;<br /> gets(s)。顺便一提;<br /> int i;(c=s[i]),word=0;) word=0；<br />为什么源程序else if后还接了(word==0)，if else的结构不应该是如下吗; &#39;&#92;;0&#39,n=0；<br />else 语句2;n&quot;i++)<br /> if (c==&#39;<br /> else if<br />请求解释这两行代码;<br />我看不懂的地方就是<br />         if (c==&#39;<br /> else if(word==0)<br /> {<br />  word=1;n=%d&#92？<br />if（表达式）语句1;) word=0;<br /> for(i=0,c;!=&#39程序目的为统计单词数目<br /> char s[80]
+，，只要找到else对应的if就好判断了.<br />     ，; <br />（括号里面的是条件，，<br />    {<br />     语句<br />     }<br />   else<br />     ，引号里的是空格） <br />如果c等于’空格‘，还可以有很多条件;) word=0；<br />if(条件)              满足条件就执行if里面的语句<br />{<br />语句  <br />}<br />else                   不满足上面的条件就执行else里面的语句<br />  if(条件)               在else里面又分为两种情况，那么就将0赋值给Word（Word的值就为0）<br />else if<br />这是条件语句的嵌套.<br />循环嵌套还可以套得很复杂if (c==&#39，; &#39
+2
+none
+http://zhidao.baidu.com/question/192664702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/160269330.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/312995780.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/210952722.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1510429167418807860.html?qbl=relate_question_4

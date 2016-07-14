@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里面k*=a+b是什么意思？
+是k=k*(a+b)<br />还是k=k*a+b?
++号运算符第五优先级<br />*=赋值运算符第十四优先级<br />所以先计算a+b<br />建议去找个运算符优先级表看看
+1
+none
+http://zhidao.baidu.com/question/142133946.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/231544511.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/531838307.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/111750810.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/241454508.html?qbl=relate_question_4

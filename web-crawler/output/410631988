@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若有定义：int a,b ; float x，则以下不符合C语言语法的表达式是
+int a，则以下不符合C语言语法的表达式是。<br />A,b ; float x.	x%7		B. x&#47. x=(float)a&#47;=a-b				C. a=b=2			D35.	若有定义
+而这里 x 是float A;b 没问题。<br />D;=a-b  ---- x = x &#47。<br />B 没问题,  % 是整数求余数运算，先化a 为 float 再运算; (a-b)  自动化为 float 相除. x%7  不符合C语言语法，% 两边都必须是整型量，x&#47。<br />C. x=(float)a&#47
+9
+none
+http://zhidao.baidu.com/question/588039068.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/313533697.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/103878080.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/516640430.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/104950536.html?qbl=relate_question_4

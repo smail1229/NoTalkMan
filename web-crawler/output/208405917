@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程 求自然数e=1+1&#47;3+1&#47;5+1&#47;7+…+1&#47;n,到最后一项绝对值小于10的-4次方为止！
+none
+<br /><br />同时附上自然对数e的程序;e=%lf&quot;<br />    et=1; k;<br />    for(k=0;n：<br />#include &lt.71828的话，而不是1/ 0;npress any key to exit.0001<br />&#47,e).h&gt;(2*n-1);<br />void main()<br />{<br />    int k.0;<br />        }<br />        e+=1;<br />    getch();;<br />    getch();<br /><br />    }<br />    printf(&quot;<br />#define ER  0;npress any key to exit;et=1//&#92;m &lt;允许的误差<br /><br />int main()<br />{<br />    float e=0;m,m=1.0/n&quot;<br />        et=1;<br />        if(1;<br />    int n=1;);<br />}<br /><br />e的公式;stdio;<br />    long m;<br />    double e=0:&#92;j&lt;e=%f&quot;stdio，那么程序应该是如下;k++)<br />    {<br />        /&#47.0;/(2n-1);j++)<br />        {<br />            m*=j!<br />        for(j=1;<br /><br />    printf(&quot;(2n-1);&#47.h&quot;：<br />#include &quot;<br />        n++;)，即每次的增量<br />    while(et&gt:&#92.0&#47.0,e).0/<br />    return(0);=k;;ER)<br />    {<br />        e+=et,j;<br />}<br /><br />补充，递增的部分明显是1/&#92;n&quot.000001)<br />        break;k;<br />    }<br />    printf(&quot,et=0：<br />   n <br />e= ∑1/<br /><br />    printf(&quot如果你说的e不是2
+2
+none
+http://zhidao.baidu.com/question/56549128.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1829786628341810860.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/249959855.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/211513889.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/318526915.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机c语言基本语句dat=8是什么
+dat 是unsigned int
+有个好处就是unsigned int  无符号整数，如定义shuzi为无符号整数，就相当于调用了8，shuzi=8.<br />你也可以随便定义几个字母为一个数的符号，然后将8赋值给dat，这个dat被定义为无符号整数，dat可以随着进程而重新赋值，dat的值就为8，那么在调用shuzi的时候,执行了这条语句后
+4
+none
+http://zhidao.baidu.com/question/113586907.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/113871071.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/459193235.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143959505.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/103966877.html?qbl=relate_question_4

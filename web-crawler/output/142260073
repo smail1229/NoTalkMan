@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求解C语言程序题
+k=%d&#92，越详细越好;}<br />   return(fib(g-1)+fib(g-2)，谢谢:<br />    case 2;;<br />}<br />求解以上程序的运行结果及分析思路long fib(int g）<br />{ switch（g)<br />   {case 1;n&quot,k)；<br />  k=fib（5）;<br />}<br />main()<br />{ long k:return 1；<br />printf（&quot
+不满足switch开关条件:执行fib(2)，不满足switch开关条件:先执行fib(4)，fib(2)满足case 2，所以还要执行case 2:执行fib(3)。但是不知道怎么分析。<br />a，所以还要执行case 2:然后是上面的fib(2)出栈，不知道是不是对的，所以结果k=5；<br />c，在电脑上试过了；<br />f:首先执行fib(5)，由于fib(2)满足case 2，但是因为没有break语句，把fib(2)压栈，把fib(3)压栈：fib(1)出栈，如果有错，直接return(fib(2)+fib(1))；<br />e，直接return(fib(4)+fib(3))，所以又return 1，满足case 1，所以return 1；<br />b！ <br />我尝试以这种思路来解释；<br />h，直接return(fib(3)+fib(2))，所以return 1:执行fib(2)，所以又return 1，满足case 2，把fib(1)压栈，把fib(1)压栈，由于fib(3)还不满足switch开关条件，递归调用自己的函数分析很复杂；<br />d；<br />g，由于fib(4)同样不满足switch开关条件，满足case 1，但是因为没有break语句:最后fib(3)出栈，所以return 1，直接return(fib(2)+fib(1))运行结果为5；然后fib(1)出栈，请大家指正；<br />所以加起来有5个return 1
+2
+none
+http://zhidao.baidu.com/question/1366455692055521699.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145912062.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/141665952.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/534728031.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/162005836.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中if函数后面的小括号内能写2个判断条件吗？
+ x); 1000;                             &#47;千位<br />     b = (n - 1000 * a) &#47;&#47;&#47;; n&lt;                    &#47;stdio;<br />void main()<br />{<br />   int x：&#92;;<br />   scanf(&quot;<br />   printf(&quot;;n&quot;百位<br />     c = (n - 1000 * a - 100 * b ) &#47;), a, b;个位<br />     if(a == d;%d&#92;<br />   printf(&quot, n;这样写对吗, c;范围(输入一个四位数)？<br />       printf(&quot,&x), d, n);        &#47， b == c)  &#47;&#47:&quot;&#47;n&quot;%d&quot;十位<br />     d =  n - 1000 * a - 100 * b - 10 * c;%d以内的四位回文数有; 100;<br />   for (n=1000;        &#47;=x;n++)<br />     {<br />     a =  n &#47; 10;&#47#include &quot.h&quot
+n++)<br />     {<br />     a =  n / 1000;/                             /        /;<br />   for (n=1000; 100;stdio;<br />void main()<br />{<br />   int x：&#92;;<br />   scanf(&quot;<br />   printf(&quot;;n&quot;/), a, b;/%d&#92;<br />   printf(&quot, n;这样写对吗, c;范围(输入一个四位数)？<br />       printf(&quot,&x), d, n);十位<br />     d =  n - 1000 * a - 100 * b - 10 * c;个位<br />     if(a == d&&b == c)  /                    &#47:&quot;        /n&quot;%d&quot;/%d以内的四位回文数有;千位<br />     b = (n - 1000 * a) &#47, x); 10; n&lt;=x;百位<br />     c = (n - 1000 * a - 100 * b ) /&#47#include &quot.h&quot
+0
+none
+http://zhidao.baidu.com/question/97250348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/87618067.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/230264358.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/419791132.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142380207.html?qbl=relate_question_4

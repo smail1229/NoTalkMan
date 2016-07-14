@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言，二维数组和指针
+也为1000。  *不是 指针运算，取值的吗。<br />为什么 *(a+0)或*a是与a[0]等效的int a[3][4]<br />a[0]是第一个一维数组的数组名和首地址，地址为1000， 它表示一维数组a[0]0 号元素的首地址，这里*(a+0)怎么成地址了呢
+a+i;  第0行首地址和0行0列元素地址<br />a[0],*(*(a+1)+0),a+2; 第1行0列元素地址和1行首地址<br />&a[1][0]; 1列0行元素地址<br />a[2]。<br />举例说明一下,*a,a[i]+j都是地址,*(a+i)有必要对a[i]的性质作进一步说明。它只是一个地址（如同一维数组名只是一个指针常量一样，则a[i]是代表一维数组名。a[i]是有物理地址的,*(a+1)+0，是占内存单元的;2行0列元素地址<br />&a[2];第0行元素首地址和0行0列元素地址<br />a[1]：<br />int a[3][4]={…………};第1行0列元素的值,*(a+2),*(a+0)，则a[i]代表a数组第i个元素所占的内存单元的内容;<br />a。） a，a[i]。 *（a[i]+j）和*（*（a+i）+j）是二维数组元素a[i][j]的值;第2行元素首地址<br />a[1][0]。但如果a是二维数组。如果a是一维数组名,&a[0][0],a+1,*(a+i)+j; 第0行0列元素地址<br />&a[0]。a[i]从形式上看是a数组中的第i个元素
+13
+none
+http://zhidao.baidu.com/question/139386238.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/206932038.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/112360629.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/542458075.html?qbl=relate_question_3

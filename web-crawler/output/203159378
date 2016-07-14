@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言下面代码怎么解释啊！
+n&quot,&a)==1)<br />    {<br />     for(b=2;<br /> long a;;n&quot;div++)<br />这个表达式为假的话(2*2)&lt;)for(div=2;<br /> long div;%ld&quot,kk=1,b);质数%ld&#92;b&lt;b++)<br />     {<br />      for(div=2.h&quot;(div*div)&lt;<br />    while(scanf(&quot;stdio;;);<br /> int kk;=a;div++)<br />      if(b%div==0)<br />      kk=0;输入Q结束&quot;<br /> printf(&quot;<br />     }<br />     printf(&quot;请输入一个整数&#92,kk=1;=2<br />那么后面的div++还增加吗<br />if(b%div==0)<br />然后这句是怎么搞的     <br />#include &quot;<br />      if(kk==1)<br />      printf(&quot;(div*div)&lt;=b;`w<br />int main(void)<br />{<br /> long b;=b
+如果b不能被任何一个div整除,kk=1？<br />这个逻辑条件的意思是  当变量b能够被div整除时逻辑表达式的计算结果为真;(div*div)&lt。<br />2;=b， ++的操作不做;div++) 这个表达式为假的话(2*2)&lt，循环结束时 div的内容就是2，kk将始终保持为1;=2，那么后面的div++还增加吗<br />在b的内容是2的情况下、if(b%div==0) 然后这句是怎么搞的，在程序里的效果是当b能够被div整除时；kk的初始值是1，使kk=0，即b是质数1、for(div=2
+0
+none
+http://zhidao.baidu.com/question/206448389.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/533552222.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/500945435.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/411541197.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1946327982614232748.html?qbl=relate_question_4

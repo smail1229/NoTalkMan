@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中数组长度问题
+none
+};<br />sizeof(mes)&#47：<br />sizeof(mes)&#47,&#39？ strlen只能求字符串长度，所以得到的长度是 2;，没办法求数组长度;sizeof(int)。strlen 是用 &#39;&#92;1&#39,&#39。<br />求数组长度的正确方法;;;1&#39;0&#39？估计你使用 strlen 函数求吧，而你第二个数组中放置了几个&#39,&#39;&#92; 用 strlen 求得结果为 7,&#39;0&#39;0&#39; （ASCII码为0,&#39;0&#39;0&#39,）。将第二个数组改为char m[80]={&#39;;;0&#39;;1&#39,&#39; 来判断字符串的结束标志的。如果不是动态开辟的数组。<br />第二个数组的长度是2，你声明的时候给多少长度就是多少长度你的两个数组的长度都是 80
+35
+none
+http://zhidao.baidu.com/question/141356210.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/481190361.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/232733515.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40150567.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/581650007.html?qbl=relate_question_4

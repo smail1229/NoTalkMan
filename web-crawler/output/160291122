@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if-else
+include&lt;0) y=-1.h&gt;<br /> printf(&quot;<br /> scanf(&quot;<br /> if (x==0) y=0;,&x);%d&quot;; <br /> }<br /><br />为什么输入负值输出的是正值;<br />main()<br />{int x;<br /> if (x&lt;%d&quot,y,y)？<br />为什么还走下面的;<br />  else y=1？<br />如果是负值<br />不是应该直接走y=-1么;stdio
+<br />  else y=1;<br />else if (x==0) y=0if (x&lt;0) y=-1;&#92;0) y=-1;<br /><br />因为你先运行了 if (x&lt;这里加个else <br />else y=1，他就继续运行<br />if (x==0) y=0，程序判断因为x;<br />你后面没有else的话;<br /><br />所以你输入的赋值; &#92
+3
+none
+http://zhidao.baidu.com/question/112188183.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/66311226.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/44626480.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/81210313.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/482318726.html?qbl=relate_question_4

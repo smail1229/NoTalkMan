@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言简单运算过程
+<br />main()<br />{int i,n);n=%d&#92;<br /> for(i=2;stdio!i);<br />}while(;5.h&quot;<br />}<br /> printf(&quot;;<br /> n++,n=0;n&quot;i&lt#include&quot;<br /> n++;<br />}<br />哪位能给出正确的分析和运算过程（人脑）~先谢谢了;i++)<br /> {<br /> do<br /> {<br /> if(i%3)continue
+直接退出do while循环，所以执行第一个n++，<br />那么第一次foe循环初始化 n = 0，进入do while循环；<br />那么第二次for循环，n = 3，到while（；<br />for 语句 从2开始到4结束；<br /><br />for循环结束，i = 2，n = 1，再执行第二个n++，i = 4，执行第二个n++，此时i%3为2（非0）!i）因为，n = 0，<br />那么第三次for循环，此时i%3为0，所以执行 continue，所以执行 continue，执行第二个n++，所以退出do while循环，i = 3，直接退出do while循环，进入do while循环，进入do while循环！i为0，n结果为4，此时i%3为1（非0）
+1
+none
+http://zhidao.baidu.com/question/102840002.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/151506784.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/157900835.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/118957678.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/199312188.html?qbl=relate_question_4

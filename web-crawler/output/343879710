@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计：计算并输出Fibonacci序列前10项之和。
+i&lt.h&gt;sum=%d &quot,sum,sum);<br />for(i=2;n,10);<br />}<br />void fun(int fib[]#include &lt;  <br />fun(a;<br />fib[0]=fib[1]=1;<br />for(i=0;i&lt,10),int n)<br />{  int i=0;<br />main()<br />{  int i,int n),a[10];i++)<br />fib[i]=fib[i-1]+fib[i-2];<br />printf(&quot,int n);;<br />void fun(int fib[];  <br />sum=0;stdio; <br />main函数中的为什么还要加上void fun(int fib[],为什么不能直接用fun(a;10;i++)<br />sum=sum+a[i]
+这句话就可以取消了void fun(int fib[],int n)的作用是使用这个函数之前先声明这个函数，如果你把下面的那个函数放到main()函数之前。<br />希望对你有所帮助，否则的话程序会报错，才能不会出错误，在使用这个函数之前一定要先声明这个函数
+0
+none
+http://zhidao.baidu.com/question/154436407.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7918050.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/99320657.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90586158.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/122435727.html?qbl=relate_question_4

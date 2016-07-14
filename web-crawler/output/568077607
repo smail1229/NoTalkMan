@@ -1,0 +1,10 @@
+µÁƒ‘/Õ¯¬Á ±‡≥Ã”Ô—‘ C/C++ 
+c”Ô—‘≥Ã–ÚΩ‚ Õ
+0&#39;j--){<br />			s4[k++]=s3[j];0&#39;<br />	int n;0&#39;i--)<br />		{<br />			n=s1[i]-&#39;len2){<br />		for(i=len2-1;<br />		else{<br />			s3[j++]=r+48;=0;0&#39;<br />		}<br />			for(k=len2-len1-1;<br />			m=n%10;10,k;<br />			}<br />			s3[j]=&#39;+r;<br />			r=n&#47;<br />			m=n%10;=0;;+r;;&#92;0&#39;0&#39;<br /><br />		}<br />	}<br />	else if(len1&gt,m;<br />			j++;0&#39;0&#39,i;0&#39;=0;0&#39;=0;<br />			s3[j]=m+48;&#92;;<br />			}<br />		for(k=len1-len2-1;+s2[i]-&#39;<br />	int r=0;&#92;i&gt;0&#39;<br />		for(j=strlen(s3)-1;<br />			s3[j]=&#39;i&gt,len1;0&#39,len2;=0;;i--){<br />			n=s1[i+len1-len2]-&#39;<br />	}<br />		k=0;<br />			r=n&#47;<br />				r=0;=0;+r;&#92;<br />			r=n&#47;10;;k&gt;<br />			r=0,char* s2)<br />{<br />	char s3[100];k&gt;<br />		}<br />		s4[k]=&#39;&#92;;<br />	<br />	if(len1==len2)<br />	{<br />		for(i=len1-1;<br />			}<br />			s3[j]=&#39;<br />	len1=strlen(s1);<br />	len2=strlen(s2);<br />			j++;;<br />			s3[j]=m+48;+s2[i]-&#39;k--){<br /><br />				s3[j]=r+48+s2[k]-&#39;<br />			j++;10;<br />		return s4;i--){<br />			n=s1[i]-&#39;0&#39;<br />			m=n%10;<br />			s3[j]=m+48;k--)<br />		{<br />			s3[j]=r+48+s1[k]-&#39;<br />		}<br />	else<br />	{<br />		for(i=len1-1;<br />		}<br />		if(r==0)<br />			s3[j]=&#39;<br />			j++;i&gt;j&gt;+s2[i+len2-len1]-&#39;<br />				j++char* addfab(char* s1,j=0
+fail
+1
+none
+http://zhidao.baidu.com/question/103726270.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153655235.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424106270.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/130197440.html?qbl=relate_question_3

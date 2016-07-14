@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序改错题
+main函数通过调用fun()函数统计整数序列中的负数的个数以及平均值,0,63},10;<br />#9   }<br />#10  #include &quot;count;stdio;n;,count。本题约定平均值由函数返回;<br />#6        if(a[i]&lt;<br />#14     av=aver(x;0)  *p++, int *p)<br />#2   { int i;<br />#4     for(i=0;i&lt,27,12;n&quot,54,x[]={0: %,-5;<br />#11  main()<br />#12   { int count，负数的个数由参数返回;<br />#3     *p=0 .2f&#92,av);<br />#15     printf(&quot。程序有若干错误;n; <br />#7      }<br />#8     return sum&#47,-9，请先阅读程序,sum=0 ,count)，并写出出错的原因;<br />#13     double  av;naverage，找出其中的错误行以下程序中。<br />#1  double aver(int a[].h&quot, int n,80;i++)<br />#5      { sum=sum+a[i] ,33: %d&#92，最后上机调试该程序验证自己的预测
+count);count,-9。<br />第14行调用aver函数是;,63}: 3671976<br />average;n&quot，而你在调用的时候却给了一个整型变量count;&#47,count,80;<br /> int* count=new int；<br />所以需要将count改为指针型并申请空间;<br /> av=aver(x: %;<br />}  <br /><br />运行结果是<br />count;(如果不支持C++,33;/<br />    printf(&quot,av)。<br />main()<br />{ <br /> int x[]={0: %d&#92.2f&#92，第三个参数在函数定义中是指针变量;naverage,0,-5,27,10，需要用malloc函数分配)<br /> double  av,54,12主函数中有错误: 25
+4
+none
+http://zhidao.baidu.com/question/243057599.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/200975254.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/201206955.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/159496956.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/128680135.html?qbl=relate_question_4

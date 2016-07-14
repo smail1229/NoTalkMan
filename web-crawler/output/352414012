@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 编程计算1*100+2*99+3*98+…+100*1之和
+none
+<br />	printf( &quot;i++)<br />		n+=i*(101-i);stdio;i&lt;n&quot;<br />	for(i=1;%d&#92;<br />void main()<br />{<br />	int n=0.h&gt;=100,i;,n)#include&lt
+0
+<p>观察算式知道没一个加数都是由两个因数的乘积得到，且这两个因数的和为101，故可以通过一个for循环完成该算式的计算。<br /></p><p>参考代码：</p><pre t="code" l="cpp">#include&nbsp;&lt;stdio.h&gt;<br />int&nbsp;main()&nbsp;{<br />	int&nbsp;sum=0,i;<br />	for(i=1;i&lt;101;i++)//for循环求累加和&nbsp;<br />		sum=sum+i*(101-i);//i表示第一个因数，101-i表示第二个因数&nbsp;<br />	printf(&quot;累加和为：%d\n&quot;,sum);<br />	return&nbsp;0;<br />}<br />/*<br />累加和为：171700<br />*/</pre>
+http://zhidao.baidu.com/question/219877340.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/262009004.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/74226436.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/299434697.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/263448501.html?qbl=relate_question_4

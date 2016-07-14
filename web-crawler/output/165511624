@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言  if(!a || !b) return a + b
+a || , b % a)int gcd(int a;<br /> return gcd(a!b) return a + b, a % b); b) return gcd(b;<br /> if (a &gt, int b)<br />{<br /> if (
+a b中有一个为0, b % a), a % b); b) return gcd(b;这里是a.<br /> return gcd(a，递归调用gcd!b) return a + b!a || ,b都不为0的情况下int gcd(int a;//&#47，就返回a+b<br /> if (a &gt;&#47, int b)<br />{<br /> if (
+0
+none
+http://zhidao.baidu.com/question/120783460.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/558882075.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/421312782.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/59813178.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/425572576.html?qbl=relate_question_4

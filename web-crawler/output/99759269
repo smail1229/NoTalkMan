@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编一个函数fun(int bb[],int *n,int y)
+函数的功能是删除所有值为y的元素。在主函数中给数组元素赋值。y的值有主函数通过键盘读入其中n所指存储单元中存放了数组中元素的个数
+ n!= y)<br />      {<br />       bb[j] = bb[i], n);<br />       j++,4,8;<br />     break; i &lt, n = 10,7; 10;<br /><br /> while(j &lt, j = 0;<br />  }<br />}<br /><br />int main(void)<br />{<br /> int i,5#include &lt;n&quot, int y)<br />{<br /> int i;n=%d&#92;%d &quot, bb[i]);;<br /><br />fun(int bb[],9};= *n - 1)<br />  {<br />   if (bb[j] == y)<br />    {<br />     c = 1;stdio;<br /><br /> fun(bb,3; i &lt;;; *n, n), bb[i]);<br />    }<br />   j++;<br />      }<br />    }<br /><br />   *n = j; i &lt;<br /><br /> printf(&quot;<br /> int bb[10] = {1, 3);<br /> for (i = 0,2;n&quot;<br /> for (i = 0; i++)<br />  printf(&quot,3;%d &quot,3;nn=%d&#92;<br />  }<br /><br /> if (c == 1)<br />  {<br />   for (i = j, &n;<br /><br /> printf(&quot;&#92; i++)<br />  printf(&quot; i++)<br />    {<br />     if (bb[i] , int *n;, c = 0.h&gt
+2
+none
+http://zhidao.baidu.com/question/456621865.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/265560797.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/396565802.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2115657915423899707.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/287738670.html?qbl=relate_question_4

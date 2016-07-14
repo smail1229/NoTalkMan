@@ -1,0 +1,11 @@
+电脑/网络 软件开发 数据库DB 
+求“表达式求值”的C语言程序（数据结构类）
+&#47,^(乘方);急用啊。要求输出也是整形，急用啊，(,%(取余)！要求这个程序能运算+！<br />加减乘除我能做出来,)(括号)<br />其中参与运算的数字都是整形,-,*，可是乘方和取余的应该怎么写啊
+就应该能自己写出来乘方和取模<br />乘方的运算级要比乘和除要高，取模和乘除是一样的<br />有一种比较偷懒的办法;并进行处理，就是首先遍历符号堆栈中寻找&quot;^&quot，处理过后再按照你的方法把没有乘方的表达式算出来啦<br />加油哦既然你知道怎么算加减乘除
+4
+none
+http://zhidao.baidu.com/question/355596856.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/78656803.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/209428770.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/455285757.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/71014498.html?qbl=relate_question_4

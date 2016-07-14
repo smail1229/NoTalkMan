@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言函数前面加个指针是什么意思？
+none
+这个表示函数的返回值为(void *)<br />用法;&#47void *GetNumber(int num) &#47：char *a = (char *)GetNumber(words)
+6
+C语言函数前面加个指针 表示函数的返回值是指针类型的。<br />实例：<br />#include &lt;stdio.h&gt;<br />using namespace std;<br />int* lpfun1(int,int);  &#47;&#47;声明一个返回指针为int类型的函数<br />void main()<br />{<br />  int *result=lpfun1(10,20);<br />  printf(&quot;%d&#92;n&quot;,*result);<br />  delete result;　　&#47;&#47;删除堆中的指针<br />  result=0;　　　　　&#47;&#47;使指针无效<br />}<br />int* lpfun1(int x,int y)<br />{<br />    int *p=new int(0);<br />    *p=x+y;<br />    return p;<br />}
+http://zhidao.baidu.com/question/61830568.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139925529.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127519540.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/495733448.html?qbl=relate_question_3

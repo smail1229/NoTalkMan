@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言。这两个程序，为什么定义为float时可以输出正确结果，而定义x，y为double就错了？
+#include&lt;stdio.h&gt;<br />void main()<br />{<br />   float x,y;<br />   printf(&quot;请输入x的值:&#憨长封短莩的凤痊脯花92;n&quot;);<br />   scanf(&quot;%f&quot;,&x);<br />   if(x&gt;=0)<br />    y=3*x+6;<br />   else<br />    y=-x*x+2*x-8;<br />    printf(&quot;y=%.2f&#92;n&quot;,y);<br />}<br /><br />二<br /> <br />#include&lt;stdio.h&gt;<br />void main()<br />{<br />   double x,y;<br />   printf(&quot;请输入x的值:&#92;n&quot;);<br />   scanf(&quot;%f&quot;,&x);<br />   if(x&gt;=0)<br />    y=3*x+6;<br />   else<br />    y=-x*x+2*x-8;<br />    printf(&quot;y=%.2f&#92;n&quot;,y);<br />}
+#include&lt;stdio.h&gt;<br />void main()<br />{<br />   double x,y;<br />   printf(&quot;请输入x的值:&#92;n&quot;);<br />   scanf(&quot;%lf&quot;,&x);<br />   if(x&gt;=0)<br />    y=3*x+6;<br />   else<br />    y=-x*x+2*x-8;<br />    printf(&quot;y=%.2lf&#92;n&quot;,y);<br />}<br /><br />/*可以用了。double是按双精度输入输出。一般使用%lf进行格式控制，可以理解成l憨长封短莩的凤痊脯花ongfloat。float对应的是%f，double对应的是%lf，这样用。二者输入的时候采取的格式不一样，内存中就有很大的不同。就好比float你用%d存一样。还是应该对应着来。但是平常的作业中double不经常用，一般float就可以满足要求了。*/
+4
+none
+http://zhidao.baidu.com/question/118946971.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/84672949.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/339725822.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/555038223.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/510568902.html?qbl=relate_question_4

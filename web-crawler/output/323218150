@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+能否清楚地解释一下c语言中的单精度和双精度？
+none
+但表示的精度（或者范围）不同：小数点后面可以跟7位：都是表示小数，如1。<br />单精度；<br />双精度小数点后面的数是单精度的两倍即14位.234567，如1可以这样理解
+9
+none
+http://zhidao.baidu.com/question/26441135.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/107977045.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89317458.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/583219882995513685.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/87346053.html?qbl=relate_question_4

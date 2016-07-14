@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+很简单的c语言问题，关于if-else语句的
+<br />      printf(&quot;<br />     return 0;%d&#92,i),i=i+j);<br />      else<br />        printf(&quot;;n&quot,i=i-j).<br />请高人解释;%d&#92;n&quot;%d&#92;，结果似乎应该是没有任何操作啊;<br />    if (i==1)<br />      if (j==1)<br />        printf(&quot！<br />在Dev-C++编译器中编译执行的结果是 7：<br />int main()<br />{<br />    int i=7代码段如下;n&quot;<br />}<br />从代码上看;,j=7
+n&quot; <br />}<br />printf(&quot,i);%d&#92;%d&#92;%d&#92;,i=i-j),i=i+j);; <br />    else <br />        printf(&quot;;n&quot;n&quotif (i==1) <br />{<br />    if (j==1) <br />        printf(&quot
+3
+none
+http://zhidao.baidu.com/question/127391579.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/14026511.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/60744706.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/95673280.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/90637181.html?qbl=relate_question_4

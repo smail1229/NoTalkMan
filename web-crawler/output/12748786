@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言编写sin函数？求教！
+none
+a;<br />printf(&quot;<br />b=cos(x);:&#92; <br /><br />}<br /><br />这是角度单位;<br />printf(&quot;<br />printf(&quot;<br />printf(&quot.14&#47,a;cosx=%,b;;180,b);.2f&#92;<br />scanf(&quot;,b,&x);<br />a=sin(x);sinx=%;<br />printf(&quot.2f&#92;n&quot;<br />scanf(&quot;Enter number;<br />x=x*3;);<br />printf(&quot,a)main()<br />{<br />float x;n&quot:&#92;;%f&quot;n&quot,&x);n&quot.2f&#92，需要换算一下<br />main()<br />{<br />float x;Enter number;cosx=%;);<br />b=cos(x).2f&#92;,b);n&quot,a);sinx=%;<br />a=sin(x);%f&quot;n&quot
+11
+<ol><li><p>C语言中要编写sin函数，实质上要利用sin的泰勒公式，然后根据泰勒公式，将其中的每一项进行分解，最后用循环，累加计算出最终结果</p></li><li><p>下面用for循环实现sin的算法，程序代码如下：</p></li></ol><p>#include&lt;stdio.h&gt;<br /></p><p>#include&lt;math.h&gt;</p><p>void main()</p><p>{</p><p>&nbsp;int &nbsp;i;</p><p>&nbsp;float &nbsp;x,sum,a,b; &nbsp;//sum代表和，a为分子，b为分母</p><p>&nbsp;char s;</p><p>&nbsp;printf(&quot;please input x&quot;);</p><p>&nbsp;scanf(&quot;%f&quot;,&amp;x);</p><p>&nbsp;s=1;</p><p>&nbsp;sum=0;</p><p>&nbsp;a=x; &nbsp; &nbsp; //分母赋初值</p><p>&nbsp;b=1; &nbsp; &nbsp; //分子赋初值</p><p>&nbsp;for（i=1;a/b&gt;=1e-6;i++）</p><p>&nbsp;{</p><p>&nbsp; sum=sum+s*a/b; &nbsp; &nbsp;//累加一项</p><p>&nbsp; a=a*x*x; &nbsp; &nbsp; //求下一项分子</p><p>&nbsp; b=b*2*i*(2*i+1); &nbsp; //求下一项分母</p><p>&nbsp; s*=-1;</p><p>&nbsp;}</p><p>&nbsp; printf(&quot;sum=%f\n&quot;,sum);</p><p>}</p><p>&nbsp; 3. &nbsp;关于上述程序的几点说明：上述程序的计算结果精确到小数点后六位；上述程序运用了sin的泰勒展开式 sin x=x-x^3/3!+x^5/5! ...... ，程序中将sin泰勒公式中的每一项拆成了分子，分母以及每一项前的符号这三项，以便于每一项的累加</p>
+http://zhidao.baidu.com/question/28333079.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/24702415.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/9496013.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/495951921206360004.html?qbl=relate_question_3

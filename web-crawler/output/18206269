@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言代码 static int a[]={5,3,7,2,1,5,4,10}; 中的 static 是什么意思？
+none
+fail
+0
+静态变量申明，表示该变量只在该变量所在的模块中有效。如<br />一个工程含多个源文件，其中一个文件有静态变量定义<br />1.c<br />static int a = 3;<br />另外一个文件同样有一个静态变量定义<br />2.c<br />static int a = 3;<br />尽管这两个变量同名但由于只在它所在的模块中有效，所以程序正确，相互将不产生任何影响。<br /><br />但是，对于非静态全局变量，如：<br />1.c<br />int a = 3;<br />另外一个文件同样的变量定义<br />2.c<br />int a = 3;<br />则会出现变量重复定义的错误，因为这里的变量在整个程序范围内有效。
+http://zhidao.baidu.com/question/78585327.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/510789934.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/538054831.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/60257549.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/89313174.html?qbl=relate_question_4

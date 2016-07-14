@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序运算结果分析。帮忙，谢谢。
+%d。为什么i和j会加一main()<br />{ int  i,%d;<br /> m=++i,n.10<br />我弄不太清楚运算过程,n),j,j;<br />  }<br /><br />答案是9;<br />  j=10.9,%d,i.11;<br />  i=8;<br /> printf(&quot,m,m。m为什么得9。谢谢;<br /> n=j++;%d
+就=9了。然后把9赋给m<br />而  n=j++是先将j的值10赋给n，再自加1的对于m=++i是先算++i，及i先自加1了
+0
+none
+http://zhidao.baidu.com/question/141898239.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/166065032.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1494041294748621019.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/476851953.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/51093464.html?qbl=relate_question_4

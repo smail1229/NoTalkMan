@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+为什么在C语言中，字符型不能用SCANF输入，而是用GETCHAR?
+none
+符型可以用scanf输入,&c)，使用scanf处理不好会出些问题， 一般在scanf语句后还要加一条getchar语句。<br />如果处理单个字符的话；来接受回车键;;一般也是连续用两次。例如：<br />char c;<br />scanf(&quot，或者连续多个输入单个字符时;<br />getchar();<br />其实使用getchar()，只不过在循环的输入;%c&quot
+11
+none
+http://zhidao.baidu.com/question/466650631.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/261672922.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1958966939174082300.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/100998836.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/161109534.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言，试题讲解！
+b)&&(y=c&gt,执行（x=a&gt;d)后y的值是多少,x=10,y=10设a=1,c=8，b=2,d=7？详细一点？<br />  <br />我想搞清楚这道题的意思
+b是假的所以x=0;d<br />由于a&gt;b则x=0;b中，如果x=(a&gt，x接受的是a&gtx=a&gt，y保持原来的值;b)是假的，后面就不用判断了;b的逻辑值如果a&gt，否则x=1<br />&&的判断，y就保持原来的值不变，不用进行y=c&gt
+1
+none
+http://zhidao.baidu.com/question/148248534.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/193942749.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239469911.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/547100662.html?qbl=relate_question_3

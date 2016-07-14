@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序题，编写一个函数f（n），求任意4位整数n的逆序数。例如，当n=2 345，函数值为5 432.
+还有让我不能理解的是，线代上2345的逆序数不是0么？不懂
+c)fun(int n){<br />int c=0;;10;<br />whlie(n&gt;0){<br />c=n%10;%d&quot;<br />printf(&quot;<br />n=n&#47
+0
+none
+http://zhidao.baidu.com/question/54594663.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/134307591.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/279423101.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/503806917.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100126227.html?qbl=relate_question_4

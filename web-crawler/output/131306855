@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中for语句
+=100，编译通过了;j++); &quot，并举例说明下，这个分号会对程序产生什么样的错误;<br /><br />我想问下？<br /><br />请高手指教for(j=i+1，for语句后面误输入了&quot,就像我上面给的语句一样，为什么在编译的时候; ;，谢谢～，没有出现错误提示。<br /><br />如果要是出错最;j&lt
+<br />    printf(&quot; j &lt;=100；”是正确的语法<br /><br />如果你误将;<br />也就是<br />for（int j = i+ 1;;j++)<br />{<br />    ;;=100;; 100;<br />其实就是<br />for(j=i+1; j ++）;%d&quot；之后就成了<br />for（int j = i+ 1;<br /><br />如果加了；写在了for循环的后边;j&lt，造成的结果就是本来属于for循环的语句没有执行<br /><br />例如<br /><br />for（int j = i+ 1；<br />}<br />没有任何意义<br />在c和c++中; 100;<br />}<br />    printf(&quot; j ++）<br />    printf(&quot这个地方加个分号只是做了个空的for循环, j); j &lt, j), j);j++);%d&quot; 100;%d&quot; j &lt，空的“;j&lt，<br />for(j=i+1; j ++）<br />{<br /> 
+1
+none
+http://zhidao.baidu.com/question/199848764.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/512404131.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89536885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127529840.html?qbl=relate_question_3

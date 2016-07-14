@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言的变量类型说明中,int,char,float等类型的长度是否是固定的？
+none
+它的长度与环境的字长相同，如果在编程中牵扯到类型或变量的字长问题，在16位的环境中具体不大一样，2个字节；32位环境中占4个字节，较为保险。<br />所以，建议用sizeof()获取，它占16位，而比如int型，char型在任何情况下都是占1个字节
+13
+none
+http://zhidao.baidu.com/question/1753993677399707908.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/274010499.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1690611324123783828.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/186286922.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253664261.html?qbl=relate_question_4

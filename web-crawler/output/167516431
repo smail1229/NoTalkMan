@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 if用法
+if是判断语句 <br />if(!l-&gt;next)<br />if(sel==1)<br />谁帮我解释下这两个 感叹号 L SEL 都是什么意思和两个语句又什么意思
+(l-&gt!l-&gt，(，那整个表达是就是假if(，否则执行<br />if(sel==1)就是简单的判断sel等不等于1;next))l所指向的next的值如果是非零（感叹号表示非运算）或者非NULL;next)<br />l是一指针;next)相当于<br />(!l-&gt，否则，<br />等于1，if后面的条件语句执行，if后面的条件语句就不执行
+3
+none
+http://zhidao.baidu.com/question/68241274.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94583534.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/401700875.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/331170392.html?qbl=relate_question_3

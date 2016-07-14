@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 int i=5;求++i*--i?和++i*++i？ 要详细解释的！！
+none
++i*--i = 25，所以先计算++i和--i。<br />++i.<br />原因和上面的相同，2次++i后，也是优先级的问题，--i后，i的值不变，5*5=25<br /><br />++i*++i = 49，i=7.<br />前置++和--的优先级高于*，再计算*
+1
+none
+http://zhidao.baidu.com/question/410609705.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/452600495.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/30911825.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/246338372.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/558273302.html?qbl=relate_question_4

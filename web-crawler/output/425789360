@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言的指针运算中*(p+1)与p+1有什么区别 p是指针
+none
+p+1是指p指针加1即p的下一个指针，*(p+1)是指p+1所指向的对象
+3
+<p>*(p+1)表示具体的数值，指针p所指向的内存地址单元的下一个内存地址单元中的值；</p><p>p+1 表示地址，指针p所指向的内存地址的下一个内存地址。</p><p><br /></p><p>可以通过下面的实例来理解*(p+1)与p+1之间的区别：</p><pre t="code" l="cpp">int&nbsp;*p;&nbsp;&nbsp;//&nbsp;定义一个int类型的指针p<br />int&nbsp;a[3]={1,2,3};&nbsp;//&nbsp;定义一个int类型的数组a，并进行初始化<br />p&nbsp;=&nbsp;a;&nbsp;&nbsp;//&nbsp;使指针p指向数组a的首地址<br />printf(&quot;%d&quot;,&nbsp;*(p+1));&nbsp;&nbsp;//&nbsp;输出2，等价于a[1]<br />printf(&quot;%x&quot;,&nbsp;p+1);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;以16进制形式输出a[1]的地址（如08ff12），等价于&amp;a[1]（&amp;为取地址运算符）</pre><p>&nbsp;<br /></p>
+http://zhidao.baidu.com/question/456301206.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/240709437.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/546910955.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/506726342.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/204777411.html?qbl=relate_question_4

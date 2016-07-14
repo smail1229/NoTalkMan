@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言程序添加新功能问题！
+=48&&c&lt;&#92,leader[i]:%d&#92;*输出姓名;wang&quot;<br />{<br /> char name[20],leader_name).count++.h&gt;%5s;*我现在想添加一个功能.count)：投票数量*&#47;;han&quot;j&lt,0.name)==0)&#47;=57)break;<br />  for(j=0,0};<br />  leader[j];i&lt;j++)<br />  if(strcmp(leader_name;<br />}<br />for(i=0;=10!=&#39;n&quot，<br />如果不小心输入0~9之间的数字就提示输入错误。利用这段语句实现,leader[i];<br /> int count,j;;     &#47;3;i++)<br />{<br /> scanf(&quot.name;<br />struct person    &#47;<br /> getch();;;<br />main()<br />{<br />int i,&quot：while((getchar());*判断输入的姓名是<br />  否于结构体中的姓名相等*&#47;   &#47;li&quot;*构建一个结构体*&#47;i&lt,leader[j];;i++)<br /> printf(&quot;*选票的数量*&#47;3;) {if(c&gt;<br />}leader[3]={&quot;stdio,&quot，并且程序会<br />要求重新输入;}*&#47;n&#39;<br />char leader_name[20];<br />for(i=1;%s&quot;&#47#include&lt,0
+wang&quot;i++)<br />  printf(&quot，并且程序会<br />  要求重新输入;<br />  }<br />    for(j=0;,leader[i];   <br />   /<br />      leader[j];<br />}<br />修改有三，防止溢出,0}.count);=10;li&quot；<br />2!=&#39;3:%d&#92;%5s,&quot;n&#39!=&#39;*构建一个结构体*/&#92;han&quot;i&lt,0! Please retry;=48&&c&lt、增加一个计数变量ptr;&#47；<br />3,j;<br />  int count;) {if(c&gt.count++.h&gt.name;=57)break、在不破坏while的情况下、做了一个输入限制;<br /> int ptr;<br /> <br /> ptr = 0;<br />    else<br />     leader_name[ptr++] = c,&quot,leader[j]:&#92;);i&lt;*判断输入的姓名是<br />      否于结构体中的姓名相等*/*我现在想添加一个功能;3;<br />    }<br /> }<br /> for(i=0，<br />  如果不小心输入0~9之间的数字就提示输入错误;20))<br />  {<br />    if(c&gt;*输出姓名;}*/n&#39;<br />  getch();     /%s&quot;<br /> for(i=1;*选票的数量*/j&lt。利用这段语句实现：<br />1;<br />struct person    &#47，最大不能超过20：投票数量*/&#92;i++)<br /> {<br />   scanf(&quot;<br />main()<br />{<br /> int i;)&&(ptr&lt.name)==0)/=48&&c&lt,0;<br />{<br />  char name[20];n&quot;j++)<br />    {<br />      if(strcmp(leader_name;,leader[i];<br />}leader[3]={&quot;;Input illegal;;stdio;<br /> char leader_name[20];<br />  while(((c=getchar());n&quot;=57)<br />     printf(&quot;,leader_name)：while((getchar())，将getchar的值取进c中#include&lt;<br /> char c
+0
+none
+http://zhidao.baidu.com/question/432330052026824644.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/212596462.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/77790363.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/156455510.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/680238849623949612.html?qbl=relate_question_4

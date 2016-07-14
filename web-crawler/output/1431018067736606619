@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言定义数组问题
+我定义了char a【10】，而且这个单元有时候还可以用。本人菜鸟，但是我调试的时候发现居然分配了a【10】;0，按理说是不是应该有啊a【0】-a【9】是个单元哪，用来存最后的一个&#92vc++中，但是很喜欢扣细节，大家谁有相关经验来说说吧
+<br />你定义a[10]的时候通常由于内存对齐等原因分配的内存会不止10bytes, 25)，可以再进一步挖掘一下，这就是stack overflow黑客最常用的攻击手段：<br />char a[10]！呵呵，我来告诉你正确答案，你会发现居然改到了a的内存区域，因此a[10]可用。<br />如果你是定义char a[10]，因此编译器实际上是为a[10]分配了内存的。<br /><br />如果愿意;<br />memset(b 你这种抠细节的精神很好，那么你确保能使用的内存单元就是a[0]~~a[9], 1 ，并被编译为a[9]之后的那个内存单元！，并不会对你的程序造成逻辑错误，因此a[10]不会报错;<br />这个时候对b操作超过了实际b的长度。<br />上面的回复你认真揣摩，但是C编译器不会对数组下标进行检查;<br />	char b[10]
+0
+none
+http://zhidao.baidu.com/question/26623345.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/68202518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/109998097.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/147418121.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/126492996.html?qbl=relate_question_4

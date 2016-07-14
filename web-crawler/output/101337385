@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言 定义函数的类型问题
+ FF(int a，函数类型和形参类型是否要一致,ploat b？<br />比如 定义一个函数,一个PLOAT，用户自定义一个函数，如果要定义函数类型的话,<br />3？比如一个INT，必须要定义函数的类型吗，函数的形参类型可以不可以不一致？<br />21,)  这样没有定义函数类型，这样算什么，形参不相同,char c
+ FF(int a,而是决定返回一个什么类型的结果,ploat b.<br /><br />比如 定义一个函数，如果要定义函数类型的话，可以不定义,和形参类型没有直接关系，函数类型.<br />但是形参和实参对应的类型要一致<br />3,但是有默认类型，一个函数中的多个形参是可以不一致的.<br />21,)  这样没有定义函数类型，这样--C默认是整形吧，形参不相同,char c
+3
+none
+http://zhidao.baidu.com/question/203442447.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/936199933264494252.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/184478118.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/279901133.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言分支结构里，单单一个if（x&gt;y）；是什么含义？
+<br />没有讲x大于y后该执行什么，这个指令该如何理解就一个<br />if（x&gt;y）
+相当于语句x&gt，然后比较一下;<br />如果x或y是表达式的话;y，然后什么都不做，就计算表达式的值
+0
+none
+http://zhidao.baidu.com/question/143894158.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/314976979.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1111185313007094419.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1541340519431836227.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/584208582136284925.html?qbl=relate_question_4

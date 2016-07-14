@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的宏是什么意思 游戏中的宏是什么意思？
+none
+fail
+1
+C语言中<br />宏定义就是定义外部变量 内部函数使用exiterm来调用<br />如：exiterm char c1,c2; <br />C语言中的宏定义的字是:define<br />C语言中的define宏定义有带参数的和不带参数两中形式<br />不带参格式是:#define 宏名 字符串<br />带参格式是:#define 宏名(参数1,参数2,...)  字符串<br />在C语言里宏定义只用来做的宏名替换,而不做语法检查的,因而它不是C语句,所以在宏定义的时候不需要在后面加&quot;；&quot;<br />宏也在C里也叫预处理命令,因为宏是在程序编译前先进行字符替换的,所以叫预处理.在C里还有其它的预处理命令如:<br />#define<br />#undef<br />#ifdef<br />等等<br /> <br />游戏中<br />-宏系统是通过玩家预先输入各种指令后，按下对应按键就可以做出连续动作的一种系统。<br />除了游戏中各种技能外，还包含各种社交指令，甚至是对话。<br />充分运用好宏的功能，能够给玩家带来很大的方便。<br />-到底什么是宏？<br />简单的说就是将一连串的动作或指令及文字输出集合成一个指令来处理。<br />-永恒之塔—–【 宏系统 】<br />通过宏系统，可以将游戏中经常使用的角色的动作做成一个按钮使用。<br />宏的登录可以通过点击宏窗口（U）中的“新的宏”创建，输入宏的名称、宏的说明之后输入宏命令，可以将几个角色动作保存成一个按钮。
+http://zhidao.baidu.com/question/14450648.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/983508874221496899.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163484373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/414209784.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356267550.html?qbl=relate_question_4

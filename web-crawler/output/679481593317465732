@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 问题 表达式15!=10和3＞4的值分别是 A true和 false B 1和0 C 0
+C语言 问题<br />表达式15!=10和3＞4的值分别是<br />A true和 false B 1和0 C 0和1 D 非零值和0
+答案是B。因为标准C语言中没有bool类型，你可以自己定义个1和0为true和false。
+1
+none
+http://zhidao.baidu.com/question/120916345.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/117969275.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161321652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/11613972.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/524119234.html?qbl=relate_question_4

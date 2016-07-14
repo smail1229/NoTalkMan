@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数组排序 简单选择排序
+a[j]) k=j;;n&quot;<br />  if(k;<br />printf(&quot，用简单选择法解决数组排序问题;i++)<br /> {k=i;j&lt;%d&quot,10);<br />  a[i]=a[k];stdio;<br />for(i=0，从小到大排序#include&lt;j++)<br /> if(a[k]&gt，程序编译和组建都通过,int n)<br />{<br />int i;i&lt.h&gt，就是结果不是想要的结果;<br />printf(&quot;n&quot;i&lt;<br />  }<br /> } <br />}<br />main()<br />{<br />int a[10];i++)<br /> scanf(&quot!=i)<br />  {t=a[i];i&lt;i++)<br />printf(&quot;;%d &quot;排好序的数组是,k;&#92，题目;<br />for(i=0;n-1,t;<br />for(j=i+1利用数组名作为参数函数调用，输入十个数;10,&a[i]);n;);10:&#92;),i;<br />  a[k]=t;<br /><br />void sort(int a[];<br />sort(a;<br />for(i=0,j,&a[i])
+后这句代码printf(&quot,&a[i]);把里面的地址（&）符里去掉;%d&quot;
+2
+none
+http://zhidao.baidu.com/question/360705231034786412.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148268978.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/496673328.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76787340.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/354704285.html?qbl=relate_question_4

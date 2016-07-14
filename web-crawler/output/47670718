@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中这个表达式怎么解释？（菜鸟级）
+c-‘a’等于0，看到这就有点疑问了！否认！（c-‘a’)的结果为1今天开始看的C语言；则表达式若有int a=2，就是说不是0，是不是就像平常说的一样，然后再来个；char c=‘a’？请会C语言的朋友指教下，所以是1呢
+int说的是数据类型什么的  char是字符型.
+0
+none
+http://zhidao.baidu.com/question/257833763.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/99605958.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/356378929.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101300024.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/101300277.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程 输入一个正整数n(1&lt;n《10),再输入n个整数,将最小值与第一个数交换，最大值与最后一个数交换，
+然后输出交换后的n个数
+include&lt;n&quot;<br />	}<br />	s=a[0];a[i])<br />		{<br />			s=a[i];n;<br />		}<br />	}<br />	a[p]=a[0],p;<br />	s=a[0];<br />			p=i;<br />	a[n-1]=s;<br />	for(i=1;<br /><br />	printf(&quot;<br />		}<br />	}<br />	a[p]=a[n-1];;i++)<br />	{<br />		if(s&lt;<br />	scanf(&quot;n,&n);i&lt;<br />	p=0;<br />	for(i=0;stdio;%d &quot;i&lt;<br />			p=i;&#92: &quot;n.h&gt;<br />	a[0]=s,n;<br />	printf(&quot;;<br />	int a[10];i++)<br />		printf(&quot,a[i]);i++)<br />	{<br />		if(s&gt;<br />	int s;<br />	for(i=1,&a[i]););%d&quot;%d&quot;<br />	for(i=0;a[i])<br />		{<br />			s=a[i];<br />	p=0;n;i++)<br />	{<br />		scanf(&quot;;n;i&lt;i&lt;);<br />void main()<br />{<br />	int i
+45
+none
+http://zhidao.baidu.com/question/414942331.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1176222216274257499.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554540387.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/78342603.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/75171662.html?qbl=relate_question_4

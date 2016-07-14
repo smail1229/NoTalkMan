@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言习题 急求助 麻烦解析下
+ fun2(a);<br />  fun1( ), t=0;stdio;<br />main( )<br />{  void fun1( ); k++;)。<br />#include &quot;<br />}<br />void fun2(int b[ ])<br />{  int k;;%d&quot;n&quot; printf(&quot; k&lt,t++)  a[k]=t+t, *(b+k));&#92; k&lt;<br />#define MAX 3<br />int a[MAX];MAX;<br />     for (k=0.h&quot;<br />     for(k=0;<br />}<br />void fun1( )<br />{  int k答案是  024<br />14．下面程序输出的结果是          ;MAX;  k++)  printf(&quot;void fun2(int b[ ])
+include &quot,<br />//k;          &#47,b[2],t自增到2：此时k因为有k++;/调用两个函数,并输出一个空行<br />  fun1( ); k&lt,即a[1]=2<br />/输出b[0];下面一行是函数的声明;<br />}<br />/：a[0]=0+0;然后 k，所以a[1]=1+1,但实际传的参数是数组a;<br />     &#47, a[1],<br />/n&quot;void fun2(int b[ ]); fun2(a)，t也自增到1; k&lt,t++)  a[k]=t+t;&#47：k;&#47, t=0;&#47，实现在main函数后，此时不再小于MAX，<br />main( )<br />{ &#47，所以a[2]=2+2;&#92;<br />&#47，所以for退出<br />     for (k=0, *(b+k));&#47，所以实际输出的是数组a;/第三次,b[1].h&quot;MAX;MAX; printf(&quot;%d&quot,即a[0]=0;&#47，也就是3,和fun2;<br />/第二次;函数fun1的实现<br />void fun1( )<br />{  int k; k++，fun1,即a[2]=4，所以第一次循环,t自增到3;stdio，所以k自增到1;申请一个容量为3的一维整形数组;<br />#define MAX 3          <br />int a[MAX]， <br />  void fun1( ), a[2]<br />     for(k=0，t刚开始都是0，<br />也就是a[0];/<br />}<br /><br />void fun2(int b[ ])<br />{  int k;  k++)  printf(&quot;)
+1
+none
+http://zhidao.baidu.com/question/161173326.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/561166594.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57954993.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/307454144.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/9973322.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中。若变量a与i已经正确定义，且i已正确赋值，那么语句&quot;a==i&quot;是否合法？为什么？
+none
+==  是一个布尔运算符， 用于条件测试中，如果在条件测试之外使用==  如果编译器检测不严格是没有问题的
+0
+none
+http://zhidao.baidu.com/question/251961821.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/432604391997241084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/5786690.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/463736237.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142181759.html?qbl=relate_question_4

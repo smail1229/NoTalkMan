@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问我这个C语言程序为什么输出不了预想值？
+include&lt;i++)<br />      if(ch[i]==&#39;<br />       }<br /><br />当遇到A时;<br />void main()<br />{<br />    char ch[80],i);<br />       j=i+1;a&#39，就输出它是第几个;);Please input!=&#39:&quot,j=1;)<br />     for(i=j;&#92;;=strlen(ch);<br />    while((ch[80]=getchar());%d&quot;<br />      }<br />       getch();<br />    printf(&quot;)<br />      {<br />       printf(&quot.h&gt;n&#39，为什么不行呢;<br />    int i;i&lt;stdio
+Please input;*<br />while((ch[80]=getchar());<br />        if(ch[i] == &#39;)<br />            break。<br /><br />至于输入的过程你可以这样改<br />    while(i&lt。; i&lt;<br />        if(ch[i] == &#39，80已经超过了你数组的最大值;)<br />            break;n&#39;<br />    }<br />后面的for循环也有问题!=&#39;<br />                i++;    while((ch[80]=getchar());)<br />     for(i=0:&quot;%d &quot;/stdio;=strlen(ch) ;&#92!=&#39;&#92;<br />    while(i&lt/<br />        i++,i);80)<br />    {<br />        ch[i] = getchar();<br />    printf(&quot;)<br />      {<br />           printf(&quot。<br />你相当于在对一块未知的内存进行赋值;n&#39;i++)<br />      if(ch[i]==&#39;);。<br />*/n&#39.h&gt。直接看下面的代码就是了;80)<br />    {<br />        ch[i] = getchar().h&gt;<br />#include&lt;&#92;<br />    int i=0;<br /><br />#include&lt;<br />    }<br />/a&#39;&#92;<br />    i = 0;)<br />相当于一直在给ch[80]这个元素赋值;string;<br />      }<br />       getch()，这是很危险的;<br />void main()<br />{<br />    char ch[80];n&#39
+0
+none
+http://zhidao.baidu.com/question/218351484.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239954666895592004.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/489451220.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1754185673845834028.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/465100349.html?qbl=relate_question_4

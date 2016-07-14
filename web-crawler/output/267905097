@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的static与函数变量
+none
+fail
+2
+你在函数中定义static变量，在定义的时候须得给他赋值，而且在程序运行中，只有第一次调这个函数时你所赋的值才有效果，之后每次调此函数，都不会重新给他赋值了（例如staitc a = 10,下次跑这个函数时不会跑这句话了。）。不过你可以在函数中改变这个值，并且这个值会被保留下来，当你下次调这个函数的时候，得到的值会是你最后给变量所赋的值。 <br />static 变量 是可以改变的。只是在初始化时候只会赋值一次而已。。。比如你在一个函数里定义 X 变量，那么你每次调这个函数都会去定义这个变量吧，但是如果你把 X 定义为 static 类型，那么你只会第一次掉它的时候会去定义它，后面调这个函数时，X 变量就已经存在了不会再去定义。但是它的值还是可以改变的。你可以通过赋值语句改变static变量的值 .
+http://zhidao.baidu.com/question/90486076.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/461089266.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/363311887.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/209940728.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/246558331.html?qbl=relate_question_4

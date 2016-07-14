@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 输入英文字母 通过整形数组表示 输入的字符种类和次数
+<br />	}<br />	for(i=1;#&#39，比如count[65]表示a,&r);<br />		c=getchar();<br /><br />int main()<br />{<br />	int count[123]={0};<br />	printf(&quot;<br />    printf(&quot!=&#39;;stdio;);<br />	int i=0;c&quot;++i)<br />	{<br />		r=i+48, 其数值表示出现次数<br /><br />#include&lt;请输入一串字符并以#结尾&#92;stdlib;count[i];<br />	c=getchar();n&quot;)<br />	{<br />		count[c]++种类是通过ASCII 表示的;<br />	int c=0.h&gt;<br />	while(c;<br />#include&lt,&count[i]);%d&quot;;<br />	printf(&quot;<br />	char r=0.h&gt
+)<br />	{<br />		count[c]++：&#92;请输入一串字符并以#结尾&#92;i&lt;i&lt;stdlib;,count[i])#include&lt;<br />	c=getchar();n&quot;<br />	int i=0.h&gt;/#&#39;<br />	}<br />	printf(&quot;128种asscii码<br />	for(int i=0;<br />	for(i=0;128,%d&#92;<br />	while(c;%c;<br />int main()<br />{<br />	int count[128];<br />	printf(&quot;未输入必须初始化数组<br />	char c;++i)<br />	{<br />	printf(&quot;stdio;&#47!=&#39;<br />#include&lt;);<br />}<br />	return 0;//++i)<br />		count[i]=0;);128,i;所有统计结果如下;n&quot;<br />		c=getchar();n&quot.h&gt
+1
+none
+http://zhidao.baidu.com/question/76129183.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/459889052.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424940861.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/43165776.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/123172921.html?qbl=relate_question_4

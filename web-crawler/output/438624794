@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+C语言中if(x&lt;y)x+ +;y+ +;else x――；y――; 这个语句为什么是错的啊 谢谢大侠了 急
+none
+if(x&lt;y)x+ +;y+ +;else x――；y――; <b珐氦粹教诔寄达犀惮篓r /><br />里面要加括号吧<br />if(x&lt;y){<br />x+ +;<br />y+ +;<br />}else {<br />x――；<br />y――;}
+0
+none
+http://zhidao.baidu.com/question/14026511.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/95673280.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/90637181.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127391579.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/309699338.html?qbl=relate_question_4

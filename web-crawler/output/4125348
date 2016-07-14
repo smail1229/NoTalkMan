@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言:如果要定义一个可以存放5个元素的数组a,是int a[5]还是a[4]?
+none
+那就是<br />int a[4]<br />    因为.a[3]，数组的变量是从0开始的,那么这个元素就被存放在a[0]中。<br />    你只要记住数组是总0开始的就可以了.a[4]，比如你的第一个元素是一个int型的200.a[2]，然后是a[1]你需要定义一个可以存放5个元素的数组，一共5个
+0
+none
+http://zhidao.baidu.com/question/272818491.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/567619008.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/295364671.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/361887314.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1110085495792772939.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 若有定义语句int a, b;double x;则下列选项中没有错误的是？选C？
+若有定义语句int a, b;double x;则下列选项中没有错误的是？选C？<br />switch（expr1）中，expr1只能是byte   short   int   char类型。其他的类型不行<br />A)switch(x%2)              <br />{case 0: a++; break;   <br />case 1: b++; break;     <br />default : a++; b++;     <br />}               旦储测肥爻堵诧瑟超鸡                <br />B)switch((int)x&#47;2.0<br />{case 0: a++; break;<br />case 1: b++; break;<br />default : a++; b++;<br />}<br />C)switch((int)x%2)        <br />{case 0: a++; break;     <br />case 1: b++; break;       <br />default : a++; b++;       <br />}                               <br />D)switch((int)(x)%2)<br />{case 0.0: a++; break;<br /> case 1.0: b++; break;<br /> default : a++; b++; <br />}
+是的选c，A)switch(x%2)   中的x没有保证是整数而%要求两边都必须是整数<br />B)switch((int)x/2.0中（）优先级高于/得到的数并不是整数而是浮点数<br />D)switch((int)(x)%2)<br />{case 0.0: a++; break;<br /> case旦储测肥爻堵诧瑟超鸡 1.0: b++; break;<br /> default : a++; b++; <br />}中case0.0这数字类型以上面int不同希望对你有帮助
+3
+none
+http://zhidao.baidu.com/question/186286922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/142181759.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/327982052.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/510568902.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/222044712.html?qbl=relate_question_4

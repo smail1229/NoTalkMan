@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道c语言二级题目求解。
+none
+就输出4,此n=4<br />然后退出for()循环，就不执行下面的n++;<br /><br />当i=4的时候;if(i%3)continue;然后就跳出循环，但是执行for()内的n++，if(i%3)continue成立，就不执行n++！：不执行下面的语句，就执行n++,n=3,即n=2，执行for()内的n++;<br />然后执行for()内的n++;n=1<br /><br />当i=3的时候if(i%3)continue不成立，开始新的循环，这是do（）while内的n！<br />要知道continue的作用是;2%3=2条件成立：<br />当i=2的时候！你好
+0
+none
+http://zhidao.baidu.com/question/384830858.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/183461125.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1752963655948095668.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/588963298.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/176605908.html?qbl=relate_question_4

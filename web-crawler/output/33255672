@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言sin程序（好答案追加分数）
+01 英文版&quot,y)<br />getch();<br />printf(&quot;Enter x=&quot.0000000000  ;%f&quot;);Turbo C 2;ny=%、输出的都是双精度型的啊。<br />（我用的是 &quot。，含义是什么;<br />scanf(&quot：<br />#include&lt？;语句有何作用;&#92,&x);<br />y=sin(x);)。<br />顺便问下;stdio;,y的变量类型改为double？<br />怎么回事;<br />printf(&quot，但是把x,则一按RUN.10f&quot，程序结尾的getcj()。怎么回事，就输出y=0我编了如下程序？函数sin()输入;.h&gt;}<br />程序运行正常.h&gt;math,y;<br />main(){<br />float x;<br />#include&lt
+吗,也就会结束了,不是0就是1了.计算时.<br /><br />一句话;<br />n=(int)(sin(x)),你可以强制转化,系统自动进行将x转为双精度型!;语句作用程序没错;按任意键结束&quot;后,<br />当然不用也可以看; 这样不是可以变成int了.<br /><br />输出的双精度,<br />不让程序提前结束:<br />为了让你很好的看程序结果.实际其精确度也是有限的.就象带保险套一样!.  <br />这样加了一次保险.<br />当然了.<br />但这样似乎没用?<br />当你想看结果时.<br /><br />程序结尾的getch(),你想要4位的就不行的!,但是上面不是显示&quot,还可以看!<br />我也在TC上运行正确.<br /><br />加上getch()!,它就是为了让你安全看程序结果,要不假设它的精度才精确到小数点后2位,这个函数的作用是从键盘(控制台)上接受一个字符!!<br /><br />函数sin()的输入的精度足够高,如,x也可以是整数,不小心按一次,按多了一次:<br />int n,不小心按了哪个键看不到了
+4
+none
+http://zhidao.baidu.com/question/28333079.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97583416.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/519465199.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/129721201.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/244135017.html?qbl=relate_question_4

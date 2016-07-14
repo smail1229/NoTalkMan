@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如何用c语言把一个数（三位数）反向输出，程序越简单越好，比如输入123则输出321
+none
+fail
+1
+e&lt;stdio.h&gt; <br />main() <br />{ <br />int a,b,c,e; <br />printf(&quot;请输入一个三位正整数: &quot;); <br />scanf(&quot;%d&quot;,&a); <br />b=a%10; <br />c=(a&#47;10)%10 <br />e=a&#47;100; <br />printf(&quot;%d%d%&#92;n&quot;,b,c,e); <br />} <br />就可以拉
+http://zhidao.baidu.com/question/143848206.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/330734001.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/119058774.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241983983.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/553070149.html?qbl=relate_question_4

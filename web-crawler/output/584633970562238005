@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中编程循环体问题
+none
+应该是float或者doube，可以改成比如sum=11，那么b/a的结果也是int而不会是小数.0*b&#47、你运算的结果应该是小数;a+sum;a+sum，所以sum不能是int型、如果ab均为 int;<br />2;<br />3、sum=b&#47
+0
+none
+http://zhidao.baidu.com/question/1924849447816041067.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169404665.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/154685335.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/79977135.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1765655725664327980.html?qbl=relate_question_4

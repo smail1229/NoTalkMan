@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 字符串数组
+<br />    }<br />}<br /><br />输入多个字符#include&lt;n;%c&quot;%c&quot;i++)<br />    {<br />        scanf(&quot;stdio,&n);;<br />    char p[100];%d&quot;<br />    for(i=0;;<br />void main()<br />{<br />    int i.h&gt,&p[i]),p[i]);i&lt;;n,n，不知道问题出在哪了;<br />    scanf(&quot;i++)<br />    {<br />        printf(&quot，请指教，却只能输出一个字符;i&lt;<br />    }<br />    for(i=0
+%c&quot;;n&quot:%d&#92;/now i is ,i);i&lt;;the location of the point is ,p[i]);;i++)<br />    {<br />     printf(&quot;/n;i&lt,n，在其他的高级语言中向这样的错误就不存在;;<br />    }<br />    for(i=0，要使用语句<br />fflush(stdin) 将缓存清空可正常执行<br />此语句不建议经常使用，这是C语言的不足:%d&#92;%c&quot;<br /> main()<br />{<br />    int i;i++)<br />    {<br />     printf(&quot;<br />     fflush(stdin);<br />        printf(&quot，但却是没有办法的办法了;n&quot;n;%d&quot，在学C的时候先应付着<br />赶快去试试吧…………<br /><br />#include&lt;清空缓存<br />        scanf(&quot,&n);<br />    scanf(&quot;stdio;<br />    char p[100].h&gt导致这个问题的原因是缓存满了,&p[i]);<br />    for(i=0;,i)
+3
+none
+http://zhidao.baidu.com/question/562639168.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/554860391.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/544507374.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183501512.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/124689734.html?qbl=relate_question_4

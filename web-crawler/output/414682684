@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+弱弱的问一下，c语言中，这两条语句[for (i=10;i&gt;=1;i&#47;=2) printf(&quot;%d &quot;,i++);]的输出是什么？
+我用NetBeans IDE 7.1.1输出的结果是1循环，为什么啊
+你看到的是1循环<br />前面的由于被刷屏了<br />没看到而已<br />输出应该是<br />10 5 3 2 1 1 1 1 ……<br />后面都是1循环
+1
+none
+http://zhidao.baidu.com/question/414351604.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5937574.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/523169495.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/290744492.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/295347235.html?qbl=relate_question_4

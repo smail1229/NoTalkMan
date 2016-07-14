@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用什么软件在64位的计算机上编写c语言程序？
+谢谢，不能编译等问题）。在学校机房用的教学软件是Turbo C（好几十年前的破软件），让我能装Turbo C。我很苦恼，介绍款能在64位机上编写C语言的程序（我也试过些其他编写C++的软件，但是我的财富值只有4，但是用来编C有问题，学C语言编程，但是我们只要学到C语言，Turbo C用不起来。后来用Emacas。请懂行的高手帮帮我，不用学C++，64位机还是不能用来编程。问题是我的笔记本是64位的机子，不是我小气，或者教我改变一下电脑的配置设置。对不起各位，给不了分我是学生
+而且不支持c99标准、codelite都行的 <br /><br />visual studio系列对c++支持还可以（6，要建立一个c语言工程很麻烦，而且只能在windows上运行。<br /><br />我说的那两个都是开源的，但是对c语言支持不太好，对c++和c支持都很好，他是收费的.0版本除外），免费的，最重要的是codeblocks
+17
+none
+http://zhidao.baidu.com/question/1431691513521592419.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/121168163.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/11586554.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/62175853.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/5152084.html?qbl=relate_question_4

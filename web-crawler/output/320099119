@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 中的 &gt;&gt; 是什么意思 int r=8; printf(&quot;%d&#47;n&quot;,r&gt;&gt;1);
+none
+fail
+1
+“&gt;&gt;”是C语言中的位操作符，在谭浩强的《C程序设计》中第12章讲位运算的里面有讲到有关位操作的知识。“r&gt;&gt;1“ 按位向右移动1位，8的二进制码：00001000右移后：00000100，记住是每一位都右移，如：a=163,二进制：10100011，a&gt;&gt;2后：00101000，移位后超出的自动去掉。另外还有“&lt;&lt;&quot;左移位，&quot;&&quot;按位与，&quot;|&quot;按位或，&quot;^&quot;按位异或，&quot;~&quot;按位取反等操作符，这些操作符主要是在某些需要对二进制位进行操作的地方用到，很方便，比如某些时候你希望用一个二进制位表示一个状态或者其它什么信息时，把这些信息用一个位保存起来（每个位代表一个信息，节省空间，传输也方便，在上位机与下位机通信时经常会用一个字节的位来保存信息），而这个时候的某些操作就需要进行位运算，它会给你的程序带来很多方便。<br />      你可以看看书，谭浩强那本是不错的C入门书籍，刚看位操作时可能不太好明白，因为不知道它能干嘛，平时写程序也很少用到，我学这个的时候就是这样，几乎是随便看看就没管它了，后来到工作中偶然一个机会用到了它，那时才对这个位操作有了一点认识，所以编程的事还要多实践、多练习，在实践中体会、理解。
+http://zhidao.baidu.com/question/508328971.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/178252739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/232796019.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/449735272.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/412206114.html?qbl=relate_question_4

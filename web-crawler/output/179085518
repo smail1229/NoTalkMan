@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言: int *p=&a绝对是不对的吧？
+呵呵，初学者。
+int *p！<br />在和类型一起申明的时候是应该这样写，就是前面有内省的时候*p表示的不是一个值这个写法是正确的啊，是一个整形指针；p=&a。可以改为如下。<br />因为是申明
+5
+none
+http://zhidao.baidu.com/question/87685578.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/100700518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/82145024.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/62088280.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/544886679.html?qbl=relate_question_4

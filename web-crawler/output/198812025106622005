@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设a=3,b=4,c=5,则逻辑表达式“!(a+b)*c-1&&b+c%2”的值是？
+none
+整个表达式的值自然就是1（真）了，是该表达式中优先级是最低的，很无语。<br />表达式中的&&，楼上楼下的门外汉们难道就看不穿这点玄机么……<br />智商也太低了&&两边的值都为非0
+1
+none
+http://zhidao.baidu.com/question/76563579.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1511189518868940460.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261383909.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1174952408301845179.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/435052603.html?qbl=relate_question_4

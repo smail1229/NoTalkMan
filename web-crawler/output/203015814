@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的return(-1),return(-2),return(-3),return(-4)是什么意思呢？？请高手指点
+ <br />    fd = open(name); <br />           return(-1); <br />            return(-4),j;; <br />    fat[j];1&#39;  &#47;=MSD+2) &#47;j&lt.firstdisk = j;MSD+2; <br /><br />    for(i=2.name; <br />    cur_dir-&gt; <br />    { <br />           if(cur_dir-&gt;;*文件名大于8位*&#47; <br />    cur_dir-&gt!strcmp(cur_dir-&gt;) <br />                     break;*将空闲块置为已经分配*&#47;*---------------------------------*&#47;*找到第一个空闲子目录*&#47;j++) &#47;*-----------填写目录项-----------------*&#47; <br />    &#47;directitem[i];  <br /><br />for(j=ROOT_DISK_NO+1;j++) &#47;=MOFN) &#47.size = 0.name; <br />         <br />    if(strlen(name)&gt.next = j;directitem[i];0&#39;=DISK_NUM) <br />  return(-5);directitem[j].property = &#39; <br />    if(u_opentable;directitem[i];i&lt.em_disk = &#39;DISK_NUM; <br />            return(-2);0&#39;*文件已经存在*&#47;*打开文件太多*&#47; <br />    { <br />           if(;directitem[i];8) &#47; <br />    cur_dir-&gt; <br />     <br />    for(j=2; <br />    cur_dir-&gt;*无空目录项*&#47; <br />    } <br /> if(j&gt;directitem[i];MSD+2; <br />    return 0.cur_size&gt,name)) <br />                     break;directitem[i];j&lt; <br />    strcpy(cur_dir-&gt; <br />    &#47.em_disk==&#39.firstdisk==-1) <br />                     break; <br />            return(-3);*检查创建文件是否与已存在的文件重名*&#47; <br />    { <br />           if(fat[j];*找到空闲盘块j 后退出*&#47;              <br />    }  <br />    if(i&gt;    <br />    } <br /> if(j&lt;i++) &#47;MSD+2)     &#47关键函数及程序流程图<br />int create(char *name) <br />{ <br /><br />    int i,name)
+就如你看到它注释上写的...<br />-1文件名大于8位<br />-2无空目录项<br />-3打开文件太多<br />-4文件已经存在
+4
+none
+http://zhidao.baidu.com/question/441556037.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/161842699.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2202072635624910588.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1702123083493714300.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/424084280951570972.html?qbl=relate_question_4

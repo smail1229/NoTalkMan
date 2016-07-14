@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言头文件中，为什么定义了函数还要定义这些宏呢？这个有什么用以吗？
+none
+<br />而至于某些人说的可以加快CPU处理速度，而不必在整个源文件中修改，然后再编译连接、宏运行的速度更快。<br />编译器对于源文件首先是进行宏替换，我并不认同，只要修改宏定义就行了当出于某些原因需要对数据做出修改
+0
+none
+http://zhidao.baidu.com/question/585360452.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/414973373.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143044196.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/447409521.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2116622749928501707.html?qbl=relate_question_4

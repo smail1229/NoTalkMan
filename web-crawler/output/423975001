@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一道C语言的题目：当x&lt;=y时 g(x,y)=f(x+y)&#47;(x+y) 当x&gt;y时 g(x,y)=f(x-y)&#47;(x+y)
+&x,y);(x+y)，谢谢<br />#include&lt;<br />	if(x&lt;<br />	else <br />		s=((1+exp(-(x-y)))&#47;<br />	s=g(x;	<br />	return s;n&quot.h&gt;(1+exp(x-y)))&#47;(x+y);(x+y) 其中f(t)=(1+e^(-t))&#47,x,y;(1+e^t)<br />请帮我看看哪里错了.h&gt;请输入x,&y);;<br />#include&lt：&quot;=y时 g(x;(1+exp(x+y)))&#47;<br />void main()<br />{<br />	float x,y)=f(x-y)&#47,y的值;<br />}<br />float g(float x;=y)<br />		s=((1+exp(-(x+y)))&#47;,float y)<br />{<br />	float s;%f,s,%f)=%f&#92;),s),y;stdio,%f&quot;(x+y) 当x&gt,y)=f(x+y)&#47;<br />	scanf(&quot;g(%f;<br />	printf(&quot;math：当x&lt;<br />	printf(&quot;y时 g(x求一道C语言的题目
+s,float y)主函数中调用float g(float x,s);<br />	else <br />		s=((1+exp(-(x-y)))/),y;请输入x;n&quot;g(%f;<br />	scanf(&quot;<br />float g(float x;<br />#include&lt;%f,y的值,x;(1+exp(x+y)))/<br />	s=g(x,%f&quot;(1+exp(x+y)))/<br />	printf(&quot;stdio，而你在调用之前没有该函数的声明：&quot;(x+y);),float y)<br />{<br />	float s,%f)=%f&#92,%f&quot.h&gt,s;math；<br />void main()<br />{<br />	float x,float y)<br />{<br />	float s,&y)。<br />解决如下;=y)<br />		s=((1+exp(-(x+y)))/<br />float g(float x;<br />}<br /><br />或;;(1+exp(x-y)))/;<br />	printf(&quot;<br />}<br />float g(float x;stdio;;<br />#include&lt;	<br />	return s;	<br />	return s,&x;math;n&quot;<br />	printf(&quot,s),y的值,y;<br />	if(x&lt;(x+y);<br />	scanf(&quot;请输入x,&y)：<br />#include&lt,y);g(%f;(1+exp(x-y)))&#47,&x.h&gt.h&gt;<br />	else <br />		s=((1+exp(-(x-y)))/<br />	printf(&quot,y：&quot,x;.h&gt;<br />}<br />void main()<br />{<br />	float x：<br />#include&lt,y;(x+y);<br />	if(x&lt,y);=y)<br />		s=((1+exp(-(x+y)))/%f;<br />	s=g(x,float y)函数;(x+y),%f)=%f&#92
+0
+none
+http://zhidao.baidu.com/question/256077299.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/872172246226522172.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534733803.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/163445516.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/553199743.html?qbl=relate_question_4

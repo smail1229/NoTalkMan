@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言知识
+谢谢;j&lt;%d=%d+%d&#92;n&quot;i&lt;<br /> else return 1，请高手帮我分析一下;i++)<br /> if(isprime(i)&&isprime(x-i))<br /> printf(&quot,x-i);<br /> <br /> }<br />main()<br />{ int a;<br /> }<br />当我输入12的时候运行结果是<br />12<br />12=3+9<br />12=5+7<br />我就不明白为什么会出现9;%d&quot;<br /> scanf(&quot;<br /> if(a%2==0) even(a);2;),&a);;no&quotint isprime(int y)<br />{ int j;y;=x&#47;<br /> else printf(&quot;<br /> for(j=2;,i,x;<br /> for(i=2;<br /> }<br /> void even(int x)<br />{ int i;j++)<br /> if(y%j==0) return 0
+<br />    else printf(&quot，以后想在语句块中添加语句;);no&quot;<br />    for(j=2;2;* 但是这里的if测试值一旦不为真;* 正确的代码 */<br /><br />int isprime(int y)<br />{<br />    int j;i&lt; /<br />}<br />void even(int x)<br />{<br />    int i;;%d&quot，则返回 1*&#47，对于语句块建议都加上{};%d=%d+%d&#92;<br /><br />    scanf(&quot;<br />        /<br /> }<br />错的原因<br />    你的代码编写风格太差了;j++)<br />        if(y%j==0) return 0, 当然这样编译器会提示下一句的语法是错的 *&#47,x;<br />    for(i=2，加上{}也是一个很好的编程风格;j&lt;stdio, 而是直接匹配else语句 返回1*/<br />    else return 1，如写成这样<br />    if(y%j==0) <br />    {<br />        return 0;* 比如 9%2 ;<br />        / }<br />    这样还有个好处;<br />    }<br />    这样很短的语句也可以写成 if(y%j==0) { return 0,&a);<br />#include&lt,x-i);n&quot，就会匹配里它最近的一个else 语句 */* 你的本意是对循环每个值的if测试值都不为真;<br />        /* 这里的返回值是失控的 */i++)<br />    {<br />        if(isprime(i)&&isprime(x-i))<br />        {<br />            printf(&quot;<br />        }<br />    }<br />}<br />void main()<br />{<br />    int a/<br />    }<br />    return 1;<br />        /;=x/* 如果你将上一句用 {}括起来就没事了;<br />}<br />错的地方<br />int isprime(int y)<br />{ <br />    int j，非常之明了<br />    即使语句很短;y;<br /><br />    if(a%2==0) even(a);y, 除非它的语句非常之短;j&lt, 这时不会测试 9%3.h&gt,i!= 0 ;<br />    for(j=2;j++)<br />    {<br />        if(y%j==0) return 0
+5
+none
+http://zhidao.baidu.com/question/141962815.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/33708491.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/511298683.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/165229232.html?qbl=relate_question_3

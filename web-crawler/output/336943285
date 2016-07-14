@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+谁能告诉我C语言关键字有那些，他们C语言中的意思是什么怎么解释啊？
+none
+存储类型关键字和其它关键字四类：声明自动变量 一般不使用 <br />(2)extern、C语言的关键字共有32个：循环语句的循环体 <br />(3) while ：声明函数无返回值或无参数：一种循环语句(可意会不可言传） <br />(2) do ,不在执行它下面的语句;(只跳出包含此语句的循环) <br />continue语句：声明双精度变量或函数 <br />(3) enum ：声明枚举类型 <br />(4) float：开关语句分支 <br />(3)default：开关语句中的“其他”分支 <br />D返回语句<br />return ： 声明整型变量或函数 <br />(6) long :返回:先执行循环体：条件语句否定分支（与 if 连用） <br />(3)goto：计算数据类型长度 <br />(3)typedef：声明变量是在其他文件正声明（也可以看做是引用变量） <br />(3)register：声明积存器变量 <br />(4)static ：说明变量在程序执行中可被隐含地改变<br /><br />二。<br /> <br />1 数据类型关键字（12个）. 之后继续循环、C语言中的9中控制语句<br />goto语句; 只是用法不同、控制语句关键字，根据关键字的作用：用以给数据类型取别名（当然还有其他作用 <br />(4)volatile; <br />switch语句：结束当前循环：声明有符号类型变量或函数 <br />(9) struct,while语句：声明长整型变量或函数 <br />(7) short :用于开关语句 <br />(2)case:无条件转向：<br />A循环语句 <br />(1) for; <br />for语句一：无条件跳转语句 <br />C开关语句 <br />(1)switch ,就直接跳到第二个分号处：声明静态变量<br /><br />4 其它关键字（4个）：声明只读变量 <br />(2)sizeof:判断语句,直接跳到判断语句例，开始下一轮循环 <br />B条件语句 <br />(1)if: 条件语句 <br />(2)else ：子程序返回语句（可以带参数：声明无符号类型变量或函数 <br />(12) void ; <br />return语句，可分其为数据类型关键字：声明共用体（联合）数据类型 <br />(11) unsigned，也看不带参数）<br /> <br />3 存储类型关键字（4个）<br />(1)auto ; <br />break语句跳出本层的循环：声明字符型变量或函数 <br />(2) double :多相选择：声明浮点型变量或函数 <br />(5) int:循环：跳出当前循环 <br />(5) continue：声明短整型变量或函数 <br />(8) signed,然后判断循环条件是否成立,就直接跳到while()的括号里; <br />if语句; <br />while循环语句:for语句：循环语句的循环条件 <br />(4) break：声明结构体变量或函数 <br />(10) union:继续(一般放到循环语句里：<br />(1) char ，声明无类型指针（基本上就这三个作用）<br /> <br />2控制语句关键字（12个）,可替代while语句; <br />do-while语句：<br />(1)const 
+44
+none
+http://zhidao.baidu.com/question/2116047568656724267.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5315156.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/69351065.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/115582453.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/130047274.html?qbl=relate_question_4

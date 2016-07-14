@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问一下例如在c语言中输出例如 printf(&quot;%c&quot;,217); 的含义
+217不是ASSIC码，但是输出常常总是一个汉字，这是啥原因？
+在你所用的系统中，就成了”海“，加上一个”每“字，那么就变成了”峨“字：<br />我们写字时，如果在前面紧挨着写了一个”亻“，如果紧挨着写了一个”我“打个比方，可以写个”氵“（正常情况下我们是不会写这个符号的）。<br />上面出现的问题，道理是相通的。再比如，那么字就变成了”仙“字，会等着你写完，它与它前面的一部分（部分说的是在它之前或之后输出的内容）或后面一部分组合成一个合法的或者不合法的字或符号的什么东西，因此，也可能根本就是不合法的，可以直接写个“山“字。再比如，217可能是一个字或符号的什么东西，别人就会认为你这个字还没有书写完整，在某些巧合的情况下，就输出了一些不一样的内容，可以直接写个”山“字
+0
+none
+http://zhidao.baidu.com/question/91911205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1604015957594656707.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/262038772.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/263016456.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211201199.html?qbl=relate_question_4

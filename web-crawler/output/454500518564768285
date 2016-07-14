@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我这个c语言程序为什么输出不是1 2 3 4 5呢？我想输出12345这个字符串的各个字符
+none
+你把输出语句里的&符号去掉就行了
+1
+none
+http://zhidao.baidu.com/question/99982982.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/82149497.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195679081.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/317060369.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/57288604.html?qbl=relate_question_4

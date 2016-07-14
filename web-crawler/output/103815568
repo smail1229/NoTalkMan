@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言逻辑运算  if语句问题
+则执行语句&quot;后x，z的值为多少;y=z，z=30;x=y;y) z=x;if（x&gt，y=20已知int x=10，y;&quot？  答案是 20  30 30<br />谁能解释下为什么
+不成立z=x不执行（if只管到后面第一个分号）;y；执行后面的;&quot：x=20;x=y；<br /><br />x=y;if（x&gt&quot;y=z;y) z=x;<br />y=z,则;<br /><br />先判断x&gt,则
+1
+none
+http://zhidao.baidu.com/question/936314038008390212.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214296855.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237909723.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1604163875523248107.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/93718411.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，自定义函数可以使用全局变量，为什么还要传递给函数一些参数呢？
+将函数要利用的参数全部定义为全局变量，这样函数不就不需要任何参数了吗？
+我和你一样是新手，但是我看了很多也做了很多<br />全局变量最好是少用，你想啊，你这里定义了一个全局变量，在这个函数中改了一下，另外的一个函数中又改了一下，用的少了还行，用的多了呢，你知道最后一次是谁给改的吗<br /><br />在说写对的话，代码很难读<br /><br />你上面的想法完全正确，可以用，但是那程缉搐光诽叱赌癸涩含绩序太简单了，没多大意义，所以作为练习是可以的，学习的过程和使用的过程差距很大啊，我一个新手总结的<br /><br />呵呵<br /><br />一起学习
+24
+none
+http://zhidao.baidu.com/question/168438634.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/337602396.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/332809113.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/84194479.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/138760122.html?qbl=relate_question_4

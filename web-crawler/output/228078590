@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的*(p++)和*p++的区别
+如题
+是一样的，都是先取出*p的值，然后让p++
+0
+none
+http://zhidao.baidu.com/question/135039348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226084447.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/536942769.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/552032146.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/477568545.html?qbl=relate_question_4

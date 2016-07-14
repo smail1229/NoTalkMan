@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+新手C语言有个不懂，哪位大神解释下
+b||++c;<br />}<br />a&lt,c=3;<br /> a&lt;;<br /> printf(&quot,c);%d&quot;b||++c 是什么意思啊main()<br />{<br /> int a=5,b=7
+b||++c  整个的值 ;b   判断a小于b是真是假    <br />||    或. 意思就是先C=C+1  <br /><br />||  或表达式 是 有一个真 就全部为真了. 直接返a&lt, 表达式有一个真 则为真. 那电脑就直接忽略了后面的式子;b 就是真的了,是真.  <br />++c   先自加 后使用 a&lt. 前面的a&lt.<br /><br />那 ++C 就没有被执行到
+0
+none
+http://zhidao.baidu.com/question/421311522.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1174438834646579899.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1923890484571721587.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1701826816275445500.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2202205131213468188.html?qbl=relate_question_4

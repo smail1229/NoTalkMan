@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问c语言里的制表符有什么用和这么用？
+none
+fail
+1
+printf(&quot;%s %d&#92;n&quot;,&quot;a&quot;,1112); <br />printf(&quot;%s %d&#92;n&quot;,&quot;aaa&quot;,1113); <br />结果应该是这样: <br />a 1112 <br />aaa 1113 <br />&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47; <br />printf(&quot;%s&#92;t%d&#92;n&quot;,&quot;a&quot;,1112); <br />printf(&quot;%s&#92;t%d&#92;n&quot;,&quot;aaa&quot;,1113); <br />使用制表符后结果: <br />a______1112 <br />aaa____1113 <br />下划线表示空格<br />制表符,顾名思义制表用的,制表就首先要对齐
+http://zhidao.baidu.com/question/459831785.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/231902590.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/22261184.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/262218948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/533000101.html?qbl=relate_question_4

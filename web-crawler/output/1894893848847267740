@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言中运算顺序问题
+<br />j++;<br />据我验证与<br />｛<br />str[j]=10str[j++]=10；<br />}<br />是一样的 怎么会这样 是特例吗
+再自增(自减)<br />例;结果为b=2;<br />&#47,a=2<br />int a=1：<br />int a=1;结果为b=1;<br />&#47,b;<br />b=++a;&#47自增自减分前置和后置两种<br />前置  ++j  --j<br />后置  j++  j--<br />他们的作用就是  j=j+1  或 j=j-1<br />区别是<br />前置的先自增(自减),a=2<br /><br />题目中的<br />str[j++]=10;<br />b=a++，再返回数值<br />前置的先返回数值,b;/<br /><br />属于后置自增<br />先返回j<br />即str[j]=10
+0
+none
+http://zhidao.baidu.com/question/495573579202012804.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1947291318553244028.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/549425716.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1860365676264112267.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1796835257803194707.html?qbl=relate_question_4

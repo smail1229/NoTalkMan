@@ -1,0 +1,11 @@
+教育/科学 
+C语言int a[3][2]={0}；怎么理解
+none
+的作用就是为这个3行2列的数组初始化为零，你明白不，你要是这样a[3][2]=0其实就是越界了，这个数组的最大的下标是2 1  因为从零开始的，如果你只定义了int a[3][2]，你测试一下，<br />  再就是了，，此时你在输出，你输出 显示全部是乱码，但是int a[3][2]={0}，但是你没有赋值的话其实这个是进行一个初始化，那么就会显示是6个零了
+7
+none
+http://zhidao.baidu.com/question/166254235.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/236424437.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1238426539788544459.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/352191782.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200295804.html?qbl=relate_question_4

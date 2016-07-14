@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+下面这个C语言程序怎么交换不了值啊？有指针的。
+<br />}<br /><br />void swap(int *p1.h&gt,b),int *p2)<br />{<br />	int *temp;%d%d&quot;<br />   scanf(&quot;<br />	temp=p1;<br />void main()<br />{<br />   int a,pb);<br />	p2=temp;<br />   swap(pa,*pb,*pa;a=%d  b=%d&quot,pb),pa;<br />	p1=p2;<br />   printf(&quot;stdio;<br />   void swap(int *p1;<br />   <br />   pa=&a,int *p2),a,b;;;<br />   pb=&b#include&lt
+楼的程序是对的;<br />要是这样，只是交换了pa，a b实际没有交换<br />printf(&quot,pb)，pb的地址;a=%d  b=%d&quot,pa;，<br />你要明白原理<br />你那样做
+0
+none
+http://zhidao.baidu.com/question/26923953.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87237737.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/36051250.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/624387844062931004.html?qbl=relate_question_4

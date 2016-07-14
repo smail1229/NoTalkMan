@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的全局结构指针变量如何在多文件中定义？
+h”还是“main.cpp”中我定义了一个结构struct student？要用“extern”吗.cpp”都不行，那head该如何定义，然后定义了一个student类的链表头指针struct* head？在“.h”“main？我定义在“。我想让head对于所有文件都可见
+在一个cpp中定义struct *head，在其他cpp中声明extern struct *head
+1
+none
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/197589503.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/711770177219999685.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/61701008.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/70472742.html?qbl=relate_question_4

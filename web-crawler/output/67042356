@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中怎样在输出语句printf中输出双引号
+麻烦用汉语叙述一下下啊 谢谢了 呵呵
+引号是特殊字符,要输出的话就要用转义符 &#92; &quot;&quot;&quot: &#92; &#92; ,就是双引号,比如; ,printf(&quot;)
+20
+none
+http://zhidao.baidu.com/question/57406346.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/397286098.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/475830068.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/486693358.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/89047184.html?qbl=relate_question_4

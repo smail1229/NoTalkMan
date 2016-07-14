@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在c语言中要从键盘直接读入一行字符串用gets函数能把多个以空格隔开的字符串,scanf函数能做到吗?gets函数
+none
+fail
+1
+gets函数以换行符作为输入结束符。比如<br />char s[1000];<br />gets(s);<br />这会读取一整行的字符并附加&#39;&#92;0&#39;保存到字符数组s中作为一个字符串。<br />scanf也可以达到同样的效果方法是<br />scanf(&quot;%[^&#92;n]&quot;, s);
+http://zhidao.baidu.com/question/117398561.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/145325291.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/546787455.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1987778733328744947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/398548560.html?qbl=relate_question_4

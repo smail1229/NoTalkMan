@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 #define
+,,,这是什么意思呢??#define DEBUG 是什么意思?<br /><br />我知道#define DEBUG 1 这句是把DEBUG宏定义为1,但上面一句后面没有给出被标识符DEBUG代表的字符串啊
+否则你这样是编译不通过的，单纯定义下DEBUG<br /><br />主要用来#ifdef Debug判断（我记得是#ifdef，就不会<br /><br />如果你的#if是#ifdef的话;<br />   }<br />} <br /><br />可以到网上查查，如果空字符的话编译不通过的）<br />如果以前定义过了;<br /><br />      CommitHelper()，#if是条件判断，或者你在DEBUG后写上1<br /><br />你这段程序就等价为<br />class PurchaseTransaction<br />{<br />   void Commit() {<br /><br />         CheckConsistency()，如果没定义，那么下面的语句会执行没什么
+2
+none
+http://zhidao.baidu.com/question/1365631031023708419.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/274835001.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/280717327.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/12589119.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言二维数组与指针
+若有定义：int w[3][5];，则以下不能正确表示该数组元素的表达式是<br />  A）*（*w+3） B）*(w+1)[4]  C）*(*(w+1)) D）*(&w[0][0]+1)
+<br />void main()<br />{<br /> int w[3][5];j &lt;<br /> printf(&quot;C;/ 3;;行越界啦<br /> printf(&quot;B;A;i++)<br /> {<br />  for(int j = 0;&#47B答案是正确的;;，所以越界啦。如果把4改为1就可以表示一个元素啦，随机值;n&quot;;B;，[]优先级高于*  所以 w+1 是行指针移到下一行(用q来表示) *q[4]  q[4] 是再往下移4行，也就是移到第三列  *(*w+3）就是第一行第三列的元素值<br />B  *(w+1)[4] ()和[]优先级相等: %d&#92，指元素<br />D *(&w[0][0]+1) &w[0][0]是列指针  &w[0][0]+1是列指针加1;<br /> }<br /> printf(&quot;i &lt: %d&#92;%d &quot,列指针再加*号是指元素<br /><br />#include&lt; 5;&#92;stdio.h&gt,*(w+1)[4]);j++)<br />  {<br />   printf(&quot: %d&#92;A;<br /> for(int i = 0,k = 1,*(w+1)[1])，我定义的数组时3行;<br />    printf(&quot;n&quot; 3;i++)<br /> {<br />  for(int j = 0;j &lt: %d&#92，但自左至右结合;<br />  }<br /> }<br /> for(i = 0,*(&w[0][0]+1));// 5,w[i][j]): %d&#92;<br />  }<br />  printf(&quot;<br />    printf(&quot，即 *(w+1)[1]<br />C  *(*(w+1)) w+1是行指针下移一行 *(w+1) 列指针;);n&quot，再加一个*号;n&quot;j++)<br />  {<br />   w[i][j] = k++;n&quot;;i &lt，用二级指针(w)来表示元素的必须有两个(*)号,所以*w是列指针(一级指针) (*w+3)是列上加3,*(*w+3))，因为二维数组名相当于二级指针：<br />A  *(*w+3) ()的优先级高于*;n&quot,*(*(w+1)))
+9
+none
+http://zhidao.baidu.com/question/445390964.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/23939583.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206932038.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/222059537.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/139386238.html?qbl=relate_question_4

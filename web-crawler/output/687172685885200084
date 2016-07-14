@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言，指针，地址值的传递
+none
+*a=x。意思就是说。<br />因为&x。所以传递的是地址，&y表示的是x，故*a表示指针a指向的变量即x的值，函数可以通过地址引用变量，*b=y,y&）引用就是x，b，y的地址，y的地址赋值给指针a，同理对函数myadd（&x
+4
+c语言中指针即地址，地址的传值可以引起参数的变化。<br />比如：<br />&x, &y是取这两个变量的地址，他们的作用空间在main函数里。然后函数调用把这两个变量的地址传递到函数myadd中，在函数中的*a和*b分别是引用地址指向的变量值，等于是取到了x，y本身的值。在myadd中直接操作*a可以改变x的值。<br />通俗来说因为&x，&y表示的是x，y的地址。所以传递的是地址。意思就是说，函数可以通过地址引用变量。
+http://zhidao.baidu.com/question/425679487.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/413137628.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1859676560482316227.html?qbl=relate_question_3

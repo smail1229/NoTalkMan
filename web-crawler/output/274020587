@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+写函数用以计算n的阶乘。用c语言来写简单些又能运行。
+none
+fail
+0
+#include &quot;stdio.h&quot;<br />int fact(int n)<br />{<br />	if(n==0||n==1) return 1;<br />	else return n*fact(n-1);<br />}<br />void main()<br />{<br />    int a;<br />	scanf(&quot;%d&quot;,&a);<br />	printf(&quot;%d!=%d&#92;n&quot;,a,fact(a));<br />}
+http://zhidao.baidu.com/question/144977259.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/10355063.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/6437242.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/355477380.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1448041844335052580.html?qbl=relate_question_4

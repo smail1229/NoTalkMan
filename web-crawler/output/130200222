@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言.定义一个函数实现交换两个整数的功能，（用指针做函数参数）。
+none
+fail
+0
+#include&lt;stdio.h&gt;<br />void swap(int *p,int *q)<br />{  int t;<br />   t=*p; *p=*q;  *q=t;<br /> }<br />main()<br />{ int a=5,b=4,*p,*q;<br />  p=&a;  q=&b;<br />  swap(p,q);<br />  printf(&quot;a=%d b=%d&quot;,a,b);<br />  return 0;<br />} <br />..
+http://zhidao.baidu.com/question/192935043.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/109422067.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/350914773.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/59644199.html?qbl=relate_question_3

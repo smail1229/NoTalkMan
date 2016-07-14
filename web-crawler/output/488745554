@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言的条件表达式表示m大于n且k不大于m和n中的任何一个
+none
+n && k &ltif(m &gt，那么k&lt，如果前面的条件成立;= n)<br />这样子判断应该可以;= n 更不可能大于m，如果前面不正确
+2
+none
+http://zhidao.baidu.com/question/24049832.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488748420.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/488744958.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/516640430.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/119760133.html?qbl=relate_question_4

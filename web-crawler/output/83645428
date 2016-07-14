@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言程序问题（if语句）
+<br />}<br />&#47,c=5;%d&#92:printf(&quot;%d%d%d&#92;i++)<br />   switch(i)<br />   {<br />    case 0：<br />main()<br />{<br />   int i;n&quot;<br />    default;;,t=99;3;%d&quot,c);输出结果是;%d&quot;c&&b&lt;b=a;a=t;;<br />    if(a&lt;n&quot:printf(&quot,c=3;c=t;<br />    case 2;;;&#47;%d&quot,i);<br />    else<br />        printf(&quot第一题如下,b=4,c);i&lt;a&&a&lt;：4599<br /><br />第三题如下（请附注说明break的作用,b=2;a=c;c)   t=b，我的书上不是很明确）,b);n&quot：<br />main()<br />{<br />    int a=3,b;   <br />}<br />输出结果是,a:printf(&quot;<br />    if(c=a)<br />        printf(&quot,i)： 1<br /><br />第二题如下;<br />    printf(&quot;<br />}<br />输出结果是;c)   t=a,i);%d&#92：<br />main()<br />{<br />int a=1;<br />    if(b&lt;<br />   for(i=0
+c=t：break的作用是结束本次循环开始下次循环，然后结束本次循环不会再执行下面的语句;c=t，因为b&lt,过在case 2。if语句如果不加符号&quot，此时执行a=c:printf(&quot，这是初学者经常犯的错误;%d&quot;a&&a&lt，所以if的判断始终都是真，第一次执行时i==0;我不知道你是不是掉了花括号还是别的;的话只会执行紧跟其后的语句。拿本例来说;a=c.接着执行if(a&lt;c判断为真所以语句 t=b;c)因为a&lt;n&quot。<br /><br />第三题;a=t;c&&b&lt。<br /><br />第二题，c的值变为99，因此打印出来的值是1，所以t=a将不会执行;{}&quot;被执行;这一句，此时C的值因为c=a而改为了1，然后执行b=a;c&&b&lt;a&&a&lt;语句的话;;：if(b&lt:前有break;c) t=a，应该使用if(c==a),i)，因为if(c=a)中的c=a是一个赋值语句将a的值赋给c第一题只会执行printf(&quot,c);c判断为假;得到最终结果;.如果你想判断c与a是否相等的话，那么只会执行case 0;之后得到a的值变为5;%d&#92，开始下一次循环此时i的值就变为1了
+1
+none
+http://zhidao.baidu.com/question/132555973.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/35456419.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/241567245.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/144540184.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/298396120.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，返回字符串形式的函数
+希望编一个函数能够返回一个字符串;%s&quot.h&gt;<br />       }<br />int main()<br />{<br />    char a[10];<br />    }<br />不能过;%s&quot,a);<br />char[] getString(char[] a)<br />{<br />       scanf(&quot;;<br />    getString(a)，请问应该怎么修改,&a);<br />       return a，但是希望用char[]形式返回不用string<br />这样编的话<br />#include &lt;;stdio;<br />    printf(&quot
+/这里我用gets(a);这里有错<br />{<br />       gets(a);<br />       }<br />int main()<br />{<br />    char a[10]; / /<br />    puts(p);/<br />char *getString(char a[] ) /这里我用puts(a);/&#47#include &lt;&#47,*p;<br />       return a;这里一个指针变量来接受返回的地址<br />    p=getString(a);stdio.h&gt
+1
+none
+http://zhidao.baidu.com/question/10353514.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92965182.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/128466074.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/369482828041919204.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1638547881613486500.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言sqrt
+i&lt;;n&quot,k;=200;m&lt。<br />1;<br />  }<br /> printf(&quot.程序分析;<br />        }<br />   leap=1？是开平方吗;<br /> for(m=101;<br />        if(h%10==0)<br />        printf(&quot。       <br />2,leap=1;}<br />   if(leap) {printf(&quot;<br /> printf(&quot：判断素数的方法.程序源代码，反之是素数;<br />main()<br />{<br /> int m;<br />   for(i=2：用一个数分别去除2到sqrt(这个数);math;)，则表明此数不是素数;%-4d&quot，并输出所有素数：<br />#include &quot.h&quot;<br />}<br />程序中sqrt的意思是什么;;&#92;nThe total is %d&quot;);i++)<br />     if(m%i==0)<br />      {leap=0,i;break,h=0;&#92,h),m);&#92;n&quot;m++)<br />  { k=sqrt(m+1);h++;=k题目，如果能被整除：判断101-200之间有多少个素数
+返回平方根，<br />也就是程序从2开始判断到它的平方根就可以判断它是否是素数。
+4
+none
+http://zhidao.baidu.com/question/50441651.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/152952102.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/427238287.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/70628650.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/116696309.html?qbl=relate_question_4

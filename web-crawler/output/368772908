@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言新手提问 如何定义数组下标为负数的数组
+none
+C语言不同于PASCAL和BASIC，C的数组下标只能从0开始，<br />自已再做加减
+0
+<p>下表为负的数组在 C 语言里并不是不能做到。</p><p><br /></p><p>首先，创建一个正常的数组 int A[20];。然后用指针指向其中间的元素 int *A2 = &amp;(A[10]);</p><p><br /></p><p>这样，A[-10 ... 9] 就是一个可用的有效范围了。</p><pre t="code" l="cpp">/*&nbsp;样例示范&nbsp;*/<br />#include&nbsp;&lt;stdio.h&gt;<br /><br />int&nbsp;main(int&nbsp;argc,&nbsp;const&nbsp;char&nbsp;*argv[])<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;A[20],&nbsp;*A2&nbsp;=&nbsp;&amp;(A[10]),&nbsp;i;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i=0;&nbsp;i&lt;20;&nbsp;i++)&nbsp;A[i]&nbsp;=&nbsp;i*2;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;for(i=-10;&nbsp;i&lt;10;&nbsp;i++)&nbsp;printf(&quot;%d\n&quot;,&nbsp;A2[i]);<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre>
+http://zhidao.baidu.com/question/80226729.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/52287448.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/313831553.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/360644956441588132.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/127252160.html?qbl=relate_question_4

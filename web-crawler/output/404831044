@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中“i=(m&gt;n?n:m)”是什么意思
+none
+果你发现有 ，说明他是个判断语句，满足条件，原型是 条件:  的表达式：结果2 <br />意思是，返回结果1  否则返回结果2 <br />你这里的意思就是  如果m&gt;n，那么 把i=n? ? 结果1
+6
+none
+http://zhidao.baidu.com/question/149449053.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/231679928.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/200008130.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/251742977.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/57816791.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言自定义函数的作用
+谢谢啦，就是说编写程序时用自定义函数是不是有什么便利，最近学到自定义函数？我对这样块很模糊，哪位高手能以实例帮我理清一下C语言中自定义函数的作用吗我是C语言自学者
+难道你每一组都要写这样的代码，楼主加油了;<br />else<br />   printf(&quot;;<br />等等;b)<br />   printf(&quot,a),30，比如你要给比较两个数字的大小;<br />}<br /><br />这样在你做100组数据比较的时候就可以直接调用<br />BIJIAO(10;<br />BIJIAO(20:<br /><br />void BIJIAO(float a;%f&quot;b)<br />   printf(&quot。如，希望可以帮到你;？比如说有100组，自定义函数的确是有很大的作用的;<br />else<br />   printf(&quot，所以;<br />b=100;<br />BIJIAO(99;%f&quot.2)。<br />就说这些吧;;<br /><br />但是如果你要重复给许多组数字做比较怎么办,float b)<br />{<br />   if(a&lt？那程序员就累死了，你可以这么写<br /><br />float a;<br />a=10，这样就大大提高了代码的重用性,12);%f&quot,b);%f&quot,100)！恩，并且输出大的数,a);<br />if(a&lt,b。在这里我给你举个例子吧;,b)，你就可以自定义函数，为了让相同相似的代码可以重复使用
+45
+none
+http://zhidao.baidu.com/question/87160252.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/119194476.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/90271471.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/182720540.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/5026337.html?qbl=relate_question_4

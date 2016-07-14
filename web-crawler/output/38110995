@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 如何给指针数组划分动态存储空间
+C语言 如何给指针数组划分动态存储空间.<br />比如:int *array俯紶碘咳鄢纠碉穴冬膜[]=malloc(8);<br />指定指针数组的大小.<br />对不起没有分了!!
+数据结构专门有讲的,下几个课件看看就行了.<br />1.分配内存空间函数malloc<br /><br />  调用形式： (类型说明符*) malloc (size) 功能：在内存的动态存储区中分配一块长度为&quot;size&quot; 字节的连续区域。函数的返回值为该区域的首地址。 “类型说明符”表示把该区域用于何种数据类型。(类型说明符*)表示把返回值强制转换为该类型指针。“size”是一个无符号数。例如： pc=(char *) malloc (100); 表示分配100个字节的内存空间，并强制转俯紶碘咳鄢纠碉穴冬膜换为字符数组类型， 函数的返回值为指向该字符数组的指针， 把该指针赋予指针变量pc。<br /><br />  2.分配内存空间函数 calloc<br /><br />  calloc 也用于分配内存空间。调用形式： (类型说明符*)calloc(n,size) 功能：在内存动态存储区中分配n块长度为“size”字节的连续区域。函数的返回值为该区域的首地址。(类型说明符*)用于强制类型转换。calloc函数与malloc 函数的区别仅在于一次可以分配n块区域。例如： ps=(struet stu*) calloc(2,sizeof (struct stu)); 其中的sizeof(struct stu)是求stu的结构长度。因此该语句的意思是：按stu的长度分配2块连续区域，强制转换为stu类型，并把其首地址赋予指针变量ps。<br /><br />  3.释放内存空间函数free<br /><br />  调用形式： free(void*ptr); 功能：释放ptr所指向的一块内存空间，ptr 是一个任意类型的指针变量，它指向被释放区域的首地址。被释放区应是由malloc或calloc函数所分配的区域：<br />如<br />main()<br />{<br /> struct stu<br /> {<br />  int num;<br />  char *name;<br />  char sex;<br />  float score;<br /> } *ps;<br /> ps=(struct stu*)malloc(sizeof(struct stu));<br /> ps-&gt;num=102;<br /> ps-&gt;name=&quot;Zhang ping&quot;;<br /> ps-&gt;sex=&#39;M&#39;;<br /> ps-&gt;score=62.5;<br /> printf(&quot;Number=%d&#92;nName=%s&#92;n&quot;,ps-&gt;num,ps-&gt;name);<br /> printf(&quot;Sex=%c&#92;nScore=%f&#92;n&quot;,ps-&gt;sex,ps-&gt;score);<br /> free(ps);<br />}
+5
+none
+http://zhidao.baidu.com/question/1957663618342758060.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/207240089.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/78105737.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/237402484.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，已定义：int x，则逗号表达式 x=5，3+x，x=x×2的值是多少？？（5， 16 ，10， 15）选择题。。。
+谢谢
+x应该是10才对。<br />第一个式子把5赋值给x<br />第二个式子3+x=8，当x本身值不变<br />第三个式子x自身乘2，故此时x=2*5=10
+5
+none
+http://zhidao.baidu.com/question/507564483.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/200765672.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/133420337.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/186699775.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/140127291.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C(14) 若有定义：double a=22;int i=0,k=18;则不符合C语言规定的赋值语句是
+k=18;int i=0C(14) 若有定义;则不符合C语言规定的赋值语句是<br />    A)a=a++,i++     B)i=(a+k)&lt;=(i+k)      C)i=a% 11        D)i=：double a=22
+C错，只有C中的%运算符运算的对象只能是整数，a为double，所以错
+18
+none
+http://zhidao.baidu.com/question/477321688.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/572345630.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/309833146.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/142181759.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/344792192.html?qbl=relate_question_4

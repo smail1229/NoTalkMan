@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中表达式a+3*-2&#47;(int)(a+b)-12详细的运算顺序是怎样的呢？其中a=1.7,b=2.4
+b=2;(int)(a+b)-12详细的运算顺序是怎样的呢。“3*-2”中的“*-”这样两个运算符可以相连吗.7C语言中表达式a+3*-2&#47？其中a=1？<br />谢谢.4
+*-2 这就是3乘以-2 ;4=1因为二个整形双目运算的时候还是整形.所以结果是-11;-6&#47
+2
+none
+http://zhidao.baidu.com/question/184521869.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356763566.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/350231038.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/339618720.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/490863670.html?qbl=relate_question_4

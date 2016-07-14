@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+C语言程序设计： 任意输入n个整数，分别统计奇数的和、奇数的个数、偶数的和、偶数的个数。
+题目给了以下提示：<br />①先输入数据个数n<br />②利用循环输入n个数；<br />③定义四个变量存放统计结果，具体统计语句放在循环中。<br 憨激封刻莩灸凤熏脯抹/>提示：循环体内必须有输入数据的语句、统计输入数据个数的语句。
+#include &lt;stdio.h&gt;<br />void main()<br />{<br />    int i,n,m,jh=0,oh=0憨激封刻莩灸凤熏脯抹,jg=0,og=0;<br />    printf(&quot;请输入n的值:&#92;n&quot;);<br />    scanf(&quot;%d&quot;,&n);//先输入数据个数n<br />    printf(&quot;请输入%d个数,按空格键隔开:&#92;n&quot;,n);<br />    for(i=0;i&lt;n;i++)<br />    {<br />  scanf(&quot;%d&quot;,&m);<br />  if(m%2!=0) <br />  {<br />   jh=jh+m;<br />   jg++;<br />  }<br />  else<br />  {<br />   oh=oh+m;<br />   og++;<br />  }<br />    }//利用循环输入n个数并计算<br /> printf(&quot;&#92;n奇数的个数:%d&#92;n奇数的和为:%d&#92;n偶数的个数:%d&#92;n偶数的和为:%d&#92;n&quot;,jg,jh,og,oh);//打印<br />}
+23
+none
+http://zhidao.baidu.com/question/235873868.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/367861358435396044.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/124452828.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/111062520.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/511212988.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言用#define定义函数块简单问题
+none
+fail
+0
+#define exchange(a,b) { &#92;<br />int t;&#92; <br />t=a;&#92; <br />a=b;&#92; <br />b=t;&#92; <br />} <br /><br />这里有个问题一定要注意：&#92;后面要紧跟回车，不能有空格，去掉空格，就不会报错了
+http://zhidao.baidu.com/question/206532359.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/446203671.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/72497551.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2138259631862202988.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/263012697.html?qbl=relate_question_4

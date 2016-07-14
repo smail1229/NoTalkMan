@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，给一个不知道元素个数的数组的所有元素赋相同的值
+怎么写，谢谢
+如同要使用sin()等数学函数时必须引入头文件#include&lt。<br /><br />但是要注意；来整体赋相同的初值可以利用系统函数memset(数组名：必须在程序开头引入头文件#include&lt;才可以使用系统中定义的memset函数;cmath&gt;memory.h&gt，sizeof(数组名))，初值;一样
+2
+none
+http://zhidao.baidu.com/question/97507531.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/25079825.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106539136.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92627560.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/16915105.html?qbl=relate_question_4

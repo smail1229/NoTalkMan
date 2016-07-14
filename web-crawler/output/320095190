@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+下列语句中符合C语言语法的赋值语句是
+A a=7+b+c=a+7；<br />B a=a+7；<br />C a=7+b，b+畅触扳吠殖杜帮森爆缉+，a+7；<br />D a=7+b，c=a+7；<br />额，我觉得四个选项都不对，正确答案是A，求解释，谢谢。
+你的“正确”答案错了。。。<br />A:在赋值表达式里，除了最后等号右面可以是运算表达式，之前的等号之间不能有运算表达式<br />B:正确<br />C:声明变量的时候如果同时赋值了，并且一次性声明多个，可以用逗号分隔，其畅触扳吠殖杜帮森爆缉余情况不可<br />D:同C
+8
+none
+http://zhidao.baidu.com/question/148726068.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/59370966.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/57879718.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/182012371.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488752892.html?qbl=relate_question_4

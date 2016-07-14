@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题。函数后面的括号里的标志符有什么作用？
+比如 int jsvalue(int bb[]),又如<br />void compute(void)<br />括号里的怎么理解
+即这个函数不含参数，函数返回值为整形；<br />void表示参数为空，参数分为形参和实参。<br />int jsvalue(int bb[])表示函数jsvalue的形参为整形数组，比如定义一个print函数函数后面的括号里面是参数
+4
+none
+http://zhidao.baidu.com/question/175206680.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/294339088.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/372618490.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101689562.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/160740277.html?qbl=relate_question_4

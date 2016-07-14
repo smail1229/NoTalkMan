@@ -1,0 +1,11 @@
+电脑/网络 编程语言 汇编语言 
+X.Y放俩个带符号位的数,比较大小,大的放Y,小的放X，请用汇编语言编写程序
+none
+DATA SEGMENT <br />    X DB 7<br />   Y DB 8<br />DATA ENDS<br />STACK SEGMENT STACK <br />   DB 200 DUP(0)<br />STACK ENDS<br />CODE SEGMENT<br />   ASSUME DS:DATA,CS:CODE,SS:STACK<br />START:MOV AX,DATA<br />             MOV DS,DX<br />     憨丹封柑莩纺凤尸脯建       MOV AL,X<br />            CMP AL,Y<br />             JL  NEXT        ;如果小于就交换<br />             MOV AL,X<br />              XCHG AL,Y<br />            MOV X,AL<br />NEXT:     MOV AH,4CH<br />             INT 21H<br />CODE ENDS<br />           END START
+1
+none
+http://zhidao.baidu.com/question/202913845.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/49511416.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/744490121927728772.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/360715294.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/43806917.html?qbl=relate_question_4

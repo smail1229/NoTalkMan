@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+矩阵常用运算，c语言程序设计
+求出其最小元素行号，要求实现以下功能、求出其最大元素及所在行号、输出该矩阵<br />3、求出其转置矩阵<br />7、列号<br />6：<br />1、列号<br />5、求出其对角线元素之和<br />4、输入一个3*3矩阵<br />2有一个3*3矩阵
+); <br />       printf(&quot：%d;n&quot;),min; j &lt;n&quot; N#include&lt; i++ )       <br />         for( j = 0;)，所在列数为; j &lt;    <br />    printf(&quot;   <br />     int max ，所在列数为; row_max = i; j++ )  <br />         {        <br />              if( a[i][j] &lt,col_max+1),a[i][j]), min; col_min = j,row_min+1; N; i++ )  <br />        sum += a[i][i], b[N][N]; N;stdio,row_max = 0：&#92;%5d&quot; i++ )  <br />  {    <br />     for( j = 0;,j;;; N,col_min = 0; i &lt; 最大元素为;   <br />     for( i = 0; 最小元素为：%d;   <br />    printf(&quot,row_max+1;n&quot, min = a[0][0]; N; i++ )   <br />     for( j = 0;%d&quot; j++ )  <br />              printf(&quot; i &lt; N; 主对角线元素之和为; N; j &lt;<br />#define N 3<br />void main()<br />{    <br />    int i;); i++ )  <br />     {      <br />         for( j = 0, row_min = 0; N，其所在行数为; min ) {min = a[i][j]; i &lt; N, sum = 0;   <br />     printf(&quot; int a[N][N];}<br />         }   <br />     printf(&quot.h&gt; col_max = j; }     <br />              if( a[i][j] &gt;n&quot;  <br />    for( i = 0;   <br />     printf(&quot;原始矩阵为：%d&#92; j &lt：%d&#92; <br />  for( i = 0;),b[i][j]);请输入矩阵的元素; N; j++ )    <br />                printf(&quot，其所在行数为; <br />         printf(&quot; j &lt,col_min+1); i &lt;   <br />     for( i = 0;,max; max ){ max= a[i][j]; row_min = i;; j++ )    scanf(&quot; i &lt;    <br />    printf(&quot;;n&quot,&a[i][j])：&quot; N：%d;n&quot; i &lt,sum);&#92;<br />     }   <br />     for( i =0;%5d&quot; j++ )         <br />           b[i][j] = a[j][i]：&#92, col_max = 0：%d;n&quot: %d&#92;矩阵a的转置矩阵为;&#92;  <br />     max = a[0][0]; i++ )       <br />        for( j = 0;  <br />     for( i = 0
+4
+none
+http://zhidao.baidu.com/question/413366003.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/51595677.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/204762106.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/52930023.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/195547507.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题什么这样子还能输出 a呢
+stdio！<br />不是if 不成立么<br />#include &lt;);a&quot.h&gt;<br /><br />void main()<br />{ <br />     if(1&lt;<br />     printf(&quot;2)为什么这样子还能输出 a呢
+因为if(1&lt;2)后面你加了个分号，判断完直接进入了下一句
+1
+none
+http://zhidao.baidu.com/question/158489523.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1946080935808155548.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/133889408.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/530497433.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/262098676.html?qbl=relate_question_4

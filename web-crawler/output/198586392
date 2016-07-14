@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言问题，能否解释一下每步的方法
+#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />main()<br />{ int x,m;<br />double y;<br />for(y=10;y&gt;=-10;y--) {<br />m=1.5*sqrt(100-y*y);<br />for(x=1;x&lt;30-m;x++)<br />printf(&quot; &quot;);<br /旦鼎测刮爻钙诧水超惊>printf(&quot;*&quot;);<br />for(;x&lt;30+m;x++)<br />printf(&quot; &quot;);<br />printf(&quot;*&#92;n&quot;);<br />}<br />getch(); }
+#include&lt;stdio.h&gt;<br />#include&lt;math.h&gt;<br />#include&lt;conio.h&gt;<br />main()<br />{ int x,m;//整型变量<br />double y;//定义双精度变量<br />for(y=10;y&gt;=-10;y--) {//循环21次，y自减<br />m=1.5*sqrt(100-y*y);//100减去y的平方然后开方然后乘以1.5……<br />for(x=1;x&lt;30-m;x++)//循环29-m次，x自增<br />printf(&quot; &quot;);//输出29-m个空格<br />printf(&quot;*&quot;);//输出*号<br />for(;x旦鼎测刮爻钙诧水超惊&lt;30+m;x++)//x从30-m循环到30+m共计2m-1次<br />printf(&quot; &quot;);//输出2m-1个空格<br />printf(&quot;*&#92;n&quot;);//输出*号换行<br />}<br />getch();} //等待输入，==任意键退出 ，但是getch函数定义在conio.h中，应该包含conio.h
+0
+none
+http://zhidao.baidu.com/question/282828061.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/93027785.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/78835216.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/436874520.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/409167865.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序题目
+如果不是，判别它是否大写字母，将他转换成小写字母，如果是。然后输出最后得出的字符，不转换。<br />请各位高手教教我这题怎么做呀？我是C语言新手输入一个字符
+ && c&lt;=&#39;Z&#39;) return  c+32;<br />    if(c&gt;=&#39;A&#39假设输入的是字符c<br />unsigned char check__char_upper(unsigned char a)<br />{unsigned char c=a;<br />    else  return c
+1
+none
+http://zhidao.baidu.com/question/227657723.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1989368019335303547.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/554595289.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1987938751746448947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/519756351977252405.html?qbl=relate_question_4

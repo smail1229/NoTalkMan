@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题：18&&7&&3为什么等于1,给个详细的解释,谢谢！
+none
+要么为0，结果为118为真，要么为1，7为真。&&的结果只有两个，&&后就为1了，3为真，&&后为真
+7
+none
+http://zhidao.baidu.com/question/467314788.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1765672232669850300.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/183514325.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239897327011251884.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/479093304.html?qbl=relate_question_4

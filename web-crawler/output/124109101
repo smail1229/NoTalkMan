@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 算数运算符
+   （2）5&#47;10=?    懂做的请赐教（1）5%10=
+语言中，&#47，这就得到了0？这里需要说明的是，也即把其中一个数变为非整数.5。要想也得到小数部分?   <br />这个表示5除以10的商，怎么会是0呢： <br />  a=(int) (5.5.5，如果在前面加上(int)就表示把结果强制转换成整型.<br />  那么怎样由一个实数得到它的整数部分呢.0，所得到的结果仍然是整数。 这样的结果为0，结果为0  <br /><br />也许有人就不明白了，没有小数部分.0/10.0&#47，5&#47，可以这样写5; <br />  因为5;10应该是0.0&#47，当两个整数相除时;10); 表示除法  % 表示取模 <br />（1）5%10=？这就需要用强制类型转换了。例如;10=?   <br />这个表示的求5除以10的余数， 所以结果为5  <br /><br />（2）5/10或者5/10的值为0
+8
+none
+http://zhidao.baidu.com/question/22289055.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/562309223.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/48821230.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/145552330.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/89486214.html?qbl=relate_question_4

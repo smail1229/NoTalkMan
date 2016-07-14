@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+输入英文句子统计单词个数c语言
+c格式运行。统计单词个数。在dev cpp软件下用，单词间用空格隔开输入一个英文句子。并注明原理
+h&quot;the sectence have %d word&#92;<br /><br />main()<br />{<br />    char  *s;) cnt++;<br />    while(*s)<br />    {<br />        if(*s==&#39;),cnt+1);<br />    int cnt = 0;stdio;n&quot; &#39;please enter the sentence&#92;;n&quot;<br />        s++;<br />    gets(s);<br />    }<br />    printf(&quot#include &quot;<br /><br />    printf(&quot
+6
+none
+http://zhidao.baidu.com/question/341917378.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154156820.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/235139263.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/357575141.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/137167413.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+烦恼 恋爱 
+C语言.....希望高手们帮帮我。。。。。详解
+<br />printf(&quotmain ()<br />{   char c1;B&#39;n&quot;<br />printf(&quot,%c&#92;, c3 ;%c,c4++);%c,c2),++c4;,c4,c1,c3++,c3);<br />c1=c2=c3=c4=&#39;%c,%c&#92; ;,%c&#92;n&quot,--c2;;<br />printf(&quot;n&quot,--c1), c2,%c&#92;n&quot;<br />printf(&quot;%c
+你会发现果真输出C;，则A+1就相当于ASCII为66的字符　　字符型的变量就相当于0~255之间的数（ASCII），再使c3自加变为C（你可以在第三行的后边加上一句printf(&quot，则表示在使用这个变量后该变量再自加1，对象是变量（3++和（a+b）++都不合法）。我也是刚学C的，printf中的是从右至左执行的。比如A的ASCII码值是65。就当大家交流交流，由于--在前所以c1自减1（对应ASCII由B的66变成65，后接受到输出c3++的命令:<br />　　A，如果以%c格式输出的话将输出B，由于c1已经是A了，由于++在c3后边，所以第一行输出两个A。呵呵;n&quot，字符型变量可以和整型的混合运算。++在前表示在使用该变量之前使它的值加1;，即A）,A<br />　　A;，系统执行时先遇到输出c3的命令。<br />　　你的程序的输出，如果你以%d格式输出的话则输出66，再遇到++c4,B<br />　　执行printf(&quot;%c。c3=B，再遇到输出--c2;n&quot,B<br />　　C,c1。++是自加运算符,%c&#92;%c&#92,c4)，执行++c4时c4仍为B。执行输出c4++时输出地是B，如果在后边，遇到输出C3++的命令时，即系统先遇到--c1;%c，所以，然后系统遇到参数c1;这一行是这样执行的。所以第二行输出A和B，这个过程并未用到c4。<br />　　我的答案你不满意的话。<br />　　第二行执行时。--的用法与++得相同,B<br />　　B。<br />　　执行第四行时;n&quot，系统先遇到c4++，所以系统先输出c3的值B,c3)，所以系统先遇到输出c2（但这样不算用c2）,%c&#92,--c1)，printf里边的也是从右至左执行，网上还有许多高手呢你可以问问,++c4。<br />　　第三行;<br />　　你可以结合下面这串代码来理解在执行printf函数的过程中c4的值是怎样变化的。<br />　　最后一句等同于printf(&quot，即B
+3
+none
+http://zhidao.baidu.com/question/257640379.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/918235686142597259.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/212379052.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/540202269.html?qbl=relate_question_3

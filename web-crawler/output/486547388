@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+int n = ( ( int * ) k )[ 0 ];这样的c语言声明是什么意思求解释
+none
+是一个数组的首地址，（（int*)k)[0]即为这个数组的第一个元素(int*)k是将k转换为指针类型，这样k变成了一个指向int的指针
+1
+none
+http://zhidao.baidu.com/question/72219864.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/79241549.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2139284703931507108.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/343576906.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/287233303.html?qbl=relate_question_4

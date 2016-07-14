@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言解高次方程a*x^3+b*x^2+c*x+d=0
+none
+找到一个根 <br />if ( abs(dbResultY) &lt: <br />刚才有个小BUG.1e-6 ) <br />{ <br />printf(&quot,2) + 3 * dbLeftX - 6 &lt;&#47,二分点X不满足方程) <br />/ <br />} <br />else <br />{ <br />dbRightX = dbMidleX;/&#47.0;,改了下, value = [%lf]; 0;&#47.0.0 ) <br />{ <br />dbLeftX = dbMidleX,并生成新的区间:;&#47.&#92; <br />double dbRightX = 10; <br />if ( dbTmp &gt,3) - 4 * pow(dbLeftX; 0;&#47: <br />================================================= <br />#include &lt,2) + 3 * dbMidleX - 6,dbMidleX); <br />} <br />} <br />else <br />{ <br />dbTmp = 2 * pow(dbLeftX,3) - 4 * pow(dbLeftX; 0;算二分点Y的值 <br />dbResultY = 2 * pow(dbMidleX;n&quot,10] ;math.h&gt.0 ) <br />{ <br />dbLeftX = dbMidleX;二分区间 <br />dbMidleX = ( dbLeftX + dbRightX ) / 2,2) + 3 * dbRightX - 6 &gt; <br /><br />void FindRoot(void) <br />{ <br />double dbLeftX = -10;当二分点Y的值不为0不是根(即, value = [%lf].&#92; <br />} <br />} <br />} <br /><br />/判断方程的根落于刚才二分区间的哪个区间,dbMidleX),现在改了下;n&quot; <br />double dbResultY = 0,10] .0刚才那个只能找一个根.0;,3) - 4 * pow(dbRightX.0;/Finde a root in [-10; <br /><br />/ <br />double dbTmp = 0; 0.0 ) <br />{ <br />dbTmp = 2 * pow(dbLeftX,如果区间两端计算的Y值一个为正一个为负则区间中点也是一个根 <br />if( 2 * pow(dbLeftX; <br />if ( dbTmp &lt; 0 && <br />2 * pow(dbRightX,可以找所有根; <br />double dbMidleX =0;当区间无限小时完成计算(下面的语句表示当区间不是无限小时继续计算) <br />while ( abs(dbRightX-dbLeftX) &gt;Finde a root in [-10,3) - 4 * pow(dbMidleX; <br />&#47. <br />if ( dbResultY &lt,2) + 3 * dbLeftX - 6; <br />} <br /><br />/0 ) <br />{ <br />printf(&quot; <br /><br />&#47,3) - 4 * pow(dbLeftX,2) + 3 * dbLeftX - 6.1e-6 ) <br />{ <br />/区间无限小; 0;如果计算的Y值为0时; <br />} <br />else <br />{ <br />dbRightX = dbMidleX.0
+3
+none
+http://zhidao.baidu.com/question/169258009.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/179523866.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/35954470.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/532920956.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/363470152.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 用递归函数求数值的整数次幂 double power（double x，int p）输入负整数次幂时出现问题
+<br />}<br /><br />double power_negative(double n;<br />  }<br />  else<br />  {<br />   xpow=power_negative(x.&#92;)。,x;%lf to the power of %d is 0;)：<br />#include&lt。也不知道错到哪里了;<br /> re=1&#47;<br /> printf(&quot.&#92;。编译不报错;stdio,int p);;0)<br />  pow=n*power_negative(n;<br />   printf(&quot;<br /><br />int main(void)<br />{<br /> double x;<br /> }<br /> printf(&quot;<br />  else if(exp&gt.5<br />2的-3次幂还是0。;<br /><br /> return pow;Enter next pair of numbers or q to quit,&x,int p)<br />{<br /> double pow=1,xpow),exp);<br /><br />}<br /><br />double power_positive(double n.h&gt;);<br /> int exp;0)<br />  pow=n*power_positive(n;n&quot;the number will be raised;n&quot;<br /> while(scanf(&quot;<br /> int q;n&quot;;<br />}<br /><br />可以运行,q-1);Hope you enjoyed this power trip --BYE;Enter a number and the integer power to which&#92.&#92;<br /> double re,x,exp;;n&quot,exp;<br /><br />double power_positive(double n。,xpow),int p);<br /><br /> return 0,x;<br /> q=-p;n&quot!&#92;%lf %d&quot;pow。,&exp)==2)<br /> {<br />  if(x==0)<br />   printf(&quot;<br />   printf(&quot。请高人指教哈;<br />double power_negative(double n,x,exp)。;n&quot.&#92;n&quot,exp);%lf to the power of %d is %lf,xpow;%lf to the power of %d is 1;<br /> printf(&quot代码如下.5.。<br /><br />比如说2的-2次幂是0;%lf to the power of %d is %lf,(p-1));<br />  }<br />  printf(&quot.&#92;<br /> if(p&gt;;<br />  else if(exp==0)<br />   printf(&quot;<br /> <br /> if(q&gt.Enter q to quit;)。。,exp);n&quot。但是输入负整数次幂时计算结果根本就不对.5<br />一直都是0。,int p)<br />{<br /> double pow=1.&#92;0)<br />  {<br />   xpow=power_positive(x;<br /><br /> return re
+虽然你那个写的是递归调用,1-q) &#47，结果都是0;<br /><br /> return powdouble power_negative(double n; n.5 * 2 * 0;<br />}<br /><br />改成这样，但是返回的却是1/<br /> q=-p，那么就会是0，因为你调用负数求幂.5 * 2 * 0.5这样的形式返回;<br /> int q.5，而且递归时应该用1-q,int p)<br />{<br /> double pow = 1;0) <br />  pow = power_negative(n;<br /><br /> if(q&gt，所以最终无论是多少;pow
+6
+none
+http://zhidao.baidu.com/question/188174847.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/346819944.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1754365725009297068.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88506562.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/140080311.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+若变量已正确定义并赋值，符合C语言语法的表达式是(__B___)
+A) a=a+7;<br />    B) a=7+b+c,a++<br />    C) int(12.3%4)<br />    D) a=a+7=c+b<br />请问下A怎么错了
+应该没有分号 ，有分号的是语句。不是表达式了
+5
+none
+http://zhidao.baidu.com/question/103878080.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/57842692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/563309815.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/281404577.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/711682605383871165.html?qbl=relate_question_4

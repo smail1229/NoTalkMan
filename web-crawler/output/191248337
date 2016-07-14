@@ -1,0 +1,11 @@
+电脑/网络 软件开发 数据结构及算法 
+编个C语言程序，用二分法求方程sinx- x^2&#47;2=0在x=1附近的根（精确到0.00001）输出每次迭代的结果以及所用
+none
+具体输入什么东西;stdio,&x1,float x1;x=%，你自己添加语句;2;2有且仅有一解;2.h&quot;求x1。<br /><br />代码如下;math;<br />  if(f1*f&gt，即x=0;<br /> printf(&quot;}<br /> }while(fabs(f)&gt;<br /> }while(f1*f2&gt;请输入区间[x1;<br />}<br /><br />输入：所输入的区间[x1,x1,x2;<br /> scanf(&quot：x=0,float x2),x2]&#92;         //0;0)      &#47,x2的中点<br />  f=sin(x)-pow(x,float x1.5f&#92;/2;;n&quot,&x2),x1;f1=f,x2));0);0)           /<br /> printf(&quot：-1 1<br />结果,这样才能用二分法计算。<br /><br />“输出每次迭代的结果以及所用”这是什么意思;n&quot;);<br />  f2=sin(x2)-pow(x2,2)&#47.h&quot;    /<br />}<br />float F(float x;        &#47,f2,float x2)<br />{<br /> float f;<br />#include &quot;2;/<br /> do<br /> {<br />  f1=sin(x1)-pow(x1,2)/}<br />  else if(f2*f&gt;//1e-6的意思是f的值非常0<br /> return x？代码写了,f1;判断条件fabs(f)&gt;当f与f2符号相同时<br />  {x2=x。<br /><br />注意,2)/1e-6);当f与f1符号相同时<br />  {x1=x;%f%f&quotsinx=x^2/<br /> float F(float x;f2=f,f2符号相反<br /> do<br /> {<br />  x=(x1+x2)&#47,x2]要保证f(x1)*f(x2)&lt;<br />main()<br />{<br /> float x;,x2使得f1,F(x;确保输入的x1：<br /><br />#include &quot
+2
+none
+http://zhidao.baidu.com/question/191474796.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488071865.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/191248019.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/246312555.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/55433133.html?qbl=relate_question_4

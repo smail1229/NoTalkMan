@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道C语言判断字符类型的问题,求大神解决.
+<br />写一个函数,调用该函数;其他),判断字符是哪个类型(数字&#92,无论是帮忙解答哪一点都有分;字母&#92.<br /><br />大家帮忙解决一下,根据函数返回值哦你攻击各个类型字符的个数(要求用函数调用).主函数中输入一个英文句子原题如下
+k=0;n有大写字母:%d&#92;0&#39;n有数字,k;=&#39:%d&#92:%d&#92;=&#39;A&#39;=&#39;<br /> }<br /> else if(a==&#39;9&#39;n&quot,m);)<br /> {<br />  ++i:%d&#92;<br /> }<br /> else<br /> {<br />  ++k,m=0,n=0;<br /><br />void fun(char a)<br />{<br /> if (a&gt;)<br /> {<br />  ++j;<br /> }<br /> printf(&quot,n;stdio;)<br /> {<br />  fun(a);有小写字母#include&lt;<br /><br />int i=0;,j;)<br /> {<br />  ++n;Z&#39:%d&#92;=&#39!=&#39;z&#39.h&gt;&&a&lt;a&#39;<br /> }<br /> else if (a&gt;n&#39;&&a&lt;)<br /> {<br />  ++m,i;=&#39;=&#39;<br /> while ((a=getchar()); &#39;<br /> }<br /> else if (a&gt;n其他字符;&&a&lt;n有空格;&#92;<br /> }<br />}<br />void main()<br />{<br /> char a,j=0
+2
+none
+http://zhidao.baidu.com/question/196313378.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/34681342.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/180273381.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/497949248.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/498060989.html?qbl=relate_question_4

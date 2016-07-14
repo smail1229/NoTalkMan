@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言实现：输入一个3*4的int型数组，计算数组元素的总和，每行元素的平均值，以及所有元素的平均值。
+5，第一行元素的平均值为2.5，第一行元素的平均值为6，整个数组所有元素的平均值为6.5，第一行元素的平均值为10.5， 数组为<br /> 1   2   3   4<br /> 5   6   7   8<br /> 9   10  11  12<br />则数组元素的总和为78例如
+<br />    return 0, ave), tmp_sum1=0,sum; j&lt: %d;n&quot, tmp_sum2=0;please input numbers of array;4;<br /><br />    for(j=0;4;3; i&lt: %f&#92;<br />        }<br />    }<br /><br />    ave = (float)sum/<br /><br />    printf(&quot;<br />            sum += arr[i][j], tmp_sum3=0;4, ave is;12;<br />    ave_2 = (float)tmp_sum2/stdio;<br />    int sum=0: %f, ave_3 is;<br /><br />int main()<br />{<br />    int arr[3][4]={0};<br />    for(i=0, ave=0: %f, ave_3;<br /><br />    printf(&quot;<br />    ave_3 = (float)tmp_sum3&#47: %f;.h&gt;<br />    }<br />    ave_1 = (float)tmp_sum1&#47, ave_1 is; j++)<br />        {<br />            scanf(&quot;);sum is; i++)<br />    {<br />        for(j=0, ave_3=0;4;<br />        tmp_sum2 += arr[1][j];<br />        tmp_sum3 += arr[2][j];%d&quot; j++)<br />    {<br />        tmp_sum1 += arr[0][j];<br />    int i=0; j&lt, ave_2 is;:&quot, ave_2=0;<br />    float ave_1=0,j=0, &arr[i][j]), ave_2;4, ave_1#include &lt
+2
+none
+http://zhidao.baidu.com/question/118552282.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/38111464.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/257658127.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/162269626.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100573871.html?qbl=relate_question_4

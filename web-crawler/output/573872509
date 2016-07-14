@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言求一元二次方程根的算法，运行怎么这样？
+none
+<br />    x1=p+q;<br />int main()<br />{<br />    double a;<br />    printf(&quot, b#include&lt, disc;scanf中double应对应lf;stdio, x1;<br />    scanf(&quot;x1=%7,&c);;&#47,x1;<br />#include &lt;;x2=p-q;nx2=%7,&b;math,p, x2;%1lf%1lf%1lf&quot;/<br />    p=-b&#47.2f&#92;n&quot.2f&#92;(2*a).h&gt,&a;(2*a),q;<br />    q=sqrt(disc)&#47, c,而不是f<br />    disc=b*b-4*a*c.h&gt;<br />    return 0,x2)
+0
+none
+http://zhidao.baidu.com/question/121852740.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/688668799086270164.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76410719.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/511179079.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/222964367.html?qbl=relate_question_4

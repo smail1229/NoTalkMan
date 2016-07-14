@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言char a= &#39;&#92;72&#39;的问题，详细解释下，谢谢先
+包含3个字符<br />D;则变量a（）<br />A，包含2个字符<br />C，包含有一个字符<br />B设有说明语句;&#92;;72&#39：char a = &#39
+xx’的含义是;是转义符<br />‘&#92选择A<br />&#92，对应八进制的ASCII码<br />（72）八进制 = （58）十进制<br />ASCII为58的就是‘:’ （英文的冒号）<br />‘&#92;72’是‘
+9
+none
+http://zhidao.baidu.com/question/220677149.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89587399.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/205159937.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2203916881511989948.html?qbl=relate_question_3

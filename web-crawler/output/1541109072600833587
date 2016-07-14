@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言一个指针的问题 int pp[5]={0}; printf(&quot;%d %d&#92;n&quot;,pp,&amp;pp); 为什么输出的是相等
+none
+比如pp=(int*)0x32342422，虽然说还是有可能改变它的数据类型。<br />而且pp是常数<br />所谓常数就是你已经不可以对它赋值;之类的都不可以了<br />而&pp就没有意义了实际上pp就是地址
+0
+none
+http://zhidao.baidu.com/question/409056105.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1302797207834224739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/120705944.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/562631785.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/268767704.html?qbl=relate_question_4

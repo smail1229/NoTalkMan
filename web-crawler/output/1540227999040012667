@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言问题中switch语句的使用问题
+<br /> switch(x)<br /> {<br /> case 1:&#92;<br /> scanf(&quot;n&quot。要求用switch语句实现;n&quot;请输入数字;<br /> printf(&quot，但不符合题目要求;<br /> }<br />}<br /><br />我编写的部分;。<br /><br />#includevoid main()<br />{<br /> char x，10转换为T，没有错;<br />  break:<br />  printf(&quot，11转换为J编写程序，2~9转换成对应的字符，13转换为K，求回答,&x);A&#92，1输入后输出来的不是A;)，12转换为Q;%d&#92，1转换为字符A;);n&quot，将其转换成扑克牌张数输出，用户通过键盘输入的1~13之类的整数
+ase 1:<br />       break;n&quot: 改成 case A:<br />    printf(&quot;);<br />default;A&#92;<br />    break:<br />然后建议你switch里面最好加个default<br />switch(x)<br /> {<br /> case A
+3
+none
+http://zhidao.baidu.com/question/81214969.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/497838960.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/102432619.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/304708491.html?qbl=relate_question_4

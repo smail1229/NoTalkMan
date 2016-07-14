@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言printf函数
+<br />  printf(&quot;n%d&#92;n%d&#92,-i++;n&quot,++i,--i这种是什么，这段程序的结果是多少,-i--);%d&#92;n%d&#92;,i--,i++,--i;n%d&#92;n%d&#92main(){<br />  int i=8;<br />}<br />请问++i，最好写写过程
+,++i&quot,i++;n&quot;是一个算术运算符(--i)相当于i=i-1 ;<br /><br />printf(&quot,-i--);--&quot;n%d&#92,-i++;,++或--在i前面，说明程序会先把i的值-去1之后在用printf().<br /><br />printf(&quot;<br />  <br />%d 代表此处将有一个整型来填充;n%d&#92;n%d&#92;n&quot,&#92;%d&#92;n%d&#92,与%d对应的一个整数),--i;n%d&#92;%d &#92,i--;这个函数输出
+1
+none
+http://zhidao.baidu.com/question/359896811444949132.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/163970070.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/195289709.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/74003953.html?qbl=relate_question_3

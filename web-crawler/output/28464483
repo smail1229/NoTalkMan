@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程:从键盘上输入两个正整数n和a, 求Sn=a+aa+aaa+ …a…aa的值（共有n项，最后一项有n个a）
+例如2+22+222+2222+22222（此时n=5,a=2）
+ <br />scanf(&quot;n&quot; <br />return 0;;the sum is %ld&quot;math#include &lt;stdio; <br />} <br />printf(&quot; <br />} <br />else { <br />sum=(long)(pow(10; <br />if(n==1) <br />{ <br />sum=a;);i&lt.h&gt; <br /><br />long fac(int n.h&gt;);n&quot; <br />#include &lt; <br /><br />} <br /><br />main() <br />{int a,a),int a) <br />{ long sum,temp);the %dst num is %ld &#92,n-1)*a)+fac(n-1;plz input number a&#92; <br />printf(&quot; <br />} <br />return(sum); <br />printf(&quot,n; <br />printf(&quot,i;; <br />long temp;n&quot,sum=0; <br />scanf(&quot,i; <br />for(i=1;%d&quot,&a);plz input number n&#92;%d&quot;;,&n);=n;i++) <br />{ <br />temp=fac(i; <br />sum+=temp,sum),a)
+11
+none
+http://zhidao.baidu.com/question/93426276.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/582864493477075405.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/489115982.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91994696.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/583087616.html?qbl=relate_question_4

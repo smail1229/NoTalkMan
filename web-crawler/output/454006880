@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言大小写转换的问题
+none
+1，两个%c之间如果有逗号，应把scanf里的两个%d改成%c，C2你定义的是char字符型
+3
+none
+http://zhidao.baidu.com/question/119456809.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/96488587.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/512546814.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/109134394.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/352274167.html?qbl=relate_question_4

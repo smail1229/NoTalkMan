@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言在哪里加上getch()?
+&#92;n&#92;<br />    printf(&quot? &#92.&#92;n&#92;nBut really it&#39;&#92;<br />    printf(&quot;t;&#92.tA control  character;t3;n&#92;a&#92;);<br />    printf(&quot;&#92!  What was that;nThis program is a bit&quot?;s only more text.tA plane;n&quot;<br />    return 0;n&quot;t2;);a&quot?&#92;n&#92.7 A longer program *&#47;n&#92;<br />}<br />请问在哪里加上getch（）才能是exe程序打开后不会一跳就没有;t1;* Program 1.h&gt;)? &#92;);  lobger than the others;<br />    printf(&quot;<br /><br />int main(void)<br />{<br />    printf(&quot;n&quot?;Hey!;t&#92! bird：<br />&#47;stdio;n&#92;bAnd how will this look when ti orints out;n&#92？<br />那getch（）后要不要加分号;<br />    printf(&quot;t&#92;);Hi there;);<br />    printf(&quot.&quot; &#47;<br />#include &lt;&#92!&#92;<br />    printf(&quot;n&quot;n&quot;);n&#92.&#92?&#92?&#92, wait a minute;)我编写程序<br />源代码为;b&#92？<br />exe程序是不是用另存为来由c程序转换;*  Include the header file for input and output *&#47
+要加分号，效果一样<br />有点区别 getchar()接收任意字符返回; 前面 <br />因为它是执行完别的程序用来看结果的加在return 0。<br />还有一个相似的函数getchar()，如果一个getch（）不行就写两次，你可以看看，getch（）只接收回车，getch（）
+2
+none
+http://zhidao.baidu.com/question/433815285306723044.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/98425647.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106183760.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143240160.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1238035392210565019.html?qbl=relate_question_4

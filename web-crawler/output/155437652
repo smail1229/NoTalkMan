@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中交换X,y的值为什么要用中间变量
+none
+fail
+1
+如果a=b,b=a的话。结果会变化。例如a=2,b=5<br />第一步，a=b;&#47;&#47;a=5;<br />第二步,b=a;&#47;&#47;b=5;<br />这样就达不到你要的效果了。那么c的作用就是暂时存放2的。<br />以后可以长期交流。
+http://zhidao.baidu.com/question/348072.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/313053404.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/26035623.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/43153883.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/268592909.html?qbl=relate_question_4

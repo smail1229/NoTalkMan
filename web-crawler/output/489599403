@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+typedef int *list 这个什么意思,把list看成是int类型的指针还是什么？小弟C语言不过关啊，求帮助。
+none
+list看成int型指针啊，可以直接用list定义int型指针了<br />比如list pl;<br />这时候pl代表一个int型指针的
+1
+none
+http://zhidao.baidu.com/question/405824584.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127075559.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/5804406.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/123896640.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198017816.html?qbl=relate_question_4

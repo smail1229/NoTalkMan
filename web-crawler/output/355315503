@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计 进制转换问题，请给出说明，谢谢。
+制转换<br /><br />Problem Description<br />输入一个十进制数N;=R&lt;10），则对应的数字规则参考16进制（比如。<br /> <br />Input<br />输入数据包含多个测试实例。<br /><br /> Output<br />为每个测试实例输出转换后的数, R&lt，每个测试实例包含两个整数N(32位整数)和R（2&lt，每个输出占一行。如果R大于10，将它转换成R进制数输出，等等）;=16，10用A表示;&gt
+%d %d&quot;0&#39;stdio.h&gt;根据10进制换成2进制的方法可类推出10-b进制的方法<br />		c[i]=a+&#39,j;&#92;0&#39,&a;-&quot;0) {printf(&quot;a=-a,i,b;i++;b;/j--)<br />		{<br />		if(c[j]&gt;<br />int main()<br />{<br />	int a;n&quot;9&#39;%c&quot,c[j]+7);}&#47,c[j]);先判断+-<br />		while(a&gt;<br />	char c[33];;;=b)<br />		{c[i]=a%b+&#39;;<br />		if(a&lt;;<br />		}printf(&quot;<br />	while(scanf(&quot;/j&gt;else printf(&quot,&b)==2)<br />	{<br />		i=1;) printf(&quot;);a=a/)#include&lt;}/&#39;%c&quot;;<br />		for(j=i;=1
+2
+none
+http://zhidao.baidu.com/question/98319963.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/100917300.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2138018204909252748.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1818082340492812148.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/247922463.html?qbl=relate_question_4

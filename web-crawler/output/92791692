@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急!急!急!用C语言编写一个程序，输入若干个整数，以-1标记结束，输出其中的最大数和最小数。
+none
+#include &lt;stdio.h&gt;<br />#include &lt;stdlib.h&gt;<br />int main()<br />{int max,min,nu旦埂测忌爻涣诧惟超隶m;<br /> printf(&quot;Input numbers,-1 to end:&#92;n&quot;);<br /> scanf(&quot;%d&quot;,&num);<br /> max=min=num;<br /> while(num!=-1)<br /> {<br /> if(num&gt;max)max=num;<br /> if(num&lt;min)min=num;<br /> scanf(&quot;%d&quot;,&num);<br /> }<br /> printf(&quot;max:%d,min:%d&#92;n&quot;,max,min);<br /> system(&quot;pause&quot;);<br /> return 0;<br />}
+5
+#include&lt;iostream&gt;<br />using namespace std;<br />int main()<br />{<br />int i,max,min;<br />int f[10];<br />cout&lt;&lt;&quot;请输入十个整数&quot;&lt;&lt;endl;<br />for(i=0;i&lt;10;i++)<br />cin&gt;&gt;f[i];<br />max=f[0];<br />for(i=0;i&lt;10;i++)<br />{if(max&lt;f[i])<br />max=f[i];}<br />cout&lt;&lt;&quot;最大的数是:&quot;&lt;&lt;max&lt;&lt;endl;<br />min=f[0];<br />for(i=0;i&lt;10;i++)<br />{if(min&gt;f[i])<br />min=f[i];}<br />cout&lt;&lt;&quot;最小的数是:&quot;&lt;&lt;min&lt;&lt;endl;<br />return 0;<br />}
+http://zhidao.baidu.com/question/542071922.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/359029978.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/518680409280763725.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/147051844.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/415914810.html?qbl=relate_question_4

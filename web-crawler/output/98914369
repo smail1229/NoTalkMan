@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言利用指针编写函数，输入3个学生2门课成绩，计算每个学生的平均分和每门课的平均分。
+none
+i);i&lt;i++)<br />  {<br />    printf(&quot:&quot;<br />struct student<br />{<br />  char num[6].num);stuNo!=1)<br />      printf(&quot;n&quot;<br />      scanf(&quot,sum;*input*/<br />  int score[3];%s&quot;%s&quot.h&quot;),&stu[i];);<br />  for(i=0;<br />}stu[5];j&lt;w&quot.score[j]);;5;conio;3;i++)<br />    if(fwrite(&stu[i];<br />    printf(&quot;n please input No;<br />main()<br />{<br />  int i;stud&quot:&quot;j++)<br />    {<br />      printf(&quot:&#92;<br />#include &quot#include &quot;&#92,stu[i].&quot.score[j].h&quot;name;);;<br />  getch();n&quot;),1,&quot;<br />    scanf(&quot;score %d;stdio. %d score;file write error&#92;<br />  fclose(fp);<br />    }<br />    stu[i];<br />  /<br />  for(i=0;<br />    printf(&quot;;%d&quot;,j+1).name).avr=sum/i&lt;<br />  float avr;<br />  char name[8];<br />      sum+=stu[i],j;<br />    sum=0;<br />    for(j=0,sizeof(struct student);;<br />    scanf(&quot.0,stu[i];5;;<br />  FILE *fp;3;<br />  }<br />  fp=fopen(&quot,fp)
+6
+none
+http://zhidao.baidu.com/question/519163068.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/553951939.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/429466857.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1690942612597956428.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/93615020.html?qbl=relate_question_4

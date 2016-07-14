@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题：计算公式: s=1&#47;1!+1&#47;2!+1&#47;3!+...+1&#47;n! 式中的n!表示n的阶乘
+none
+#include &lt;stdio.h&gt;<br />main()<br />{<br />	int i,j,n;<br />	float sum=0;<br />	scanf(&quot;%d&quot;,&n);<br />	for(i=1;i&lt;=n;i++)<br />	{<br />		int s=1;<br />		for(j=1;j&lt;=i;j++)<br />		{<br />			s*=j;<br />		}<b珐花粹拘诔饺达邪惮矛r />		sum+=1.0/s;<br />	}<br />	printf(&quot;1/1!+1/2!+1/3!……+1/n!=%f&#92;n&quot;,sum);<br />}
+4
+none
+http://zhidao.baidu.com/question/145620614.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/149000528.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1690046110397207108.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/38331741.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1383959930548439020.html?qbl=relate_question_4

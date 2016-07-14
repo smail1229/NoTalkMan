@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 重定义错误
+none
+在main的前面加上void hehe(double *yy, int i);<br />或者直接把整个函数挪到main前面去。<br /><br />因为你如果不定义，那么编译器会自动补一个int hehe(double *yy, int i畅花扳拘殖饺帮邪爆矛);这样的声明。你在下面定义的是void ...，不一样，就出问题了。
+0
+none
+http://zhidao.baidu.com/question/422639917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/582477199775914365.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/142660780.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/96473166.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/114693951.html?qbl=relate_question_4

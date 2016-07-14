@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+怎样自定义C语言的数据类型
+99999999的平方是9999999800000000.000000.000000<br />怎么让一个数据类型能随心所欲，但是正确的是99999998000000001定义unsigned long double 时
+fish888内置类型是不可以的了 每种类型必须都要有一个大小限制的 如果要想使用任意大的数的话就必须自己来定义类型了 这就是大整数（当然也可以是浮点型）的问题了！用数组或者链表或者字符串来存储数字的每一位<br />我帮你找了一点 需要什么你自己找吧<br /><a href="http://www.com/-t147062</a><br />楼下的你不知道了吧 内存够用的话就可以 想一下一个链表可以存多少数字.fish888.com/-t147062" target="_blank">http://www
+0
+none
+http://zhidao.baidu.com/question/152080240.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/512077797.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/419632489.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/577965767.html?qbl=relate_question_3

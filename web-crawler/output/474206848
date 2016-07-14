@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言赋值表达式a=b++=c=7是对的还是错的
+none
+错的<br />从右边往左边算<br />先是c=7<br />b++=c是不对的 要改的话 就是b+=c
+2
+none
+http://zhidao.baidu.com/question/561861736.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/223744747.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/224753471.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1945767634572586588.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154182879.html?qbl=relate_question_4

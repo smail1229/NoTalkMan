@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 定义一个指针 *p 开辟了100个空间然后用来做数组p[100]
+这样可不可以的，不行的话怎么样才能不用链表来在一段空间内进行访问，怎么移动
+nt *p = (int *)malloc(100*sizeof(int)). <br /> <br />那你得<br />p = 你的空间S的首地址;<br />OK。<br />然后你要控制你的a+1不要超出S的空间就可以了
+0
+none
+http://zhidao.baidu.com/question/460974697.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/207240089.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/246785373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/38110995.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/537356136.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+以下C语言程序中为什么用*t=n而不用return n；或者用return *t；?
+<br />n=0;<br />for(i=0,s);<br />*t=n:%s&#92;i++)<br /> if(s[i]&gt;<br />}<br /> void main()<br />{char s[80]=&quot;nThe result is;n&quot!=0;<br />printf(&quot;&#92;#include &lt,n;s[i];<br />fun(s,&t);stdio;=&#39;nThe original string is;;abcdef35adgh3kjsdf7&quot.h&gt;9&#39;<br /> fun(char *s;<br />int t;&#92,int *t)<br />{int i;n&quot;;=&#39:%d&#92;0&#39;&&s[i]&lt;<br />printf(&quot;)<br />  n++,t)
+他代表一个地址，指针中的内容发生了改变，返回到主函数中就能引起实参变量中的内容改变*t是一个指针。当地址中的内容发生改变后
+0
+none
+http://zhidao.baidu.com/question/533845061.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390867162618435165.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1702123083493714300.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/187745588.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1302647062517954259.html?qbl=relate_question_4

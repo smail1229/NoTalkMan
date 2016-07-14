@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我想请问高手:C语言里到底宏替换#define和变量定义const哪个好一点?
+none
+<br />const    是寄存器类型常量定义的标识,只是宏文本替换,没有类型定义#define  是宏文本替换,也可定义带参数的宏
+5
+none
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/751980271783778004.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237171058.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22042731.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/63093694.html?qbl=relate_question_4

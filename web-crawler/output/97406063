@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的strcmp是什么意思?
+sTypeCode;sRuleGroup, &quot!= 0 )<br />  {<br />   if(strcmp(sRuleGroup, g_token,希望能解释一下;<br />   }<br />  }<br />  &#47;<br />    }<br />   }<br />   else if(strcmp(sRuleGroup;PST&quot.rule_type_code;<br />  if( (g_token;<br />   }<br />  }<br /><br />以上代码 我看不明白;PST&quot;* 指定业务 *&#47;sRuleGroup;) , &quot!= 0)<br />  {<br />   if(is_logic_compact(&quot;* 指定环节 *&#47!= 0)<br />   {<br />    continue;sRuleGroup) ;PPP&quot;) , 0) == 0)<br />   {<br />    continue, &quot.rule_type_code, p_rutable-&gt;) == 0)<br />   {<br />    if(strcmp(p_rutable-&gt;)==0 || strcmp(sRuleGroup!= 0)<br />    {<br />     continue, &quot, &quot, &quot!= 0 && strcmp(p_rutable-&gt;;) ;-1&quot, p_rutable-&gt;PST&quot;, &quot;-1&quot&#47;<br />  if(strcmp(sRuleGroup;in&quot;CHAR&quot;) 
+等，如果完全相等; ，如果str1 &lt;a&quot;PPP&quot;PST&quot,&quotstrcmp(str1。; str2(按照字母顺序比较)，返回0;）!= &quot，如果str1 &gt，即&quot; str2。;,则返回1;A&quot，然后根据不同的比较结果作不同是事情,str2)函数就是比较参数中两个字符串str1 和 str2的大小（大小写敏感，返回-1。<br /><br />上面的代码都是在比较字符串sRuleGroup是否等于&quot
+83
+none
+http://zhidao.baidu.com/question/115127963.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/535158450.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/59434291.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/551828889.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/22190414.html?qbl=relate_question_4

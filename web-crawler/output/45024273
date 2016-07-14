@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的两个指针例子？？？？？
+%d,5,11},pb),a+2,a;n&quot;nstring b=%s&#92,2,a[0];&#92;<br />printf(&quot,&a[0];%d,%d,a[1];<br />printf(PF;){<br />pds++,a[2],char *pds){<br />while((*pds=*pss)！;;<br />printf(&quot,*(a+2);<br />PF=&quot;<br />cpystr(pa,*(a[1]+1),&a[1];;,8;<br />printf(PF;<br />pb=b,%d&#92,*(a+1)+1),4;,9？为什么不能直接把*pa指向数组b并给它赋值<br />懂得的各位们请讲细点谢谢,*(a+1),%d&#92例子一,*pb;CHINA&quot; }<br />}<br />main(){<br />char *pa=&quot,b[10],%d;;n&quot,&a[0][0]),%d&#92;n&quot,6,&a[1][0]);<br />pss++,a+1：<br />cpystr(char *pss,7,&a[2],pa,1：<br />main(){<br />static int a[3][4]={0,pb),*a,%d,&a[2][0]),*(*(a+1)+1)),10;string a=%s&#92;<br />}<br />*pa不是的指向整个&quot;<br />printf(&quot;CHINA&quot;<br />}<br />在输出中他们是怎么样指向的<br /><br />例子二;n&quot,3!=&#39;0&#39,a[1]+1;<br />printf(PF;%d;<br />char *PF;吗
+n&quot、&a[1]表示数组第1行的起始地址;%d,&a[0][0]);n&quot,a[1]+1：<br />（1）printf(PF;同上,a+1;; &#47,&a[1][0]),*a; /&#47,%d&#92;这二个指针都表示数组第1行第1个数的值 <br />（2）b[10]是已经申请好的空间;/&#47,a[1],&a[1],a+2，其他三个表示数组第1行第0个数的地址跟数组第1行的起始地址相同 <br />printf(PF,%d&#92,*(a+1)+1);a[1]+1与*(a+1)+1都表示数组第1行第1个数的地址<br />printf(&quot，其他三个表示数组第0行的起始地址跟整个数组的起始地址相同<br />printf(PF,*(a+2)、&a[0]表示整个数组的起始地址;a+1，第2行<br />printf(&quot,a[0];%d,*(a+1),&a[2][0]),*(a[1]+1);/ &#47,*(*(a+1)+1));&#47,&a[0],a[2];/a,&a[2]个人认为;&#47,a;
+2
+none
+http://zhidao.baidu.com/question/151587215.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431455040056285124.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/519650461.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1381455356770847100.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/151583075.html?qbl=relate_question_4

@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+表达式18&#47;4*sqrt(4.0)&#47;8值的数据类型是什么，求回答，给好评，这是C语言
+none
+为double类型，因为sqrt()原型为double sqrt(double_x),所以上述表达式返回值为double类型
+2
+none
+fail

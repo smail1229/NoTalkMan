@@ -1,0 +1,11 @@
+社会民生 时事政治 
+*x=&y是什么意思,代表什么?C语言中的.
+最后给个例子,谢谢!
+意思就是把y的地址赋值给x;<br />*x=y。y是一个变量;*此时*x和y是等价的*&#47。<br />int *x，因此两者是等价的;&#47。其中*是指针的一个标志,y，也是内存上的一块空间*x是定义的一个指针变量，加上&后表示取得了此块空间的地址，只不过空间里面存放的是地址
+3
+none
+http://zhidao.baidu.com/question/240867542.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/214419258.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/172791271.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/185241069.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/113585143.html?qbl=relate_question_4

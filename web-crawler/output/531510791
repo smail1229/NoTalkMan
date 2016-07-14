@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+国二C语言编程题：输入a、b的值，若a=123,b=456,则重新组数，c=654321
+none
+#include &lt;stdio.h&gt;<br /><br />void main()<br />{<br /><br />    int a,b;<br />    long c=0;<br />    int i;<br />    scanf(&quot;%d%d&quot;,&a,&b);<br />    while(b)<br />    {<br />        i = b%10;<br />        c = c*10+i;<br />        b = b/10;<br />    }<br />    while(a)<br />    {<br />        i = a%10;<br />        c = c*10+i;<br />        a = a/10;<br />    }<br />    printf(&quot;穿籂扁饺壮祭憋熄铂陇%ld&#92;n&quot;,c);<br />}
+1
+none
+http://zhidao.baidu.com/question/273852486.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/420129460.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/232044270.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/176799921972987444.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/30030270.html?qbl=relate_question_4

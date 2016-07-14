@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序构成是什么？
+none
+fail
+0
+一般的结构：开始是头文件，调用的库函数例如：#include &lt;stdio.h&gt;接下来是主函数，在C语言中，程序是从主函数开始执行的，例如：void main()接下来是大括号{}，{}中的代码是程序执行的部分；一般格式，也是最简单的格式：#include &lt;stdio.h&gt;<br />              void main()<br />              {<br />                  语句块；<br />              }
+http://zhidao.baidu.com/question/160269330.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/564079160.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38001289.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/215807611.html?qbl=relate_question_3

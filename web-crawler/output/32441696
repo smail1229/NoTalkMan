@@ -1,0 +1,10 @@
+教育/科学 
+这个c语言程序如何理解？
+这是一个单片机C语言延时一秒的延时程序，看不懂程序中的I=124 是怎么得到的？还有就是FOR循环能够解释一下。<br />void mDelay(unsigned int Delay) <br />{ <br />unsigned int i; <br />for(;Delay&gt;0;Delay--) <br />{ <br />for(i=0;i&lt;124;i++) <br /供埂垛忌艹涣讹惟番隶>{;} <br /><br />} <br />}
+千万不要去算了,这是一个供埂垛忌艹涣讹惟番隶估计,不一定就是一秒,如果你要精确的一秒,就用定时器吧,我的博客上有参考程序.
+1
+none
+http://zhidao.baidu.com/question/262763688614467525.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239565345.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/548567346.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88792390.html?qbl=relate_question_3

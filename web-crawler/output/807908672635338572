@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题（类型定义）
+但是后面这个[9]怎么理解呢，谢谢大神<br />我觉得是双字型的函数指针的指针;  这个怎么理解呢doube(*)() (*pa)[9]？求大神给我分析下
+这其实是对数数组元素类的描述；<br />double(*)( )；<br />(*pa)[9]： pa 指向一个具有9个元素的数组：数组元素的类型是指向函数的指针(*pa)：pa是一个指针，这个函数返回值类型为double且函数没有参数，意思是
+1
+none
+http://zhidao.baidu.com/question/145962491.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/316846232.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/422639917.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/175566786.html?qbl=relate_question_3

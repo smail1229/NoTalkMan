@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 cHAR型 数组 char str[10]={0}; 我在之后用str={0};为什么是语法错误
+none
+更加错上加错*&#47，不能被修改，而且你用给数组赋值的方式给一个指针赋值;<br /> <br />str={0};*看来你还没有学到指针那一章吧;&#47：数组的名字其实就是指向数组第一个元素的指针;*创建一个包含十个字符的char数组;<br /> <br />注char str[10]={0};&#47，str是一个常量指针，意思就是一个包含十个字符的字符串*&#47
+1
+none
+http://zhidao.baidu.com/question/584161362.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/554077339.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/172498916.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/564173408.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/201944576.html?qbl=relate_question_4

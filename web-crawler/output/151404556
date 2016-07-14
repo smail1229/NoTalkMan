@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中Return 0是什么作用
+none
+return 在main函数里面是程序退出的语句.;,；想连续输入输出可以加个循环么如;；则会终止该函数.)）{}就可以了.：while（scanf(&quot.. &quot，当函数中遇到return 0
+9
+return是C语言的关键字，注意开头字母不能大写，C语言是大小写敏感的语言。<br />return用于函数内部，含义为返回。其作用是退出函数。如果函数声明的返回值类型不是void型，通过return可以返回一个对应类型的值，这个值称为函数的返回值。该值会传递给主调函数。<br />如函数为int func();那么调用<br />a = func();时，a就会被赋值为func的返回值。<br /><br />于是return 0的含义就是，退出函数并将0值返回给主调函数。
+http://zhidao.baidu.com/question/125622175.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/356882968.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/180959464.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/421834611.html?qbl=relate_question_4

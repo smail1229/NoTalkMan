@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机c语言中多个延时程序怎么编写
+，再重复一次，用哪个字母都行，在定义变量时，是否可以出现void delay1()和void delay2()等等，实例如下，象i  j  这些是不是随机的。另外。重复此过程<br />该怎么编写：<br />8个发光管间隔20ms由上至下，然后全部熄灭再以30ms间隔全部闪烁5次，再由下至上，出现了多个延时程序我在编写时
+0x00;100,0xdf;<br />unsigned int a=0!=0x01)<br />  {<br />   P0=sx[a],0xef;<br />   del1ms(30),0xdf,0xfb,0xef,<br />      0x7f;<br /> }<br />}<br />说明一下,0xbf;<br />  }<br />  else <br />  b=0,0x01},0xfb;<br /> for(i=0,0x00,   0x01}#include&lt,0xfe,0xf7;<br />}<br />main()<br />{<br /> while(1)<br /> {<br />  if(sx[];<br />   b++,<br />              ml[]={0xff,0xbf,0xfb,0xf7,<br />      oxfe;<br />   del1ms(20),0x00;i++)<br /> for(j=0;<br />  if(lm[],0xbf;i&lt, 0xff,0xfb,0x00,0xdf,j,0xef,0xef!=0x01)<br />  {<br />   P0=lm[b];<br />  }<br />  else<br />  a=0：  这样延时太短了,0xfd;AT89X51&gt,0xfd;j++);<br />   a++,<br />      0x7f;j&lt，随便设，当变量多        的时候最好用带意思如,b=0, 0xff,0xfd,0x7f,0xbf,0xf7,0xfe,0x00, <br />                    0xff：变量只是一个标识符而已,0x7f,0xfd;k,0xf7，基本上看不出 <br />对于定义来说;       <br />del1ms(unsigned int k)<br />{<br /> unsigned int i,0xdf, 0xff;<br />unsigned char sx[]={<br />      oxfe
+13
+none
+http://zhidao.baidu.com/question/440325578.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/122380700.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153120407.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/375189979.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1946962288319520788.html?qbl=relate_question_4

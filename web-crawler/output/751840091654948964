@@ -1,0 +1,10 @@
+电脑/网络 编程语言 
+C语言这里的（*p）[3]是什么意思？
+,j=2，另外*(p+i)+j是否为对s数组的第i行j列元素的不正确引用;,(*(p+i))[j])？<br />还有为什么*(p+i)+j是显示2293316  ,*(*(p+i)+j));n&quot;显示0<br />	printf(&quot;%d&#92;显示2293316<br />	printf(&quot;%d&#92?<br />大神求解;n&quot;&#47;&#47;<br />	p=s;<br />int main()<br />{<br />	int s[2][3]={0};%d&#92;%d&#92?<br />为什么*p显示2293296    ;&#47;n&quot;n&quot,*(p[i]+j))？怎么读;显示0<br />	printf(&quot？;    &#47;%d&#92;                &#47,(*p)[3];<br />} <br />上面的(*p)[3]是什么意思,*p);显示0<br />	printf(&quot;n&quot;显示2293296<br />	return 0,i=1;;        &#47,*(p+i)+j);&#47;;        &#47;      &#47;<br />	printf(&quot#include&lt;？<br />谢谢啦;&#47.h&gt;stdio
+没记错的话是定义了一个指向数组的指针，这个数组有三个元素。
+7
+none
+http://zhidao.baidu.com/question/259054476.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/228524692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/208838006.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/236424437.html?qbl=relate_question_3

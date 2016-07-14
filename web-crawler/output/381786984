@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中a=b=c=d=3这个表达式后，a,b,c,d的值各是多少
+none
+b,c,d的值都是3=是自右向左结合的<br />所以原式等价于 a = (b = (c = (d = 3)))<br />最后a
+1
+none
+http://zhidao.baidu.com/question/420505512.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/198812025106622005.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/165364338.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/224753471.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198872073.html?qbl=relate_question_4

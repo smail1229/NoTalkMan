@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言return
+谢谢？我试了没有也可以，这个是语法规定还是约定俗成请问c语言main函数中必须有return 0；这条语句么
+但是会发出警告，那么就需要return返回相应类型的值。如果加上return语句，main前面没有返回值类型，看起来规范一点。此时不加;”。可以只加上一句“ return，不会影响程序结果。那么此时返回值类型为空（不同于void），不需要加return语句。此时不能加return语句，返回的值就会随机抛掉，那么此时不需加上return语句。<br /><br />再者。那么最后一句加不加return，编译会给警告，加上也不算错，前面有返回值类型void，不会存起来。不过如果不加return语句这个要看main的返回值类型。其它函数也不许调用主函数。<br />首先。因为程序只执行main函数，main前有其他返回值类型。<br /><br />其次，否则会编译出错，不影响函数结果。最好加上，在main中调用其它函数
+15
+none
+http://zhidao.baidu.com/question/558882075.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/248997947.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/193810477.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/52010360.html?qbl=relate_question_4

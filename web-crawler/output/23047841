@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+不知道什么错啊.一个很小的C语言两个数交换程序言
+&a#include &quot,%d&quot;交换后 a=%d  b=%d&#92.h&quot;stdio, b);temp=*p, a;*  *p与*q交换  *&#47;*交换函数的头部*&#47;%d;输入两个变量;<br />  &#47;<br />      printf(&quot,int *q););scanf(&quot;交换前 a=%d  b=%d&#92;<br />       &#47;void swap(int *p:&quot;<br />        printf(&quot;,&b)<br />      printf(&quot,int *q)<br />{    int temp;<br />}<br />&#47, b),b);*使用scanf( )函数输入两个整数*&#47;<br />      swap(a, a;;*q=temp;n&quot;n&quot;;*交换函数的说明*&#47;*p=*q,b;<br />void main( )<br />{    int a;void swap(int *p;<br /> &#47
+;; <br />/scanf(&quot你把swap(a;;void swap(int &p;); <br />printf(&quot; <br />} <br />/void swap(int &p;<br />因为你在swap中定义的是两个整型地址; 改为swap(&a; <br />void main( ) <br />{ int a;temp=p; <br />&#47,b,&b) <br />printf(&quot; <br />printf(&quot;*交换函数的说明*&#47.<br />你也可以这样做;n&quot,&b);输入两个变量;stdio, b);* p与q交换 */交换后 a=%d b=%d&#92, a, b); <br />swap(a,所以在主函数中也应该是地址; <br />&#47,%d&quot;*使用scanf( )函数输入两个整数*&#47,int &q):<br />#include &quot;%d,int &q) <br />{ int temp;交换前 a=%d b=%d&#92,&a;*交换函数的头部*&#47,b).h&quot, a;p=q:&quot,b);n&quot;q=temp
+1
+none
+http://zhidao.baidu.com/question/203673617.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/280213917.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/316714592.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1509589279204689940.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/468382006.html?qbl=relate_question_4

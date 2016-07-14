@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如图：C语言程序这个b的输出值为什么是13？
+none
+异或，相同为0不同为1，是位操作<br />15是1111<br />2是0010<br />异或是1101就是13
+4
+none
+http://zhidao.baidu.com/question/234749933.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/507438301.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/546540944.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/194601594.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/391044681.html?qbl=relate_question_4

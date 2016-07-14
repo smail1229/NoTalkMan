@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言：请问这个开头为什么要用static定义静态局部变量？
+15;  <br />            printf(&quot;&#92;n&quot;stdio.h&gt;  <br />    for(m=1;n&lt;);n++)  <br />		{<br />			b[m][n]=b[m-1][n-1]+b[m-1][n];<br />void main()    <br />{ <br />    static int m,b[m][n]);%-5d&quot,n;=m;               <br />		}<br />		printf(&quot,b[15][15];m&lt;  <br />    b[0][1]=1;m++)  <br />	{<br />		for(n=1;#include&lt
+static变量会默认初始化为0.你的b[][]并没有初始化，去掉static当然会出错
+1
+none
+http://zhidao.baidu.com/question/261702466.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/379569044.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/406165273.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39214906.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/308225078.html?qbl=relate_question_4

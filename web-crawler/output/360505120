@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C#/.NET 
+在c#语言中for循环嵌套switch循环,switch循环中有break,它终止for循环还是switch
+none
+break&#160;语句用于终止最近的封闭循环或它所在的switch 语句。
+5
+none
+http://zhidao.baidu.com/question/158892340.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/415927461.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/202820133.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/532925722.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/139806390.html?qbl=relate_question_4

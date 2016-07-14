@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 for(j=0;s[i]!=&#39; &#39;&&s[i]!=&#39;&#92;0&#39;;) 什么意思？
+none
+这个的意思是当s数组里的元素不是空格并且不是数组最后一个元素的情况下的话就一直循环下去。
+1
+none
+http://zhidao.baidu.com/question/535199320.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2009543853276233948.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534979672.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/243162688.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/235704656.html?qbl=relate_question_4

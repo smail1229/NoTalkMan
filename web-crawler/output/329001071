@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中m+=i++表示什么意思
+none
+ 就是先用i;(或者写成i=i+1,这里只有一个i++,这就看着貌似有点麻烦： m+=i，其实很简单<br />首先++表示自增 即i++等价于i=i+1，然后在i++<br />这样一来,然后再++;(或者写成m=m+i)<br />                                                    i++：m+=i++;<br />但是有顺序的，即 i++是先用i，就相当于两个语句；++i是先++在用i;<br />比如你这个例子a+=b 表示 a=a+b;而这里面b是i++
+19
+<p>m+=i++ 这是赋值运算符与自增运算符的综合使用，该表达式等价于如下2条表达式：</p><pre t="code" l="cpp">m&nbsp;=&nbsp;m&nbsp;+&nbsp;i;<br />i++;</pre><p>如果表达式换成m+=++i，则改表达式等价于：</p><pre t="code" l="cpp">i++;&nbsp;&nbsp;&nbsp;<br />m&nbsp;=&nbsp;m&nbsp;+&nbsp;i;<br />//&nbsp;因为是++i，所以i的值需要先进行加1，之后再参与表达式的运算；而i++是先将i的值代入表达式计算，表达式计算完后，i的值再加1</pre>
+http://zhidao.baidu.com/question/164453187.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/221974913.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/149134645.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87064995.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/535122964.html?qbl=relate_question_4

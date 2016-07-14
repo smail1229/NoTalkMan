@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言int a=0，b=5，c；执行语句c=（a=b）||++a&&b++后求abc的值求过程
+none
+a=5,b=5,c=1
+2
+none
+http://zhidao.baidu.com/question/522151675.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1894097514629867180.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/361768432815132972.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/512546618.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/222179056.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言里面的float和double在实际应用中有什么区别啊
+none
+fail
+0
+肯定是有区别的,长度4个字节的空间 也就是说一个字节是8个二进制位 那么4个就是32位哦,长度为8你想一下比它大了多少? 这么跟你讲吧!如果说单精度是洒店里面的四间房子的话那么 可以说双精度是8间.你说那个人住得多些嘛<br />在实际应用中假入你是一个洒店的管理员,有客人来开房他说他四个人,你准备给他开几间房呢? 我想应当开四间吧,为什么为了合理利用空间.你要是要开8间那也行可是浪费了四间,但是你要开个三间的是决对不行的因为超出你洒店的范围了<br />联系到计算机就是这样一个道理,按需分配,不浪费空间.也节约了时间.提高效率
+http://zhidao.baidu.com/question/31193140.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/163638542.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/395934984.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/272118715.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 x&lt;y?x:z&lt;w?y:w是什么意思
+none
+左边的x&lt?y;w，所以这个成立，先看左边<br />x&lt:w<br />由于左边取值x这是右边就为x&lt：这是一个3目运算符;y;w;y是否成立，即条件表达式<br />问号左边的表达式为真，所以x&lt，即真<br />取值x:w<br />同理 x值大于w的值，在ascii码中，x的值小于y的值，就取问号和冒号中间的表达式的值?x，否则就取冒号右边的值<br />我们可以看成是2步？，然后再看&lt:z      先判断?y;w不成立，为假
+15
+none
+http://zhidao.baidu.com/question/177518892.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/502354315.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/513074842.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22502496.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/534733803.html?qbl=relate_question_4

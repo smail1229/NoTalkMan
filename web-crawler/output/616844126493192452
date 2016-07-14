@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中二维数组char b[3][3]={……}；请问b &b[0][0] b[0] *b **b 各怎么理解
+none
+<br />*b和b[0]是一样的。<br />&b[0][0]是二维数组第一个元素地址b是二维数组首地址;是第一个元素的值;也是第一个元素的地址。<br />**b就相当于*((*b+0)+0)。<br />b[0]是相当于(*b+0)+0
+0
+none
+http://zhidao.baidu.com/question/172532483.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/535264280.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/508440897.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/35226605.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1174381306675210339.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，结构体和函数的问题。
+&quot;<br />void main()<br />{<br />	struct math s1,&s2;<br />	scanf(&quot：&quot;，麻烦各位大大了,z;n&quot.image=s1;;<br />	printf(&quot。<br />#include&lt;相加的结果;).h&gt.image);<br />	printf(&quot.real+s2,&s1;<br />	z;%f %f&quot.real;),struct math s2)<br />{<br />	struct math z;%f %f&quot;<br />}<br />void add(struct math s1;下面的函数我是希望用自定义函数add()完成复数的实部和虚部的相加,z;y的实部值和虚部值,&s2.real=s1.real,&s1：z=%f+%fi&#92;x的实部值和虚部值;stdio;<br />	float image,s2.image+s2;<br />	printf(&quot，怎么才可以把add()里得出的结果返回到main()中;<br />};<br />	scanf(&quot,z.image).image).real.image.real;<br />	z;<br />struct math<br />{<br />	float real
+real,&s2;<br />	z;x的实部值和虚部值.real..;<br />void main()<br />{<br />	struct math s1,s2).real！<br />说明、用返回值;<br />}<br />struct math add(struct math s1,s2;相加的结果.real，让局部函数返回值用指针传递;stdio？<br />{<br />	struct math z.image;;<br />	z，就是局部函数不要写成void add,z：<br />局部函数需要一个返回值;<br />	float image;<br />	z、用指针;,struct math s2)<br />{<br />	struct math z：&quot;<br />	z;););<br />	printf(&quot,&s1;<br />               return z.<br />二.image)，让他带个返回值，居然没楼上的手快.<br />三.image.image),z;..h&gt，就是上面的程序就ok了 <br /><br />回答<br /><br />追问struct math add(struct math s1.，然后局部函数里边不要重新定义z;y的实部值和虚部值.real。局部函数也可以写void add,&s2..，看来我只有增加内容了,&s1.，给z：&quot.image=s1;n&quot#include&lt;<br />};<br />                z=add(s1、把z定义成全局变量（就是在main函数外面定义z）.real=s1;<br />	printf(&quot：z=%f+%fi&#92;<br />	scanf(&quot。<br />这道题可以有三种解决方法<br />一.image);<br />	printf(&quot.image+s2，返回给一个数;<br />	scanf(&quot.real+s2;<br />} <br /><br />回答的人还挺多，这样局部函数可以写void add，这样可以把局部函数运算中的值保存下来;%f %f&quot;%f %f&quot.real+s2,struct math s2)   这里为什么要定义成结构体,z.real=s1;<br />	return z.image+s2.image=s1;<br />struct math<br />{<br />	float real
+2
+none
+http://zhidao.baidu.com/question/590886056.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/181359858.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/110932252.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/257580025.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/32056863.html?qbl=relate_question_4

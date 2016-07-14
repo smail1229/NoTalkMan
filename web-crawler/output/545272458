@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言scanf中*的用法
+ error C2001;<br />int main(void)<br />{<br />int n;c5;<br />按书上的例子来的,n);.cpp(7) ;stdio;please enter three integers;).h&gt; before identifier &#39;printf&#39: &#92;)&#39;CC&#92;<br />scanf(&quot;n&quot;the last integer was %d&#92:&#92: missing &#39;CC&#92,&n);<br />printf(&quot: syntax error : error C2146;n&quot;c5:&#92;<br />return 0: newline in constant<br />F;<br />}<br />F.cpp(6) ;<br />printf(&quot;%*d %*d %d*#include&lt
+scanf(&quot;%*d %*d %d*,&n);<br /> <br />缺少引号吧
+0
+none
+http://zhidao.baidu.com/question/575028894.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/568283433.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/259280861.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/547488411.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1640094972066723380.html?qbl=relate_question_4

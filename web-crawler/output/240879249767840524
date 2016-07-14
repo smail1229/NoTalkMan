@@ -1,0 +1,11 @@
+电脑/网络 
+C语言：while(printf(&quot;x&quot;))内的表达式为什么与&#39;0&#39;等价,如何解释? t=0; w
+C语言：while(printf(&quot;x&quot;))内的表达式为什么与&#39;0&#39;等价,如何解释?<br />t=0;<br />while(printf(&quot;*&quot;))<br />{<br />t++;<br />if(t&lt;3) break;<br />}<br />下面描述正确的是：<br />A 其中循环控制表达式与0等价     B 其中循环控制表达式与&#3穿揣扁废壮肚憋莎铂极9;0&#39;等价<br />C 其中循环控制表达式是不合法的  D 以上说法都不对<br />为什么答案是B 怎么理解？
+他说的是printf(&quot;*&quot;)与‘0’等价<br />其实是这样的  printf这个函数的返回值是输出字符的个数<br />现在printf(&quot;*&q穿揣扁废壮肚憋莎铂极uot;)的返回值是1<br />在while里只有0 和非0两种<br />所以只要选排一个非0的就能说是等价的  而‘0’需要转成ASCII码看是不为0的 所以选B
+5
+none
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488714508.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1894905768291174780.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/211201199.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/345950169.html?qbl=relate_question_4

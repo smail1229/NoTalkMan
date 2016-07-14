@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 试题 解释 解析 详解
+;y=x1？,%d;    <br />printf(&quot!=2) {x+=3;<br />}<br />L1;<br />main()<br />{<br /> int x3=10;n&quot,y);<br />  if(x%2 ;x=y;i++)<br />{ <br /> if(x&gt,x4),x2=40;<br />    for(？ x和i的输出值<br />int x1=30:printf(&quot;%d&quot,i);,x,%d&#92;n&quot;;%d;<br /><br />}<br />printf(&quot,x4;<br />L2;%d;continue;%d&quot,int y)<br />{<br /> x1=x:printf(&quot;<br />L1;stdio;50,i=1,x3;<br />}<br />sub(int x,x2),x1;<br />}<br /><br />能给个解释吗;}<br />  x-=1,%d,%d&#92.h&gt;10) break,x1);<br /> sub(x2,x4=20;<br /> sub(x3;,x);x&lt;<br />main()<br />{<br /> int x=1#include&lt
+i++)<br />{ <br /> if(x&gt,x； <br />------------------------------------------------<br />sub(int x;x=y;10) break;y=x1;n&quot;<br />  if(x%2 ,%d&#92;%d:printf(&quot;continue!=2) {x+=3;n&quot,x,%d&#92;<br />}<br />这里你并没有交换到main中的x3:printf(&quot;<br />L2,y);这里加上引用<br />{<br /> x1=x;}<br />  x-=1;;<br /><br />}<br />这个循环就是 不断地使x+3 因为每次x+3都为奇数;&#47,int &y)  &#47，变成这样就可以了<br />sub(int &x，所以x%2==0，直到x=13时才结束循环，所以i=5,x4等数;%d，这时候循环了4次;<br />L2;y=x1,int y)<br />{<br /> x1=x;x=y;;x&ltfor(;50,y)
+1
+none
+http://zhidao.baidu.com/question/339631496.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/339369357.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/339632125.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/215358406.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/488420248912822932.html?qbl=relate_question_4

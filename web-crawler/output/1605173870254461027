@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，求数组中最大值用递归下面程序怎么没有输出？
+%d&#92#include&lt;input array;<br />		}<br />	}<br />	else if(i==n-1)<br />		return a[n-1];i&lt,n;<br />	int i;n-1)<br />	{<br />		if(a[i]&gt.h&gt,&a[i]);i++)<br />		scanf(&quot;<br />int max(int *a,int i)<br />{<br />	if(i&lt,int n;<br />	   printf(&quot;%d&quot;;a[i+1])<br />		{<br />			a[i+1]=a[i];;10;<br />	printf(&quot:&quot;<br />			i++;<br />			return max(a;<br />}<br />void main()<br />{ <br />	int a[10],i);<br />	for(i=0,0)););n&quot,10,max(a;stdio
+fail
+0
+none
+http://zhidao.baidu.com/question/356201118.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356179020.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1925491969783410427.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/305250494593317124.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203700232.html?qbl=relate_question_4

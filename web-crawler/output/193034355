@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言x&(x-1) 是什么意思
+none
+fail
+7
+x&(x-1)<br /> & 是位操作运算符；<br /><br />x&(x-1)= 9999 & 9998  的位操作运算。
+http://zhidao.baidu.com/question/220073694.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/241332720.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/228527206.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/256077299.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/193032563.html?qbl=relate_question_4

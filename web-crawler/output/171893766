@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数值传递
+%d;b=cvoid fun(int *a;;<br />}<br />main()<br />{ int x=3。函数调用里面交换了地址对值没影响吗;%d,*q),%d&#92,y=5;,int *b)<br />{ int *c，5,*p=&x;<br />  c=a,*q=&y,&y);n&quot;<br />  fun(p,q),*q);<br />  fun(%x;printf(&quot;<br />}<br /><br />输出 3,%d&quot，值不是在fun里面改变了吗,*p;a=b,*p，5<br /><br />第一次函数调用的时候把地址传过去，3，接受到之后？为什么输出的结果却没变化;printf(&quot
+为C语言的参数传递是引用传递，只是将参数的值赋值一份进去运算，对本身不影响。要想同时变化的话应该传递参数地址
+4
+none
+http://zhidao.baidu.com/question/418663459.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/183649681.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/480386012.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183652145.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1605269325295771907.html?qbl=relate_question_4

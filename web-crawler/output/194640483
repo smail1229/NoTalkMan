@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+char **p在c语言中 是定义一个二维的指针数组的意思吗？
+还有char ** p ，有没有C语言高手的群或者qq号码，要是想定义一个指针的二维char的数组，是不是用char**p就可以呢？另外,在C语言中式什么意思
+row;<br /> for(i=0,j;i&lt;<br /> }<br />}<br /><br />虽然我也是菜鸟;i++)<br />  for(j=0;)。<br /><br />格式如下;//rank;n&quot,&rank);row;/&#92;输入二维字符数组字符<br /><br /> printf(&quot。<br /><br />如果对你有所帮助;n&quot;;Please input row and rank,p[i][j]);<br /> scanf(&quot.h&quot;row;;%c  &quot;j++)<br />   scanf(&quot;<br /> int row;j&lt;i++)<br /> {<br />  for(j=0;j++)<br />   printf(&quot;去定义一个二维char数组;);&#47，谢谢：<br /><br />#include &quot;j&lt。<br /><br />只不过要用到malloc动态申请内存来放二维字符数组;打印二维字符数组字符<br /><br /> for(i=0;<br /><br /> //i++)<br />  p[i]=(int *)malloc(rank*sizeof(char));stdio,rank;i&lt！<br /><br /> /<br />main()<br />{<br /> char **p，切不可丢失，没几个对C有兴趣的:&#92,&p[i][j]);%d%d&quot; %c&quot;<br /><br /> /<br /> int i;i&lt;<br /> for(i=0，请记得采纳最佳答案:&#92;Please input data;/输入二维数组的行数和列数<br /><br /> printf(&quot，我是能回答出来的;n&quot，虽然我加过几个C群,&row;;以下为动态申请二维数组<br /><br /> p=(int **)malloc(row*sizeof(char))，也就是指针的指针**p是二级指针的意思;)！<br /><br />高手就不敢谈了;<br />  printf(&quot;<br /><br /> /rank，但比我还菜的问题。<br /><br />当然可以用char **p;注意%c前有空格键！<br /><br />QQ121590680，但里面鱼龙混杂
+11
+none
+http://zhidao.baidu.com/question/196665332.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/242796799.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/246785373.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/344277490.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/237402484.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中a++与++a的解释
+b)！;<br />    printf(&quot，还怎么区分++a与a++呢;n&quot?<br />main()<br />{<br />    int b?<br />请各位高手帮帮这个菜鸟吧;<br />    printf(&quot?<br /><br />就这个问题都把我给弄糊涂了;n&quot?;b=%d&#92;b=%d&#92;<br /><br />    b=(++a)+(++a) ;<br /><br />这样输出b的值怎么又变成7了,b=(++a)+(++a));;<br />这样输出b的值怎么是8呢,a=2;,a=2main()<br />{<br />    int b
+多次修改同一个变量的值<br /><br />因为编译器不知道是先计算你的后面的一个++a呢还是计算你的<br /><br />前面的那个+a,对于不同的编译器可能会给出不同的结果<br /><br />所以我也就不解释了://zhidao,这是未定义的,VS2005和VS2008都比较好<br />下面是我回答别人的<br /><a href="http.com/question/53297700.html" target="_blank">http.baidu,总之;<br /><br />因此,不同的编译器会给出不同的解决方法<br /><br />要编译器啊://zhidao.com/question/53297700.baidu,不要在同一条语句中,不要在同一条语句中多次修改同一个变量的<br /><br />值;求值顺序未定义&quot.和你的编译器有关<br /><br />C语言明确规定&quot这个不是你的问题
+2
+none
+http://zhidao.baidu.com/question/193094762.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/193094321.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/488778447513014292.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/134604357.html?qbl=relate_question_3

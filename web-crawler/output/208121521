@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言题目：a=5, b=++a+(++a)+(++a) b=? 求详细解答！！
+none
+计算机应该是采用右结合的方式这个，<br />然后才是++a+14对比，先执行++a=8，14会被暂时保存，最右边的开始咯：<br />第一个++在括号里，a=6<br />第二个++也在括号里，先执行7+7=14，a=7<br />++a+a+a在这里先右结合对比+a+a；<br />最后才8+14=22
+0
+none
+http://zhidao.baidu.com/question/688399916209608684.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/561055294.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/587383527.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/872523461202543372.html?qbl=relate_question_3

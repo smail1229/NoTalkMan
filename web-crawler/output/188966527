@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言解1元二次方程 查错。
+the solution is x1=%d。<br />顺便问一下, x2=%d;<br />#include &lt？<br />DEV里都不用加：<br />#include &lt,&b;<br />      x2=(-b-z)&#47;)，发现错误;<br />      getch()，但是等了许久都没结束;<br /><br />}<br /><br />开始用的DEV-C++。按F9,&c)。<br />然后又换WIN-TC复制代码编译;<br />      printf(&quot;<br />      y=b*b-4*a*c;<br />才行啊,&a;stdio.&quot.h&gt.h&gt;<br />      }<br />      else <br />      printf(&quot,x2,z，为什么WIN-TC里面要加<br />getch();there is no any solution&quot;<br />      scanf(&quot;;=0)<br />      {<br />      z=sprt(y);math;)，可是我又不知道错在哪里了;<br />main()<br />{<br />      int a,x1;<br />      x1=(-b+z)&#47;<br />      if(y&gt;2a,b,c，出现编译中对话框;please input coefficient&quot,y;<br />      printf(&quot; x1 x2);%d%d%d&quot;2a代码如下
+相应的x1;<br />      double x1.&#92，不然就变成先计算(-b+z)/stdio;n&quot#include &lt;there is no any solution&quot.h&gt;<br />      printf(&quot；还有就是输出语句x1;the solution is x1=%lf,b;,x1;<br />#include &lt;<br />      }<br />      else <br />      printf(&quot;<br /><br />}<br />z是计算根号应该定义成double型;(2*a);<br />      getch();2,x2也应定义成double型;,然后再乘以a了;math;<br />      x1=(-b+z)&#47,z;<br />main()<br />{<br />      int a;<br />      printf(&quot;<br />      y=b*b-4*a*c;please input coefficient&quot;<br />      scanf(&quot,&a,c;<br />      x2=(-b-z)/(2*a),x2)，x1中的2*a应该加括号;%d%d%d&quot,y.h&gt,&b,&c);<br />      if(y&gt,x2;),x2中少了逗号。修改后你再编译一下看行不行;), x2=%lf;=0)<br />      {<br />      z=sprt(y)
+3
+none
+http://zhidao.baidu.com/question/471952251.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/140527404.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/235347463.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40275781.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265771748826226468.html?qbl=relate_question_4

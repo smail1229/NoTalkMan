@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言计算PI值,
+师的思想是用边长为1的正方形，计算出打在这个圆中的点数，用圆中的点数比上在正方形中的点数就可以求出圆的大概面积（因为为正方形的面积已知为1），再利用这个正方形的内切圆，在这个正方形中打点，在利用圆的面积求出Pi值
+pi=%f&#92;<br /> srand(time(NULL));N;<br />#include &lt;stdio;<br />#define N 300000<br />main()<br />{<br /> long i;RAND_MAX.h&gt;<br /> printf(&quot;;<br /> for (i=0.0*n&#47在0到1之间取两个随机数。<br />#include &lt.0*rand()&#47,n=0,pi;<br /> }<br /> pi=4，如果这两个随机数(x;RAND_MAX;stdlib，就是PI了,y)在四分之一圆内;<br />  if (x*x+y*y&lt;conio;<br /> float x;time;i++)<br /> {<br />  x=1。<br />最后用落在圆内的点数.0*rand()/<br />  y=1，就加一;<br />#include &lt.h&gt;1)<br />  n++.h&gt，除以总点数.h&gt,pi);i&lt,y;n&quot;N;<br />#include &lt
+1
+none
+http://zhidao.baidu.com/question/91300738.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/73665688.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/390312517530568885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/521523660.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532422525.html?qbl=relate_question_4

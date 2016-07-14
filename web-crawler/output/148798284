@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的字符串比较函数strcmp比较的是什么？
+是字符串中每个字符的ASCII值的和的大小吗？
+返回值&lt、从第一个字符开始比较，则继续比较，若相等;s2时，对相比较的两个字符串的第一个字符s1;<br />    当s1&lt。如果两个字符串相等，返回值&gt;0<br />;0<br />  当s1&gt、s2这个函数是用于比较字符串中字符值的大小的;s2时
+5
+none
+http://zhidao.baidu.com/question/99614074.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/204736868.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/545910638.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116395053.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2265634947065356188.html?qbl=relate_question_4

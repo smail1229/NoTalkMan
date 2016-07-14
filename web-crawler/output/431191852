@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程：用循环结构程序控制结构，输出如下图形。
+none
+fail
+0
+#include&lt;stdio.h&gt;<br /><br />void main()<br />{<br />	int i;<br />	int j;<br />	int  k= 0;<br />	for(i = 0; i &lt; 4; i++)<br />	{<br />		if(i &lt; 3)<br />		{<br />			for(j = 0; j &lt;= k; j++)<br />				printf(&quot;*&quot;);<br />			printf(&quot;  &quot;);<br />		}<br />		else<br />		{<br />			for(j = 0; j &lt;= k; j++)<br />				printf(&quot;*&quot;);<br />		}<br />		k += 2;<br />	}<br />	for(i = 0; i &lt; 4; i++)<br />	{<br />		k -= 2;<br />		for(j = 0; j &lt;= k; j++)<br />			printf(&quot;*&quot;);<br />		printf(&quot;  &quot;);<br />	}<br />}
+http://zhidao.baidu.com/question/543915770.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97454941.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/543346123.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/199355838.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/351673073.html?qbl=relate_question_4

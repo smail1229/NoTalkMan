@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中return 0 的真正含义
+none
+tc中，是不需要的<br />这个在vc中，这个是定下的<br /><br />有返回类型的，那么他也有返回值，就是返回类型和程序运算返回结果<br />void其实也有返回值，他好像是调用成功返回非零值，好像是vc框架必须的代码<br /><br />你可以这么理解，不过我们一般用不到，我们一般也不在意这个返回值，好像是必须的<br />我也不是很理解，是函数就必须有返回值，main也是一个函数<br />c中，c是有很多的函数互相包含调用构成的，失败返回零<br />main也是函数
+7
+return 0是操作系统的默认约定。<br />比如你编译了两个程序a.exe和b.exe<br />然后在命令行（cmd）里运行a && b回车，那么如果a返回0，操作系统会继续运行b；如果a返回其他值，比如-1，操作系统就不会运行b了（这里和c语言刚好相反，c语言里面0表示false，&&后面的反而不执行）。<br />当然，如果你只是单个程序运行，返回什么都无所谓。
+http://zhidao.baidu.com/question/13189048.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/687897035096234604.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/356882968.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/223565538.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/299548699.html?qbl=relate_question_4

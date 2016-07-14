@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言max比较3者大小，哪里错了？
+#include &quot;stdio.h&quot;<br /><br />int main()<br />{<br />	int i;<br />	int max(int x,int y,int z);<br />	int a,b,c,e;<br />	scanf(&quot;%d %d %d&quot;,&a,&b,&c);<br />	e=max(a,b,c);<br />	printf(&quot;max=%d&#92;n&quot;,e);<br />	scanf(&quot;%d&quot;,&i);<br />	return 0;<br />}<br />int max(int x,int y,int z)<br />{<br />	int w;<br />	if(x&gt;y,x&gt;z)w=x;<br />	else w=y;<br />    if(z&gt;w)w=z;<b珐工粹继诔荒达维惮哩r />	return(w);<br />}
+fail
+0
+none
+http://zhidao.baidu.com/question/448088272.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/129474612.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/348536738.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/345206074.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/367516563.html?qbl=relate_question_4

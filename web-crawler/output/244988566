@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言IF语句的问题？
+？谢谢！;<br />             if(z&gt：<br />           max=4<br />我觉得结果是5【例4？,max)？可以把思想原理告诉我吗,y=5;x)<br />                       max=y.9】写出下列程序的输出结果,z=2;<br />           printf(”max=%d”;<br />             else<br />                   if(y&gt,max;<br />             max=x，为什么是4;y)<br />                  if(z&gt.h”<br />            main()<br />           { int x=4;<br />          }<br />运行结果？。<br />            #include ”stdio;x)<br />                     max=z
+的if语句没有括弧，你可以单步调试进行一下试试，所以后边的程序没有得到执行，范围不确定
+0
+none
+http://zhidao.baidu.com/question/126601166.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/175600156811762444.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/710772868806805645.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/421865450.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/936715227927724572.html?qbl=relate_question_4

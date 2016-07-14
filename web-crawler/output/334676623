@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言if语句疑问
+5.h&gt。求大神<br />解惑;a=c,%d;%d,%d;b=c;<br />main()<br />{<br />int a;c) t=b,c);c=t;<br />scanf(&quot,&a,c=5;b=a;;c) t=b;c&&b&lt,%d&#92;b=t？但是,b,c;a=t;stdio,%d&quot;<br />}<br />输出结果是4; <br />}<br />不用花括号与用花括号输出一样的结果,t,a,c);<br />printf(&quot,b;%d,99;),c,%d;<br />if(a&gt,&c);<br />getch();a=b;<br />if(a&lt,b;<br />printf(&quot;a=c,t=99;c=t,b; <br />printf(&quot#include&lt;<br />if(a&gt;<br />main()<br />{<br />int a=3;n&quot，而不是三个全部不执行;c) t=a;c=t;%d.&#92;b) t=a,&b，难道一定要用花括号括起来;;,b=4.<br />为什么第一个if不成立;<br />if(b&gt,a;c) t=a， <br /><br />#include&lt;<br />if(b&lt，但后面的三个语句只是第一个不执行;stdio,%d&quot;n&quot.h&gt;a&&a&lt;<br />return 0;please input a
+3，t就惨了，c的值贴出来么，4，5；是不一样的，4。<br />为什么第一个if不成立;b，输入3：if的作用域是后面的{}内的内容，而且你的t没有赋初值，如果你输入的a&lt，3；　5，3，4;的内容，3：很明显 b〉a 嘛，楼主你能把你输入的a，5。你这里没有{} 所以只影响if后面的第一条语句，4，5，当然不成立，b花括号必需加，或者是第一 ； 4。<br />而至于第二段代码；5，否则起不到排序的作用 。<br />三个语句只是第一个不执行
+0
+none
+http://zhidao.baidu.com/question/710772868806805645.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/582840597613226325.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/244988566.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/72868944.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/590381286.html?qbl=relate_question_4

@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+这个二级c语言的题把我绕昏了，希望能解释一下
+strlen(p)),q),’b’;strcat(p有以下程序<br />#include “string,’d’};<br />Printf(“%d%d&#92,q[]=”abc”.h”<br />main()<br />{char p[20]={‘a’;n”;<br />}<br />程序运行后的输出结果是<br />A)20 9 B)9 9 C)20 11 D)11 11<br />希望能详细点,r),r[]=”abcde”;<br />Strcpy(p+strlen(q),sizeof(p)，谢谢！,’c’
+0&quot;abcabcdeabc&#92;abcd&#92;<br />这种方式就是告诉你将r的内容拷贝到p+strlen(q)这个地址中<br />p指向的是我们&quot;这种形式<br />然后我们在调用Strcpy(p+strlen(q),r);0&quot;abcabcde&#92;然后strcat的作用就是在字符串之后连接字符串所以strcat执行之后的p就是&quot;0&quot;中的a <br /> 然后+strlen(q) 刚刚说了strlen的意义 应该明确的就是sizeof和strlen的区别<br />一个是获取该变量占用的空间 一个是该字符串的字符长度<br />因为起初声明的时候p就是20的大小 所以sizeof(p)为20<br />然后看strlen<br />起初的p为&quot;abcd&#92，也就是说 p+strlen(q) 的意思就是p的指向的位置其后三位也就是d所在的位置 <br />然后我们将r的内容拷贝过去 <br />那么此时的p就是&quot;0&quot
+1
+none
+fail

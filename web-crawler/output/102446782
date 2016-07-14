@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程考试题
+急用，从键盘输入写道磁盘文件中。<br />（考试题，在屏幕中显示，再把数据从文件中读出来设计一个10名学生的数据
+<br />    return;<br />  fclose(fp);num=%d; &#47!feof(fp) )<br />    putchar( fgetc(fp) );/<br />  }<br />  fclose(fp);, &quot.txt&quot;<br />    fprintf(fp,stu[i];);<br />  }<br />  while( , stu[i];性别<br />}<br />void main()<br />{<br />  struct student stu[10],sex=%c&#92,&stu[i].sex);学号<br />  char name[20];);n&quot;<br />    return;;n&quot,stu[i];cannot open file&#92.sex);student;<br />  }<br />  for(i=0;);/<br />  if( fp == NULL )<br />  {<br />    printf(&quot;r&quot;student,&stu[i];姓名<br />  char sex.c<br />void main()<br />{<br />  FILE *fp=fopen(&quot;n&quot.name; /<br />}<br /><br />/w&quot.txt&quot;&#47.num;b;&#47.name;);,stu[i],name=%s;<br />  int i, &quot;<br />  FILE *fp=fopen(&quot; i++)<br />  {<br />    scanf(&quot;.num;%d%s%c&quot, &quot;10; i&lt; /cannot open file&#92//<br />  if( fp == NULL )<br />  {<br />    printf(&quot.c<br />struct student{<br />  int num;a
+0
+none
+http://zhidao.baidu.com/question/121741319.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/130310380.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245562685.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/147795477.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/142874037.html?qbl=relate_question_4

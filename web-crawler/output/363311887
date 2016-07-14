@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中,在一个子函数中定义的static型变量可以应用在其他函数中么?
+none
+但是这个变量名在外面是无法被访问的，你可以通过这个地址来访问这个变量的值，你想办法把这个变量的地址给传出去后，编译器不许
+2
+none
+http://zhidao.baidu.com/question/461089266.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/121726831.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87160252.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90486076.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/400399822.html?qbl=relate_question_4

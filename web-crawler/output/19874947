@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题  PRINTF（&quot;%d&#92;n&quot;,i=f(i));
+   输出的结果代表的是i的值还是f(i)的值PRINTF（&quot;;%d&#92;n&quot,i=f(i))
+<br />严格来说输出的是f(i)的值，赋值语句的值是等号左边变量被赋的值，同时也是赋值后的i的值
+1
+none
+http://zhidao.baidu.com/question/172630271.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/577621858.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424023826.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/58387737.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/412206114.html?qbl=relate_question_4

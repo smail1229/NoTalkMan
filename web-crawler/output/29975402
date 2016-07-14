@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言求n!(n的阶乘)  非常急！！！！！！
+非常感谢输入一个自然数n,求n. 麻烦高手帮忙做个可运行的程序!!!,同时统计结果中有多少个0
+;<br />while(x#include &quot;type in the n;<br />}<br />return (i);stdio，用的是n.h&quot;<br />void main()<br />{<br />int fun(int x);<br />}<br /><br />float jc(int x)<br />{<br />float i;<br />return (i);5;<br />float k,i.0f&#92!=0)<br />{<br />x=x/<br />scanf(&quot;<br />i=fun (n)! is %10;%d;<br />}<br /><br />int fun(int x)<br />{<br />int i=0,n;<br />else<br />i=jc(x-1)*x,k，自己想一下,i)，由于位数的关系只能算到12!=1*2*3*4*5*6*7*8*9*10*11……=1*2*3*(2*2)*5*(2*3)*7*(2*2*2)*(3*3)*(2*5)*11……后面的式子中有几个5就有 就会得到几个末位0的原理;<br />printf(&quot;<br />k=jc (n);<br />printf(&quot,&n);n&quot;<br />if (x==0||x==1)<br />i=1;<br />int n;n&quot;%d&quot！<br /><br />求零部分是自己想出来的，这个函数可以算很多数;<br />i+=x;nthere are %d zero;);!&#92;<br />}<br />阶乘jc（）函数是仿照谭浩强的c程序设计编写的;<br />float jc(int x)!&#92
+34
+none
+http://zhidao.baidu.com/question/145620614.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/50526008.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/127096176.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/23437789.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/127512501.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+一个c语言基础小程序题
+                            <br />c=getchar();                   <br />main()                                 <br />{char c.h&quot;这是什么意思。<br />c：<br />abcde<br />问题：1?&#39!=&#39;?&#39，它输入一堆字符怎么算啊<br />3<br />为什么fgh没了;                               <br />c=getchar()!=&#39;                           <br />while(c;)                                <br />{putchar(c)#include &quot？fgh（回车）<br />运行结果为;<br />}                            <br />}     <br />如果从键盘输入abcde;;stdio？<br />2<br />我记得getchar这个是输入单字符的
+？后就结束了循环①c，但在循环里的getchar（）就是连续接收单字符？后;，包括!=&#39？时就将其输出，所以后面的字符就不会输出了？时进入循环，然后继续判断输入的字符，while循环在输入。<br /><br />③因为fgh在？在内也不会输出。<br /><br />②getchar（）函数确实是接受单字符，然后一个一个字符输出的。结合while来看就是，当c不等于?&#39，当输入的字符不是
+1
+none
+http://zhidao.baidu.com/question/239451663.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/560402709749664164.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/326589636595575365.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/166190420.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用调用函数的方法 编写c语言 ：求三角形的面积
+none
+fail
+0
+#include &lt;stdio.h&gt;<br />#include &lt;math.h&gt;<br /><br />int main(void){<br />    double a,b,c,p,s;<br />    printf(&quot;输入a:&#92;n&quot;);<br />    scanf(&quot;%lf&quot;,&a);<br />    printf(&quot;输入b:&#92;n&quot;);<br />    scanf(&quot;%lf&quot;,&b)<br />    printf(&quot;输入c:&#92;n&quot;);<br />    scanf(&quot;%lf&quot;,&c);<br />    p=(a+b+c)&#47;2     补充一句 ：楼上的朋友公式用错了 海伦公式的p 是周长的一半<br />    s=sqrt(p*(p-a)*(p-b)*(p-c));<br />    printf(&quot;三角形面积为%.2lf&quot;,s);  三角形面积 我保留2位小数 有更精确要求 自行修改<br />    return 0；    <br />}<br /> <br />   运行时 按要求输入3边 边长后可得面积 顺道佐证我引用的海伦公式  楼上的确实用错了
+http://zhidao.baidu.com/question/52063664.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/412308193.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/135869726070851885.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1495694513728276059.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/327326001.html?qbl=relate_question_4

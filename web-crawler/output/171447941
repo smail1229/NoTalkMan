@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的static函数问题
+h中的这些东西我在看linux程序源码的时候看到了大量的static函数定义，其他函数需要使用的时候如何办？直接include可以么，根据static函数定义，只能被本文件函数使用，那么像list
+可以使用list，将list。<br /><br />所以.h中的内容替换到你的源文件中直接include是可以的。这样，在包含了list。<br /><br />因为#include是一个预处理指令.h中的static变量也就存在于你的源文件当中了，它的作用是替换.h中的static变量，list.h的文件里
+2
+none
+http://zhidao.baidu.com/question/207300781.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/209940728.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87160252.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/552168386693292452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/205700982.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言计算for循环语句的问题
+;);<br />            for(i=0,i;<br />            printf(&quot;2;%d  %d&#92;i++)<br />                for(j=0;i&lt;n&quot;3;j++)<br />                    printf(&quot,j);<br />        } <br />输出结果为;i  j&#92,j;j&lt;n&quotmain() <br />        {<br />            int i
+1;j++)<br />printf(&quot;n&quot:<br />for(i=0; <br />}<br />当i=0时，1;%d %d&#92;i&lt，2 <br />即0 0 <br />  0 1 <br />  0 2<br />当i=1时;，j有等于0;2,i;i++)<br />{<br />for(j=0这是两个for循环;3;j&lt，j有等于0,j)
+1
+none
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97831171.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/102836762.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/140800357.html?qbl=relate_question_3

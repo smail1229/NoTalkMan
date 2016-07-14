@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言简单数据类型有哪些？
+如题
+C语言有五种基本数据类型：字符、整型、单精度实型、双精度实型和空类型。尽管这几种类型数据的长度和范围随处理器的类型和C语言编译程序的实现而异，但以bit为例，整数与CPU字长相等，一个字符通常为一个字节，浮点值的确切格式则根据实现而定<br /><br />C语言还提供了几种聚合类型（aggregate types），包括数组、指针、结构、共用体（联合）、位域和枚举<br /><br />除v o i d类型外，基本类型的前面可以有各种修饰符。修饰符用来改变基本类型的意义，以便更准确地适应各种情况的需求。修饰符如下：<br />&#8226; 穿姬扁肯壮厩憋询铂墨signed（有符号）。<br />&#8226; unsigned（无符号）。<br />&#8226; long（长型符）。<br />&#8226; short（短型符）。修饰符s i g n e d、s h o r t、l o n g和u n s i g n e d适用于字符和整数两种基本类型，而l o n g还可用于d o u b l e（注意，由于long float与d o u b l e意思相同，所以A N S I标准删除了多余的long float）。
+49
+none
+http://zhidao.baidu.com/question/438142003.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239837440.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/54836604.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/218177295.html?qbl=relate_question_3

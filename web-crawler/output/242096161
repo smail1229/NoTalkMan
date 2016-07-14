@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中for语句里面break的用法？？
+none
+<br />  i++。<br />  例. 在多层循环中. is %d&#92当break语句用于do-while。 即满足条件时<br />  便跳出循环、for;%c&#92;*判断若按Esc键则退出循环*/ /<br />  }<br />  printf(&quot!=27) &#47。<br />  2. break语句对if-else的条件语句不起作用;n&quot;<br />  char c; &#47, c);0&#39;<br />  while(c;<br />  {<br />  c=&#39;*设置循环*/The No、while循环语句中时;;<br />  while(1) /<br />  }<br />  if(c==27)<br />  break, 一个break语句只向外跳一层;n&quot;*键盘接收字符直到按回车或Esc键*/&#92;<br />  printf(&quot;*变量赋初值*/<br />  {<br />  c=getch()!=13&&c;, 通常break语句总是与if语句联在一起, 可使程序终止循环<br />  而执行循环后面的语句;:<br />  main()<br />  {<br />  int i=0;<br />  printf(&quot, i);):<br />  1;<br />  }<br />  注意;The end&quot
+16
+<p>for和break都是C语言中的关键字，两者结合使用构成循环控制语句块。</p><p><br /></p><p>具体用法可以通过如下的例子来说明：</p><pre t="code" l="cpp">int&nbsp;i,&nbsp;j=0;<br />int&nbsp;a[5]={0,0,0,0,0};&nbsp;&nbsp;//&nbsp;给数组赋初值，每个元素都为0<br />for(i=0;&nbsp;i&lt;5;&nbsp;i++)&nbsp;&nbsp;<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;if(i==3)&nbsp;&nbsp;&nbsp;&nbsp;//&nbsp;如果i=3，则跳出for循环<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;break;<br />&nbsp;&nbsp;&nbsp;&nbsp;a[j++]&nbsp;=&nbsp;i;<br />}<br />//&nbsp;程序执行完后，数组a的值变为：0,1,2,0,0</pre>
+http://zhidao.baidu.com/question/195201907.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/528290661.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/397040774.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/114117433.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/42132851.html?qbl=relate_question_4

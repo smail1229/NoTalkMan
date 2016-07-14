@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的stdio.h中定义的函数怎么起作用的？？？？下面的函数
+<br />int  _Cdecl creatnew	 (const char *path;* int attr *&#47;);<br />这几个函数怎么看起来这么的复杂啊.0 or later *&#47;<br />int  _Cdecl chmod	 (const char *path;* DOS 3，是什么意思啊<br />int  _Cdecl access	 (const char *path;<br />int  _Cdecl chsize	 (int handle; &#47;<br />int  _Cdecl _creat	 (const char *path, long size)？, int amode), int amode);<br />int  _Cdecl close	 (int handle);<br />int  _Cdecl creat	 (const char *path, int attribute);<br />int  _Cdecl _chmod	 (const char *path;<br />int  _Cdecl _close	 (int handle)下面的函数, int func. &#47, , int mode).., int amode)？
+所有参数从右到左依次入栈，表示C语言默认的函数调用方法，称为手动清栈。被调用函数不会要求调用者传递多少参数，调用者传递过多或者过少的参数，这些参数由调用者清除加了stdio，就可以使用其包含的函数，声明）.h这个头文件，甚至完全不同的参数都不会产生编译阶段的错误。__cdecl 是C Declaration的缩写（declaration
+0
+none
+http://zhidao.baidu.com/question/138376702.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196485312.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/751375527427201444.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/171904270.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/203442447.html?qbl=relate_question_4

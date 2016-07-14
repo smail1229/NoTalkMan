@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+我是c语言小白，整形这两个分开定义怎么就行了呢
+stdio;c=%d&#92.h&quot,c),b;<br />}<br />  <br />这样就没问题,c;;a=1;<br />	b=1;<br />    c=a+b，大家帮我看看吧;n&quot;c=%d&#92;n&quot;c=a+b;a=1.h&quot，这三个变量偏要一起定义#include &quot;b=1;;stdio;<br />	<br />	printf(&quot;<br />void main()<br /><br />{<br />	int a;<br />	<br />	printf(&quot;<br />	int c;<br />}<br />这个错误在哪;<br />void main()<br /><br />{<br />	int a？<br />然后<br />#include &quot;<br />	int b，我刚学习这个,c)，啥都不会
+因此，你应该改成：<br />int a标准C语言规定变量定义只能出现在“程序块”初始部分;<br />	int c;<br />c=a+b;<br />	int b，不能在“语句中”定义变量;<br />b=1;<br />一个分号表示一条语句;<br /><br />a=1
+0
+none
+http://zhidao.baidu.com/question/343293100.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/44509312.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/440537957.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/51929225.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/196858557.html?qbl=relate_question_4

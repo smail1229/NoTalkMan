@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+c语言 main函数调用子函数后，怎么获取子函数的返回值&#47;数组 ，并将返回值&#47;数组 赋给main函数的一个变量
+none
+然后将这个内存的地址作为一个参数返回即可;0&#39;<br /><br />        if (null , SIZE);;* 使用完记得释放内存 */<br />        int  array_tmp[1024] = {};<br />    free(ptr)，给你写一个简单的例子吧(纯手工敲的;<br /><br />    ptr = subFunc();    <br />}<br /><br />    char * subFunc()<br />    {<br />        char * ptr_tmp;<br />    &#47, array_tmp，给分哟)：<br />main（）<br />{<br />    char * ptr;&#92，你可以通过在子函数分配一块内存; &#47楼上的纯属误导新人;<br />            return ptr_cmp;* 假如数组已经初始化 *&#47，将你的数组内容copy到内存里;<br />    int SIZE = 1024，子函数中的数组!= (ptr_cmp = malloc(SIZE+1)) )<br />        {<br />            memcpy(ptr_cmp;<br />            *ptr_cmp = &#39
+1
+none
+http://zhidao.baidu.com/question/200052877.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/46963266.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91754093.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/80521969.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/50039172.html?qbl=relate_question_4

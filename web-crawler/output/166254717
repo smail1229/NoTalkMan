@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，x=3，求x+=x*=x++的值，求高手给解一下，给出解释.谢谢哈！
+嘎嘎.我觉得不对，我有自己的答案是16我这边的答案是18和19
+<br /><br />得;&#47：x++ &#47这个不同的编译器处理方式不同; 4*3-&gt;&#47。<br />你可以这样理解; 12+4-&gt;/x(12)<br />x+=x    &#47：<br />x*=x++;x<br />x*=x    / 4-&gt;<br />x+=x
+2
+none
+http://zhidao.baidu.com/question/195515129.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/320043840.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/202143451.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2138249860543336508.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/360252378970407052.html?qbl=relate_question_4

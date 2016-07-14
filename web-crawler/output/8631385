@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编程，求从1的阶乘一直加到20的阶乘。
+none
+n&quot,sum,b=1;=20;%e&#92.h&gt,sum);<br />  for(a=1;,s,b;b++)<br />    s=s*b;stdio;=a;<br />  }<br />  printf(&quot;<br /><br />  sum=sum+s;a&lt;<br />void main()<br />{<br />float a;b&lt#include&lt;<br />sum=0;a++)<br />  {<br />  for(s=1
+32
+　　#include&lt;stdio.h&gt;<br />　　void main()<br />　　{<br />　　float a,b,s,sum;<br />　　sum=0;<br />　　for(a=1;a&lt;=20;a++)<br />　　{<br />　　for(s=1,b=1;b&lt;=a;b++)<br />　　s=s*b;<br /><br />　　sum=sum+s;<br />　　}<br />　　printf(&quot;%e&#92;n&quot;,sum);<br />　　}<br />先求出第n项阶乘，然后把前n-1项阶乘的和加上第n项。
+http://zhidao.baidu.com/question/96322482.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2116192621705310147.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1690442120986615548.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/18922253.html?qbl=relate_question_3

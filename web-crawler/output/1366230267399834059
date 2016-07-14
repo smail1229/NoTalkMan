@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请大神帮我看一下C语言程序哪里出错了...
+%5d&quot;N;<br />	return 0;<br />	insert(a,m。;<br />	   scanf(&quot;stdio;<br />	}<br />		a[i+1]=m;;i++)<br />		scanf(&quot;<br />	for(i=0,i;N-1;<br />#define N 11<br />int main()<br />{<br />	void insert(int array[]。,&a[i]);=0,int m)<br />{   int i.h&gt;<br />	for(i=N-2;<br />}<br />软件说是在最后几行错了;m) break;%d&quot;<br />	int a[N];<br />	   a[i+1]=a[i],int m);i&lt;i&lt;n&quot;i--)<br />	{   if(a[i]&lt;i++)<br />		printf(&quot;<br />	for(i=0;i&gt;&#92;<br />}<br />void insert(int array[];,a[i]),&m);,m););<br />	printf(&quot;%d&quot#include&lt
+insert()里面的a[]数组没定义，你是不是复制人家的代码还是什么。将a改成array吧。
+2
+none
+http://zhidao.baidu.com/question/2137882751078146548.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1110028697200649779.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/531243838.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/554625542.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/917976354860144339.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里！&quot;%-8.2f&quot;是什么意思啊？
+急用~谢谢啊~
+43。 举个例子，自动突破，整个浮点数，若满足或超出十位,是可以输出带小数的浮点数数据精度<br />8.2f。<br />负号表示左对齐 ，小数位数为两位，00324533，包括小数点为八位数，不足十位左边补满空格直至十位
+39
+none
+http://zhidao.baidu.com/question/1302286323165666059.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/191664270.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239850213.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/188949285.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/252019941.html?qbl=relate_question_4

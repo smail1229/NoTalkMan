@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题目：有如下定义：int x[]={1,2,3},*p=x,y;则y=*p++;相当于：
+p=p+1<br /><br />B，x++<br />CA.y=2,p=x+1<br />D.y=*(p+1).y=*p. y=1
+所以先计算++（地址加1），++优先级是一样的的。但++是先访问再++生效，所以取址运算还是对加1前的p应该是D，*，运算方式是右结合，再计算*
+1
+none
+http://zhidao.baidu.com/question/1302158393562797939.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/215688777.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1366045081847940859.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1732128394637263107.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/198781249.html?qbl=relate_question_4

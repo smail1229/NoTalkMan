@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 (double)(3&#92;2)等于多少
+none
+卧槽，误人子弟，1.000000
+2
+<p>首先纠正一个错误，在C语言中是没有\这个运算符的。 \符号一般用来做换行标记或者作为转义字符标识。用在这里的是/,代表除法操作。</p><p>也就是说，(double)(3/2);</p><p>这里应用到如下几个知识点。</p><p>1 数值常量的默认类型。</p><p>在没有特殊标识情况下，整型的数值常量，如题目中的3和2，都会默认为int型。</p><p>2 整型的除法。</p><p>对于整型之间的运算，包括加减乘除模除等，结果都同样是整型值。</p><p>在这里是int/int=int，而除法得到的小数部分，会被无条件舍去，注意是舍去而不是四舍五入。</p><p>所以3/2=1</p><p>3类型的强制转换。</p><p>当int型转为double型时，小数部分置为0。</p><p><br /></p><p>综上，这个表达式的值就是一个双精度浮点型(double)的1.0。</p><p><br /></p><p>可以以如下程序验证：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />int&nbsp;main()<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%lf\n&quot;,&nbsp;(double)(3/2));<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre><p>对于%lf格式，默认输出6位小数，所以输出：</p><p>1.000000</p>
+http://zhidao.baidu.com/question/1302236185446840179.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/327759497768597845.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/235629263.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/534247099.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155245429.html?qbl=relate_question_4

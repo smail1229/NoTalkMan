@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个 (包含10个char类型指针的数组) 的指针，用c语言怎么表示?
+none
+表示你声明的指针指向的数组的数组元素是char*，关键是看标识符和声明符结合的优先级，最后“ (*p)[10] ”和“ char* ”结合;<br />我就解释一下吧，表示你声明了一个指针，表示你声明的是一个指向数组的指针，然后“ (*P) ”和“ [] ”结合char* (*p)[10]，首先“ * ”和“ p ”结合：<br />这是一个复杂声明语句
+3
+none
+http://zhidao.baidu.com/question/126232205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/532049459.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237402484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242796799.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/207240089.html?qbl=relate_question_4

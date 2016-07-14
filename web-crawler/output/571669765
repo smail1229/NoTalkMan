@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中， int *p； int a = 100; p = &a;&#47;&#47;这句语句的意思是什么
+。求详解;又是什么意思：指针变量p指向a的地址（取a的地址）。，那a地址的内容会不会被取<br />*p = a我的理解是
+<br />让p指向a(将p设置为a的地址)（把a的地址写入p）（即初始化p为a的地址）<br />*p = a;<br />把a复制到p所指向的内容（此时p一定不能是未初始化的,此时p不知道指向何方（未初始化）<br />int a = 100;<br />声明了一个叫做p的指针int *p;<br />声明并初始化了一个整数a(=100)<br />p = &a
+3
+none
+http://zhidao.baidu.com/question/501043047.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/87685578.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132405202.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88151916.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/8301238.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言字符串指针
+<br />   gets(STRING),STRING)？请高手指教……多谢了;<br />   char *STRING;&#92;%s&quot;<br />   LENGTH = strlen(STRING);<br />   printf(&quot;<br />   printf(&quot。为什么将*STRING换成STRING[100]之后就可以了:&quot;nInput the string;<br />   char CHOICE,I？运行时提示说什么该内存不能为written;<br />}<br />请问上边的错误在哪儿;);int main(void)<br />{<br />   int LENGTH
+因为原先所指向的内容可能是和系统相关的，数组其实是有一个指针指向了一个连续的内存区域，而之后你又用gets函数要往这个野指针所指向的内存单元里面写东西，那么灾难性的后果就来了;<br />使用这种方式要包含stdlib，此时你就改变了该野指针所指向内存单元的数据：<br />char *STRING = (char *)malloc(100)，你说的将STRING换成STRING[100]是一种方式，这个指针指向了一个内存大小为100字节的区域;像这个语句szTemp就是一个指针，还有一种方式是动态内存分配像这样。<br /><br />正确的做法是要让你指针有属于自己的那块内存区域，被你改写了之后就会出现你说的那种提示了，讲的专业点这个指针是野指针，既然是野指针那么就有可能指向了其他的内存单元。<br />你的程序的问题在于你的STRING指针所指向的东西是不明确，比如char szTemp[100]指针要看其指向的东西是什么
+4
+none
+http://zhidao.baidu.com/question/242770723.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/426831889.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/253865353.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89822952.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/117902856.html?qbl=relate_question_4

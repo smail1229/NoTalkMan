@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言高手谢啦...编写函数功能，功能是求出小于或等于lim的所有素数，并放在aa数组中，函数返回素数个数。
+lim-1;=aa[i])<br />			k++!=0&&k&lt;i++)<br />	{<br />		if(aa[i]%k;aa[i])<br />			aa[sum++]=aa[i];<br />    for(i=0;lim-1;<br /><br />	for(i=0;0&#39;;i++)<br />		aa[i]=i+2;<br />}                                                     哪里出错了啊;<br />	aa[i]=&#39;<br />	return sum,k=2,sum=0;0&#39int fun(int lim;&#92;、为什麽运行部出来呢;i&lt;&#92;<br />		while(k&gt;<br />	}<br />	aa[sum]=&#39,int aa[max])<br />{<br />	int i;i&lt
+9 这个数字试一下。
+0
+none
+http://zhidao.baidu.com/question/1111453743402486019.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/176540561.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/189462338.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/417830489.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/208282580.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中 int x=1,y=2,z=3;则z+=x&gt;y?++x:++y 的值为多少？为什么？ 求大神指教
+++y 的值为多少,z=3?++x;y;则z+=x&gt,y=2C语言中  <br />int x=1？为什么
+y为假,++y的值是3,本来z=3?这个判断，而x&gt答案应该是6;y.因为先进行x&gt，所以z+=++y，所以z+=3
+2
+none
+http://zhidao.baidu.com/question/214769572.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210104273.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/557940776.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/446207651.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/218796639.html?qbl=relate_question_4

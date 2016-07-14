@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中，设x,y,z和k都是int型变量,则执行表达式:x=(y=4,z=16),k=32后,x的 值为( )。求过程
+none
+<br />	s=(x=(y=4;endl&lt，上机实现一下，而逗号运算符优先级低于赋值运算符;&lt，故先执行x=();iostream&gt;<br />}<br />输出结果为，呵呵: 16        32<br />运算符基本的用法及优先级问题在C语言中，学习要有方法．希望对你有帮助;x&lt;<br />	cout&lt,z=16)的最终结果是16,k=32);s&lt，真不会可以百度一下，共同进步哈，多个表达式可以用逗号分开。 所以(y=4,k，但整个表达式的值是最后一个表达式的值,z=16)，不要遇到问题就来提问，该表达式最终结果为32;&lt,s; x赋值后才参与后面逗号表达式的运算，最好多看看书;<br />using namespace std,即x=16:<br />#include&lt,y;<br />void main()<br />{<br />	int x;endl,可以用以下代码验证;&lt;&lt,z，其中用逗号分开的表达式的值分别结算
+38
+none
+http://zhidao.baidu.com/question/262435926.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/122264541.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106266772.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89262330.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/486705755.html?qbl=relate_question_4

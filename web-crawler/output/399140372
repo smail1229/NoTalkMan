@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言程序怎么算啊
+s;;<br />for(k=2有以下程序段;<br />for(j=k,s);j&lt;6;j++)s+=j;<br />}<br />printf(&quot;k&lt;n&quot：<br />{ int k;6,k++)<br />{ s=1;k++,j;%d&#92
+s=1+4+5=10，s=1执行第二个for循环，其实不难的，因为第一个for循环当k=6时就跳出了，执行才有意义，执行完第二个for循环之后，不过当k变为4是，所以当k=4时，你直接看第二个for循环就好了，s的值是变了，因此k的值只有等于4时，因为当k=2时，s又变为1了输出结果为10
+0
+none
+http://zhidao.baidu.com/question/131757158.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/550853324.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/528916036.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/141898239.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2115826273318883907.html?qbl=relate_question_4

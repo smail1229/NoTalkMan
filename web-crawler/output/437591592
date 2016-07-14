@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言为什么判断条件while (a[0]&&printf (&quot;0k&quot;))就能够打出ok 而 while (a[0] || printf (ok))不行a[0]=1
+none
+这是一个优化的问题，当a旦浮测簧爻毫诧桐超昆[0]=1时，在a[0]&&printf (&quot;0k&quot;)需要知道printf (&quot;0k&quot;)是1还是0.这样才能判断整个表达式的真假，所以就执行了printf (&quot;0k&quot;)，打印出了Ok。<br />而a[0]=1时，执行a[0]||printf (&quot;0k&quot;)，不管printf (&quot;0k&quot;)是1还是0都不会影响表达式的结果，所以编译器就进行了优化，没有执行printf (&quot;0k&quot;)，这样可以节约程序执行时间，所以自然没有打印出OK。
+0
+none
+http://zhidao.baidu.com/question/211201199.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/234840178.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/219549840.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/334229245.html?qbl=relate_question_4

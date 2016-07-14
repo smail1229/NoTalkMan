@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中for（i=0;i&lt;10;i++）
+比如我在循环中给i=i+2for（i=0，可以改变步长吗;i&lt;10;i&lt;i++）循环中;10;i++）{i=i+2;循环次数会不会少几次呢？<br /><br />for（i=0
+楼主好好想一想，i=i+2是i的值增加2当然会减少了<br />还有<br />for（i=0;i&lt;10;i&lt，i的值是增大3的;}或者for（i=0;i&lt;10，之后又i++是i的值再增大1，那不是使i的值每次增大3嘛<br />如果想每次增大2;10，可以改为for（i=0;i=i+2)<br />当然了;）{i=i+2，这样的编写没有任何意义;i++）{i=i+2;}<br />这个每循环依次
+1
+none
+http://zhidao.baidu.com/question/143198081.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/624831879812266084.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/753809920633882324.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2009543853276233948.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/131208363.html?qbl=relate_question_4

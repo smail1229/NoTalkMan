@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 int main的函数中如果不加return 0会怎样？如果最后return 1会怎样？
+none
+没有返回值就报错，返回1也可以。返回0是正常返回，关键是你怎么使用返回值不加当然不行，main要求返回值的
+0
+none
+http://zhidao.baidu.com/question/240591066176681924.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/425454266671541852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/231611675.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/249958926.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/261752928.html?qbl=relate_question_4

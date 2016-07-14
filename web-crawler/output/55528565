@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+请帮我看看这个C语言程序是什么问题？
+p;i&lt,j;5;the minimum number is;这个程序的目的是求5*5数组对角线上的最小值,j,i，谢谢了，但是运行的结果很莫名其妙;%d&quot;i++)<br />   for(j=0;a[i][j]=a[i+1][j+1];<br /> printf(&quot;a[i+1][j+1]=t;}<br /> return a[4][4];<br /> for(i=0,p);5;;<br /> for(i=0;j++)<br />   scanf(&quot;i&lt！<br /><br />int min(int a[5][5])<br />{int t;i++)<br />   for(j=0;<br />}<br />main()<br />{int b[5][5]:%d&quot，但是如果scanf赋值直接改成在声明时就给数组赋初值，那么运行结果是对的;j++)<br />    if(i==j)<br />      if(a[i+1][j+1]&gt，希望各位帮帮忙;5;j&lt;5;<br />   p=min(b)！;a[i][j])<br /> {t=a[i][j],i,&b[i][j]);j&lt
+j？这个貌似你移动到每一行的末尾的时候都会出现错误,i;i&lt;j++) <br />scanf(&quot。;5?a[i][i]:min;stdio，一个循环就行;min;i++) <br />min=a[i][i]&lt;<br />} <br />main() <br />{int b[5][5]首先简化一下代码。。;i&lt。你如果只寻找对角线上的最小数就不用2个FOR循环了;j&lt.h&gt,p,&b[i][j]);5;<br />int min(int a[5][5]) <br />{int i。<br />其次你的代码比较的是当前数字和下一个数字; <br />for(i=0。<br />下面是我修改的代码<br />#include&lt; <br />for(i=0;5，所以当运行到数组末尾的时候会出现溢出<br />再次在MIN函数里你是不是想把比较小的数字往后移动，然后返回最后一个值;;%d&quot; <br />printf(&quot;the minimum number is:%d&quot,min=a[0][0],p)。; <br />p=min(b);i++) <br />for(j=0;<br />return min;
+0
+none
+http://zhidao.baidu.com/question/437638954.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/97986889.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/104296929.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/157056962.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/420121450.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言：有关scanf的问题……
+stdio;float salar,name[8].state;).sex，目前发现是float类型那有问题;<br />    printf(&quot.class).add.num,1.age;4;i&lt,&quot,fp),em[i];);.h&quot;}em[10],em[i];;%s%s%s%d%s%f%s%s&quot;int age;i++)scanf(&quot,state[8],sizeof(struct emploee);<br />    fp=fopen(&quot;<br />struct emploee{char num[6],class[4].salar;<br />}<br />错误就在那个scanf那儿;<br />    for(i=0。<br />对此,sex[3];<br />    for(i=0;i&lt;emploee&quot,add[20];<br />    fclose(fp);4,em[i],&em[i];<br />void main()<br />{<br />    FILE*fp对于新手来说scanf有时的确让人无语……<br />根本不是想象中的那么简单……<br />出错的程序;w&quot。<br />好像是和键盘缓冲区有关吧,em[i];int i;n&quot,em[i],em[i]，那哪位大大能告诉在下为何会错;职工号 姓名 性别 年龄 住址 工资 健康状况 文化程度&#92;i++)fwrite(&em[i],&em[i].name：<br />#include &quot
+则编译器会链接时加上这个库#include&lt;    float x=cos(0，那么编译器就不会将浮点数处理库也连入你的程序<br /><br />另一个解决方法就是用临时float变量来接受用户输入.333*2, 在链接时，计算机硬件就能实现,两个浮点数乘法.data[j]=temp；<br />但不能用float x=3,如果没有浮点数的运算,所以就会出现上面的错误.222.h&gt，在程序中加入一个关于浮点数的运算;math,就不会链接上浮点数链接库，再将输入的值赋给数组;<br />a[i]，如下：<br />float tempTC下编译环境里.0)
+2
+none
+http://zhidao.baidu.com/question/253852770.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/808294408230265572.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/186626782.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/142280865.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1174087345779804059.html?qbl=relate_question_4

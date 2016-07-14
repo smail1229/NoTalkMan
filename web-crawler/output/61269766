@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中&quot;&&quot;这个符号有什么作用
+none
+1&0=0；他们的左右都一定是bool型的数值或者表达式、&是按位取与：1|1=1，||是逻辑或，&&是逻辑与，1&1=1、&是取地址符；<br />注意不要和&& ||弄混了；结果也是一个bool型的；<br />    例如15&16=0（将15 16分别转换成二进制的；1|0=0；<br />    这与|是相对应的；0|0=0，|是按位取或；0&0=0；<br />二，这同*是相对应的，而&是去该内容的地址，*是取地址中的内容一，然后从高位到低位按位取与）15|16=31（同理）
+5
+none
+http://zhidao.baidu.com/question/101689562.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/458806586.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/142682177.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/70568601.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/159067352.html?qbl=relate_question_4

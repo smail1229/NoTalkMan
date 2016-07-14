@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机C语言程序
+位定义，我把我对每行的理解写出来！是无返回值的函数吗;定义单片机的特殊功能寄存器<br />#define uchar unsigned char&#47？怎么理解啊;&#47！这和上面的那句有关系吗，不对的请您帮我修改一下;&#47！<br />{<br /> while(1)&#47，谢谢;&#47，这句是延时吗！<br />程序;&#47.0这个引脚<br /><br />void DelayMS(uint x)&#47：<br />#include&lt;这句是什么意思啊，可是我看不懂;&#47;&#47.h&gt，我这有一个很简单的程序;&#47;这句话中的~是什么意思啊;<br />#define uint unsigned int&#47;i&lt;&#47！<br />{<br /> uchar i;这两句我就看不懂了？<br /> while(x--)&#47！<br />sbit LED=P1^0;这句我知道是X在此循环？<br /> {<br />  for(i=0;&#47;在此延时<br /> }<br />}<br /><br />&#47;void main()&#47，用LED代替P1;&#47;120;&#47;&#47;&#47;这句我也看不懂;这句我只知道定义一个变量，可是什么型的呢;&#47？<br />  DelayMS(100)，有劳各位高手帮我看一下;&#47;这句话我也不懂;&#47;这是个大循环，这个我清楚;&#47。<br /> { <br />  LED=~LED;&#47我是刚刚才开始学习C语言;reg51;i++);&#47
+&#47，unsigned int是C语言关键字，无返回值#define uint unsigned int就是用unit替换unsigned int。。，unit比较简单<br />void DelayMS(uint x)&#47。，参数是个 无符号整形的变量叫 x<br /><br />uchar 上面不是定义了unsigned char 无符号字符型;定义一个函数，就是8位一个字节的变量<br /><br />。<br /><br />建议还是自己花两天系统看看C语言的书吧
+3
+none
+http://zhidao.baidu.com/question/542589242.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/193806473.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/534734931.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/519881886.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/243233548.html?qbl=relate_question_4

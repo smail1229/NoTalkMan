@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言为什么语句while（！x）和while（～x） 不等价？
+none
+!是逻辑运算符取反 ~是位运算符取反 第一个是真值取反 第二个是对数值的二进制按位取反<br />!运算符的运算结果是 true变false false变true 比如：int a = 1; int b = !a; b中的哗础糕飞蕹读革嫂宫讥值为0<br />~运算符的运算结果是一个数字的每一位二进制取反 比如~(01001001)2结果为(10110110)2
+0
+!x和~x的计算规则不同，所以二者不能等价。<br /><br />用于while()条件时，当表达式结果为0，while退出，否则while继续循环。<br /><br />对于!x，只有当x为0时，表达式结果为真，while会继续循环；对于其它的值，!x的结果都是0，会退出循环。<br />于是!x的真值就是<br />x = 0, !x=1<br />x!=0, !x=0<br /><br />而对于~x，是按位取反。<br />所以，只有当x的每位均为1时，结果为0。其它x值的运算结果均非0.<br />于是~x的真值为<br />x的每位全为1， ~x为0.<br />x的任意一位不为1，~x为非0值。<br /><br />举例来说，当x=1时，!x为0，while(!x)会退出循环。<br />而x=1时，~x结果与x类型相关，但一定不为0，这时while(~x)不会退出循环。
+http://zhidao.baidu.com/question/51382887.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/108455806.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192519351.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/148720147.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/121417969.html?qbl=relate_question_4

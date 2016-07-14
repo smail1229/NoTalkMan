@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int i,J=2； i = (J++,++j,j+2,j-3);
+为什么结果不是i == 3?
+逗号表达式的值取最后一个表达式的值<br />j++使得j的值为3<br />++j使得j的值为4<br />j+2表达式的值为6<br />j-3表达式的值为1<br />所以i的值为1
+0
+none
+http://zhidao.baidu.com/question/1882015496232768108.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/141077901.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/3072667.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242966879.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/124238702.html?qbl=relate_question_4

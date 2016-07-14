@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如何解释typedef(c语言)
+typede穿弧扁旧壮搅憋些铂氓f char *aa[MAXLEAFNUM + 1]； <br /><br />这个语句如何解释，typedef起到了什么作用呢
+typedef在C中是定义数据类型别名的，例如typedef int a;则a是与int 具有相同功能的别名，相当于我们说的给一个人起绰号，其实他们是同一个人，这里也一样，这样一个定义之后，a就与int是一回事了 <br />typedef char * a,* b；这里也一个意思啊，这句话就是定义了char*型的别名a与b,那么a与b就有了与char*相同的功能了，那么我们如果定义 <br />a num;则num就被定义为char*型的指针了 <br /><br />b当然是普通变量了，在定义的时候，*只是一个指针类型说明符，与最近的变量连接，应该穿弧扁旧壮搅憋些铂氓是int(*a)正确！！
+0
+none
+http://zhidao.baidu.com/question/221958288.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/226925880.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100314456.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/25672560.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/249431151.html?qbl=relate_question_4

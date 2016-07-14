@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问c语言中&#92;0是什么意思。
+none
+fail
+13
+字符常量占一个字节的内存空间。字符串常量占的内存字节数等于字符串中字节数加1。增加的一个字节中存放字符&quot;&#92;0&quot; (ASCII码为0)。这是字符串结束的标志。 <br />例如： <br />字符串 &quot;C program&quot; 在内存中所占的字节为： <br />C p r o g r a m &#92;0 <br />字符常量&#39;a&#39;和字符串常量&quot;a&quot;虽然都只有一个字符，但在内存中的情况是不同的。 <br />&#39;a&#39;在内存中占一个字节，可表示为： <br />a <br />&quot;a&quot;在内存中占二个字节，可表示为： <br />a &#92;0
+http://zhidao.baidu.com/question/216029255.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1381740815361709740.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/217027412.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241448209.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/184447693.html?qbl=relate_question_4

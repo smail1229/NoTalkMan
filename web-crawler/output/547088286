@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中关于指针的理解
+那么*p表示以p的地址为内容的变量？ *p不就是指针所指向的内容吗我不理解这一句话 。 什么是以p的地址为内容的变量：如果p是一个已经定义好的指针变量
+写错了吧，*p应该是以p的内容为地址的变量
+0
+none
+http://zhidao.baidu.com/question/194826045.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143946734.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/453524424.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/444686091.html?qbl=relate_question_3

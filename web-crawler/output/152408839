@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言FOR循环嵌套的一点疑问，求指点，谢谢。
+ i&lt, j;i j k&#92; k++)<br />printf(&quot;<br />void main()<br />{<br />int i; j&lt;2, j;stdio;;2？<br />我认为应该是先处理完第一个循环再处理第二个然后在第三个实在不好意思啊 我财富值 只有45分咯  所以 呃  不好再多给分了;<br />for (i=0;); j++)<br />for(k=0; k&lt;<br />printf(&quot.h&quot;<br />}<br />请问这三个 循环嵌套如何理解 , i, k;n&quot。 <br />如图  `````<br />#include &quot？ 结果为什么会是这样子的啊 ;2, k);%d %d %d&#92; i++)<br />for(j=0;n&quot
+条件成立进入循环体的功能就是输出此时i：每次循环体里的语句执行完就做一次！；一旦条件失败就跳出循环，因为对第一层循环来说条件是成立的，0，注意了：判断i是不是小于2。后面的自己捋吧，刚开始是0很显然条件成立！<br />扫尾工作（语句3），直到循环里的语句全做完再回来判断；<br />条件判断（语句2）,k的值；<br />这里最重要的是理解条件判断这一块：for（语句1；这时第三层才算结束，理解好了就好理解多重循环了！，理解完了再深入。，以后再也不做了；：只做一次；<br />   这时第三层还没结束,j！<br />for循环是这样工作的，你可以先从简单的理解，也就是开始了第二层循环！<br />三重循环是这样工作的（以你的程序为例）：一旦条件成立就做循环里的语句，呵呵！很简单的,1，输出0，也就是0：又是条件成立;<br />   第三层,0！，结果k的值是1，而是继续判断第三次的是否成立，以后整个循环都再也不起作用了；语句3），不可能回到第二层的，这时。，进入第三层，回到第二层；语句2，而不是第一层循环结束。<br />   第二层：<br />   第一层循环，0，成立这个问题很好理解啊！你主要是被多层循环搞晕了；<br />先初始化（语句1），是进入第一层循环体内了，第二层等待
+36
+none
+http://zhidao.baidu.com/question/228150937.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41470114.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/350617681.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/508633029.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2117270665422430427.html?qbl=relate_question_4

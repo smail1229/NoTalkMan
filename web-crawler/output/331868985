@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中,运行main(){int a=1,b=2,m=0,n=0,k;k=(n=b&gt;a)||(m=a+b);printf(&quot;%d,%d&#92;n&quot;,k,m);}运行时警告
+none
+n=b&gt;a)||(m=a+b)  由于这是或，也就是说只要 ||  前面为真。 因此会有这样的警告，后面就不会执行了
+6
+none
+http://zhidao.baidu.com/question/232796019.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/207361009.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/171974059.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/314332599.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/275875150.html?qbl=relate_question_4

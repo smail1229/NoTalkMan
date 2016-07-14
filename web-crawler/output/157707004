@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+解释一个简单的C语言程序
+<br />   unsigned char c;<br /> printf(&quot有以下程序;A&#39;%c&#92,u1;n&quot;<br /> }u1;<br /> u1：<br />mian()<br />{<br />  union<br />{<br />   unsigned int n.c=&#39;;.n)
+它所占的长度等于其中最大的单位的长度；就是把这段空间按照字符的方式输出;union 是共用体的标识符，所以一个时间就只有一个数据成员是有意义的。<br />1.c=&#39；就是把这段空间写入了字符A. 各个数据成员同占一个储存空间。。<br /><br />你把 u1。;A&#39。<br />然后printf（）。。你这个union的大小是 int 的大小<br />2
+3
+none
+http://zhidao.baidu.com/question/239645213031798324.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/156399429.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88030982.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/535005065.html?qbl=relate_question_3

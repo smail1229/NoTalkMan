@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+菜鸟求助 C语言题目：设a=12,求表达式a+=a-=a*=a的值与a+=a-=144有何不同？请详细简答，谢谢
+none
+//  &#47；语句是在a初值为12的条件运行的;/&#47。<br />＝是右结合的。<br /><br />如果再运行，同理可得到运行后a的值是-264，a初值是12，执行a+=a-=a*=a;/a的值为-144<br />a+=a; / /    &#47；时是这样来执行的;a的值为-288<br />即运行完结果是-288<br /><br />若a+=a-=144：<br />a*=a;a值为0<br />运行完后a的值为0：<br />a-=144；/a值为144<br />a-=a，则;a值为0<br />a+=a这个题目要看运算符的优先级和结合性
+4
+none
+http://zhidao.baidu.com/question/47670718.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/937527531910786932.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/982186107844434699.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1301872359573801419.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/546740658.html?qbl=relate_question_4

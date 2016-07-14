@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言main（）主函数后有return 0，表示程序正常结束 怎么我编写的一个程序老是循环重复执行main函数。
+后面有return 0；
+只能在函数末尾添加语句while(1)用于停止程序的运行请问是单片机程序吗，主函数是无法返回的？如果是的话
+4
+none
+http://zhidao.baidu.com/question/157135182.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/29821332.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/808761026276298492.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/48024955.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1431311079432530379.html?qbl=relate_question_4

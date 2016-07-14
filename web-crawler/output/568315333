@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中&#92;a是什么意思，有什么作用
+none
+fail
+17
+&#92;a是 转义字符 007，响铃符 BEL。<br />printf(&quot;%d &quot;,&#39;&#92;a&#39;);    输出 7<br />printf(&quot;%c &quot;,&#39;&#92;a&#39;);    发出一声“嘀”<br />printf(&quot;&#92;a&quot;);  发出一声“嘀”<br />printf(&quot;&#92;007&quot;); 发出一声“嘀”<br /> <br />不太常见的C语言的转义字符：<br />&#92;a 响铃(BEL) 7<br />&#92;b 退格(BS)  8<br />&#92;f 换页（FF）12<br />&#92;v 垂直制表(VT) 11<br />&#92;t 水平制表(HT) 9<br />&#92;0 空字符（NULL）0<br />&#92;数数数  3位8进制,   数0,1,....7<br />&#92;x数数   2位16进制,  数0,1,....9,a,..f
+http://zhidao.baidu.com/question/210463507.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/228524692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/258997822.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/256858709.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编写程序的时候int main（）函数最后结尾不加return 0好像程序也没什么问题啊……
+那么是否意味着return 0 这个函数可有可无？有时候经常忘了加了，不过对程序来说也没什么影响
+但有些时候一个程序可能会被其他程序或脚本语言调用，这时候这个返回值就很有用了，这时候需要通过这个返回值来确定是否正确执行结束还是遇到异常如果一个独立的程序问题不大
+8
+none
+http://zhidao.baidu.com/question/1947061804256883348.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/425454266671541852.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/231611675.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/249958926.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/459292199.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 汇编语言 
+求x+y=z的汇编语言编程
+要求是程序运行后，输入任意数，就有输出结果
+ AL<br />               MOV AH 要输入两次哦   两个变量的嘛<br />DATA  SEGMENNT<br />X DB  :DATA<br />START:  MOV  AX , 01H<br />                INT  21H<br />               MOV  Y , X<br />              MOV  AH ,  DATA<br />               MOV  DS ,DS,  Y<br />              MOV   DL , 01H<br />               INT  21H<br />               MOV   X ?<br />Z DB ?<br />Y DB , AX<br />               MOV  AH , AL             <br />              ADD   X  ?<br />DATA   ENDS<br />CODE  SEGMENT<br />ASSUME  CS:CODE
+0
+none
+http://zhidao.baidu.com/question/195127299.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1367250649662555739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/432724941.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97962437.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/196588511.html?qbl=relate_question_4

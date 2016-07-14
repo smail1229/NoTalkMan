@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言请教高手：Y=i+++--j是如何运算的？为什么会等于9，我觉得应该是10
+none
+这里主要是  i ++  和 ++ i的区别<br />比如 i = 10<br />y=i++  <br />这个式子相当于两个<br />y = i;<br />i=i+1;<br />先y=i，i再自加<br />运行之后y=10，i=11<br /> <br />y=++i<br />这个式子也相当于两个<br />i=i+1;<br />y =畅怠扳干殖妨帮施爆渐 i;<br />i先自加，再 y=i<br />运行之后y=11，i=11<br /> <br />i-- 和 --i  的运行顺序跟 ++样<br /> <br />y=i+++--j<br />相当于 y=(i++)+(--j)<br />拆开来运行顺序是：<br />j=j-1<br />y=i+j<br />i++<br />所以最后y=9，i=9，j=1
+4
+none
+http://zhidao.baidu.com/question/47633154.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/141884872.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/231445609.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/146457746.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/319744504.html?qbl=relate_question_4

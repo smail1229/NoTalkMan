@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求C语言程序输出结果
+新手看不懂 麻烦大神说一下运算过程<br /> 1 #include&lt;stdio.h&gt;<br />       void main（） {<br />           int a[8]={76,63,54,95,40,75,90,66};<br />           int i, s=0;<br />           for（i=0; i&lt;8; i++）<br />               if（a[i]&gt;=70 && a[i]&lt;=90） s+=a[i];<br />           printf（&quot;s=%d&#92;n&quot;,s）;<br />       }<br /><br />   2. #include&lt;stdio.h&gt;<br />       int WF（int x, int y） {<br />           x=x+y;<br />           y+=x;<br />           return x+y;<br />       }<br />       void main（） {<br />           int x=3, y=8;<br />           printf（&quot;%d&#92;n&quot;,WF（x,y））;<br />       }<br /><br />  3. #include&lt;stdio.h&gt;<br />       int LA（int *a, int n） {<br /憨订封寡莩干凤吮脯经>           int i,s=0;<br />           for（i=0;i&lt;n;i++） s+=a[i];<br />           return s;<br />       }<br />       void main（） {<br />           int a[5]={1,2,3,4,5};<br />           int b=LA（a,5）+LA（a+2,3）;<br />           printf（&quot;b=%d&#92;n&quot;,b）;<br />       }
+第一题的意思是求出这个数组里面70到90之间憨订封寡莩干凤吮脯经所有数的和<br />第二题就更简单了：WF（3,8）x=3+8 = 11  y = 8+11=19<br />return 19+11;结果为30<br />第三题是LA（a,5）求这个数组所有元素的和15<br />LA（a+2,3）;是求后三个元素的和12<br />LA（a,5）+LA（a+2,3）;&lt;==&gt;12+15=27<br /> <br />对地二题还有一个x+y=30<br /> <br />满意请采纳
+0
+none
+http://zhidao.baidu.com/question/115560927.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/229568115.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/248720910.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/132207442.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/34175234.html?qbl=relate_question_4

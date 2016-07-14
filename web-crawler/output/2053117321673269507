@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言if(k%2)的意思是什么？
+思是   加入给K赋一个值，如果K除2的余数为0，就执行else后面的语句，如果K除2的余数不为0，就执行if后面的语句吗
+是的，而且k要是整数。
+3
+none
+http://zhidao.baidu.com/question/404755689.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1541145378033307187.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1109977434571643659.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1541733536071773867.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/354661032.html?qbl=relate_question_4

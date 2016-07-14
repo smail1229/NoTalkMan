@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言关于double与float转化的问题
+none
+fail
+1
+<pre t="code" l="cpp">average=(a+b+c)/3.0;&nbsp;<br />//这里默认浮点是&nbsp;double&nbsp;的,&nbsp;改成<br />average=(a+b+c)/3.0f;&nbsp;//就好了</pre>
+http://zhidao.baidu.com/question/128474713.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/28272861.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/31193140.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89775990.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/54241096.html?qbl=relate_question_4

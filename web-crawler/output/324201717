@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+谁能解释一下图中的冒泡排序C语言代码
+ 和i--有什么区别问题1：for循环里 初始值i=n-1 change=frue <br />为何有些一个change=true？;1与change是什么意思：i&gt？<br />问题2？：--i 是什么意思？<br />问题3
+<br />回答3，再执行本条程序;1和change都是当到达这个条件后就不再执行了：--i是先执行i=i-1;<br />举例a=0。而i--是先执行本程序，在执行i=i-1，表示还要执行下去：i&gt;<br />s=a+(--b)答案s=0回答1,b=1，第一个出现的在i=n-1旁边的是change是初始化;<br />s=a+(b--),s=0：change的作用是作为判断是否还继续执行的标志。<br />回答2,答案s=1。而i=n-1代表要执行n-1次
+0
+none
+http://zhidao.baidu.com/question/1494088142522481339.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158220632.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/24022995.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/217568783.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/46310048.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+有关高级语言程序设计的一道题
+产生10旦常测端爻得诧全超户0个在0到999之间的随机整数，然后统计其中在100到200之间的整数个数，并依次输出这些整数。
+#include &lt;stdlib.h&gt;<br />#include &lt;stdio.h&gt;<br />#include &lt;time.h&gt;<br /><br />/* prints a random number in the range 0 to 99 */<br />void main(void)<br />{<br /> int 旦常测端爻得诧全超户data[10];<br /> int i=0;<br /> int n=0;<br />  randomize();<br />   <br />  for(i=0;i&lt;100;i++)<br />  {<br />   data[i]= random (1000);<br />   if((data[i]&gt;=100)&&(data[i]&lt;=200))<br />    n++;<br />  }<br /><br />printf(&quot;在100至200间共有%d个整数&#92;n&quot;,n);<br />   <br />}
+1
+none
+http://zhidao.baidu.com/question/67047040.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/101854728.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116977260.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/187082199.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/175689233719507124.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 为什么只是交换了指针 输出的原内容也改变了呢？
+#include&lt;stdio.h&gt;<br />main()<br />{<br /> int a[10]={1,2,3,4,5,6,7,8,9,10},*p,i,*q,m;<br /> for(i=0;i&lt;10;i++)<br />  printf(&quot;%d &quot;,a[i]);<br /> printf(&quot;&#92;n&quot;);<br /> for(i=0;i&lt;5;i++)<br /> {<br />  p=&a[i];<b缉乏光何叱蛊癸坍含开r />  q=&a[9-i];<br />  m=*p;<br />  *p=*q;<br />  *q=m;<br /> }<br /> for (i=0;i&lt;10;i++)<br />  printf(&quot;%d &quot;,a[i]);<br /> printf(&quot;&#92;n&quot;);<br />}
+这可不是交换指针，缉乏光何叱蛊癸坍含开这是交换指针指向内存空间的内容。<br /><br />*p是引用p所指向的数组元素，改变*p就是改变该数组元素。
+1
+none
+http://zhidao.baidu.com/question/127377145.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/530864350.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/115860884.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/524816840.html?qbl=relate_question_4

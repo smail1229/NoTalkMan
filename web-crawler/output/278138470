@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求c语言表达式10&12和10^12的计算结果
+10&12和10^12的计算结果<br />麻烦把过程理由等等都详细的写下。。这题我实在不懂<br /><br />答案是 8和6<br />谢谢
+10=1010<br />12=1100<br />则10&12=1010 与 1100=1000=8<br />   10^12=1010  异或 1100=0110=6
+24
+none
+http://zhidao.baidu.com/question/534724754.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1860907729743228667.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163410428.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/203370947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/213823875.html?qbl=relate_question_4

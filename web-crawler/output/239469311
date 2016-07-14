@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 按键定义
+谢谢！<br />547434090@.h给我发一下就比如说<br />#define   ESC   0x001B<br />键盘上其余的不是26个字母的那些按键是怎么定义的.qq？<br />还有Ctrl+字母是怎么定义的？<br />谁有这个
+bios;<br />main()<br />{<br />int k;%d,%x&#92;    k的值就是你要的东西;<br />    while(k,k;<br />     }<br />return 0.h&gt#include&lt,k)；<br />     printf(&quot;;n&quot；<br />    {<br />     k=bioskey(0)!=283)     恩ESC退出程序
+4
+none
+http://zhidao.baidu.com/question/244253037.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/589373638.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1303584269884057699.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/167128036.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239795745.html?qbl=relate_question_4

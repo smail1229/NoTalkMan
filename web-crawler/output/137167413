@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题  输入一个英文句子，将每个单词的第一个字母改成大写字母
+i++)<br /> { <br />  if(k==0&&a[i]&lt;string;0&#39;96&&a[i]&lt;<br />     continue;请输入一个字符串，程序执行后a被改成A;<br />  }<br />  if(k==1&&a[i]==&#39;97&&a[i]&gt.h&gt;<br /> gets(a);)<br />   k=0;<br />}<br />这样哪里错了呀;<br />  }<br />  if(k==0&&a[i]&gt;  <br />#include&lt;k=0表示前面有一个空格!=&#39;<br /> for(i=0;122)<br />  {<br />     k=1;n&quot;                              &#47;<br /> int i：&#92;<br />   k=1;&#92,k=0;123)<br />  {<br />   a[i]-=32;); &#39#include&lt.h&gt;;&#47;a[i]？当首字母不是小写字母时，如ASDasd;stdio,k=1表示前面没有空格<br /> printf(&quot;<br /> }<br /> puts(a)？;      <br />void main()   <br />{   <br /> char a[50]
+97&&a[i]&gt.后面那个&&应该是||。<br />应该是这句引起的;122)<br />这句有逻辑错误。a[i]不可能同时小于97和大雨122if(k==0&&a[i]&lt
+22
+none
+http://zhidao.baidu.com/question/341917378.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/152789465.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/103838104.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/520776923972471365.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/418612559.html?qbl=relate_question_4

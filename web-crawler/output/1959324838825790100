@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 定义调用函数 求分段函数
+none
+fail
+1
+#include&lt;stdio.h&gt;<br />&#47;&#47;写好加法函数，以便调用<br />int sum(int x1,int x2)<br />{<br />int x3=x1+x2;<br />return x3;<br />}<br />void main()<br />{<br />int a=0;<br />int b=0;<br />int c=0;<br />printf(&quot;请输入两个整数&#92;n&quot;);<br />scanf(&quot;%d%d&quot;,&a,&b);<br />c=sum(a,b);&#47;&#47;传递参数给sum（）函数，返回他们的和<br />printf(&quot;%d+%d的和是：%d&#92;n&quot;,a,b,c);<br />}
+http://zhidao.baidu.com/question/112398116.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/138376702.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/212689057.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/153025554.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/246214820.html?qbl=relate_question_4

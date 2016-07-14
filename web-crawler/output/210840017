@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+计算100以内的奇数的和,并将结果写入D盘T.TXT文件,用C语言代码编写
+none
+ i&lt;t;&#92:&#92;<br />  }<br />  for(i=1;<br />void main()<br />{<br />  int i;stdio;<br />  fprintf(fp;.h&gt;<br />  if(fp==NULL){<br />    printf(&quot;<br />  FILE* fp = fopen(&quot:&#92; i+=2)<br />    sum += i, sum=0, sum).txt&quot.txt error&#92;d;t;&#92;<br />    return;%d&quot;, &quot;open d;w&quot;);=100;n&quot;)#include &lt, &quot;<br />  fclose(fp)
+1
+none
+http://zhidao.baidu.com/question/1818031666221580268.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210863509.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210841767.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/181149549.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/510301384.html?qbl=relate_question_4

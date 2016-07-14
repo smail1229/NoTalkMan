@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序设计题  高手进啊
+：malloc()分配两块连续的储存单元存放以上的考试成绩和平时成绩！，主函数中打印结果   （成绩我省略没打）<br /><br />只需要给个大概的流程图就好 我主要是没什么思路  最好把malloc函数那个位置用C语言写出来 不太会用malloc函数  谢谢啦   急，用一个函数计算该班同学的考试平均成绩和各同学的最终成绩（考试成绩+平均成绩）已知一个班级10个同学的英语成绩{} 平时成绩{} 主函数中用C的指针分配函数
+ ++i )<br />  scanf( &quot;stdio, *q;%d&quot;<br /> p = (int *)malloc( 10*sizeof(int) ); i&lt;%8d&quot;<br /> q = (int *)malloc( 10*sizeof(int) )。<br />#include &lt;<br /> return 0;<br />#include &lt;<br />int main()<br />{<br /> int *p, &q[i] ); ++i )<br />  printf( &quot.h&gt; i&lt;10;<br /> for ( i=0.h&gt; i&lt, &p[i] );, p[i]+q[i] ); ++i )<br />  scanf( &quot;<br /> for ( i=0;<br /> int i;malloc;10;<br /> for ( i=0;;，用两个指针存储;10;%d&quotmalloc申请两块内存
+2
+none
+http://zhidao.baidu.com/question/433288328.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/158641135.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/165237298.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/157384843.html?qbl=relate_question_4

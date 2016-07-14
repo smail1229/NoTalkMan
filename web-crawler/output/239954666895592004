@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序输出的不是预期的结果，求指点，例子如下：
+#include&lt;stdio.h&gt;<br />#include&lt;stdlib.h&gt;<br />#include&lt;time.h&gt;<br />#define N 52<br /><br />int main(void)<br />{<br />	int poker[N+1];<br />	int i,j,tmp,remain;<br /><br />	&#47;&#47;初始化阵列<br />	for(i=1;i&lt;=N;i++)<br />		poker[i]=i;<br /><br />	srand(time(0));<br /><br />	&#47;&#47;洗牌<br />	for(i=1;i&lt;=N;i++)<br />	{<br />		&#47;&#47;判断花色<br />		poker[rand()%4]=i;<br />		switch((poker[i]-1)%4)<br />		{<br />		case 0:<br />			printf(&quot;桃&quot;);<br />			break;<br />		case 1:<br />			printf(&quot;心&quot;);<br />			break;<br />		case 2:<br />			printf(&quot;梅&quot;);<br />			break;<br />		case 3:<br />			printf(&quot;砖&quot;);<br />		}<br /><br />		&#47;&#47;扑克牌数字<br />		remain=poker[rand()%13];<br />		switch(remai哗叮糕顾蕹该革双宫晶n)<br />		{<br />		case 0:<br />			printf(&quot;K&quot;);<br />			break;<br />		case 12:<br />			printf(&quot;Q&quot;);<br />			break;<br />		case 11:<br />			printf(&quot;J&quot;);<br />			break;<br />		default:<br />			printf(&quot;%d&quot;,remain);<br />			break;<br />		}<br /><br />		if(i%13==0)<br />			printf(&quot;&#92;n&quot;);<br />	}<br />	return 0;<br />}
+fail
+0
+none
+http://zhidao.baidu.com/question/114065135.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/101656739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/218351484.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/168205405.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200324035.html?qbl=relate_question_4

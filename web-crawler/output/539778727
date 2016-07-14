@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 while循环语句
+<br />while(x&gt;*循环体语句为x--;0) x--；循环结束后x的值为0*&#47;*循环体语句为空语句; &#47;<br />这是为什么呢;<br />和<br />while(x--&gt;0);C++程序教程中看到这样一个片段；循环结束后x的值为-1*&#47？拜托用比较基础的语言解释……这是C语言哦我在C&#47; &#47
+后计算，发现条件（X&gt;0）不成立。<br /><br />在循环体内的时候，发现条件（X&gt。<br /><br />在循环判断条件的时候。但是，当X减到0.<br /><br />如果是--X，判断，然后判断，退出,先判断。此时对X没有任何赋值操作，变成-1，当X减到0。这个是先计算X--，此时X--还有一步减法没有操作，继续，退出，两个结果就一样;0）不成立
+4
+none
+http://zhidao.baidu.com/question/187484934.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/132466285.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/172362222.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/485841658.html?qbl=relate_question_3

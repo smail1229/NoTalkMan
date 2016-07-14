@@ -1,0 +1,11 @@
+电脑/网络 编程语言 VB 
+VB各种语言的含义
+VB中的各种语言的意思
+ <br />z = z - i <br />MsgBox &quot;兔子&quot; 总只数—兔的只数 = 鸡的只数 <br /><br />Private Sub Form_Load() <br />Dim i;请输入脚数：&quot：&quot：&quot;只&quot, s; & i & &quot;鸡&quot&#39;请输入只数;)) <br />s = Val(InputBox(&quot;只&quot;解法;请输入头数;)) <br />i = Val(InputBox(&quot: 总脚数÷2—总头数 = 兔的只数 <br />&#39;)) <br />i = i / 2 - s <br />MsgBox &quot; & z & &quot, z As Integer <br />z = Val(InputBox(&quot
+1
+none
+http://zhidao.baidu.com/question/74522093.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154927777.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/15700754.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/412184862.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/303531575519155924.html?qbl=relate_question_4

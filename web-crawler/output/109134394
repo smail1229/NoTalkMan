@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道C语言题，大小写转换
+#include&lt;stdio.h&gt;<br />void main()<br />{<br /> printf(&quot;大小写字母之间的转换&#92;n&quot;);<br /> char c1;<br /> scanf(&quot;%d&quot;,c1);<br /> while(c1&gt;=65&&c1&lt;=90);<br /> c1=c1-32;<br /> printf(&quot;%c&#92;n&quot;,c1珐钉粹固诔改达爽惮鲸);<br />}<br />我用的是visual C++6.0，编译时没有错误，可是无法运行，请问我的问题出到哪了，谢谢~~~~
+首先,LZ你这不是大小写转换,至少要你转为大写字母你这程序转不了.我现在帮你改了下.<br />#include &lt;stdio.h&gt;<br /><br />int main( void )<br />{<br />    printf( &quot;大小写字母之间的转换: &quot; );<br />    char c1, c2;<br />    <br />    scanf( &quot;%c&quot;, &c1 );<br />    <br />    if( ( c1 &gt;= &#39;A&#39; ) && ( c1 &lt;= &#39;Z&#39; ) )<br />        c2= c1 + 32;<br />     <br />     e珐钉粹固诔改达爽惮鲸lse<br />         c2= c1 - 32;<br />     <br />     printf( &quot;%c&quot;, c2);<br />     return 0;<br />}
+8
+none
+http://zhidao.baidu.com/question/454006880.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/119456809.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/512546814.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/96488587.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/352274167.html?qbl=relate_question_4

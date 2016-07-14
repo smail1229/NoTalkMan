@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+请帮忙找一下这个c语言程序里有什么错误。
+16},j;<br />	max=array[0][0][0],max_value(a));k&lt,17,k;,17,7;stdio;<br />					max=array[i][j][k];<br />	for(i=0;<br />	printf(&quot,9,{10;<br />	return 0;i++)<br />		for(j=0;max value is %d&#92,3;n&quot;i&lt,14}};=3,{2;=2;j&lt,9;<br />}<br />int main()<br />{<br />	int a[2][3][4]={{{1,{15,6,13,16;j++)<br />			for(k=0;max),5;=4,5;k++)<br />				if(array[i][j][k]&gt,21},{{12;<br />	return(max),7},8},8}}},{2,4;<br />int max_value(int array[10][10][4])<br />{<br />	int i.h&quot#include &quot,max
+=”就行了可以讲max_value函数中的“&lt，你的程序数组访问发生越界了！学学调试吧！这样的问题你可以用单步跟踪调试出来的;”或者“;=”改成“&lt
+0
+none
+fail

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 读入1个整数，统计并办理出该数中2的个数。
+none
+ a);<br /> scanf(&quot, num; length; <br />#include &lt;%d&quot;The number of 2 is %d in the integer %d &#92, a); ++ii) {<br />  if (b[ii] == &#39;stdio.h&gt;<br /><br /> length = strlen(b)是这个意思不;<br /> }<br /><br /> printf(&quot;n&quot;<br /> char b[20];;<br /><br /> printf(&quot;Please input an integer;): &quot;2&#39, length, num;string.h&gt？<br /><br />#include &lt;<br /> for (ii = 0, &quot;<br /> num = 0;;) ++num;<br />int main() <br />{<br /> int a, ii;<br /><br /> return 0; ;<br /><br /> sprintf(b; ii &lt;%d&quot, &a)
+7
+<p>C语言实现如下：<br /></p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br />#include&lt;string.h&gt;<br />void&nbsp;main()<br />{<br />	int&nbsp;i,sum=0,len;<br />	char&nbsp;c[1000];<br />	gets(c);&nbsp;&nbsp;//以字符数组的形式储存读入一个整数各个位上的数。<br />	len=strlen(c);<br />	for(i=0;i&lt;len;i++)<br />		if&nbsp;(c[i]==&#39;2&#39;)&nbsp;sum++;&nbsp;//判断各个位上的数是否为2，统计2的个数。<br />	printf(&quot;%d\n&quot;,sum);&nbsp;&nbsp;//输出该数中2的个数。<br />}</pre>
+http://zhidao.baidu.com/question/39462391.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/76517889.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/123086486.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/122144736.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/681486661777396092.html?qbl=relate_question_4

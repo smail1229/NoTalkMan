@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中为什么要定义数据类型
+在C语言中为什么要定义数据类型
+定义了数据类型之后又定义了数据类型之间的各种运算，那么数据之间的差别只有位不同而已这个问题只要和汇编一比较就可以知道了，这样对编程人来说就会方便很多，C中定义数据类型是为了容易编程，这样如果要定义一个字符变量，再去按ASCII码对其进行赋值，你首先要去申请一个8位的内存，如果不定义数据类型，这样对编程人员来说是很恐怖的
+16
+none
+http://zhidao.baidu.com/question/187004226.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/215156261.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/227601807.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/21954995.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/10733496.html?qbl=relate_question_4

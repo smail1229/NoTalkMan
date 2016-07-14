@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道c语言例题，麻烦哪位高手讲解一下！谢谢
+ <br />z=0;=15; <br />a=value&gt; <br />for(i=1,j写一个函数; <br />a=a&gt,q： <br />unsigned short getbits(unsigned short value) <br />{int i; <br />z=z+a*q,对一个16位的二进制数取出它的奇数位(即从左边起的1;=(16-i-1)&#47;&gt;i+=2) <br />{q=1;i&lt、5.; <br />} <br />它的运算流程是怎么样的;&gt、3;&lt; <br />unsigned short int z,a;15;i&lt;15; <br />for(j=1，麻烦哪位给讲解一下;2;j++) <br />q=q*2;(16-i); <br />a=a&lt; <br />} <br />return(z)，不是很能理解..15位) <br />函数是这样的
+得到需要的二进制位的位置 <br />因为1=0001;=(16-i-1)/ <br />z=z+a*q;2;/(16-i);(16-i)，依次类推 <br /><br />a=value&gt; <br />a=a&gt; <br />a=a&lt;得到需要的每个奇数 <br />{q=1，4=0100;j++) <br />q=q*2; <br />for(j=1;&#47,a，其余位置0 <br /><br />z=z+a*q;=15;=(16-i-1)/&gt; <br />} <br />程序应该是这样的;15;j++) <br />q=q*2; <br />for(i=1;=15; <br />z=0;&lt;j&lt;15;i&lt; <br />是把value里的第i位的数字保留;15;2;&gt; <br />} <br />return(z);&lt;i&lt;&gt;得到需要的每个奇数 <br /><br />q=1; <br />每次循环把提出来的a按照q的位置写到z里面 <br /><br />return(z); <br />for(j=1;&gt;//15,q，8=1000; <br />a=value&gtunsigned short getbits(unsigned short value) <br />{int i。 <br />for(i=1;j&lt; <br />unsigned short int z;i+=2) / <br />a=a&lt;i+=2) &#47，2=0010; <br />a=a&gt,j
+2
+none
+http://zhidao.baidu.com/question/9963285.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/50340822.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/161173947.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89918397.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/120282776.html?qbl=relate_question_4

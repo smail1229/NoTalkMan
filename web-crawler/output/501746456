@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮我看看这个C语言程序哪里出错了。
+<br /> printf(&quot;&#92;%f&quot;tcircumference=$ f&#92;.h&gt.1415926*r*r);<br />double calcuArea(double r);<br /> scanf(&quot，但是不能编译运行。<br />最好再给点学习c语言的建议，从宏观的层面介绍一下C语言可以用来编哪些种类程序#include&lt,calcuArea);narea is %f&quot;。初学者;n&quot.0*3;<br /> printf(&quot;<br />}<br />double calcuCircum(double r)<br />{<br /> return (2;&#92。大一刚接触C语言,calcuCircum);<br /> return 0;<br />double calcuCircum(double r)，没有错误.1415926*r);stdio;);<br />int main()<br />{<br /> double r;<br /> printf(&quot;input the r;<br />}<br />double calcuArea(double r)<br />{<br /> return (3。现在对C语言的概念还很模糊;:&quot,&r);<br /><br />求圆的面积和周长
+ =》printf(&quot;&#92，先学好C语言;&#92;narea is %f&quot;;,calcuArea);n&quot; =》printf(&quot，一定要自己动手写程序;&#92,calcuCircum(r));narea is %f&quot;n&quot,calcuArea(r));<br /><br />printf(&quot，不要光看书;tcircumference=$ f&#92;tcircumference=$ f&#92，不过你刚大一不用太理会这些;,calcuCircum);&#92;<br /><br />学编程就是要多写;，不明白的要多问。C语言一般用来写底层，不适合做应用层序，其他任何语言都触类旁通调用函数的时候要加参数<br />printf(&quot
+0
+none
+http://zhidao.baidu.com/question/157056962.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/341056395.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/327629106.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/209049470.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/244113641.html?qbl=relate_question_4

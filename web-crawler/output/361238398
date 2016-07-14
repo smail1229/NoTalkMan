@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如何用C语言输出以下图案 ___* __*** _***** ******* _***** __*** ___*
+none
+1.程序分析：先把图形分成两部分来看待，前四行一个规律，后三行一个规律，利用双重 <br />      for循环，第一层控制行，第二层控制列。  <br />2.程序源代码： <br />void main() <br />{ <br />int i,j,k; <br />for(i=0;i&lt;=3;i++) <br /> { <br /> for(j=0;j&lt;=2-i;j++) <br />  printf(&quot; _&quot;); <br /> for(k=0;k&lt;=2*i;k++) <br />  printf(&quot;*&quot;); <br /> printf(&quot;&#92;n&quot;); <br /> } <br />for(i=0;i&lt;=2;i++) <br /> { <br /> for(j=0;j&lt;=i;j++) <br />  printf(&quot; &quot;); <br /> for(k=0;k&lt;=4-2*i;k++) <br />  printf(&quot;*&quot;); <br /> printf(&quot;&#92;n&quot;); <br /> } 哗定糕剐蕹溉革税宫粳<br />}
+42
+none
+http://zhidao.baidu.com/question/507438301.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/71816121.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424831800936087812.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/540703805.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/391044681.html?qbl=relate_question_4

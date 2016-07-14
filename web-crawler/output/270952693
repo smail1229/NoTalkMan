@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中int[4]={10,12,30,9};则m[4]的值是?以及原因
+none
+你定义打错了吧。应该是 int m[4]]={10订耿斥际俪宦筹为船力,12,30,9};<br />int m[4]]={10,12,30,9};的意思是定义一个含有4个元素的数组，并给予初始化，初始化后的结果<br />m[0]=10,m[1]=12,m[2]=30,m[3]=9;  <br />当定义了某数组后，就可以引用该数组中的元素了。引用形式为：“数组名[下标]”<br />m是数组名，不可以定义时丢掉。引用数组元素时，下标上限（即最大值）不能超界。也就是说，若数组含有n个元素，下标的最大值为n-1(因下标从0开始)<br />所以m[4]已经越界，C编译程序不给检查数组是否越界，程序仍可以运行，但可能会改变该数组以外其他变量或其他数组元素的值，由此会造成不正确的结果。所以m[4]的值是不正确的，系统会给出一个错误的值。
+1
+none
+http://zhidao.baidu.com/question/132398874.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/561140975.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/197684275.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/192722612.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/516472879.html?qbl=relate_question_4

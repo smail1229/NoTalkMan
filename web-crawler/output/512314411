@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编程时出现警告隐式声明函数怎么办？求完整的C语言定义一个函数代码
+<br />}<br /><br />这段代码缺了什么.h&gt;stdlib;<br />#include &lt;********&#92;<br />}<br />p2()<br />{<br />    printf (&quot;););n&quot;n&quot;<br /><br />int main()<br />{<br />    p1()#include &lt;welcome &#92;stdio;<br />    p1().h&gt;<br />    p2();<br />}<br />p1()<br />{<br />    printf(&quot
+stdlib.h&gt;welcome &#92;n&quot;<br /><br />p1()p1;<br />}<br />p1()<br />{<br />    printf(&quot;n&quot;<br />#include &lt;);<br />int main()<br />{<br />    p1();).h&gt;stdio;<br />    p2();<br />}<br />p2()<br />{<br />    printf (&quot;<br />    p1();********&#92,p2在使用前没有声明<br /><br />#include &lt;<br />p2()
+8
+none
+http://zhidao.baidu.com/question/312178084.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/10044847.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/338392200.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90271471.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/49769842.html?qbl=relate_question_4

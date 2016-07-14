@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+这个C语言程序的运行结果为什么是40？
+stdlib;stdio#include&lt;n&quot;<br />}<br /><br />怎么就不是35呢.h&gt;;<br />m=*s1+*s2;<br />main()<br />{char *s1;<br />s1=s2=(char*)malloc(sizeof(char)),*s2;<br />*s2=20,m;<br />*s1=15,m).h&gt;<br />#include&lt;%d&#92;<br />printf(&quot
+1=s2=(char*)malloc(sizeof(char))，则*s2也是15<br />*s2=20，则*s1也是20<br />你明白了吗;这一句表明s1和s2指向同一个地址<br />*s1=15;赋值为20;赋值为15
+0
+none
+http://zhidao.baidu.com/question/562872225.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/535802378.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2051879926011117747.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/164619937.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532399600.html?qbl=relate_question_4

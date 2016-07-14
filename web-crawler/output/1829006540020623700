@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言宏定义意思？
+none
+最好放在do{    }while(0)里面：<br />    这个 if 由于后面紧跟了我继续回答你的追问，后面的参数#exp，而_FILE_ _BASE_FILE_ _LINE_也都是宏，分别当前文件名，只是把exp执行了一遍，那么执行assertion_failure，那么这个宏的意思其实就是，而后面的exse我觉得可能是笔误;所以什么也不会做，当exp结果为非0（即false）时，主程序文件名和该行代码的行数<br /> <br />最后友情提醒下，诚如前面的解答是exp的字符化，是在c或c++基本库文件中定义好的，宏定义尤其是涉及逻辑代码的，应该是else
+1
+　　宏定义是C语言提供的三种预处理功能的其中一种，这三种预处理包括:宏定义、文件包含、条件编译。<br />　　宏定义又称为宏代换、宏替换，简称&quot;宏&quot;。<br />　　格式:<br />　　#define 标识符 字符串<br />　　其中的标识符就是所谓的符号常量，也称为&quot;宏名&quot;。<br />　　预处理(预编译)工作也叫做宏展开:将宏名替换为字符串。<br />　　掌握&quot;宏&quot;概念的关键是&quot;换&quot;。一切以换为前提、做任何事情之前先要换，准确理解之前就要&quot;换&quot;。<br />　　即在对相关命令或语句的含义和功能作具体分析之前就要换。
+http://zhidao.baidu.com/question/59396415.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192041995.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/681694187788685812.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533748536.html?qbl=relate_question_3

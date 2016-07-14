@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+a[i++]=k%10是在c语言中什么意思
+none
+变量a 为数组<br /><br />变量i 为整型索引<br />a索引为i的位置赋值为k模10（k除以10的余数）<br /><br />索引i自加1
+1
+none
+http://zhidao.baidu.com/question/222040022.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/425567366.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245877617.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/280029498.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1046396550430750299.html?qbl=relate_question_4

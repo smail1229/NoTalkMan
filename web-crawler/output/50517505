@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言define问题,帮帮忙呀!!!!!……急
+<br />后一个a结果是 2代码,m=1！，帮帮忙说清楚一点,k=2;&#47;a&#47;<br />#define SQR(X) X*X<br />void main()<br />{<br />   int a=10,a)！;       &#47;SQR(k+m);=SQR(k+m)：<br />#include&lt;<br />}<br />为什么前一个a结果是 8,SQR(k+m);stdio。<br />这是怎么一回事哦;;&#47;2<br />   printf(&quot;<br />   a=a&#47;      &#47;8<br />  &#47。十分感谢;%d&#92！;&#47;n%d&quot！，<br />而SQR(k+m)的结果又是 5.h&gt
+define这样的定义中一定要把变量用括号括起来#define SQR(x) (x)*(x),不然就是直接代进去，比如SQR(1+a+b)=1+a+b*1+a+b
+4
+none
+http://zhidao.baidu.com/question/40094748.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/12589119.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/77788324.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49906649.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/42586262.html?qbl=relate_question_4

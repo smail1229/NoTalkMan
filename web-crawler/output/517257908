@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中int max(x,y）这种形式错在哪里
+none
+fail
+2
+你该去好好看看C语音的书啦，楼上说的对，你没有对max（x,y）里面的变量声明类型，需要改成int max（int x ,int y）&#47;&#47;里面的int可以换成其他数据类型，而函数前的int说明函数返回一个int型的数据，比如 int max（int x，int y）{<br /> int a；<br /> a=x+y;<br />return a; &#47;&#47;返回一个int型的数据<br />}
+http://zhidao.baidu.com/question/233962943.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/71150694.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/495769735810955764.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/310747687.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/368751453497965204.html?qbl=relate_question_4

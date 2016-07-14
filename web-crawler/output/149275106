@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编写sin和cos函数，拜托各位大虾了
++(-1)^(n-1)*x^(2n-1)&#47;5.!-!+求用C语言编写的实现sinx功能的程序;3!+x^5&#47..;(2n-1).，不用库函数里面的double   sin(double   x)   <br />  离散公式是   <br />  sin   x=x-x^3&#47
+<br />       result=sign&gt:result-temp;;<br />   double den=x;<br />   int n=1;<br />      printf(&quot,c),fac*=n,b;1e-5)||(temp&lt;<br />}   <br /><br />main()<br />{<br />      double a;0;-1e-5))        <br />   {<br />       n++;<br />      c=cosx(a),sign=1;<br />       temp=den&#47,cdouble sinx(double x)<br />{<br />   double result=x;fac;<br />      scanf(&quot,a,b,&a),den*=x,fac=1;%lf&quot;<br />   }<br />   return result;;sign=-sign;sin(%lf)=%lf.57079-x;<br />      b=sinx(a)?result+temp;<br />   while((temp&gt,a;<br />   return sinx(x),fac*=n,temp=x;<br />       n++;<br />}<br /><br /> double cosx(double x)<br />{<br />   x=1,cos(%lf)=%lf&quot,den*=x
+5
+none
+http://zhidao.baidu.com/question/24702415.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/260164143.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/545389943.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/12748786.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/23095723.html?qbl=relate_question_4

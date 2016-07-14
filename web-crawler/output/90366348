@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 strcmp的问题
+ (AA+j)-&gt;word ;&quot;word)==0)-----？;watch 窗口显示temp_word，为什么if语句过不了？<br /><br />(AA+j)-&gt;&#47;)，感觉没有错（strcmp的用法）;:watch窗口显示“A         ”（我定义的(AA+j)-&gt,&quot;word 为char[10]）<br /><br />char temp_word[10]=&quot;<br />strcpy(temp_word：“A”<br /><br />问题是？也就是这两个字符串不相等;A&quot;&#47if(strcmp(temp_word
+&#92估计你的char[1]可能==0吧 &#39;0&#39;的值就是0<br />手头没编译器
+0
+none
+http://zhidao.baidu.com/question/59434291.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/509698806.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/85692176.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1366048696935864339.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/410474817.html?qbl=relate_question_4

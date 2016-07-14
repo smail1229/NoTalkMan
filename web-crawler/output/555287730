@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中while（!x==0)什么意思
+none
+x取反的值逻辑等于0，就执行while循环
+3
+!是“逻辑非”操作符，所以!x就是给x取反。在C里，非0为“逻辑真”，用1表示，0是“逻辑假”；所以!x==0实质就是x!=0的意思。所以，while(!x==0)等效于while(x!=0)，即当x不等于0时继续循环，一直循环到x变为0时结束。
+http://zhidao.baidu.com/question/200529125.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/510360062.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88326944.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57438805.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253422919.html?qbl=relate_question_4

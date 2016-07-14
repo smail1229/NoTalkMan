@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言没有组合数函数？
+查了一下，math.h里面竟然没有算组合排列的函数<br /><br />是C语言没有这个库函数还是藏在珐憨粹窖诔忌达媳惮颅别的地方了？
+自己写一个：<br /><br />#include &lt;stdio.h&gt;<br /><br />typedef unsigned uint;<br />uint CC(uint n, uint r)<br />{<br />uint Anr = 1;<br />uint Arr = 1;<br /><br />for(; r &gt; 0; Anr *= n--, Arr *= r--);<br /><br />return Anr / Arr;<br />}<br /><br />int main()<br />{<br />    printf(&quot;%d&#92;n&quot;, CC(4,2));<br />}<br /><br />我也不清楚算组合除了定义法还有什么好的算法，但有一种方法是绝对可以提升效率的，就是用空间换时间。<br /><br />组合数本来就很大，全列出来的话不会很多（在你的编译器支持的范围内）。你可以把在你用的编译器支持的最大无符号整型范围内的最大组合数，以及小于这个组合数的数全列成一个散列表，用数做key，组合数做对应的value，用的时候就查找一下，这会就成O(1)了。大于编译器支持的最大无符号整型数范围的组合数既然无法珐憨粹窖诔忌达媳惮颅被正确存储，在运行时作计算也没多大意义。<br /><br />只是一个想法...
+6
+none
+http://zhidao.baidu.com/question/1541662878509437067.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/94350707.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/873716100561990412.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/97252166.html?qbl=relate_question_3

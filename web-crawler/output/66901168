@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 逗号表达式问题
+y,%d;%d;*逗号表达式*&#47;<br />执行结果为 2;<br />main()<br />{<br /> int x;n&quot，3;<br /> printf(&quot.h&gt,z;,y++#include &lt,++y,%d&#92;<br /> x=y=1，1<br />首先 既然说的赋值表达式优先级大于逗号表达式,z);<br />} &#47;<br /> z=x++,y;stdio,x
+最后算++y，程序中应该是先将x++的值负给z，为十五，如果按你想的那样，也就是说把其它都算完了才轮到它。        手机写的，y++，++y)，而内存中的x是2，赋值语句该写成z=(x++，光换输入法就累死了:先使用，你有两个错误           1，运算规则是;    。           2，所以z=x++中z的取值是1，然后算y++，后加1输出正确、逗号表达式是所有运算符中最低的、关于i++，加上一个括号
+6
+none
+http://zhidao.baidu.com/question/519017795.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/245164525.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/532019505.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253444196.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/101771313.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请问一下有关typedef的用法！C语言。
+但是对typedef还不是很明白,int m）{<br />……<br />……<br />PLinklist tail，这里的PLnode学习C语言有些时间了！<br />typedef struct PLnode{<br /> float coef,*PLinklist是什么意思,*PLinklist不就够了吗,*PLinklist，用一个PLinklistPLnode；<br />……}<br />1？<br />2，恳请指教，用此PLinklist定义的对象直接默认成指针的吗;<br />}PLnode;<br /> int expn？正常定义的话;<br />……<br />tail=L;<br />void creatpolyn（PLinklist L;<br /> struct PLnode *next
+就是PLnode *p;<br />/<br /> struct PLnode *next;/<br />}PLnode,q。<br />&#47。<br />&#47,*q,q，都是程序员的自由,PLinklist不是变量;PLnode node;/区别 <br /><br />用不用;PLinklist pPLinklist p;&#47。 <br /><br />typedef struct PLnode{<br /> float coef，而是类型别名;<br /><br />注意与PLnode *p; 就是PLnode *p,*PLinklist;这里的PLnode，什么时候用;<br /><br />PLinklist p;<br /> int expn;定义结构体
+2
+none
+http://zhidao.baidu.com/question/35259338.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54565588.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/66779265.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/86611194.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2010164095269490628.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求a*x*x+b*x+c=0的解的c语言程序,要考虑复根
+none
+c为系数<br />printf(&quot,&a;(2*a));//(2*a).h&gt;<br />d=b*b-4*a*c;(2*a),sqrt(-1*d)/两根相等<br />else<br />printf(&quot;x1=x2=%f&#92;,&c),b;(2*a);&#47,-1*b/(2*a));x1=-%f+%fi;n&quot;%f %f %f&quot：&#92;/a,b/两根不相等<br />else if(fabs(d)&lt,d;x1=%f;/该方程的根是;<br />#include&lt,b/<br />scanf(&quot,(-1*b-sqrt(d))/请输入方程的三个系数;/;n&quot：&#92;;/);n&quot,(sqrt(d)-b)/&#47,x2=-%f-%fi&#92;);;math;<br />if(d&gt;<br />printf(&quot;1e-6)<br />printf(&quot;(2*a));1e-6)<br />printf(&quot;<br />void main()<br />{<br />float a,sqrt(-1*d)&#47,x2=%f&#92,c;n&quot,&b,b.h&gt;(2*a)#include&lt;stdio;n&quot
+0
+none
+http://zhidao.baidu.com/question/335908016.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126162698.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126496568.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/182624640.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/180122220.html?qbl=relate_question_4

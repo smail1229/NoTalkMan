@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，这个用指针交换a,b的程序哪里错了？
+ain()<br />{int a;<br />p2=&b;;*指针不就是地址吗;，这样写错了吗*&#47,min=%d&#92,a,*p2);&b=p;<br />if(a&lt;n&quot;n&quot,%d&quot;max=%d,b=%d&#92;<br />p1=&a;;<br />scanf(&quot,*p;<br />if(a&lt;b)<br />{p= &a; }    &#47,*p;p2=p;a=%d,b,b=%d&#92;a=%d;%d;; }<br />printf(&quot,*p1;<br />printf(&quot;%d;b)<br />{p= p1;&a=&b,*p1;<br /><br />}<br />正确程序好下;       <br />scanf(&quot,&a;p1=p2,b,b);,a：<br />main()<br />{int a,%d&quot,&b),b),&a;<br />printf(&quot;n&quot,*p2,&b)
+%d&quot，但是一般在变量定义后不能修改变量的地址;a=%d; <br />if(a&lt,*p1;/ /可以用变量的地址给指针赋值;stdio;n&quot;&#47，即不能对变量的首地址赋值;这条语句合法;//<br />#include&lt,p2是相同的类型;;。<br />可以用变量的地址给指针赋值;n&quot，可以相互赋值 <br />printf(&quot;<br />void main() <br />{int a，可以相互赋值;,%d&quot,b=%d&#92;; <br />p1=&a，变量的地址不能被修改<br />} <br />printf(&quot,*p;;b) <br />{<br />p= p1,*p2),&a; <br />scanf(&quot,a，但反过来不行 <br />p2=&b,p1,min=%d&#92，变量的地址不能被修改<br />&b=p;a=%d。这是不正确的; <br />} &#47,&b)，可以用变量的地址给指针赋值 <br />&a=&b,*p2;%d,b),a,b);%d,b,&b); <br />if(a&lt;b) <br />{<br />p= &a;不合法,&a;max=%d,b，即都是指针。*&#47,b=%d&#92; <br />scanf(&quot// <br /><br />}<br /><br />main() <br />{int a; &#47.h&gt;n&quot,*p1,*p;<br />p2=p;p;/ <br />printf(&quot;/不合法;<br />p1=p2;*你在陈程序中把一个类型的指针和这种类型的变量的地址理解为同一种类型
+7
+none
+http://zhidao.baidu.com/question/523884086.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/512604110.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/540081826.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127377145.html?qbl=relate_question_3

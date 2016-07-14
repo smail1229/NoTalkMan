@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的下标为什么从0开始
+none
+fail
+1
+其实从0开始是有一定道理的。<br />数组是一段连续的空间，要求a[i]就是求它的地址，然后找到它。如果从0开始，则a[i]的地址= 首地址 + i*每个数据所占的长度；如果从1开始,则a[i]的地址= 首地址 + (i-1)*每个数据所占的长度。<br />是不是前一种更好计算呢。<br />如果是二维数组就更是这样了。
+http://zhidao.baidu.com/question/120385152.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/80226729.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/315332205.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/60659800.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/507300691.html?qbl=relate_question_4

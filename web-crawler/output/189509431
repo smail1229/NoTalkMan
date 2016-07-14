@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言逻辑运算
+b=2int a=1,d;<br />d=a++II--c&&b++<br />这道题为什么a为1后面就短路了。不是与的优先级高于或么为什么先看或,c=1
+所以当<br />a=1的时候与的优先级高于或：<br />d=a++||--c&&b++相当于d=(a++)||(--c&&b++)<br />||有个属性，因此，就是如果左边的值为true，那么右边就不会计算了,确实是
+3
+none
+http://zhidao.baidu.com/question/115423005.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/183551172.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163285597.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/523125173.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/155864134.html?qbl=relate_question_4

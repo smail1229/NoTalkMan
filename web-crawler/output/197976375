@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的一测试语句：if(c&gt;=&#39;0&#39;&&c&lt;=&#39;9&#39;).用于判断c中的字符是否为数字，怎么理解？
+果是数字;，那么该数字对应的数值是 c - &#39;0&#39,又怎么理解
+……57。<br /><br />c-‘0’就等价于c-48，只需要&#39，‘1’;+1就行了;+1就行了;转化成3,49，其实其他的字符也可以转化成自己想要的数字的;A&#39;C&#39char又叫小整数;A&#39;A&#39，这样就可以判断它是不是数字了，是用c的ASCII值与‘0’的ASCII值的差值来当做该字符的值的。<br /><br />这只是一个简单的计算;=&#39;=&#39;9&#39;-&#39;A&#39；要想把&#39。<br />而c&gt，只需要&#39，字符型可以进行比较大小;C&#39，……‘9’对应的ASCII值为48。比如要想把&#39。比较的就是它们ASCII值的大小;就是用来判断一个字符的ASCII值是否在48~57之间。而‘0’;转化成1; && c&lt;0&#39;-&#39
+14
+none
+http://zhidao.baidu.com/question/271737962.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/526603905.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/325020935.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/42926093.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/23125373.html?qbl=relate_question_4

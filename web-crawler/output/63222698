@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的关于表达式的一些问题
+设int=12,执行j+=j-=j*j后的j的值是多少？答案是-264，为什么？请给我个详细过程。
+从右往左执行<br />先是 j-=j*j =&gt哗耿糕际蕹宦革为宫力; j=j-j*j,j=-132;<br />然后 j+=j   =&gt; j=j+j,j=-264;
+0
+none
+http://zhidao.baidu.com/question/63224605.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/744103033739681692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245164525.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1924639356439604907.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134988547461924645.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 题目：a=3, 输出( a+=a-=a*a)，等于多少？？
+none
+1、a*a = 9<br />2、a -= 9，a =憨亥封酵莩寂凤檄脯漏 a-9，a==-6<br />3、a+=-6，a = a-6， a ==-12
+0
+none
+http://zhidao.baidu.com/question/15963632.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/568210526.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/918315302204016539.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/214969127.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/175971415872927964.html?qbl=relate_question_4

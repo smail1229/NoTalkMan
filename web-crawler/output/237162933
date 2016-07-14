@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言和C++在声明和定义之间的区别是什么？
+none
+<br />int  test=1,而定义变量会占用存储空间.<br /><br />一般来讲.<br />当然,它告诉编译器要使用先前定义的变量test.<br />举例来讲,定义函数则提供函数的实现代码,并标明是什么类型的,这个变量或函数的值和实现方式.声明函数只提供函数的格式;&#47,term被分配了内存空间<br />extern int test;这是一个声明而不是定义,比较清楚.<br />而定义,这样的声明称为为定义声明;/&#47,很多时候.<br />函数的定义和声明一般是分开的,声明和定义是合并在一起的,是明确告诉编译器,声明变量并不会占用存储空间.称为引用声明,也有将函数的定义和声明合并;/这是一个定义声明声明是告诉编译器有一个变量或函数
+4
+1.变量的声明，基本与定义是一样的，即声明变量处即是定义了改变量，如int a; 在处定义了变量。从概念上讲，声明即是让编译器知道要声明的对象是个函数，类，变量等，不为它分配实际的内存空间。所以有函数声明，变量声明，类声明。主要区别是表现在一个类中<br />class student<br />{<br />int a; &#47;&#47;此处就是声明，并不为a分配内存空间。<br />};<br />student stu; &#47;&#47;此处定义了一个student对象（变量）stu，并为之分配内存空间，包括类中变量a<br />2.函数声明：主要用于实际定义函数处在调用函数后面，如：<br />int max(int* p,5); &#47;&#47;函数声明，如果这里没有这个声明，将会出错<br />int main()<br />{<br />int a[5]={1,2,3,4,5};<br />max(a,5); &#47;&#47;调用函数<br />}<br />int max(int* p,int n) &#47;&#47;此处才实际定义函数max<br />{<br />int max=p[0];<br />for(int i=1;i&lt;n;i++)<br />{<br />if(max&lt;p[i]) max=p[i];<br />}<br />return max;<br />}<br />其次就是在类中声明其成员函数，在类外（包括在另一个文件中）实际定义。<br />如：<br />class student<br />{<br />public:<br />int get_value(); &#47;&#47;声明<br />private:<br />int a;<br />};<br />int student::get_value() &#47;&#47;类外定义<br />{<br />return a;<br />}
+http://zhidao.baidu.com/question/8221301.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/144340465.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/56011436.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/238394786.html?qbl=relate_question_3

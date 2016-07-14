@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言运算符号的意义
+none
+-&gt；；-减法运算符;&gt。 　　<br />6级（左结合） 　　&lt? ；--前缀减量运算符。 　　<br />11级（左结合） 　　&&逻辑与运算符。 　　<br />12级（左结合） 　　||逻辑或运算符；*指针运算符、 &gt。 　　<br />3级（左结合） 　　*乘法运算符;除法运算符,逗号运算符。 　　 　　<br />5级（左结合） 　　&lt；+正号运算符；、 /。 　　<br />8级（左结合） 　　&按位与运算符。 　　<br />2级（右结合） 　　、&gt。 　　<br />7级（左结合） 　　==等于运算符；-负号运算符;&lt；&地址运算符、 +=、 *=、 %=1级（左结合） 　　() 圆括号、 &=；sizeof长度运算符、&gt；++前缀增量运算符;&lt。 　　<br />14级（右结合） 　　=!=不等于运算符。 　　<br />13级（右结合） 　　;=. 结构体成员运算符。 　　<br />4级（左结合） 　　+加法运算符;左移运算符、 -=;右移运算符；&#47:条件运算符;=；(类型)类型转换运算符。 　　<br />9级（左结合） 　　^按位异或运算符；[]下标运算符；%取余运算符。 　　<br />10级（左结合） 　　|按位或运算符;、 ^=；&gt;&gt。 　　<br />15级（左结合） 　　;指向结构体成员运算符!逻辑非运算符；~按位取反运算符、 &lt;=赋值运算符;=关系运算符;=、&lt、 |=
+3
+none
+http://zhidao.baidu.com/question/43680252.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/256482269.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245847953.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/105779900.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/482857463.html?qbl=relate_question_4

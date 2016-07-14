@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个C语言程序，程序如下：
+h&gt;<br />}<br />输出结果为真;);假&quot;真&quot;<br /> else<br />  printf(&quot，结果应该是假呀!x||y--)<br />  printf(&quot;<br /> if(,y=1;<br />void main()<br />{<br /> int x=1;stdio#include&lt;)，为什么会输出真呢：从运算的优先级来讲自减运算的优先级高于或运算那应该先进行自减运算，我不明白的是 
+然后再自减!x||y--)实际为if(0||1)，if(y--是先用y运算
+0
+none
+http://zhidao.baidu.com/question/519916205.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/556363863.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1765675020256962340.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1510429167418807860.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1110293670373345339.html?qbl=relate_question_4

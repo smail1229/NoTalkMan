@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中什么时候可以这样定义数组&quot;int a[]&quot;
+none
+需要输入或存储多个整型数的时候可以这样定义
+0
+<p>以&quot;int a[]&quot;形式定义数组一般有两种情况：</p><ul><li><p>定义数组，并通过初始化方式来填写数组内容</p></li><ul><li><p>int a[]={1,2,3,4,5} ;</p></li><li><p>这与int a[5]={1,2,3,4,5} ; 是一样的，[]中不写数字，表示数组空间大小由实际数组元素数据个数来决定。</p></li><li><p>这样定义的数组，一般表示一个常量数组。当然，因为没有加const，也可以修改数组元素内容，如：a[0]=6 ;</p></li></ul><li><p>自定义函数，形参变量为一维数组时</p></li><ul><li><p>如：void print_array( int a[], int n );</p></li><li><p>这时的定义，表示a是个指针变量，代表一个数组的首地址，n表示地址中的数据个数，该定义也可以写成：void print_array( int *a, int n );&nbsp;</p></li></ul></ul>
+http://zhidao.baidu.com/question/361887314.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/428590202.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/88151828.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/88151916.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/272818491.html?qbl=relate_question_4

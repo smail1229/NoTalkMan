@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中k=a&lt;=b啥意思
+none
+=b，则k=1<br />如果a&lt;b如果a&gt
+1
+　　=：赋值运算符。<br />　　&lt;=：关系运算符，表示小于等于。<br />　　优先级，&lt;=运算符高于=运算符。<br />　　所以，k = a&lt;=b;是将a&lt;=b表达式的结果赋值给变量k，对于关系表达式，始终有一个值，这个值要么是0要么是1，因此k的值不是0，即是1。
+http://zhidao.baidu.com/question/142133946.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/116013375.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/531838307.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/241454508.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1731826197216104707.html?qbl=relate_question_4

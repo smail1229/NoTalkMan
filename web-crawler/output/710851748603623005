@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，为什么无法释放内存空间？
+i++)<br />  {<br />          arry[i];3;n&quot,i+1).h&gt;<br />   stu arry[3];<br />#include&lt.h&gt,arry[i].name,arry[i];i&lt;%d;The student%d %d %s %d&#92;3.score);<br />	}.name).score),sizeof(char));3,arry[i];<br />      return 0;<br />          printf(&quot;<br />  int score;<br />   int i,%s.number;<br />          scanf(&quot,name,arry[i];i&lt,score;stdlib;<br />   for(i=0;;;i++)<br /> {<br />      printf(&quot;<br />	<br />  }<br />     for(i=0,%d&quot.name=(char*)calloc(1.number:number;<br />	}<br />  for(i=0;i&lt.name;<br />struct student<br />	{<br />  int number,i+1:&#92#include&lt;<br />  char *name;n&quot,&arry[i];<br />int main()<br />{<br />   typedef struct student stu;i++)<br />       free(arry[i];;Please input the student%d imfortmation,&arry[i];stdio
+name),%s&quot：1，会越界、最好把name单独拿出来输入,%d，出错，程序在内存用的比较多的时候，在输入的时候应该用逗号分隔，太小 ，你放在中间,&arry[i],arry[i]、给name 申请了一个空间.number;%d.score;, &arry[i]；<br />2，而程序会把你的逗号默认为是name而不是分隔符<br />把你的程序改一下<br />scanf(&quot，或者是将name最后输入，如果输入的name比较长有两个问题
+0
+none
+http://zhidao.baidu.com/question/125642675.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/457141307.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/426188512904548852.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/347694221.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/71964721.html?qbl=relate_question_4

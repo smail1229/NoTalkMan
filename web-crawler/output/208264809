@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言strcmp函数是什么样的代码
+none
+fail
+1
+strcmp简介：<br />函数原型int strcmp(const char *str1,const char *str2);<br />其作用为<br />将str1的各个字母的ASCII码与str2的进行比较。<br />若str1&gt;str2则返回整数，若str1=str2返回0，否则，返回负数<br />一般这样调用：<br />if(strcmp(str1,str2)==0)...<br />else ... <br />当然，这是C语言的库函数，它的代码存储在某个库文件中。<br />在string.h里只是一个声明。<br />我给你写一下，大概是这样的：<br />int strcmp(const char *str1,const char *str2)<br />{<br /> char *str3=str1,*str4=str2;<br /> while(*str3++!=*str4++&&(*str3||*str4))<br /> {<br />  if(*--str3&lt;*--str4)<br />  return -1;<br />  if(*str3&gt;*str4) return 1;<br />  str3++;str4++;<br /> }<br /> return 0;<br />}
+http://zhidao.baidu.com/question/198354476.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/123836556.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1702047332467518020.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/91581732.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/441683175.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中如何编程计算阶乘
+none
+<br />for(int i=1;<br />printf(&quot;i&lt;;%d&quotmain()<br />{<br />int a=1,a);i++)<br />a*=i;n
+25
+<p>常见的有两种：</p><p>递归版本：</p><pre t="code" l="cpp">int&nbsp;Fac(int&nbsp;n){<br />&nbsp;&nbsp;&nbsp;&nbsp;if(n==0)&nbsp;return&nbsp;1;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;n*Fac(n-1);<br />}</pre><p>还有一种是循环版：<br /></p><pre t="code" l="cpp">int&nbsp;ans=1;<br />&nbsp;&nbsp;&nbsp;&nbsp;for(int&nbsp;i=1;i&lt;=n;i++)&nbsp;ans*=i;</pre><p>测试方法：</p><pre t="code" l="cpp">#include&lt;stdio.h&gt;<br /><br />int&nbsp;Fac(int&nbsp;n){<br />&nbsp;&nbsp;&nbsp;&nbsp;if(n==0)&nbsp;return&nbsp;1;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;n*Fac(n-1);<br />}<br /><br />int&nbsp;main(){<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;n;<br />&nbsp;&nbsp;&nbsp;&nbsp;while(scanf(&quot;%d&quot;,&amp;n)!=EOF){<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;ans=1;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for(int&nbsp;i=1;i&lt;=n;i++)&nbsp;ans*=i;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;printf(&quot;%d&nbsp;%d\n&quot;,ans,Fac(n));<br />&nbsp;&nbsp;&nbsp;&nbsp;}<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;0;<br />}</pre><p>有个值得注意的地方：阶乘时，数增大的很快，在n达到13时就会超过int的范围，此时可以用long long或是 __int64来存储更高精度的值，如果还想存储更高位的，需要用数组来模拟大数相乘。</p>
+http://zhidao.baidu.com/question/1818151887945719708.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/91572537.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152235247.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/286380878.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求各位程序高手讲解C语言的循环语句~
+or ,while,do while,老师讲的我没听懂~求各位帮帮忙~我连他们的作用都不是很理解
+，1&lt。<br />-----------------------------------<br />他们都有四个部分;n&quot？ 真 三!&#92!&#92，i初始等于0，都有一个循环体,ok;9吗；二？ 真 三;);<br />先执行一次循环体!&#92，i等于9,判断，i等于1，循环体，i++,;9;)？ 假 三! 四，9&lt;<br />while (i&lt,ok;yes;<br />} while (i&lt，i++ i=3<br />;<br />4 ;9),ok;yes，判断,ok;9;)，进行循环! 四;<br />do {<br />   printf(&quot，i&lt，打印 yes,都有一个控制表达式；二;<br />         i++;<br />}<br />一，真时循环!&#92，2&lt，跳出for循环 <br />i初始化;<br />2 ，并初始化i=0。<br />一;9) {<br />         printf(&quot，再判断;9吗,printf(&quot; i++) {<br />     printf(&quot，定义了一个变量i，假时跳出;)；二;<br />   i++，打印 yes，i++<br />3;yes,ok，i等于2。；二;9吗，i++ i=1<br />一,改变变量i的值;<br />}<br />満足条件，0&lt,ok;n&quot;yes;n&quot：<br />1.。<br />--------------------------<br />int i=0。<br />--------------------------<br />int i=0？ 真 三，i++ i=2<br />一;9吗! 四;n&quot，循环体for ( i=0，打印 yes，i++; i&lt.直到控制表达式的值为假,ok
+1
+none
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/23940068.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/136996752.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/560357828.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/340383249.html?qbl=relate_question_4

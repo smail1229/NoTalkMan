@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中 if(!x); 表示什么意思
+none
+fail
+3
+很简单，若x为真，那么!x为假。if（x）等价于if（true）,if(!x)等价于（false）。后面运行什么你应该知道了。还有就是如何判别x为真，只要是一个数，常量变量都是真的。另外补充一点true和false 都是逻辑变量，在内存中true=1,false=0，所以!x在内存中等于0.
+http://zhidao.baidu.com/question/536223312.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/172587212.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/237215777.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/190867164.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/331676130.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言程序的题
+编写一个计算阶乘的函数p();编写一个主函数，从键盘输入两个正整M于N（M&lt;=N）通过调用函数p(),畅耽扳甘殖仿帮湿爆溅计算k=m至k=n理的阶乘
+试试写成这样：<br />#include &lt;stdarg.h&gt;<br />#include &lt;stdio.h&gt;<br />int p(int a,int b);<br />void main()<br />{<br />    int M,N,c;<br /> printf(&quot;请输入M，N的值：&quot;);<br /> scanf(&quot;%d%d&quot;,&M,&N);<br />    c=p(M,N);<br /> printf(&quot;畅耽扳甘殖仿帮湿爆溅%d到%d的阶乘为：%d&#92;n&quot;,M,N,c);<br />}<br />int p(int a,int b)<br />{<br /> int i,j;<br /> j=1;<br /> for(i=a;i&lt;=b;i++)<br /> {<br />  j=j*i;<br /> }<br />    return j;<br />}
+1
+none
+http://zhidao.baidu.com/question/232044990.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/583267093.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1446076354432849500.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1795989197029326987.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234758051.html?qbl=relate_question_4

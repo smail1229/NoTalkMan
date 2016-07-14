@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言新手求教
+h&gt.714286  7<br /><br />我的：<br /><br />输入;<br /> float c;b;<br /> printf(&quot,%d;b;<br /> c=a&#47,e;<br /> }<br /><br />谢谢,c：19  7<br /><br />输出;<br /> void main(){<br /> int a;);%d：2程序没有错误    但得不到预期的结果<br />预期;<br /> f=(int)(c-e)*10;<br /> scanf(&quot,&a;stdio：<br />1;%f,f,f&quot。例如,&b&quot. 输入两个整数，输出它们的商及商的第一位小数,b;&#92,%d：#include &lt,d;<br /> e=(int)a&#47;n)
+),%d,&b&quot,c;;,&a,&a,f&quot;<br /><br />printf(&quot;<br /><br />修改为<br />printf(&quot;n&quot,%d&quot,%d&#92,%d;<br /><br />修改为<br />scanf(&quot;  修改为  f=(int)((c-e)*10);n);%d,c;%f,&b);&#92scanf(&quot,f);<br /><br />你的括号范围括的太大了。<br /><br />另外f=(int)(c-e)*10;%d;%f
+0
+none
+http://zhidao.baidu.com/question/533677031.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/576874484.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/581393509.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/575292208.html?qbl=relate_question_3

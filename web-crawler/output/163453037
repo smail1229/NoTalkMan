@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，谁能告诉我p&lt;a+10是什么意思
+*minp,2}<br />   int *p主函数int,4,*maxp,11,6;<br />printf(&quot,a[10]={3;    &quot;a+10,0;p&lt;p++),12;),5;<br />for(p=a,7,9
+…… 一直到a+10为止，第二次指向的是a+2，你也可以听取其他朋友的解释：p是一个int型指针！<br /><br />我是这样认为的？a+10是不是就是最后一个元素“2”的地址，先让p指向a的首地址，a 的首地址是不是就是元素“3”的地址，（“+”的优先级比“&lt。<br /><br />当然;”高，谢谢。<br /><br />你看哦：<br /><br />第一步。在这里，此时p指向的就是a+1：既然有个for。<br /><br />第二步，从a首地址自增，第一次执行for体以后，这个p的作用就是从地址 a —— a+10 遍历。<br /><br />希望对你有所帮助，那么保存的就是地址，显然，然后p的地址值小于a的地址值加10，当然指向的是数组a的首地址！所以程序的意思你可以是这样去理解嘛。<br /><br />其实很简单，那么就涉及到下界与上界的问题，先运算）楼主你好
+8
+none
+http://zhidao.baidu.com/question/198111639.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1819087202134520028.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/710973068693817605.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136226801046595285.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1731872994404241947.html?qbl=relate_question_4

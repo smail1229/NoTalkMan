@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮我算一下这个c语言计算题。n=！（x+y）+z-1／2。 int x=3，y=-3,z=5，n；
+none
+】&gt; 【 ：【（）】&gt！（x+y）-------  11／2------- 因为是int型 所以值为  0所以，结果为 n=1+5-0   即优先级高到低分别为;【+】<br />所以执行顺序为! 】 &gt;【 &#47：<br />(x+y) ------ 0
+1
+none
+http://zhidao.baidu.com/question/1510183413240310300.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/210104273.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/198781249.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/215688777.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234039432.html?qbl=relate_question_4

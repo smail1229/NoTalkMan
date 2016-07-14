@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+麻烦帮我解释哈这个c语言程序，题目是将两个有序的数组合并到另一个数组中，要求后仍有序
+24};<br />   else if(a[i]&lt;<br />  else c[k++]=b[j++];i&lt;i++) printf(&quot;b[j]) c[k++]=a[i++];<br />  int k=0;k,c[i]),9,3,7;=n) c[k++]=a[i++];m+n)<br />  {if(j&gt,m=5,b[6]={2;<br />  while(i+j&lt,4,c[11],20;=m)  c[k++]=b[j++],8;<br />  int j=0,n=6;<br />}<br />for(i=0;%d&quotmain()<br />{<br />  int i=0,16;,a[5]={1;<br />   else if(i&gt,13};<br />}<br />特别是从while语句开始
+则直接将b组中的剩余数据送入c即可，n是b数组中数据的总数<br />i用于在数据a到c的传递中控制a的数组下标，只要把a中的剩余数据传递给c即可，当被传递给c的数据元素小于a。<br />只有在当j&lt，当j&lt;m 时，总是a[i]被传递给C[k]<br />j用于在数据b到c的传递中控制b的数组下标，那个小那个优先送入数组C, 总是b[j]被传递给C[k]<br />while 循环的条件表示，就是说，即是否a中的所有数据已经进入c数组，当b数组中的数据已经全部传递给c的情况下、b中的数据总数时。<br />否则，才需要比较当前的a【i】和b【j】，循环继续进行<br />if（j&gt;=n）表示当b中传递给c数据总数达到了b数组中数据总数，检验是否i&gt;n时;n 而且 i&lt;=m，如果i&gt;=m表明a组中的数据已经全部进入了cm是a数组中数据的总数
+20
+none
+http://zhidao.baidu.com/question/410042897.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/489530780618432492.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/26281836.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/407175705.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/277174747.html?qbl=relate_question_4

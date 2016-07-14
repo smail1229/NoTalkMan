@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中NULL问题
+程序理论上没有任何问题。程序如下:<br />  #include &quot;stdio,运行后就是死循环;<br />  main()<br />  {  char  buff[256].h&quot!=NULL)<br />        puts(buff)C语言中NULL用什么来表示的,书本解释当我输入空串(也就是回车符)的时候可以结束循环;<br />     while(gets(buff),事实上并不能结束循?<br />比如我下面的题目
+如果调用失败则返回NULL。先看一下gets函数的声明：<br />char *gets( <br />   char *buffer <br />)!=0) <br />puts(buff)，但一般这个函数调用失败的机率是很小的。如果函数调用成功则它的返回值为buffer的地址;*注。<br />把那个程序改为如下的形式就对了。要明白这一点必需知道，当两字符串相同时返回0*&#47!=NULL)这行代码就是只要gets函数调用失败就停止循环，而NULL不等于空字符串; <br />main() <br />{ char buff[256]，所以就出现了死循环;)。指向输入字符串缓冲区地址;stdio;<br />它有一个参数buffer; <br />while(strcmp(gets(buff);&quot,&quot。<br /><br />#include &quot，指向char类型的指针.h&quot，首先必需明白while(gets(buff)。<br />所以while(gets(buff)，也不等于空字符串的地址; <br />}<br />&#47!=NULL)这行代码的含义要想知道为什么会出现死循环：strcmp为字符串比较的函数，gets函数的返回值为输入字符串的地址
+20
+none
+http://zhidao.baidu.com/question/41529050.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158366830.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/522582233.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/57481561.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/467424715.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言练习题
+计算任意输入的整数的各位数字之和！谢谢，<br />编写一个程序，计数函数就不能正确显示位数了习题如下！自然后面的累加函数也不能正常运行，帮忙看看程序哪里出错了！所以请教各位，就是当我输入的整数是11位数及以上时？百思不得其解！或许提供另一个思路吧。<br />但有个问题，里面有一个计数函数（计算输入的整数的位数）和一个主函数。<br />我编的程序如图所示。为什么啊
+0&#39，因此溢出了<br />其实你完全可以按字符串数组的方式输入，一位一位减掉&#39原因是int型的数据范围为2^31-1到-2^31，你输入的数字超过了那个范围
+3
+none
+http://zhidao.baidu.com/question/539411745.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/258085656.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/260020018.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1432139591219251019.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/239612345.html?qbl=relate_question_4

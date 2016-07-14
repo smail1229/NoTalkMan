@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+(1&#47;2)请问一下：在C语言中，定义int a=5,b=20;执行printf(&quot;%d&#92;n&quot;,++a*--b&#47;5);为什么结果是9，而不是22呢
+none
+就等于22<br />#include&lt;stdio,b=20,++a*--b&#47不对吧;<br />getchar();<br />int main()<br />{<br />int a=5;n&quot;<br />printf(&quot;%d&#92;5);<br />}<br />测试结果就是22;;<br />return 0.h&gt
+0
+none
+http://zhidao.baidu.com/question/347501889.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/551948246990016932.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/315671033.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/234337350.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/212277114.html?qbl=relate_question_4

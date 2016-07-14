@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+C语言，我输入了char a[10]=&quot;123&quot;; 电脑分的是10个地址，还是3个地址，还是4个地址？
+none
+0’是10个地址啊，但是还是占用空间的，最后一个是结束符‘&#92，你的数组定义占用了十个。后面的虽然为空
+0
+none
+http://zhidao.baidu.com/question/437839073.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/232044270.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1638020087595919420.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/516344398.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/532295928.html?qbl=relate_question_4

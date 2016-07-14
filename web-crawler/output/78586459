@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程，int f(int)是什么意思？
+none
+fail
+1
+这个应该是在声明一个函数吧，返回类型为 int  函数名为 f，函数的参数为int 类型。应该在代码中还有一段是对这个函数的定义，比如<br />int f(int a)<br />{……<br />}
+http://zhidao.baidu.com/question/239475671.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/78585327.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/236282173.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/242966879.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/29422574.html?qbl=relate_question_4

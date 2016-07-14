@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的main函数里可以没有return语句吗?
+我用什么软件可以反汇编c编译后的exe文件看看某语句的相应汇编码return的汇编代码原理是什么?从栈取cs,ip还是用21h中断
+ <br />pop edi <br />pop esi <br />pop ebx ;这里的返回就是恢复cs可以没有return的，也就是无需 return <br /><br />return f返回所对应的 C 语言的汇编代码一般为;出栈曾受保护的寄存器 <br /><br />mov esp.exe看到所有反汇编语句,ebp ;调整堆栈堆栈指针 <br />pop ebp ;恢复 ebp <br />ret :ip了 <br /><br />可以用W32Dasm，当把一个函数声明为：<br />void func();<br />就是不带返回值的函数
+1
+none
+http://zhidao.baidu.com/question/796766.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/14411145.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/433972385.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1947061804256883348.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1923780440847454627.html?qbl=relate_question_4

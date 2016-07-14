@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言指针题char *index(char *str,char ch)
+⑵用起泡排序法，返回字符a所在的地址1：”BASIC”，”C”要求按字母顺序（由小到大顺序）输出这5个字符串，则返回0。用指针数组处理，”COBOL”，”PASCAL”。例如。（提示.编一个函数index：char *index(char *str；分别编写函数.有5个字符串。要求⑴用选择排序法,char c)）<br />2。如果在字符串中找不到指定的字符，”FORTRAN”：此函数定义形式为，从一个字符串str中寻找一个字符ch第一次出现的位置（以地址表示）,’a’)要求从字符串”china”中找字符a：index(“china”
+<br /> for(p=str1;&#92;.char *index(char *str;<br /> if(*p==&#39;p++)<br />  if(*p==ch) break!=&#39;0&#39;&#92;*p;) p=0;<br />  return (p),char ch)<br />{char *p;0&#39
+2
+none
+http://zhidao.baidu.com/question/90324423.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/126232205.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/302505307.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/127798147.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/89337828.html?qbl=relate_question_4

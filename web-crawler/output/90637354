@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的return的应用
+int y)<br />{<br /> int s;<br />}<br />与<br />add(int x,int y)<br />{<br /> int s;<br /> if(x&gt;<br /> return s;<br /> else s=y;y) s=xmax(int x;<br /> s=x+y;<br />}<br />为什么一个要return而另一个的不需要啊
+dd(int x，应该这么写;<br />return s.s是一个add函数中的临时变量; <br />s=x+y; <br />s=x+y：<br />1,int y) <br />{ <br />int s，<br />因为，如果不将它的值返回，所以结果也无法打印出来<br /><br />所以这个函数一定是不对的:<br />int add(int x.在这个函数中也没有输出语句，那么调用这个函数的地方是得不到运算结果的<br />2，它的作用域只在add函数中; <br />} <br />上面这个肯定是不对的,int y) <br />{ <br />int s
+2
+none
+http://zhidao.baidu.com/question/248016414.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/184600341.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/59813178.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/245525471.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/434323737.html?qbl=relate_question_4

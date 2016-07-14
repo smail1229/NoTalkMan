@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程  编写函数fun，该函数的功能是：将M行N列的二维数组中的数据，按列的顺序依次打印出来
+很着急需要 拜托了啊
+13;*用C语言编程 编写函数fun, <br />21; <br />int iLoop2 = 0,4.h&gt; <br />} <br />} <br /><br />return,2, <br />11; <br /><br />Fun(iaArray),7;n&quot, <br />16,19,14，该函数的功能是;%d&#92,25},9,24; <br /><br />for (iLoop1 = 0,3,20,22; iLoop2++) <br />{ <br />printf(&quot; iLoop2 &lt;<br />#include &lt,15,iaArray[iLoop2][iLoop1]); <br />} <br /><br />void Fun(int iaArray[][N]) <br />{ <br />int iLoop1 = 0,17; N; M; iLoop1 &lt,18,5：将M行N列的二维数组中的数据; <br /><br />return; <br /><br />#define M 5 <br />#define N 5 <br /><br />void Fun(int iaArray[][N]);，按列的顺序依次打印出来 *&#47,12, <br />6;stdio,10; <br /><br />void main() <br />{ <br />int iaArray[M][N] = { <br />1; iLoop1++) <br />{ <br />for (iLoop2 = 0&#47,23,8
+4
+none
+http://zhidao.baidu.com/question/392465705.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/102245571.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2266705537418457668.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1830956045099099980.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1173311009116048139.html?qbl=relate_question_4

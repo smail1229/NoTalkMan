@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求c语言 i*=i+++j*k+k^2%i++ 计算顺序
+求c语言 i*=i+++j*k+k^2%i++ 计算顺序<br />比如说，数学里是先算乘除在算加减<br />在C里面呢++，^，%的运算呢
+//baike.com/picview/262524/262524/0/63d9f2d3572c11df57c9a205612762d0f703c2f8.html" target="_blank">http。<br /><br />运算符优先级表。<br />比如;<br /><br />注意;<br />i++。<br />建议你把 i++ 从计算式中拿出来.baidua = ((i++) +  (j*k) + k) ^ (2%(i++))<br />i *= a;<br />i*= (m +  (j*k) + k) ^ (2%m);<br />但是由于你的计算式中有两个（i++）： ^ 这个符号不是“乘方”：<br />m = i++，不同的编译器会给出不同的结果，i++的计算时机是依赖于编译器实现的，而是位运算中的“亦或”符号：<br /><a href="http.baidu://baike.com/picview/262524/262524/0/63d9f2d3572c11df57c9a205612762d0f703c2f8
+1
+none
+http://zhidao.baidu.com/question/181524519.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/440668360.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/483985207.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/431494018372245844.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/586666942.html?qbl=relate_question_4

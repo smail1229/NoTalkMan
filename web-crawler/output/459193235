@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如下程序：这几句单片机的C语言程序是什么意思？
+  <br />     P1M1 = 0;<br />     P2M0 = 0XFF;<br />我们学习单片机编程时好像从来没有这样编程过啊;<br />     P0M0 = 0XFF;<br />     P2M1 = 0P0M1 = 0;<br />     P1M0 = 0XFF
+ P2M0 = 0XFF;因为P0M1没给出是什么;<br /> P2M1 = 0， <br /> P0M0 = 0XFF;<br />设置整个p2口为高阻输入状态<br />3这是stc单片机的IO端口设置方式<br /> <br />1,<br />2， P0M1 = 0;<br />是p1口的P1^0这个口为普通双向输入输出方式;  <br />     P1M1 = 0
+8
+none
+http://zhidao.baidu.com/question/579146097.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/170968376.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/546962530.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/213554631.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/193806473.html?qbl=relate_question_4

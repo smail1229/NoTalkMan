@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+哪位大神把下面这个C语言程序帮我注释下
+<br />while (scanf(&quot; i++)<br />printf (&quot; i&lt,array+i);<br />int array[9];n;stdio.h&gt; i&lt;<br />for (i=0;;;%d &quot;n,&n)!=EOF)     <br />{<br />for (int i=0;<br />int main()<br />{<br />int n,n;%d&quot;%d&quot# endif<br />#include &lt;;<br />}<br />return 0,array[i]); i++)<br />scanf(&quot
+=-1时进行while循环操作<br />{<br />for (int i=0;/%d&quot;<br />for (i=0;,&n);%d&quot;%d &quot;<br />while (scanf(&quot;/n; i&lt;stdio;<br />int main()<br />{<br />int n,array+i);n,n;<br />int array[9]; i&lt;&#47,&array[i]);&#47，<br />这是一个指针的递进相当于scanf(&quot!=EOF)   / i++)<br />scanf(&quot，array是数组首地址.h&gt# endif/#endif和#if是成对出现的主要是在于编译的时候防止库的重复包含<br />#include &lt;/,array[i]); i++)<br />printf (&quot;;初始化array数组;输入n当n;/;%d&quot;输出打印array数组<br />}<br />return 0
+0
+none
+http://zhidao.baidu.com/question/367901461355321084.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1988143158214463187.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/743974813121258092.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/198801909668235765.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/580565716.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程 依次输入10个数,找出其中的最大数。
+none
+fail
+1
+#include &lt;stdio.h&gt;<br /><br />int main(void)<br />{<br /> int i = 0, max = 0, x =0; <br /> printf(&quot;请输入10个整数：&quot;);<br /> for(i=0;i&lt;10;i++) {<br />  scanf(&quot;%d&quot;, &x);<br />  if(x &gt; max) max = x;<br /> }&#47;&#47;next<br /> printf(&quot;最大值为：%d&quot;, max);<br /> return 0;<br />}
+http://zhidao.baidu.com/question/108130434.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/468864752.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/8550431.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/159822031.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/118620655.html?qbl=relate_question_4

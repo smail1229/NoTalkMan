@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+【c语言】函数形式参量是int型，能不能接受unsigned int、 long int等加修饰语句的int数？
+none
+unsngied int可以，占据内存大小是一样的，long可以修饰，但是可能会被修剪
+0
+none
+http://zhidao.baidu.com/question/125857297.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/119517541.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/144545722.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/35097081.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/204358106.html?qbl=relate_question_4

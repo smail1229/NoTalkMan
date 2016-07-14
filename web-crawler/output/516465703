@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设有如下宏定义:#define A 3+2 #define B A*A,则表达式B*B的值为多少
+结果是23，这是怎么算的？
+那么结果又不一样了;概念的关键是“换”，你不能习惯的加了括号，所以比它本来没括号，这是最容易犯错的。一切以换为前提，准确理解之前就要“换”、做任何事情之前先要换；<br />不知道你理解了没有，那么B*B就是A*A*A*A。所以只要换就可以了，如果是这样宏定义A的：把B换成A*A，然后把A换成3+2，#define A （3+2）<br />那么结果就是5*5*5*5，结果就是：3+2*3+2*3+2*3+2=23掌握&quot;宏&quot
+13
+none
+http://zhidao.baidu.com/question/362791897.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/551775399.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/504475361.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/472149096.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/561113117.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程题改错（很急很急～～～）
+i&lt;<br /><br />}<br /> }<br /><br /> for(i=0, &quot; i &lt; i++) <br />fprintf(fp;&#92;<br />void jsVal()<br />{<br /> int i;);<br />  jsVal();<br />for(i = 0;i++)<br />  for(j=i+1, b[MAX], cnt);<br /> for(i=0;满足条件的数=%d&#92;<br />  b=a[i]%1000&#47;<br />#define MAX  200<br />int a[MAX];<br />  fp = fopen(&quot;<br />  fclose(fp), &quot;n&quot;<br />  for(i = 0;MAX, cnt);<br />  printf(&quot,q;<br />  g=a[i]%10#include &lt;i++)<br /> {<br />  q=a[i]&#47;=g)&&a[i]%2;<br />  fclose(fp);<br />    a[j]=r;,b;;; cnt, &quot;stdio, b[i]);<br />}<br />void writeDat()<br />{<br />  FILE *fp, &a[i]); MAX;%d &quot;<br />void writeDat();a[j])<br />   {<br />    r=a[i].dat&quot;i&lt;in;<br />}<br />void main()<br />{<br />  int i;=b)&&(b&gt; i++)<br />    fscanf(fp!=0)<br />  {<br />   b[cnt]=a[i],j;n&quot; i++) <br />    printf(&quot;, &quot;cnt-1, &quot;j++)<br />   if(a[i]&gt;100,g; cnt.h&gt,s;<br />  fp = fopen(&quot;%d&quot;<br />  fprintf(fp;<br />   cnt++;%d&#92,r;<br />  FILE *fp;<br />  printf(&quot;=s)&&(s&gt;<br />  readDat();out;;<br />    a[i]=a[j];);<br />  int i;w&quot, b[i]);%d&#92;1000;;r&quot;<br />  s=a[i]%100&#47;<br />  if((q&gt;n&quot;<br />  writeDat(););<br />   }<br /><br />}<br />void readDat()<br />{<br />  int i.dat&quot;<br />  for(i = 0;10;n&quot;;cnt;j&lt; i &lt; i &lt, cnt = 0
+b,q;<br />void writeDat()int a[MAX], cnt = 0,s，把这个变量改个名字就可以了;<br />void jsVal()<br />{<br /> int i;/  &#47,j，定义了一个和全局变量一样的局部变<br />                     量b,g,r;这里看到没有, b[MAX]
+0
+none
+http://zhidao.baidu.com/question/616385323598589772.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/404756430.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/213820297.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/504035580.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/539384641.html?qbl=relate_question_4

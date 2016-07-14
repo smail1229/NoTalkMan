@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+谁能解释给我一下这道c语言题目?
+设int m=0；执行表达式m || (m=2) || (m=3) || (m=4) 后的输出结果是多少？
+（后面解释）<br /><br />m || (m=2) || (m=3) || (m=4)首先编译器会算m 此时为0，这就是短路现象，后面的 (m=3) || (m=4) 就不用算了！，lz可以看看其他的资料 <br /><br />是的，那么表达式的值就是1！。<br /><br />同时逻辑与也是满足短路现象的，lz看的时候要注意点，我运行了，是按从左到右的顺序计算！<br />值为1<br /><br />逻辑或运算：||是双目运算！你好，有些答案是错误的，因为前面(m=2)已经可以确定表达式的值（为1）：<br />同时逻辑与和逻辑或都有”短路“现象，就是1！，那么就再计算(m=2) 此时为真
+2
+none
+http://zhidao.baidu.com/question/192571660.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/309621198.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152476428.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/192102994.html?qbl=relate_question_3

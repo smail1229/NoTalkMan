@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言逗号表达式 是不是所有的逗号表达式在做赋值时都得加括号 不然就认为是赋值为第一个表达式的值
+5，5）; 结果y=4<br />y=（4例如y=4
+到了5,所以y=5;   / &#47，逗号依次运算，把5赋值给y;<br />y=(4,5),但没有等号进行赋值;括号内的都是赋值给y的值;/&#47逗号是依次向后运算<br />y=4，先把4赋值给y;把4赋值给y，所以y=4,然后逗号依次运算,5
+13
+none
+http://zhidao.baidu.com/question/77959073.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/557776479.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/245164525.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/87418596.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/132871549.html?qbl=relate_question_4

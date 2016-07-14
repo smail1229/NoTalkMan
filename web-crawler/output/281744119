@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言指针使用前必须初始化？？
+。，各种类型的指针要怎么来初始化指针初始化是。。没有初始化的指针叫野指针是这样的吗
+指向被释放的内存的指针也是野指针。<br /><br />我理解的野指针就是不可控的：free释放内存以后。。。指针申明的时候最好初始化。初始化以后的指针在一些操作下野会变成野指针，比如，不确定指向的指针都是野指针
+2
+none
+http://zhidao.baidu.com/question/128651314.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/515661518.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/148080380.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/122163848.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1831063040327403300.html?qbl=relate_question_4

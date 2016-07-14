@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言 字符串比较这道题为什么要“return 0”呢，谢谢
+可以从ASCII码表中查<br /> {<br />  printf(&quot;也可以是0x61.h&gt;&#47#include &lt;);n&quot;)&#47;n&quot;&#47;&#47,因为0x61是字符a的ASCII码;TODO&#92;NOTTODO&#92;&#47;&#47;);<br /> }<br /> else<br /> {<br />  printf(&quot;a&#39;stdio;<br /><br />int main(void)<br />{  <br /> char c = getchar();<br /> if(c == &#39;<br /> }<br /> return 0
+果是C语言的话,正常结束！~：<br />一般小程序中可以不加，return 0表示返回一个整形！~！~！因为不需要太严谨，就需要严谨~！）<br />在int main()中！~！<br />而在某些情况下！（如大项目中！~，当然你的main写成main()也是可以的<br />下面是引用的，比如Tc2，<br />而在一般函数体中return 0表示不正常的结束，后面这个return 0;可以不用写的
+1
+none
+http://zhidao.baidu.com/question/100797038.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/180959464.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/51891465.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/554682327.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/514562023.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+关于c语言的一道题 用if语句
+1.03+200000*0.1+100000*0;<br /> else  if(i&lt.03+200000*0，求应发奖金总数;%10。高于20万元的部分5%提成;=600000时,&i&quot,x);n&quot，高于60万元的部分按1，高于40万元的部分按3%提成.075+100000*0;利润高于10万元;stdio;<br /> printf(&quot;=400000) x=(i-200000)*0;I&lt;=1000000时.075+100000*0;=100000) x=i*0.015+200000*0.1。从键盘输入当月利润I.03+400000*0;)，高于10万元的部分；I&gt.05+100000*0，低于20万元（100000&lt.h&gt，超过100万元的部分按1%提成。<br />本人学的比较渣 求好心人指点.2f&#92；400000&lt利润（I）低于或等于10万元的.015;=200000) x=(i-100000)*0;200000&lt;<br /> double x，低于20万远的部分低按上述办法提成（下同）.1.1;=1000000) x=(i-600000)*0;<br /> printf(&quot:&quot.05+100000*0;<br />void main()<br />{<br /> long i！<br />#include&lt;<br /> else  if(i&lt.05+200000*0.01+100000*0;=200000元）时;<br /> if(i&lt; x=(i-1000000*0;please enter i;<br /> scanf(&quot，可提成7.075+100000*0;I&lt;<br /> else  if(i&lt.5%提成;);1000000).05+100000*0;I&lt;<br /> else if(i&gt，低于10万元的部分按10%提成.075+200000*0；600000&lt.5%;<br /> else  if(i&lt.1;1000000时;=400000时.075+100000*0;%Id;，奖金可提10%;I&lt;=600000) x=(i-400000)*0
+&i&quot;%10;n&quot3处错误;n&quot,&i).2f&#92;;前少了个)<br />纠正以后，运行通过<br />附加一下,x)，可以考虑最后一句话<br />printf(&quot;%Id;;1000000);%10; 多了个;<br />格式错误<br />2      else if(i&gt.2lf&#92;<br />加个l<br />改成printf(&quot;);,x)，如果输出double数据;改成scanf(&quot;<br />3     还是刚才这句话的结尾;%d&quot：<br />1     scanf(&quot
+2
+none
+http://zhidao.baidu.com/question/85371832.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/25292243.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/533085967.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/126601166.html?qbl=relate_question_3

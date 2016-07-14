@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，用scanf输入两个值， （1）用整数，输出较大值 （2）用小数，交换值 怎么做啊
+none
+b;&#47,c);&#47,&b);<br /> scanf(&quot;判断是否是整数<br /> {<br />  c=a&gt：&quot;请输入两个整数或两个小数;//&#47，当你用输入的是小数的时候储存会被转换的;;,b;/b;)，c=a是a为空;输出的时候不取小数点后的就可以输出为整数<br /> }<br />  else <br />  {<br />   c=a;：%;/&#47.3f&quot.0f&quot?a;为了输出看的方便取三位小数了<br />  }<br />  getch();&#47：%;比较大小输出大的数<br />  printf(&quot.3f %.h&gt;a=b;&#47，c为a这样就达到了交换的目的<br />   printf(&quot;%f  %f&quot;stdio;小数交换后;b=c,b),a#include&lt;/<br /> if((int)a==a&&(int)b==b)/<br />main()<br />{<br /> float a;交换很好理解引进c是空的,c;&#47。<br /> printf(&quot;/这两个整数较大值是,&a;这里不能用整形
+2
+none
+http://zhidao.baidu.com/question/510525630.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/393159749.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/410097728.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/575028894.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/117560196.html?qbl=relate_question_4

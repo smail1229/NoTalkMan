@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中的typedef
+typedef CH_BOOL(* pf_NECH_APP_KEY_PROC)(NECH_APP_KEY_INFO_t *);<br />解释一下这句语言
+<br />CH_BOOL test=pf(aaa)。<br />typedef CH_BOOL(* pf_NECH_APP_KEY_PROC)(NECH_APP_KEY_INFO_t *)，不同的是pf_NECH_APP_KEY_PROC定义的是函数指针;就能得到你定义的这一函数指针,相当于上面abc的作用，用来说明一个变量指针类型的。<br /><br />以下为用你那函数声明写的<br />……<br />typedef CH_BOOL(* pf_NECH_APP_KEY_PROC)(NECH_APP_KEY_INFO_t *);<br /><br />第一你要明白，这句话的整体作用就是 <br />用pf_NECH_APP_KEY_PROC pf，CH_BOOL是这个函数的返回类型;<br />NECH_APP_KEY_INFO_t * aaa。<br />或者说;<br /><br />你这一语句中的pf_NECH_APP_KEY_PROC；<br />pf_NECH_APP_KEY_PROC是用来标认。<br />再举例说明<br />typedef int abc;<br />pf_NECH_APP_KEY_PROC pf，或是别名，pf_NECH_APP_KEY_PROC 是你函数指针的同义字你确定你没打错或是少空格了 <br />&#47，刚才没有认真看待问题;对不起;&#47，回答过于轻浮，用来说明的或定义其它的变量的，abc定义的是int变量<br /><br />（NECH_APP_KEY_INFO_t *）说明这个函数有NECH_APP_KEY_INFO_t *参数
+1
+none
+http://zhidao.baidu.com/question/532578453.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/221958288.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76334822.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/751374684863248124.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/122049515.html?qbl=relate_question_4

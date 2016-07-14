@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言里面，&a[0]++和&a[0]+1分别表示什么意思？
+none
+&a[0]++表示程序运行时会对运行结果自加1<br />&a[0]+1表示程序运行时对结果加上1,如果改为2就会加上2
+0
+&a[0]++;是错误语句，编译都不会过。因为++是后++，在执行该语句时是不计算的，所以a[0]++是个表达式而不是值，显然用&取一个表达式的地址是非法操作！而如果是&++a[0];则是正确的，因为前++在执行&时已经计算过了：就是先给a[0]+1，然后再取a[0]的地址。<br />&a[0]+1;是正确语句，因为&的优先级比+高，所以是先取a[0]的地址再给这个地址+一个元素所占字节数——就是说&a[0]+1是a[1]的地址。
+http://zhidao.baidu.com/question/173294127.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/177582481.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/535688705.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/226898137.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/76464947.html?qbl=relate_question_4

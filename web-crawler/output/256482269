@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的运算中&lt;&lt;符号是什么意思?
+none
+3 ,即 00000001 左移三位 128右移两位，00100000=32<br />1&lt;&lt，即10000000 右移两位 
+20
+none
+http://zhidao.baidu.com/question/281699657.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/181389952.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43680252.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/139490628.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/172753865.html?qbl=relate_question_4

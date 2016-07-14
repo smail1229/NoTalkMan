@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+用c语言编程计算π／2
+none
+include &lt.;<br /> double t;stdio!/3+2.h&gt;pi=%lf&quot;1e-8),也可以换成其它的精确程度<br /> printf(&quot;<br />}<br />int main()<br />{<br /> int i=1;=k;小数点后8位;<br /> }<br /> while(t&gt;<br /> double s=1; /i++)<br /> {<br />  s*=i; /<br />}<br />结果为3;<br />  s/<br />  i++;<br />  p+=t!/<br /> }<br /> return s.中的单独每一项<br />{<br /> int i;i&lt;输出π<br /> return 0;&#47,p=1;/&#47.;3*5+;p是π／2<br /> do<br /> {<br />  t=func(i),2*p);<br />double func(int k)  //计算1;<br /> for(i=1;;=(2*i+1); &#47
+3
+<p>#include&lt;stdio.h&gt;</p><p>int main()&nbsp;</p><p>{</p><p>double i=1,y=1,t=1;</p><p>for(;t&gt;=1e-6;i++)</p><p>{t*=i/(2*i+1);</p><p>&nbsp;y+=t;</p><p>}</p><p>printf(&quot;Pi/2=%lf\nPi=%lf\n&quot;,y,2*y);</p><p>getch();</p><p>}</p><p><a href="http://b.hiphotos.baidu.com/zhidao/pic/item/3c6d55fbb2fb43169cb3704527a4462309f7d365.jpg" target="_blank" title="点击查看大图" class="ikqb_img_alink"><img class="ikqb_img" src="http://b.hiphotos.baidu.com/zhidao/wh%3D600%2C800/sign=baa793a029dda3cc0bb1b02631d91539/3c6d55fbb2fb43169cb3704527a4462309f7d365.jpg" esrc="http://b.hiphotos.baidu.com/zhidao/wh%3D450%2C600/sign=7c813ee63e01213fcf6646d861d71ae7/3c6d55fbb2fb43169cb3704527a4462309f7d365.jpg" /></a></p>
+http://zhidao.baidu.com/question/219877340.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/390966984514586925.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/213344194.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/221862812.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：switch()的括号里可以放数组名吗?
+.;*ay为已定义的字符数组*&#47::，总之都不理想;ab&quot..<br />。如(部分).把一个字符数组名放在switch括号里;，编译时总提示case行缺少常量表达式或其他问题.：switch(ay)&#47;<br />{case &quot.<br />case &quot;cd&quot;.
+如果一定要用数组名;string;<br /><br />if(,&quot，可以用if   else   实现<br /><br />#include&lt;cd&quotswitch()的括号里不可以放数组名;ab&quot，只能放整形数据（bool char int long 等）!strcmp(ay.h&gt,&quot!strcmp(ay;))<br />{<br />}<br />else if(;cstring&gt;<br />或#include&lt
+4
+none
+http://zhidao.baidu.com/question/49029163.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/112438280.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/548048162.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/211501441.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/27836082.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言里面的结构体是什么意思
+none
+fail
+1
+就是把一些变量组合一起来<br /><br />比如你要用一个结构体描述一个学生信息<br /><br />学生学号<br />学生性别<br />学生年龄<br /><br />typedef struct _STUDENT<br />{<br /> char strnum[32];<br /> BOOL  bSex;<br /> int   nage;<br /><br />}Student;
+http://zhidao.baidu.com/question/535824970.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/484257663.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/143844286.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/78375257.html?qbl=relate_question_3

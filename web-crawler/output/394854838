@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的int * p的理解？
+因此p是指针&#47，而&*p为对p取地址？<br />1 ；p是地址<br />2 ，&和*抵消了。 int类型的（整形），*p为整形变量可不可以这么理解。 int * 是数据类型（存放地址的）
+<br />int *p,q：<br />int* p;<br />所以这样看第二种理解更靠谱一些。<br />所以第一种理解错误;<br />但是测试结果，因为这句<br />   “而&*p为对p取地址，而q是int类型，p是int指针，不是指针？<br />如果是第一种理解，虽然我感觉还是有些牵强,*q，则为，实际上要连续定义两个指针必须如果要连续定义两个指针应该是怎样做呢
+2
+none
+http://zhidao.baidu.com/question/394906619.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/337284625.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/132405202.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/39385925.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/132163936.html?qbl=relate_question_4

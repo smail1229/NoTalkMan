@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言的简单运算
+<br />    y=5;<br />    (A)0    (B)1    (C)6    (D)12 <br />我觉得等于15;%d&quot；<br />    printf(&quot。<br />    x=15，x%=(y%=3))设x和y均为int型变量，则执行以下语句后的输出为【  】;
+x=x%(y=y%3)<br />x=x%2<br />x=1<br />选B
+0
+none
+http://zhidao.baidu.com/question/157900835.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/118957678.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91247339.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/22475867.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/573322564.html?qbl=relate_question_4

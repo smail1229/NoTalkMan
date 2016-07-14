@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言(k&2)!=0是什么意思
+none
+就是判断k的二进制位上的第2位是不是0，比如k是 5 101 然后2是010 结果是000 所以 5二进制的第2位数0
+1
+none
+http://zhidao.baidu.com/question/1431893705470905019.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1893730206857677460.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/235320604.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/535199320.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/522010076.html?qbl=relate_question_4

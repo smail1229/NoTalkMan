@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中ADC0CN &= ~0x20这条语句是什么意思?
+请问，C语言中ADC0CN &= ~0x20这条语句是什么意思?谢谢
+也就是ADC0CN & ~0x20的结果是ADC0CN的第5个二进制位（最低位为第0位）修改为0后得到的值，其它的合原来的ADC0CN一致。最后再把这个值赋给原来的ADC0CN。ADC0CN &= ~0x20，0x20等于0x00000020;才是语句，~0x20的结果是0xffffffdf，~是按位取反运算，因此~0x20参与运算后只有~0x20中为0的这一个二进制位的对应位置设置为0，二进制表示为00000000000000000000000000100000）。<br />这个表达式等价于ADC0CN = ADC0CN & ~0x20。其中&是位与运算。&运算的结果是当且仅当两个运算数的对应二进制位为1时才为1。其中~的优先级最高，也就是二进制11111111111111111111111111011111（作为对比。所以整个ADC0CN &= ~0x20的结果是把ADC0CN的第5个二进制位修改为0首先ADC0CN &= ~0x20是一个复合赋值表达式而不是语句
+7
+none
+http://zhidao.baidu.com/question/104284214.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/167461238.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/392073232119036565.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1817696020040572508.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/456828184937253565.html?qbl=relate_question_4

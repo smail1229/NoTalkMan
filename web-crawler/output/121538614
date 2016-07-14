@@ -1,0 +1,11 @@
+电脑/网络 编程语言 汇编语言 
+求用汇编语言写“2个32位有符号数乘法”的程序
+none
+mov ax,T1+4<br /> mov R+6:mov ax,0<br /> :code,NA<br /> mov bx;-------第一个字是等待相乘的数的高16位,第二个是低十六位<br /> T1 dw 0;-------同理<br /> mov ax,T2<br /> adc R,ax<br /> ,T1<br /> mov R+2,所以分配3个字<br /> R  dw 0,ds,4C00H<br /> int 21H<br /><br />code ends<br /><br />end start<br /><br />原理图:mov ax,dx<br /> ,09AFCH<br /> NB dw 08818H,将T1+2与上一次相乘的进位相加存入T1+2<br /> ;结果存入T1+2,NB+2<br /> mul bx<br /> mov T1+4,dx<br /> ,NA<br /> mov bx,结果存入T1+4<br /> :data<br /><br />data segment<br /> NA dw 0F321H,ax<br /> mov cx;-------Number A 的高16位乘以 Number B 的低十六位,T1+2<br /> mov R+4,0301DH<br /> ,data<br /> mov ds,结果存入T1+4<br /> ;-------同理<br />    SUM,ax<br /> add T1+2,NB+2<br /> mul bx<br /> mov T1+2,NA+2<br /> mov bx,cx<br /> adc T2,0,0,NA+2<br /> mov bx,ax<br /> mov ax,ax<br /> ;-------错位相加<br /> mov ax;进位存入CX<br /> mov ax;-------32位数乘以32位数不可能大于64位,dx<br /> ,T2+2<br /> adc T1,0<br /> T2 dw 0;-------32位数乘以16位数不可能大于48位,0,T2+4<br /> add T1+2,ax<br /> <br /> mov ax,0<br /> ,0,ax<br /> add T2+2,ax<br /> mov cx,ax<br /> mov ax,cx<br /> adc T1,所以为结果分配4个字<br />data ends<br /><br />code segment<br />  start:mov ax,ax<br /><br /> mov ax;-------初始化段寄存器<br />  Step1,dx<br /> ,ax<br /><br /> mov ax;-------Number A 的低16位乘以 Number B 的低十六位;将第二次相乘的进位带符号相加入 T1(前一位的相加可能产生进位)<br />  Step2,NB<br /> mul bx<br /> mov T2+2,NB<br /> mul bx<br /> mov T2+4我承认程序不是我写的~是小文写的~不过分数我代领了~哈哈哈哈哈<br /><br />assume cs
+19
+none
+http://zhidao.baidu.com/question/64668925.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/42337886.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/144273960.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/43806917.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80855160.html?qbl=relate_question_4

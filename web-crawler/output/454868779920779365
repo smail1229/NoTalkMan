@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中语句c=(a+=++b,b+=4)；怎么理解？知道的解释下，谢了
+none
+a=a+(b+1)<br />b=b+4<br />c=b
+7
+none
+http://zhidao.baidu.com/question/2117250898004717587.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2266790904915243308.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/155802554.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/121322812.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/157299651.html?qbl=relate_question_4

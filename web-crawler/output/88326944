@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言：while(printf(&quot;x&quot;))内的表达式为什么与&#39;0&#39;等价,如何解释?
+none
+printf()函数返回值为整型！while（）函数括号里的非0相当于TRUE;的ASCII码为48，属于非0，输出出错则返回负值楼主你好。所以只要是括号里为非零，0相当于FALSE。若成功则返回输出的字符数;0&#39。由于&#39。这里题目返回整数1，都是TRUE
+42
+none
+http://zhidao.baidu.com/question/209309881.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/211201199.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/752909199177079524.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/108455806.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/234840178.html?qbl=relate_question_4

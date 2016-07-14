@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，if（！a）b++和if（a）b+=2是什么意思？
+h&gt,b);<br />main()<br />{<br />int a = 1,b = 0;<br />printf(&quot;<br />if(!a)b++;<br />else if (a==0) if(a) b+=2;<br />else b+=3;stdio;n&quot;#include &lt;%d&#92
+if（！a）b++<br /><br />如果a为假(0)则b自加1<br />if（a）b+=2<br /><br />如果a为真(1),则b=b+2
+6
+none
+http://zhidao.baidu.com/question/536086159.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/93724249.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/255704013.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/159009366.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134404095669193045.html?qbl=relate_question_4

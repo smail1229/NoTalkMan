@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言-float变量的问题
+<br />}<br />可输出结果怎么变为2和0了;<br />  i1=f1.123456789！我是处学的,i2,i2);stdio,f2=12345678901234567;n&quot;<br />main()<br />{<br />  float f1=2;<br />  i2=f2！<br />#include &lt！可就是不明白下面的一题，麻烦各位大虾帮忙;<br />  int i1,i1！就是搞不懂,%d&#92;<br />  printf(&quot.h&gt;%d.1234567;我们要交C语言作业，急啊
+i2; f2数值已经超过了整型所得的最大值; <br />i1=f1;  i1为整型， 会导致小数点后数值丢失<br />i2=f2,f2=12345678901234567;n&quot,i1; <br />int i1;stdio.123456789,%d&#92;.h&gt，你将浮点型的数据强制赋值给整型,i2)，因此i2数值越界<br />printf(&quot，f1为浮点型#include &lt; <br />main() <br />{ <br />float f1=2;%d.1234567
+0
+none
+http://zhidao.baidu.com/question/24238440.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1754318204339437348.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/430739768.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/96270403.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1829630125291529980.html?qbl=relate_question_4

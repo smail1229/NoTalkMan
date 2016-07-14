@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+设有定义：float a=2,b=4,h=3; ，以下C语言表达式与代数式计算结果不相符的是______。
+2)*(a+b)*h<br />（C）(a+b)*h*1&#47，以下C语言表达式与代数式计算结果不相符的是______; ;2  （D）h&#47,b=4。<br />（A）(a+b)*h&#47设有定义：float a=2,h=3;2  （B）(1&#47
+2；<br />因为B中（1/2)*(a+b)*h<br />B值为0，则会认为是俩个浮点型相除，可以得出0.0&#47，所以得出的值是0而不是0.5<br />若把他改成1;2）会被认为是两个int型相除答案选（B）(1&#47.0
+42
+none
+http://zhidao.baidu.com/question/509485124.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/488498611326493012.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/410631988.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/64377248.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/516640430.html?qbl=relate_question_4

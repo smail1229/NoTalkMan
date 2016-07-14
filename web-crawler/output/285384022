@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，定义一个函数，判断三个正整数是否为水仙花数，急急急急
+none
+<br />  int numTmp;<br />  num1 = num%10;<br />  if (numTmp == num)<br />   return 1;  // 是水花仙数<br /> else <br />   return 0;// 个位<br />  num2 = num&#47,num2,num3; // 十位<br />  num3 = num/  /100;10; 百位<br />  numTmp = num1*num1+num2*num2+num3*num3// 三位<br />int isWaterNumber(int num)<br />{<br />  int num1;<br />  num2 = num2%10; &#47
+0
+none
+http://zhidao.baidu.com/question/241306159466236044.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/356804568.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/206104511.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/94137443.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/287738465.html?qbl=relate_question_4

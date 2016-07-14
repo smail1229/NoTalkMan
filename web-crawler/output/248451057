@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言printf（“%d%d&#92;n”,(a,b),c）；这个怎么执行？
+none
+<br />所以输出应该是bc(a,b)是执行的逗号运算符，结果应该是b。<br />逗号运算符输出结果是最后一个表达式的执行结果
+3
+none
+http://zhidao.baidu.com/question/172630271.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153234922.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/154944854.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/27096955.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1894967303431444140.html?qbl=relate_question_4

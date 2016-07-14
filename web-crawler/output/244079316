@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中if(n%2)是什么意思
+none
+判断n除以2取余是1还是0，如果是1，条件成立
+16
+%在C中是模除运算符，功能为取余。 <br />n%2是对2取余，即可以被2整除，n%2值为0；否则值为1。<br />if是判断语句的标识，当括号内判断条件为真(非0值)则执行下面的语句，否则不执行。<br />于是if(n%2)就是判断n是否可以被2整除，如果不可以则执行。从数学上的概念来说，就是当n为奇数是执行，偶数时则不执行。
+http://zhidao.baidu.com/question/534200458.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/249413495.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/185396000.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/552302173.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/412562036.html?qbl=relate_question_4

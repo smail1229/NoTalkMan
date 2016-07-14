@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，数组做函数参数如何才能按值传递？
+none
+完全无法按值传递，数组类型自动转换为指针类型。<br /><br />下一个问题是。<br /><br />实际情况是：为什么偏要按值传递呢，因而传的实际是地址，传一个指针进去不就行了。这是由C&#47。<br /><br />void func(int array[10])<br />void func(int array[])<br />void func(int *array)<br /><br />所以以上三种函数声明完全等同？当要在一个函数内使用一个数组时，数组做参数，何苦钻牛角尖传数组给一个函数;C++函数的实现机制决定的？只要能访问到我们所要的数据并对其进行操作
+21
+1、数组做参数，完全无法按值传递。这是由C&#47;C++函数的实现机制决定的。<br />2、传数组给一个函数，数组类型自动转换为指针类型，因而传的实际是地址。<br />下面三种函数声明完全等同：<br />void func(int array[10])<br />void func(int array[])<br />void func(int *array)
+http://zhidao.baidu.com/question/204359454.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54481911.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/147102781.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2201092093085359988.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/200527303.html?qbl=relate_question_4

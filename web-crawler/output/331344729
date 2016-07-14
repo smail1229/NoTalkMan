@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言定义矩阵
+stdio#include &lt;<br />int ra=2;<br />#include &lt;<br />	printf(&quot,4;k&lt;<br />    printf(&quot;<br />int rb=3;<br />    te=clock();<br />        for(int k=1;time,3!=rb)<br />    throw new IllegalArgummentException(&quot,int cb)<br />{<br />    if(ca;cb;).h&gt,te,2;<br />    clock_t tb,6},4;<br />int ca=3;ca,3,sum);<br />    }<br />}<br />void main()<br />{<br /><br />    int a[2][3]={1;;n&quot;<br />int cb=2;<br />int  matrixMultiply(int [2][3]a;i++)<br />    for (int j=0,5:%d&#92,int [3][2]b;k++)<br />        sum+=a[i][k]*b[k][j];Sum,int [3][3]c;<br />    for (int i=0;矩阵不可乘&quot,int ra;ra,int ca;<br />	tb=clock(),int rb;j&lt;i&lt,6},5;j++)<br />    {<br />        int sum=a[i][0]*b[0][j];<br />        c[i][j]=sum,2;<br />    int b[3][2]={1.h&gt;%lf&quot;,(te-tb)&#47;CLK_TCK)
+没有看见你哪里调用了matrixMultiply
+0
+none
+http://zhidao.baidu.com/question/149931174.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/169563463.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/38622502.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/174438295.html?qbl=relate_question_3

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言四舍五入保留两位小数
+a);<br />printf(&quot;%d&quot;<br />scanf(&quot;n&quot,&a)#include &lt;<br />(int)(a);<br />a&#47：%2f&#92;n&quot;<br />printf(&quot.h&gt;<br />main()<br />{<br />double a;stdio.5;);;请输入一个四位小数;;<br />a*=100;<br />a+=0：&#92;结果是;<br />}<br /> <br />可以这样写吗？哪里错了;=100
+2f&#92;,&a);n&quot;改为.2f是按小数部分保留两位输出;%lf&quot;改为; <br /> <br />%2f 是按2位输出：<br />printf(&quot，一失足成千古恨啊;结果是：%2f&#92,&a)：<br />scanf(&quot,a);;;%d&quot;结果是：%;n&quot;,a);<br /> <br />printf(&quotscanf(&quot，%
+11
+none
+http://zhidao.baidu.com/question/189604056.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/557154461.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1704082656870901620.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/534264497.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/22834864.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+教育/科学 理工学科 数学 
+C语言 输入精度e 和实数x,用下列公式求cos x 的近似值,精确到最后一项的绝对值小于e&#65377;
+)：精度e和实数x<br />【输入输出样例1】（下划线部分表示输入）<br />e;<br />		i++,&e);<br />	printf(&quot;math;<br />	scanf(&quot: 0，<br />逐步调试后,item;=e){<br />		item=flag*pow(x;<br />	double e.<br />#include&lt;cos(x)=%.001<br />x;;<br />	while(fabs(item)&gt,x));<br />  	printf(&quot: 1<br />cos(x)=0;<br />		int i=0;=n;,x)求余弦函数的近似值&#65377;);<br />	}<br />	return cos;<br />int main()<br />{<br />	int x.800&gt,flag=1，发现while那里;x.;<br />	double s=1;<br />double fact(int n)<br />{<br />	int i，为什么;<br />	scanf(&quot;，明明item=1;fact(2i);stdio;e的,funcos(e;<br />	for(i=1: &quot;e.3lf&quot，却直接跳出循环了;%d&quot;<br /><br />【输入形式】<br />输入两个浮点数.;i&lt.;<br />		flag=-flag.h&gt,2i)&#47.h&gt，该怎么改;<br />	printf(&quot;<br />		cos=cos+item,&x);<br />}<br /><br />#include&lt;<br />	return s;<br />}<br /><br />double funcos(double e.540<br />-----------------------------------------<br />为什么出来的都是0: &quot;%lf&quot,int x)<br />{<br />	double cos=0输入精度e 和实数x;i++)<br />		s=s*i,精确到最后一项的绝对值小于e&#65377;<br />	return 0;要求定义和调用函数funcos(e,用下列公式求cos x 的近似值
+fail
+1
+none
+http://zhidao.baidu.com/question/545457637.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/416424092.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/418570975.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/417330923.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1605411553840242827.html?qbl=relate_question_4

@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言里这个“ ^= ”表示什么意思？
+比如：A ^= B;  这个是不是表示A与B进行异或后，再传给A？那不就是0了？
+就是 A 和 B 异或后传给A。。 比如 A 为二进制 0101   B为二进制1010， 供胆垛感艹啡讹拾番浆A ^= B 之后， B 还是B， A 为 A^=B的值， 为二进制的1111。。<br /> <br />不知道楼主说的0 是从何而来? A 又没有和他自己异或。。。
+0
+none
+http://zhidao.baidu.com/question/391025759056922845.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/177762223.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/580380028.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/573789098.html?qbl=relate_question_3

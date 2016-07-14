@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言的FOR的循环语句
+p=1main（）<br />{<br />int i;<br />}}是一样的吗,sum=0,sum);n&quot，sum,p;<br />sum=0;=4;<br />print (&quot;<br />i=1;%d&#92;<br />p=1,sum);<br />while(i&lt;=4)<br />{<br />p=p*i;i++)<br />p=p*i;<br />sum=sum+p;;<br />sum=sum+p；<br />for （i=1;<br />print (&quot;n&quot;;<br />i++;i&lt,sum;<br />}<br />和<br />main()<br />{<br />int i;%d&#92，p
+<br />你的循环体是p=p*i,sum);=4;<br />sum=sum+p;<br /> sum=sum+p,sum;<br />改成——————————————————<br />两段就是一样的了<br />main()<br />{<br />int i;<br />}<br />printf(&quot,p;<br />for (i=1,sum=0;i&lt,p=1;i++)<br />{   <br /> p=p*i;%d&#92;n&quot;for后面只能接一个语句
+0
+none
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/71960009.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/152796528.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1987478448641835227.html?qbl=relate_question_3

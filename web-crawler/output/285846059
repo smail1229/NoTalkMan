@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言  printf(&quot;%10e&quot;,123.456789);结果问题
+23457e+02 上面题目的结果是1？怎么运算的呢，这是为什么
+去e，<br />取前7位（包括小数点）得到1.<br />你要求的10位还差7位,算出总位数为7+3=10.23456789（除了100的小数），于是把1，<br />首先解释下3,3就是那个正负号1位加上后面的数字位数2位得到3.23456
+0
+none
+http://zhidao.baidu.com/question/1817615084143238948.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/331562329.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126548620.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/49187407.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/339552133.html?qbl=relate_question_4

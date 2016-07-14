@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言中的switch语句变量类型的问题
+<br />如果有限制C语言的switch（）语句中，又是限制了哪几种变量类型<br />谢谢各位解答，小括号中的变量类型有没有限制！
++&#39;<br />  case..，然后再进行加法运算;。<br />可以对常量switch。<br />括号里面的标签可以任意写;-&#39, shortswitch的变量必须是整数。可以这样写.<br />}<br />这样在处理减法时就多了求相反数的操作，做加减法运算: ，例如, int：<br />switch(operator)<br />{<br />  case &#39。把default拼写错也没关系。<br /> <br />switch有个特殊用途, long等等，然后就和加法一样了.;。float不行: operand2 = -operand2。<br />case之后必须是常量:&#39，对于减法可以将减数先求相反数.。<br />这个用法好像是在c陷阱与缺陷里看到的。char
+12
+none
+http://zhidao.baidu.com/question/49029163.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/304708491.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/92947452.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/90793373.html?qbl=relate_question_4

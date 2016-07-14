@@ -1,0 +1,11 @@
+电脑/网络 互联网 网站使用 
+C程序语言：printf语句中的变量前加个&是什么意思？如：printf(&quot;%d&quot;，&p)；
+none
+&代表取地址符，该句printf的结果就是p变量的地址
+1
+none
+http://zhidao.baidu.com/question/117416742.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/534682879.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/444677469.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/364909638.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/169265897.html?qbl=relate_question_4

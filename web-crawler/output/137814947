@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一道简单C语言解释
+x)&&(b=y&gt;z),w=1,y=3;<br />(a=w&gt，b=6,z=4？<br />int a=5,b=6,x=2执行下列语句后 为何a=0
+x)中a=0，假与假也是假所以说不管第二个表达式的值为什么它的结果都为假你一定不明白b为什么等于6 <br />在因为(a=w&gt，<br />&&是与运算符C语言规定当与运算符的第一个表达式的值为假那么它就不再计算第二个表达式的值直接判断整个表达式的值为假 <br />因为  假与真为假，整个表达式的值为假 这个你应该明白
+0
+none
+http://zhidao.baidu.com/question/156601076.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/134867465.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/76660095.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/89918397.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/157707004.html?qbl=relate_question_4

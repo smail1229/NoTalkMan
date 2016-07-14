@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中指针*p与*p-&#39;0&#39;和*p+&#39;0&#39;有什么区别
+none
+0&#39; 就是减去48;就是加上48，如果是p指向的是数字字符（一位）就转换为对应的数字的ascii码<br />+ &#39;0&#39*p就是指针指向目标的值<br />-&#39
+4
+none
+http://zhidao.baidu.com/question/353446625.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/254783541.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240709437.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/283802316.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/391203146.html?qbl=relate_question_4

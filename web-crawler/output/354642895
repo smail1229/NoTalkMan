@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程，编写一个函数void sort（int array[ ]，int num），该函数的两个参数array和num分别表示一个数
+组俯虎碘臼鄢铰碉歇冬忙的名字和元素个数，sort的功能是将数组中的该元素按照从小到大排序。在编写主函数调用sort并且验证该函数的正确性。
+#include &lt;stdio.h&gt;<br /><br />void sort(int array[ ],int num)<br />{<br />	int i,j,t;<br />	for (i=0;i&lt;num-1;i++)<br />		for (j=i+1;j&lt;num;j++)<br />			if (array[j] &lt; array[i]) <br />			{<br />				t=array[i];<br />	俯虎碘臼鄢铰碉歇冬忙			array[i]=array[j];<br />				array[j]=t;<br />			}<br />}<br /><br />void main()<br />{<br />	int i,x[10];<br />	<br />	printf(&quot;Please enter 10 int data:&#92;n&quot;);<br />	for(i=0;i&lt;10;i++) <br />		scanf(&quot;%d&quot;,&x[i]);<br /><br />	sort(x,10);<br /><br />	printf(&quot;After Sort:&#92;n&quot;);<br />	for (i=0;i&lt;10;i++) <br />		printf(&quot;%d &quot;,x[i]);<br />	<br />	printf(&quot;&#92;n&quot;);<br />}
+0
+none
+http://zhidao.baidu.com/question/163263555.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/268609956.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/154091496.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/558118298.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/433296721.html?qbl=relate_question_4

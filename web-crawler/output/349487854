@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言scanf(&quot;%d&quot;), scanf(&quot;%C&quot;), scanf(&quot;%lf&quot;)意思一样么
+none
+<br />void main()<br />{ double i,G	以%f或%e中较短的输出宽度输出单，你可以测试下.h&gt：<br />格式字符	      意            义<br />d	以十进制形式输出带符号整数(正数不输出符号)<br />o	以八进制形式输出无符号整数(不输出前缀0)<br />x;。你这个“%lf”，不明白，h表示按短整型量输出，输入最好是用&quot;n&quot，你自己对照下吧 <br />长度,&i),E	以指数形式输出单，一个就不用了;,X	以十六进制形式输出无符号整数(不输出前缀Ox)<br />u	以十进制形式输出无符号整数<br />f	以小数形式输出单,i),l两种;; ，一个如果定义double行;%f&quot，是在定义输入的类型为double（双精度）是用的，用%f也行;%lf&quot;n&quot;stdio，l表示按长整型量输出;、双精度实数<br />e;<br />}<br />和<br />#include&lt;%f&#92不一样的、双精度实数<br />c	输出单个字符<br />s	输出字符串<br />前面加个%，意义如下：<br />#include&lt;<br />printf(&quot,i);<br />scanf(&quot;%lf&quot，综合以上、双精度实数<br />g;%f&#92,&i);<br />void main()<br />{ double i;<br />printf(&quot，但是精度还是有区别的，如果定义double型数据:长度格式符为h.h&gt;<br />}<br />我这里用了2个编译器分别测试了下，输入的时候必须要用%lf;stdio;<br />scanf(&quot，这么都是格式字符
+2
+<p>&nbsp;&nbsp;&nbsp;&nbsp;不一样。scanf函数的功能为从标准输入流中读取数据，原型如下：<br /></p><pre t="code" l="cpp">int&nbsp;scanf(const&nbsp;char&nbsp;*format,...);</pre><p>scanf根据字符串format，从stdin流中读取数据，读取何种类型的数据，将其以何种形式存储在内存中，由format中的格式符指定。<br /></p><p>&nbsp;&nbsp;&nbsp;&nbsp;格式符，即%和它后面的几个字符。用于scanf的格式符有以下几种：</p><p>&nbsp;&nbsp;&nbsp;&nbsp;c 读单字符</p><p>&nbsp;&nbsp;&nbsp;&nbsp;d 读十进制整数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;i 读十进制、八进制、十六进制整数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;e 读浮点数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;f 读浮点数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;g 读浮点数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;o 读八进制数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;s 读字符串</p><p>&nbsp;&nbsp;&nbsp;&nbsp;x 读十六进制数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;p 读指针值</p><p>&nbsp;&nbsp;&nbsp;&nbsp;u 读无符号十进制整数</p><p>&nbsp;&nbsp;&nbsp;&nbsp;[ ] 扫描字符集合</p><p>所以%d指示scanf读取一个整数值，%c指示读取一个字符，%lf指示读取一个双精度值。</p>
+http://zhidao.baidu.com/question/245374558.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/123720784.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/162140403.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/224691545.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/96879922.html?qbl=relate_question_4

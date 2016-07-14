@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言编程中“static”是什么意思?
+none
+fail
+4
+static 出现在不同的地方含义不同的。<br />如果是在函数之外使用，表示该对像在此文件中是全局可访问的，在文件之外是不可访问的。<br />如果出现在函数内部，则表示该变量不是自动变量，它是一个可以初始化的变量（如果不进行显式初始化，默认值是0）。改变了它的值以后，函数结束时它的值也会保留。
+http://zhidao.baidu.com/question/78585327.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/257488409.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/174342702.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/8153780.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/113076709.html?qbl=relate_question_4

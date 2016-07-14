@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请大家帮忙解释一下下面这段C语言程序的含义 急急急！
+i&gt;<br /> }<br /> }<br /> void main(void)<br /> { <br /> while(1)<br /> if(P1_7==0)<br /> {<br /> for(count=200.H&gt.h&gt;<br /> void dely500(void)<br /> {<br />   unsigned char i;i--)<br /> { <br /> _nop_();<br /> bit flag;0;<br /> #include&lt;AT89X51;0;0;<br />   dely500();<br /> unsigned char count;<br />   }<br />   for(count=200;count--)<br /> {<br />   P2_0=~P2_0;<br /> for(i=250;count&gt;count--)<br />   {<br />      P2_0=~P2_0;intrins;<br />   dely500();count&gt#include&lt;<br />   dely500()
+i--)<br /> { <br /> _nop_();0;<br />   }<br />   for(count=200;<br /> for(i=250;进行200次转换<br />   {<br />      P2_0=~P2_0;<br /> bit flag;<br />   dely500();<br /> unsigned char count;<br />   dely500();<br /> void dely500(void)    //intrins，_nop_()表示停1个机器周期<br /> {<br />   unsigned char i.H&gt;&#47！<br />#include&lt;&#47这是51单片机的代码;i&gt;count--)/<br />   dely500();count--)/延迟函数调用_nop_()，就是用P1的第7位等于低电平时来控制P2的第0位那个引脚不停的0和1转换;count&gt;count&gt;<br /> }<br /> }<br /> void main(void)<br /> { <br /> while(1)<br /> if(P1_7==0)<br /> {<br /> for(count=200;进行200次转换<br /> {<br />   P2_0=~P2_0;AT89X51;0;0;<br /> #include&lt.h&gt
+1
+none
+http://zhidao.baidu.com/question/1302354961813023059.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/234267116.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/27791472.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117087573.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/253154836.html?qbl=relate_question_4

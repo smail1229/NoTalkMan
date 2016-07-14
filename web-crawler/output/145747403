@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int指针
+ *readCount)<br /><br />}<br />为什么打印出来总是什么<br />readCount;<br />getRKRcvMsgData(&readCount)；<br />static int getRKRcvMsgData(int *readCount){<br />    sprintf(msg, &quot大概这样：<br />int readCount = 0;;readCount:%d&quot
+%d&quot;你的打印函数里有&quot;readCount
+0
+none
+http://zhidao.baidu.com/question/41985848.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/173399739.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/616461960297194052.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1830178966203975340.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/82625264.html?qbl=relate_question_4

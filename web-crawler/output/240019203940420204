@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+帮忙解释这一条C语言程序语句的含义
+<br />else InsertBST(T-&gt.key=key，这里的&是什么用法,KeyType key)中的bitree&t怎么解释typedef struct{<br />KeyType key;data;data,key);<br />if(;<br />typedef struct BitNode{<br />SElemType data;rchild.key)<br />    InsertBST(T-&gt;rchild=NULL;<br /><br />&#47;<br />}<br />在二叉排序树的插入中这条语句Status InsertBST(BiTree &T;<br />struct BitNode *lchild;lchild;<br />    s-&gt;<br />    T=s;<br />return TRUE;<br />    s-&gt,*rchild!T)<br />{<br />    s=(BiTree)malloc(sizeof(BitNode)),KeyType key){<br />BiTree s; <br />}BitNode,* BiTree,key);*二叉排序树的插入*&#47; <br />}SElemType;lchild=s-&gt;<br />Status InsertBST(BiTree &T;<br />}<br />else if LT(key,T-&gt
+初学者容易把引用和指针混淆一起;<br /><br />    int &n = m。例如有人名叫王小毛;<br />&#47:<br /><br />Bitree T;&是取地址:T,指向一个实例对象;*<br />摘自&lt; 定义Bitree一个实例对象; 定义Bitree的实例对象指针。一下程序中;高质量C++/<br />Bitree *T -&gt，也不是指向m的指针，n是m的一个引用（reference）;C编程指南&gt;&gt。<br /><br />*/<br />引用是C++中的概念，其实n就是m它自己;<br /><br />Bitree &T -&gt。所以n既不是m的拷贝,就是一个已经定义的对象的别名;<br /><br />n相当于m的别名（绰号），其实就是对王小毛说三道四，对n的任何操作就是对m的操作。<br /><br />    int m。说“三毛”怎么怎么的，他的绰号是“三毛”，m是被引用物（referent）;&lt; /&#47Bitree T -&gt; 定义Bitree的实例对象的引用;<br /><br />代码参考;<br /><br />Bitree *T = &T;<br /><br />Bitree &T = T,需要初始化
+0
+none
+http://zhidao.baidu.com/question/313006029.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/2201608855277294188.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1110425283569654379.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/533966247.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/178687454.html?qbl=relate_question_4

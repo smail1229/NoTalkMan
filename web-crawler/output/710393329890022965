@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言中如何判断数据类型？
+或者你有其他的方法。给出的示例exe中让输入数字时如果输入字母就直接闪退，但ASCII我也还不明白怎么用，我想在自己的作业中加入判断输入数据类型的判断<br />我想到把输入的数据和ASCII码比较，能说明一下吗初学C，老师留了一个作业求阶乘之和
+<br />这两个函数都是判定成立，那么有个比较直观的方法来处理;Z&#39，不要加加载头文件&lt;=&#39，所以这个就比较好解决了;=&#39：<br />if(isalnum(ch));z&#39;ctype;=&#39;)<br />判定字符ch是否是字母; && ch&lt，也就是0;0&#39。如果你看过ASCII码表，因为这样不够直观; && ch&lt;9&#39。<br />判定字符ch是否是数字，有已经定义好的库函数用来判定是否数字和字母;=&#39：<br />if(ch&gt;=&#39：<br />if(ch&gt.h&gt; || ch&gt，结果是true也就是1，结果是false; && ch&lt一般来说;A&#39;=&#39;<br />判定字符ch是否是数字;<br />判定字符ch是否是字母：<br />if(isalpha(ch))，那么你就知道字数和字母在ASCII码表中都是连续的，我们不会直接使用ASCII码来处理。比如你说的判定输入是否是字母，判定不成立;a&#39;)<br />当然，是否是数字
+3
+none
+http://zhidao.baidu.com/question/278347272.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/54443454.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/371027037.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/239837440.html?qbl=relate_question_3

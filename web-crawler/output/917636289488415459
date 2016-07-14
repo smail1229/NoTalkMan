@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+各位帮忙看看这个c语言程序哪里有错
+<br />   }<br />  p=q:p=%d.h&gt;Input p,q;0||q&lt:&#92;n&quot.&#92;%d%d&quot;the gcd is %d;).&#92,p+q);<br /> scanf(&quot;n&quot;,&p,&q),q;0)<br />  {printf(&quot;;Data error;<br />    return 0;<br />main()<br />{int p;,p;<br />   }<br />while(1)<br />  {r=p%q;<br />   return 0;,q);<br />  return 0;<br />  }<br />else if(p*q==0)<br />   {printf(&quot;the gcd id %d.&#92,r;<br />   if(r==0)<br />    {printf(&quot;<br /> if(p==0&&q==0)||p&lt,q);q=r#include&lt;<br /> printf(&quot;n&quot,q=%d;n&quot;stdio
+(&quot;0||q&lt;0)<br /><br />第6行在if后面差了一个&quotif((p==0&&q==0)||p&lt
+1
+none
+http://zhidao.baidu.com/question/150564723.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/89639870.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/199866652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/101474854.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1923032616739361307.html?qbl=relate_question_4

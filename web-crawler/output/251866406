@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言数据结构类型定义的问题
+<br />char name[8]：<br />Typedef struct Student<br />{<br />char number[8];<br />}Student type;<br />int age书上写的是，Student type是变量名;<br />typedef  Student type   Data Type;<br />struct Student是结构体类型名，我觉得好像不对吧<br />各位帮帮忙吧，以我的理解应该是<br />typedef  struct Student  Data Type，可为什么书上却写成<br />typedef  Student type   Data Type
+typedef的作用是为一种数据类型定义一个新名字。上面的这小段程序就是将Student type 类型重新起了一个名，新起的名字就是Data Type 。
+1
+none
+http://zhidao.baidu.com/question/69294753.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/199884453.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43377594.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/136179418.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/60318358.html?qbl=relate_question_4

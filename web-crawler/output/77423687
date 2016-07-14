@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 上三角矩阵
+NO&#92;i++)<br />       for (j=0;;<br />    for(i=1,j;%d&quot;<br />     for (i=0;n;<br />     if(flag)  printf(&quot;i;j&lt;j++)<br />           scanf(&quot;<br />#include &quot;j++)<br />sum=sum+a[i][j];%d&quot;j&lt;;n;n;<br />int main( )<br />{  <br />   int a[6][6];i&lt;<br />     else  printf(&quot;math,&n);),&a[i][j]),sum=0.h&quot;n&quot;n&quot,flag.h&quot,n;}<br />if(sum==0)<br />flag=1;);i&lt;<br /><br />scanf(&quot;i++){<br />for(j=0;YES&#92#include &quot,i;stdio
+<br /><br />预先赋初值<br /><br />int falg=0;%d&#92,n，这样系统给他自动一个随机值<br /><br />你可以用下面语句看看<br /><br /> int a[6][6];<br /><br />我运行的时候 flag是-1500456468<br /><br />而在c中 只要不为0 都看作真  所以  -1500456468  是真 <br /><br />也就是if(flag) 恒成立<br /><br />二<br />解决办法 ;<br /><br />或<br /><br /> if(sum==0)<br />  flag=1,flag； 定义了一个整形变量falg 但是没有给他赋初值,j;;<br /> else flag=0;<br /><br />printf(&quot,sum=0;n&quot,flag)一<br />原因是这样的 ：<br /><br />int flag,i
+4
+none
+http://zhidao.baidu.com/question/130928151.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/510726057.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/54844684.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/411786250.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/80053959.html?qbl=relate_question_4

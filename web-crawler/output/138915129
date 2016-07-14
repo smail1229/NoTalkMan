@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中void (*a[ ])(int)={ }该怎么理解？
+none
+数组初始化为空;<br />}<br /><br />void main()<br />{<br /> void (*a[])(int)={print，数组的内容为函数指针：<br />#include &lt;%d&#92;<br />} <br />输出;%d&#92;<br />void print(int a)<br />{<br /> printf(&quot。例如。 返回值为空.h&gt;<br /> a[1](5)这应该是一个函数指针的数组, b+1);n&quot，函数的参数为int;;stdio，数组名为a;n&quot, out};<br /> a[0](3);<br />}<br />void out(int b)<br />{<br /> printf(&quot;,a)
+3
+none
+http://zhidao.baidu.com/question/129871839.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/5684442.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/118491479.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/5508942.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/448643678.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中的赋值语句
+请问：result=accumula订珐斥貉俪股筹瘫船凯tor&gt;&gt;8;这条语句不是将result清零吗？accumulator右移8位后不是零吗？非常渴望给予帮追，谢谢
+accumulator是什么类型？有多少位？<br /订珐斥貉俪股筹瘫船凯>如果是int型的话，则至少16位，就不是清零了
+1
+none
+http://zhidao.baidu.com/question/114051647.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/236431542.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106520844.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1510370283520809340.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/134312387.html?qbl=relate_question_4

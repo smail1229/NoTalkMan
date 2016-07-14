@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 设变量x为float型且已经赋值，则以下语句中能够将x中的数值保留到小数点后面2位，并将第3位四舍五入
+则以下语句中能够将x中的数值保留到小数点后面2位12.5&#47、设变量x为float型且已经赋值.5)&#47，并将第3位四舍五入的是＿＿B＿＿;100+0.0     B）x=(x*100+0.5)&#47.5)*100。<br />A）x=x*100+0.0  D）x=(x&#47;100;100;100.0<br />C）x=(int)(x*100+0.0<br />我要分析过程
+5)=426.1&#47,这样就可以去掉小数点,+0,则(int)426.261.256*100+0.26 <br /><br />你选的B是错误的,没有强转成int.5就是为了四舍五入<br />例如x=4.1&#47.5)  把float型数据(x*100+0,则(4;100=4.256;100.5)强转成int,所以426答案 C<br />(int)(x*100+0.1   .0=4
+77
+none
+http://zhidao.baidu.com/question/86569711.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/104640801.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/346641125.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/67277531.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/646598075462395805.html?qbl=relate_question_4

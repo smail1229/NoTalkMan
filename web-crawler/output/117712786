@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 int x=y==5;
+这个东西对？大家给解释一下，急、
+x=1<br />y,不等返0<br /><br />所以y的值是5时，相等返回1;<br />肯定的说，，<br />用来判断其左右两边是否相等，这也是算是个逻辑运算符：对的（y正确定义后）<br />==这个运算符叫等于运算符int x=y==5!=5
+16
+none
+http://zhidao.baidu.com/question/178868014.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1830967681064376740.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239475671.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/215688777.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/563544911.html?qbl=relate_question_4

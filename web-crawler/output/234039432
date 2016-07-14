@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，z=x+a%3*(int)(x+y)%2&#47;4;的运算顺序是什么？谢...
+none
+强烈建议不要写这种“令人困惑的C”. a%3*(int)(x+y)<br />5. (int)(x+y)<br />3;4<br /><br />如果是你自己写程序x+a%3*(int)(x+y)%2/4. a%3<br />4，就另当别论了，如果是考试. a%3*(int)(x+y)%2&#47. x + a%3*(int)(x+y)%2&#47. a%3*(int)(x+y)%2<br />6;4<br />7. x+y<br />2;<br /><br />1。<br />    参考资料
+7
+none
+http://zhidao.baidu.com/question/233970668.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/198781249.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/241676608.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/155460417.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/215688777.html?qbl=relate_question_4

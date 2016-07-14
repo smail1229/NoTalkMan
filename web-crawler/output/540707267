@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言 求素数，要求调用函数
+none
+fail
+10
+#include&lt;stdio.h&gt;<br />define N 500<br />int zll(int a)<br />{<br />    int i;<br />    for(i=2;i&lt;a;i++)<br />     {<br />        if(a%i==0)<br />         return 0;<br />     }<br />     if(i==a)<br />        return 1;<br />}<br />int main()<br />{<br />    int i=0;<br />    int s=0,a;<br /> for（a=2;a&lt;N;a+=2)<br />{<br />    if(zll(a))<br />    {<br />      s+=a;<br />       printf(&quot;%d个素数是%d&#92;n&quot;,i++,a);<br />    }<br />  }<br />   return 0;<br />}
+http://zhidao.baidu.com/question/155809260.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/507509060.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/148796119.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/134970802009933765.html?qbl=relate_question_3

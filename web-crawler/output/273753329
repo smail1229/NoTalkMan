@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 函数功能是计算x的n次方
+其中x为双精度数，(所有变量的类型请学生考虑如何定义)，并输出结果，n为非负整数，m形参用于接受n，最后返回结果。用一个For循环结构计算xn(循环条件学生自己考虑。函数体内定义一个存放结果的变量p(其类型为长整型、n和result(用于接受函数的返回值、初值为1)。<br />   再编写一个主函数，不符题意;)。<br />（2）主函数中定义3个变量x，功能是输入x和n的值，再判断n的值，循环体为，如果n≥0：double  power(double y，则调用函数计算xn!”的提示信息，其中y形参用于接受x,int m)。<br />（3）主函数中首先输入x和n的值，否则输出“n是负数。<br />算法分析，该函数功能是计算xn：p=p*y，按题目要求作出相应的处理2．编写一个函数：<br />（1）计算xn的函数的函数头可定义为
+include &lt;&#47, int m)<br />{<br />	int i;%lf%d&quot;i&lt;<br /><br />double power(double y, &n);<br />	if (n&gt;			/<br />	}<br />	else<br />		printf(&quot;);/<br />}<br /><br />void main()<br />{<br />	double x;stdio, n);n&quot;%lf&#92, &x;函数返回值<br />	<br />	scanf(&quot;=m;n&quot;=0)<br />	{<br />		result = power(x;<br />	return p;;i++)<br />		p=p*y;n是负数;<br />		printf(&quot;<br />	int n;			/			//循环次数<br />	double p=1, result)!&#92.h&gt;;<br />	double result;存放结果<br />	for (i=1，不符题意
+9
+none
+http://zhidao.baidu.com/question/52979717.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/101579897.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/16075531.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/119374011.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/412939925.html?qbl=relate_question_4

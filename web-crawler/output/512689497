@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言表示：【 F(x) = log2(x) 0&lt;x&lt;10 】
+用C语言表示<br /><br /><a href="http://acm.sdut.edu.cn/sdutoj/problem.php?ac憨珐封貉莩股凤瘫脯凯tion=showproblem&problemid=2557" target="_blank">http://acm.sdut.edu.cn/sdutoj/problem.php?action=showproblem&problemid=2557</a>
+这题有什么难点吗？直接写不就行了：<br /><br />#include &lt;stdio.h&gt;<br />#include &lt;math.h&gt;<br />/*<br />F(x) <br />= log2(x)    0&lt;x&lt;10<br />= |x|+sin(x) x&lt;0<br />=0           x=0<br />=x^2         x&gt;=10 <br />*/<br />double F(double x)<br />{<br />    return (0&lt;x && x&lt;10) <br />        ?    log(x)/log(2) <br />        :    (x&lt;0)<br />            ?    fabs(x) + sin(x) <br />            :    (x == 0)<br />                ?    0<br />                :    x*x; <br />} <br />int main(int argc, char *argv[])<br />{<br />    int T;<br />    double x;<br />    while(scanf(&quot;%d&quot;,&T) !=EOF)<br />    {<br />        while(T--)<br />        {<br />            scanf(&quot;%lf&quot;,&x);<br />            printf(&quot;%.2lf&#92憨珐封貉莩股凤瘫脯凯;n&quot;,F(x));<br />        }<br />    }<br />    return 0;<br />}
+5
+none
+http://zhidao.baidu.com/question/220073694.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/7833632.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/431582721056282724.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/562658787.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/230257832.html?qbl=relate_question_4

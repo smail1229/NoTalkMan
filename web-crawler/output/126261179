@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言一个输出语句的问题
+a)？;;stdio;<br /> printf(&quot，而小数占2位;%5.h&gt，可是我看光小数点前就已经有6位了啊，那这个浮点数输出为5位是什么意思;<br /><br />}<br /><br />输出结果是512345;<br /><br />void main()<br />{<br />    double a=512345.2是什么意思.1254？书上说这个是表示整个浮点数输出为5位.2lf&quot.13   请问lf前面的5？#include&lt
+否则按实际位数输出。<br />。也就是512345的位数是6m(题中的5） 若m&gt;数据长度.n表示保留n位小数<br />所以输出是512345。那么就按实际的位数输出，大于5，左补空格
+3
+none
+http://zhidao.baidu.com/question/1238123755442001659.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/539427366.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/112869407.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/32140047.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/431594591382513924.html?qbl=relate_question_4

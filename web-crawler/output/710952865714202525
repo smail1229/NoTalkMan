@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言编程 2．计算并输出 m!&#47;(m-n)!n!
+应输出出错信息。在函数pq(n)中也要检查n的合理性。<br />m,8)，输入m与n之前要有提示,3)!&#47，不再进行计算;(m-n)，(8!n。<br />②编制主函数，并检查输入数据的合理性，不再进行计算，0)，(8。<br />⑤画出模块pq()的流程图，对于不合理的输入，(0，当n＜O时输出出错信息。<br />   ④分别输入(m,n)=(3,-1)，由键盘输入m与n(m≥n≥O),8)运行该程序，调用(1)中的函数计算下列算式值:<br />①编制一个函数pq(n)！值，(3，返回n!<br /><br />   ③在主函数中具体要求如下
+<br />float x;;0 || m&lt;result is %f &#92;);<br />scanf(&quot;i++)<br />sum=sum*i;<br />if(m&lt,&m;n ){<br />printf(&quot;=m;<br />printf(&quot;data error;;<br />for(i=1;<br />}<br />main(){<br />int m,n(m&gt;<br />}<br />else{<br />x=(float)func(m)&#47,x)! &quot;n&quot;i&lt,n,&n);<br />return;input m;);n)&quot;<br />return sum;<br />printf(&quot;(func(n)*func(m-n))long func(int m){<br />int i;%d %d&quot;0 || n&lt,sum=1
+1
+none
+http://zhidao.baidu.com/question/359476059.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/687636300587321124.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/102343341.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/404267620.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/284898531.html?qbl=relate_question_4

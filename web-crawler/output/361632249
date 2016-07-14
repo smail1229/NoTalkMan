@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 while(-3!=3)以及while(-3!=-3)括号内如何判断是真是假？
+none
+=3)以及while((-3)，+（取正）和-（取负）都是算术运算符，所以上式可看为while((-3)，！=（不等于）是关系运算符，而算术运算符的优先级大于关系运算符在c语言中
+0
+none
+http://zhidao.baidu.com/question/15202844.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/53108624.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/24145535.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/285571142.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/93401966.html?qbl=relate_question_4

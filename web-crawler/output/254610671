@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+用C语言编程求3个数中的最大数 用自定义函数来实现
+none
+<br /> if(c&gt;stdio;<br /> return m,int b;;n&quot;max=%d&#92;<br />}<br />int main()<br />{<br />    printf(&quot,max(1;m)m=b.h&gt;<br /> if(b&gt,int c)<br />{<br /> int m=a;<br />int max(int a#include &lt;<br /> return 0;m)m=c,3)),2
+11
+<p>&nbsp;&nbsp;&nbsp;&nbsp;只需要将第一个数与第二个数比较，然后将前两个数中较大的和第三个数比较，即可得到最大值。代码如下：<br /></p><pre t="code" l="cpp">int&nbsp;max(int&nbsp;a,&nbsp;int&nbsp;b,&nbsp;int&nbsp;c)<br />{<br />&nbsp;&nbsp;&nbsp;&nbsp;int&nbsp;max&nbsp;=&nbsp;a;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;(b&nbsp;&gt;&nbsp;max)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max&nbsp;=&nbsp;b;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;(c&nbsp;&gt;&nbsp;max)<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;max&nbsp;=&nbsp;c;<br />&nbsp;&nbsp;&nbsp;&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;max;<br />}</pre>
+http://zhidao.baidu.com/question/173099977.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/128434251.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/126414665.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/412351296.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/361504613.html?qbl=relate_question_4

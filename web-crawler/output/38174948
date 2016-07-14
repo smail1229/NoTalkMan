@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如何用C语言从文件中统计相同的字母个数
+txt中有<br />n1<br />n5<br />n6<br />n8<br />n112<br />n11<br />.例如;1.;n&quot.;)?<br />printf(&quot,如何用C语言读出文件中含有几个字母&quot..<br />个数不超过120个;.txt中共有%d个n&quot:在1.
+   <br />    <br />  int   main(void){   <br />  int   i;;   <br />  printf(&quot;len;<br />  getch();i++)   {   <br />  text[i]=fgetc(ifp);<br />  }<br />  printf(&quot,count.txt&quot!=EOF) {len=len+1;);1;}   <br />  rewind(ifp););   <br />  if   (ifp   ==   NULL)   <br />  {   <br />  printf(&quot;n&#39,count).h&gt!&quot;<br />  str = text;;,text[i]);   <br />  return   0;   <br />  #include   &lt;<br />    str = str1 + 1;   <br />  char   *text,*str1;))<br />  {<br />    count += 1;i&lt;   <br />  }   <br />  while((i=fgetc(ifp));%c&quot;malloc;<br />  while(str1 = strchr(str,&#39.txt中共有%d个n&quot;   <br />  for(i=0;   <br />    <br />  ifp=fopen(&quot.h&gt;1;   <br />    <br />  text=(char   *)malloc(sizeof(char)*len);   <br />  FILE   *ifp,len;   <br />  return;error,*str;r&quot;<br />  len=0,&quot;stdio#include   &lt;   <br />  }   <br />  fclose(ifp)
+1
+none
+http://zhidao.baidu.com/question/483429000.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/116935701.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153837977.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/510158863.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/150133460.html?qbl=relate_question_4

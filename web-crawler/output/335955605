@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言里的部分句子 if(i%2) { i++; continue; }是什么意思？求高手指教。
+none
+i = i+1;进入下一个循环<br /> } <br />举个例子<br />你想如果i=4<br />i%2是等于0的<br />那么if后面括号里的值就是0;&#47，也就说如果i是奇数进入if后面的语句<br /> {<br /> i++;如果i除以2 的余数 的值为真   即如果i不能被2整除;  &#47if(i%2)  /   /&#47；<br /> continue，即为假;&#47
+13
+none
+http://zhidao.baidu.com/question/504060425.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/431883319.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/116064338.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1540516289672880227.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/401060475.html?qbl=relate_question_4

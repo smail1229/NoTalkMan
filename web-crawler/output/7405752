@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中整型常量的疑问
+即－6f。提到在C语言中，并举了几个例子.3中,对十进制数进行八进制和十六进制转换，以0开头的是八进制整数谭浩强编的《C程序设计》一书中：<br />    0123相当于十进制的83，再转为十六进制的ff92，－111换为八进制，到底应该怎么算。<br />    我糊涂了，给出的答案并不是先把111转成16进制的6f再加负号，－011相当于十进制数的－9<br />    而在这一章后面的习题3，即写出－111在内存中的形式1111 1111 1001 0010，第三章整型数据一节的第一部分讲到了整型常量的表示方法，以0x开头的是十六进制整数，而是对111的补码进行转换
+NO<br />答案没有错<br />因为c语言里面里面8进制跟十六进制都没有负数<br />当为负数时，直接把负数的补码表示成8或16进制的数<br />如果你的书是第三版<br />去看看第76-77页的内容就知道了
+0
+none
+http://zhidao.baidu.com/question/530196018.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/60319255.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/153358349.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/327538861766027485.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/3920996.html?qbl=relate_question_4

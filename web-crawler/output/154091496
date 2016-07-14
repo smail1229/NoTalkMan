@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求C语言编程编写函数sort：对数组a中的数进行从小到大排序
+none
+我把数组啊设置为你自己输入，那样使用更广泛，要是固定，就就设置数组的值就可以了。<br />#include&lt;conio.h&gt;<br />main(){<br />    int i,j,t;<br />    int a[10];<br />    printf(&quot;please input 10 number:&quot; );<br />    for(i=0;i&lt;10;i++){<br />        scanf(&quot;%d&quot;,&a[i]);<br />    }<br />    printf(&quot;big to small&#92;n&quot;);<br />    for(i=0;i&lt;10;i++){         /*从大到小排序*/<br />        for(j=i+1;j&lt;10;j++){<br />            if(a[i]&lt;a[j]){<br />                t=a[i];a[i]=a[j];a[j]=t;<br />            }<br />        }<br />    }<br />    for(i=0;i&lt;10;i++){<br />        printf(&quot;%d  &quot;,a[i]);<br />    }<br />    printf(&quot;&#92;nsmall to big&#92;n&quot;);<br />    for(i=0;i&lt;10;i++){         /*从小到大排序*/<br />     供贰垛荷艹沽讹泰番骏   for(j=i+1;j&lt;10;j++){<br />            if(a[i]&gt;a[j]){<br />                t=a[i];a[i]=a[j];a[j]=t;<br />            }<br />        }<br />    }<br />    for(i=0;i&lt;10;i++){<br />        printf(&quot;%d  &quot;,a[i]);<br />    }<br />    getch();<br />}
+7
+none
+http://zhidao.baidu.com/question/65698975.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/79838682.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/360080084717227652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/226793778.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/266078623.html?qbl=relate_question_4

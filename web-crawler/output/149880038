@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一道C语言程序题！求助！
+计一个算法输出如下形式的n*n（n&lt;10）阶方阵<br />  1     2     3    4    5<br />16   17   18  19    6<br />15   24   25   20   7<br />14   23   22   21   8<br />13   12   11   10   9<br /><br />急求！！
+今天给你吧;,const int;计算除去外圈后的内矩阵<br />  snakeswitch(initmatrx,采纳一下<br />#include &quot;i&lt;数;);<br /> printf(&quot;<br /> for(int i=0;<br />  if(m==1)<br />   return;n;&#92;i&lt;<br />/<br />  if(n==1)<br />   return;&#47,int initnum.initmatrx[m*n];i--)<br />   initmatrx[(loop+i)*nn+loop]=initmatrx[(loop+m-1)*nn+loop]+m-1-i:&#92;j++)<br />   initmatrx[loop*nn+loop+j]=initnum+j,int);<br />//<br /> }<br /> delete initmatrx;;<br />int main()<br />{<br /> int N;);j&gt;最后一行<br />  for(int j=n-2,初始为0<br />void snakeswitch(int *initmatrx;///i&gt;i++) <br /> {<br />  for(int j=0;/<br />  if(m==2||n==2)<br />   return;stdio,loop+1);m:&quot;=1,int m;递归算法,n;第一列<br />  for(int i=m-2.h&quot,n,int;<br />void snakeswitch(int *;<br /> int m=N,int;<br /> int *initmatrx=new int[m*n],1,initmatrx[i*n+j]);<br />/<br /> scanf(&quot,loop为本次矩阵的环&gt,int;j&lt,0);<br /> return 0;&#47,nn,int n;n;input;<br />/m,initnum+2*m+2*n-4;snakematrix;<br /> printf(&quot,initnum为本次矩阵初始数据;%d&quot;<br /> snakeswitch(initmatrx;j++)<br />  printf(&quot;%6d&quot;=0,m,&N);<br />}<br /><br />/最后一列<br />  for(int i=1,n=N;n&quot,int loop)<br />{<br />/第一行<br />  for(int j=0;);n&quot;j--)<br />   initmatrx[(loop+m-1)*nn+loop+j]=initmatrx[(loop+m-1)*nn+loop+n-1]+n-1-j,nn为最外层矩阵宽度,n-2;j&lt;&#47,const int nn;<br />&#47,m-2;昨天给过一个了/i++)<br />   initmatrx[(loop+i)*nn+loop+n-1]=initmatrx[loop*nn+loop+n-1]+i;<br />   printf(&quot
+1
+none
+http://zhidao.baidu.com/question/138344174.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/127019374.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/131199499.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/259392456.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/163429383.html?qbl=relate_question_4

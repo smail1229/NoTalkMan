@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言题求解,解决后给分.(要求用 switch语句来编程)
+none
+fail
+1
+&#47;*<br />输入两门课的成绩，如果两门成绩都在60 分以上。则输出“it is pass.”    <br />只要有一门低于60 分就输出“it is not pass.”<br />如果输入的任何一门成绩不 在 0-100范围内则输出 “it is error.”。<br />*&#47;   <br /><br />#include &lt;stdio.h&gt;<br />int main()<br />{<br />	int a,b;<br />	printf(&quot;请输入两门课的成绩（用空格隔开）：&quot;);<br />	scanf(&quot;%d %d&quot;,&a,&b);<br />	if( (a&lt;0||a&gt;100) || (b&lt;0||b&gt;100))<br />		printf(&quot;it is error.&#92;n&quot;);<br />	else<br />	{<br />		switch(a&#47;10)<br />		{<br />		case 10:<br />		case 9:<br />		case 8:<br />		case 7:<br />		case 6:<br />			switch(b&#47;10)<br />			{<br />				case 10:<br />				case 9:<br />				case 8:<br />				case 7:<br />				case 6:<br />					printf(&quot;it is pass.&#92;n&quot;);<br />					break;<br />				default:<br />					printf(&quot;it is not pass.&#92;n&quot;);<br />					break;<br />			}<br />			break;<br />		default:<br />			printf(&quot;it is not pass.&#92;n&quot;);<br />			break;<br />		}<br />	}<br /><br />}<br /><br />&#47;&#47;程序我已经调试好了。这题需要switch()嵌套使用，你试试！不懂的可追问哦
+http://zhidao.baidu.com/question/145824871.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/336899584.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/490324985.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/2117485576709501067.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/48762485.html?qbl=relate_question_4

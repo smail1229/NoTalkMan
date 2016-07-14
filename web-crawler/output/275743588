@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言，编写一个函数，函数是用选择排序法将数组排序
+<br />for(i=1;=(m-2),a[10];):&quot;成绩,temp;i&lt,&a[i]),q;}<br />}<br />for(p=1;i&lt;%d&quot;n&quot;<br />printf(&quot;10;i++)<br />{printf(&quot;<br />for(p=1;<br />int px(int a[])<br />{int m;q++)<br />if(a[l]&gt;p++)<br />{l=p;m;<br />for(q=p+1;);&#92,a[p]=a[l],a[p]);a[l]=temp,a[i]);q&lt;<br />}<br />main()<br />{int i;=(m-1),l;;a[q])<br />{l=q;p&lt;%d&quot;i++)<br />printf(&quot,p;}<br />px(10);<br />for(i=1;%d&quot;;10;<br />scanf(&quot;;p&lt#include&lt;}<br />哪里有问题;stdio;p++)<br />printf(&quot;<br />temp=a[p].h&gt
+i&lt;<br />			printf(&quot;%d&quot;<br />	for(i=0;i&lt;;)，而你的是1，还有for语句少打了括号,&a[i]);<br />		}<br />		px(a);10;<br />void px(int a[])<br />{<br />	int i;<br />				a[i]=a[j];j&lt;i++)<br />		{<br />			printf(&quot;10;<br />		for(i=0，还有for语句里面的i和p的初值都应该为0,a[10];<br />			scanf(&quot;<br />		for(i=0，px（10）该改成px(a);j++)<br />		{<br />			if(a[i]&lt;%d&quot;=a[j])<br />			{<br />				temp=a[i],temp;<br />		}<br />	} <br />你的错误有点多;<br />				a[j]=temp;10;10;n&quot,j;,a[i]):&quot;);&#92;i&lt;i++)<br />		{<br />			printf(&quot;i++)<br />	{<br />		for(j=i#include&lt，编程序的时候要注意代码的格式   排版   不然很难找错的   就像你的for语句少打了括号一样   自己写完了都不容易看出来<br />还有你那px函数里面的变量声明了太多;stdio;成绩;<br />			}<br />		}<br />	}<br />}<br />	void main()<br />	{<br />		int i.h&gt
+19
+none
+http://zhidao.baidu.com/question/67593255.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/154091496.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/129681617.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/26404588.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/90338556.html?qbl=relate_question_4

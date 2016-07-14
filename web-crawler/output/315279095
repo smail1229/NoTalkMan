@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，指针变量p,整型变量a，p指向a;那么*p 、 p、 a、 &a是什么关系？
+none
+fail
+1
+指针类的题目记住一个原则，就是两边类型要一致。<br />因此,*p=a和p=&a是对的，其余是错的。<br />在这里p是指针，而*p是变量，所以*p=a是对的。<br />什么是指针，指针就是地址，因此p=&a是对的。<br />这里最容易混淆的一点是：定义时的写法可以特殊一点。例如：<br />int a=8; int *p=&a;<br />这也是对的，尽管违背了我前面前的原则（左边是变量右边是地址），但这是定义，等同于：<br />int a=8; int *p; p=&a;
+http://zhidao.baidu.com/question/346232437.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/299947105.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/456301206.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/513755029.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/17516253.html?qbl=relate_question_4

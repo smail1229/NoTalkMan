@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 if(!n)什么意思?
+none
+fail
+0
+对于整数 ,当n为0时,转换为布尔值就是 假,此时 !n  就是 真 进入if后面的语句块<br /><br />当 n 为 非0值是,转换为布尔值 就是 真,此时 !n 就是假,不执行if后面的语句块<br /><br />如果n 本身就是布尔值,也就是 在n为假的时候 执行if后面的语句块,n为真的时候不执行 if后面的语句块
+http://zhidao.baidu.com/question/1047246173142989539.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/534200458.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/112786041.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/244079316.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/584128775591328045.html?qbl=relate_question_4

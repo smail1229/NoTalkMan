@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中&quot;char *p&quot;占用多少内存空间
+none
+a&#39;<br /> char *p = &c,sizeof(p));stdio。<br />例如：<br />    #include&lt;n&quot;用sizeof()函数检测一下就行了;<br />    }<br /><br />运行以后就能看到结果;<br />    void main()<br />    { <br /> char c = &#39;<br /><br /> printf(&quot;;%d&#92.h&gt
+2
+<p>　　在C语言中指针是一个unsigned 类型的无符号数，其所占内存字节一般是和计算机的CPU字长是一致的，拿32位计算机来说，指针所占的内存空间一般为4个字节，不管char *还是int *抑或是float *，都是4个字节。</p><p><br /></p><p>　　程序员可以使用sizeof运算符获取数据类型或者某个变量的内存所占字节数。比如</p><pre t="code" l="cpp">printf(&quot;%d\t%d\t%d\n&quot;,&nbsp;sizeof(char&nbsp;*),&nbsp;sizeof(int&nbsp;*),&nbsp;sizeof(float&nbsp;*));</pre>
+http://zhidao.baidu.com/question/89913360.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/416912715.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/133574528.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/5829238.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1829929069067725460.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+编写个C语言程序
+已知Fibonacci数列：1,1,2,3,5,8,……，F(1)=1，F(2俯範碘既鄢焕碉唯冬沥)=1，F(n)=F(n-1)+F(n-2)，试求F(50)值。<br /><br />我不是专业学这个的，不用用什么专业的 术语，简单点，能让人看懂就行.
+#include &lt;stdio.h&gt;<俯範碘既鄢焕碉唯冬沥br />main()<br />{<br />    int fibo[50]={1,1};<br />    int i;<br />    for(i=3;i&lt;50;i++)<br />        fibo[i]=fibo[i-1]+fibo[i-2];<br />   printf(&quot;F[50]=%d&#92;n&quot;,fibo[49]);<br />}
+1
+none
+http://zhidao.baidu.com/question/543409995.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1446201540072478740.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1446187041069701500.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/368202851894605844.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/571468264.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中#include &quot;stdio.h&quot;是什么？
+none
+你刚开始学习C语言吗？ 呵呵 <br />没关系 慢慢来 <br />#表示预处理 <br />#include &quot;stdio.h&quot; <br />#include &quot;math.h&quot; <br />main() <br />{ <br />double x,s; <br />printf(&quot;input number:&#92;n&quot;); <br />scanf(&quot;%lf&quot;,&x); <br />s=sin(x); <br />printf(&quot;sine of %lf is %lf&#92;n&quot;,x,s); <br />} <br />预处理命令还有其它几种，这里的include 称为文件包含命令，其意义是把尖括号&quot;&quot;或引号&lt;&gt;内指定的文件包含到本程序来，成为本程序的一部分。被包含的文件通常是由系统提供的，其扩展名为.h。因此也称为头文件或首部文件。C语言的头文件中包括了各个标准库函数的函数原型。因此，凡是在程序中调用一个库函数时，都必须包含该函数原型所在的头文件。在本例中，使用了三个库函数：输入函数scanf，正弦函数sin,输出函数printf。s旦筏测禾爻鼓诧态超卡in函数是数学函数，其头文件为math.h文件，因此在程序的主函数前用include命令包含了math.h。scanf和printf是标准输入输出函数，其头文件为stdio.h，在主函数前也用include命令包含了stdio.h文件。
+65
+头文件，包含stdio.h头文件的意思 <br /><br />include 称为文件包含命令，其意义是把尖括号&quot;&quot;或引号&lt;&gt;内指定的文件包含到本程序中，成为本程序的一部分。被包含的文件通常是由系统提供的，其扩展名为.h <br />而stdio为standard input output的缩写，意为“标准输入输出” <br /><br />预处理命令还有其它几种，这里的include 称为文件包含命令，其意义是把尖括号&quot;&quot;或引号&lt;&gt;内指定的文件包含到本程序来，成为本程序的一部分。被包含的文件通常是由系统提供的，其扩展名为.h。因此也称为头文件或首部文件。C语言的头文件中包括了各个标准库函数的函数原型。因此，凡是在程序中调用一个库函数时，都必须包含该函数原型所在的头文件。在本例中，使用了三个库函数：输入函数scanf，正弦函数sin,输出函数printf。sin函数是数学函数，其头文件为math.h文件，因此在程序的主函数前用include命令包含了math.h。scanf和printf是标准输入输出函数，其头文件为stdio.h，在主函数前也用include命令包含了stdio.h文件。
+http://zhidao.baidu.com/question/56545117.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/138041221.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/87616522.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/122335976.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/53088445.html?qbl=relate_question_4

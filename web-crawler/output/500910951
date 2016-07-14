@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中,若a=0x21,则printf(&quot;%d&quot;,a);输出值为
+none
+0x表示是16进制数，所以十进制就是2*16+1=33。%d表示以十进制输出33啊
+8
+none
+http://zhidao.baidu.com/question/30228419.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/69018018.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/128265418.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/153234922.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/154944854.html?qbl=relate_question_4

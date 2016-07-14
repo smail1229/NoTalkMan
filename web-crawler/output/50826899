@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，实参对形参的传递问题（传递的是变量和指针，有无return的区别）以及全局变量与局部变量的判断？
+如#include&lt;stdio.h&gt;<br 缉沪光疚叱狡癸挟含锚/>int a,b;<br />void fun()<br />{a=100,b=200;}<br />main()<br />{int a=5,b=7;<br />fun()<br />printf(&quot;%d%d&#92;n&quot;,a,b);<br />}<br />函数的调用为什么不起作用呢？
+void f(int * &ptr)是自定义函数！ <br />无返回值！参数类型为指向int型变量的指针变量！即参数&ptr的类型是指向int型变量的指针！那就很好解释啦！ <br />int *ap = arr,实际上是 int *ap = &arr[0], <br />分开写就是： <br />int *ap； <br />ap = &arr[0]; <br />故 f(ap) 相当于 f(&arr[0]) 传的参数是指向int型变量的指针！正确！ <br />而 f(arr) 中 arr 是错误写法，数组单独使用必须加下标！ <br />但指针指向数组时！可以写成：ap = arr 缉沪光疚叱狡癸挟含锚相当于 ap = &arr[0] <br />但单独使用 arr 是错误的！它什么也不是！更不会是指向int型变量的指针，它不存在！
+8
+none
+http://zhidao.baidu.com/question/88534681.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/21724642.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/240656669.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/396818047.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/99966829.html?qbl=relate_question_4

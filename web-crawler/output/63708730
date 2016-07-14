@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 z+=-x+++++y
+x,%d&#92;; 被赋值但却没有使用在 main 函数中”;printf(&quot,z): 需要逻辑0或非0在 main 函数中”;%d;<br />8     z+=-x+++++y;%d;printf(&quot,z;y&#39;<br />9 }<br /><br />这段代码在Win-TC编译时提示错误“错误 8;n&quot: &#39,z);;n&quot,x);printf(&quot、“警告 9;printf(&quot;%d&#92,y;%d&#92;,x;<br />7     z=x++-1,%d&#92;;n&quot;n&quot;<br />6     x=y=1;<br />4     x*=3+2,x);<br />5     x*=y=z=41 main()<br />2 {<br />3     int x=2。<br /><br />怎么回事啊
+而是一个值;<br />x ++返回的不是x，不能再用＋＋了你的代码按照8行编译器贪心法的处理，成了<br />z += - x ++ ++ +y<br />就等于<br />x ++ ++ +y<br />z+=x，就像(a+b)++要报错一样<br />至于<br />需要逻辑0或非0在 main 函数中<br />我也不知道，tc太老了
+0
+none
+http://zhidao.baidu.com/question/562722032.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/61253307.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/43684712.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/79667996.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/97050775.html?qbl=relate_question_4

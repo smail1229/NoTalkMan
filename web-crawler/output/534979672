@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+希望各位C语言的高手帮我解决下面的这个题目,并解释一下题目中的for(i=0;i&lt;8;i++) x+=a[i][j]
+none
+对a00 a01 a02 a10 a11 a12 a20 a21 a22九个元素赋值<br />孙桓结束后j = 3<br />然后做累加的时候.，而这些元素并没有被赋值过<br />对于初始化值，是把a03 a13 . a73<br />的值累加..B<br />不确定值<br />第一个双重for循环，有赋值为0，不同编译器的做法不同
+0
+none
+http://zhidao.baidu.com/question/538994422.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/56941561.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/106641253.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/117175454.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/356894149.html?qbl=relate_question_4

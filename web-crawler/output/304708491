@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+关于C语言switch语句的问题
+#include&lt;stido.h&gt; <br />main() <br />{ int=1,a=0,b=0; <br />switch(x) <br />{ case 0: b++; <br />case 1:a++; <br />case 2: a++;b++;} printf(&quot;a=%d,b=%d&#92;n&quot;,a,b穿法扁盒壮谷憋贪铂楷);<br />}<br /><br />a和b的值？是多少
+输出：<br />穿法扁盒壮谷憋贪铂楷a=2,b=1<br />原因：<br />你一开始x=1，进入case1，所以a++，此时a为1；由于后面没有break，还要做case2，所以a++，b++，a为2，b为1。<br /><br />所以输出：a=2,b=1
+8
+none
+http://zhidao.baidu.com/question/67727228.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/92009859.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/101519686.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/132566618.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/103820409.html?qbl=relate_question_4

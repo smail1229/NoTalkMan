@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言 FOR语句循环问题
+word=0<br />char c<br />gets(string)<br />for (i=0;)word=0.h&gt.&#47;<br /> else if(word==0)<br />  {<br />   word=1; ,num=0;<br />   }<br />printf(there are %d words in the line。想请问这程序i++何时执行;<br />void main()<br />{<br />char string[81]<br />int i;c=string[i]!=&#39;studio;&#39;<br /> }<br /><br />for语句不是只循环到下一句吗;0 &#39;i++)<br /> if (c==&#39:<br />   num++,num);n&quot;程序如下 <br />#include &lt;&#47
+ , 逻辑上也有问题,在这里也就是下面这个if()语句.;<br /> gets(string).关于你的问题在程序注释里有;0&#39.<br />#include &lt!= &#39;stdio!=&#39;there are %d words in the line&#92,否则退出<br />  for()循环*/;n&quot;是否满足;&#92.h&gt,首先执行i=0(初始话);&#92这个程序还好多语法错误.;<br /> int i;i++)<br /> {<br />  /c=string[i],帮你改了下;<br /> for (i=0,然后判断c=string[i]!=&#39;0&#39, 编译通过了;<br /> }<br /> printf(&quot; &#39,自己看看吧.,num);*那这个for循环来说;这个条件是<br />  否满足!=&#39;0&#39;<br />void main()<br />{<br /> char string[81], 满足的话则执行循环体,满足的话在这样循环,num=0,之后继续判断c=string[i];<br />  if(c ,word=0;&#92;<br /> char c, 执行完循环体后在<br />  进行i++操作;)<br />   num++.
+2
+none
+http://zhidao.baidu.com/question/97831171.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/538138952.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/447104669.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/132152917.html?qbl=relate_question_3

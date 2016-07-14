@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+如何在C语言中使用汉字作为if的判断语句?
+none
+就可以用==或;中&quot！=来判断;0xd6d0表示&quot;)直观点可以用strcmp函数,<br />if(a==0xd6d0) printf(“这是中字&quot，你要先把汉字换成一个unsigned short型;字;&#47：<br />例如unsigned short a=0xd6d0,要比较的汉字也放入一个unsigned short型;   &#47！=判断，如果想用直接用==或
+3
+none
+http://zhidao.baidu.com/question/72893056.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/111954577.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/350217383.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/751923055399737244.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/164479075.html?qbl=relate_question_4

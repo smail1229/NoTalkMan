@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中，数组元素的下标下限为
+none
+也就是你最大可以 int array[65536]是 65535;<br />我亲自做过实验的，<br />如果你非要 int array[65537]的话，编译也不会出错
+15
+none
+http://zhidao.baidu.com/question/313831553.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1946129533067911868.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/428357603.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/563216622.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100949545.html?qbl=relate_question_4

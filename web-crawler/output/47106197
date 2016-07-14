@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+华氏温度转换为摄氏温度的公式为： C=(F-32)*5&#47;9，请编写一个c语言程序。
+输入一个华氏温度，输出一个摄氏温度！
+#include&lt;stdio.h&gt;<br />void main(){<br />    fl憨处封肺莩镀凤僧脯吉oat f;<br />    scanf(&quot;%f&quot;,&f);<br />    printf(&quot;%f&quot;,(f-32)*5/9);<br />}
+31
+none
+http://zhidao.baidu.com/question/199098100.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/511971687.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/60103579.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/48861583.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/58035117.html?qbl=relate_question_4

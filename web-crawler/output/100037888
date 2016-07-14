@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个C语言初学者关于函数调用的简单问题
+&a;我所要问的函数如下<br />main()                      第一行<br />{                           第二行<br /> int a,&b)，但如果用int<br />                                     定义;y:y;          第十一行 在我操作时发现;%d&#92;n&quot,int y)        第七行   问题所在;                     第九行   max函数的操作;,b,z)：在主函数中max    <br />{                           第八行   不是返回值 ，那么这个程序便会<br />                                     提示用一个错误;      第四行      <br /> max(a;                   第三行<br /> scanf(&quot;%d，应该用<br /> z=x&gt;                  第五行   <br />}                           第六行     <br />int max(int x，如用          <br />}                           第十二行 void,b),%d&quot，但  <br /> printf(&quot，这是为什么<br />                                     啊<br />小弟大一初学者，而是只执行<br /> int z?x;                 第十行   void来声明max函数啊，则程序可运行，希望用会的
+<br /><br />如果你这两种方法都不想，你才可以再主函数前调用<br />或者你把后面的max整体放在main前面你的max需要改成void<br />同时你需要在main前面对max进行申明<br />void max(int x ，那么用extern 吧,int y)<br />把这个申明写在main前面
+1
+none
+http://zhidao.baidu.com/question/241133736.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/175649319716112564.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/329101295.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/134809073.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/108266405.html?qbl=relate_question_4

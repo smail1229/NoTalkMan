@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 main() {char a[]={&quot;ABCDE&quot;}; char *p=a; *(p+2)+=2; printf(&quot;%s&quot;,p+1); }运行结果
+none
+fail
+0
+none
+http://zhidao.baidu.com/question/57076025.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/439156079.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/239459055833872124.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/114346219.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1366102609766880819.html?qbl=relate_question_4

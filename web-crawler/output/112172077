@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中，sizeof运算符有什么作用？
+none
+fail
+5
+通常用来计算一个变量或者类型的大小的,单位是字节<br />譬如sizeof(char)==1, sizeof(int *)==4 这些是计算的类型的大小,char是一个字节，int*是4个字节(其实32位系统下指针都是4个字节,譬如char*,void*等等)<br />另外譬如char a;那么sizeof(a)==1<br />int b;那么sizeof(b)==4(这个跟编译器有关,有些是2)<br /><br />另外在计算结构和类的大小的时候,也可以用sizeof来计算该类或者结构所占的字节.只是计算方法根据编译器不同而有些不同,但基本的算法都一样,譬如char是1个字节,int*是4个字节,double是8个字节,double*是4个字节这样子.有些编译器会进行对齐处理,有些不会.但是这个一般没有太大的意义.<br /><br />在应用方面,譬如<br />1.计算数组元素个数<br />int a[]={1,2,3,4,5,6,7,8,9,20};<br />sizeof(a)&#47;sizeof(a[0])就是数组a的大小除以单个元素的大小,那么结果就是数组a的元素个数,这样比自己数来的方便,尤其是数量比较多的时候.在对数组进行遍历操作时,譬如for(int i=0;i&lt;sizeof(a)&#47;sizeof(a[0]);++i){...}<br />这样就不容易出错,不然很可能会出现少1或者多1的失误<br /><br />2.动态申请内存(用malloc,calloc,realloc的时候)<br />譬如要申请一段内存存放30个double类型数<br />那么可以用(double*)malloc(sizeof(double)*30)也就是申请8*30个字节的空间,并且把首地址返回给某个double*类型的变量 <br /><br />3.有些函数的参数需要字节数的时候
+http://zhidao.baidu.com/question/39254331.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/71231631.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/19171773.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/72102763.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/82072912.html?qbl=relate_question_4

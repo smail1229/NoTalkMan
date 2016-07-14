@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中调用函数的返回值只要是指针，定义函数是不是就得加*
+none
+是的<br />例如int *ff(a[],n) {return a[n]}<br />那么返回的就是a[n]这个元素,并且有一个指针指向它.
+2
+none
+http://zhidao.baidu.com/question/149093767.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/139925529.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/871417383625634492.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/44717662.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211490601.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言编程中如何判断一个整数数组的到了结尾，以及数组的长度？
+none
+ 语言不做数组边界检查<br />但是可以通过 sizeof（）返回数组（非指针）的字节长度;xx  随意正整数<br /> <br />int  shu_zu_len=   sizeof(a)&#47：<br />int    a[ xx ]；<br />可以这样算    ;/sizeof(int);&#47
+6
+none
+http://zhidao.baidu.com/question/211179392.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/516548616.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/198665111.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/352671210.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/94812251.html?qbl=relate_question_4

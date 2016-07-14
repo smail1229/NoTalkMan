@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+【急】用C++或是C语言解决：选择结构练习题
+车托运行李，其余超过部分按每公斤0.35元收费，要求计算并输出托运费.50元收费，按每公斤0。例如不超过50kg，要根据重量按不同的标准收费.35元收费。若超过50kg按每公斤0。现输入托运行李重量。（结果保留2位小数）<br /> <br />样例输入<br />61<br />样例输出<br /><br />23
+fail
+1
+none
+http://zhidao.baidu.com/question/222829322.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/360174869997309652.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/163259926.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/174734161.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/171149687.html?qbl=relate_question_4

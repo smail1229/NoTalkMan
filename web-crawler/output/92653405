@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言程序设计：输入n个数，求n个数中偶数的平均值
+none
+fail
+0
+#include&lt;stdio.h&gt;<br />void main()<br />{<br />  int n,i,k;<br />  &#47;&#47;变量i是用在循环上 k是用来暂时存储输入的数  n就不用说了<br />  int p=0;<br />  &#47;&#47;变量 p 是用来记录偶数的个数  初始为0<br />  double sum=0.0;<br /> &#47;&#47;变量 sum 是用来存储所有偶数的总和  之所以定义为浮点型 看实验数据1<br />  printf(&quot;n:&#92;n&quot;);<br />  scanf(&quot;%d&quot;,&n);<br />printf(&quot;****************************&#92;n&quot;);<br />  for(i=1;i&lt;=n;i++)<br />  {<br />   scanf(&quot;%d&quot;,&k);<br />    if(k%2==0)<br /> { <br />  sum+=k;<br />  p++;<br /> }<br />  }<br />   printf(&quot;%f&quot;,sum&#47;p);<br />}<br /><br />&#47;*<br />实验数据1  <br />n=4;<br />输入<br />1 2 2 4<br />结果<br />2.666667<br /><br />实验数据2  <br />n=4;<br />输入<br />1 2 3 4<br />结果<br />3.000000<br />*&#47;
+http://zhidao.baidu.com/question/138442882.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/6447041.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/408229976.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/1861728958923031187.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/264510466017941925.html?qbl=relate_question_4

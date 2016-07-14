@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中%5.2f 那个5代表“总共有5位”，是什么意思
+none
+1，你随便写个程序,0表示空格<br />其实很简单，总共有5位就是这个数字要显示5位，但是前面的0是不显示的，相当于<br />0001，为空格，就是00001.1。<br />如果是1的话，你的数字是1比如，试一下就行了
+6
+none
+http://zhidao.baidu.com/question/8455565.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/239850213.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/73906536.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/90523968.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/252019941.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+请高手解答一下C语言的一个语句:fabs(x-y)&lt;1.0e-10)
+其中的1.0e-10不懂理解
+直接用x==y会出问题1.0e-10就是1*10的-10次方。 <br />这是C中的科学计数法形式<br />fabs(x-y)&lt，e或E表示10.0e-10)这句话是用来判断x和y是否相等，上述语句是x和y相差在一定范围内时认为x和y相等;1
+10
+none
+http://zhidao.baidu.com/question/92878695.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/268150981.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/11705403.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/563715176.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1925335940956847787.html?qbl=relate_question_4

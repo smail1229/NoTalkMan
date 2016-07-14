@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+C语言if语句问题
+none
+而double类型的变量不能向float转换，double的格式控制符是%lf，int型可以向float转换。转换规则格式控制符有问题，%f是float的格式控制符，你改成int可以运行是因为你的格式控制符是float的，%d是int的格式控制符，所以会出错：只能窄域向宽域转换
+1
+none
+http://zhidao.baidu.com/question/126601166.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/710772868806805645.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/421865450.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/109998070.html?qbl=relate_question_3

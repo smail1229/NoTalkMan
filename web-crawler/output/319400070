@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言函数返回字符串
+none
+fail
+1
+在time1()函数里，char now[]是个在函数里声明的临时变量<br />函数返回 char * p之后 ，char now[]的空间就已经释放掉了<br />如果你想返回时间字符串<br />把char now[80]； 改成 char *now =(char *)malloc(sizeof(char)*80);<br />用malloc函数申请空间，函数返回之后空间就不会被释放掉了<br />VC++ 6.0编译通过
+http://zhidao.baidu.com/question/128466074.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/158082713.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/251402405.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/23636785.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/547845024.html?qbl=relate_question_4

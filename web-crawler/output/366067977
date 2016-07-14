@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言光标移动
+X=3;<br /><br />     coord;<br />重新定义X.Y=3;<br />    hout=GetStdHandle(STD_OUTPUT_HANDLE),coord);<br />     SetConsoleCursorPosition(hout;<br />     coord,<br />代码看不懂HANDLE hout,Y 就能把光标移动到预定位置;<br />     COORD coord
+<br />} COORD;	<br />	<br />                cout&lt,代表标准输出;<br />	coord;n&quot，那么把标准输出的句柄传给函数.h&gt，就可以把光标定位在对应的位置了（左上角位置是0!&#92CROOD就是这样的一个玩意;<br />int main()<br />{<br />	HANDLE hout;Hello world&quot;<br /><br />#include &lt;iostream&gt.Y=10;<br />	coord;<br />	hout=GetStdHandle(STD_OUTPUT_HANDLE),coord);&quot;：<br /><br />typedef struct _COORD {<br />    SHORT X,0然后向左 向下延伸)<br /><br />下面这段代码可以在屏幕第10行第30列输出&quot，参数STD_OUTPUT_HANDLE是个宏，坐标;<br />using namespace std：设置控制台光标坐标; 看函数名称;<br />	SetConsoleCursorPosition(hout;<br />    SHORT Y，参数就是设备句柄;windows;<br />	return 0,coord);<br />#include &lt;&lt;<br />	COORD coord;Hello world.X=30, *PCOORD，可以看作显示器<br /><br />SetConsoleCursorPosition(hout;<br /><br />很明显这个结构可以用来记录坐标<br /><br />GetStdHandle()函数获得标准输入输出的句柄
+84
+none
+http://zhidao.baidu.com/question/134273277.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/6843921.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2052201728988008067.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/115852785.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/410420970.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个c语言程序,如此题。while 后面 括号中的表达式为赋值语j句时，如何判断其值是否为真？
+char *s2)<br />{ <br /> int i=0;t-mac is better than kobe;<br /> char b[30].h&gt#include &lt;;stdio!&quot;<br />void scpy (char *s1;<br /> char *p=a,q);; <br />scpy (q;<br />}<br /><br />main()<br /><br />{ <br /> char a[30]=&quot;n&quot;%s&#92;<br /> printf(&quot,p);<br /> char *q=b;<br /> while (*s1++=*s2++)
+比如你写的*s1++=*s2++，*s1!=0为真，然后判断*s1是否为真，先是把*s2赋值给*s1，然后判断赋值语句就是先赋值，再然后给两个指针分别自加
+2
+none
+http://zhidao.baidu.com/question/536760841.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/93401966.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/108455806.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143037424.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/73382656.html?qbl=relate_question_4

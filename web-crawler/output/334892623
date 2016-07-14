@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言求解，，，任意输入10个数，分别计算出其中正数和负数的和。。。我的程序错在哪里求解。感谢
+0)<br />    zheng=zheng+a[i],zheng=0,zhen=%d&quot;=10;<br /><br />main()<br />{<br />    int a[10]#include&lt;<br />    else<br />    fu=fu+a[i];stdio;;<br />    getch();%d&quot,fu=0;<br />    printf(&quot;fu=%d,&a[10]);<br />    scanf(&quot;i&lt;i++)<br />    if(a[i]&lt;,zhen).h&gt;<br />    for(i=1;<br />    int i,fu
+zhen=%d&quot;10！写程序还是要靠自己想的;i&lt;i&lt，自己写的永远比你只看要有效果的多;<br />		else<br />			fu=fu+a[i],&a[i]);<br /><br />main()                                               /<br />    for(i=1;*void main() 才是正确的*&#47#include&lt,还有数组的变量是从0开始的*/%d&quot，这才是变量，应该多看看别人写的程序;<br />	for(i=0;<br />    printf(&quot;i++)<br />		scanf(&quot！;stdio，然后看完后自己一定要去写一遍;<br />    int i;<br />{<br />    int a[10],zheng=0,zhen),zheng);,zhen=%d&quot,zheng=0;<br />    zheng=zheng+a[i];fu=%d;10;，你可以尝试写过一个别的程序;<br />		printf(&quot,fu,fu。;=10;<br />    }<br />错误还是很多的;.h&gt。下面是一个可行的程序;       /<br />    scanf(&quot;*这里连正负都不分了啊*/;i++)<br />		if(a[i]&gt;<br /><br />void main()<br />{<br />    int a[10],i;stdio;%d&quot;fu=%d;i++)<br />    if(a[i]&lt,&a[10]),fu=0;<br />	for(i=0;<br />    else<br />    fu=fu+a[i];*输入时变量应是&a[i]，可以把它做参考。<br /><br />#include&lt;0)                          /0)<br />			zheng=zheng+a[i].h&gt;i&lt,fu=0;<br />    getch()
+7
+none
+http://zhidao.baidu.com/question/272515790.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/198810389.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1430449667729664059.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/201627855.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1539717983309939187.html?qbl=relate_question_4

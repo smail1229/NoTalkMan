@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中return的作用是什么，能具体点吗
+none
+fail
+2
+作用1：表示返回，这个程序可以结束了，可以不带参数，如果你的成员运行到这里，你就不往后运行了，可以加一个return语句，就不会再执行了<br />作用2：返回指定类型的值，在定义函数的时候不是有 int af();int 这里是返回值，return 后面接的就是这个返回值，这个函数执行后就可以给别的变量赋值了，他的值就是return 后面的值
+http://zhidao.baidu.com/question/14902400.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/497192503.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/403158008.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/128799090.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/458420953.html?qbl=relate_question_4

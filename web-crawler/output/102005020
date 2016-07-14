@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中关于char[5]={‘A’，‘B’，‘C’，‘D’，‘E’，‘&#92;0’}；
+这样对吗？长度对吗？要不要把5改成6
+‘C’，‘E’，char[]={‘A’你的数组长度是错误的，‘B’;<br /><br />还有就是不要用char做数组的名字，例如 char *p=&quot，‘D’，‘&#92，推荐下面的两种改法吧；<br />2）把 5 改成 6或者更大的值<br />3)用指针;0’};，其实有六个元素;ABCDE&quot：<br /><br />1） 去掉5
+2
+none
+http://zhidao.baidu.com/question/125435428.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/143206147.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/537045095.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/502639703.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/11010134.html?qbl=relate_question_4

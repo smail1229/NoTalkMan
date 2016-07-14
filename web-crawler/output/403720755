@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言问题，要求是学习static定义静态变量的用法，请问下面这个程序符合要求吗，谢谢
+var equal %d &#92;n&quot;stdio：<br />#include &quot;<br />	static int static_var=0;<br />	var++;3;<br />	for(i=0;<br />	printf(&quot;static var equal %d &#92;<br />}<br />void main()<br />{<br />	int i,static_var);n&quot;;n&quot.h&quot;;<br />	static_var++;i&lt;<br />varfunc()<br />{<br />	int var=0;);<br />	printf(&quot;<br />	printf(&quot,var);&#92;i++)<br />	varfunc()程序
+存在于程序运行的全过程符合要求,var却每次都是0,这里的static_var会每次输出不同的结果!static变量只在函数内部可见.<br />普通局部变量在函数运行结束便被释放.所以
+0
+none
+http://zhidao.baidu.com/question/289466855.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/62139533.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/261702466.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/8153780.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/90486076.html?qbl=relate_question_4

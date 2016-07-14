@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+各位大神帮我看一下这个C语言程序，主要是关于break的问题。
+break;i++)<br />{<br />printf(&quot.&#92;=a[i])<br />{<br />    for(k=10;Please enter 10 int;i++)<br />printf(&quot;n&quot;<br />}  <br />}<br />}<br />for(i=0;<br />a[k]=a[i];<br />printf(&quot,s;<br />}<br />for(i=0，插入的数字也按升序排入数列中;9,k,i);k&gt，然后排列为升序数列;%4d  &quot，放在22222就出问题;i&lt，然后插入一个整数;&#92;k&gt我用11111和22222来代替break的位置了;%d&quot,a[i]);<br />a[i]=t,&a[i]);10;<br />int main()<br />{<br />int a[11];i&lt;stdio;i++)<br />{<br />    if(s&lt;11;<br />if(s&gt;<br />printf(&quot;<br />for(i=0;10,i;i++)<br />printf(&quot？还有;<br />else <br />{<br />for(i=0;}<br />    a[i]=s;<br />scanf(&quot，if里面不是不能带break吗;<br />}<br />for(i=0;k--)<br />if(a[i]&gt,a[i]);;);%d&quot;Please enter the nmuber you want to insert？<br />#include&lt;<br />scanf(&quot;<br />printf(&quot.h&gt;n&quot;n&quot;);i&lt;);a[k])<br />{<br />t=a[k];i;,t;a[9])<br />a[10]=s;);i&lt;i++)<br />for(k=9;i&lt;10;;a[%d]=&quot;&#92。我发现break放在11111就行;<br />return 0;n&quot;<br />printf(&quot;%4d  &quot.&#92,&s)，但是放在这两个位置不应该是一样的吗;k--)<br />{a[k]=a[k-1];=i+1，break放在11111的位置和放在22222的位置有什么区别？这是一个输入10个整数;;
+11111和22222在哪里。。。
+0
+none
+http://zhidao.baidu.com/question/1366230267399834059.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/523659328.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/531243838.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/492181448.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1637819374646323660.html?qbl=relate_question_4

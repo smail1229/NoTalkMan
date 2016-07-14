@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+一个C语言程序.大家帮忙找些错误
+龟兔赛跑<br />Description <br /><br />乌龟和兔子举行了一场赛跑，骄傲的兔子跑跑停停，乌龟自始至终不敢松懈。当发号令响后，我们每<br /><br />隔固定时间间隔记录此时刻乌龟和兔子从起点跑出的距离。现在需要你编程回答在各个时刻谁领先或<br /><br />者是平局。<br /><br />Input <br /><br />第一行有一个整数k(1≤k≤100)，表示共记录了k个时刻的数据。 <br />其后的k行，每行包含2个整数，分别表示乌龟、兔子所跑出的距离。<br /><br />Output <br /><br />对每个时刻输出一行，输出当前时刻和领先者的信息，其格式请参见Sample Output。<br /><br />Sample Input <br /><br />3<br />1 2<br />4 3<br />5 5<br /><br />Sample Output <br /><br />time 1:rabbit leading<br />time 2:tortoise leading<br />time 3:drawing<br /><br />#include &quot;stdio.h&quot;<br />int main()<br />{<br /> int a[100],b[100],c[100],d[100],i,k;<br /> scanf(&quot;%d&quot;,&k);<br /> for(i=0;i&lt;k;i++)<br /> {<br />  scanf(&quot;%d %d&quot;,&a[i],&b[i]);<br />  if (i==0)<br />  {<br />   c[i]=a[i];<br />   d[i]=b[i];<br />  }<br />  else<br />  {<br />   c[i]=c[i-1]+a[i];<br />   d[i]=d[i-1]+b[i];<br />  }<br /> }<br /> for(i=0;i&lt;k;i++)<br /> {<br />  printf(&quot;time %d:&quot;,i+1);<br />  if(c[i]=b[i])<br />   printf(&quot;drawing&#92;n&quot;);<br />  else if(c[i]&gt;b[i])<br />   printf(&quot;tortoise leading&#92;n&quot;);<br />  else<br />   printf(&quot;rabbit leading&#92;n&quot;);<br /> }<br /> return 0;<br />}<br /><br />这段代码编译通过可运行,输入部分正确,但是后来发现输出的结果都是相同的,肯定中间有什么逻订绩斥啃俪救筹寻船默辑错误,大家帮忙找找~~
+怎么让订绩斥啃俪救筹寻船默我想起了acm~~<br />if(c[i]=b[i])--&gt;if(c[i]==b[i])
+0
+none
+http://zhidao.baidu.com/question/227811957.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/172414620.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/214090045.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/679950759979283092.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/556261736.html?qbl=relate_question_4

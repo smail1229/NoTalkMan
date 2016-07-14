@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言试题 有点疑问 大家解释一下
+<br />  printf(&quot;n&quotmain()<br />{<br />  int a=3;%d&#92;<br />}   我在书上看到*的优先级比-=高,(a+a-=a*a));；<br />能给个详细的步骤不，那这个题这么怎么解
+。因为;n&quot;%d&#92：(a+a-=a*a)中-=的优先级最低：<br />printf(&quot：(（a+a)-=(a*a))  而赋值符号左边必须是一个变量，所以应该等价于。应该改成，但现在是a+a所以错误,a+(a-=a*a));<br /><br />改成这样后输出结果为这个程序是错误的
+1
+none
+http://zhidao.baidu.com/question/199894268.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/192571660.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/192571022.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/177868202.html?qbl=relate_question_3

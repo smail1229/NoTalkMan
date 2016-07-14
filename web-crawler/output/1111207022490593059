@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求c语言大神写一函数独立实现标准字符串库的strcmp函数
+none
+* 注释以下的五行(while循环)可以简写为;  <br />    while((*str1==*str2)&&*str1;abcdefg&quot;&#92： <br />     * for(,str2++);  <br />    else return -1!=&#39;;(*str1==*str2)&&*str1;  <br />  <br />    return 0;0&#39;&#92;%d&#92;0&#39;&#92;12345&quot;%d&#92;n&quot,st2));,st4));str1++;  <br />    printf(&quot;0&#39;  <br />  <br />    char *st3=&quot;&#92;; <br />     *  *&#47!=&#39,strcmp(st3;abdefg&quot;;  <br />}  <br />  <br />int main()  <br />{  <br />    char *st1=&quot,strcmp(st1;) return 1;)  <br />    {  <br />        str1++;  <br />    }  <br />  <br />    if(*str1==&#39;0&#39;  <br />        str2++;12345&quot;&&*str2==&#39;n&quot;;;  <br />    char *st2=&quot;  <br />    char *st4=&quot,const char *str2)  <br />{  <br />    /  <br />    printf(&quot#include&lt;.h&gt;  <br />  <br />int strcmp(const char *str1;stdio
+0
+none
+http://zhidao.baidu.com/question/29386924.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/65712812.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/687978922574874164.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/116395053.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/2267312335695986668.html?qbl=relate_question_4

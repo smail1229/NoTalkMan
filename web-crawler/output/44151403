@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 我想问的是p-a[0]是什么意思？
+<br />           void main()<br />           { int a[3][4]={1;%4d&quot,8,2,12};p&lt,7;&#92;<br />             }<br />             printf(&quot;;;<br />             printf(&quot;<br /><br />             getch(););%d&quot,10;a[0]+12;%d&quot,3,a),4;p++)<br />             { if((p-a[0])%4==0)printf(&quot;<br />             printf(&quot;<br />             int *p,5;);;n&quot,p+1),6,9.h&gt;<br />             for(p=a;<br />             printf(&quot;&#92;n&quot,*p),11;stdio#include &lt
+里面方数组首地址，p-a[0] 就是看p所指向的数组元素的地址跟a[0][0] 的位移，p是指向数组首地址的指针，for循环就是把这个数组 按3*4矩阵输出，a[0]是第0行的地址，二维数组不是可以看作元素都是一维数组的一位数组么，12的地址正好是p+11，所以a[0]也是数组元素a[0][0]的地址程序定义了一个3行4列的二维数组a
+4
+none
+http://zhidao.baidu.com/question/148091203.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/228524692.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/141847356.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/76464947.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/206114649.html?qbl=relate_question_4

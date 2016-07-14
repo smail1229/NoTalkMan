@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求100以内所有质数的和，统计质数的个数并输出每个质数（每行5个）的C语言程序（c++的）
+哪位高手帮帮忙，谢谢了
+<br /> return 0;<br /> for(i=2;&lt;每5个换一行<br />    k++;<br />    sum += i; /endl;<br />    cout&lt，把100以内的2，就是所有质数啦 <br /><br />#include&lt;总和为;<br /> bool flag=true,j;endl：&quot;&lt;&lt;&#47!=0 && i%5;=100，3,sum=0;i&lt;&lt;cmath&gt;<br />int main(){<br /> int i;sum&lt;&quot!=0 && i%7 。简单点做法，7的倍数（除2之外）去掉;;i&lt;&lt;&lt上面两位的复杂度有点高;<br />#include&lt;<br />using namespace std; &quot;i++)<br /> { <br />  if(i==2 || (i%2,k=0;iostream&gt!= 0) )<br />  {<br />    if(k%5==0)<br />     cout&lt。!=0 && i%3;endl;&lt;&lt;<br />  }<br />}  <br />cout&lt;<br />cout&lt;&quot，5
+15
+none
+http://zhidao.baidu.com/question/159516496.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/502626152.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/424964514.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/341000262.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/91186957.html?qbl=relate_question_4

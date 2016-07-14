@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求编程：用for语句求，C语言。提如下
+一求从100米高度自由落下，每次落地后返跳回原高度的一半，在落下。求他在第十次落地是共经过多少米？第十次反弹多俯偿碘锻鄢蹬碉拳冬哗高？                要用for语句！谢谢啦！
+#include&lt;stdio.h&gt;<br />main()<br />{<br />float a,b;int i;<br />a=100;<br />b=0;<br />for(i=0;i&lt;=9;i++)<br />{ <br /> b+=a;<br /> a=a/2;<br />}<br />printf(&quot;a=%f&quot;,a);<br />printf(&quot;&#92;n&quot;);<br />printf(&quot;b=%f&quot;,b);<br 俯偿碘锻鄢蹬碉拳冬哗/>}<br />结果：a＝0.10，b＝199.80<br />以上，a是第10次反弹高度，b是第10次落地经过的路径长度。
+0
+none
+http://zhidao.baidu.com/question/67491471.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/418561415.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/26769181.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/253480545.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1754013151185461228.html?qbl=relate_question_4

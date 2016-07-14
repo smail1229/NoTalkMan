@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言，三个数a,b,c按大小顺序输出，求流程图
+none
+c=t,t；然后比较a和c的值;按从小到大的顺序输出a=%d;c)   {t=b，如果a大于b;}<br />printf(&quot;)，c了<br />程序如下<br />#include&lt，c,c=%d&#92,b;<br />scanf(&quot；<br />然后依次比较a;a=c;<br />printf(&quot,&a;c)    {t=a;;}<br />if(a&gt;a=b,a,&b；  接着就可以按照从小到大的顺序依次输出啊a,b；<br />具体过程是这样<br />先比较a和b的值，c ;<br />if(a&gt;，则利用t把b和c的值进行交换;%d%d%d&quot;b)   {t=a，b;c=t先令一个中间值 t ;}<br />if(b&gt：&quot，则利用t把a和b进行交换;stdio,&c),c;n&quot;请依次输入a，如果b大于c，；最后比较b和c的值，b,b=%d，如果a大于c.h&gt，则利用t把a和c的值进行交换;b=c;<br />void main()<br />{<br />int a;b=t,c)，b
+29
+none
+http://zhidao.baidu.com/question/128377134.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/212624219.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/9859435.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/143733458.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/21616381.html?qbl=relate_question_4

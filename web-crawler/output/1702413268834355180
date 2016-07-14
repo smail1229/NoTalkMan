@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言中简单问题，希望能举个简单程序例子
+0&#39!=&#39;&#92;)<br />用&#39;和&#39;)<br />while((s[i]=getchar())!=&#39;&#92;0&#39;n&#39;&#92;&#92？;n&#39;有什么区别static的用法<br />while(1)的用法<br />while(p
+n&#39？;&#92，这个函数就永远返回1<br />【while(1)的用法】<br /><br />while(1)本意表示永远循环，如果是则继续循环<br />【用&#39,3;&#92;0&#39;有什么区别;0&#39;和&#39;n&#39;&#92..;<br />    i++;n&#39;n&#39,;0&#39;时继续循环;,2,4;<br /><br />    return i;&#92;&#92，并判断这个字符是否为&#39，或者是循环体内部有单独控制循环结束的break语句<br />【while(p!=&#39【static的用法】<br /><br />int counter(){<br />    static int i=0;&#92，即“死循环”!=&#39;0&#39;&#92;&#47，&#39;<br /><br />}<br />/)】<br /><br />字面意思是从控制台读入字符存储到s[i];*加上static，&#39，每次调用函数会返回1;)】<br /><br />字面意思是p不为&#39;&#92.不加static;是空字符（通常表示字符串的结束）？】<br /><br />区别大了去了。所以用在确实需要死循环的地方。你只写这么一句我没法解释更多<br />【while((s[i]=getchar());*把这个static加上或去掉就会导致这个函数有不同的效果*&#47
+0
+none
+http://zhidao.baidu.com/question/125706852.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/506295330.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/317598710.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/38992478.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/195201907.html?qbl=relate_question_4

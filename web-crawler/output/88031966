@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言double英文意思
+&lt,y=4; ;<br />题目是,a=7;<br />}<br /><br />结果出现error C2296;&lt;(x+a%3*(x+y)%2&#47;<br /> double x=2.5.h&gt;4)&lt,y=4;4<br />设x=2: &#39：<br />x+a%3*(x+y)%2&#47;endl;iostream.7<br />怎么改, left operand has type &#39;double&#39;%&#39;<br /> cout&lt;<br />void main()<br />{<br /> int a=7.7.5: illegal？#include &lt
+%&#39double是双精度浮点数 <br />error C2296; <br /><br />这句话的意思是说左操作为double类型: illegal; ;double&#39;4 改为 <br /><br />x+(int)(a%3*(x+y))%2&#47，不合法 <br /><br />%取余操作不能用非整数进行，所以会不合法 <br /><br />x+a%3*(x+y)%2&#47: &#39, left operand has type &#39
+15
+none
+http://zhidao.baidu.com/question/76710522.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/235629263.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/2116913468735151667.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/367918459400567524.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/937585569142792612.html?qbl=relate_question_4

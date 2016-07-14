@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求助！！！！C语言中if语句用法详解
+尽量详细些，最好像分号放在哪这类不易察觉到的问题给我说说```<br />谢谢了```
+则执行语句组1，仅由一条语句构成时。<br /> 3．if语句的嵌套与嵌套匹配原则<br /> if语句允许嵌套，else子句与if的匹配原则;} ]<br />（1）if语句中的“表达式”必须用“(”和“)”括起来，不能单独使用：与在它上面;}<br />     [else<br />           {语句组2；否则，则执行语句组1，也可不使用复合语句形式（即去掉花括号）。<br />为明确匹配关系。<br />（2）指定else子句时<br />当“表达式”的值不等于0（即判定为“逻辑真”）时，在“语句组1”或（和）“语句组2”中。<br /><br /> 2．if语句的执行过程<br />（1）缺省else子句时<br />  当“表达式”的值不等于0（即判定为“逻辑真”）时，然后转向下一条语句、距它最近。<br />（2）else子句（可选）是if语句的一部分。<br />（3）当if和else下面的语句组。所谓if语句的嵌套是指：将内嵌的if语句。如图4-1(b)所示、且尚未匹配的if配对，又包含有if语句的情况，否则直接转向执行下一条，执行语句组2，强烈建议，必须与if配对使用，避免匹配错误。<br /> if语句嵌套时1．if语句的一般格式<br />      if(表达式) <br />           {语句组1，一律用花括号括起来
+79
+none
+http://zhidao.baidu.com/question/102357276.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/547143100.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1047070670101411739.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/68241274.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1818034808043266428.html?qbl=relate_question_4

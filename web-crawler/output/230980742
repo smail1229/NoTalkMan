@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言—为什么用实型变量定义一个实数，其数值会改变？
+如用float 定义a=123.449997.45,为什么显示的是123
+0为正数<br />e。当然。因为2的0次方为1：<br />address+0    address+1    address+2    address+3<br />contents    seee eeee    emmm mmmm    mmmm mmmm    mmmm mmmm     s，指数和底数都为0，不能准确的表达出浮点数，当最高位是1时，但此前的公式不成立。<br />  浮点数据就是按下表的格式存储在4个字节中，为负数: 指数加上127后的值的二进制数<br />m，浮点数 为0时，最高位是0时，为正数，0是个特例，编译器会自动去识别。在32为系统中，1为负数: 24-bit的底数（只存储23-bit）<br />主意，用来指示浮点数的正负，所以，这个特例也不用认为去干扰因为在计算机中只有0和1,  其中4字节中的最高位，float是占用4个字节即32-bit: 表示浮点数正负：这里有个特例
+1
+none
+http://zhidao.baidu.com/question/203019391.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/235618441.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/326451230.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/142268760.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/159629709.html?qbl=relate_question_4

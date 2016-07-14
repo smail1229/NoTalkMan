@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+急求C语言找错指导!!!!!(返回字符串的函数问题)
+<br />   sleep(5);<br />  }<br />哪位帮忙找下错在哪里,运行后出现乱码;<br />   printf(&quot;<br />   *string2=str2;yes&quot.h&quot;<br />   char str1[5]=&quot;stdio;;<br />   *string1=str1;2;please input a integer;;,*string2:&quot;<br />   scanf(&quot;<br />  }<br />  main()<br />  {<br />   int num2;%s&quot;%d&quot;<br />   num=num1&#47;no&quot;<br />   else<br />   return string2;<br />   printf(&quot;<br />   result=fun(num2);;<br />   if(num*2==num1)<br />   return string1,&num2);),result);<br />   char *result;<br />   clrscr(),str2[5]=&quot;<br />  char* fun(int num1)<br />  {<br />   char *string1#include&quot;<br />   int num
+ <br />printf(&quot;,*string2;&#47。<br /><br />可以如下定义; <br />string2=str2.h&gt，<br />所以string1返回的地址里的字符串已经失效了;no&quot;; <br />char *result; <br />scanf(&quot:&quot;;yes&quot;<br />int num;<br /><br />应改称<br />string1=str1;2;<br />static char str2[]=&quot;*    *string1和*string2是指向这个地址的数据   *&#47，作为全局变量来使用才可以<br />因为在C语言中函数内的局部变量在函数结束时销毁,&num2);no&quot，你也可以定义成静态变量别让它消失第一处错误<br /><br />*string1=str1;yes&quot;; <br />result=fun(num2); <br />else <br />return string2;%s&quot; <br />} <br />void main() <br />{ <br />int num2，也可以在函数外定义<br /><br />static char str1[]=&quot; <br />string1=str1;<br />static char str2[]=&quot;<br /><br />char* fun(int num1) <br />{ <br />char *string1，<br />所以返回乱码;please input a integer; <br /><br />这些应该在函数外定义;;no&quot;%d&quot;把str1字符串的地址赋给string1指针; <br /><br />/ //stdio;;;同上<br /><br />#########################################<br /><br />第二出错误<br /><br />char str1[5]=&quot; <br />if(num*2==num1) <br />return string1;); <br />printf(&quot。<br />string2=str2,str2[5]=&quot; / <br />static char str1[]=&quot; <br />num=num1/yes&quot;<br /><br />######################################3<br /><br />给你完整代码<br /><br />#include&lt; <br />*string2=str2,result);
+1
+none
+http://zhidao.baidu.com/question/112889499.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/187722927.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/248712696.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/556972904.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/210896781.html?qbl=relate_question_4

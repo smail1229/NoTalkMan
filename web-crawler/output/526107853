@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+求一个c语言程序 题目是 0到100的和
+none
+ number);<br />int main(void){<br />    int i; i&lt，样例程序;stdio。尽管使用循环语句不会出现中间数据超范围的问题;<br />int main(void){<br />    int number;<br />    <br />    printf(&quot;<br />    }<br />    <br />    printf(&quot;<br />    int number;<br />    <br />    return 0; ++i)<br />    {<br />        number += i：<br />#include &lt;%d&#92;stdio;2，参考程序如下，也可以使用循环来求解;<br />    <br />    for (i=0：<br />#include &lt，但是中间过程可能超过整形范围，不过这个可以通过简单地处理解决这个问题;<br />    <br />    number = 0.h&gt;<br />}<br /> <br />当然;n&quot;=100, number);<br />    <br />    number = (0+100)*101/<br />}<br /> <br />总体来说使用等差数列求和公式的方法速度更快;n&quot;;%d&#92;<br />    <br />    return 0.h&gt;最简单的求法就是使用等差数列的求和公式
+3
+none
+http://zhidao.baidu.com/question/126494113.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/69897639.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/100870884.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/54964583.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/85929922.html?qbl=relate_question_4

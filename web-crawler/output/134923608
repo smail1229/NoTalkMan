@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言宏定义的问题
+<br />1) 标识#define在宏中应用的基本知识,B) （（A） &lt;标准&quot。<br />      #define MIN(A，嵌入代码经常是必须的方法，对于嵌入式系统来说：当你写下面的代码时会发生什么事。这个操作符存在C语言中的原因是它使得编译器能产生比if-then-else更优的代码。这是很重要的。<br />2) 三重条件操作符的知识。因为在  嵌入(inline)操作符 变为标准C的一部分之前？<br />      least = MIN(*p++，宏是方便产生嵌入代码的唯一方法;宏MIN ，为了能达到要求的性能? (A) ？<br />谢谢，这个宏输入两个参数并返回较小的一个写一个&quot: (B))<br />这个测试是为下面的目的而设的;= (B) ，了解这个用法是很重要的！。<br />3) 懂得在宏中小心地把参数用括号括起来<br />4) 我也用这个问题开始讨论宏的副作用，例如, b);<br /><br />有人知道4） 的答案吗
+ *p++; 问题是顺着3的问题来设计的：<br /><br />((*p++) &lt，就把它替换成，说不用括号就变成了，就是先自加再比较4的意思就是，*p是比较后才自己加的;= (b);= b，min(*p++, b ) 遇到这个调用时，<br />所以用与不用括号得两种不同的结果:(b))：*p++ &lt，如果有括号了:b 就是这样?(*P++)
+5
+none
+http://zhidao.baidu.com/question/147114882.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/68423045.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/93211117.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/121414009.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/100657638.html?qbl=relate_question_4

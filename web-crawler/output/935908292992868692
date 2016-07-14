@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+在C语言中。设int a =3;则表达式a&lt;1&&--a&gt;1的计算结果和a的值分别是？为什么答案中
+在C语言中。设int a =3;则表达式a&lt;1&&--a&g订花斥拘俪饺筹邪船矛t;1的计算结果和a的值分别是？为什么答案中说A的值是2.
+a应该是0才对<br />a&lt;1值为0，当遇到&&操作时，不管后面是啥，都不影响结果，于是c会把后面部分优订花斥拘俪饺筹邪船矛化掉不再执行，因此--a实际上是不操作的
+4
+none
+http://zhidao.baidu.com/question/535046048.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/26467796.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/279064749.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/321709597.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/339618720.html?qbl=relate_question_4

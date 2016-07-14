@@ -1,0 +1,11 @@
+电脑/网络 编程语言 其他编程语言 
+请大家帮忙找一下我编的这个C语言程序有什么错误，谢谢啦
+y is;;n&quot,&x):%d&#92,x;stdio;<br /> scanf(&quot;%d&quot.h&gt;);<br />  printf(&quot;1)<br /> {<br />  y=x;<br /> printf(&quot;<br />int main<br />{<br /> int y;=x&&x&lt;<br /> }<br /> else<br /> {<br />  y=3*x-11,y);n&quot;y is;n&quot,y);please enter x;<br /> }<br /> else if(1&lt:%d&#92:%d&#92:&quot,y);y is;;;<br />  printf(&quot;<br /> if(x&lt;10)<br /> {<br />  y=2*x-1;<br />  printf(&quot;;<br /> }<br /> return 0#include&lt
+改成<br />int main()<br /><br />希望对你有帮助。。仍有问题可以HI我。。。。。int main<br />这个写错了。。
+2
+none
+http://zhidao.baidu.com/question/344914836.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1494875171031828339.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/556261736.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/872588918055391172.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/214090045.html?qbl=relate_question_4

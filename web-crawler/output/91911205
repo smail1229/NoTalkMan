@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言printf中%g的含义是什么？代码如下
+none
+fail
+1
+转换说明及作为结果的打印输出％a 浮点数、十六进制数字和p-记数法（C99）<br />%A    浮点数、十六进制数字和p-记法（C99）<br />%c    一个字符 <br />%d    有符号十进制整数 <br />%e    浮点数、e-记数法<br />%E    浮点数、E-记数法<br />%f    浮点数、十进制记数法  <br />%g    根据数值不同自动选择％f或％e．<br />%G    根据数值不同自动选择％f或％e.<br />%i 有符号十进制数（与％d相同）<br />%o    无符号八进制整数<br />%p    指针    <br />%s    字符串<br />%u    无符号十进制整数<br />%x    使用十六进制数字0f的无符号十六进制整数 <br />%X    使用十六进制数字0f的无符号十六进制整数<br />%%    打印一个百分号 使用printf ()函数 printf()的基本形式： printf(&quot;格式控制字符串&quot;，变量列表);
+http://zhidao.baidu.com/question/262038772.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/41706827.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/112786041.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/18188446.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/211201199.html?qbl=relate_question_4

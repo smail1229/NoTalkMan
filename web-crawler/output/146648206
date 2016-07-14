@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言标识符的命名规则是什么?请举例说明
+C语言标识符的命名规则是什么?请举例说明
+由字母、数字、下划线组成<br />必需以字母开头。<br />不可以是C保留字<br />也不可以是C库函数名
+29
+none
+http://zhidao.baidu.com/question/146525795.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/189980160.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/24443870.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/228126565.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/15536275.html?qbl=relate_question_4

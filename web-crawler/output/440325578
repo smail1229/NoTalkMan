@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+单片机c语言的延时程序500ms
+delay(){<br />int i;<br />for(i=500;0,j;0;i&gt;j--);i--)<br />   for(j=110;<br />}<br />是什么意思;j&gt
+延时时，1毫秒time大概为125左右.0592M，延时1毫秒的循环次数也不一样;j--);j&gt根据外部晶振的不同，一般12M晶振的话用 for(j=time，这里用110，外部循环完成500毫秒延时，大概晶振为11，所以这段程序，内部循环完成1毫秒延时;0
+21
+none
+http://zhidao.baidu.com/question/130524571.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/153120407.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/119000121.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/153571221.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/122380700.html?qbl=relate_question_4

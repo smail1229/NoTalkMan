@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言函数调用传结构体疑问
+#include &lt;string.h&gt;<br /><br />typedef struct {<br />  double real, imaginary;<br />} Complex;<br /><br />Complex c1={1.2,1.5}, c2={1.0,2.0},c3;<br /><br />&#47;&#47;Complex Complex_add(Complex c1,Complex c2)<br />Complex Complex_add(Complex c1,Complex c2,Complex c3)<br />{<br /> c3.real=c1.real+c2.real;<br /> c3.imaginary=c1.imaginary+c2.imaginary;<br /> return c3;<br /><br />}<br />main()<br />{<br />  &#47;&#47穿浮扁簧壮毫憋桐铂昆;Complex_add(c1,c2);<br />  Complex_add(c1,c2,c3);<br />   printf(&quot;c3.real=%f&#92;n&quot;,c3.real);<br />   printf(&quot;c3.imaginary=%f&#92;n&quot;,c3.imaginary);<br /> <br />  return 0;<br />}<br />以上函数调用传两个参数时（用&#47;&#47;屏蔽的语句），能打印出正确的结果，但是调用函数传三个参数时，为什么打印结果全都只是0而已了呢？望高人指点其中道理。
+对啊，这里就是变量屏蔽，这Complex c1={1.2,1.5}, c2={1.0,2.0},c3;，你定义了全局变量c3，这Complex Complex_add(Complex c1,Complex c2,Complex c3)你定义了形参c3，在Complex Complex_add中，形参屏蔽了全局变量而起作用，且形参c3仅在Complex Complex_add中起作用，出了这个函数就是全局变量了，如这printf(&quot;c3.real=%f&#92;n&quot;,c3.real);<br /><br />   printf(&quot;c3.imaginary=%f&#92;n&quot;,c3.imaginary);<br />不妨试试下面的程序，就会明白了：<br />#include &lt;string.h&gt;<br />#include &lt;stdio.h&gt;<br />typedef struct {<br />  double real, imaginary;<br />} Complex;<br /><br />Complex c1={1.2,1.5}, c2={1.0,2.0},c3;<br /><br />/*Complex Complex_add(Complex c1,Complex c2)*/<br />Complex Complex_add(Complex c1,Complex c2,Complex c3)<br />{<br /> c3.real=c1.real+c2.real;<br /> c3.imaginary=c1.imaginary+c2.imaginary;<br /> printf(&quot;c3.real=%f&#92;n&quot;,c3.real);<br /> printf(&quot;c3.imaginary=%f&#92;n&quot;,c3.imaginary);/*这里输出形参c3，就不是0了*/<br /><br /> 穿浮扁簧壮毫憋桐铂昆return c3;<br /><br />}<br />main()<br />{<br />  /*Complex_add(c1,c2);*/<br />  Complex_add(c1,c2,c3);<br />   printf(&quot;c3.real=%f&#92;n&quot;,c3.real);<br />   printf(&quot;c3.imaginary=%f&#92;n&quot;,c3.imaginary);<br /><br />  return 0;}<br />希望对你有用！
+3
+none
+http://zhidao.baidu.com/question/407574630.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/590886056.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/1237911913182997179.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/413713797.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1817563926920409388.html?qbl=relate_question_4

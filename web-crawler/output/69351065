@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关键字 谁给解释下
+auto break case char const continue default<br />do  double  else  enum  extern  float  for <br />goto  if  int  long  register  return  short <br />signed  static  sizof  struct  switch  typedef  union <br />unsigned  void  volatile while  每个的意思<br />比如int 整数型表示改函数的返回是整数型数据 <br />详细点 向for 是函数循环 他的表示在进行循环之前进行判断
+子程序返回语句（可以带参数：声明联合数据类型 <br />const ：跳出当前循环 <br />else :用于开关语句 <br />case，也看不带参数） <br />union：声明长整型变量或函数 <br />switch ，声明无类型指针（基本上就这三个作用） <br />default：结束当前循环：声明函数无返回值或无参数：声明浮点型变量或函数 <br />short ：声明短整型变量或函数 <br />unsigned：开关语句中的“其他”分支 <br />goto：条件语句否定分支（与 if 连用） <br />long ：声明积存器变量 <br />typedef：一种循环语句(可意会不可言传） <br />signed：声明结构体变量或函数 <br />break：声明字符型变量或函数 <br />extern：循环语句的循环体 <br />while ：声明枚举类型 <br />register：说明变量在程序执行中可被隐含地改变 <br />do ：声明只读变量 <br />float：声明变量是在其他文件正声明（也可以看做是引用变量） <br />return ：声明自动变量 一般不使用 <br />double ：声明无符号类型变量或函数 <br />continue：开关语句分支 <br />enum ：计算数据类型长度 <br />volatile：生命有符号类型变量或函数 <br />void auto ： 声明整型变量或函数 <br />struct：用以给数据类型取别名（当然还有其他作用） <br />char ：循环语句的循环条件 <br />static ，开始下一轮循环 <br />for：无条件跳转语句 <br />sizeof：声明双精度变量或函数 <br />int
+9
+none
+http://zhidao.baidu.com/question/336943285.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/156193989.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/47652368.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/420143221.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/14322007.html?qbl=relate_question_4

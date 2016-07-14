@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言已知int a=1，b=3，则a^b的值为
+none
+^表示二进制按位异或<br />1：00000001<br />3：00000011<br />=：00000010<br />所以a^b=2
+2
+none
+http://zhidao.baidu.com/question/132092505.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/623366795186797044.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/982237981358151899.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/454522128835733925.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/541979942.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中x+a%3*(int)(x+y)%2&#47;4 x=2.5 a=7 y=4.7
+请问一下 这个的详细算法怎么算的 谢谢了哈 比如2&#47;4是什么意思
+(int)(x+y) -- 括号里的先做，(int)(2.5+4.7)=(int)(7.2)=7.<br />式子变  x + a%3 *7 %2 /4；<br />a%3 -- a=7; 7除3 取余数，余数得1，<br />式子变 x + 1 *7 %2 /4；<br />1 *7 乘法先做 得 7<br />式子变 x + 7 %2 /4；<br />7 %2 -- 除2 取余数运算，余数得1，<br />式子变 x + 1 /4；<br />1 /4 整数除整数的除法先做，商得 0<br />式子变 x + 0;<br />实型数加法，2.5 + 0, 得 2.5<br />答案 2.5<br />---------------------------珐恭粹枷诔磺达委惮莲-----<br />2/4 -- 整数2除以整数4，得整数0，但这里前面还有运算符%,所以你不能先做2除以4的整数除法！<br />% 是 整数与整数的 除法 求余数 运算，得余数，（略去商）<br />2.0/4.0 -- 浮点数除以浮点数，得浮点数的商 0.5
+118
+none
+http://zhidao.baidu.com/question/226567806.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/148203146.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/210104273.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/214769572.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/215688777.html?qbl=relate_question_4

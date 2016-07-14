@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言选择题，D选项哪里错了呢？
+none
+那么返回的就是负数, b ) == 0 )<br /> 同理，这样直观，如果那个题目是判断是否小于，要学会写出高质量的代码，代码随便写，返回0<br />如果前者大于后者。<br /><br />   代码写好后; 0 )<br />说白了; 0 )<br />如果是判断是否相，我觉得就应该采用D的写法，才会发现不足，没有谁规定代码就应该一定要怎么样，建议多动手编程, b ) &lt，动手了，虽然还是一样：课本的习题没必要太在意，不就是这样写，B的写法是简洁的，可以简化。<br />你这么想, b ) &gt，不要总是拿笔写做程序，出题的人的编写代码的能力我认为不咋地，那么判断是否大于，但是这样做了之后，<br />如果是相等，但是可能和原来的理解和最终的代码是不一样的。朋友，我考过计算机二级，当然，是不是该这样写：if(  strcmp( a：if(  strcmp( a，只要能达到目的，才会领会代码的内在意义，那么返回的就是正数<br />如果后前者小于后者，0就是一个中间值，就是和0比较。<br />另外说一句。<br />那是不是应该这样写。<br />你的那个题目，当然，那个函数有三个返回值其实没有错：if(  strcmp( a
+0
+none
+http://zhidao.baidu.com/question/1860829250144494107.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/559969865572317004.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/80607085.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/183784731.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/1946507787147706388.html?qbl=relate_question_4

@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言 for循环执行步骤
+none
+只管下一个分号句，就是{}内的所有，不是程序结尾，有{}的话。for循环是自信完循环体就下一次循环for循环下没有{}的话
+8
+简单的for循环程序如下:<br />for(int i=0;i&lt;20;i++)<br />{<br />    循环体<br /><br />}<br /><br />执行步骤是:<br />1、i=0  初始化初值；<br />2、 进行条件判断i是否&lt;20，如果条件为真，则继续执行；<br />3、执行循环体的代码；<br />4、i++ 变量i自增一次；<br />5、回到第2步,一直循环，直到第2步条件为假时, 退出循环，结束。
+http://zhidao.baidu.com/question/1795760747313103467.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/140624533.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/23940068.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/520688906895304885.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/111236486.html?qbl=relate_question_4

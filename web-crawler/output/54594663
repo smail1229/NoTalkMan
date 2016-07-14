@@ -1,0 +1,7 @@
+电脑/网络 编程语言 C/C++ 
+求一个C语言程序题：编写一个函数SWAP（）实现交换两个数位置的功能
+none
+fail
+1
+#include &lt;stdio.h&gt;<br />void swap(int *p, int *q);&#47;&#47;用传地址的方法交换<br />void main()<br />{<br />int i, j;<br />scanf(&quot;%d%d&quot;, &i, &j);&#47;&#47;从键盘输入两个交换的数<br />swap(&i, &j);&#47;&#47;传入i，j的地址<br />printf(&quot;i = %d, j = %d&#92;n&quot;, i, j);&#47;&#47;输出交换后的两个值<br />}<br />void swap(int *p, int *q)<br />{<br />int temp;&#47;&#47;定义临时变量 存放中间值<br />temp = *p;<br />*p = *q;<br />*q = temp;<br />}<br />注意：不能直接写void swap(int i, int j);<br />因为那只是临时变量，函数调用完后，便释放空间，两个值并没有交换。
+fail

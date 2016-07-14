@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言中数字后面带个U是什么意思
+none
+表示这是一个无符号数，即unsigned类型的数。
+17
+<p>数字后面带个U是表示无符号类型的数据。U是unsigned的首字母。如：</p><pre t="code" l="cpp">unsigned&nbsp;int&nbsp;a&nbsp;=&nbsp;32,&nbsp;b;&nbsp;&nbsp;<br />b&nbsp;=&nbsp;32&nbsp;+&nbsp;12U;&nbsp;&nbsp;&nbsp;//&nbsp;表示12是一个无符号类型的数据。</pre><p>在数据后加U通常是为了指明常量的数据类型，以便与变量的数据类型保持一致或保证数据运算的正确性。</p>
+http://zhidao.baidu.com/question/143377678.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/196233373.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/91639094.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/489691800.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/48276627.html?qbl=relate_question_4

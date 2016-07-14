@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言 1到n的自然数中质数和
+j++)<br />   {<br />    if(i%j==0)<br />     break;<br />   else<br />    continue;<br />    else<br />     continue？<br />  如果i取5时   j最高取4    那5不是加不进去了for(i=1;j&lt。 但是百思不得其解（自学型）<br />1;i&lt;<br />   }<br />   if(i==j)<br />    sum+=i;i++)<br />  {<br />   for(j=2.其中 j小于i  如何取得  if(i==j);=n;i;<br />网上给的答案是这样的 
+   //j++)  /{&quot;i  break退出循环  那么肯定j&lt;/不是有个j++吗  j&lt;号之前的语句 执行完才++的 遇到break的不加<br />    if(i%j==0)<br />     breakfor(i=1;i&lt;<br />   }<br />   if(i==j)<br />    sum+=i;i;}&quot;i++)<br />  {<br />   for(j=2;循环里面 j&lt;j++是在与这个&quot;j&lt;/i 是不是一直循环或者 否则 j==i 退出循环也说明是素数<br />   { /<br />   else<br />    continue;=n;i 不是素数<br />    else<br />     continue;号对应的&quot
+0
+none
+http://zhidao.baidu.com/question/349821425.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/334022003.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/39950760.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/487931416389415532.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/552488487176323292.html?qbl=relate_question_4

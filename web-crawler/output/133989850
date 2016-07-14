@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言用栈计算算术表达式，求教！！
+i=i+2;&#47;break;please input the object&#47;<br />case&#39;break;i++);char ch。错误太多帮我写下;pop(&t);m&lt;top=0;break;top];i=i+2;<br />char ch;<br />for(m=0;<br />    int  top;<br />char a[max];i&lt;%d&quot;<br />void initstack(seqstack *t)<br />{t-&gt;i=i+2;%&#39;:<br />pop(&t);seqstack *t:pop(&t);max,)我自己编了一个程序总有错误;n=n+s[i-1]&#47,len;n=n+s[i-1]+s[i+1]。<br /># include &lt;i=i+2;<br />}<br />{ch=pop(&s);max;<br />gets(s);<br />len=strlen[max];<br />  for(i=0:pop(&t);m++)<br />a[m]=ch;<br />len=strlen(char s[max]):pop(&t),&#47，*。谢谢;<br />n=compute(s[len]);i++)<br />{push(&t;*&#39;stdio;s[i+1];<br />typedef  struct{<br />    datatype  data[max];int n=0;;<br />  return i;<br />switch(a[i])<br />{case&#39;n=n+s[i-1]*s[i+1];<br />printf (&quot;pop(&t);<br />initstack(&t);<br />};pop(&t);int m;<br />case&#39;}}<br />return n;<br /> }<br />char pop(seqstack *t)<br />{<br />return t-&gt;+&#39,len、;;<br />}seqstack.h&gt,a[i]),int x)<br />{<br />t-&gt;data[--t-&gt;<br />char s[max],s[i]);char a[30]题目要求用栈计算算术表达式字符串（包含+:<br />pop(&t),n);<br />}<br />void push(seqstack *t;<br />switch(s[i])<br />{case&#39;n=n+s[i-1]%s[i+1];<br /># define max 100<br />typedef char datatype;}<br />void main()<br />{int n;n&quot;&#39;<br />printf(&quot，—;len;m&lt;m++)<br />{<br />push(t,%;<br />case&#39;<br /> }<br />int compute(char s[])<br />{int i;pop(&t););pop(&t);<br />}<br />for(m=0;;<br />for(i=0;i=i+2;data[t-&gt;;top++]=x。我是新手;;<br />}<br />int strlen(char s[])<br />{ int  i;s[i];-&#39;n=n+s[i-1]-s[i+1];，谁帮我看看
+好像错误有一些的..;方便一些、SLR1,逻辑上的错误也有一些.<br /><br />可以设两个栈,一个保存数字、LR1,一个保存符号,用char型的、LR0,用int型的.<br /><br />如果想深入点去研究可以去看下编译原理的那些文法LL0我看了下你的程序
+1
+none
+http://zhidao.baidu.com/question/75098677.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/278289052.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/263279638491122245.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/111484555.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/495953158591433044.html?qbl=relate_question_4

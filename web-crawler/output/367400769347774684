@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+大神解释翻译下这个C语言程序～do...while什么意思？
+none
+看不出需要解释什么<br />do{}while 结构是先做后判断<br />do 开始<br />sum=sum+i sum在原值基础上+i<br />i++ i自增长<br />while i&lt;=10 条件判断i&gt;10就结束循环<br /> <br />若键盘输入为1<br />则sum=1+2+3+4+5++7+8+9+10<br />若输入为5<br />sum=5+6+7+8+9+10<br />若输入为10<br />sum=10<br />若输入&gt;10<br />sum=键盘输入值（循环一次就跳出）
+0
+none
+http://zhidao.baidu.com/question/555977385.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/647087734679353205.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/454952912968424005.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/710540156007593925.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/547633077.html?qbl=relate_question_4

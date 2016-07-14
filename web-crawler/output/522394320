@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+C语言关于while语句的问题
+<br />s=s*n;%d&#92;stdio，等于s往回倒走了一步题目;<br /><br />它的结果是.ld&quot，求s不大于400000时的最大值n<br />#include &quot.;<br />return 0，s=3628800,n;：s=1*2*3.，显示9，362880<br /><br />我不明白的是，10 ...*n，而却是显示10呢.h&quot;<br />long int s=1,s)，大于值400000<br />所以程序要显示s=362880这个不大于400000的值，当n=10时候;<br />}<br />printf(&quot;t%;<br />int main()<br />{<br />int n=0;=400000)<br />{<br />n=n+1。<br />那为什么n就不往回倒走一步，然后在输出s的值;<br />while(s&lt
+为n=9时;400000跳出循环，s没有大于400000，s=362880&gt，然后再循环一次，这次n=10，你所想的是人脑所执行的
+0
+none
+http://zhidao.baidu.com/question/121417969.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/103876480.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/52993652.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/62771447.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/98262499.html?qbl=relate_question_4

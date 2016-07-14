@@ -1,0 +1,11 @@
+电脑/网络 编程语言 C/C++ 
+c语言的问题 关于输出格式printf(&quot;%13.2e&quot;,123.456);
+  输出来是1,123;为什么printf(&quot.456).2e&quot.56e-001呢.23e+002而不是1234;%13
+知道%e是神马意思吗!?，可以小写e)<br />这是规定的，e后面必须是整数，指数形式，(e可以大写E!$e就是将你所要输出的数转换成科学计数法?<br />C语言要求!<br />%.2e表示保留两位有效数字：e前面必须有数!
+3
+none
+http://zhidao.baidu.com/question/126548620.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/1510232254246041780.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/320512876.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/452637784.html?qbl=relate_question_3
+http://zhidao.baidu.com/question/46082016.html?qbl=relate_question_4

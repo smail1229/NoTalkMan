@@ -1,0 +1,10 @@
+电脑/网络 编程语言 C/C++ 
+c语言里 输入时 怎么判断是字符还是数字?
+none
+fail
+0
+if(scanf(&quot;%d&quot;,&h)!=1)<br />        printf(&quot;it&#39;s not a number!&#92;n&quot;);<br />因为scanf是从缓存中读取输入的数据如果你输入的不是数字，就会返回0，如果是数字就会返回1；<br />一般人不知道scanf还有返回值，就可以看看头文件中scanf的定义了。<br />其实我还有一个更好的办法，你输入的不是数字就要他重新输入，直到输入的是数字为止，这样是最好的写法。<br />程序如下：<br />#include &lt;stdio.h&gt;<br />int main()<br />{<br />    int h;<br />    while(!scanf(&quot;%d&quot;,&h))<br />   {<br />       fflush(stdin);<br />      printf(&quot;&#92;n输入错误，请重新输入:&#92;n&quot;);<br />    }<br />}<br />其中fflush(stdin)是清理缓存，就像我上面说的scanf是从缓存取数的，
+http://zhidao.baidu.com/question/132009753.html?qbl=relate_question_0
+http://zhidao.baidu.com/question/252166774.html?qbl=relate_question_1
+http://zhidao.baidu.com/question/55053054.html?qbl=relate_question_2
+http://zhidao.baidu.com/question/40850576.html?qbl=relate_question_3
