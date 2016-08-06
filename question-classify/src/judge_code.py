@@ -2,9 +2,12 @@
 import jieba
 
 jieba.load_userdict("../config/userdict.txt")
+filter_data_path = "../config/train_question"
+filter_path = "../config/filter.txt"
+train_data_path = "../train_data/train"
 
 def ifIgnore(str):
-    file_object = open("../config/filter.txt") #无视掉像是“c语言”，还有括号引号这样的字符串
+    file_object = open(filter_path) #无视掉像是“c语言”，还有括号引号这样的字符串
     ignore = file_object.readlines()
     file_object.close()
     for tmp in ignore:
@@ -34,8 +37,8 @@ if __name__ == "__main__":
     # else:
     #     print("Code Exist")
 
-    fileIn = open("../train_data/train", 'r')
-    fileOut = open("../test_out/filterOut", "w")
+    fileIn = open(train_data_path, 'r')
+    fileOut = open(filter_data_path, "w")
     lines = fileIn.readlines()
     for i in range(0, len(lines)):
         if (i%3) == 0:

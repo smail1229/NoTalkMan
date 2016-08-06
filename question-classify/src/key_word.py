@@ -5,8 +5,9 @@ import os
 import math
 
 jieba.load_userdict("../config/userdict.txt")
-train_data_path = "../test_out/filterOut"
+train_data_path = "../config/train_question"
 jieba_out_path = "../test_out/jieba_out"
+class_out_path = "../test_out/class_out"
 
 def sort(array1, array2):   # 为idf排个序
     length = len(array1)
@@ -21,17 +22,25 @@ def sort(array1, array2):   # 为idf排个序
                 array1[i+1] = tmp1
     return array1, array2
 
+def splitQuestion(question):
+    word_vec = []
+    splitWord = jieba.cut(question, cut_all=False)
+    for singleWord in splitWord:
+        if singleWord != " " or singleWord != "\n":
+            word_vec.append(singleWord.encode('utf-8'))
+    return word_vec
 
-def getWord(fileName):     # 将文件获得分词后的数据写入
+def getWord(fileName, jieba_out_path, class_out_path):     # 将文件获得分词后的数据写入
     if os.path.exists(fileName):
         train_file= open(fileName, "r")
         jieba_out= open(jieba_out_path, "w")
+        class_out= open(class_out_path, "w")
         split_word_set = set()
         allWord = train_file.readlines()
         train_file.close()
         for i in range(0,len(allWord)):
+            word = allWord[i]
             if i%3 == 0:
-                word = allWord[i]
                 splitWord = jieba.cut(word, cut_all=False) # 用结巴分词
                 for singleWord in splitWord:
                     if singleWord != " ":   # 忽略掉空格
@@ -40,7 +49,10 @@ def getWord(fileName):     # 将文件获得分词后的数据写入
                         else:
                             jieba_out.write((singleWord+" ").encode('utf-8'))
                             split_word_set.add(singleWord.encode('utf-8'))
+            elif i%3 == 1:
+                class_out.write(word)
         jieba_out.close()
+        class_out.close()
         return split_word_set
     else:
         return split_word_set
@@ -107,7 +119,7 @@ def getLowEntropy(high_freq_word_array, high_freq_array, fileName):     # 将文
 
 
 if __name__ == "__main__":
-    allWord = getWord(train_data_path)  # 完成分词
+    allWord = getWord(train_data_path, jieba_out_path, class_out_path)  # 完成分词
     high_freq_word,high_freq = getHighFrequency(allWord, jieba_out_path) # 获得高频词
     low_entr_word, idf  = getLowEntropy(high_freq_word, high_freq, jieba_out_path)# 获得信息熵低的词
 
