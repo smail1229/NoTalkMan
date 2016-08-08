@@ -2,10 +2,12 @@
 #coding=utf-8
 from numpy import *
 from svmutil import *
-import key_word as kw
+import key_word
 import judge_code
 
 test_ques_path = "../config/test_question"
+jieba_out_path = "../test_out/jieba_out"
+class_out_path = "../test_out/class_out"
 key_out_path = "../config/keyword"
 limit = 1
 classType = ["概念", "用法", "比较", "隶属", "代码例子", "原因", "与C语言无关的事实类", "选择判断", "计算", "else"]
@@ -14,18 +16,33 @@ pClass = [0]*classNum                # 某一类问题出现的总概率
 pVect = [0]*classNum                 # 某一类问题各个特征值出现的概率
 
 def loadDataSet():                         # 构建单词向量，问题类向量，特征值向量
-    split_word_set, class_vec, split_word_vec = kw.getWord(kw.train_data_path)
-    postingList = split_word_vec    # 单词向量
-    classVec = getClassVec(class_vec)          # 问题类向量
+
+    postingList = getPostingList(jieba_out_path)    # 单词向量
+    classVec = getClassVec(class_out_path)          # 问题类向量
     keyVec = getKeyVec(key_out_path)                # 特征值向量
 
     return postingList,classVec,keyVec
 
-def getClassVec(class_vec):                     # 输入中文的类名，返回相应的lable，0到9,方便svm分类
-    classVec = []
+def getPostingList(filepath):                  #获得单词向量
+    jieba_out= open(filepath, "r")
+    word_list = jieba_out.readlines()
 
-    for i in range(0, len(class_vec)):
-        tmp_class = class_vec[i]
+    postingList=[[] for i in range(len(word_list))]
+    for i in range(0, len(word_list)):
+        word_line = word_list[i]
+        for word in word_line.split():
+            if word != "\n":   # 忽略掉空格
+                postingList[i].append(word)
+    jieba_out.close()
+    return postingList
+
+def getClassVec(filepath):                     # 获得问题类向量
+    class_out= open(filepath, "r")
+    classVec = []                                            
+    class_list = class_out.readlines()
+
+    for i in range(0, len(class_list)):
+        tmp_class = class_list[i]
         err = 1
         for j in range(0, len(classType)):
             if tmp_class == classType[j]+"\n":
@@ -35,7 +52,8 @@ def getClassVec(class_vec):                     # 输入中文的类名，返回
         if err == 1:
             print("this type not exist")
             print(i)
-    # print(len(classVec))
+    print(len(classVec))
+    class_out.close()
 
     return classVec
 
@@ -85,7 +103,6 @@ def classifyNB(vec2Classify):   # 根据概率进行判断
     p = [0]*classNum
     for i in range(0, len(p)):
         p[i] = sum(vec2Classify * pVect[i]) + log(pClass[i])
-        # print(pVect[i])
     return p.index(max(p)), p
 
 def getThresholdForSVM(prob):  # 获得朴素贝叶斯的最大概率和第二大概率的差，作为阈值
@@ -102,7 +119,7 @@ def testOneQuestion(test_ques, keyVec):
     if not judge_code.deteteTheCode(test_ques):         # 判断问题中是否有代码
         return 10, []
     else:
-        tmp_vec = kw.splitQuestion(test_ques)
+        tmp_vec = key_word.splitQuestion(test_ques)
         test_ques_vec = setOfWords2Vec(keyVec, tmp_vec)
         return classifyNB(test_ques_vec)
 
@@ -144,9 +161,13 @@ def data_testing(testpath, keyVec, svm_model):   # 测试测试集的问题
     correct = 0
     question_class_vec = [0]*((num+1)/3)
 
-    uselessSet, classVec, postingList = kw.getWord(testpath)
+    tmp_jieba_path = "../test_out/tmp_jieba"
+    tmp_class_path = "../test_out/tmp_class"
+    key_word.getWord(testpath, tmp_jieba_path, tmp_class_path)
+    postingList = getPostingList(tmp_jieba_path)
+    classVec = getClassVec(tmp_class_path)
     trainMatrix = setOfWords2Matrix(postingList, keyVec)
-    y = getClassVec(classVec)
+    y = classVec
     x = trainingDataForSVM(trainMatrix)           # 生成libsvm数据格式的测试数据
 
     low_threshold_y, low_threshold_x = [], []
@@ -192,21 +213,18 @@ def predict_question(question, keyVec, svm_model):            # 预测一个问�
     outcome, prob_array = testOneQuestion(question, keyVec)
     if outcome == 10:
         print("看不懂问题")                                     # 问题中有过多无法识别的字符
-        return "内含代码"
     else:
         threshold = getThresholdForSVM(prob_array)
         if threshold >= limit:
             print("nb: "+classType[outcome]+"\n")
-            return classType[outcome]
         else:
             tmp_vec = []
-            tmp_vec.append(kw.splitQuestion(question))
+            tmp_vec.append(key_word.splitQuestion(question))
             ques_matrix = setOfWords2Matrix(tmp_vec, keyVec)
             y = [0]
             x = trainingDataForSVM(ques_matrix)
             p_label, p_acc, p_val = svm_predict(y, x, svm_model)
             print("svm: "+classType[int(p_label[0])]+"\n")
-            return classType[int(p_label[0])]
         
 
 if __name__ == "__main__":

@@ -1,5 +1,5 @@
-/question-classify/src/*.out
 /web-crawler/src/*.pyc
+/question-classify/src/*.pyc
 /web-crawler/src/question_out
 /web-crawler/src/question.py
 /web-crawler/output

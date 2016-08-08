@@ -15,7 +15,7 @@ def ifIgnore(str):
             return False
     return True
 
-def deteteTheCode(str):               # 输入为一个中文问题，判断这个问题是否有代码
+def deteteTheCode(str):
     codeCount= 0
     allTheText = jieba.cut(str, cut_all=False)
     for stri in allTheText:
@@ -27,8 +27,8 @@ def deteteTheCode(str):               # 输入为一个中文问题，判断这�
         else:
             codeCount = 0
         if codeCount >= 5: #如果超过5个，无法回答
-            return False               # 有代码
-    return True                        # 没代码
+            return False
+    return True
 
 if __name__ == "__main__":
     # test_str = "以下C语言程序中为什么用*t=n而不用return n；或者用return *t；?"
